@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.000620762410108,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014077883679419756,
+                    "sentence": "Please send your letters toletters@independent.co.ukAndrew Grice'saccurate analysis of the current state of the two main political partieshighlights one essential difference: the party in opposition is working on a long-term strategic plan to address the nation's ills, while the government continues to take short-term action that merely makes matters worse.Starmer's five-point mission statement has drawn criticism from those who say it is light on specific policies.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017412956804037094,
+                    "sentence": "Of course it is; why would an opposition party declare its exact policies so far ahead of an election and, in so doing, provide the government with ammunition to either purloin their ideas or contrive events that would blow them out of the water?It is enough at this stage to state their vision and aspirations, and ensure that they chime with the electorate's wishes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010508636478334665,
+                    "sentence": "Prepared policies can be drawn out the bottom drawer in due course.Meanwhile, the best that Sunak can do is to parodyStarmer's five pointswith a list of likely actions- “uncontrolled immigration, reckless spending, higher debt, softer sentences … and … the right to change his mind” - that are no more than a summary of what the Tories have accomplished under Johnson and Truss.Graham PowellCirencesterThe UK must avoid its own Turnip WinterAt the height of the First World War, in the winter of 1916-17, the German population suffered massive food shortages as a result of poor weather conditions and the allied blockade.The government introduced strict rationing, and the resulting period of suffering became known as the “Turnip Winter”, because as historian GJ Meyer puts it, people “increasingly relied, for sheer survival, on one of the least appealing vegetables known to man: the humble turnip”.Today the Tory government appears to be attempting to repeat the experience for the British people; but without the excuse of a World War.Graham MustinLeedsWhen it comes to Roald Dahl, let his readers be the judgeI find myself in agreement with theQueen Consort on the subject of authorial freedom.Roald Dahl's books werewritten decades ago; his words then were presumably deemed not unacceptable by his publishers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017302593914791942,
+                    "sentence": "Someone nowadays writing language not fitting with modern sensibilities would be advised to modify it, and could choose whether or not to accept being damned in order to achieve publication.Dahl is no longer here to make that decision for himself, but teachers and parents of his potential readers can express a preference.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019251625053584576,
+                    "sentence": "It may be that enough of them fail to buy or borrow his books for his fame to lapse, but the choice will not have been forced upon them.However, if his unexpurgated work were to remain in print, his writing could stand as an example of how society's attitudes have progressed.Susan AlexanderSouth GloucestershireRank hypocrisyIt is disgusting to hear so many Tory MPs - people who aregreatly restricting our right to strike, andrestricting access to voting in elections- talking about “freedom” a year on from the Russian invasion ofUkraine.Sasha SimicLondonGammon fodderTom Peckreminds us that turnips are mostly given as food to cattle.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017430039588361979,
+                    "sentence": "Telling the public to eat turnips when food imports are in short supply rather emphasises how the Tories regard us.Geoff ForwardStirlingWhen it comes to Ukraine we should seek peace, not victoryOne year on from thestart of the war in Ukraineboth Vladimir Putin and Volodymyr Zelensky vow that victory is inevitable.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002452997025102377,
+                    "sentence": "But will any such victory justify all the lives lost and the destruction caused?The international community needs to call for an immediate end to the fighting, rather than urging towards total victory on one or the other's side.Bambos CharalambousManchester",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.009998674697021016,
+            "class_probabilities": {
+                "human": 0.990001325302979,
+                "ai": 0.009998674697021016,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.990001325302979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.009998674697021016,
+                    "human": 0.990001325302979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukAndrew Grice’saccurate analysis of the current state of the two main political partieshighlights one essential difference: the party in opposition is working on a long-term strategic plan to address the nation’s ills, while the government continues to take short-term action that merely makes matters worse.Starmer’s five-point mission statement has drawn criticism from those who say it is light on specific policies. Of course it is; why would an opposition party declare its exact policies so far ahead of an election and, in so doing, provide the government with ammunition to either purloin their ideas or contrive events that would blow them out of the water?It is enough at this stage to state their vision and aspirations, and ensure that they chime with the electorate’s wishes. Prepared policies can be drawn out the bottom drawer in due course.Meanwhile, the best that Sunak can do is to parodyStarmer’s five pointswith a list of likely actions– “uncontrolled immigration, reckless spending, higher debt, softer sentences … and … the right to change his mind” – that are no more than a summary of what the Tories have accomplished under Johnson and Truss.Graham PowellCirencesterThe UK must avoid its own Turnip WinterAt the height of the First World War, in the winter of 1916-17, the German population suffered massive food shortages as a result of poor weather conditions and the allied blockade.The government introduced strict rationing, and the resulting period of suffering became known as the “Turnip Winter”, because as historian GJ Meyer puts it, people “increasingly relied, for sheer survival, on one of the least appealing vegetables known to man: the humble turnip”.Today the Tory government appears to be attempting to repeat the experience for the British people; but without the excuse of a World War.Graham MustinLeedsWhen it comes to Roald Dahl, let his readers be the judgeI find myself in agreement with theQueen Consort on the subject of authorial freedom.Roald Dahl’s books werewritten decades ago; his words then were presumably deemed not unacceptable by his publishers. Someone nowadays writing language not fitting with modern sensibilities would be advised to modify it, and could choose whether or not to accept being damned in order to achieve publication.Dahl is no longer here to make that decision for himself, but teachers and parents of his potential readers can express a preference. It may be that enough of them fail to buy or borrow his books for his fame to lapse, but the choice will not have been forced upon them.However, if his unexpurgated work were to remain in print, his writing could stand as an example of how society's attitudes have progressed.Susan AlexanderSouth GloucestershireRank hypocrisyIt is disgusting to hear so many Tory MPs – people who aregreatly restricting our right to strike, andrestricting access to voting in elections– talking about “freedom” a year on from the Russian invasion ofUkraine.Sasha SimicLondonGammon fodderTom Peckreminds us that turnips are mostly given as food to cattle.  Telling the public to eat turnips when food imports are in short supply rather emphasises how the Tories regard us.Geoff ForwardStirlingWhen it comes to Ukraine we should seek peace, not victoryOne year on from thestart of the war in Ukraineboth Vladimir Putin and Volodymyr Zelensky vow that victory is inevitable. But will any such victory justify all the lives lost and the destruction caused?The international community needs to call for an immediate end to the fighting, rather than urging towards total victory on one or the other’s side.Bambos CharalambousManchester"
+        }
+    ]
+}

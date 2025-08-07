@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 6.71053712721914e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.630808249814436e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukIfNicola Sturgeonwants to hold a referendum, she should just go aheaddespite the Supreme Court ruling.After all, if she did, she could always argue that she was only breaking the lawin a “very specific and limited way”- something that seems to be perfectly acceptable to this Tory government.G ForwardStirlingInterest rate increasesCan someone amongst your team of excellent journalists at The Independent please explain to me and perhaps others of your readership, the current policy of the Bank of England?They seem unmoved bythe cost of living increasesthe majority of the population are struggling to cope with.I can see the need to raiseinterest rateswhen an economy is overheating, say by people spending too much using borrowed money at low rates.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.486674828920513e-05,
+                    "sentence": "However, there seems no end to rising prices in the shops, and all the utilities now at an extortionate level.Each percentage point added to interest rates will raise mortgage repayments and indirectlywill affect the cost of rental property, as landlords seek to recover their position.Surely,the increases under considerationwill only feed the recession and add further misery on us all?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.341400487348437e-05,
+                    "sentence": "It hasn't worked up to now, so why not heed Einstein's definition of madness, and stop doing the same thing and expect a different result.Graham BarlowWirralIrish home ruleIt would be naive to believe that the demands forScottish independencecould be silenced by the niceties of a legal judgement effectively ruling the decision of the Scottish parliament to hold a further referendum as “ultra vires”.That such powers are the sole reserve of Westminster and that the two nations are constitutionally - and not merely voluntarily - united since the 1707 Acts of Union was also the cry of Unionists over the bitter Irish Home Rule Crisis.Then, as now, it did not resolve the political realities of managing a partnership where one of the partners was no longer willing to continue the arrangement.In the case of Ireland, it was dealt with by using the 1918 general election as a de facto referendum and its winning Irish nationalist MPs refusing to sit any longer at Westminster.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.529999129474163e-05,
+                    "sentence": "They then initiated what became a “bloody” departure from the Union.Such a dramatic course could now be under consideration in Edinburgh.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010802282020449638,
+                    "sentence": "But as with the other secessionist disputes in Europe, notably Catalonia, such plans must resist any steps that turn it into an illegal and potentially divisive, violent showdown with awful consequences for the future of both countries.Paul DolanNorthwichTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereTeachers don't get taxpayer-funded Christmas partiesI don't know where Tom Peckgot the information that “teachers, hospital workers, civil servants and goodness knows who else all have access to small pots of public funds through which to have a quiet drink and nibble at Christmas time”.I was in teaching for a short time and my wife for 40 years.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011058684438467026,
+                    "sentence": "Never did the school use public funds for a Christmas drink, which might happen on the last day of term after the students had gone home.My experience was that I was so tired by then that I went home to sleep by about 6pm.John WrightKendal",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukIfNicola Sturgeonwants to hold a referendum, she should just go aheaddespite the Supreme Court ruling.After all, if she did, she could always argue that she was only breaking the lawin a “very specific and limited way”– something that seems to be perfectly acceptable to this Tory government.G ForwardStirlingInterest rate increasesCan someone amongst your team of excellent journalists at The Independent please explain to me and perhaps others of your readership, the current policy of the Bank of England?They seem unmoved bythe cost of living increasesthe majority of the population are struggling to cope with.I can see the need to raiseinterest rateswhen an economy is overheating, say by people spending too much using borrowed money at low rates. However, there seems no end to rising prices in the shops, and all the utilities now at an extortionate level.Each percentage point added to interest rates will raise mortgage repayments and indirectlywill affect the cost of rental property, as landlords seek to recover their position.Surely,the increases under considerationwill only feed the recession and add further misery on us all? It hasn’t worked up to now, so why not heed Einstein’s definition of madness, and stop doing the same thing and expect a different result.Graham BarlowWirralIrish home ruleIt would be naive to believe that the demands forScottish independencecould be silenced by the niceties of a legal judgement effectively ruling the decision of the Scottish parliament to hold a further referendum as “ultra vires”.That such powers are the sole reserve of Westminster and that the two nations are constitutionally – and not merely voluntarily – united since the 1707 Acts of Union was also the cry of Unionists over the bitter Irish Home Rule Crisis.Then, as now, it did not resolve the political realities of managing a partnership where one of the partners was no longer willing to continue the arrangement.In the case of Ireland, it was dealt with by using the 1918 general election as a de facto referendum and its winning Irish nationalist MPs refusing to sit any longer at Westminster. They then initiated what became a “bloody” departure from the Union.Such a dramatic course could now be under consideration in Edinburgh. But as with the other secessionist disputes in Europe, notably Catalonia, such plans must resist any steps that turn it into an illegal and potentially divisive, violent showdown with awful consequences for the future of both countries.Paul DolanNorthwichTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereTeachers don’t get taxpayer-funded Christmas partiesI don’t know where Tom Peckgot the information that “teachers, hospital workers, civil servants and goodness knows who else all have access to small pots of public funds through which to have a quiet drink and nibble at Christmas time”.I was in teaching for a short time and my wife for 40 years. Never did the school use public funds for a Christmas drink, which might happen on the last day of term after the students had gone home.My experience was that I was so tired by then that I went home to sleep by about 6pm.John WrightKendal"
+        }
+    ]
+}

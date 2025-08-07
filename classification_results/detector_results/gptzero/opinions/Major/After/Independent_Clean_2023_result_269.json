@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00012633923324756324,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.550708637107164e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukI was greatly impressed (and not only by that wonderful phrase “grim spousal duo”) bySean O'Grady's piece about GB News and the toxicity of its invective.Our concept of “free speech”is being debased byGB Newsand its ilk: if it encompasses free rein to abuse, then it degenerates into “bully speech”, and only the vilest contributors will dominate public discourse.Free speech can - paradoxically, perhaps - only exist withinuniversally applied guidelines, and is incompatible with abuse.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013914830924477428,
+                    "sentence": "The French have got it right with their mantra: “My freedom ends where yours begins.”Might Ofcom adopt that principle?Peter MillenHuddersfieldOn their kneesWhat a weak, weak prime minister we have.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017655410920269787,
+                    "sentence": "Can'tmake his mind up about HS2; creating environmental disaster with his green policy agenda; and now the Rosebank oil and gas fields disclosure, where it appears that the only people who are going to be smiling are the rich power companies.On top of all that we have Suella Braverman.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012619062908925116,
+                    "sentence": "What a shining example she is to her position.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015537464059889317,
+                    "sentence": "No ideas... just blame everyone else for her inability to do her job.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005693112616427243,
+                    "sentence": "This Conservative government has made our country a laughing stock, and at the same time has brought the Conservative Party itself to its knees.Roll on an election!Paul AtkinsBurntwoodTear the Tories out of politicsIn a speech to the American Enterprise Institute in Washington DC this week, Suella Braverman argued that the United Nations 1951 Refugee Convention should be torn up.Braverman smears desperate refugees fleeing war, catastrophic climate change and oppression as “criminals” who represent an “existential challenge to the institutions of the West”.If the “institutions of the West” are incapable of treating refugees with compassion, then they don't deserve to exist.But what criteria does Braverman think should be used to grant asylum status if she gets her way and the Refugee Convention is discarded?Braverman is arguing that “simply being gay, or a woman” in a state that oppresses gay people or women “should not by itself be enough to gain protection under international refugee laws”.Braverman is proposing that the need of a person to find refuge - often an existential need - should not be a reason for granting refugee status.Keep the Refugee Convention.Tear the Tories and all they stand for out of politics.Sasha SimicLondonBullying is a sign of weaknessIf you think about it, it's obvious that bad behaviour is very often committed from a standpoint of weakness.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001702716457657516,
+                    "sentence": "Misogynists in particular are afraid of the strength of women.That doesn't excuse their behaviour, but does perhaps help to explain it.In the case of the recent Fox and Wootton incident on GB News, the remark was misogynistic, but it was also completely irrelevant to the argument.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0026995085645467043,
+                    "sentence": "Maybe this demonstrates something on the speaker's part.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003718547523021698,
+                    "sentence": "If you disagree with someone, is it their appearance that matters?The issue of regulation of so-called free speech on news channels needs to be dealt with.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0036696228198707104,
+                    "sentence": "But let's not bestow the gift of publicity on the individuals.Susan AlexanderSouth Gloucestershire",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.015281828032010496,
+            "class_probabilities": {
+                "human": 0.9847181719679895,
+                "ai": 0.015281828032010496,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9847181719679895,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.015281828032010496,
+                    "human": 0.9847181719679895,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI was greatly impressed (and not only by that wonderful phrase “grim spousal duo”) bySean O’Grady’s piece about GB News and the toxicity of its invective.Our concept of “free speech”is being debased byGB Newsand its ilk: if it encompasses free rein to abuse, then it degenerates into “bully speech”, and only the vilest contributors will dominate public discourse.Free speech can – paradoxically, perhaps – only exist withinuniversally applied guidelines, and is incompatible with abuse. The French have got it right with their mantra: “My freedom ends where yours begins.”Might Ofcom adopt that principle?Peter MillenHuddersfieldOn their kneesWhat a weak, weak prime minister we have. Can’tmake his mind up about HS2; creating environmental disaster with his green policy agenda; and now the Rosebank oil and gas fields disclosure, where it appears that the only people who are going to be smiling are the rich power companies.On top of all that we have Suella Braverman. What a shining example she is to her position. No ideas ... just blame everyone else for her inability to do her job. This Conservative government has made our country a laughing stock, and at the same time has brought the Conservative Party itself to its knees.Roll on an election!Paul AtkinsBurntwoodTear the Tories out of politicsIn a speech to the American Enterprise Institute in Washington DC this week, Suella Braverman argued that the United Nations 1951 Refugee Convention should be torn up.Braverman smears desperate refugees fleeing war, catastrophic climate change and oppression as “criminals” who represent an “existential challenge to the institutions of the West”.If the “institutions of the West” are incapable of treating refugees with compassion, then they don’t deserve to exist.But what criteria does Braverman think should be used to grant asylum status if she gets her way and the Refugee Convention is discarded?Braverman is arguing that “simply being gay, or a woman” in a state that oppresses gay people or women “should not by itself be enough to gain protection under international refugee laws”.Braverman is proposing that the need of a person to find refuge – often an existential need – should not be a reason for granting refugee status.Keep the Refugee Convention.Tear the Tories and all they stand for out of politics.Sasha SimicLondonBullying is a sign of weaknessIf you think about it, it’s obvious that bad behaviour is very often committed from a standpoint of weakness. Misogynists in particular are afraid of the strength of women.That doesn’t excuse their behaviour, but does perhaps help to explain it.In the case of the recent Fox and Wootton incident on GB News, the remark was misogynistic, but it was also completely irrelevant to the argument. Maybe this demonstrates something on the speaker’s part. If you disagree with someone, is it their appearance that matters?The issue of regulation of so-called free speech on news channels needs to be dealt with. But let’s not bestow the gift of publicity on the individuals.Susan AlexanderSouth Gloucestershire"
+        }
+    ]
+}

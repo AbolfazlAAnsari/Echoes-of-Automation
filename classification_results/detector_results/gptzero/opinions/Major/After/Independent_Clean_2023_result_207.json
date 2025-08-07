@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.009630488231778145,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004402953200042248,
+                    "sentence": "Please send your letters toletters@independent.co.ukYears of inaction is no excuse for binning the current deadlines forpetrol and diesel carsas well as gas boilers.People are becoming more interested in buying electric cars but are put off bylack of charging facilitiesand the high purchase price.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003999343607574701,
+                    "sentence": "Both can be sorted if one wants to encourage the take-up of electric cars, but this governmenthas done littlein this respect.Likewise, modern houses in the UK are built to regulations of far lower standards than those of any other northern European country.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00240976270288229,
+                    "sentence": "If you want new houses not to use gas boilers then they should, firstly, havebetter insulation and ventilationto ensure they are not too expensive to run.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004158481489866972,
+                    "sentence": "Secondly, ground-source heat pump development should be encouraged and their installation subsidised.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0036568832583725452,
+                    "sentence": "The current air source heat pumps are a noisy second-best option.It is therefore inexcusable for the two main political parties to be talking ofwatering down green policiesthat are so important for everyone's future.Richard MatthewsNorthamptonThere's been far too much procrastination over the climate crisisI wholeheartedly agree withJohn Dillon's observationof Lord Frost; his speech highlighted the short-sightedness of this government.It is obvious that the debacle ofBrexit, Covid-19 and now, global warming will become the hallmarks of this Tory government.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006117837969213724,
+                    "sentence": "They appear to be incapable of preparing safeguards for future traumatic events affecting Britain.With the possibility of running out of water, food and along with floods, fires, droughts, rising seas and possibly wars, there is little by way of emergency planning to the government has revealed as of yet.Lord Krebs illustrated the ineffectiveness of ourcurrent emergency planning,as proffered by the National Adaptation Plan committee.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0037414669059216976,
+                    "sentence": "The essence of his criticism was that therewas little adviceon how to avoid disaster but rather an acceptance that there would be one.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007599256932735443,
+                    "sentence": "His suggestion was that the committee ought to look more stringently at resolutions of avoiding the catastrophe in the first place.Unless Britain, and other countries, act swiftly to avert and mitigate the effects of climate change there will be further disastrous consequences for everyone on Earth.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001297795242862776,
+                    "sentence": "There has been far too much procrastination for decades - we need to wake up!Keith PooleBasingstokePerhaps Nigel has done us all a favour?The unseemly Farage & Coutts debacle has divided opinion and while Nigel Farage was plainly regarded in some quarters as simply an odious little man getting his comeuppance there can be little doubt now that despite his forthright political leanings, and being an unashamed self-publicist, he has been seriouslywronged by this banking giant.Expressing forthright opinions doesn't entitle others to bandy about epithets like“hypocrite” and “obnoxious”when it comes to marmite characters of Farage's ilk.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016339003923349082,
+                    "sentence": "While people have clearly enjoyed his discomfort and the spectacle of his indignation at being de-banked, it is undeniable that his basic objections are valid.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001659402478253469,
+                    "sentence": "The resignation and declaration of culpability by chief executiveDame Alison Roseis an acknowledgement of such.With NatWest share prices now plunging and the entire banking sector quaking at the prospectof further regulationsto ensure other less high-profile individuals don't end up being roughed up by what looks like a judgmental and (until now)unaccountable banking culture, perhaps Nigel has done us all a favour?Two weeks ago, none of us knew or caredwhere Farage banked... now we all do and Coutts have ended up with so much egg on their face it is going to take a long time to wipe it all off.Steve MackinderDenver",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.039839419682113825,
+            "class_probabilities": {
+                "human": 0.9601605803178862,
+                "ai": 0.039839419682113825,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601605803178862,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039839419682113825,
+                    "human": 0.9601605803178862,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukYears of inaction is no excuse for binning the current deadlines forpetrol and diesel carsas well as gas boilers.People are becoming more interested in buying electric cars but are put off bylack of charging facilitiesand the high purchase price. Both can be sorted if one wants to encourage the take-up of electric cars, but this governmenthas done littlein this respect.Likewise, modern houses in the UK are built to regulations of far lower standards than those of any other northern European country. If you want new houses not to use gas boilers then they should, firstly, havebetter insulation and ventilationto ensure they are not too expensive to run. Secondly, ground-source heat pump development should be encouraged and their installation subsidised. The current air source heat pumps are a noisy second-best option.It is therefore inexcusable for the two main political parties to be talking ofwatering down green policiesthat are so important for everyone’s future.Richard MatthewsNorthamptonThere’s been far too much procrastination over the climate crisisI wholeheartedly agree withJohn Dillon’s observationof Lord Frost; his speech highlighted the short-sightedness of this government.It is obvious that the debacle ofBrexit, Covid-19 and now, global warming will become the hallmarks of this Tory government. They appear to be incapable of preparing safeguards for future traumatic events affecting Britain.With the possibility of running out of water, food and along with floods, fires, droughts, rising seas and possibly wars, there is little by way of emergency planning to the government has revealed as of yet.Lord Krebs illustrated the ineffectiveness of ourcurrent emergency planning,as proffered by the National Adaptation Plan committee. The essence of his criticism was that therewas little adviceon how to avoid disaster but rather an acceptance that there would be one. His suggestion was that the committee ought to look more stringently at resolutions of avoiding the catastrophe in the first place.Unless Britain, and other countries, act swiftly to avert and mitigate the effects of climate change there will be further disastrous consequences for everyone on Earth. There has been far too much procrastination for decades – we need to wake up!Keith PooleBasingstokePerhaps Nigel has done us all a favour?The unseemly Farage & Coutts debacle has divided opinion and while Nigel Farage was plainly regarded in some quarters as simply an odious little man getting his comeuppance there can be little doubt now that despite his forthright political leanings, and being an unashamed self-publicist, he has been seriouslywronged by this banking giant.Expressing forthright opinions doesn’t entitle others to bandy about epithets like“hypocrite” and “obnoxious”when it comes to marmite characters of Farage’s ilk. While people have clearly enjoyed his discomfort and the spectacle of his indignation at being de-banked, it is undeniable that his basic objections are valid. The resignation and declaration of culpability by chief executiveDame Alison Roseis an acknowledgement of such.With NatWest share prices now plunging and the entire banking sector quaking at the prospectof further regulationsto ensure other less high-profile individuals don’t end up being roughed up by what looks like a judgmental and (until now)unaccountable banking culture, perhaps Nigel has done us all a favour?Two weeks ago, none of us knew or caredwhere Farage banked. .. now we all do and Coutts have ended up with so much egg on their face it is going to take a long time to wipe it all off.Steve MackinderDenver"
+        }
+    ]
+}

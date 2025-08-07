@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 7.823762280168012e-05,
+                    "sentence": "Readers react to a guest essay about the Utah civil trial involving Ms. Paltrow.Readers react to a guest essay about the Utah civil trial involving Ms. Paltrow.To the Editor:Re “In the Utah Ski Trial, We Are All Gwynnocent” (Opinion guest essay, nytimes.com, April 1):After reading Elizabeth Spiers's guest essay about the Utah civil trial involving Gwyneth Paltrow, one might be forgiven for thinking that Ms. Paltrow was the plaintiff who filed the lawsuit.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.365180499618873e-05,
+                    "sentence": "She wasn't, of course, but then we are told she “could have settled and did not because she could afford to take the case to trial and wanted to prove her innocence,” as if there's something sinister about that.As a civil litigator for going on 45 years, I agree with Ms. Spiers that despite efforts to balance the scales, our justice system is still stacked in favor of the wealthy, but her indignation is misplaced.If an injured plaintiff has a meritorious case, there are plenty of qualified and ethical trial lawyers willing to take the case on a contingency basis, but in the meantime, insurers are forced to pay out millions of dollars to settle cases that are anything but meritorious, simply because it is cheaper to settle than go to trial.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.999772009905428e-05,
+                    "sentence": "I applaud Ms. Paltrow's willingness to ask a Utah jury for justice.Frank WeatheredCorpus Christi, TexasTo the Editor:I was mystified by Elizabeth Spiers's essay about the civil trial over Gwyneth Paltrow's skiing accident.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011253570846747607,
+                    "sentence": "Ms. Spiers argues that because Ms. Paltrow is a celebrity, she should have settled the case by giving money to someone who didn't deserve it, basically admitting to something she didn't do.Ms.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.054409747477621e-05,
+                    "sentence": "Spiers claims that the issue is that public money was spent on the lawsuit.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011360798816895112,
+                    "sentence": "But wouldn't settling the case encourage others to file bogus lawsuits against celebrities or other rich people?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010083163942908868,
+                    "sentence": "In the long run that would mean far more public dollars spent on frivolous lawsuits.Anne RettenbergSan Rafael, Calif.This article appeared in print on page A19.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.006576924694833349,
+            "class_probabilities": {
+                "human": 0.9934230753051666,
+                "ai": 0.006576924694833349,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9934230753051666,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006576924694833349,
+                    "human": 0.9934230753051666,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Readers react to a guest essay about the Utah civil trial involving Ms. Paltrow.Readers react to a guest essay about the Utah civil trial involving Ms. Paltrow.To the Editor:Re “In the Utah Ski Trial, We Are All Gwynnocent” (Opinion guest essay, nytimes.com, April 1):After reading Elizabeth Spiers’s guest essay about the Utah civil trial involving Gwyneth Paltrow, one might be forgiven for thinking that Ms. Paltrow was the plaintiff who filed the lawsuit. She wasn’t, of course, but then we are told she “could have settled and did not because she could afford to take the case to trial and wanted to prove her innocence,” as if there’s something sinister about that.As a civil litigator for going on 45 years, I agree with Ms. Spiers that despite efforts to balance the scales, our justice system is still stacked in favor of the wealthy, but her indignation is misplaced.If an injured plaintiff has a meritorious case, there are plenty of qualified and ethical trial lawyers willing to take the case on a contingency basis, but in the meantime, insurers are forced to pay out millions of dollars to settle cases that are anything but meritorious, simply because it is cheaper to settle than go to trial. I applaud Ms. Paltrow’s willingness to ask a Utah jury for justice.Frank WeatheredCorpus Christi, TexasTo the Editor:I was mystified by Elizabeth Spiers’s essay about the civil trial over Gwyneth Paltrow’s skiing accident. Ms. Spiers argues that because Ms. Paltrow is a celebrity, she should have settled the case by giving money to someone who didn’t deserve it, basically admitting to something she didn’t do.Ms. Spiers claims that the issue is that public money was spent on the lawsuit. But wouldn’t settling the case encourage others to file bogus lawsuits against celebrities or other rich people? In the long run that would mean far more public dollars spent on frivolous lawsuits.Anne RettenbergSan Rafael, Calif.This article appeared in print on page A19."
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.005233283154666424,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007156409323215485,
+                    "sentence": "Please send your letters toletters@independent.co.ukWhile I can see that some people will be rolling their eyes at the prospect ofPenny Mordaunt leading the Conservative Partybefore the next election - not least because she will be our fourth prime minister in just one election cycle - I would welcome the change.She seems to bemuch more sensiblethan many members of her party, and that includes the incumbent.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008592920377850533,
+                    "sentence": "And after all, it's not like she could do a worse job than the last few people to fill the role.Stephen BloomCanterburyHave the Tories given up?Hardly a day passes without further bad news for the Tories - mostly of their own making.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.014727981761097908,
+                    "sentence": "Are they deliberately trying to lose the coming general election?As reported in The Independent,a poll has seen voters brand Rishi Sunak “weak”: a growing number of their MPs and ministers are throwing in the towel, giving credence to the view that “even Mr Sunak's team are accepting defeat”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013786984607577324,
+                    "sentence": "It seems they've decided that the mess they've created is beyond them and to let a new incoming government try to sort it out.So why are they hanging on until October, especially as this will only increase their unpopularity?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.014455274678766727,
+                    "sentence": "Perhaps the answer is that they want to be certain of defeat!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0025045289658010006,
+                    "sentence": "Or, are they allowing time to put in place yet another leader - the sixth in eight years?Roger HindsSurreyMPs need to do the job we pay them for before taking on anotherThe challenge for MPs is the effort required tosatisfy their constituents' needs- however, it appears that many MPs have second jobs which must reduce the time and effort they dedicate to this task.Surely, given the extremes of the past few years and such an unknown future, having a second job is a distraction from their main task.MPs are elected toprovide constituents with remediesto their problems and assist in formulation of legislation with which to govern Britain.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0037104864604771137,
+                    "sentence": "They should also be an ambassador for the country and their party.In my view, MPs should give 100 per cent of their time and effort to the people of Britain and not be permitted to undertake other work - save for charity work and some other benevolent professions - for the greater good of the people.By my standards, MPs are handsomely rewarded for their time and receive generous expenses and perks which millions of hardworking people in Britain can only dream of earning.Call me old-fashioned but being an MP ought to be considered a privilege, as should the opportunity to work on behalf of the constituents and for the betterment of the people of Britain.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006136324256658554,
+                    "sentence": "But I feel that many of those in Westminster do not share that view.Keith PooleBasingstoke",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.020660391318316405,
+            "class_probabilities": {
+                "human": 0.9793396086816837,
+                "ai": 0.020660391318316405,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9793396086816837,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020660391318316405,
+                    "human": 0.9793396086816837,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukWhile I can see that some people will be rolling their eyes at the prospect ofPenny Mordaunt leading the Conservative Partybefore the next election – not least because she will be our fourth prime minister in just one election cycle – I would welcome the change.She seems to bemuch more sensiblethan many members of her party, and that includes the incumbent. And after all, it’s not like she could do a worse job than the last few people to fill the role.Stephen BloomCanterburyHave the Tories given up?Hardly a day passes without further bad news for the Tories – mostly of their own making. Are they deliberately trying to lose the coming general election?As reported in The Independent,a poll has seen voters brand Rishi Sunak “weak”: a growing number of their MPs and ministers are throwing in the towel, giving credence to the view that “even Mr Sunak’s team are accepting defeat”. It seems they’ve decided that the mess they’ve created is beyond them and to let a new incoming government try to sort it out.So why are they hanging on until October, especially as this will only increase their unpopularity? Perhaps the answer is that they want to be certain of defeat! Or, are they allowing time to put in place yet another leader – the sixth in eight years?Roger HindsSurreyMPs need to do the job we pay them for before taking on anotherThe challenge for MPs is the effort required tosatisfy their constituents’ needs– however, it appears that many MPs have second jobs which must reduce the time and effort they dedicate to this task.Surely, given the extremes of the past few years and such an unknown future, having a second job is a distraction from their main task.MPs are elected toprovide constituents with remediesto their problems and assist in formulation of legislation with which to govern Britain. They should also be an ambassador for the country and their party.In my view, MPs should give 100 per cent of their time and effort to the people of Britain and not be permitted to undertake other work – save for charity work and some other benevolent professions – for the greater good of the people.By my standards, MPs are handsomely rewarded for their time and receive generous expenses and perks which millions of hardworking people in Britain can only dream of earning.Call me old-fashioned but being an MP ought to be considered a privilege, as should the opportunity to work on behalf of the constituents and for the betterment of the people of Britain. But I feel that many of those in Westminster do not share that view.Keith PooleBasingstoke"
+        }
+    ]
+}

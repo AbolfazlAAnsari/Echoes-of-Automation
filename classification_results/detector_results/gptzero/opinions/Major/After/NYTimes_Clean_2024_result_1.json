@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00765876192599535,
+                    "sentence": "And why your anxiety is not unfounded.Even though traditional indicators showsubstantial growth, American voters don'tfeel goodabout the economy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011571347713470459,
+                    "sentence": "The mismatch has spurred a “vibes-cession” debate in the media: Is the bad economy just in our heads?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.026924218982458115,
+                    "sentence": "The Opinion columnist Tressie McMillan Cottom doesn't think so.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.015026111155748367,
+                    "sentence": "In this audio essay, she explains what's missing from the “vibes-cession” story and how a better narrative could both reckon with Americans' economic anxieties and offer a path forward.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011535785160958767,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01363788265734911,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007336157839745283,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,X (@NYTOpinion)andInstagram.This episode of “The Opinions” was produced by Kristina Samulewski.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004489651881158352,
+                    "sentence": "It was edited by Alison Bruzek with help from Kaari Pitkin.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0078808618709445,
+                    "sentence": "Mixing by Sonia Herrero.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006662361789494753,
+                    "sentence": "Original music by Isaac Jones and Efim Shapiro.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009213846176862717,
+                    "sentence": "Fact-checking by Mary Marge Locker and Kate Sinclair.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006269821431487799,
+                    "sentence": "Special thanks to Isaac Jones and Derek Arthur.PHOTO: (PHOTOGRAPH BY Illustration by The New York Times; photograph by Henrik Sorensen/Getty Images FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.037526171686261885,
+            "class_probabilities": {
+                "human": 0.9624738283137382,
+                "ai": 0.037526171686261885,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9624738283137382,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.037526171686261885,
+                    "human": 0.9624738283137382,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "And why your anxiety is not unfounded.Even though traditional indicators showsubstantial growth, American voters don’tfeel goodabout the economy. The mismatch has spurred a “vibes-cession” debate in the media: Is the bad economy just in our heads? The Opinion columnist Tressie McMillan Cottom doesn’t think so. In this audio essay, she explains what’s missing from the “vibes-cession” story and how a better narrative could both reckon with Americans’ economic anxieties and offer a path forward.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,X (@NYTOpinion)andInstagram.This episode of “The Opinions” was produced by Kristina Samulewski. It was edited by Alison Bruzek with help from Kaari Pitkin. Mixing by Sonia Herrero. Original music by Isaac Jones and Efim Shapiro. Fact-checking by Mary Marge Locker and Kate Sinclair. Special thanks to Isaac Jones and Derek Arthur.PHOTO:  (PHOTOGRAPH BY Illustration by The New York Times; photograph by Henrik Sorensen/Getty Images FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

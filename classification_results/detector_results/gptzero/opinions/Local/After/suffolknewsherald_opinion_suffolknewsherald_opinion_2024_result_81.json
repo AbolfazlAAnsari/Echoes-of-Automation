@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 5.223281550570391e-05,
+                    "sentence": "Published 4:30 pm Tuesday, February 6, 2024BySuffolk News-Herald Editorial BoardThis Sunday, when the National Football League (NFL) kicks off its championship game between the Kansas City Chiefs and San Francisco 49ers in Las Vegas, most will be tuning in to cheer for one team or the other; some will be looking for the multi-million dollar commercials that have become synonymous with the game, some waiting to see Usher perform at halftime, and yes, some will be looking to catch a glimpse of mega-star Taylor Swift cheering the Chiefs and current boyfriend Travis Kelce.However, a smaller segment should be tuning in with pride, watching for the play of Chiefs number 48, Cole Christiansen.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.8311950851930305e-05,
+                    "sentence": "Christiansen is, after all, a homegrown Suffolk product.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.8387530114268884e-05,
+                    "sentence": "Christiansen, who graduated from Nansemond-Suffolk Academy, had a stellar college career at Army.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.9756541304523125e-05,
+                    "sentence": "Then, thanks to a change in legislation, he was able to pursue a career in the NFL before fulfilling his military obligation that went along with his attendance at the service academy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.5568110838066787e-05,
+                    "sentence": "We spoke with Christiansen a couple of days after winning the AFC Championship game and punching their tickets to the championship game, and to say he is grateful and excited is an understatement.Making it onto an NFL active roster is no small feat.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.696847362443805e-05,
+                    "sentence": "Only approximately 1,700 active players are in the league, and of those, only approximately 30 hail from the state of Virginia.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.727446740726009e-05,
+                    "sentence": "In fact, of the seven Hampton Roads cities, only four are represented, and Suffolk is one of them, thanks to Christiansen.He is only one of two players from Virginia on either of the team's active Super Bowl rosters.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.940950647229329e-05,
+                    "sentence": "The other is Oren Burks from Lorton, who ironically also wears number 48 for the 49ers.On top of that, Christiansen has a chance to make history with his teammates and become the first repeat champions since Tom Brady and the New England Patriots last went back-to-back during the 2003-2004 season.Only seven teams have ever won back-to-back Super Bowls ᅳ a feat that has only happened eight times in NFL history.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.8969134092330933,
+                    "sentence": "The teams are the Green Bay Packers, Miami Dolphins, Pittsburgh Steelers (twice), San Francisco 49ers, Dallas Cowboys, Denver Broncos, and the New England Patriots.You may not be a fan of the Chiefs or even enjoy the sport, but we think everyone can enjoy the success of one of Suffolk's own.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9692471027374268,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.953790545463562,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 1.155233377079189e-05
+                }
+            ],
+            "completely_generated_prob": 0.2425855513307985,
+            "class_probabilities": {
+                "human": 0.7574144486692015,
+                "ai": 0.2425855513307985,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.7574144486692015,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.2425855513307985,
+                    "human": 0.7574144486692015,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 4:30 pm Tuesday, February 6, 2024BySuffolk News-Herald Editorial BoardThis Sunday, when the National Football League (NFL) kicks off its championship game between the Kansas City Chiefs and San Francisco 49ers in Las Vegas, most will be tuning in to cheer for one team or the other; some will be looking for the multi-million dollar commercials that have become synonymous with the game, some waiting to see Usher perform at halftime, and yes, some will be looking to catch a glimpse of mega-star Taylor Swift cheering the Chiefs and current boyfriend Travis Kelce.However, a smaller segment should be tuning in with pride, watching for the play of Chiefs number 48, Cole Christiansen. Christiansen is, after all, a homegrown Suffolk product. Christiansen, who graduated from Nansemond-Suffolk Academy, had a stellar college career at Army. Then, thanks to a change in legislation, he was able to pursue a career in the NFL before fulfilling his military obligation that went along with his attendance at the service academy. We spoke with Christiansen a couple of days after winning the AFC Championship game and punching their tickets to the championship game, and to say he is grateful and excited is an understatement.Making it onto an NFL active roster is no small feat. Only approximately 1,700 active players are in the league, and of those, only approximately 30 hail from the state of Virginia. In fact, of the seven Hampton Roads cities, only four are represented, and Suffolk is one of them, thanks to Christiansen.He is only one of two players from Virginia on either of the team’s active Super Bowl rosters. The other is Oren Burks from Lorton, who ironically also wears number 48 for the 49ers.On top of that, Christiansen has a chance to make history with his teammates and become the first repeat champions since Tom Brady and the New England Patriots last went back-to-back during the 2003-2004 season.Only seven teams have ever won back-to-back Super Bowls — a feat that has only happened eight times in NFL history. The teams are the Green Bay Packers, Miami Dolphins, Pittsburgh Steelers (twice), San Francisco 49ers, Dallas Cowboys, Denver Broncos, and the New England Patriots.You may not be a fan of the Chiefs or even enjoy the sport, but we think everyone can enjoy the success of one of Suffolk’s own.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

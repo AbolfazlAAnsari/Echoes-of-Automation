@@ -1,0 +1,100 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 9.875754039967433e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.854491559555754e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukBy using his past legal expertise from when he was director of public prosecutions (2008), SirKeir Starmerhas pulled a blinder by seeking legal advice on dealing withimmigrationalready; certainly as a response to the Conservatives' latest dose of right-wing patriotism designed to appeal to the Liz Truss and Suella Braverman sect in his party.Whereas Sir Keir has the legality, the country and the economy at the heart of his plans, it is all too clear that Rishi Sunak is yet again being held back by certain factions in his party.Geoffrey BrookingHampshireWho do our politicians think they're fooling?Every time you publish an article revealing the deplorable state of one or another department of state in England - for exampletoday's shocking report on our prisons- you (entirely properly) try to “balance” your critical report with a response from a government spokesperson.The mind-bending self-congratulation and lack of any semblance of an understanding of the reality of the situation that seems invariably to characterise their responses is usually the most damning feature of your article.Who on earth do they think they are fooling?D Maughan BrownYorkGood will to all men?If only the “goodwill to all mankind”Christmascheer could be bottled up and released into the drinking water for the other 364 days of the year.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018663820810616016,
+                    "sentence": "Humanity is amply capable of the kindness and care so much in evidence this time of year.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008190812077373266,
+                    "sentence": "Our common new year's resolution could be to insinuate the Christmas spirit into every day of our, and others', lives.Dr Joseph TingAddress suppliedThe sooner the world goes vegan, the betterI read your article aboutducks being cruelly abused.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009150903788395226,
+                    "sentence": "I am glad I am vegan and find it horrific and extremely sad the way billions of animals, birds, fish etc are treated before they are then cruelly killed for human consumption.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000837329775094986,
+                    "sentence": "The sooner the world goes vegan, the better.Al ReidBarrow",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 6,
+                    "completely_generated_prob": 1.474742012248794e-05
+                }
+            ],
+            "completely_generated_prob": 0.009998674697021016,
+            "class_probabilities": {
+                "human": 0.990001325302979,
+                "ai": 0.009998674697021016,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.990001325302979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.009998674697021016,
+                    "human": 0.990001325302979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukBy using his past legal expertise from when he was director of public prosecutions (2008), SirKeir Starmerhas pulled a blinder by seeking legal advice on dealing withimmigrationalready; certainly as a response to the Conservatives’ latest dose of right-wing patriotism designed to appeal to the Liz Truss and Suella Braverman sect in his party.Whereas Sir Keir has the legality, the country and the economy at the heart of his plans, it is all too clear that Rishi Sunak is yet again being held back by certain factions in his party.Geoffrey BrookingHampshireWho do our politicians think they’re fooling?Every time you publish an article revealing the deplorable state of one or another department of state in England – for exampletoday’s shocking report on our prisons– you (entirely properly) try to “balance” your critical report with a response from a government spokesperson.The mind-bending self-congratulation and lack of any semblance of an understanding of the reality of the situation that seems invariably to characterise their responses is usually the most damning feature of your article.Who on earth do they think they are fooling?D Maughan BrownYorkGood will to all men?If only the “goodwill to all mankind”Christmascheer could be bottled up and released into the drinking water for the other 364 days of the year. Humanity is amply capable of the kindness and care so much in evidence this time of year. Our common new year’s resolution could be to insinuate the Christmas spirit into every day of our, and others’, lives.Dr Joseph TingAddress suppliedThe sooner the world goes vegan, the betterI read your article aboutducks being cruelly abused.  I am glad I am vegan and find it horrific and extremely sad the way billions of animals, birds, fish etc are treated before they are then cruelly killed for human consumption. The sooner the world goes vegan, the better.Al ReidBarrow"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 2.328502705495339e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.485520781192463e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukWhy can't theKing's birthday honours listrecognise individuals who have given exceptional outstanding service to the arts, science and community or charities?Every season these lists are trotted out with the usual famous, well-connected recipients taking their turn and getting their “top end” gongs, while unsung heroes from the lower orders get the lesser accolades.Being given a peerage seems to have become a rite of passage for the upper echelons of footballers, fashionistas, showbiz TV presenters and civil service mandarins, but there isn't a cat in hell's chance of being a “Sir” if you've been selflessly feeding thousands of destitute people from a foodbank.We've seen the ludicroushonours list Boris Johnson conjured up, and inevitably Liz Truss's comedic list will have teeth gnashing and cries of disbelief.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.486489731585607e-05,
+                    "sentence": "It all just makes me feel the “levelling up” we talk about remains nothing more than words and cheapens the value of the awards for those who really have earned them.Steve MackinderDenverAshes to ashesI am appalled to find that I cannotwatch the Asheson a free tv channel.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.47915556631051e-05,
+                    "sentence": "This is an international game, with England set to give Australia a run for their money.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.224218618124723e-05,
+                    "sentence": "I would have to pay £21 per month for a minimum of six months.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003517218865454197,
+                    "sentence": "As a pensioner, I can't afford this.I note that BBC and ITV will be covering women's football, but what of the Rugby World Cup?Julia ColcloughBexhillWill Boris be the final straw?It is to be hoped thatBoris Johnson's (partially) voluntaryremoval from parliamentwill be a significant nail in the coffin of Tory government in the UK.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00044885699753649533,
+                    "sentence": "In the past 13 years, the Tories have given us austerity and Brexit, and both have left the poorest members of society worse off.The tragedy of that miserable fact is that many of the victims were conned into voting against their own interests.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003246491542086005,
+                    "sentence": "One hopes that the electorate is now aware that it has been ripped off and will vote the Tories out of office.Neil BairdAddress suppliedPlease, enough of BorisCould we pleasestop talking about Boris Johnson?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003589823900256306,
+                    "sentence": "I admit to voting for him to obtain Brexit.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004668764304369688,
+                    "sentence": "However, he is not worthy of being a prime minister and I would never vote for him again.I wish he would shut up and go away!Irayne VamplewAddress supplied",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.006576924694833349,
+            "class_probabilities": {
+                "human": 0.9934230753051666,
+                "ai": 0.006576924694833349,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9934230753051666,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006576924694833349,
+                    "human": 0.9934230753051666,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukWhy can’t theKing’s birthday honours listrecognise individuals who have given exceptional outstanding service to the arts, science and community or charities?Every season these lists are trotted out with the usual famous, well-connected recipients taking their turn and getting their “top end” gongs, while unsung heroes from the lower orders get the lesser accolades.Being given a peerage seems to have become a rite of passage for the upper echelons of footballers, fashionistas, showbiz TV presenters and civil service mandarins, but there isn’t a cat in hell’s chance of being a “Sir” if you’ve been selflessly feeding thousands of destitute people from a foodbank.We’ve seen the ludicroushonours list Boris Johnson conjured up, and inevitably Liz Truss’s comedic list will have teeth gnashing and cries of disbelief. It all just makes me feel the “levelling up” we talk about remains nothing more than words and cheapens the value of the awards for those who really have earned them.Steve MackinderDenverAshes to ashesI am appalled to find that I cannotwatch the Asheson a free tv channel. This is an international game, with England set to give Australia a run for their money. I would have to pay £21 per month for a minimum of six months. As a pensioner, I can’t afford this.I note that BBC and ITV will be covering women’s football, but what of the Rugby World Cup?Julia ColcloughBexhillWill Boris be the final straw?It is to be hoped thatBoris Johnson’s (partially) voluntaryremoval from parliamentwill be a significant nail in the coffin of Tory government in the UK. In the past 13 years, the Tories have given us austerity and Brexit, and both have left the poorest members of society worse off.The tragedy of that miserable fact is that many of the victims were conned into voting against their own interests. One hopes that the electorate is now aware that it has been ripped off and will vote the Tories out of office.Neil BairdAddress suppliedPlease, enough of BorisCould we pleasestop talking about Boris Johnson? I admit to voting for him to obtain Brexit. However, he is not worthy of being a prime minister and I would never vote for him again.I wish he would shut up and go away!Irayne VamplewAddress supplied"
+        }
+    ]
+}

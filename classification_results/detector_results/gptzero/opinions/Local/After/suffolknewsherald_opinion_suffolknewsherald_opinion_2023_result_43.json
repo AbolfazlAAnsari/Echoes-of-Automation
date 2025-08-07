@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.005282920319586992,
+                    "sentence": "Published 3:28 pm Friday, May 19, 2023BySuffolk News-HeraldSuffolk has been blessed with terrific elected and civic leadership over the years, but few have left a mark like Joe Barlow, who died last month at age 94.Mayor Mike Duman, during Tuesday's State of the City address, aptly described Barlow as a “true gentleman and dedicated public servant” whose “honesty and integrity were beyond reproach.” What a fitting tribute at an event where the community gets a chance annually to celebrate another year of progress on many fronts, thanks in large part to those who laid the foundation for success.Joe Barlow certainly did his part to help make Suffolk the thriving city it is today.He was not even 60 years old yet when the downtown Rotary Club named him Suffolk's First Citizen in 1985, a nod to his tremendous influence even as a young leader.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008362874388694763,
+                    "sentence": "He would go on to serve the city as elected leader, representing the Chuckatuck Borough on the Suffolk City Council.Duman told the wonderful anecdote of his own, Barlow-inspired entry into politics.“My relationship with Joe Barlow is more than just performing a mayoral duty in mentioning his passing,” Duman told the State of the City crowd.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0094887875020504,
+                    "sentence": "“Joe was responsible for me becoming involved in public service.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007815203629434109,
+                    "sentence": "In 2009 he called and convinced me to serve on the economic development authority.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004521608352661133,
+                    "sentence": "That initial involvement with local government started the journey I have been on for the last 14 years.“Mr.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006976466625928879,
+                    "sentence": "Barlow was my predecessor on City Council representing the Chuckatuck Borough.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006103598978370428,
+                    "sentence": "In 2010, I heard that he was not going to seek reelection.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005060410127043724,
+                    "sentence": "Several individuals encouraged me to run and I was in the process of collecting signatures.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0030218458268791437,
+                    "sentence": "I soon heard that Mr. Barlow had already garnered his signatures and was registered.“I called Joe to confirm that he was seeking reelection and, if so, I would not run.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0034931041300296783,
+                    "sentence": "He told me that he was going to be 82 in just a few months and the reason he registered is that he was unsure if there would be a qualified candidate to take his seat on council.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005771707743406296,
+                    "sentence": "He was only running to ensure his Chuckatuck residents would have the representation they deserved.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003437077859416604,
+                    "sentence": "Once he discovered, in his opinion, that there were two qualified candidates seeking his seat he withdrew from the election.“This exemplifies the dedication and genuine concern that Joe Barlow had for his fellow citizens.”Indeed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06497950851917267,
+                    "sentence": "We join all of Suffolk in commending Barlow's life of selfless service and his lasting impact on our community.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06743163615465164,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 1.9423489116273474e-12
+                }
+            ],
+            "completely_generated_prob": 0.22788960911503017,
+            "class_probabilities": {
+                "human": 0.7720341859815306,
+                "ai": 0.22788960911503017,
+                "mixed": 7.620490343915037e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.7720341859815306,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.22788960911503017,
+                    "human": 0.7720341859815306,
+                    "mixed": 7.620490343915037e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 3:28 pm Friday, May 19, 2023BySuffolk News-HeraldSuffolk has been blessed with terrific elected and civic leadership over the years, but few have left a mark like Joe Barlow, who died last month at age 94.Mayor Mike Duman, during Tuesday’s State of the City address, aptly described Barlow as a “true gentleman and dedicated public servant” whose “honesty and integrity were beyond reproach.” What a fitting tribute at an event where the community gets a chance annually to celebrate another year of progress on many fronts, thanks in large part to those who laid the foundation for success.Joe Barlow certainly did his part to help make Suffolk the thriving city it is today.He was not even 60 years old yet when the downtown Rotary Club named him Suffolk’s First Citizen in 1985, a nod to his tremendous influence even as a young leader. He would go on to serve the city as elected leader, representing the Chuckatuck Borough on the Suffolk City Council.Duman told the wonderful anecdote of his own, Barlow-inspired entry into politics.“My relationship with Joe Barlow is more than just performing a mayoral duty in mentioning his passing,” Duman told the State of the City crowd. “Joe was responsible for me becoming involved in public service. In 2009 he called and convinced me to serve on the economic development authority. That initial involvement with local government started the journey I have been on for the last 14 years.“Mr. Barlow was my predecessor on City Council representing the Chuckatuck Borough. In 2010, I heard that he was not going to seek reelection. Several individuals encouraged me to run and I was in the process of collecting signatures. I soon heard that Mr. Barlow had already garnered his signatures and was registered.“I called Joe to confirm that he was seeking reelection and, if so, I would not run. He told me that he was going to be 82 in just a few months and the reason he registered is that he was unsure if there would be a qualified candidate to take his seat on council. He was only running to ensure his Chuckatuck residents would have the representation they deserved. Once he discovered, in his opinion, that there were two qualified candidates seeking his seat he withdrew from the election.“This exemplifies the dedication and genuine concern that Joe Barlow had for his fellow citizens.”Indeed. We join all of Suffolk in commending Barlow’s life of selfless service and his lasting impact on our community.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…"
+        }
+    ]
+}

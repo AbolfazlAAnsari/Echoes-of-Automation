@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0032766880467534065,
+                    "sentence": "Fox News medical contributor Dr. Nicole Saphier, author of the new book 'Make America Healthy Again,' joins 'Fox &amp; Friends.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020065780263394117,
+                    "sentence": "'The world is obsessed with digitalhealthtechnology.Each month a newdigital tech appor device is promoted as the latest and greatest, yet it leaves many confused.Wearablehealth tech(Apple watch, FitBits, etc.)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0031792856752872467,
+                    "sentence": "can alert us about sleeping patterns, whether we are moving enough or even if our heart is beating appropriately.DR.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0024086739867925644,
+                    "sentence": "NICOLE SAPHIER: SKIPPING BREAKFAST COULD BE THE GREATEST THING YOU DO IN 2020If an alert pops up telling you that you have been sedentary for far too long, then the motivation for increased physical activity and engagement can help prevent disease and improve overall well-being.Unless you are completely disconnected from television and social media then you have heard about some of the activity trackers and the 10,000-steps-a-day goal.Hundreds of wearable gadgets promise a healthier lifestyle, but results vary whether they work and it's easy to get lost in the jungle of digital health technology.And… if you are like me, you already are behind in the technology arena so the chances of you buying the latest and greatest device every time it is announced is slim to none.So, whether you use a digital activity tracker or a simple pedometer is 10,000 daily steps a good goal for you?The reason you should consider setting a step goal is that walking is a form of exercise that's available to most people.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0021359503734856844,
+                    "sentence": "In fact, walking and/or any other regular activity can help reduce your risk of many common health problems such as:The average American walks roughly 3,500 steps a day which is about 1.5 to 2 miles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017873002216219902,
+                    "sentence": "-- That's well below the 10,000-step goal.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011415035696700215,
+                    "sentence": "Perhaps this is why Americans lead the world in obesity and sedentary lifestyles.It's a good idea to find out how many steps a day you walk on average each day because you may be walking more (or less) than you think.Once you know how many steps a day you are walking then you can work up toward the goal of 10,000 steps by aiming to add extra steps a day every two weeks.If you are already at the 10,000-step mark, then you can still try to increase your total because adding any more regular activity to your routine is still going to be beneficial to your health.If you don't like the idea of wearable tech and have no plans to count your steps, then a good starting goal is to try to get in at least 150 minutes a week of moderate activity.The 150 minutes a week can be broken down in many ways so don't think you have to stop everything for a 2.5 hour work out.Some people try to do 30 minutes of activity five days a week while other do shorter sessions several times a day because of time restrictions.My day is typically filled with a full day of work at the hospital seeing patients coupled with caring for three children and an occasional TV appearance.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001530524343252182,
+                    "sentence": "Needless to say, there is limited time for me to get to the gym or attend a workout class.Since brisk walking fits into the “moderate activity” recommendations by the U.S. Department of Health and Human Services and Centers for Disease Control and Prevention, getting my steps in is crucial with my time limitations.Twice daily I take a walk with my colleague around the perimeter of our 120,000 square foot building, which is about 1.2 miles per day.Although that sounds like a lot, there really are only about 2,500 steps in those walks!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0068274387158453465,
+                    "sentence": "To further increase my daily steps, I park farther from the building, use the stairs and drink water constantly throughout the day (which not only keeps me hydrated but makes sure I am walking to and from the bathroom often).My routine may not be perfect, but I am conscious in my efforts to move more daily in addition to a healthy diet that involves intermittent fasting and increased raw fruits and vegetables.Here is the reality, if you don't want to be tasked to count steps or wear a tech device to remind you when you need more activity, just move more!Find forms of activity you enjoy and incorporate it into your daily routine.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0033843994606286287,
+                    "sentence": "Even if your walking pace isn't quick enough to be considered “moderate-intensity,” those steps still help prevent health problems that can occur from sitting too long and a sedentary lifestyle.While the 150 minutes per week/ 10,000 daily steps are good goals to work towards, any amount of activity beyond what you are currently doing will only benefit your health.A healthier America begins with you.FROM DR. NICOLE SAPHIER",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Fox News medical contributor Dr. Nicole Saphier, author of the new book 'Make America Healthy Again,' joins 'Fox &amp; Friends.'The world is obsessed with digitalhealthtechnology.Each month a newdigital tech appor device is promoted as the latest and greatest, yet it leaves many confused.Wearablehealth tech(Apple watch, FitBits, etc.) can alert us about sleeping patterns, whether we are moving enough or even if our heart is beating appropriately.DR. NICOLE SAPHIER: SKIPPING BREAKFAST COULD BE THE GREATEST THING YOU DO IN 2020If an alert pops up telling you that you have been sedentary for far too long, then the motivation for increased physical activity and engagement can help prevent disease and improve overall well-being.Unless you are completely disconnected from television and social media then you have heard about some of the activity trackers and the 10,000-steps-a-day goal.Hundreds of wearable gadgets promise a healthier lifestyle, but results vary whether they work and it’s easy to get lost in the jungle of digital health technology.And… if you are like me, you already are behind in the technology arena so the chances of you buying the latest and greatest device every time it is announced is slim to none.So, whether you use a digital activity tracker or a simple pedometer is 10,000 daily steps a good goal for you?The reason you should consider setting a step goal is that walking is a form of exercise that's available to most people. In fact, walking and/or any other regular activity can help reduce your risk of many common health problems such as:The average American walks roughly 3,500 steps a day which is about 1.5 to 2 miles. -- That's well below the 10,000-step goal. Perhaps this is why Americans lead the world in obesity and sedentary lifestyles.It's a good idea to find out how many steps a day you walk on average each day because you may be walking more (or less) than you think.Once you know how many steps a day you are walking then you can work up toward the goal of 10,000 steps by aiming to add extra steps a day every two weeks.If you are already at the 10,000-step mark, then you can still try to increase your total because adding any more regular activity to your routine is still going to be beneficial to your health.If you don’t like the idea of wearable tech and have no plans to count your steps, then a good starting goal is to try to get in at least 150 minutes a week of moderate activity.The 150 minutes a week can be broken down in many ways so don’t think you have to stop everything for a 2.5 hour work out.Some people try to do 30 minutes of activity five days a week while other do shorter sessions several times a day because of time restrictions.My day is typically filled with a full day of work at the hospital seeing patients coupled with caring for three children and an occasional TV appearance.  Needless to say, there is limited time for me to get to the gym or attend a workout class.Since brisk walking fits into the “moderate activity” recommendations by the U.S. Department of Health and Human Services and Centers for Disease Control and Prevention, getting my steps in is crucial with my time limitations.Twice daily I take a walk with my colleague around the perimeter of our 120,000 square foot building, which is about 1.2 miles per day.Although that sounds like a lot, there really are only about 2,500 steps in those walks!  To further increase my daily steps, I park farther from the building, use the stairs and drink water constantly throughout the day (which not only keeps me hydrated but makes sure I am walking to and from the bathroom often).My routine may not be perfect, but I am conscious in my efforts to move more daily in addition to a healthy diet that involves intermittent fasting and increased raw fruits and vegetables.Here is the reality, if you don’t want to be tasked to count steps or wear a tech device to remind you when you need more activity, just move more!Find forms of activity you enjoy and incorporate it into your daily routine.  Even if your walking pace isn't quick enough to be considered “moderate-intensity,” those steps still help prevent health problems that can occur from sitting too long and a sedentary lifestyle.While the 150 minutes per week/ 10,000 daily steps are good goals to work towards, any amount of activity beyond what you are currently doing will only benefit your health.A healthier America begins with you.FROM DR. NICOLE SAPHIER   "
+        }
+    ]
+}

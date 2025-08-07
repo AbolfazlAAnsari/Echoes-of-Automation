@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 4.4447504478739575e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.357845682534389e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe incumbent Israeli prime ministerBenjamin Netanyahu's new governmenthas put West Bank expansion at the top of its agenda.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.076206460013054e-05,
+                    "sentence": "Alternatively, it has put the spreading and increasing of conflict at the top of its agenda.I wonder if this “Putin tribute act” will attract the sanctions it deserves?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.919399750884622e-05,
+                    "sentence": "Of course not.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.960070898756385e-05,
+                    "sentence": "Western hypocrisy will continue with a blind eye turned to the heinous actions of our “allies”.Kevin MurphySouthamptonMPs have a pretty good dealLisbeth Robertson's letter about our MPs wasting food inyesterday's Letters pagespurred me on to have a look at MPs' food and drinks subsidised prices in the Commons.Costs of eating and drinking in the Commons restaurants and bars are fabulous value for money - not only for London but also out in the sticks, where I live.I then had a look at MPs' salary and expenses framework, it makes for interesting reading.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.461251955945045e-05,
+                    "sentence": "It's very lucrative being admitted to the MP club, and if you're a minister, even more so.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.098012868780643e-05,
+                    "sentence": "MPs are paid huge salaries - £84,144 is the basic one -and exceptional expenses which I could not reconcile with having a proper job.So wasting subsidised food seems even more outlandish given we the electors are footing the bill.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.7115114284679294e-05,
+                    "sentence": "Trust in our incompetent government is at the lowest ebb than ever before - and it's not hard to see why.Keith PooleBasingstokeZero impact votesGraham Powell's letter (29 December) highlights a situation which also applies to me, ie living in a rock solid Tory constituency where one's preferred vote is inevitably doomed to fail, time after time.The only way we can hope to manipulate this is to use our one tiny bit of power - our vote - is to support another party, whom we do not believe in and may actually despise, in order to loosen the iron grip of the Tories.This is so clearly disenfranchising that it is astonishing the British public put up with it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.4849057050887495e-05,
+                    "sentence": "I think it all dates back to the times of ingrained deference that we do not seem to be able to grow out of.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006725967978127301,
+                    "sentence": "Somewhere in our collective consciousness we believe ourselves to be lesser mortals than the rich and powerful.As so many of us chafe at the long wait to dump the Tories with as big a kick to their nether regions as possible, spare a thought for those of us whose little vote, under the presentfirst past the postsystem, has zero impact.Penny LittleGreat Haseley, OxfordshireA sad dayThere are, for me, 3 milestones in the life of The Independent: the end of the printed edition, the death of Robert Fisk, and nowHamish McRae's final column.The Second Law of Thermodynamics decrees that everything comes to an end, but it's still a sad day.Martin RubensteinBury",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.008764888981516596,
+            "class_probabilities": {
+                "human": 0.9912351110184834,
+                "ai": 0.008764888981516596,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9912351110184834,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.008764888981516596,
+                    "human": 0.9912351110184834,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThe incumbent Israeli prime ministerBenjamin Netanyahu’s new governmenthas put West Bank expansion at the top of its agenda.  Alternatively, it has put the spreading and increasing of conflict at the top of its agenda.I wonder if this “Putin tribute act” will attract the sanctions it deserves? Of course not. Western hypocrisy will continue with a blind eye turned to the heinous actions of our “allies”.Kevin MurphySouthamptonMPs have a pretty good dealLisbeth Robertson’s letter about our MPs wasting food inyesterday’s Letters pagespurred me on to have a look at MPs’ food and drinks subsidised prices in the Commons.Costs of eating and drinking in the Commons restaurants and bars are fabulous value for money – not only for London but also out in the sticks, where I live.I then had a look at MPs’ salary and expenses framework, it makes for interesting reading. It’s very lucrative being admitted to the MP club, and if you’re a minister, even more so. MPs are paid huge salaries – £84,144 is the basic one –and exceptional expenses which I could not reconcile with having a proper job.So wasting subsidised food seems even more outlandish given we the electors are footing the bill. Trust in our incompetent government is at the lowest ebb than ever before – and it’s not hard to see why.Keith PooleBasingstokeZero impact votesGraham Powell’s letter (29 December) highlights a situation which also applies to me, ie living in a rock solid Tory constituency where one’s preferred vote is inevitably doomed to fail, time after time.The only way we can hope to manipulate this is to use our one tiny bit of power – our vote – is to support another party, whom we do not believe in and may actually despise, in order to loosen the iron grip of the Tories.This is so clearly disenfranchising that it is astonishing the British public put up with it. I think it all dates back to the times of ingrained deference that we do not seem to be able to grow out of. Somewhere in our collective consciousness we believe ourselves to be lesser mortals than the rich and powerful.As so many of us chafe at the long wait to dump the Tories with as big a kick to their nether regions as possible, spare a thought for those of us whose little vote, under the presentfirst past the postsystem, has zero impact.Penny LittleGreat Haseley, OxfordshireA sad dayThere are, for me, 3 milestones in the life of The Independent: the end of the printed edition, the death of Robert Fisk, and nowHamish McRae’s final column.The Second Law of Thermodynamics decrees that everything comes to an end, but it’s still a sad day.Martin RubensteinBury"
+        }
+    ]
+}

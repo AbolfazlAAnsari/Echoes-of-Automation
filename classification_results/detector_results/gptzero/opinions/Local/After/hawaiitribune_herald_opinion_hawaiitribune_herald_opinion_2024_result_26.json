@@ -1,0 +1,165 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0016860897885635495,
+                    "sentence": "Monday, Sept. 02, 2024|Today's Paper|79.151°Ruling by SCOTUSmakes little senseRuling by SCOTUSmakes little senseLet me get this straight.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.0010490550193935633,
+                    "sentence": "The Supreme Court of the United States has granted immunity to a president to commit crimes as long as the crime is committed in an “official capacity.”So what is keeping Joe Biden from barging into the Supreme Court in session and threatening six of their lives if they don't allow him to have his opponent arrested for high crimes and felonies?Jeffrey FendentzMountain ViewThe fight againstdrug traffickingI am a Boy Scout from Troop 1023 in Hilo.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.14508335292339325,
+                    "sentence": "There is a requirement to email an editor for a newspaper to express our opinion about a topic we chose.I am writing to express my deep concern regarding the recent news of a Kapolei man charged with moving more than $950,000 worth of drugs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9602746367454529,
+                    "sentence": "This alarming incident underscores the urgent need for our community to address the growing problem of drug trafficking and its devastating impact on our society.Drug trafficking is not only a criminal activity, but also a significant public health issue that affects families, neighborhoods and the overall well-being of our community.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9841110706329346,
+                    "sentence": "The sheer volume of drugs involved in this case highlights the scale of the problem and the resources and coordination required to combat it effectively.It is imperative that we support our law enforcement agencies in their efforts to tackle drug trafficking.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.8068138957023621,
+                    "sentence": "This includes providing them with the necessary tools, training and funding to conduct thorough investigations and bring perpetrators to justice.Additionally, we must advocate for stronger penalties for those involved in drug trafficking to serve as a deterrent to others.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.7486574649810791,
+                    "sentence": "Moreover, addressing the root causes of drug abuse is crucial.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.7371905446052551,
+                    "sentence": "We need to invest in comprehensive drug education and prevention programs, particularly targeting our youth, to reduce the demand for illegal substances.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.41843700408935547,
+                    "sentence": "Access to quality rehabilitation and support service for those struggling with addiction is also vital to help them recover and reintegrate into society.Community involvement is essential in this fight.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.4920792579650879,
+                    "sentence": "Residents must remain vigilant and report suspicious activities to authorities.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.23316918313503265,
+                    "sentence": "Collaboration between community organizations, schools and local government can create a united front against drug trafficking and support affected individuals and families.In light of this incident, I urge all community members to come together and prioritize the fight against drug trafficking.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.2175668179988861,
+                    "sentence": "By taking a proactive and collaborative approach, we can make our neighborhoods safer and healthier for everyone.Matthew OharaHilo",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.7507531290561839e-06
+                }
+            ],
+            "completely_generated_prob": 0.5529255319148936,
+            "class_probabilities": {
+                "human": 0.27593085106382975,
+                "ai": 0.5529255319148936,
+                "mixed": 0.17114361702127656
+            },
+            "average_generated_prob": 1,
+            "predicted_class": "ai",
+            "confidence_score": 0.5529255319148936,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.5529255319148936,
+                    "human": 0.27593085106382975,
+                    "mixed": 0.17114361702127656
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {
+                    "predicted_class": "pure_ai",
+                    "result_message": "",
+                    "confidence_score": 0.9999999998,
+                    "confidence_category": "high",
+                    "class_probabilities": {
+                        "pure_ai": 0.9999999999,
+                        "ai_paraphrased": 9.999999997e-11
+                    },
+                    "confidence_scores_raw": {
+                        "identity": {
+                            "pure_ai": 0.9999999998,
+                            "ai_paraphrased": 9.999999997e-11
+                        }
+                    },
+                    "confidence_thresholds_raw": {
+                        "identity": {
+                            "pure_ai": {
+                                "reject": 0.65,
+                                "low": 0.75,
+                                "medium": 0.92
+                            },
+                            "ai_paraphrased": {
+                                "reject": 0.85,
+                                "low": 0.9,
+                                "medium": 0.95
+                            }
+                        }
+                    }
+                },
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "AI_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Monday, Sept. 02, 2024|Today's Paper|79.151°Ruling by SCOTUSmakes little senseRuling by SCOTUSmakes little senseLet me get this straight. The Supreme Court of the United States has granted immunity to a president to commit crimes as long as the crime is committed in an “official capacity.”So what is keeping Joe Biden from barging into the Supreme Court in session and threatening six of their lives if they don’t allow him to have his opponent arrested for high crimes and felonies?Jeffrey FendentzMountain ViewThe fight againstdrug traffickingI am a Boy Scout from Troop 1023 in Hilo. There is a requirement to email an editor for a newspaper to express our opinion about a topic we chose.I am writing to express my deep concern regarding the recent news of a Kapolei man charged with moving more than $950,000 worth of drugs. This alarming incident underscores the urgent need for our community to address the growing problem of drug trafficking and its devastating impact on our society.Drug trafficking is not only a criminal activity, but also a significant public health issue that affects families, neighborhoods and the overall well-being of our community. The sheer volume of drugs involved in this case highlights the scale of the problem and the resources and coordination required to combat it effectively.It is imperative that we support our law enforcement agencies in their efforts to tackle drug trafficking. This includes providing them with the necessary tools, training and funding to conduct thorough investigations and bring perpetrators to justice.Additionally, we must advocate for stronger penalties for those involved in drug trafficking to serve as a deterrent to others. Moreover, addressing the root causes of drug abuse is crucial. We need to invest in comprehensive drug education and prevention programs, particularly targeting our youth, to reduce the demand for illegal substances. Access to quality rehabilitation and support service for those struggling with addiction is also vital to help them recover and reintegrate into society.Community involvement is essential in this fight. Residents must remain vigilant and report suspicious activities to authorities. Collaboration between community organizations, schools and local government can create a united front against drug trafficking and support affected individuals and families.In light of this incident, I urge all community members to come together and prioritize the fight against drug trafficking. By taking a proactive and collaborative approach, we can make our neighborhoods safer and healthier for everyone.Matthew OharaHilo"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00014913728227838874,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Kudos to countyKudos to countyA few weeks ago, the Tribune-Herald had published my letter regarding the badly needed improvements for a one-lane bridge, the 4-Mile Creek Bridge at the Kilauea and Haihai area.In the Dec. 1 Tribune-Herald, there was a front-page story about upcoming plans to improve this location.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010860028123715892,
+                    "sentence": "Maybe the county officials read my letter, which may have planted the seed to bring this plan to fruition, or it was just a coincidence.Either way, I, along with the hundreds of motorists who traverse this decades-old traffic hazard, are grateful that this was brought to light.Of course, this project must to go through a lot of funding issues as well as environmental impact studies, but the bottom line is that our officials made it known to the public that improvement plans are in the works for this area.We also hope that our officials would let us know if there will be any plans to widen the intersections of Puainako Street at Kilauea Avenue and install badly needed left-turn lights there and at Kilauea and Kinoole as well.Mahalo, county officials.Rick LaMontagneHiloBad photo placementThank you, Hilo Lions Club and Salvation Army for preparing food to serve over 200 meals on Thanksgiving Day!The photo, “Thanksgiving meal giveaway,” that appeared in Nov. 26 Tribune-Herald should have appeared on the front page and not in the middle of the paper!This photo shows the selfless acts of kindness and generosity that are being done by our communityforour community !Katie KosoraHiloMove it to SundaysWith so many now getting their (often false) news from the internet and certain TV “news” outlets, it is refreshing to see your weekly feature entitled “Not Real News: A Look at WhatDidn'tHappen This Week.”My only concern is that this appears to be only published on Saturdays, the one day of the week when those who only read the Tribune-Herald in print form don't get to see it.It is very likely that many of those same people are exactly whodoneed to see this informative fact-checking.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013948061678092927,
+                    "sentence": "Please consider switching this feature to your Sunday print edition to reach a wider audience.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001504037354607135,
+                    "sentence": "Thank you.Julie PasqualeNaalehu",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 4,
+                    "completely_generated_prob": 0.0006564766595293492
+                }
+            ],
+            "completely_generated_prob": 0.00519844328714584,
+            "class_probabilities": {
+                "human": 0.9948015567128541,
+                "ai": 0.00519844328714584,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9948015567128541,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.00519844328714584,
+                    "human": 0.9948015567128541,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Kudos to countyKudos to countyA few weeks ago, the Tribune-Herald had published my letter regarding the badly needed improvements for a one-lane bridge, the 4-Mile Creek Bridge at the Kilauea and Haihai area.In the Dec. 1 Tribune-Herald, there was a front-page story about upcoming plans to improve this location. Maybe the county officials read my letter, which may have planted the seed to bring this plan to fruition, or it was just a coincidence.Either way, I, along with the hundreds of motorists who traverse this decades-old traffic hazard, are grateful that this was brought to light.Of course, this project must to go through a lot of funding issues as well as environmental impact studies, but the bottom line is that our officials made it known to the public that improvement plans are in the works for this area.We also hope that our officials would let us know if there will be any plans to widen the intersections of Puainako Street at Kilauea Avenue and install badly needed left-turn lights there and at Kilauea and Kinoole as well.Mahalo, county officials.Rick LaMontagneHiloBad photo placementThank you, Hilo Lions Club and Salvation Army for preparing food to serve over 200 meals on Thanksgiving Day!The photo, “Thanksgiving meal giveaway,” that appeared in Nov. 26 Tribune-Herald should have appeared on the front page and not in the middle of the paper!This photo shows the selfless acts of kindness and generosity that are being done by our communityforour community !Katie KosoraHiloMove it to SundaysWith so many now getting their (often false) news from the internet and certain TV “news” outlets, it is refreshing to see your weekly feature entitled “Not Real News: A Look at WhatDidn’tHappen This Week.”My only concern is that this appears to be only published on Saturdays, the one day of the week when those who only read the Tribune-Herald in print form don’t get to see it.It is very likely that many of those same people are exactly whodoneed to see this informative fact-checking. Please consider switching this feature to your Sunday print edition to reach a wider audience. Thank you.Julie PasqualeNaalehu"
+        }
+    ]
+}

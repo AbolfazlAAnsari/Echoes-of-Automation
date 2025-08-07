@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.001404819660820067,
+                    "sentence": "To connect with strangers, try spending one minute drawing them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001691489014774561,
+                    "sentence": "Really.Share your drawings on Instagram using the hashtag #NYTOpinionDraw.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010269314516335726,
+                    "sentence": "Please include your first name and location.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0022262628190219402,
+                    "sentence": "Times Opinion may reshare your work.Wendy MacNaughton is an artist and graphic journalist based in the San Francisco Bay Area.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001459281425923109,
+                    "sentence": "Her most recent book is “How to Say Goodbye.”The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014034907799214125,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002734249224886298,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017019042279571295,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.This article appeared in print on page SR12.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "To connect with strangers, try spending one minute drawing them. Really.Share your drawings on Instagram using the hashtag #NYTOpinionDraw. Please include your first name and location. Times Opinion may reshare your work.Wendy MacNaughton is an artist and graphic journalist based in the San Francisco Bay Area. Her most recent book is “How to Say Goodbye.”The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.This article appeared in print on page SR12."
+        }
+    ]
+}

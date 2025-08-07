@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0003844361053779721,
+                    "sentence": "Published 5:21 pm Friday, February 17, 2023BySuffolk News-Herald Editorial BoardGet enough people supportive of a worthy cause, and the politicians will respond.A new poll of Virginia voters has again fueled our optimism about long-overdue reform of the commonwealth's approach to treating mental illness, a disease that is wrecking families and disrupting society at all levels.The statewide poll from Mason-Dixon Polling & Strategy shows that 83% of respondents support a state budget proposal to invest $230 million in Virginia's behavioral health care system.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00042273226426914334,
+                    "sentence": "It is the second recent statewide poll in which strong majorities of Virginia voters supported expansion of behavioral health care access.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003037757705897093,
+                    "sentence": "A survey of Virginia voters conducted in January by co/efficient found that more than 76% of respondents wanted cooperation between the Virginia House of Delegates and the state Senate to approve a package of proposed state budget amendments to fund mental health treatment.As with the co/efficient poll, the Mason-Dixon survey found that support is strong across demographic groups, including gender (86% support among women, 82% among men), political party (96% support among Democrats, 79% among Republicans and 76% by independents), every age bracket and ethnic group, and every geographic region of Virginia.In December, Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000531892292201519,
+                    "sentence": "Glenn Youngkin unveiled “Right Help, Right Now,” a package of budget amendments totaling $230 million in new behavioral health system investments over three years.The money is sorely needed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5388885736465454,
+                    "sentence": "Mental Health America ranks Virginia 34thamong states in access to mental health care, and data from the Centers for Disease Control and Prevention shows that the share of adults receiving mental health treatment in the previous 12 months rose each year from 2019 to 2021.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5944105386734009,
+                    "sentence": "Health care providers continue to struggle with staffing shortages that affect treatment capacity.Some specifics from the Mason-Dixon poll:The governor's proposal is pending in the Virginia General Assembly, where the Democratic-controlled Senate and Republican-majority House are struggling to compromise on a two-year state budget in the final weeks of the 2023 regular legislative session.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9067255258560181,
+                    "sentence": "On mental health, if nothing else, the parties must come together for the good of Virginia.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6779438257217407,
+                    "sentence": "The voters have spoken loud and clearly.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.8750666975975037,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.8861720561981201,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 7.3961985130678e-05
+                }
+            ],
+            "completely_generated_prob": 0.15197956577266925,
+            "class_probabilities": {
+                "human": 0.8480204342273308,
+                "ai": 0.15197956577266925,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8480204342273308,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.15197956577266925,
+                    "human": 0.8480204342273308,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:21 pm Friday, February 17, 2023BySuffolk News-Herald Editorial BoardGet enough people supportive of a worthy cause, and the politicians will respond.A new poll of Virginia voters has again fueled our optimism about long-overdue reform of the commonwealth’s approach to treating mental illness, a disease that is wrecking families and disrupting society at all levels.The statewide poll from Mason-Dixon Polling & Strategy shows that 83% of respondents support a state budget proposal to invest $230 million in Virginia’s behavioral health care system. It is the second recent statewide poll in which strong majorities of Virginia voters supported expansion of behavioral health care access. A survey of Virginia voters conducted in January by co/efficient found that more than 76% of respondents wanted cooperation between the Virginia House of Delegates and the state Senate to approve a package of proposed state budget amendments to fund mental health treatment.As with the co/efficient poll, the Mason-Dixon survey found that support is strong across demographic groups, including gender (86% support among women, 82% among men), political party (96% support among Democrats, 79% among Republicans and 76% by independents), every age bracket and ethnic group, and every geographic region of Virginia.In December, Gov. Glenn Youngkin unveiled “Right Help, Right Now,” a package of budget amendments totaling $230 million in new behavioral health system investments over three years.The money is sorely needed. Mental Health America ranks Virginia 34thamong states in access to mental health care, and data from the Centers for Disease Control and Prevention shows that the share of adults receiving mental health treatment in the previous 12 months rose each year from 2019 to 2021. Health care providers continue to struggle with staffing shortages that affect treatment capacity.Some specifics from the Mason-Dixon poll:The governor’s proposal is pending in the Virginia General Assembly, where the Democratic-controlled Senate and Republican-majority House are struggling to compromise on a two-year state budget in the final weeks of the 2023 regular legislative session. On mental health, if nothing else, the parties must come together for the good of Virginia. The voters have spoken loud and clearly.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

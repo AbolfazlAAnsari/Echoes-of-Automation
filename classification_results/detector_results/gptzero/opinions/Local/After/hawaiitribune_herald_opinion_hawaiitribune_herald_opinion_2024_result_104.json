@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00011900362733285874,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°As we head into election season, the potential for misinformation is enormous and the ability of election officials to respond to artificial intelligence is limited.The new technology arrives at a time when we still haven't gotten our arms around social media threats.“The ability to react at the pace that's being developed is almost impossible,” worries Idaho Secretary of State Phil McGrane, a Republican.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011767024989239872,
+                    "sentence": "“By design, our system is meant to be slow and methodical.”While deep fakes get all the attention, the truth is the threat arrives at a time when election administration itself is shaky.Election officials caught the brunt of the mistrust.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012290185259189457,
+                    "sentence": "In some states more than half of them have quit.“I have a little PTSD, as do my coworkers,” said Nick Lima, who heads up elections in Cranston, R.I., and who ᅳ with some reservations ᅳ decided to keep the job he loves.“During election season, you know, you really feel the pressure, you feel your heartbeat increasing a bit.”Today everyone who works in the campaign infrastructure faces unending scrutiny.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.8726305365562439,
+                    "sentence": "If you thought it was easier in a red state, you are mistaken.“Just the act of standing behind you watching you work just puts you on edge,” said McGrane.“Now you start second-guessing yourself, even if you know you're doing it right.“The poll workers don't know about cyber security on voting equipment, but your poll watcher is getting asked these questions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6617280840873718,
+                    "sentence": "“Deep fakes are one level of concern, but Edward Perez, who had been director of civic integrity at Twitter and is now a board member at the OSET Institute (whose mission is to re-build public confidence in our voting system), worries about the misuse of AI to disrupt the backroom of every American precinct.“One of the most important things to understand about election administration is, it's very, very process oriented.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.8089597821235657,
+                    "sentence": "And there's a tremendous number of layers,” he said.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.4871208369731903,
+                    "sentence": "“Are we talking about voter registration?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6958079934120178,
+                    "sentence": "About the security of election administration?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6982641220092773,
+                    "sentence": "All of this technology is never deployed just in a vacuum.”The fact that the election system is a conglomeration of different rules and regulations from 50 different states with 50 different voting rules adds to the complexity.The challenge is serious as election officials scramble in this election-denying climate to staff 132,000 polling places with 775,000 volunteers.The clock is ticking to deploy the necessary defenses against threats that aren't fully understood.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 2.572739450890027e-05
+                }
+            ],
+            "completely_generated_prob": 0.11121459473988642,
+            "class_probabilities": {
+                "human": 0.8887328140676323,
+                "ai": 0.11121459473988642,
+                "mixed": 5.2591192481149283e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8887328140676323,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.11121459473988642,
+                    "human": 0.8887328140676323,
+                    "mixed": 5.2591192481149283e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°As we head into election season, the potential for misinformation is enormous and the ability of election officials to respond to artificial intelligence is limited.The new technology arrives at a time when we still haven’t gotten our arms around social media threats.“The ability to react at the pace that’s being developed is almost impossible,” worries Idaho Secretary of State Phil McGrane, a Republican. “By design, our system is meant to be slow and methodical.”While deep fakes get all the attention, the truth is the threat arrives at a time when election administration itself is shaky.Election officials caught the brunt of the mistrust. In some states more than half of them have quit.“I have a little PTSD, as do my coworkers,” said Nick Lima, who heads up elections in Cranston, R.I., and who — with some reservations — decided to keep the job he loves.“During election season, you know, you really feel the pressure, you feel your heartbeat increasing a bit.”Today everyone who works in the campaign infrastructure faces unending scrutiny. If you thought it was easier in a red state, you are mistaken.“Just the act of standing behind you watching you work just puts you on edge,” said McGrane.“Now you start second-guessing yourself, even if you know you’re doing it right.“The poll workers don’t know about cyber security on voting equipment, but your poll watcher is getting asked these questions. “Deep fakes are one level of concern, but Edward Perez, who had been director of civic integrity at Twitter and is now a board member at the OSET Institute (whose mission is to re-build public confidence in our voting system), worries about the misuse of AI to disrupt the backroom of every American precinct.“One of the most important things to understand about election administration is, it’s very, very process oriented. And there’s a tremendous number of layers,” he said. “Are we talking about voter registration? About the security of election administration? All of this technology is never deployed just in a vacuum.”The fact that the election system is a conglomeration of different rules and regulations from 50 different states with 50 different voting rules adds to the complexity.The challenge is serious as election officials scramble in this election-denying climate to staff 132,000 polling places with 775,000 volunteers.The clock is ticking to deploy the necessary defenses against threats that aren’t fully understood."
+        }
+    ]
+}

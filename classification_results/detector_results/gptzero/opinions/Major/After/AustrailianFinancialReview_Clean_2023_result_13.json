@@ -1,0 +1,82 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 4.7291665396187454e-05,
+                    "sentence": "Andrew Clark's opinion on the first Ashes Test, \"England's 'Bazball' strategy was a failed evolution of cricket\" (June 23), was a very welcome diversion from the global misery one has become accustomed to in our everyday lives, although his attempted slap-down of an innovative approach was a disappointment.There are far too many \"what ifs\" in Test cricket - indeed any form of cricket, for that matter - to predict an outcome.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.893418321851641e-05,
+                    "sentence": "However, for the very first time in ages the Poms are looking pluckier, brighter, breezier, relaxed, and prepared to give the Ashes ared-hot go.Ironically, this transformation has been introduced under the leadership of a couple of Kiwi colonials.The renewed vigour is keenly reflected in the England team's current demeanour.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.319129119627178e-05,
+                    "sentence": "The Australians are equally up to the challenge with a fighting spirit and a higher standard under captain Pat Cummins, setting the tone by example.Colourful banter has always been part of the mix.But one is left wondering just what Ollie Robinson's vulgar on-field outburst added to the result.With the second Ashes Test under way, why not cast the vulgarities aside and let the abundant cricketing talent and skills on both sides do the talking instead?And add cheer to our lives, wearied by the daily tsunami of human misery.Kaz KazimRandwick, NSW",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                }
+            ],
+            "completely_generated_prob": 0.006576924694833349,
+            "class_probabilities": {
+                "human": 0.9934230753051666,
+                "ai": 0.006576924694833349,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9934230753051666,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006576924694833349,
+                    "human": 0.9934230753051666,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Andrew Clark's opinion on the first Ashes Test, \"England's 'Bazball' strategy was a failed evolution of cricket\" (June 23), was a very welcome diversion from the global misery one has become accustomed to in our everyday lives, although his attempted slap-down of an innovative approach was a disappointment.There are far too many \"what ifs\" in Test cricket - indeed any form of cricket, for that matter - to predict an outcome. However, for the very first time in ages the Poms are looking pluckier, brighter, breezier, relaxed, and prepared to give the Ashes ared-hot go.Ironically, this transformation has been introduced under the leadership of a couple of Kiwi colonials.The renewed vigour is keenly reflected in the England team's current demeanour. The Australians are equally up to the challenge with a fighting spirit and a higher standard under captain Pat Cummins, setting the tone by example.Colourful banter has always been part of the mix.But one is left wondering just what Ollie Robinson's vulgar on-field outburst added to the result.With the second Ashes Test under way, why not cast the vulgarities aside and let the abundant cricketing talent and skills on both sides do the talking instead?And add cheer to our lives, wearied by the daily tsunami of human misery.Kaz KazimRandwick, NSW"
+        }
+    ]
+}

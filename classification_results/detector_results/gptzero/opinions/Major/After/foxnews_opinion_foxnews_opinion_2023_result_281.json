@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.003558783559128642,
+                    "sentence": "Mutual Fund and ETF data provided byRefinitiv Lipper.Fox News host Tucker Carlson provides insight on the consequences of the development of artificial intelligence and why he spoke to Elon Musk on 'Tucker Carlson Tonight.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003069986356422305,
+                    "sentence": "'TUCKER CARLSON- Is artificial intelligence dangerous to humanity?.…Continue reading…TROUBLED 'TIMES' -New York Times staffers are whining again and you won't believe why…Continue reading…GREGG JARRETT -Latest Hunter bombshell: Here's the kind of access his partners had to VP Joe Biden…Continue reading…WOKE STATE DEPARTMENT -America's State Department was seized by one political party.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002565538976341486,
+                    "sentence": "Here's how to stop them…Continue reading…DAVE RAMSEY- I've helped Americans with money problems for decades.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0031264498829841614,
+                    "sentence": "Parents should not pay their adult children's bills…Continue reading…NO MORE IRS -Hate Tax Day?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0028990767896175385,
+                    "sentence": "Here's one way the IRS won't bother us ever again…Continue reading…WHAT'S THE TRUTH?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007293327362276614,
+                    "sentence": "-Pentagon leaks reveal Biden's Ukraine war lies and what may happen next…Continue reading…WATCH: CARLOS GIMENEZ:It is about time we find out how COVID was leaked…See the video…TAIWAN IN A TIGHT SPOT -Here's why Biden needs to clarify his Taiwan policy ASAP…Continue reading…VIDEO OF THE DAY- Fox News host Sean Hannity says this week's New York City crime hearing revealed the ugly truth about House Democrats…Watch now…WORD THAT WORK -Why these seven words of sympathy after a tragedy deserve praise not scorn…Continue reading…RILEY GAINES -I was assaulted by a transgender mob and this is what I plan to do next…Continue reading…WATCH: EX-FBI AGENT NICOLE PARKER -We need law and order in this country…See the video…DR.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012334634084254503,
+                    "sentence": "MARC SIEGEL -There is a huge red flag in the rush to use ChatGPT in your doctor's office…Continue reading…CARTOON OF THE DAY -Will He or Won't He?Check out all of our political cartoons...4.15.23This article was written by Fox News staff.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.020660391318316405,
+            "class_probabilities": {
+                "human": 0.9793396086816837,
+                "ai": 0.020660391318316405,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9793396086816837,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020660391318316405,
+                    "human": 0.9793396086816837,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Mutual Fund and ETF data provided byRefinitiv Lipper.Fox News host Tucker Carlson provides insight on the consequences of the development of artificial intelligence and why he spoke to Elon Musk on 'Tucker Carlson Tonight.'TUCKER CARLSON– Is artificial intelligence dangerous to humanity?.…Continue reading…TROUBLED ‘TIMES’ –New York Times staffers are whining again and you won't believe why…Continue reading…GREGG JARRETT –Latest Hunter bombshell: Here's the kind of access his partners had to VP Joe Biden…Continue reading…WOKE STATE DEPARTMENT –America’s State Department was seized by one political party. Here’s how to stop them…Continue reading…DAVE RAMSEY– I've helped Americans with money problems for decades. Parents should not pay their adult children's bills…Continue reading…NO MORE IRS –Hate Tax Day? Here's one way the IRS won't bother us ever again…Continue reading…WHAT'S THE TRUTH? –Pentagon leaks reveal Biden's Ukraine war lies and what may happen next…Continue reading…WATCH: CARLOS GIMENEZ:It is about time we find out how COVID was leaked…See the video…TAIWAN IN A TIGHT SPOT –Here's why Biden needs to clarify his Taiwan policy ASAP…Continue reading…VIDEO OF THE DAY– Fox News host Sean Hannity says this week's New York City crime hearing revealed the ugly truth about House Democrats…Watch now…WORD THAT WORK –Why these seven words of sympathy after a tragedy deserve praise not scorn…Continue reading…RILEY GAINES –I was assaulted by a transgender mob and this is what I plan to do next…Continue reading…WATCH: EX-FBI AGENT NICOLE PARKER –We need law and order in this country…See the video…DR. MARC SIEGEL –There is a huge red flag in the rush to use ChatGPT in your doctor's office…Continue reading…CARTOON OF THE DAY –Will He or Won't He?Check out all of our political cartoons...4.15.23This article was written by Fox News staff."
+        }
+    ]
+}

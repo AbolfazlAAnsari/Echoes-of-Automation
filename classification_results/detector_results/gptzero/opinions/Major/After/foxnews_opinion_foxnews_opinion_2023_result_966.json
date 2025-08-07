@@ -1,0 +1,100 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0005957712419331074,
+                    "sentence": "Mutual Fund and ETF data provided byRefinitiv Lipper.FOX News host Sean Hannity calls out the chaos at the southern border under the Biden administration on 'Hannity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005990980425849557,
+                    "sentence": "'HANNITY- Fox News host calls out the chaos at the southern border under the Biden administration.Continue reading…BRET BAIER- What my interview with Saudi Crown Prince Mohammed bin Salman reveals about the power of democracy.Continue reading…BIDEN VS. MUSK- The full force of the government is looking at Musk, to destroy him and his companies.Continue reading…GUTFELD- Los Angeles Unified is more focused on National Coming Out Day than reading, math scores.Continue reading…'AN ABOMINATION'- Student loan repayments are back.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000590581854339689,
+                    "sentence": "Will colleges continue to get a free pass for this mess?Continue reading…RAYMOND ARROYO- Biden's dog claims another victim.Continue watching…BOOK BANNING MUST END- Teachers need important books to challenge their students to learn.Continue reading…BANNED BOOKS WEEK ISN'T REAL- Don't complain about books to librarian censors or you'll be censored, too.Continue reading…END OF AN ERA- Kevin McCarthy's run as speaker is finished.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00048737850738689303,
+                    "sentence": "Is Matt Gaetz a villain or a hero?Continue reading…CARTOON OF THE DAY -Check out all of our political cartoons…cartoon 10.06.23This article was written by Fox News staff.Get the recap of top opinion commentary and original content throughout the week.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005445226561278105,
+                    "sentence": "SubscribedYou've successfully subscribed to this newsletter!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007174215279519558,
+                    "sentence": "Mutual Fund and ETF data provided byRefinitiv Lipper.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 6,
+                    "completely_generated_prob": 1.474742012248794e-05
+                }
+            ],
+            "completely_generated_prob": 0.008958492756682587,
+            "class_probabilities": {
+                "human": 0.9910415072433174,
+                "ai": 0.008958492756682587,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9910415072433174,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.008958492756682587,
+                    "human": 0.9910415072433174,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Mutual Fund and ETF data provided byRefinitiv Lipper.FOX News host Sean Hannity calls out the chaos at the southern border under the Biden administration on 'Hannity.'HANNITY– Fox News host calls out the chaos at the southern border under the Biden administration.Continue reading…BRET BAIER– What my interview with Saudi Crown Prince Mohammed bin Salman reveals about the power of democracy.Continue reading…BIDEN VS. MUSK– The full force of the government is looking at Musk, to destroy him and his companies.Continue reading…GUTFELD– Los Angeles Unified is more focused on National Coming Out Day than reading, math scores.Continue reading…'AN ABOMINATION'– Student loan repayments are back. Will colleges continue to get a free pass for this mess?Continue reading…RAYMOND ARROYO– Biden’s dog claims another victim.Continue watching…BOOK BANNING MUST END– Teachers need important books to challenge their students to learn.Continue reading…BANNED BOOKS WEEK ISN'T REAL– Don't complain about books to librarian censors or you'll be censored, too.Continue reading…END OF AN ERA– Kevin McCarthy's run as speaker is finished. Is Matt Gaetz a villain or a hero?Continue reading…CARTOON OF THE DAY –Check out all of our political cartoons…cartoon 10.06.23This article was written by Fox News staff.Get the recap of top opinion commentary and original content throughout the week. SubscribedYou've successfully subscribed to this newsletter!  Mutual Fund and ETF data provided byRefinitiv Lipper."
+        }
+    ]
+}

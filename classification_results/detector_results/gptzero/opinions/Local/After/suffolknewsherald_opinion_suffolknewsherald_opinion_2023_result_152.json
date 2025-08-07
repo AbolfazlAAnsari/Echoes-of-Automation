@@ -1,0 +1,123 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.3264044225215912,
+                    "sentence": "Published 4:57 pm Tuesday, January 17, 2023ByLetters to the EditorEditor:American Legion Post 49 in Smithfield annually recognizes Vietnam-era military veterans in conjunction with National Vietnam Veterans Day, which falls on March 29.For 2023, the post and veterans from that era will honor the families of servicemen and women who died in the Vietnam War.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.34985023736953735,
+                    "sentence": "We will host a dinner and program on March 26th.We are asking any family member, Gold Star family or other relative of a Vietnam War casualty to join us for this event.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.6553344130516052,
+                    "sentence": "To help us plan this event we request family members interested in attending to call the post at 757 357-9239, leave your name, the number in your party and a good contact for you (phone, email, and/or mailing address).A formal invitation will be sent to you with more details.Tom MastaglioMedia and Publicity CoordinatorAmerican Legion Post 49SmithfieldOn Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.8795053362846375,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.8053425550460815,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.03396563365573288
+                }
+            ],
+            "completely_generated_prob": 0.6384677291546114,
+            "class_probabilities": {
+                "human": 0.3615322708453886,
+                "ai": 0.6384677291546114,
+                "mixed": 0
+            },
+            "average_generated_prob": 1,
+            "predicted_class": "ai",
+            "confidence_score": 0.6384677291546114,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.6384677291546114,
+                    "human": 0.3615322708453886,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {
+                    "predicted_class": "ai_paraphrased",
+                    "result_message": "We are highly confident that this text has been rewritten by AI, an AI paraphraser or AI bypasser",
+                    "confidence_score": 0.9993713317663412,
+                    "confidence_category": "high",
+                    "class_probabilities": {
+                        "pure_ai": 0.0006286682336588607,
+                        "ai_paraphrased": 0.9993713317663412
+                    },
+                    "confidence_scores_raw": {
+                        "identity": {
+                            "pure_ai": 0.0006286681336588608,
+                            "ai_paraphrased": 0.9993713317663412
+                        }
+                    },
+                    "confidence_thresholds_raw": {
+                        "identity": {
+                            "pure_ai": {
+                                "reject": 0.65,
+                                "low": 0.75,
+                                "medium": 0.92
+                            },
+                            "ai_paraphrased": {
+                                "reject": 0.85,
+                                "low": 0.9,
+                                "medium": 0.95
+                            }
+                        }
+                    }
+                },
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "AI_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 4:57 pm Tuesday, January 17, 2023ByLetters to the EditorEditor:American Legion Post 49 in Smithfield annually recognizes Vietnam-era military veterans in conjunction with National Vietnam Veterans Day, which falls on March 29.For 2023, the post and veterans from that era will honor the families of servicemen and women who died in the Vietnam War.  We will host a dinner and program on March 26th.We are asking any family member, Gold Star family or other relative of a Vietnam War casualty to join us for this event. To help us plan this event we request family members interested in attending to call the post at 757 357-9239, leave your name, the number in your party and a good contact for you (phone, email, and/or mailing address).A formal invitation will be sent to you with more details.Tom MastaglioMedia and Publicity CoordinatorAmerican Legion Post 49SmithfieldOn Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

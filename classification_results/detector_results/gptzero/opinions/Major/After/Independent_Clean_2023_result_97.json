@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0005249282112345099,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005311265704222023,
+                    "sentence": "Please send your letters toletters@independent.co.ukIn relation to unaccompaniedchildrenentering the country \"illegally\" by boatRishi Sunak, in answer to a question asked of him by former immigration minister Caroline Noakes, said he did not want to “incentivise people to bring children who wouldn't otherwise come here”, adding \"Otherwise you create an incentive for a criminalgangto bring achildwith them when they otherwise wouldn't be, and I don't think that is a good thing.”These children did notsuddenly appear on the French coastto offer themselves for transportation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00045055552618578076,
+                    "sentence": "There are long journeys, families and funding involved, and by implication a clear intent to come here.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005855412455275655,
+                    "sentence": "There is a strong incentive for some of these loving parents to give their children the shelter they need, and which perhaps they cannot also afford themselves, even if it means letting them travel by dangerous means and in the company of others.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005527115426957607,
+                    "sentence": "Is that grounds for the incarceration of children?It appears that Mr Sunak views both the children and the traffickers as criminals.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005945099401287735,
+                    "sentence": "An understandable confusion perhaps given that they are respectively commodities and traders in the same market.It seems clear that his party's policies on immigration are wrong on almost every front, and this situation is one very bad product of them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009949628729373217,
+                    "sentence": "Let us hope Westminster sees sense even if the government cannot.David NelmesNewportStarmer should be praised for Labour's attack adsI defend Sir Keir Starmer to the hilt for theposters his party has had publishedaccusing Rishi Sunak and the Conservatives of being soft on child grooming gangs, just like they remain soft on crime and soft on the causes of crime.All Sir Keir is doing ishighlighting Tory incompetenceat the Home Office for the last 13 years.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002146088983863592,
+                    "sentence": "And let's not forget that for the first seven of those years we had someone who eventually became prime minister.People are fed up with sticking plaster politics.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1541730761528015,
+                    "sentence": "People want truth and people want action.Geoffrey BrookingHampshireAttack ads smack of desperationThe latest vile stunt by Labour intended to create division and present the prime minister as some sort of weak leader has all the hallmarks of a party desperate to differentiate themselves from the Tories.They're clearlylooking for some clear political ground(which hasn't been apparent to date) but it's hard to imagine why they thought this stunt would end well for them.If this represents their first efforts to come off the fence and make a stand for socialist Labour values, then I fear they're in deep trouble.This revolting effort smacks of US gutter politics with its efforts to polarise opinion by using innuendo and crass fake news techniques to galvanise voters.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.10356248170137405,
+                    "sentence": "The Conservatives are perfectly capable of making themselves look bad without Labour lifting a finger, and this nasty little anti-Sunak slur has blown up in their faces and should be a siren warning to Labour leaders to keep it decent, clean, and truthful.Labour is better than this, and if they're really thinking of tackling the Tories by playing the Conservatives at their own disingenuous game of lies and obfuscation then I fear it won't end well.While Rishi Sunak and his ministers are furiously digging their own political graves there's absolutely no need for Labour to throw themselves in the sickening hole with them.Steve MackinderDenverAsylum seeker housing plans are terrible opticsThe Royal Family is beginning to explore the historical links of the British monarchy with the slave trade and the transatlantic slave ship companies.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3001061677932739,
+                    "sentence": "Yet, at the same time the prime minister and the home secretary plan to house asylum seekers, many of African origin, inboats and barges.Have Rishi Sunak and Suella Braverman considered the analogies which might be drawn between such asylum seeker housing plans and the country's not-so-glorious past?Bambos CharalambousManchester",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.0592640951707379,
+            "class_probabilities": {
+                "human": 0.9407359048292621,
+                "ai": 0.0592640951707379,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9407359048292621,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0592640951707379,
+                    "human": 0.9407359048292621,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukIn relation to unaccompaniedchildrenentering the country \"illegally\" by boatRishi Sunak, in answer to a question asked of him by former immigration minister Caroline Noakes, said he did not want to “incentivise people to bring children who wouldn’t otherwise come here”, adding \"Otherwise you create an incentive for a criminalgangto bring achildwith them when they otherwise wouldn’t be, and I don’t think that is a good thing.”These children did notsuddenly appear on the French coastto offer themselves for transportation. There are long journeys, families and funding involved, and by implication a clear intent to come here. There is a strong incentive for some of these loving parents to give their children the shelter they need, and which perhaps they cannot also afford themselves, even if it means letting them travel by dangerous means and in the company of others. Is that grounds for the incarceration of children?It appears that Mr Sunak views both the children and the traffickers as criminals. An understandable confusion perhaps given that they are respectively commodities and traders in the same market.It seems clear that his party’s policies on immigration are wrong on almost every front, and this situation is one very bad product of them. Let us hope Westminster sees sense even if the government cannot.David NelmesNewportStarmer should be praised for Labour’s attack adsI defend Sir Keir Starmer to the hilt for theposters his party has had publishedaccusing Rishi Sunak and the Conservatives of being soft on child grooming gangs, just like they remain soft on crime and soft on the causes of crime.All Sir Keir is doing ishighlighting Tory incompetenceat the Home Office for the last 13 years. And let's not forget that for the first seven of those years we had someone who eventually became prime minister.People are fed up with sticking plaster politics. People want truth and people want action.Geoffrey BrookingHampshireAttack ads smack of desperationThe latest vile stunt by Labour intended to create division and present the prime minister as some sort of weak leader has all the hallmarks of a party desperate to differentiate themselves from the Tories.They're clearlylooking for some clear political ground(which hasn't been apparent to date) but it's hard to imagine why they thought this stunt would end well for them.If this represents their first efforts to come off the fence and make a stand for socialist Labour values, then I fear they're in deep trouble.This revolting effort smacks of US gutter politics with its efforts to polarise opinion by using innuendo and crass fake news techniques to galvanise voters. The Conservatives are perfectly capable of making themselves look bad without Labour lifting a finger, and this nasty little anti-Sunak slur has blown up in their faces and should be a siren warning to Labour leaders to keep it decent, clean, and truthful.Labour is better than this, and if they’re really thinking of tackling the Tories by playing the Conservatives at their own disingenuous game of lies and obfuscation then I fear it won't end well.While Rishi Sunak and his ministers are furiously digging their own political graves there’s absolutely no need for Labour to throw themselves in the sickening hole with them.Steve MackinderDenverAsylum seeker housing plans are terrible opticsThe Royal Family is beginning to explore the historical links of the British monarchy with the slave trade and the transatlantic slave ship companies. Yet, at the same time the prime minister and the home secretary plan to house asylum seekers, many of African origin, inboats and barges.Have Rishi Sunak and Suella Braverman considered the analogies which might be drawn between such asylum seeker housing plans and the country’s not-so-glorious past?Bambos CharalambousManchester"
+        }
+    ]
+}

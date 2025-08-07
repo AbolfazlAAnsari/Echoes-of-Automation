@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00010228886822005734,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010421138722449541,
+                    "sentence": "Please send your letters toletters@independent.co.ukI'm afraid Daisy Cooper, Lib Dem health spokesperson, is wrongwhen she says: \"The public will not forgive this government if this delay in meaningful action results in harsher action down the line\".163,515 death certificates in UK have already recorded Covid as the cause of death.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010434979776619002,
+                    "sentence": "There are currently more newCovidinfections being registered every day in the UK than inFrance, Germany, Italy and Spain combined.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.88201902853325e-05,
+                    "sentence": "This government has just been shown to have wasted £37bn on a pathetically ineffective test and trace programme.We have the most catastrophically incompetent UK government in living memory.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.374978693202138e-05,
+                    "sentence": "Yet it remains ahead in the polls.It would appear that there is absolutely nothing \"the public\" won't forgive this government for.David Maughan BrownYorkWhy bother?I'm sitting in my lounge listening to the shadow chancellor delivering her response to the Budget.Sitting behind her are two MPs flicking through their mobile phones, ignoring her.Why should we bother taking her response seriously when her colleagues are not bothering to listen?Michael PateIngol, PrestonStart acting like a leaderOther countries' leaders visiting Scotland forCop26will no doubt be surprised at the lax attitude we have to the dangers of Covid-19, this despite a fairly good rate of adherence to the measures we do have in place.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.776172813260928e-05,
+                    "sentence": "Compare this to comments of people from England who are even more surprised that we have any measures in place at all as they felt it was really all over.Come on Boris, give us a break and start acting like the leader you admire so much.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.774362504482269e-05,
+                    "sentence": "Thank goodness we had Churchill in 1939 and not this clown.Geoff ForwardStirlingYoung people matterI readthe column form Nadia Whittome and Scarlett Westbrookwith interest and agreement that climate education should be a legal requirement for schools.As they rightly state, it is a problem that will have deleterious effects on young people, if this pernicious climate nettle is not grasped now and acted upon with due diligence and intelligent application.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002004560810746625,
+                    "sentence": "Primary school children and yes older students, are often far more engaged than the older generation (myself included) with this thorny question.They are completely right that theclimate crisis, like the pandemic, affects everyone, rich or poor, with its devastating floods, droughts and wildfires.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005016750656068325,
+                    "sentence": "Make it an integral part of the curriculum and very young children will soakit up like sponges.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002768087200820446,
+                    "sentence": "This will have so many beneficial ongoing effects, such as specialisms involving the myriad intricacies of climate change.Young people are rightly engaged now as they watch governments and leaders fiddle while Rome is physically burning and it is their future we are dicing with.Judith A DanielsGreat Yarmouth, NorfolkRead MoreWhat is Plan B for tackling Covid in the UK this winter?Bring back mandatory masks to defend against a winter Covid outbreakHolidaymakers may need three jabs to travel abroad next summer",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.01604403346699664,
+            "class_probabilities": {
+                "human": 0.9839559665330034,
+                "ai": 0.01604403346699664,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9839559665330034,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01604403346699664,
+                    "human": 0.9839559665330034,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI'm afraid Daisy Cooper, Lib Dem health spokesperson, is wrongwhen she says: \"The public will not forgive this government if this delay in meaningful action results in harsher action down the line\".163,515 death certificates in UK have already recorded Covid as the cause of death. There are currently more newCovidinfections being registered every day in the UK than inFrance, Germany, Italy and Spain combined.  This government has just been shown to have wasted £37bn on a pathetically ineffective test and trace programme.We have the most catastrophically incompetent UK government in living memory. Yet it remains ahead in the polls.It would appear that there is absolutely nothing \"the public\" won't forgive this government for.David Maughan BrownYorkWhy bother?I'm sitting in my lounge listening to the shadow chancellor delivering her response to the Budget.Sitting behind her are two MPs flicking through their mobile phones, ignoring her.Why should we bother taking her response seriously when her colleagues are not bothering to listen?Michael PateIngol, PrestonStart acting like a leaderOther countries' leaders visiting Scotland forCop26will no doubt be surprised at the lax attitude we have to the dangers of Covid-19, this despite a fairly good rate of adherence to the measures we do have in place. Compare this to comments of people from England who are even more surprised that we have any measures in place at all as they felt it was really all over.Come on Boris, give us a break and start acting like the leader you admire so much. Thank goodness we had Churchill in 1939 and not this clown.Geoff ForwardStirlingYoung people matterI readthe column form Nadia Whittome and Scarlett Westbrookwith interest and agreement that climate education should be a legal requirement for schools.As they rightly state, it is a problem that will have deleterious effects on young people, if this pernicious climate nettle is not grasped now and acted upon with due diligence and intelligent application. Primary school children and yes older students, are often far more engaged than the older generation (myself included) with this thorny question.They are completely right that theclimate crisis, like the pandemic, affects everyone, rich or poor, with its devastating floods, droughts and wildfires. Make it an integral part of the curriculum and very young children will soakit up like sponges. This will have so many beneficial ongoing effects, such as specialisms involving the myriad intricacies of climate change.Young people are rightly engaged now as they watch governments and leaders fiddle while Rome is physically burning and it is their future we are dicing with.Judith A DanielsGreat Yarmouth, NorfolkRead MoreWhat is Plan B for tackling Covid in the UK this winter?Bring back mandatory masks to defend against a winter Covid outbreakHolidaymakers may need three jabs to travel abroad next summer"
+        }
+    ]
+}

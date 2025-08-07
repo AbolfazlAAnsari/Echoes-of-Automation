@@ -1,0 +1,154 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00018900693976320326,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|78.62°Last fall I argued that Joe Biden was the Democratic Party's strongest 2024 presidential nominee.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012919081200379878,
+                    "sentence": "I believed that for two reasons: He has been an effective president, and he is the Democrat most likely to appeal to working-class voters.I still believe Biden is the party's strongest candidate, but I'm getting more pessimistic about his chances of winning.The first reason is not political rocket science: Voters prefer the Republicans on key issues like inflation and immigration.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011999822891084477,
+                    "sentence": "Most Donald Trump supporters I know aren't swept up in his cult of personality; they vote for him because they are conservative types who like GOP policies and think Trump is a more effective executive than Biden.The second reason I've become more pessimistic is because of what's happening to the youth vote.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010571826715022326,
+                    "sentence": "NBC News released an interesting poll last weekend finding that interest in this election is lower than in any other presidential election in nearly 20 years.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013950507855042815,
+                    "sentence": "Only 64% of Americans said they have a high degree of interest in the election, compared with, say, 77% who had high interest in 2020.But what really leaps out is the numbers for voters ages 18 to 34.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013507905532605946,
+                    "sentence": "Only 36% of those voters said they are highly interested.I imagine that's partly because it's difficult to get enthusiastic about candidates who are a half-century older than you.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014192807429935783,
+                    "sentence": "But part of it is also about Biden's approach to the Israel-Hamas war.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001372623664792627,
+                    "sentence": "Young people are much more critical of Israel than other groups, and there are no candidates representing that point of view.I think what we're seeing at Columbia University and on other elite campuses is a precursor to what we're going to see at the Democratic convention in Chicago.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010546250268816948,
+                    "sentence": "In 1968 the clashes between the New Left activists and Mayor Richard Daley's cops were an early marker of the differences between the more-educated and less-educated classes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013254727236926556,
+                    "sentence": "They were part of the trend that sent working-class voters to the GOP.If there are similar clashes in Chicago this August, the chaos will reinforce Trump's core law-and-order message.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017688683001324534,
+                    "sentence": "It will make Biden look weak and hapless.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003012948203831911,
+                    "sentence": "Phrases like “from the river to the sea” will be 2024's version of “defund the police” ᅳ a slogan that appeals to activists but alienates lots of other voters.The folks in the administration project confidence that their man will prevail.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0028328357730060816,
+                    "sentence": "I wish I could share that confidence.© 2024 The New York Times CompanyIn presidential fundraising these days, the donors who matter most are the very small and the very, very big.A 64-year-old Ocean View man accused of killing one of his dogs has been freed from custody on supervised release, a form of cashless bail.Minnesota Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019501042552292347,
+                    "sentence": "Tim Walz formally accepted the Democratic nomination for vice president Wednesday night in Chicago.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010427111992612481,
+                    "sentence": "And as he did, the former congressman and teacher gave a nod to his wife Gwen, daughter Hope and son Gus.WASHINGTON ᅳ Democrats say they have a simple plan for discrediting Robert F. Kennedy Jr. now that he has dropped out of the race and endorsed former President Donald Trump: calling him “weird.”",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 15,
+                    "completely_generated_prob": 2.5938383721896624e-13
+                }
+            ],
+            "completely_generated_prob": 0.00982192507144982,
+            "class_probabilities": {
+                "human": 0.9901780749285501,
+                "ai": 0.00982192507144982,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9901780749285501,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.00982192507144982,
+                    "human": 0.9901780749285501,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|78.62°Last fall I argued that Joe Biden was the Democratic Party’s strongest 2024 presidential nominee. I believed that for two reasons: He has been an effective president, and he is the Democrat most likely to appeal to working-class voters.I still believe Biden is the party’s strongest candidate, but I’m getting more pessimistic about his chances of winning.The first reason is not political rocket science: Voters prefer the Republicans on key issues like inflation and immigration. Most Donald Trump supporters I know aren’t swept up in his cult of personality; they vote for him because they are conservative types who like GOP policies and think Trump is a more effective executive than Biden.The second reason I’ve become more pessimistic is because of what’s happening to the youth vote. NBC News released an interesting poll last weekend finding that interest in this election is lower than in any other presidential election in nearly 20 years. Only 64% of Americans said they have a high degree of interest in the election, compared with, say, 77% who had high interest in 2020.But what really leaps out is the numbers for voters ages 18 to 34. Only 36% of those voters said they are highly interested.I imagine that’s partly because it’s difficult to get enthusiastic about candidates who are a half-century older than you. But part of it is also about Biden’s approach to the Israel-Hamas war. Young people are much more critical of Israel than other groups, and there are no candidates representing that point of view.I think what we’re seeing at Columbia University and on other elite campuses is a precursor to what we’re going to see at the Democratic convention in Chicago. In 1968 the clashes between the New Left activists and Mayor Richard Daley’s cops were an early marker of the differences between the more-educated and less-educated classes. They were part of the trend that sent working-class voters to the GOP.If there are similar clashes in Chicago this August, the chaos will reinforce Trump’s core law-and-order message. It will make Biden look weak and hapless. Phrases like “from the river to the sea” will be 2024’s version of “defund the police” — a slogan that appeals to activists but alienates lots of other voters.The folks in the administration project confidence that their man will prevail. I wish I could share that confidence.© 2024 The New York Times CompanyIn presidential fundraising these days, the donors who matter most are the very small and the very, very big.A 64-year-old Ocean View man accused of killing one of his dogs has been freed from custody on supervised release, a form of cashless bail.Minnesota Gov. Tim Walz formally accepted the Democratic nomination for vice president Wednesday night in Chicago. And as he did, the former congressman and teacher gave a nod to his wife Gwen, daughter Hope and son Gus.WASHINGTON — Democrats say they have a simple plan for discrediting Robert F. Kennedy Jr. now that he has dropped out of the race and endorsed former President Donald Trump: calling him “weird.”"
+        }
+    ]
+}

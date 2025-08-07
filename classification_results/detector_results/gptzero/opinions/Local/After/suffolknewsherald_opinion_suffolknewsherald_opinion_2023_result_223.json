@@ -1,0 +1,94 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0020746865775436163,
+                    "sentence": "Published 5:25 pm Tuesday, August 15, 2023ByLetters to the EditorEditor:As you and many others know, social media is a modern convenience that allows so many of us to engage, connect, and share dialog that might not otherwise be possible.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0037284833379089832,
+                    "sentence": "Behind our screens and from the comfort and privacy of our homes, it brings out not only the best in us, but all too often the worst.Maya Angelo said “… people will forget what you said, people will forget what you did, but people will never forget how you made them feel.”Readers, the next time you take to the keyboard to express yourself, be kind.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0026972084306180477,
+                    "sentence": "Always.Brian HarrisSuffolkOn Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003289784537628293,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002974351868033409,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                }
+            ],
+            "completely_generated_prob": 0.020796750353547094,
+            "class_probabilities": {
+                "human": 0.9792032496464529,
+                "ai": 0.020796750353547094,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9792032496464529,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020796750353547094,
+                    "human": 0.9792032496464529,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:25 pm Tuesday, August 15, 2023ByLetters to the EditorEditor:As you and many others know, social media is a modern convenience that allows so many of us to engage, connect, and share dialog that might not otherwise be possible. Behind our screens and from the comfort and privacy of our homes, it brings out not only the best in us, but all too often the worst.Maya Angelo said “… people will forget what you said, people will forget what you did, but people will never forget how you made them feel.”Readers, the next time you take to the keyboard to express yourself, be kind. Always.Brian HarrisSuffolkOn Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00014788768021389842,
+                    "sentence": "“Well, at least it's not two today,” I thought as I dodged a parked Marguerite Shuttle completely blocking the bike lane at the corner of Via Ortega and Campus Drive.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013687075988855213,
+                    "sentence": "The shuttle, which often comes in pairs, has been a dangerous feature of this part of my commute every day this week.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002274394646519795,
+                    "sentence": "These buses are just another object in my growing tally of golf carts, construction vehicles, fallen branches, landscapers' carts, moving dollies, and double-parked cars that are a daily hazard for Stanford's cyclists.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014484439452644438,
+                    "sentence": "Cycling, among the most utilized transportation options by Stanford students, is significantly more dangerous than most people realize.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013181673421058804,
+                    "sentence": "Arecord1,260 cyclists were killed in the United States in 2020, mostly in motor vehicle accidents.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001297193084610626,
+                    "sentence": "Stanford's idyllic campus is sadly not immune to the dangers of biking around cars.In 2010, visiting Chinese doctoral student, Yichao Wang, was killed after his bike was hit by a Honda Civic at the corner of Palm Drive and Museum Way.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019221163529437035,
+                    "sentence": "Too little has changed since then, and there are still far too many places on campus where non-existent or blocked bike lanes and speeding cars could combine to tragic results.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00023136803065426648,
+                    "sentence": "Suddenly leaving a blocked bike lane to detour around a parked vehicle is how many of these accidents happen.Protected bike lanes, thegold standardin cyclist safety, should be a long-term goal for Stanford's administrators.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002853452751878649,
+                    "sentence": "However, the first step in making campus safer for cyclists is to get vehicles to stop blocking bike lanesᅳespecially those with Stanford plates.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00028341313009150326,
+                    "sentence": "Noah Benjamin-Pollak is a Ph.D. student studying Management Science and Engineering.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016952017904259264,
+                    "sentence": "The Daily is committed to publishing a diversity of op-eds and letters to the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00023003670503385365,
+                    "sentence": "We'd love to hear your thoughts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010608546290313825,
+                    "sentence": "Email letters to the editor to eic 'at' stanforddaily.com and op-ed submissions to opinions 'at' stanforddaily.com.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 3,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 6,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 9,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 10,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                }
+            ],
+            "completely_generated_prob": 0.006608679833334143,
+            "class_probabilities": {
+                "human": 0.9933913201666659,
+                "ai": 0.006608679833334143,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933913201666659,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006608679833334143,
+                    "human": 0.9933913201666659,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "“Well, at least it’s not two today,” I thought as I dodged a parked Marguerite Shuttle completely blocking the bike lane at the corner of Via Ortega and Campus Drive. The shuttle, which often comes in pairs, has been a dangerous feature of this part of my commute every day this week. These buses are just another object in my growing tally of golf carts, construction vehicles, fallen branches, landscapers’ carts, moving dollies, and double-parked cars that are a daily hazard for Stanford’s cyclists.\nCycling, among the most utilized transportation options by Stanford students, is significantly more dangerous than most people realize. Arecord1,260 cyclists were killed in the United States in 2020, mostly in motor vehicle accidents. Stanford’s idyllic campus is sadly not immune to the dangers of biking around cars.In 2010, visiting Chinese doctoral student, Yichao Wang, was killed after his bike was hit by a Honda Civic at the corner of Palm Drive and Museum Way.\nToo little has changed since then, and there are still far too many places on campus where non-existent or blocked bike lanes and speeding cars could combine to tragic results. Suddenly leaving a blocked bike lane to detour around a parked vehicle is how many of these accidents happen.Protected bike lanes, thegold standardin cyclist safety, should be a long-term goal for Stanford’s administrators. However, the first step in making campus safer for cyclists is to get vehicles to stop blocking bike lanes—especially those with Stanford plates.\nNoah Benjamin-Pollak is a Ph.D. student studying Management Science and Engineering.\nThe Daily is committed to publishing a diversity of op-eds and  letters to the editor. We’d love to hear your thoughts. Email letters to the editor to eic ‘at’ stanforddaily.com and op-ed submissions to opinions ‘at’ stanforddaily.com.\n"
+        }
+    ]
+}

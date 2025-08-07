@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0005563190206885338,
+                    "sentence": "Please send your letters toletters@independent.co.ukI read with astonishment Peter Stubley's article, \"Government 'set to take over city of Liverpool' amid corruption probe\" (21 March), regarding the government's intentions following the arrest of the mayorJoe Andersonover an allegation of corruption.And the minister charged with making the decision on whether to use powers to intervene in the running of the local authority?Robert Jenrick, who has accepted that his approval of a £1bn luxury housing development for Tory donor Richard Desmond was unlawful.I know little about the Joe Anderson case, but if one was looking for people to restore honesty after alleged corruption, one might question whether this government is right for the job.Patrick WalshEastbourneYou really couldn't make it up.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005150718498043716,
+                    "sentence": "How does a government that is being criticised by the National Audit Office for ripping up the rule book on procurement and transparency during the crony feeding frenzy over PPE, test and trace etc really consider itself a fit party to take over the running of Liverpool because of alleged procurement irregularities?Do different rules really apply to central rather than local government - or is it just that the \"wrong\" cronies were getting their snouts in the trough?Mike MargettsKilsbyHow right he wasA decade ago, David Cameron called political lobbying, \"the next big scandal waiting to happen\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07802950590848923,
+                    "sentence": "What took him so long?Dr John DohertyStratford-upon-AvonScots demand transparencyWhether or not Nicola Sturgeon misled the Scottish parliament over the Salmond affair or broke the ministerial code, Scots voters' prime concern should be her suppression of vital evidence demanded by the Scottish parliament committee of inquiry until the last minute when a key document was still missing.Freedom of information is the primary issue as Scottish voters will require absolute transparency from whichever leader may have to negotiate for EU entry and currency trade and border deals with the rest of the UK following a majority vote for independence.Trevor Lyttleton MBELondon NW11Chorley treasuresPerhaps I shouldn't complain, but Lara Kilner's excellent article, 'Chorley's charms are often overlooked' (18 March), omitted to mention Astley Hall and Park (the green lung at the edge of the Town Centre), the Yarrow Valley Country Park with its former lodges and riverside walks between Duxbury and Birkacre, and the most scenic cricket ground in the country at White Coppice.Read more:·Welcome to my home town: Chorley's charms are often overlooked·The government fails to protect shielders in back to work advice·It's 15 years since Twitter launched - but we're still not ready for itWelcome to my home town: Chorley's charms are often overlookedThe government fails to protect shielders in back to work adviceIt's 15 years since Twitter launched - but we're still not ready for itThere was also a serious omission in the list of historical figures.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0796608030796051,
+                    "sentence": "Richard Arkwright, arguably the father of the first Industrial Revolution, built his first cotton mill here at Birkacre.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.041152473539114,
+                    "sentence": "It had a short and dramatic history and 40 years later the site accommodated a Cooperative Community founded by followers of Robert Owen.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04296578839421272,
+                    "sentence": "It is a town for us locals to be proud of.John E HarrisonChorleyBe preparedI refer to your article, 'Start preparing for next pandemic now, experts warn Boris Johnson' (20 March).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06996265798807144,
+                    "sentence": "A global-focused Britain should bring together the international quantum technology community, to harness the power of that technology, for global good, for health.Speed and specification of the delivery of solutions for healthcare are critical, as it is going to be the driver of human productivity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.049136772751808167,
+                    "sentence": "Hence the global interconnected economic society and its future prosperity would be supported by such a collaborative initiative.Amali De Silva-MitchellWindsor",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.06633396618935229,
+            "class_probabilities": {
+                "human": 0.9336248632755252,
+                "ai": 0.06633396618935229,
+                "mixed": 4.117053512248776e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9336248632755252,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.06633396618935229,
+                    "human": 0.9336248632755252,
+                    "mixed": 4.117053512248776e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukI read with astonishment Peter Stubley's article, \"Government 'set to take over city of Liverpool' amid corruption probe\" (21 March), regarding the government's intentions following the arrest of the mayorJoe Andersonover an allegation of corruption.And the minister charged with making the decision on whether to use powers to intervene in the running of the local authority?Robert Jenrick, who has accepted that his approval of a £1bn luxury housing development for Tory donor Richard Desmond was unlawful.I know little about the Joe Anderson case, but if one was looking for people to restore honesty after alleged corruption, one might question whether this government is right for the job.Patrick WalshEastbourneYou really couldn't make it up. How does a government that is being criticised by the National Audit Office for ripping up the rule book on procurement and transparency during the crony feeding frenzy over PPE, test and trace etc really consider itself a fit party to take over the running of Liverpool because of alleged procurement irregularities?Do different rules really apply to central rather than local government - or is it just that the \"wrong\" cronies were getting their snouts in the trough?Mike MargettsKilsbyHow right he wasA decade ago, David Cameron called political lobbying, \"the next big scandal waiting to happen\". What took him so long?Dr John DohertyStratford-upon-AvonScots demand transparencyWhether or not Nicola Sturgeon misled the Scottish parliament over the Salmond affair or broke the ministerial code, Scots voters' prime concern should be her suppression of vital evidence demanded by the Scottish parliament committee of inquiry until the last minute when a key document was still missing.Freedom of information is the primary issue as Scottish voters will require absolute transparency from whichever leader may have to negotiate for EU entry and currency trade and border deals with the rest of the UK following a majority vote for independence.Trevor Lyttleton MBELondon NW11Chorley treasuresPerhaps I shouldn't complain, but Lara Kilner's excellent article, 'Chorley's charms are often overlooked' (18 March), omitted to mention Astley Hall and Park (the green lung at the edge of the Town Centre), the Yarrow Valley Country Park with its former lodges and riverside walks between Duxbury and Birkacre, and the most scenic cricket ground in the country at White Coppice.Read more:•Welcome to my home town: Chorley's charms are often overlooked•The government fails to protect shielders in back to work advice•It's 15 years since Twitter launched - but we're still not ready for itWelcome to my home town: Chorley's charms are often overlookedThe government fails to protect shielders in back to work adviceIt's 15 years since Twitter launched - but we're still not ready for itThere was also a serious omission in the list of historical figures. Richard Arkwright, arguably the father of the first Industrial Revolution, built his first cotton mill here at Birkacre. It had a short and dramatic history and 40 years later the site accommodated a Cooperative Community founded by followers of Robert Owen. It is a town for us locals to be proud of.John E HarrisonChorleyBe preparedI refer to your article, 'Start preparing for next pandemic now, experts warn Boris Johnson' (20 March). A global-focused Britain should bring together the international quantum technology community, to harness the power of that technology, for global good, for health.Speed and specification of the delivery of solutions for healthcare are critical, as it is going to be the driver of human productivity. Hence the global interconnected economic society and its future prosperity would be supported by such a collaborative initiative.Amali De Silva-MitchellWindsor"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0002526853932067752,
+                    "sentence": "The story is a warning.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002571161021478474,
+                    "sentence": "Will we heed it?Listen to and follow 'Matter of Opinion'Apple Podcasts|Spotify|Amazon MusicChristopher Nolan's blockbuster hit “Oppenheimer” tells the story of the father of the atomic bomb and the invention he hoped would end all wars.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004184782737866044,
+                    "sentence": "(Spoiler alert: It did not.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003932606487069279,
+                    "sentence": ")On “Matter of Opinion,” the hosts discuss how history should view J. Robert Oppenheimer ᅳ naïve martyr or crybaby?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005427140858955681,
+                    "sentence": "ᅳ and whether we have more to fear from nuclear weapons in the age of artificial intelligence.Mentioned in this episode:·“'Cry Baby Scientist': What Oppenheimer the Film Gets Wrong About Oppenheimer the Man,” by Haydn Belfield in Vox·“Thank God for the Atom Bomb,” by Paul Fussell in The New Republic·“American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer,” by Kai Bird and Martin J. Sherwin·“Hiroshima,” by John Hersey“'Cry Baby Scientist': What Oppenheimer the Film Gets Wrong About Oppenheimer the Man,” by Haydn Belfield in Vox“Thank God for the Atom Bomb,” by Paul Fussell in The New Republic“American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer,” by Kai Bird and Martin J. Sherwin“Hiroshima,” by John HerseyThoughts?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0032902380917221308,
+                    "sentence": "Email us atmatterofopinion@nytimes.com.Follow our hosts on Twitter: Michelle Cottle (@mcottle), Ross Douthat (@DouthatNYT), Carlos Lozada (@CarlosNYT) and Lydia Polgreen (@lpolgreen).“Matter of Opinion” is produced by Phoebe Lett, Sophia Alvarez Boyd and Derek Arthur.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0025448896922171116,
+                    "sentence": "It was edited by Stephanie Joyce.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019366757478564978,
+                    "sentence": "Mixing by Pat McCusker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0033277336042374372,
+                    "sentence": "Original music by Isaac Jones, Carole Sabouraud, Efim Shapiro, Sonia Herrero and Pat McCusker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003926857374608517,
+                    "sentence": "Our fact check team is Kate Sinclair, Mary Marge Locker and Michelle Harris.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0047467430122196674,
+                    "sentence": "Audience strategy by Shannon Busta and Kristina Samulewski.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004479540046304464,
+                    "sentence": "Our executive producer is Annie-Rose Strasser.PHOTO: (PHOTOGRAPH BY Illustration by The New York Times; photograph by Joe Raedle/Getty FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.021601982568463345,
+            "class_probabilities": {
+                "human": 0.9783576840560043,
+                "ai": 0.021601982568463345,
+                "mixed": 4.0333375532255976e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9783576840560043,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.021601982568463345,
+                    "human": 0.9783576840560043,
+                    "mixed": 4.0333375532255976e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "The story is a warning. Will we heed it?Listen to and follow ‘Matter of Opinion’Apple Podcasts|Spotify|Amazon MusicChristopher Nolan’s blockbuster hit “Oppenheimer” tells the story of the father of the atomic bomb and the invention he hoped would end all wars. (Spoiler alert: It did not.)On “Matter of Opinion,” the hosts discuss how history should view J. Robert Oppenheimer — naïve martyr or crybaby? — and whether we have more to fear from nuclear weapons in the age of artificial intelligence.Mentioned in this episode:•“‘Cry Baby Scientist’: What Oppenheimer the Film Gets Wrong About Oppenheimer the Man,” by Haydn Belfield in Vox•“Thank God for the Atom Bomb,” by Paul Fussell in The New Republic•“American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer,” by Kai Bird and Martin J. Sherwin•“Hiroshima,” by John Hersey“‘Cry Baby Scientist’: What Oppenheimer the Film Gets Wrong About Oppenheimer the Man,” by Haydn Belfield in Vox“Thank God for the Atom Bomb,” by Paul Fussell in The New Republic“American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer,” by Kai Bird and Martin J. Sherwin“Hiroshima,” by John HerseyThoughts? Email us atmatterofopinion@nytimes.com.Follow our hosts on Twitter: Michelle Cottle (@mcottle), Ross Douthat (@DouthatNYT), Carlos Lozada (@CarlosNYT) and Lydia Polgreen (@lpolgreen).“Matter of Opinion” is produced by Phoebe Lett, Sophia Alvarez Boyd and Derek Arthur. It was edited by Stephanie Joyce. Mixing by Pat McCusker. Original music by Isaac Jones, Carole Sabouraud, Efim Shapiro, Sonia Herrero and Pat McCusker. Our fact check team is Kate Sinclair, Mary Marge Locker and Michelle Harris. Audience strategy by Shannon Busta and Kristina Samulewski. Our executive producer is Annie-Rose Strasser.PHOTO:  (PHOTOGRAPH BY Illustration by The New York Times; photograph by Joe Raedle/Getty FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

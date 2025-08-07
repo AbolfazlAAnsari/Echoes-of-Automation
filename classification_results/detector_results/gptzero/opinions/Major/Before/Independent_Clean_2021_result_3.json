@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00016576203051954508,
+                    "sentence": "Please send your letters toletters@independent.co.ukLet's hope Sir Keir Starmer responds positively to Stephen Dorrell'scall for himto reform our voting system.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021669347188435495,
+                    "sentence": "But the need is for wholesale constitutional reform to address our over-centralised system of government that is serving us badly.A previous Tory prime minister, Lord North, lost America.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021144974743947387,
+                    "sentence": "Two and a half centuries later another Tory prime minister - due to his mishandling of Covid-19 and Brexit - looks set to lose us the UK.Northern Ireland is already semi-detached from the UK thanks to Boris Johnson's EU trade deal.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013139756629243493,
+                    "sentence": "Scotland wants to break free from a dominant out-of-touch England and there are rumblings of discontent in Wales.We'd have undoubtedly fared better if our Westminster politicians had had the sense to modernise our constitution.Roger HindsSurreyThe cost of CovidI have know idea what world Anna Taylor (Letters) lives in, but it's not the same one I or anyone I know lives in.Perhaps she is in her 70s and fortunate enough to have retired from the private sector with a final salary pension.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.339582175016403e-05,
+                    "sentence": "Perhaps she is a public sector worker with a final salary pension.Like most private-sector workers in our 50s and 60s, I do not have that luxury.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.400155977346003e-05,
+                    "sentence": "Many of us who did have final salary pensions at the start of our careers are much worse off than the millennials and post-millennials Ms Taylor is so worried about.If Ms Taylor really does feel she \"should be giving something back\" towards the cost of Covid-19 recovery then let her do so without demanding those less fortunate than her be forced to do so also.Alexander McKendrickEdinburghAnna Taylor has floated a fantastic idea and very well summed up in the article.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010357507271692157,
+                    "sentence": "The older generations seem to have everything the younger generations crave.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012445204192772508,
+                    "sentence": "As a 34-year-old who works up to 60 hours a week to have an average house, I envy the older generations.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06689830869436264,
+                    "sentence": "They had high interest rates during the Margaret Thatcher years, but the rise in house prices have more than paid that investment back.Nick ThorneAddress suppliedI am 63 years of age and have worked hard all my life to achieve what I have including raising a family.Please bear in mind I have also paid many tens of thousands of pounds in tax and national insurance over those years.My contributions - plus those of others like me - have paid for all the infrastructure across the country that has been built over many years and put in place so younger people are able to enjoy what they have today.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06338558346033096,
+                    "sentence": "Why on Earth should it still be the people who have already paid, putting their hands into their pockets again.Most of us have put some money aside for our retirement over the years so as not to be a burden on society.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06058043986558914,
+                    "sentence": "But it would appear to many younger people someone else should pay their bills for them.Chris HuxtedAddress suppliedHow could you print that - does Anna Taylor even know that MOST seniors are not wealthy?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.18421994149684906,
+                    "sentence": "Most seniors already worked 40 years FULL TIME!Most seniors will be lucky to have their money last.Patricia WrightAddress suppliedTwitter remindersOn then-President Obama:\"Everything he does isfor his own re-election.”-D Trump, 7/10/2011Ah, the irony, a decade on!Mike BorLondonRead MoreFormer top Tory tells Starmer to build Progressive Alliance for reformNicola Sturgeon announces new lockdown rules for ScotlandBoris Johnson says tougher measures needed soon to control Covid surgeSwedish official under fire for Christmas holiday in Canary Islands",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.06633133776716972,
+            "class_probabilities": {
+                "human": 0.9321483233312314,
+                "ai": 0.06633133776716972,
+                "mixed": 0.0015203389015988316
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9321483233312314,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.06633133776716972,
+                    "human": 0.9321483233312314,
+                    "mixed": 0.0015203389015988316
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukLet’s hope Sir Keir Starmer responds positively to Stephen Dorrell’scall for himto reform our voting system. But the need is for wholesale constitutional reform to address our over-centralised system of government that is serving us badly.A previous Tory prime minister, Lord North, lost America. Two and a half centuries later another Tory prime minister – due to his mishandling of Covid-19 and Brexit – looks set to lose us the UK.Northern Ireland is already semi-detached from the UK thanks to Boris Johnson’s EU trade deal. Scotland wants to break free from a dominant out-of-touch England and there are rumblings of discontent in Wales.We’d have undoubtedly fared better if our Westminster politicians had had the sense to modernise our constitution.Roger HindsSurreyThe cost of CovidI have know idea what world Anna Taylor (Letters) lives in, but it's not the same one I or anyone I know lives in.Perhaps she is in her 70s and fortunate enough to have retired from the private sector with a final salary pension. Perhaps she is a public sector worker with a final salary pension.Like most private-sector workers in our 50s and 60s, I do not have that luxury. Many of us who did have final salary pensions at the start of our careers are much worse off than the millennials and post-millennials Ms Taylor is so worried about.If Ms Taylor really does feel she \"should be giving something back\" towards the cost of Covid-19 recovery then let her do so without demanding those less fortunate than her be forced to do so also.Alexander McKendrickEdinburghAnna Taylor has floated a fantastic idea and very well summed up in the article. The older generations seem to have everything the younger generations crave. As a 34-year-old who works up to 60 hours a week to have an average house, I envy the older generations. They had high interest rates during the Margaret Thatcher years, but the rise in house prices have more than paid that investment back.Nick ThorneAddress suppliedI am 63 years of age and have worked hard all my life to achieve what I have including raising a family.Please bear in mind I have also paid many tens of thousands of pounds in tax and national insurance over those years.My contributions – plus those of others like me – have paid for all the infrastructure across the country that has been built over many years and put in place so younger people are able to enjoy what they have today. Why on Earth should it still be the people who have already paid, putting their hands into their pockets again.Most of us have put some money aside for our retirement over the years so as not to be a burden on society. But it would appear to many younger people someone else should pay their bills for them.Chris HuxtedAddress suppliedHow could you print that – does Anna Taylor even know that MOST seniors are not wealthy? Most seniors already worked 40 years FULL TIME!Most seniors will be lucky to have their money last.Patricia WrightAddress suppliedTwitter remindersOn then-President Obama:\"Everything he does isfor his own re-election.”–D Trump, 7/10/2011Ah, the irony, a decade on!Mike BorLondonRead MoreFormer top Tory tells Starmer to build Progressive Alliance for reformNicola Sturgeon announces new lockdown rules for ScotlandBoris Johnson says tougher measures needed soon to control Covid surgeSwedish official under fire for Christmas holiday in Canary Islands"
+        }
+    ]
+}

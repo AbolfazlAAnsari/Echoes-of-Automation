@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 3.501775427139364e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.3251317543326877e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukRegardingPriti Patel's rant about how her critics \"aren't coming up with solutions\" - may I respectfully suggest that this might be because many of us don't see a problem in the UK welcoming refugees fleeing from conflict?The real problem is the home secretary herself and the innate cruelty of her policy; that is whatthe Archbishop of Canterbury was right to call out.But if she won't look at herself in the mirror, then maybe she should encourage her colleagues at the Foreign, Commonwealth & Development Office to increase the overseas aid budget to alleviate some of the conditions which cause people to flee their homelands?An extra pound spent on aid could be many pounds saved from the Home Office budget.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.3918419174151495e-05,
+                    "sentence": "And sending people toRwanda- or anywhere else for that matter - still leaves them as refugees in a foreign country where they may not want to be.Charles WoodBirminghamSo not only is the home secretary outsourcing our perceived immigration problem but by asking for people to come up with better ideas, she is also outsourcing her own job!Nigel GroomWitham, EssexA 'safe' destinationThere still appears to be some confusion as to precisely what Priti Patel's cunning plan to get rid of asylum seekers by flying them off to Rwanda actually involves.May Bulman, in today's edition, for example, saysthey \"...are set to be deported to Rwanda to have their claims considered there.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.1437605028040707e-05,
+                    "sentence": "\"Is the intention, in fact, for asylum seekers to have their claims considered in Rwanda, or does the plan involve simply dumping them in Rwanda without bothering about any legal or bureaucratic \"processing\"?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.8360345822875388e-05,
+                    "sentence": "I had understood the latter to be the case.As for Rwanda being a \"safe\" destination, does Patel not know, or perhaps care, that less than 30 years ago over 600,000 ethnic Tutsis were slaughtered in Rwanda for the capital offence of not being Hutus?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.2037616620073095e-05,
+                    "sentence": "A country with a recent history of genocide would not normally be regarded as the perfect sanctuary for foreigners.D Maughan BrownYorkLies and deceitIt isn't surprising thatmost people think that Boris Johnson has lied about Partygate.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06993995606899261,
+                    "sentence": "Johnson was the architect of Brexit which was based on a combination of lies and deceitful assumptions.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereMoreover, he showed a callous contempt for British lives when boozy parties were held in Downing Street while grieving families were unable to say goodbye to their loved ones.Dr Munjed Farid Al QutobLondonIf someone speaks an untruth, it must either be a deliberate lie or a mistake.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03982129320502281,
+                    "sentence": "If the latter, it's either that they were unaware of the facts or did not understand their significance.Boris Johnsonhas assured parliament that at gatherings in Downing Street \"no rules were broken\", but he has been found by the police to have broken the law.This untruth may have resulted from mendacity, ignorance or incompetence on his part.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.046316586434841156,
+                    "sentence": "Any one of those shortcomings should disqualify him from being prime minister, however he tries to justify himself to parliament on Tuesday.Susan AlexanderSouth Gloucestershire",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.039839419682113825,
+            "class_probabilities": {
+                "human": 0.9601605803178862,
+                "ai": 0.039839419682113825,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601605803178862,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039839419682113825,
+                    "human": 0.9601605803178862,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukRegardingPriti Patel's rant about how her critics \"aren't coming up with solutions\" - may I respectfully suggest that this might be because many of us don't see a problem in the UK welcoming refugees fleeing from conflict?The real problem is the home secretary herself and the innate cruelty of her policy; that is whatthe Archbishop of Canterbury was right to call out.But if she won't look at herself in the mirror, then maybe she should encourage her colleagues at the Foreign, Commonwealth & Development Office to increase the overseas aid budget to alleviate some of the conditions which cause people to flee their homelands?An extra pound spent on aid could be many pounds saved from the Home Office budget. And sending people toRwanda- or anywhere else for that matter - still leaves them as refugees in a foreign country where they may not want to be.Charles WoodBirminghamSo not only is the home secretary outsourcing our perceived immigration problem but by asking for people to come up with better ideas, she is also outsourcing her own job!Nigel GroomWitham, EssexA 'safe' destinationThere still appears to be some confusion as to precisely what Priti Patel's cunning plan to get rid of asylum seekers by flying them off to Rwanda actually involves.May Bulman, in today's edition, for example, saysthey \"...are set to be deported to Rwanda to have their claims considered there.\"Is the intention, in fact, for asylum seekers to have their claims considered in Rwanda, or does the plan involve simply dumping them in Rwanda without bothering about any legal or bureaucratic \"processing\"? I had understood the latter to be the case.As for Rwanda being a \"safe\" destination, does Patel not know, or perhaps care, that less than 30 years ago over 600,000 ethnic Tutsis were slaughtered in Rwanda for the capital offence of not being Hutus? A country with a recent history of genocide would not normally be regarded as the perfect sanctuary for foreigners.D Maughan BrownYorkLies and deceitIt isn't surprising thatmost people think that Boris Johnson has lied about Partygate.  Johnson was the architect of Brexit which was based on a combination of lies and deceitful assumptions.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereMoreover, he showed a callous contempt for British lives when boozy parties were held in Downing Street while grieving families were unable to say goodbye to their loved ones.Dr Munjed Farid Al QutobLondonIf someone speaks an untruth, it must either be a deliberate lie or a mistake. If the latter, it's either that they were unaware of the facts or did not understand their significance.Boris Johnsonhas assured parliament that at gatherings in Downing Street \"no rules were broken\", but he has been found by the police to have broken the law.This untruth may have resulted from mendacity, ignorance or incompetence on his part. Any one of those shortcomings should disqualify him from being prime minister, however he tries to justify himself to parliament on Tuesday.Susan AlexanderSouth Gloucestershire"
+        }
+    ]
+}

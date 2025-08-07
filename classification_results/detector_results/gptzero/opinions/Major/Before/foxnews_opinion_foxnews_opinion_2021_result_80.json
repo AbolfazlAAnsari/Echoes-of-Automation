@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.7999647855758667,
+                    "sentence": "Mutual Fund and ETF data provided byRefinitiv Lipper.The Fox News contributor says that President Biden is waging war on small businesses as inflation fears growᅳbut CNN doesn't seem to noticeThis article is adapted from Joe Concha's video commentary.He's the big guy in the Oval Office, according to everyone from Hunter Biden's former business partnerTony BobulinskitoCNN town hallmoderator Don Lemon.But to small businesses and particularly the restaurant business, President Joe Biden is not the big guy who has their backs, but rather a big problem.One exchange of note at the sparsely attended CNN Town Hall on Tuesday night occurred between a prominent co-founder of a respected Ohio restaurant group named John Lanni and the president of the United States on the labor shortage crippling the industry.JOE CONCHA: DEMOCRATS EXPECT AND RECEIVE SOFT MEDIA COVERAGE\"Instead of ten cents you're paying twenty ᅳ you understand what I'm saying.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.7099126577377319,
+                    "sentence": "It relates to what is in fact now needed because we're growing,\" Biden said.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.7987515926361084,
+                    "sentence": "\"I don't know anybody, including Larry Summers, who's a friend of mine, who's worried about inflation, is suggesting that there's any long-term march here if we do the things we're going to do,\" the president added.If only restaurants, who took it on the chin more than any other industry during COVID, paid their workers more, then they wouldn't have this problem.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006737681105732918,
+                    "sentence": "Funny how restaurants didn't have this hiring issue before the government paid people not to work.Of course, after the sham that was the CNN Town Hall, they ran this headline.Yep.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010295024141669273,
+                    "sentence": "Tough economic love.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02822250686585903,
+                    "sentence": "Might as well be a White House press release because this stuff from an alleged news network is tough all right … Tough not to laugh at.Joe Concha is a FOX News contributor who joined the network in 2020.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.17080125212669373,
+                    "sentence": "His latest book is \"Progressively Worse: Why Today's Democrats Ain't Your Daddy's Donkeys\" (Broadside Books, July 30, 2024).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.30844850543513125,
+            "class_probabilities": {
+                "human": 0.6908876568517032,
+                "ai": 0.30844850543513125,
+                "mixed": 0.0006638377131656658
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.6908876568517032,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.30844850543513125,
+                    "human": 0.6908876568517032,
+                    "mixed": 0.0006638377131656658
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Mutual Fund and ETF data provided byRefinitiv Lipper.The Fox News contributor says that President Biden is waging war on small businesses as inflation fears grow—but CNN doesn’t seem to noticeThis article is adapted from Joe Concha's video commentary.He’s the big guy in the Oval Office, according to everyone from Hunter Biden’s former business partnerTony BobulinskitoCNN town hallmoderator Don Lemon.But to small businesses and particularly the restaurant business, President Joe Biden is not the big guy who has their backs, but rather a big problem.One exchange of note at the sparsely attended CNN Town Hall on Tuesday night occurred between a prominent co-founder of a respected Ohio restaurant group named John Lanni and the president of the United States on the labor shortage crippling the industry.JOE CONCHA: DEMOCRATS EXPECT AND RECEIVE SOFT MEDIA COVERAGE\"Instead of ten cents you're paying twenty — you understand what I'm saying. It relates to what is in fact now needed because we're growing,\" Biden said.\"I don't know anybody, including Larry Summers, who's a friend of mine, who's worried about inflation, is suggesting that there's any long-term march here if we do the things we're going to do,\" the president added.If only restaurants, who took it on the chin more than any other industry during COVID, paid their workers more, then they wouldn’t have this problem. Funny how restaurants didn’t have this hiring issue before the government paid people not to work.Of course, after the sham that was the CNN Town Hall, they ran this headline.Yep. Tough economic love. Might as well be a White House press release because this stuff from an alleged news network is tough all right … Tough not to laugh at.Joe Concha is a FOX News contributor who joined the network in 2020. His latest book is \"Progressively Worse: Why Today's Democrats Ain't Your Daddy's Donkeys\" (Broadside Books, July 30, 2024)."
+        }
+    ]
+}

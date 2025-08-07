@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.000507658813148737,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°Tourists: Learn about KeaukahaTourists: Learn about KeaukahaGrowing up in the beautiful small homestead of Keaukaha, the various beaches stretch across the front street.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006542500341311097,
+                    "sentence": "Most of us walked to the beach after school or practice to take a dip in the water.There weren't many people who came to the Keaukaha homestead for the beaches.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006069160299375653,
+                    "sentence": "Hilo seemed more for the local people, since it was the opposite side of the island that tourists were more interested in.As the years went by and I no longer attended Keaukaha Elementary school but rather a freshman in college, I've noticed the drastic change every time I come home.Instead of seeing one bus full of visitors like when I was 8, I watch as four more filled buses unload people in our homestead.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004870616248808801,
+                    "sentence": "I watch as rented mustangs and jeeps fill in the newly made parking lots at Waiuli, buses parked horizontally taking up space, and a crowded beach that is slowly turning into Waikiki.It seems like the cruise ship right across Keaukaha General Store is docked every other day, bringing in more and more people.My homestead is no longer my homestead, but a dumping ground for visitors.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005883366102352738,
+                    "sentence": "As much as people are allowed to do whatever they like, I believe that education on our homestead and people/ways should be taught beforehand.Keaukaha is not only a place of beauty.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017252557445317507,
+                    "sentence": "People live here.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00026975281070917845,
+                    "sentence": "There is history, and it should be mandated to learn about where you are when coming off a bus, plane or ship.Hoku MartinsHilo'Keep Out' signs send bad messageNeighbors, despite “No Trespassing” and “Keep Out” signs around your property, are you still bothered by folks who still want to sell you something, seeking your vote, or just there to spread the good word?Perhaps a much more friendlier and nicer way of saying “no thank you” ᅳ rather than having those bold, loud, intimidating black and bright red “Stay Off My Property” signs ᅳ would be to have one large sign reading: “Our freezer is already packed with benefit chili.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005978060071356595,
+                    "sentence": "We shampoo our own carpets.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00047270930372178555,
+                    "sentence": "We already know who we are voting for.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008993330411612988,
+                    "sentence": "We have finally found the Lord.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007341995951719582,
+                    "sentence": "No soliciting, please.”Rick LaMontagneHilo",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.017486769031531738,
+            "class_probabilities": {
+                "human": 0.9825132309684682,
+                "ai": 0.017486769031531738,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9825132309684682,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.017486769031531738,
+                    "human": 0.9825132309684682,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°Tourists: Learn about KeaukahaTourists: Learn about KeaukahaGrowing up in the beautiful small homestead of Keaukaha, the various beaches stretch across the front street. Most of us walked to the beach after school or practice to take a dip in the water.There weren’t many people who came to the Keaukaha homestead for the beaches. Hilo seemed more for the local people, since it was the opposite side of the island that tourists were more interested in.As the years went by and I no longer attended Keaukaha Elementary school but rather a freshman in college, I’ve noticed the drastic change every time I come home.Instead of seeing one bus full of visitors like when I was 8, I watch as four more filled buses unload people in our homestead. I watch as rented mustangs and jeeps fill in the newly made parking lots at Waiuli, buses parked horizontally taking up space, and a crowded beach that is slowly turning into Waikiki.It seems like the cruise ship right across Keaukaha General Store is docked every other day, bringing in more and more people.My homestead is no longer my homestead, but a dumping ground for visitors. As much as people are allowed to do whatever they like, I believe that education on our homestead and people/ways should be taught beforehand.Keaukaha is not only a place of beauty. People live here. There is history, and it should be mandated to learn about where you are when coming off a bus, plane or ship.Hoku MartinsHilo‘Keep Out’ signs send bad messageNeighbors, despite “No Trespassing” and “Keep Out” signs around your property, are you still bothered by folks who still want to sell you something, seeking your vote, or just there to spread the good word?Perhaps a much more friendlier and nicer way of saying “no thank you” — rather than having those bold, loud, intimidating black and bright red “Stay Off My Property” signs — would be to have one large sign reading: “Our freezer is already packed with benefit chili. We shampoo our own carpets. We already know who we are voting for. We have finally found the Lord. No soliciting, please.”Rick LaMontagneHilo"
+        }
+    ]
+}

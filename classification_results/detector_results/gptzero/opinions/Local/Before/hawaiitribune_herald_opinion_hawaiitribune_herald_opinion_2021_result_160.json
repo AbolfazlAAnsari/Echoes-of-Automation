@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0015903422608971596,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Cautionary taleCautionary taleThis is a true story that should be a warning for those that need a COVID-19 test to enter Hawaii ᅳ a story about testing and how Hawaii Safe Travels are the Grinches that redefine “cancel culture.”I invited my granddaughter's and grandson's families to visit for this Thanksgiving get together here in Hawaii.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012865046737715602,
+                    "sentence": "They live 4,838 miles apart in two different countries.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013894266448915005,
+                    "sentence": "Haven't seen each other in years.One, 7 years old, was given a “rapid test” which came back positive.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009722100803628564,
+                    "sentence": "In the following 48 hours she was given two different, more thorough, PCR tests that were negative.She showed no signs of COVID, and had one vaccine jab.Based on the three tests, the airline said she was good to fly.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012652234872803092,
+                    "sentence": "Safe Travels wouldn't allow her into Hawaii.I offer this warning: If you need to fly into Hawaii, don't take a “rapid test,” which has a higher rate of false positives than the PCR.Hawaii Safe Travels will bar your entry into Hawaii with any positive.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014257240109145641,
+                    "sentence": "It does not recognize false positives.Theodore LesnettHilo'Legacy facilities'Government stewardship in Hawaii is not working.Now, we are tearing down Papa'aloa gym.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018147543305531144,
+                    "sentence": "On a recent visit to Mahukona, the pavilion was boarded up and is probably in the queue for next demolition.We fail to maintain the legacy facilities we have, but build a dog-walking park in Waiakea Uka, where most of the streets have sidewalks.Speaking of sidewalks, during the recent upgrade of Kilauea Avenue, beautiful new sidewalks were added on both sides of the street, but they stopped short of making a usable path, from downtown to the Puainako shopping area, on at least one side of the street.I live in a 94-year-old house.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001999123254790902,
+                    "sentence": "The previous (private) owners believed in maintenance (thank you).I don't blame the current administration for the condition of the property they “received,” but I charge them with preserving and improving the property condition they now hold.Jeffery LuxVolcanoThe Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02369554340839386,
+                    "sentence": "The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01298408955335617,
+                    "sentence": "Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneNEW YORK ᅳ Coco Gauff's U.S. Open title defence ended in a 6-3 4-6 6-3 loss to fellow American Emma Navarro in the fourth round on Sunday, the reigning women's champion becoming the latest big name to make an early exit at Flushing Meadows this year.Record-setting University of Hawaii quarterback and 2007 Heisman Trophy finalist Colt Brennan has died, his father Terry Brennan told the Honolulu Star-Advertiser.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Cautionary taleCautionary taleThis is a true story that should be a warning for those that need a COVID-19 test to enter Hawaii — a story about testing and how Hawaii Safe Travels are the Grinches that redefine “cancel culture.”I invited my granddaughter’s and grandson’s families to visit for this Thanksgiving get together here in Hawaii. They live 4,838 miles apart in two different countries. Haven’t seen each other in years.One, 7 years old, was given a “rapid test” which came back positive. In the following 48 hours she was given two different, more thorough, PCR tests that were negative.She showed no signs of COVID, and had one vaccine jab.Based on the three tests, the airline said she was good to fly. Safe Travels wouldn’t allow her into Hawaii.I offer this warning: If you need to fly into Hawaii, don’t take a “rapid test,” which has a higher rate of false positives than the PCR.Hawaii Safe Travels will bar your entry into Hawaii with any positive. It does not recognize false positives.Theodore LesnettHilo‘Legacy facilities’Government stewardship in Hawaii is not working.Now, we are tearing down Papa‘aloa gym. On a recent visit to Mahukona, the pavilion was boarded up and is probably in the queue for next demolition.We fail to maintain the legacy facilities we have, but build a dog-walking park in Waiakea Uka, where most of the streets have sidewalks.Speaking of sidewalks, during the recent upgrade of Kilauea Avenue, beautiful new sidewalks were added on both sides of the street, but they stopped short of making a usable path, from downtown to the Puainako shopping area, on at least one side of the street.I live in a 94-year-old house. The previous (private) owners believed in maintenance (thank you).I don’t blame the current administration for the condition of the property they “received,” but I charge them with preserving and improving the property condition they now hold.Jeffery LuxVolcanoThe Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today. The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph. Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneNEW YORK — Coco Gauff’s U.S. Open title defence ended in a 6-3 4-6 6-3 loss to fellow American Emma Navarro in the fourth round on Sunday, the reigning women’s champion becoming the latest big name to make an early exit at Flushing Meadows this year.Record-setting University of Hawaii quarterback and 2007 Heisman Trophy finalist Colt Brennan has died, his father Terry Brennan told the Honolulu Star-Advertiser."
+        }
+    ]
+}

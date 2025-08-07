@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0037940158508718014,
+                    "sentence": "Listen to a trailer for the new weekly podcast from New York Times Opinion.Listen to and follow 'Matter of Opinion'Apple Podcasts|Spotify|Stitcher|Amazon MusicPremiering May 11“Matter of Opinion” is a new weekly podcast from New York Times Opinion.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004784184042364359,
+                    "sentence": "Each week, four Opinion writers talk through an issue in the news, culture or in their own work, and try to make sense of what is a weird and fascinating time to be alive.The show features four of Opinion's signature voices: Michelle Cottle, Ross Douthat, Carlos Lozada and Lydia Polgreen.Meet the HostsMichelle Cottle is a member of the New York Times editorial board, focusing on U.S. politics.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004344262182712555,
+                    "sentence": "She has covered Washington and politics since the Clinton administration.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005149267613887787,
+                    "sentence": "She joined the editorial board in 2018 after reporting on the nation's capital as a contributing editor for The Atlantic.Ross Douthat joined The New York Times as an Opinion columnist in April 2009.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004061330109834671,
+                    "sentence": "He is the author of several books, including “The Deep Places: A Memoir of Illness and Discovery” and “Bad Religion: How We Became a Nation of Heretics.”Carlos Lozada joined New York Times Opinion as a columnist in 2022.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006252341903746128,
+                    "sentence": "Before that, he served as an editor and book critic at The Washington Post.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.016223711892962456,
+                    "sentence": "He won the Pulitzer Prize for Criticism in 2019 and is the author of “What Were We Thinking: A Brief Intellectual History of the Trump Era.”Lydia Polgreen spent a decade as a foreign correspondent for The New York Times and was the editor in chief of HuffPost before joining New York Times Opinion as a columnist in 2022.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01929124817252159,
+                    "sentence": "She has received several awards for her international reporting, including the 2006 Polk Award for her coverage of ethnic cleansing in Darfur.Thoughts?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.021041080355644226,
+                    "sentence": "Email us atmatterofopinion@nytimes.com.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.016253085806965828,
+                    "sentence": "Follow our hosts on Twitter: Michelle Cottle (@mcottle), Ross Douthat (@DouthatNYT) Carlos Lozada (@CarlosNYT) and Lydia Polgreen (@lpolgreen).“Matter of Opinion” is produced by Phoebe Lett.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013845361769199371,
+                    "sentence": "It is edited by Annie-Rose Strasser.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.015176394023001194,
+                    "sentence": "Mixing and original music by Pat McCusker and Isaac Jones.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.016354646533727646,
+                    "sentence": "The rest of the “Matter of Opinion” team includes Stephanie Joyce, Sophia Alvarez Boyd and Derek Arthur.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.021937046200037003,
+                    "sentence": "Special thanks to Allison Benedikt, Kristina Samulewski, Jeffrey Miranda and Shannon Busta.PHOTO: (PHOTOGRAPH BY The New York Times FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 1.9423489116273474e-12
+                }
+            ],
+            "completely_generated_prob": 0.025041194076269924,
+            "class_probabilities": {
+                "human": 0.974671313226954,
+                "ai": 0.025041194076269924,
+                "mixed": 0.00028749269677611
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.974671313226954,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.025041194076269924,
+                    "human": 0.974671313226954,
+                    "mixed": 0.00028749269677611
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Listen to a trailer for the new weekly podcast from New York Times Opinion.Listen to and follow ‘Matter of Opinion’Apple Podcasts|Spotify|Stitcher|Amazon MusicPremiering May 11“Matter of Opinion” is a new weekly podcast from New York Times Opinion. Each week, four Opinion writers talk through an issue in the news, culture or in their own work, and try to make sense of what is a weird and fascinating time to be alive.The show features four of Opinion’s signature voices: Michelle Cottle, Ross Douthat, Carlos Lozada and Lydia Polgreen.Meet the HostsMichelle Cottle is a member of the New York Times editorial board, focusing on U.S. politics. She has covered Washington and politics since the Clinton administration. She joined the editorial board in 2018 after reporting on the nation’s capital as a contributing editor for The Atlantic.Ross Douthat joined The New York Times as an Opinion columnist in April 2009. He is the author of several books, including “The Deep Places: A Memoir of Illness and Discovery” and “Bad Religion: How We Became a Nation of Heretics.”Carlos Lozada joined New York Times Opinion as a columnist in 2022. Before that, he served as an editor and book critic at The Washington Post. He won the Pulitzer Prize for Criticism in 2019 and is the author of “What Were We Thinking: A Brief Intellectual History of the Trump Era.”Lydia Polgreen spent a decade as a foreign correspondent for The New York Times and was the editor in chief of HuffPost before joining New York Times Opinion as a columnist in 2022. She has received several awards for her international reporting, including the 2006 Polk Award for her coverage of ethnic cleansing in Darfur.Thoughts? Email us atmatterofopinion@nytimes.com. Follow our hosts on Twitter: Michelle Cottle (@mcottle), Ross Douthat (@DouthatNYT) Carlos Lozada (@CarlosNYT) and Lydia Polgreen (@lpolgreen).“Matter of Opinion” is produced by Phoebe Lett. It is edited by Annie-Rose Strasser. Mixing and original music by Pat McCusker and Isaac Jones. The rest of the “Matter of Opinion” team includes Stephanie Joyce, Sophia Alvarez Boyd and Derek Arthur. Special thanks to Allison Benedikt, Kristina Samulewski, Jeffrey Miranda and Shannon Busta.PHOTO:  (PHOTOGRAPH BY The New York Times FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

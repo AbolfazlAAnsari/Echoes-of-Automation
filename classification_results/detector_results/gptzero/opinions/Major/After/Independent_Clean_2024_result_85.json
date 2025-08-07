@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0039007836021482944,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004951785318553448,
+                    "sentence": "Please send your letters toletters@independent.co.ukWhile calls to reform current homicide laws in the wake of theValdo Calocane attacksreflect publicdiscontent with the prosecutionof individuals in high-profile cases such as this, it is vital that clarity is established as to how a three-tiered system would function in terms of sentencing - particularly in cases where partial defence applies.Currently, the distinction betweenmurder and manslaughteris relatively clear - however, should the framework around homicide cases change, proving the difference between first and second-degree murder may become a challenge, particularly when there is a mental health consideration.It is important to note that the current three-tiered systemfor homicide casesin the US often struggles to grapple with the complexity of defendants with mental health disorders, and it is vital to ensure that any attempts to reform existing legislation in the UK are handled with extreme care to protect vulnerable defendants.Jessica Sobey, barristerHolbornPublic money in, private profits outFeargal Sharkeywas eloquent and passionate in his recent condemnation of the incompetence ofOfwatand the devastation wrought by the privatisation of the water industry.He was particularly fervent concerning the vast flow of profit out to shareholders parallel to the lack of infrastructure investment over many decades.Sadly, this model can be applied to any of the industries privatised sinceMargaret Thatcher.Public money (yours and mine) in - eye-watering profits out.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019141127122566104,
+                    "sentence": "Money gushes to shareholders and in wages and bonuses to chief execs while theinfrastructure has been leftto rot.Regulation is pathetically weak, and ineffectual, often with a revolving door between the regulator and the industry.Water leaks out through failing systems.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0024590331595391035,
+                    "sentence": "Sewageends up where it should not.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014992307405918837,
+                    "sentence": "Profits leak out to the wealthy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016180971870198846,
+                    "sentence": "Profiteers ooze in as they always have in these circumstances.And to make up for all this mess,the public pay more.Amanda BakerEdinburghA cutting planWhat is theTories' NHS plan?To reduce satisfaction levels among the general public, as an excuse to privatise it completely andmake it insurance-basedlike the USA?Is this the reason they have beenunwilling to talk to staffunions about salaries and staff retention?Alan HutchinsonAddress SuppliedWasted moneyAs I (at the age of 80) am part of the demographicJeremy Huntis hoping to entice into voting Tory at the next election, I am wondering whether a triple lock pension increase will be enough to finance an extra bottle of gin... to take my mind off the pain I am experiencing while waiting for an operation I originally expected to take placebefore the Covid pandemichit Britain.Forget pensions - use the money to improve services for all the people relying on theNHS!Bob SampsonWest SussexWhat goes down must come upAs a one-time owner of a highly seasonal business, I have some sympathy with the theme park operators, ofwhom Charlotte Crippscomplains.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0035538256634026766,
+                    "sentence": "All the costs of setting up and operating such a business have to be metwhether the sun is shiningor the rain pouring, and staff will need paying whether hundreds or just a few dozen are coming through the gates.Only employing staff when customer numbers warrant would just extendthe “gig economy”with poor employment practices.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004082752391695976,
+                    "sentence": "The allegedly “exorbitant” charges for holiday peaks have to be sufficient to pay the bills on wet Wednesdays in November as well as sunny Sundays in summer, and a business that didn't generate enough income during times of high demand would find that it didn't have a business left at the end of a quiet season - as I learned to my cost.Richard CharnleyNorth Yorkshire",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.0211691253780201,
+            "class_probabilities": {
+                "human": 0.9788308746219798,
+                "ai": 0.0211691253780201,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9788308746219798,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0211691253780201,
+                    "human": 0.9788308746219798,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukWhile calls to reform current homicide laws in the wake of theValdo Calocane attacksreflect publicdiscontent with the prosecutionof individuals in high-profile cases such as this, it is vital that clarity is established as to how a three-tiered system would function in terms of sentencing – particularly in cases where partial defence applies.Currently, the distinction betweenmurder and manslaughteris relatively clear – however, should the framework around homicide cases change, proving the difference between first and second-degree murder may become a challenge, particularly when there is a mental health consideration.It is important to note that the current three-tiered systemfor homicide casesin the US often struggles to grapple with the complexity of defendants with mental health disorders, and it is vital to ensure that any attempts to reform existing legislation in the UK are handled with extreme care to protect vulnerable defendants.Jessica Sobey, barristerHolbornPublic money in, private profits outFeargal Sharkeywas eloquent and passionate in his recent condemnation of the incompetence ofOfwatand the devastation wrought by the privatisation of the water industry.He was particularly fervent concerning the vast flow of profit out to shareholders parallel to the lack of infrastructure investment over many decades.Sadly, this model can be applied to any of the industries privatised sinceMargaret Thatcher.Public money (yours and mine) in – eye-watering profits out. Money gushes to shareholders and in wages and bonuses to chief execs while theinfrastructure has been leftto rot.Regulation is pathetically weak, and ineffectual, often with a revolving door between the regulator and the industry.Water leaks out through failing systems. Sewageends up where it should not.  Profits leak out to the wealthy. Profiteers ooze in as they always have in these circumstances.And to make up for all this mess,the public pay more.Amanda BakerEdinburghA cutting planWhat is theTories’ NHS plan?To reduce satisfaction levels among the general public, as an excuse to privatise it completely andmake it insurance-basedlike the USA?Is this the reason they have beenunwilling to talk to staffunions about salaries and staff retention?Alan HutchinsonAddress SuppliedWasted moneyAs I (at the age of 80) am part of the demographicJeremy Huntis hoping to entice into voting Tory at the next election, I am wondering whether a triple lock pension increase will be enough to finance an extra bottle of gin... to take my mind off the pain I am experiencing while waiting for an operation I originally expected to take placebefore the Covid pandemichit Britain.Forget pensions – use the money to improve services for all the people relying on theNHS!Bob SampsonWest SussexWhat goes down must come upAs a one-time owner of a highly seasonal business, I have some sympathy with the theme park operators, ofwhom Charlotte Crippscomplains. All the costs of setting up and operating such a business have to be metwhether the sun is shiningor the rain pouring, and staff will need paying whether hundreds or just a few dozen are coming through the gates.Only employing staff when customer numbers warrant would just extendthe “gig economy”with poor employment practices. The allegedly “exorbitant” charges for holiday peaks have to be sufficient to pay the bills on wet Wednesdays in November as well as sunny Sundays in summer, and a business that didn’t generate enough income during times of high demand would find that it didn’t have a business left at the end of a quiet season – as I learned to my cost.Richard CharnleyNorth Yorkshire"
+        }
+    ]
+}

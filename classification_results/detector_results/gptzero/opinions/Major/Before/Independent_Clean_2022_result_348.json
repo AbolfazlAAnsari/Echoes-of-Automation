@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0003424845926929265,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003034265246242285,
+                    "sentence": "Please send your letters toletters@independent.co.ukAt last!Keir Starmerhas, with his prospective constitutional reforms, announced a Labour policy that differentiates the party from Conservative-lite.Several commentators have derided him for apparently concentrating on an issue which seems distant from the perils and problems currently facing the public - thecost of living, fuel poverty, inadequate amounts of healthcare, warfare that might not continue to be remote, and so on.Butwhat could be more important to our democratic futuresthan tackling the practice of continually packing the House of Lords with peers whose contributions benefit the Conservative Party, rather than the nation as a whole?Not all of Labour's proposals will be implemented, but this announcement gives hope for 2024's general election.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004319050640333444,
+                    "sentence": "To quote a former leader of Labour: “Bring it on!”Emeritus Professor Ian ReidKilnwickSome things are more important than footballBrazil are playing some wonderful football, improving as the tournament develops and are now back as favourites to win.However, it is for others to dance in delight at their achievements -not the team itself.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005705515504814684,
+                    "sentence": "It is showboating and disrespectful to a talented South Korean team that was unlucky to come up against Brazil in their prime.What a contrast to the Japanese team and supporters who demonstrate humility and true sportsmanship andrespect for the environment.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000759466434828937,
+                    "sentence": "When Japan leaves a venue, it is exactly as it was when they arrived!Robert MurrayNottinghamNo referendum neededSean O'Grady writesthat “a move to rejoin the EU would require a fresh referendum”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009150644182227552,
+                    "sentence": "While perhaps desirable constitutionally, this isn't necessarily the case.All it would need is a party to commit to rejoining in its general election manifesto and then subsequently win a majority of seats in the House of Commons.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016129486029967666,
+                    "sentence": "Whether the EU would be amenable to such an outcome is, of course, another matter.Michael O'HareNorthwood, MiddlesexOne and half party systemWe often hear the two-party system line in the West, butyour article corrects this ancient rhetoricand shows the people the truth: it's actually a one-and-a-half party system: one Tory and one mini-Tory - yay for democracy!Despite the disgust I feel towards the members who betrayed the party, the general public and their own moral compasses, I feel beyond validated reading this.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012611029669642448,
+                    "sentence": "Year after year, I felt that theLabour Partyhad actively worked to keep the Tories in, and now we have proof that seniors in the party were doing this, many thanks to the leaker who's made me feel a bit less tin foil hat today.I'm a 25-year-old left winger that feels fed up with the UK's current outrageous political landscapeC MacauleyLeedsTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereWorking togetherWestern economies have learnt the importance of working together to provideUkrainewith urgent support.The UK has for many years sought to meet the need of those devastated by hunger via a strong international aid programme supported by charities.As we come to celebrate Christmas once more, is it not time for all wealthy and well-fed countries to work together to meet the needs of all those who are hungry?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.026919350028038025,
+                    "sentence": "God has blessed this world with bountiful supplies of food - if only men would share it.Jonathan LongstaffBuxted",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukAt last!Keir Starmerhas, with his prospective constitutional reforms, announced a Labour policy that differentiates the party from Conservative-lite.Several commentators have derided him for apparently concentrating on an issue which seems distant from the perils and problems currently facing the public – thecost of living, fuel poverty, inadequate amounts of healthcare, warfare that might not continue to be remote, and so on.Butwhat could be more important to our democratic futuresthan tackling the practice of continually packing the House of Lords with peers whose contributions benefit the Conservative Party, rather than the nation as a whole?Not all of Labour’s proposals will be implemented, but this announcement gives hope for 2024’s general election. To quote a former leader of Labour: “Bring it on!”Emeritus Professor Ian ReidKilnwickSome things are more important than footballBrazil are playing some wonderful football, improving as the tournament develops and are now back as favourites to win.However, it is for others to dance in delight at their achievements –not the team itself.  It is showboating and disrespectful to a talented South Korean team that was unlucky to come up against Brazil in their prime.What a contrast to the Japanese team and supporters who demonstrate humility and true sportsmanship andrespect for the environment.  When Japan leaves a venue, it is exactly as it was when they arrived!Robert MurrayNottinghamNo referendum neededSean O’Grady writesthat “a move to rejoin the EU would require a fresh referendum”. While perhaps desirable constitutionally, this isn’t necessarily the case.All it would need is a party to commit to rejoining in its general election manifesto and then subsequently win a majority of seats in the House of Commons. Whether the EU would be amenable to such an outcome is, of course, another matter.Michael O’HareNorthwood, MiddlesexOne and half party systemWe often hear the two-party system line in the West, butyour article corrects this ancient rhetoricand shows the people the truth: it’s actually a one-and-a-half party system: one Tory and one mini-Tory – yay for democracy!Despite the disgust I feel towards the members who betrayed the party, the general public and their own moral compasses, I feel beyond validated reading this. Year after year, I felt that theLabour Partyhad actively worked to keep the Tories in, and now we have proof that seniors in the party were doing this, many thanks to the leaker who’s made me feel a bit less tin foil hat today.I’m a 25-year-old left winger that feels fed up with the UK’s current outrageous political landscapeC MacauleyLeedsTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereWorking togetherWestern economies have learnt the importance of working together to provideUkrainewith urgent support.The UK has for many years sought to meet the need of those devastated by hunger via a strong international aid programme supported by charities.As we come to celebrate Christmas once more, is it not time for all wealthy and well-fed countries to work together to meet the needs of all those who are hungry? God has blessed this world with bountiful supplies of food – if only men would share it.Jonathan LongstaffBuxted"
+        }
+    ]
+}

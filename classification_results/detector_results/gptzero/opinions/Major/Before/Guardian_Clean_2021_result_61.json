@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0030343630351126194,
+                    "sentence": "The ex-cricketer and lapsed comedian have found new work in politics and TV respectively, but they are trading off old successes and even older opinionsIt's easy to find out when Ian Botham last played cricket, because there is Wisden, but it's hard to find out when John Cleese was last funny.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003102571703493595,
+                    "sentence": "Some people think he had some moderately amusing lines in A Fish Called Wanda (1988).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018247626721858978,
+                    "sentence": "There was a period in the 2010s when he had an idiosyncratic vendetta and went around town saying \"Michael Palin's travel show\" and then yawning, which a small niche found rather tickling.It would be fair to say it's not a recent body of comic work that has recommended Cleese fora Channel 4 show about \"cancel culture\", any more than it is Botham's sporting career that equips him to bethe trade envoy to Australiafor \"global Britain\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0056043099611997604,
+                    "sentence": "They have been drafted in for the vibes.Those vibes in full: they are outspoken gentlemen who refuse to be cowed by convention into staying silent on their sub-saloon-bar bullshit.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00598649587482214,
+                    "sentence": "They are fearless crusaders for freedom, so long as by \"freedom\" we mean the liberty to tell gags about male superiority that would have been too tired for Les Dawson.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00461703073233366,
+                    "sentence": "It is safe to assume that both men like golf, being such reliable club bores, but only Botham chose a second home for its proximal links, Cleese being more likely to relocate for a low, low tax regime.They are fiercely patriotic, the ex-cricketer in the sense that he yearns for control over our \"laws, trade and borders\", the \"comedian\" in the sense that he finds London \"not really an English city any more\" (really, though, John: what does a truly English city look like to you, from hilarityville?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004650242626667023,
+                    "sentence": "If you could spell it out, I'm sure we would all find it really funny).They are not the same job, making a programme in a light-but-hard-entertainment formatabout wokenessand acting as a trade envoy, but they seem to have an identical set of competencies.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006799515336751938,
+                    "sentence": "So, never mind what Channel 4 is thinking (we can always choose not to watch it, after all); you have to wonder: what exactly are we trading?Zoe Williams is a Guardian columnist",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.058471088130131146,
+            "class_probabilities": {
+                "human": 0.9415289118698688,
+                "ai": 0.058471088130131146,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9415289118698688,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.058471088130131146,
+                    "human": 0.9415289118698688,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "The ex-cricketer and lapsed comedian have found new work in politics and TV respectively, but they are trading off old successes and even older opinionsIt's easy to find out when Ian Botham last played cricket, because there is Wisden, but it's hard to find out when John Cleese was last funny. Some people think he had some moderately amusing lines in A Fish Called Wanda (1988). There was a period in the 2010s when he had an idiosyncratic vendetta and went around town saying \"Michael Palin's travel show\" and then yawning, which a small niche found rather tickling.It would be fair to say it's not a recent body of comic work that has recommended Cleese fora Channel 4 show about \"cancel culture\", any more than it is Botham's sporting career that equips him to bethe trade envoy to Australiafor \"global Britain\". They have been drafted in for the vibes.Those vibes in full: they are outspoken gentlemen who refuse to be cowed by convention into staying silent on their sub-saloon-bar bullshit. They are fearless crusaders for freedom, so long as by \"freedom\" we mean the liberty to tell gags about male superiority that would have been too tired for Les Dawson. It is safe to assume that both men like golf, being such reliable club bores, but only Botham chose a second home for its proximal links, Cleese being more likely to relocate for a low, low tax regime.They are fiercely patriotic, the ex-cricketer in the sense that he yearns for control over our \"laws, trade and borders\", the \"comedian\" in the sense that he finds London \"not really an English city any more\" (really, though, John: what does a truly English city look like to you, from hilarityville? If you could spell it out, I'm sure we would all find it really funny).They are not the same job, making a programme in a light-but-hard-entertainment formatabout wokenessand acting as a trade envoy, but they seem to have an identical set of competencies. So, never mind what Channel 4 is thinking (we can always choose not to watch it, after all); you have to wonder: what exactly are we trading?Zoe Williams is a Guardian columnist"
+        }
+    ]
+}

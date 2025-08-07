@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00018970080418512225,
+                    "sentence": "In Geoff Raby's opinion piece on China, \"A tit for tat with no end point\" (September 9), he claims that, \"This is a China policy without any strategy, a triumph of tactics\".What does he think the China strategy should look like?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002264639624627307,
+                    "sentence": "Has Raby considered that the \"complaisant and supine opposition\" he speaks of might in fact be working bilaterally in Australia's national interest?One more thing, given this is an opinion piece about China, it should be disclosed that Raby sits on the board of an Australian subsidiary of Chinese state-run Yanzhou Coal Mining Company.James KellAustralian National UniversityTrump takes socialmedia to new lowParnell Palme McGuinness is right in suggesting we are capable of dividing ourselves without help from a Chinese data mining firm (\"We are logged on to division,\" September 16).But it is remarkable she manages to write a whole essay about social media polarisation without mentioning once the name of US President Donald Trump, with his 80 million-plus Twitter followers and the loudest megaphone in the world.Trump has become the biggest online purveyor of misinformation and falsehoods.He started his political career by promoting the baseless and racist conspiracy theory that Barack Obama was born in Kenya.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00036124486359767616,
+                    "sentence": "He falsely accuses the former president of treason.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015283944085240364,
+                    "sentence": "He falsely claims voting by mail is fraudulent and the election is rigged.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000997819472104311,
+                    "sentence": "The Washington Post has documented his more than 20,000 lies since taking office.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013825667556375265,
+                    "sentence": "With almost 200,000 American deaths in the pandemic, he still questions the need for social distancing and masks.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00211670296266675,
+                    "sentence": "As riots sweep across the US, he denies any underlying police brutality and pours fuel on fire by advocating vigilante killings by his supporters.Han YangNorth Turramurra, NSW",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "In Geoff Raby's opinion piece on China, \"A tit for tat with no end point\" (September 9), he claims that, \"This is a China policy without any strategy, a triumph of tactics\".What does he think the China strategy should look like? Has Raby considered that the \"complaisant and supine opposition\" he speaks of might in fact be working bilaterally in Australia's national interest?One more thing, given this is an opinion piece about China, it should be disclosed that Raby sits on the board of an Australian subsidiary of Chinese state-run Yanzhou Coal Mining Company.James KellAustralian National UniversityTrump takes socialmedia to new lowParnell Palme McGuinness is right in suggesting we are capable of dividing ourselves without help from a Chinese data mining firm (\"We are logged on to division,\" September 16).But it is remarkable she manages to write a whole essay about social media polarisation without mentioning once the name of US President Donald Trump, with his 80 million-plus Twitter followers and the loudest megaphone in the world.Trump has become the biggest online purveyor of misinformation and falsehoods.He started his political career by promoting the baseless and racist conspiracy theory that Barack Obama was born in Kenya. He falsely accuses the former president of treason. He falsely claims voting by mail is fraudulent and the election is rigged. The Washington Post has documented his more than 20,000 lies since taking office. With almost 200,000 American deaths in the pandemic, he still questions the need for social distancing and masks. As riots sweep across the US, he denies any underlying police brutality and pours fuel on fire by advocating vigilante killings by his supporters.Han YangNorth Turramurra, NSW"
+        }
+    ]
+}

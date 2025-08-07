@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00044883808004669845,
+                    "sentence": "Please send your letters toletters@independent.co.ukMonday's front page shines a spotlight on our government's (yes, it is our government whether we voted for it or not) priorities.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005259574390947819,
+                    "sentence": "Fishing rights and control of our waters is a symbol of the UK's independence; efficient and effective trade with the EU in medicines is not.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005357668269425631,
+                    "sentence": "Not only is trade in medicines more valuable to the UK's economy, but it also adds value to the lives of UK citizens.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008359313942492008,
+                    "sentence": "Perhaps we need a new motto for the NHS: \"Let them eat fish.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002642305043991655,
+                    "sentence": "\"David WallisCirencesterAny good news?People running businesses of all sizes are well aware of the challenges they are facing with the imminent Brexit economic disaster.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00030975593836046755,
+                    "sentence": "What we have yet to discover are the opportunities Michael Gove and others trumpet.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021077372366562486,
+                    "sentence": "Maybe that is because, unlike our self-interested careerist political leaders, we live in the real world and not in some utopian fantasy land of privilege and nepotism.G ForwardStirlingCredit where it's dueA big vote of thanks is due to Simon Woolley, former advisory chair of the government's Race Disparity Unit, for his insider's view of the prime minister's attitude to racism.There has been no movement on addressing Islamophobia in the party of government despite years of campaigning and evidence supplied by Baroness Warsi.I, along with many, am seriously worried about Boris Johnson's attitude to racism and everything else.Eddie DougallBury St Edmunds, SuffolkSuitable slogansWith chancellor of the exchequer Rishi Sunak unveiling the new \"Diversity built Britain\" 50 pence piece, may I suggest three other slogans suitable to adorn our coinage: \"Freedom is slavery\", \"Ignorance is strength\" and most importantly \"War is peace\".Penny PondersEdinburghInvisibleThe list of groups and organisations who declare their need for government support during the Covid-19 crisis continues to grow.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000267390045337379,
+                    "sentence": "The only group that lacks a profile are the poor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00034431007225066423,
+                    "sentence": "Their singular public spokesperson seems to be a young footballer in the shape of Marcus Rashford, who has, to a certain degree, shamed the government into some small attempt to feed the children of poor families.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008656873251311481,
+                    "sentence": "American political scientist Francis Fukuyama comments that: \"To be poor is to be invisible to your fellow human beings, and the indignity of invisibility is often worse than the lack of resources.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00372794596478343,
+                    "sentence": "\"Frank KennyLiverpoolOld news?Not sure that your criticism of David Hare's series on the BBC, Roadkill, seemed fair.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005383371375501156,
+                    "sentence": "It seemed to imply that just because government corruption, hypocrisy and conspiracy have been done before in drama it's passe.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0038964266423135996,
+                    "sentence": "So just move on to something else like horror or tangled sex lives instead?The corruption etc of government is dragging this country downwards and screwing us all, literally and metaphorically, so we should just stifle a yawn turn the TV over to watch a US detective story with a dog as the co-star?David SouthEssexRead more'Australia-style Brexit' is effectively no-deal, government admitsTop UK bishops slam 'disastrous' bill as Brexit talks teeterUK's post-Brexit fishing protections 'pitifully weak'Can you get coronavirus twice or does it cause immunity?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.024461651786716186,
+            "class_probabilities": {
+                "human": 0.9754981327244504,
+                "ai": 0.024461651786716186,
+                "mixed": 4.0215488833363626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9754981327244504,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024461651786716186,
+                    "human": 0.9754981327244504,
+                    "mixed": 4.0215488833363626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukMonday's front page shines a spotlight on our government's (yes, it is our government whether we voted for it or not) priorities. Fishing rights and control of our waters is a symbol of the UK's independence; efficient and effective trade with the EU in medicines is not. Not only is trade in medicines more valuable to the UK's economy, but it also adds value to the lives of UK citizens. Perhaps we need a new motto for the NHS: \"Let them eat fish.\"David WallisCirencesterAny good news?People running businesses of all sizes are well aware of the challenges they are facing with the imminent Brexit economic disaster. What we have yet to discover are the opportunities Michael Gove and others trumpet. Maybe that is because, unlike our self-interested careerist political leaders, we live in the real world and not in some utopian fantasy land of privilege and nepotism.G ForwardStirlingCredit where it's dueA big vote of thanks is due to Simon Woolley, former advisory chair of the government's Race Disparity Unit, for his insider's view of the prime minister's attitude to racism.There has been no movement on addressing Islamophobia in the party of government despite years of campaigning and evidence supplied by Baroness Warsi.I, along with many, am seriously worried about Boris Johnson's attitude to racism and everything else.Eddie DougallBury St Edmunds, SuffolkSuitable slogansWith chancellor of the exchequer Rishi Sunak unveiling the new \"Diversity built Britain\" 50 pence piece, may I suggest three other slogans suitable to adorn our coinage: \"Freedom is slavery\", \"Ignorance is strength\" and most importantly \"War is peace\".Penny PondersEdinburghInvisibleThe list of groups and organisations who declare their need for government support during the Covid-19 crisis continues to grow. The only group that lacks a profile are the poor. Their singular public spokesperson seems to be a young footballer in the shape of Marcus Rashford, who has, to a certain degree, shamed the government into some small attempt to feed the children of poor families. American political scientist Francis Fukuyama comments that: \"To be poor is to be invisible to your fellow human beings, and the indignity of invisibility is often worse than the lack of resources.\"Frank KennyLiverpoolOld news?Not sure that your criticism of David Hare's series on the BBC, Roadkill, seemed fair. It seemed to imply that just because government corruption, hypocrisy and conspiracy have been done before in drama it's passe. So just move on to something else like horror or tangled sex lives instead?The corruption etc of government is dragging this country downwards and screwing us all, literally and metaphorically, so we should just stifle a yawn turn the TV over to watch a US detective story with a dog as the co-star?David SouthEssexRead more'Australia-style Brexit' is effectively no-deal, government admitsTop UK bishops slam 'disastrous' bill as Brexit talks teeterUK's post-Brexit fishing protections 'pitifully weak'Can you get coronavirus twice or does it cause immunity?"
+        }
+    ]
+}

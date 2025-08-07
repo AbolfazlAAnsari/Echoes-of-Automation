@@ -1,0 +1,177 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.9297688603401184,
+                    "sentence": "Published 5:48 pm Tuesday, November 21, 2023BySuffolk News-Herald Editorial BoardSmall Business Saturday is Paramount in fostering vibrant communities and supporting locally-owned businesses.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9892486333847046,
+                    "sentence": "This annual event, which falls on the Saturday after Thanksgiving, encourages consumers to shift their focus from large corporations to local enterprises.Why is that so crucial, you ask?Small businesses' impact on a community is far-reaching and plays a pivotal role in community development.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9854899048805237,
+                    "sentence": "A significant portion of the money spent at local businesses stays within the community, promoting economic growth and sustainability.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.981615424156189,
+                    "sentence": "This is exemplified by the fact that for every dollar spent at a local business, approximately $0.67 remains in the community, according to economists.Small businesses often support local causes and initiatives that are important to each community individually.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9832525253295898,
+                    "sentence": "When you choose to shop locally, you contribute to these businesses' ability to give back to the community and support charitable endeavors at a local level.Small Business Saturday celebrates the diverse range of local busiessential to our communities' fabricunities.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9850398898124695,
+                    "sentence": "It provides an opportunity to discover and appreciate the unique offerings of these enterprises and celebrates the people who own and operate these businesses.Let's not forget about job creation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9833959341049194,
+                    "sentence": "Shopping locally has a direct positive impact on job creation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9787255525588989,
+                    "sentence": "The more money staying within the community leads to more employment opportunities, contributing to the overall prosperity of the locality.Small Business Saturday was specifically created to address challenges faced by local businesses.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.996548593044281,
+                    "sentence": "By promoting the value of shopping llly it encourages consumers to invest in their communities and contributes to the success of small enterprises.Small Business Saturday is not just a day to shop; it's a movement that empowers communities, fuels economic development, and celebrates the unique character of locally owned businesses.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9334070682525635,
+                    "sentence": "By actively participating in this event, individuals can make a tangible difference in the prosperity of their neighborhoods.So, after you finish your Amazon order on Friday, make a plan to head out to your local brick-and-mortar and support them as well.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.02690996788442135,
+                    "sentence": "You will not have to travel far.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.002518284600228071,
+                    "sentence": "There will be a host of local businesses downtown for the Small Business Saturday event being held along Main St from 10 a.m. until 4 p.m. We can't think of a better way to celebrate and support our local businesses.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.005363812204450369,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.004807347897440195,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 0.27400280775049196
+                }
+            ],
+            "completely_generated_prob": 0.9062099332950194,
+            "class_probabilities": {
+                "human": 0,
+                "ai": 0.9062099332950194,
+                "mixed": 0.09379006670498058
+            },
+            "average_generated_prob": 1,
+            "predicted_class": "ai",
+            "confidence_score": 0.9062099332950194,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.9062099332950194,
+                    "human": 0,
+                    "mixed": 0.09379006670498058
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {
+                    "predicted_class": "pure_ai",
+                    "result_message": "",
+                    "confidence_score": 0.9999999998,
+                    "confidence_category": "high",
+                    "class_probabilities": {
+                        "pure_ai": 0.9999999999,
+                        "ai_paraphrased": 9.999999997e-11
+                    },
+                    "confidence_scores_raw": {
+                        "identity": {
+                            "pure_ai": 0.9999999998,
+                            "ai_paraphrased": 9.999999997e-11
+                        }
+                    },
+                    "confidence_thresholds_raw": {
+                        "identity": {
+                            "pure_ai": {
+                                "reject": 0.65,
+                                "low": 0.75,
+                                "medium": 0.92
+                            },
+                            "ai_paraphrased": {
+                                "reject": 0.85,
+                                "low": 0.9,
+                                "medium": 0.95
+                            }
+                        }
+                    }
+                },
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written by AI.",
+            "document_classification": "AI_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:48 pm Tuesday, November 21, 2023BySuffolk News-Herald Editorial BoardSmall Business Saturday is Paramount in fostering vibrant communities and supporting locally-owned businesses. This annual event, which falls on the Saturday after Thanksgiving, encourages consumers to shift their focus from large corporations to local enterprises.Why is that so crucial, you ask?Small businesses’ impact on a community is far-reaching and plays a pivotal role in community development. A significant portion of the money spent at local businesses stays within the community, promoting economic growth and sustainability. This is exemplified by the fact that for every dollar spent at a local business, approximately $0.67 remains in the community, according to economists.Small businesses often support local causes and initiatives that are important to each community individually. When you choose to shop locally, you contribute to these businesses’ ability to give back to the community and support charitable endeavors at a local level.Small Business Saturday celebrates the diverse range of local busiessential to our communities’ fabricunities. It provides an opportunity to discover and appreciate the unique offerings of these enterprises and celebrates the people who own and operate these businesses.Let’s not forget about job creation. Shopping locally has a direct positive impact on job creation. The more money staying within the community leads to more employment opportunities, contributing to the overall prosperity of the locality.Small Business Saturday was specifically created to address challenges faced by local businesses. By promoting the value of shopping llly it encourages consumers to invest in their communities and contributes to the success of small enterprises.Small Business Saturday is not just a day to shop; it’s a movement that empowers communities, fuels economic development, and celebrates the unique character of locally owned businesses. By actively participating in this event, individuals can make a tangible difference in the prosperity of their neighborhoods.So, after you finish your Amazon order on Friday, make a plan to head out to your local brick-and-mortar and support them as well. You will not have to travel far. There will be a host of local businesses downtown for the Small Business Saturday event being held along Main St from 10 a.m. until 4 p.m. We can’t think of a better way to celebrate and support our local businesses.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.000191027982509695,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°Neither side in wardeserves supportNeither side in wardeserves supportThis latest round of nationwide campus protests speak out against the war in Gaza.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010756532719824463,
+                    "sentence": "In the October attack, Hamas did not just murder more than 1,000 innocents.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013688814942725003,
+                    "sentence": "They raped, violated and killed women in horrific ways beyond anything “me too” has ever spoken of.The protesters don't understand that this is what “from the river to the sea” means.Compare maps of the West Bank from 1967 to today, and it is clear that Israelis have been taking land and killing Palestinians with impunity for the last 57 years.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011764775263145566,
+                    "sentence": "The more than 30,000 Gaza deaths are not an accident.The suffering could end today if Hamas cared about the Palestinians, but they do not.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010529581049922854,
+                    "sentence": "There are no “good guys” in this war.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011468476441223174,
+                    "sentence": "Neither are deserving of our support.All we can do is cry in the face of human suffering.Russ ButtonPahoaPlenty of blame forfire ants problemRegarding the issue of fire ants in our state, a recent news article mentioned the Senate grilling the Department of Agriculture about being too lax as far as inspecting the distribution of plants possibly containing fire ants.If you're going to put the blame on the Ag Department, then also put the blame on the wholesalers, retailers (big box garden stores), florists shops and even resident green-thumb folks selling plants from their back yards, including lei makers.Everyone has the responsibility of inspecting each plant before it is either sold an/or donated to charity for fundraising, or even given away to friends for free.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012648545089177787,
+                    "sentence": "And to the recipients of plants, immediately check the plants for any invasive critters.Rick LaMontagneHiloGreat care atHilo's hospitalAs a former Kapoho resident, I recently returned to visit relocated relatives in Keaau.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016418419545516372,
+                    "sentence": "Before I boarded the flight to Hilo, I suffered from stomach pain which intensified over the next 24 hours.My family rushed me to the Hilo Benioff Medical Center emergency room, where I experienced the most professional, compassionate and efficient medical care in all of my 80 years.They immediately alleviated my pain while expediting the necessary surgery.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004015648737549782,
+                    "sentence": "After recovering overnight in a comfortable hospital room, I was discharged the following afternoon.Thanks toallHilo hospital staff, including nurses, doctors and radiologists, as well as security guards and custodians, for working so proficiently as ateamand saving my life.David OrtmanLa Mesa, Calif.During the week of Aug. 19-25, Hawaii Island police arrested 22 motorists for DUI.A 71-year-old Hilo man pleaded guilty Monday to second-degree negligent homicide for the Oct. 3, 2023, traffic collision death of a 79-year-old Hilo woman.Hawaii military veterans can apply for a free tour to Washington, D.C., in recognition of their service.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.020795942848858842,
+            "class_probabilities": {
+                "human": 0.9791652287440812,
+                "ai": 0.020795942848858842,
+                "mixed": 3.8828407059955453e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9791652287440812,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020795942848858842,
+                    "human": 0.9791652287440812,
+                    "mixed": 3.8828407059955453e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°Neither side in wardeserves supportNeither side in wardeserves supportThis latest round of nationwide campus protests speak out against the war in Gaza. In the October attack, Hamas did not just murder more than 1,000 innocents. They raped, violated and killed women in horrific ways beyond anything “me too” has ever spoken of.The protesters don’t understand that this is what “from the river to the sea” means.Compare maps of the West Bank from 1967 to today, and it is clear that Israelis have been taking land and killing Palestinians with impunity for the last 57 years. The more than 30,000 Gaza deaths are not an accident.The suffering could end today if Hamas cared about the Palestinians, but they do not. There are no “good guys” in this war. Neither are deserving of our support.All we can do is cry in the face of human suffering.Russ ButtonPahoaPlenty of blame forfire ants problemRegarding the issue of fire ants in our state, a recent news article mentioned the Senate grilling the Department of Agriculture about being too lax as far as inspecting the distribution of plants possibly containing fire ants.If you’re going to put the blame on the Ag Department, then also put the blame on the wholesalers, retailers (big box garden stores), florists shops and even resident green-thumb folks selling plants from their back yards, including lei makers.Everyone has the responsibility of inspecting each plant before it is either sold an/or donated to charity for fundraising, or even given away to friends for free. And to the recipients of plants, immediately check the plants for any invasive critters.Rick LaMontagneHiloGreat care atHilo’s hospitalAs a former Kapoho resident, I recently returned to visit relocated relatives in Keaau. Before I boarded the flight to Hilo, I suffered from stomach pain which intensified over the next 24 hours.My family rushed me to the Hilo Benioff Medical Center emergency room, where I experienced the most professional, compassionate and efficient medical care in all of my 80 years.They immediately alleviated my pain while expediting the necessary surgery. After recovering overnight in a comfortable hospital room, I was discharged the following afternoon.Thanks toallHilo hospital staff, including nurses, doctors and radiologists, as well as security guards and custodians, for working so proficiently as ateamand saving my life.David OrtmanLa Mesa, Calif.During the week of Aug. 19-25, Hawaii Island police arrested 22 motorists for DUI.A 71-year-old Hilo man pleaded guilty Monday to second-degree negligent homicide for the Oct. 3, 2023, traffic collision death of a 79-year-old Hilo woman.Hawaii military veterans can apply for a free tour to Washington, D.C., in recognition of their service."
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.05513012409210205,
+                    "sentence": "Published 1:41 pm Tuesday, July 4, 2023BySuffolk News-HeraldThe sad news of a Suffolk man's death on a motorcycle over the weekend reminds us of the need for extreme caution this time of year as summertime lures more bikers to the streets.In the case of Saturday's fatal collision on County Street, the victim struck a vehicle backing out of a driveway, a simple act we all do daily that can quickly turn tragic.The Virginia Department of Motor Vehicles advises that the key is for both motorcyclists and motorists to look out for each other on the road, rather than assume careful driving by the other.“All drivers can help reduce the number of tragedies that occur on our roads, but it's also important for motorists to understand the additional safety challenges faced by riders, including visibility and protection,” said DMV Commissioner Gerald Lackey.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02409094199538231,
+                    "sentence": "“By raising awareness for motorists, we can work together to better ensure the safety of all motorcyclists on Virginia roadways.”In 2022, there were 2,053 motorcycle-related crashes on Virginia roadways, resulting in the deaths of 111 riders and serious injuries to 762 others.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0708933100104332,
+                    "sentence": "That's an 8.8% increase in motorcycle fatalities from 2021.To help keep riders safe, DMV offers a few extra tips for both motorists and riders alike:For bikersFor other motorists:Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07565583288669586,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…In one of five compelling matchups on the WNBA slate today, the Seattle Storm and Connecticut Sun will…Wondering how you should bet on today's WNBA games?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1903521716594696,
+                    "sentence": "Look no further.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1373046636581421,
+                    "sentence": "Below you'll find computer predictions on…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 6,
+                    "completely_generated_prob": 1.474742012248794e-05
+                }
+            ],
+            "completely_generated_prob": 0.06042626278398003,
+            "class_probabilities": {
+                "human": 0.9395737372160199,
+                "ai": 0.06042626278398003,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9395737372160199,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.06042626278398003,
+                    "human": 0.9395737372160199,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 1:41 pm Tuesday, July 4, 2023BySuffolk News-HeraldThe sad news of a Suffolk man’s death on a motorcycle over the weekend reminds us of the need for extreme caution this time of year as summertime lures more bikers to the streets.In the case of Saturday’s fatal collision on County Street, the victim struck a vehicle backing out of a driveway, a simple act we all do daily that can quickly turn tragic.The Virginia Department of Motor Vehicles advises that the key is for both motorcyclists and motorists to look out for each other on the road, rather than assume careful driving by the other.“All drivers can help reduce the number of tragedies that occur on our roads, but it’s also important for motorists to understand the additional safety challenges faced by riders, including visibility and protection,” said DMV Commissioner Gerald Lackey. “By raising awareness for motorists, we can work together to better ensure the safety of all motorcyclists on Virginia roadways.”In 2022, there were 2,053 motorcycle-related crashes on Virginia roadways, resulting in the deaths of 111 riders and serious injuries to 762 others. That’s an 8.8% increase in motorcycle fatalities from 2021.To help keep riders safe, DMV offers a few extra tips for both motorists and riders alike:For bikersFor other motorists:Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…In one of five compelling matchups on the WNBA slate today, the Seattle Storm and Connecticut Sun will…Wondering how you should bet on today’s WNBA games? Look no further. Below you’ll find computer predictions on…"
+        }
+    ]
+}

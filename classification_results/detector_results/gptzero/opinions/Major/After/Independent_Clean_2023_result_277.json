@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0005553222144953907,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00035982480039820075,
+                    "sentence": "Please send your letters toletters@independent.co.ukThis coming week SirKeir Starmerhas an almost unique opportunity to not only differentiate theLabour Partyfrom the Tories over its economic and social policies but, perhaps as importantly, contrast its moral and ethical differences.Reference to re-establishing a more principled and trustworthy Tory government, in the wake of his predecessors - particularlyJohnson's frequent transgressions- was almost entirely absent in Sunak's leader's speech.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00041453479207120836,
+                    "sentence": "Yet in the wake ofPartygate, the dubious award of PPE contracts, breaching international treaties and handing out peerages to cronies like confetti, the public may attach as much importance to the perceived integrity and conduct of the next prime minister and his party's plans to reform our standards in public life as any other priority.After his pledge to immediately resign should he be found guilty of breaching Covid rules two years ago,Starmer already has an inherent advantagethat rule-breaker Sunak doesn't.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009928700746968389,
+                    "sentence": "He should now follow this through by establishing a new set of public and parliamentary standards, including overdue constitutional changes, as befits a modern, egalitarian democracy.Paul DolanCheshirePlanes, trains and automobilesHaving removed any hope of a fast train link from Manchester to London, Rishi Sunak announced they were going ahead with the rail link extension to Manchester Airport.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010768172331154346,
+                    "sentence": "So citizens will soon be able to get to London even faster than by bullet train.G ForwardStirlingWhat did the Tories ever see in Johnson?Nick Eastwell in hisletter on 6 Octoberasks “how and why did the Tory party ever think such a man with no conscience, ethics, judgement, truthfulness, or genuine leadership qualities could ever be fit to be the prime minister of this country?”He was seen as able to win a lot of seats.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.014350230805575848,
+                    "sentence": "As far as many grass-roots Conservatives were concerned, this was the only criterion.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03150680288672447,
+                    "sentence": "The party's main historical strength is its survival instinct; as with many obsolete but extant social behaviours, this has a considerable downside.Cole DavisNorwichDon't write the Scottish rugby team off just yetIreland and Scotland meet today in the Rugby World Cup in an important game for both of them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07324370741844177,
+                    "sentence": "Whilst Ireland are clear favourites it would be foolish to write off a Scotland rugby side that is aggressively competitive up front and has pace to burn behind.Both teams have the motivation to secure a quarter-final place.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.031143367290496826,
+                    "sentence": "However, Scotland have something no other country in the competition can match - the enigmatic brilliance of Finn Russell.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01802266575396061,
+                    "sentence": "I think they will succeed.David NelmesAddress supplied",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThis coming week SirKeir Starmerhas an almost unique opportunity to not only differentiate theLabour Partyfrom the Tories over its economic and social policies but, perhaps as importantly, contrast its moral and ethical differences.Reference to re-establishing a more principled and trustworthy Tory government, in the wake of his predecessors – particularlyJohnson’s frequent transgressions– was almost entirely absent in Sunak’s leader’s speech. Yet in the wake ofPartygate, the dubious award of PPE contracts, breaching international treaties and handing out peerages to cronies like confetti, the public may attach as much importance to the perceived integrity and conduct of the next prime minister and his party’s plans to reform our standards in public life as any other priority.After his pledge to immediately resign should he be found guilty of breaching Covid rules two years ago,Starmer already has an inherent advantagethat rule-breaker Sunak doesn’t. He should now follow this through by establishing a new set of public and parliamentary standards, including overdue constitutional changes, as befits a modern, egalitarian democracy.Paul DolanCheshirePlanes, trains and automobilesHaving removed any hope of a fast train link from Manchester to London, Rishi Sunak announced they were going ahead with the rail link extension to Manchester Airport. So citizens will soon be able to get to London even faster than by bullet train.G ForwardStirlingWhat did the Tories ever see in Johnson?Nick Eastwell in hisletter on 6 Octoberasks “how and why did the Tory party ever think such a man with no conscience, ethics, judgement, truthfulness, or genuine leadership qualities could ever be fit to be the prime minister of this country?”He was seen as able to win a lot of seats. As far as many grass-roots Conservatives were concerned, this was the only criterion. The party’s main historical strength is its survival instinct; as with many obsolete but extant social behaviours, this has a considerable downside.Cole DavisNorwichDon’t write the Scottish rugby team off just yetIreland and Scotland meet today in the Rugby World Cup in an important game for both of them. Whilst Ireland are clear favourites it would be foolish to write off a Scotland rugby side that is aggressively competitive up front and has pace to burn behind.Both teams have the motivation to secure a quarter-final place. However, Scotland have something no other country in the competition can match – the enigmatic brilliance of Finn Russell. I think they will succeed.David NelmesAddress supplied"
+        }
+    ]
+}

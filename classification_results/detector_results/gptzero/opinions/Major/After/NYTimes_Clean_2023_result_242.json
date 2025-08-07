@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00030440735281445086,
+                    "sentence": "What kind of war should we expect in the weeks to come?Listen to and follow 'Matter of Opinion'Apple Podcasts|Spotify|Amazon MusicThis week, the Opinion columnist and former New York Times Jerusalem bureau chief Thomas L. Friedman joins the “Matter of Opinion” hosts to discuss the rapidly evolving situation in the Middle East and the mistakes that led to this moment.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00035063171526417136,
+                    "sentence": "(He's looking at you, Benjamin Netanyahu.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005205092020332813,
+                    "sentence": ")(A transcript of this episode can be found in the center of the audio player above.)Thoughts?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00026124806026928127,
+                    "sentence": "Email us atmatterofopinion@nytimes.com.Follow our hosts on X: Michelle Cottle (@mcottle), Ross Douthat (@DouthatNYT), Carlos Lozada (@CarlosNYT) and Lydia Polgreen (@lpolgreen).“Matter of Opinion” is produced by Phoebe Lett, Sophia Alvarez Boyd and Derek Arthur.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00026801705826073885,
+                    "sentence": "It is edited by Alison Bruzek.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003004383761435747,
+                    "sentence": "Mixing by Pat McCusker and Carole Sabouraud.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004175485810264945,
+                    "sentence": "Original music by Isaac Jones, Efim Shapiro, Carol Sabouraud, Sonia Herrero and Pat McCusker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004036388418171555,
+                    "sentence": "Our fact-checking team is Kate Sinclair, Mary Marge Locker and Michelle Harris.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005107751348987222,
+                    "sentence": "Audience strategy by Shannon Busta and Kristina Samulewski.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004920259234495461,
+                    "sentence": "Our executive producer is Annie-Rose Strasser.PHOTO: (PHOTOGRAPH BY Illustration by The New York Times; Photograph by Jacquelyn Martin/Getty Images FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.015281828032010496,
+            "class_probabilities": {
+                "human": 0.9847181719679895,
+                "ai": 0.015281828032010496,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9847181719679895,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.015281828032010496,
+                    "human": 0.9847181719679895,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "What kind of war should we expect in the weeks to come?Listen to and follow ‘Matter of Opinion’Apple Podcasts|Spotify|Amazon MusicThis week, the Opinion columnist and former New York Times Jerusalem bureau chief Thomas L. Friedman joins the “Matter of Opinion” hosts to discuss the rapidly evolving situation in the Middle East and the mistakes that led to this moment. (He’s looking at you, Benjamin Netanyahu.)(A transcript of this episode can be found in the center of the audio player above.)Thoughts? Email us atmatterofopinion@nytimes.com.Follow our hosts on X: Michelle Cottle (@mcottle), Ross Douthat (@DouthatNYT), Carlos Lozada (@CarlosNYT) and Lydia Polgreen (@lpolgreen).“Matter of Opinion” is produced by Phoebe Lett, Sophia Alvarez Boyd and Derek Arthur. It is edited by Alison Bruzek. Mixing by Pat McCusker and Carole Sabouraud. Original music by Isaac Jones, Efim Shapiro, Carol Sabouraud, Sonia Herrero and Pat McCusker. Our fact-checking team is Kate Sinclair, Mary Marge Locker and Michelle Harris. Audience strategy by Shannon Busta and Kristina Samulewski. Our executive producer is Annie-Rose Strasser.PHOTO:  (PHOTOGRAPH BY Illustration by The New York Times; Photograph by Jacquelyn Martin/Getty Images FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

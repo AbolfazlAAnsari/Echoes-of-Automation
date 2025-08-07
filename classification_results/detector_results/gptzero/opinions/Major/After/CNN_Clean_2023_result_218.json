@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 1.894693741633091e-05,
+                    "sentence": "(CNN) &#8212;Fox News, which last week settled a defamation suit with Dominion Voting Systems for $787.5 million, rocked the media world Monday with its announcement that the network andTucker Carlsonhad parted ways, and that his last show was the one he did on Friday.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.333966014906764e-05,
+                    "sentence": "The network did not offer an explanation.As one of the most popular and divisive hosts on cable television, his departure is sure to significantly change the face of primetime news and talk TV.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.9056183848297223e-05,
+                    "sentence": "And it is hard to believe it won't be for the better as we enter what could be one of the nastiest presidential campaigns in American history.A performer who attracts anaudienceof as many as 3 millionviewersa night and dominates the ratings as Carlson did doesn't suddenly disappear without significantly altering the landscape in a competitive sense.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.398332071607001e-05,
+                    "sentence": "That was evident when Fox Corp.'sstockinitially dropped 5% on the news of Carlson's departure.Carlson achieved that kind of prominence through the cultural role he came to play, as a Trump-like figure constantly transgressing media boundaries from the right just as former PresidentDonald Trump did with political norms.What Carlson triggered with his words and actions was more than just controversy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.6980698748957366e-05,
+                    "sentence": "It was closer to hate speech than primetime mainstream cable talk when he suggested in 2018 thatimmigrantsmade the nation \"dirtier.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.4691809812793508e-05,
+                    "sentence": "\"Advertisers boycotted his show in response to such rhetoric, and just like Trump, he regularly played the aggrievedvictim, claiming he was being targeted by left-winggroups and his First Amendment rights were being violated.Carlson pushed the outrage button more and more in recent years, taking his show toHungaryin 2021, for example, to celebrate the authoritarian Prime MinisterViktor Orbanand hold him up as a strong and successful leader in opposition of President Joe Biden who he characterized as weak and ineffectual on issues like immigration.Carlson's most recent outrage involved using videotapes that House Speaker Kevin McCarthy supplied him with to try to create a primetime counter-narrative to the deadlyJan.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.46508422808256e-05,
+                    "sentence": "6 insurrection, including thefalse claimthat \"federal agents encouraged the violence.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.8095240850234404e-05,
+                    "sentence": "\"Through such words and acts, Carlson became one of the sneering faces of White privilege, and one of the leading TV spokespeople of many MAGA values and a virulent verbal attacker of all things those on the far right might consider \"woke.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000388438900699839,
+                    "sentence": "\"Will primetime cable TV be better as a result of his departure?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002871376054827124,
+                    "sentence": "It would be hard to imagine that it wouldn't be.Hate speech has no place anywhere on TV, and Carlson was continually pushing the envelope.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012916164996568114,
+                    "sentence": "And the last thing our media ecosystem needs is more disinformation of the kind Carlson was dangerously pumping into primetime.Given the price tag of getting out of the Dominion lawsuit and the defamation actions pending, it is hard to imagine Fox going for someone even more transgressive than Carlson in his time slot.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010423963249195367,
+                    "sentence": "Fox said that for the time being, it will be using a rotation of hosts.Here's hoping Carlson's departure will come to mark a pivot point toward less divisive, outrageous and polarizing primetime programming on Fox in this coming election year.Opinion by David ZurawikTM & © 2023 Cable News Network, Inc., a Time Warner Company.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011544866720214486,
+                    "sentence": "All rights reserved.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.006576924694833349,
+            "class_probabilities": {
+                "human": 0.9934230753051666,
+                "ai": 0.006576924694833349,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9934230753051666,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006576924694833349,
+                    "human": 0.9934230753051666,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "(CNN) &#8212;Fox News, which last week settled a defamation suit with Dominion Voting Systems for $787.5 million, rocked the media world Monday with its announcement that the network andTucker Carlsonhad parted ways, and that his last show was the one he did on Friday. The network did not offer an explanation.As one of the most popular and divisive hosts on cable television, his departure is sure to significantly change the face of primetime news and talk TV. And it is hard to believe it won't be for the better as we enter what could be one of the nastiest presidential campaigns in American history.A performer who attracts anaudienceof as many as 3 millionviewersa night and dominates the ratings as Carlson did doesn't suddenly disappear without significantly altering the landscape in a competitive sense. That was evident when Fox Corp.'sstockinitially dropped 5% on the news of Carlson's departure.Carlson achieved that kind of prominence through the cultural role he came to play, as a Trump-like figure constantly transgressing media boundaries from the right just as former PresidentDonald Trump did with political norms.What Carlson triggered with his words and actions was more than just controversy. It was closer to hate speech than primetime mainstream cable talk when he suggested in 2018 thatimmigrantsmade the nation \"dirtier.\"Advertisers boycotted his show in response to such rhetoric, and just like Trump, he regularly played the aggrievedvictim, claiming he was being targeted by left-winggroups and his First Amendment rights were being violated.Carlson pushed the outrage button more and more in recent years, taking his show toHungaryin 2021, for example, to celebrate the authoritarian Prime MinisterViktor Orbanand hold him up as a strong and successful leader in opposition of President Joe Biden who he characterized as weak and ineffectual on issues like immigration.Carlson's most recent outrage involved using videotapes that House Speaker Kevin McCarthy supplied him with to try to create a primetime counter-narrative to the deadlyJan. 6 insurrection, including thefalse claimthat \"federal agents encouraged the violence.\"Through such words and acts, Carlson became one of the sneering faces of White privilege, and one of the leading TV spokespeople of many MAGA values and a virulent verbal attacker of all things those on the far right might consider \"woke.\"Will primetime cable TV be better as a result of his departure? It would be hard to imagine that it wouldn't be.Hate speech has no place anywhere on TV, and Carlson was continually pushing the envelope. And the last thing our media ecosystem needs is more disinformation of the kind Carlson was dangerously pumping into primetime.Given the price tag of getting out of the Dominion lawsuit and the defamation actions pending, it is hard to imagine Fox going for someone even more transgressive than Carlson in his time slot. Fox said that for the time being, it will be using a rotation of hosts.Here's hoping Carlson's departure will come to mark a pivot point toward less divisive, outrageous and polarizing primetime programming on Fox in this coming election year.Opinion by David ZurawikTM & © 2023 Cable News Network, Inc., a Time Warner Company. All rights reserved."
+        }
+    ]
+}

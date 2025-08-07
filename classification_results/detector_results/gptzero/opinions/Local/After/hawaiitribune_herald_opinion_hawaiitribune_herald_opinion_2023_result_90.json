@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.005632972810417414,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°In this space we do the talking, about what the Daily News deems important and worthy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002696602838113904,
+                    "sentence": "But today we are giving a good chunk of our space to Secretary of State Tony Blinken.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004152108449488878,
+                    "sentence": "America's top diplomat gave his year-end press conference Wednesday before he left for another trip to the Mideast for the Israel-Hamas war that the terror gang launched from Gaza on Oct. 7.Meanwhile, here on the East Side, the United Nations Security Council postponed yet again a vote on an United Arab Emirates-drafted resolution calling for a pause in the fighting to bring in aid to Gaza and allow for the hostages kidnaped by Hamas to be released.The Monday vote became the Tuesday vote became the Wednesday vote and is now the Thursday vote because the U.S. is rightly insisting that Hamas be named as instigators of this awful war that has killed Israelis and Palestinians.Great credit to Blinken and President Joe Biden for demanding that the Security Council must call a terrorist a terrorist.Here is Blinken:“We've talked about Israel and Gaza.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002669471548870206,
+                    "sentence": "Let me just say this.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00415676599368453,
+                    "sentence": "We believe that, as we've said from the outset, Israel has not only a right but an obligation to defend itself and to try to make sure that Oct. 7 never happens again.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003618920687586069,
+                    "sentence": "Any other country in the world faced with what Israel suffered on Oct. 7 would do the same thing.“We've also said ᅳ and we've been very clear ᅳ that how Israel does it matters and matters tremendously.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016985285328701138,
+                    "sentence": "And there, too, we've been very deeply engaged with them to maximize protections for civilians, to maximize humanitarian assistance, to minimize harm to people in Gaza.“One of the things that's striking to me is that, understandably, everyone would like to see this conflict end as quickly as possible, but if it ends with Hamas remaining in place and having the capacity and the stated intent to repeat Oct. 7 again and again and again, that's not in the interests of Israel, it's not in the interests of the region, it's not in the interests of the world.“And what is striking to me is that even as, again, we hear many countries urging the end to this conflict, which we would all like to see, I hear virtually no one saying ᅳ demanding of Hamas that it stop hiding behind civilians, that it lay down its arms, that it surrender.“This is over tomorrow if Hamas does that.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007892611320130527,
+                    "sentence": "This would have been over a month ago, six weeks ago, if Hamas had done that.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008527513127774,
+                    "sentence": "And how could it ᅳ how can it be that there are no demands made of the aggressor and only demands made of the victim?“So it would be good if there was a strong international voice pressing Hamas to do what's necessary to end this.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000743380980566144,
+                    "sentence": "And again, that could be tomorrow.“And again, I come back to this basic proposition.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011538281105458736,
+                    "sentence": "There seems to be silence on what Hamas could do, should do, must do if we want to end the suffering of innocent men, women, and children.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012782656121999025,
+                    "sentence": "It would be, I think, good if the world could unite around that proposition as well.”Well said, Mr. Secretary.ᅳ New York Daily News",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.025041194076269924,
+            "class_probabilities": {
+                "human": 0.974671313226954,
+                "ai": 0.025041194076269924,
+                "mixed": 0.00028749269677611
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.974671313226954,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.025041194076269924,
+                    "human": 0.974671313226954,
+                    "mixed": 0.00028749269677611
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°In this space we do the talking, about what the Daily News deems important and worthy. But today we are giving a good chunk of our space to Secretary of State Tony Blinken. America’s top diplomat gave his year-end press conference Wednesday before he left for another trip to the Mideast for the Israel-Hamas war that the terror gang launched from Gaza on Oct. 7.Meanwhile, here on the East Side, the United Nations Security Council postponed yet again a vote on an United Arab Emirates-drafted resolution calling for a pause in the fighting to bring in aid to Gaza and allow for the hostages kidnaped by Hamas to be released.The Monday vote became the Tuesday vote became the Wednesday vote and is now the Thursday vote because the U.S. is rightly insisting that Hamas be named as instigators of this awful war that has killed Israelis and Palestinians.Great credit to Blinken and President Joe Biden for demanding that the Security Council must call a terrorist a terrorist.Here is Blinken:“We’ve talked about Israel and Gaza. Let me just say this. We believe that, as we’ve said from the outset, Israel has not only a right but an obligation to defend itself and to try to make sure that Oct. 7 never happens again. Any other country in the world faced with what Israel suffered on Oct. 7 would do the same thing.“We’ve also said — and we’ve been very clear — that how Israel does it matters and matters tremendously. And there, too, we’ve been very deeply engaged with them to maximize protections for civilians, to maximize humanitarian assistance, to minimize harm to people in Gaza.“One of the things that’s striking to me is that, understandably, everyone would like to see this conflict end as quickly as possible, but if it ends with Hamas remaining in place and having the capacity and the stated intent to repeat Oct. 7 again and again and again, that’s not in the interests of Israel, it’s not in the interests of the region, it’s not in the interests of the world.“And what is striking to me is that even as, again, we hear many countries urging the end to this conflict, which we would all like to see, I hear virtually no one saying — demanding of Hamas that it stop hiding behind civilians, that it lay down its arms, that it surrender.“This is over tomorrow if Hamas does that. This would have been over a month ago, six weeks ago, if Hamas had done that. And how could it — how can it be that there are no demands made of the aggressor and only demands made of the victim?“So it would be good if there was a strong international voice pressing Hamas to do what’s necessary to end this. And again, that could be tomorrow.“And again, I come back to this basic proposition. There seems to be silence on what Hamas could do, should do, must do if we want to end the suffering of innocent men, women, and children. It would be, I think, good if the world could unite around that proposition as well.”Well said, Mr. Secretary.— New York Daily News"
+        }
+    ]
+}

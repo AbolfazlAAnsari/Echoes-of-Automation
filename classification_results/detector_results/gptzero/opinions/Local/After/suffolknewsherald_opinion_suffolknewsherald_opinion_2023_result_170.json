@@ -1,0 +1,171 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.9978703260421753,
+                    "sentence": "Published 5:20 pm Tuesday, October 24, 2023BySuffolk News-Herald Editorial BoardHalloween is right around the corner and is a time of year that children and adults alike look forward to.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9968595504760742,
+                    "sentence": "It's a day when creativity takes center stage as we don costumes that range from cute and whimsical to downright terrifying.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.99555903673172,
+                    "sentence": "However, beneath this holiday's fun and excitement, important safety considerations should be noticed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9966129064559937,
+                    "sentence": "Below are some essential tips to ensure your Halloween is a safe and enjoyable experience for everyone involved.Costume SafetyYour Halloween costume is your ticket to transforming into a spooky character, but it's crucial that your costume doesn't compromise your safety.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9960581660270691,
+                    "sentence": "To avoid any mishaps:Well-lit PathsIf you're heading out for trick-or-treating, ensuring your path is well-lit is important.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9956150650978088,
+                    "sentence": "Dark streets can be treacherous, so;Trick-or-Treating SafetyFor those participating in trick-or-treating, here are some key points to keep in mind:Stick to a group, and if you're a parent, join your young kids during their adventure.Home SafetyIf you're the one staying at home to hand out candy, make your home safe for visitors:Avoiding HazardsHalloween isn't just about costumes and candy; it often involves decorations and jack-o'-lanterns.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9966486096382141,
+                    "sentence": "Here's how to do it safely:Respect OthersRemember that not everyone celebrates Halloween; some might find it stressful or frightening.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9904795289039612,
+                    "sentence": "Always respect your neighbors and consider noise levels when hosting a Halloween party.Safety for DriversLastly, if you're driving on Halloween night, be extra vigilant:Halloween can be a fun family night, but safety should always be a top priority.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9954158067703247,
+                    "sentence": "Whether you're donning a costume, trick-or-treating, or driving, knowing these safety tips can help ensure everyone has a memorable and injury-free Halloween.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9875540137290955,
+                    "sentence": "By taking simple precautions, we can make this holiday a time of fun and festivities for all.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.04764529690146446,
+                    "sentence": "Have a safe and happy Halloween.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.008215564303100109,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.004942576866596937,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 0.5173235309975309
+                }
+            ],
+            "completely_generated_prob": 0.8980699649937774,
+            "class_probabilities": {
+                "human": 0,
+                "ai": 0.8980699649937774,
+                "mixed": 0.10193003500622257
+            },
+            "average_generated_prob": 1,
+            "predicted_class": "ai",
+            "confidence_score": 0.8980699649937774,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.8980699649937774,
+                    "human": 0,
+                    "mixed": 0.10193003500622257
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {
+                    "predicted_class": "pure_ai",
+                    "result_message": "",
+                    "confidence_score": 0.9999999998,
+                    "confidence_category": "high",
+                    "class_probabilities": {
+                        "pure_ai": 0.9999999999,
+                        "ai_paraphrased": 9.999999997e-11
+                    },
+                    "confidence_scores_raw": {
+                        "identity": {
+                            "pure_ai": 0.9999999998,
+                            "ai_paraphrased": 9.999999997e-11
+                        }
+                    },
+                    "confidence_thresholds_raw": {
+                        "identity": {
+                            "pure_ai": {
+                                "reject": 0.65,
+                                "low": 0.75,
+                                "medium": 0.92
+                            },
+                            "ai_paraphrased": {
+                                "reject": 0.85,
+                                "low": 0.9,
+                                "medium": 0.95
+                            }
+                        }
+                    }
+                },
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written by AI.",
+            "document_classification": "AI_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:20 pm Tuesday, October 24, 2023BySuffolk News-Herald Editorial BoardHalloween is right around the corner and is a time of year that children and adults alike look forward to. It’s a day when creativity takes center stage as we don costumes that range from cute and whimsical to downright terrifying. However, beneath this holiday’s fun and excitement, important safety considerations should be noticed. Below are some essential tips to ensure your Halloween is a safe and enjoyable experience for everyone involved.Costume SafetyYour Halloween costume is your ticket to transforming into a spooky character, but it’s crucial that your costume doesn’t compromise your safety. To avoid any mishaps:Well-lit PathsIf you’re heading out for trick-or-treating, ensuring your path is well-lit is important. Dark streets can be treacherous, so;Trick-or-Treating SafetyFor those participating in trick-or-treating, here are some key points to keep in mind:Stick to a group, and if you’re a parent, join your young kids during their adventure.Home SafetyIf you’re the one staying at home to hand out candy, make your home safe for visitors:Avoiding HazardsHalloween isn’t just about costumes and candy; it often involves decorations and jack-o’-lanterns. Here’s how to do it safely:Respect OthersRemember that not everyone celebrates Halloween; some might find it stressful or frightening. Always respect your neighbors and consider noise levels when hosting a Halloween party.Safety for DriversLastly, if you’re driving on Halloween night, be extra vigilant:Halloween can be a fun family night, but safety should always be a top priority. Whether you’re donning a costume, trick-or-treating, or driving, knowing these safety tips can help ensure everyone has a memorable and injury-free Halloween. By taking simple precautions, we can make this holiday a time of fun and festivities for all. Have a safe and happy Halloween.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

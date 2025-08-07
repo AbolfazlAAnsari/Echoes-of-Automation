@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.002043285872787237,
+                    "sentence": "Leadership CEOs today are more likely to adopt social causes than policy agendas and have opinions more in common with ABC cadets than with Milton Friedman.Here's a question.If you were Matt Comyn, the Commonwealth Bank chief executive who's just announced a record profit of $10 billion, and whose pay has gone up 50 per cent to $10 million (while staff are offered a salary increase of 17 per cent over four years), would you rather be talking about tax cuts and industrial relations reform; or your support for the Indigenous Voice to parliament, and the bank's decision to not fund any new oil and gas projects?Discussing those last topics is easy and earns plaudits from the country's business and political elite.On the other hand, arguing for economic reform is controversial, potentially unpopular and lonely.Worse, it risks you standing apart from the other chief executives, being noticed by a Labor government in Canberra and a media that's sceptical and often hostile to big business in general - and banks in particular.Anyone who still looks to big business for policy leadership will be disappointed.The 1980s and days of the big debates on Australia's economic future involving business CEOs, politicians, the media, and even trade unions are not coming back anytime soon.CEOs today are more likely to adopt social causes than policy agendas and have opinions more in common with a typical cadet journalist at the ABC than with Milton Friedman.Earlier this year at a smoking ceremony at the company's head office to mark Reconciliation Week, Comyn \"reaffirmed the bank's full support of the Uluru Statement\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0040100207552313805,
+                    "sentence": "Whether that support extends to the bank backing a treaty is unclear.One of the first major public pronouncements from Vicki Brady, the boss of Telstra, was that she would be working on Australia Day, not celebrating it.The three values of Rio Tinto are now \"care, courage and curiosity\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.0989060431020334e-05,
+                    "sentence": "Increasingly, it seems business leaders want to talk about anything other than their actual job.If the Albanese government bore even the slightest resemblance to a Hawke, Keating or Howard administration, then the reluctance of big business to engage in the economic debate would not matter as much.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.723458626656793e-05,
+                    "sentence": "But as the Labor government introduces multi-employer bargaining and does its best to eliminate casual employment and labour hire arrangements, business has sat largely mute.Business Council of Australia president Tim Reed, has asked his members to avoid \"open warfare with the government\" because \"that's not going to work\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.4901593203830998e-05,
+                    "sentence": "\"We've got to be lifting the ambition for the nation and then, not declaring war, but trying to fight really hard on each of these individual battles,\" he said.At Labor's Jobs and Skills Summit, there wasn't much evidence of business willing to fight a battle, let alone a war.The fawning displays of affection that employer groups lavished on Labor at the summit produced zero results for business.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.8956383428303525e-05,
+                    "sentence": "All business got for itself was the contempt of government ministers.The last time big business did declare \"open warfare\" on the government, on the mining tax, the companies in fact won.The point is not that open warfare doesn't work, because it can.Rather, the truth is that few big business leaders in Australia have the stomach for the fight.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.8183600079501048e-05,
+                    "sentence": "They prefer a quiet life.On a list of words describing the attributes of most CEOs of large Australian corporates, \"bravery\" would not appear.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012936007988173515,
+                    "sentence": "\"Nondescript\", \"safe\", and \"eager to please\" probably would be on the list, though.The few \"battles\" CEOs do fight these days are not battles at all.Supporting the Voice doesn't require any CEO to battle anyone, because nearly every person a CEO would talk to about the Voice would support it.In the same way that CEO salaries have become unmoored from what the average Australian earns, so too have CEO opinions become removed from what average Australians think.For example, poll after poll shows the vast majority of Australians are proud of their country and want to celebrate Australia Day.If big business reflected the diversity of views among Australians on the Voice, then you'd expect at least half of the country's CEOs to say publicly they'll be voting No.Which, of course, is not going to happen.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019524674280546606,
+                    "sentence": "That's because big business and its leaders are increasingly not part of mainstream Australia - they're separate from it.John Roskam is a senior fellow at theInstitute of Public Affairs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.017486769031531738,
+            "class_probabilities": {
+                "human": 0.9825132309684682,
+                "ai": 0.017486769031531738,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9825132309684682,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.017486769031531738,
+                    "human": 0.9825132309684682,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Leadership CEOs today are more likely to adopt social causes than policy agendas and have opinions more in common with ABC cadets than with Milton Friedman.Here's a question.If you were Matt Comyn, the Commonwealth Bank chief executive who's just announced a record profit of $10 billion, and whose pay has gone up 50 per cent to $10 million (while staff are offered a salary increase of 17 per cent over four years), would you rather be talking about tax cuts and industrial relations reform; or your support for the Indigenous Voice to parliament, and the bank's decision to not fund any new oil and gas projects?Discussing those last topics is easy and earns plaudits from the country's business and political elite.On the other hand, arguing for economic reform is controversial, potentially unpopular and lonely.Worse, it risks you standing apart from the other chief executives, being noticed by a Labor government in Canberra and a media that's sceptical and often hostile to big business in general - and banks in particular.Anyone who still looks to big business for policy leadership will be disappointed.The 1980s and days of the big debates on Australia's economic future involving business CEOs, politicians, the media, and even trade unions are not coming back anytime soon.CEOs today are more likely to adopt social causes than policy agendas and have opinions more in common with a typical cadet journalist at the ABC than with Milton Friedman.Earlier this year at a smoking ceremony at the company's head office to mark Reconciliation Week, Comyn \"reaffirmed the bank's full support of the Uluru Statement\". Whether that support extends to the bank backing a treaty is unclear.One of the first major public pronouncements from Vicki Brady, the boss of Telstra, was that she would be working on Australia Day, not celebrating it.The three values of Rio Tinto are now \"care, courage and curiosity\". Increasingly, it seems business leaders want to talk about anything other than their actual job.If the Albanese government bore even the slightest resemblance to a Hawke, Keating or Howard administration, then the reluctance of big business to engage in the economic debate would not matter as much. But as the Labor government introduces multi-employer bargaining and does its best to eliminate casual employment and labour hire arrangements, business has sat largely mute.Business Council of Australia president Tim Reed, has asked his members to avoid \"open warfare with the government\" because \"that's not going to work\".\"We've got to be lifting the ambition for the nation and then, not declaring war, but trying to fight really hard on each of these individual battles,\" he said.At Labor's Jobs and Skills Summit, there wasn't much evidence of business willing to fight a battle, let alone a war.The fawning displays of affection that employer groups lavished on Labor at the summit produced zero results for business. All business got for itself was the contempt of government ministers.The last time big business did declare \"open warfare\" on the government, on the mining tax, the companies in fact won.The point is not that open warfare doesn't work, because it can.Rather, the truth is that few big business leaders in Australia have the stomach for the fight. They prefer a quiet life.On a list of words describing the attributes of most CEOs of large Australian corporates, \"bravery\" would not appear. \"Nondescript\", \"safe\", and \"eager to please\" probably would be on the list, though.The few \"battles\" CEOs do fight these days are not battles at all.Supporting the Voice doesn't require any CEO to battle anyone, because nearly every person a CEO would talk to about the Voice would support it.In the same way that CEO salaries have become unmoored from what the average Australian earns, so too have CEO opinions become removed from what average Australians think.For example, poll after poll shows the vast majority of Australians are proud of their country and want to celebrate Australia Day.If big business reflected the diversity of views among Australians on the Voice, then you'd expect at least half of the country's CEOs to say publicly they'll be voting No.Which, of course, is not going to happen. That's because big business and its leaders are increasingly not part of mainstream Australia - they're separate from it.John Roskam is a senior fellow at theInstitute of Public Affairs."
+        }
+    ]
+}

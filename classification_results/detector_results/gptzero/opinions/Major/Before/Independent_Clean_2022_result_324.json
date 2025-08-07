@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00042918039252981544,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005571644869633019,
+                    "sentence": "Please send your letters toletters@independent.co.ukI am grateful for Mr Johnson's clear illustration of the nature of the problems presented byglobal warming.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006797885871492326,
+                    "sentence": "Whilst leading a lavish lifestyle at other people's expense, including flying from COP26 in a private jet in order to have lunch with a crony and enjoyingmultiple foreign holidays, he still manages to see himself as a leader on climate change.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006276353960856795,
+                    "sentence": "His attitude seems to be public demagoguery and private selfish indulgence - in other words, it's up to the little people to make the sacrifices… Again.Nick DonnellyDorsetKeir Starmer's Corbyn pastThe shadow cabinet hasurgedSir Keir Starmer to expel Jeremy Corbyn from the Labour Party.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007440150948241353,
+                    "sentence": "They are afraid that Starmer'spast support for Corbynwill damage Labour's election prospects.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006287937867455184,
+                    "sentence": "It certainly is something of a mystery how Starmer's attitude to Corbyn changed so radically after the 2019 election.He had said Corbyn would make a great prime minister and alsosaidat one point: “The attacks on Jeremy Corbyn were terrible, they vilified him, and they knew what they were doing and why they were doing it.” Whatever was going on in Starmer's mind, it is inconceivable that he believed that Corbyn was a racist antisemite, or enabler of antisemitism when he spoke those words.Brendan O'BrienLondonSolar power, who?British Gas says its profitswill double.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009904949693009257,
+                    "sentence": "This is not surprising when those of us with solar panels receive peanuts for the power we give the grid, only to be sold back to consumers at inflated prices.J.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016274625668302178,
+                    "sentence": "LongstaffSussexTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereDon't make us pay the price for Matt Hancock's humiliationI hope all the MPs who have been voting for Matt Hancock to remain in the TV show I'm a Celebrity, Get Me Out of Here have been doing so using their personal phone accounts and not their parliamentary ones.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007857823511585593,
+                    "sentence": "Much as I would love to see as much humiliation as possible heaped upon Matt Hancock I would hate to think that the general public is picking up the tab for these premium rate phone calls.Viv PertLondonAutumn statement, here we comeI read John Rentoul'scolumnwith interest that indeed Kwasi Kwarteng's budget was undertaken with arrogant breakneck speed and although he admits this was an error of judgement, he does not really admit fiscal culpability.But really the blame of this kamikaze budget lies at the feet of both of Truss and Kwarteng, because to carry on without and not seek an Office for Budget Responsibility economic forecast was pivotal to the crash in the market and the ensuing furore that followed.So now the predicted fallout and remedial measures will soon be apparent in the forthcoming autumn statement - and we are all so looking forward to that!.Judith DanielsNorfolk",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.00982192507144982,
+            "class_probabilities": {
+                "human": 0.9901780749285501,
+                "ai": 0.00982192507144982,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9901780749285501,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.00982192507144982,
+                    "human": 0.9901780749285501,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI am grateful for Mr Johnson’s clear illustration of the nature of the problems presented byglobal warming.  Whilst leading a lavish lifestyle at other people’s expense, including flying from COP26 in a private jet in order to have lunch with a crony and enjoyingmultiple foreign holidays, he still manages to see himself as a leader on climate change. His attitude seems to be public demagoguery and private selfish indulgence – in other words, it’s up to the little people to make the sacrifices… Again.Nick DonnellyDorsetKeir Starmer’s Corbyn pastThe shadow cabinet hasurgedSir Keir Starmer to expel Jeremy Corbyn from the Labour Party. They are afraid that Starmer’spast support for Corbynwill damage Labour’s election prospects. It certainly is something of a mystery how Starmer’s attitude to Corbyn changed so radically after the 2019 election.He had said Corbyn would make a great prime minister and alsosaidat one point: “The attacks on Jeremy Corbyn were terrible, they vilified him, and they knew what they were doing and why they were doing it.” Whatever was going on in Starmer’s mind, it is inconceivable that he believed that Corbyn was a racist antisemite, or enabler of antisemitism when he spoke those words.Brendan O’BrienLondonSolar power, who?British Gas says its profitswill double.  This is not surprising when those of us with solar panels receive peanuts for the power we give the grid, only to be sold back to consumers at inflated prices.J. LongstaffSussexTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereDon’t make us pay the price for Matt Hancock’s humiliationI hope all the MPs who have been voting for Matt Hancock to remain in the TV show I’m a Celebrity, Get Me Out of Here have been doing so using their personal phone accounts and not their parliamentary ones. Much as I would love to see as much humiliation as possible heaped upon Matt Hancock I would hate to think that the general public is picking up the tab for these premium rate phone calls.Viv PertLondonAutumn statement, here we comeI read John Rentoul’scolumnwith interest that indeed Kwasi Kwarteng’s budget was undertaken with arrogant breakneck speed and although he admits this was an error of judgement, he does not really admit fiscal culpability.But really the blame of this kamikaze budget lies at the feet of both of Truss and Kwarteng, because to carry on without and not seek an Office for Budget Responsibility economic forecast was pivotal to the crash in the market and the ensuing furore that followed.So now the predicted fallout and remedial measures will soon be apparent in the forthcoming autumn statement – and we are all so looking forward to that!.Judith DanielsNorfolk"
+        }
+    ]
+}

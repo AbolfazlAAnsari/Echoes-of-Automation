@@ -1,0 +1,82 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 2.2537125914823264e-05,
+                    "sentence": "From local coverage to the presidential race,.Cityscape| Twin Cities urban geographer Bill Lindeke weighs in on city life, transportation, planning and more in his column delivered to your inbox weekly.I once appeared (and tried a case) before a judge who used a catchphrase as we lawyers attempted to impress the jury through the process of voir dire (jury selection).As we all got to know the prospective jurors ᅳ the 12 ordinary Americans who would sit as judges in a criminal case ᅳ he would recite this phrase: “Our system of justice (in America) is the envy of the world.”As I listened, I thought his words verged upon being “corny” or overdone as American  congratulatory rhetoric ᅳ for I, in my time as a trial lawyer and litigator, had seen too much injustice.I had seen judges sit looking down at plaintiffs in police brutality cases and at defendants in criminal trials as if they were from a segment of American society where this sense of “envy” was nonexistent.I had also seen these same defendants languish in pretrial custody ᅳ unable to make bail or conditional release.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.200416176696308e-05,
+                    "sentence": "These same defendants were the ones who, if they had violated their bail conditions, would go back to custody to sit and await a trial.For them, our system did not seem to be the “envy” of the world or even of another era in history.These were the clients who used to proclaim with a kind of tragic naïveté that they also expected a “jury of their peers” at trial ᅳ only to soon learn that oftentimes the venire panel might have only a single minority race member ᅳ or none at all.For them ᅳ poor and Black and Native American and Brown defendants ᅳ our system of justice was unenviable.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6509951949119568,
+                    "sentence": "Indeed, it seemed bereft of basic fairness and any indicators of the possibility of real justice.But, Donald Trump never had to face any of these obstacles to obtaining justice when he was indicted and later faced trial and conviction before 12 ordinary Americans in a New York courtroom.Trump, who remained free throughout his period of conditional release ᅳ this despite proven violations of those conditions ᅳ faced a jury which undoubtedly looked like him ᅳ had a background like him ᅳ and constituted a veritable “jury of peers.”Perhaps that is why Defendant Donald J. Trump is so deeply angry today: he was found guilty 34 separate times by an actual jury of his peers ᅳ made up of 12 ordinary citizens who proved that young judge's catchphrase: “Our American legal system is the envy of the world.”Goins lives in White Bear Lake.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                }
+            ],
+            "completely_generated_prob": 0.12767420652125164,
+            "class_probabilities": {
+                "human": 0.8723257934787484,
+                "ai": 0.12767420652125164,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8723257934787484,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.12767420652125164,
+                    "human": 0.8723257934787484,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "From local coverage to the presidential race, .Cityscape| Twin Cities urban geographer Bill Lindeke weighs in on city life, transportation, planning and more in his column delivered to your inbox weekly.I once appeared (and tried a case) before a judge who used a catchphrase as we lawyers attempted to impress the jury through the process of voir dire (jury selection).As we all got to know the prospective jurors — the 12 ordinary Americans who would sit as judges in a criminal case — he would recite this phrase: “Our system of justice (in America) is the envy of the world.”As I listened, I thought his words verged upon being “corny” or overdone as American  congratulatory rhetoric — for I, in my time as a trial lawyer and litigator, had seen too much injustice.I had seen judges sit looking down at plaintiffs in police brutality cases and at defendants in criminal trials as if they were from a segment of American society where this sense of “envy” was nonexistent.I had also seen these same defendants languish in pretrial custody — unable to make bail or conditional release. These same defendants were the ones who, if they had violated their bail conditions, would go back to custody to sit and await a trial.For them, our system did not seem to be the “envy” of the world or even of another era in history.These were the clients who used to proclaim with a kind of tragic naïveté that they also expected a “jury of their peers” at trial — only to soon learn that oftentimes the venire panel might have only a single minority race member — or none at all.For them — poor and Black and Native American and Brown defendants — our system of justice was unenviable. Indeed, it seemed bereft of basic fairness and any indicators of the possibility of real justice.But, Donald Trump never had to face any of these obstacles to obtaining justice when he was indicted and later faced trial and conviction before 12 ordinary Americans in a New York courtroom.Trump, who remained free throughout his period of conditional release — this despite proven violations of those conditions — faced a jury which undoubtedly looked like him — had a background like him — and constituted a veritable “jury of peers.”Perhaps that is why Defendant Donald J. Trump is so deeply angry today: he was found guilty 34 separate times by an actual jury of his peers — made up of 12 ordinary citizens who proved that young judge’s catchphrase: “Our American legal system is the envy of the world.”Goins lives in White Bear Lake."
+        }
+    ]
+}

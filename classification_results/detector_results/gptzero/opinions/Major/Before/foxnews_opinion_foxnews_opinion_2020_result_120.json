@@ -1,0 +1,82 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.002878777217119932,
+                    "sentence": "Tennessee Republican Sen. Marsha Blackburn weighs in.Joe Biden and KamalaHarrismade their first appearances as a campaign ticket on Wednesday, and Americans still know little about the running mate who may be President sooner rather than later.One way to fill in the gap is to inspect Ms. Harris's record asCalifornia'sAttorney General, and one revealing episode is the way she used her power to blow up a deal to rescue struggling Catholic hospitals.The saga started in 2014 when for-profit Prime Healthcare Services made an $843 million bid for six insolventhospitalsoperated by the Catholic Daughters of Charity Health System.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009382250718772411,
+                    "sentence": "The hospitals had been bleeding cash for years due to inflexible labor contracts and miserly Medicaid payments.PRO-LIFE JOURNALIST DAVID DALEIDEN RIPS KAMALA HARRIS' 'RADICAL DISRESPECT AND CONTEMPT' FOR FIRST AMENDMENTPrime Healthcare was the only bidder that agreed to assume Daughters' $300 million liability for worker pensions, and it scored high on the bidding criteria that included financial wherewithal and service quality.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011756928637623787,
+                    "sentence": "Nurses, physicians and the public supported the deal.But the Service Employees International Union-United Healthcare Workers West (SEIU-UHW), which represented 2,000 hospital workers at Daughters, opposed Prime's takeover because the company refused to sign a neutrality agreement that would let them organize all of Prime's hospitals.Only four of Prime's 15 hospitals in California at the time were unionized.CLICK HERE TO CONTINUE READING THIS EDITORIAL IN THE WALL STREET JOURNAL",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                }
+            ],
+            "completely_generated_prob": 0.017486769031531738,
+            "class_probabilities": {
+                "human": 0.9825132309684682,
+                "ai": 0.017486769031531738,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9825132309684682,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.017486769031531738,
+                    "human": 0.9825132309684682,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Tennessee Republican Sen. Marsha Blackburn weighs in.Joe Biden and KamalaHarrismade their first appearances as a campaign ticket on Wednesday, and Americans still know little about the running mate who may be President sooner rather than later.One way to fill in the gap is to inspect Ms. Harris’s record asCalifornia’sAttorney General, and one revealing episode is the way she used her power to blow up a deal to rescue struggling Catholic hospitals.The saga started in 2014 when for-profit Prime Healthcare Services made an $843 million bid for six insolventhospitalsoperated by the Catholic Daughters of Charity Health System. The hospitals had been bleeding cash for years due to inflexible labor contracts and miserly Medicaid payments.PRO-LIFE JOURNALIST DAVID DALEIDEN RIPS KAMALA HARRIS' 'RADICAL DISRESPECT AND CONTEMPT' FOR FIRST AMENDMENTPrime Healthcare was the only bidder that agreed to assume Daughters’ $300 million liability for worker pensions, and it scored high on the bidding criteria that included financial wherewithal and service quality. Nurses, physicians and the public supported the deal.But the Service Employees International Union-United Healthcare Workers West (SEIU-UHW), which represented 2,000 hospital workers at Daughters, opposed Prime’s takeover because the company refused to sign a neutrality agreement that would let them organize all of Prime’s hospitals.Only four of Prime’s 15 hospitals in California at the time were unionized.CLICK HERE TO CONTINUE READING THIS EDITORIAL IN THE WALL STREET JOURNAL   "
+        }
+    ]
+}

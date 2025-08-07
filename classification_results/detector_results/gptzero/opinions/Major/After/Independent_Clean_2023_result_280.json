@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00013430135732050985,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000134926667669788,
+                    "sentence": "Please send your letters toletters@independent.co.ukI agree withDavid Leethat our nation is in need of radical changes if our economy is to be managed so that wealth is distributed more evenly and existential threats caused by climate change and Brexit are addressed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011942032870138064,
+                    "sentence": "However, I cannot agree that the electorate has no choice, nor that he is right in deciding not to vote in the forthcoming general election.Whilst he is right that the parties in opposition are too cautious in what they are offering to rectify the chaos caused by 13 years of Tory mismanagement and ineffective leadership, he should recognise that this is because they sense that most voters are by nature (small “c”) conservative, pay little heed to politics and will not welcome change if it is thrust too rapidly upon them.Labour knows that it needs to appeal to the electorate's desire for a fairer society led by decent people who have a realistic awareness of present dangers and future threats, and are equipped to provide assurance that they can be trusted to deal with them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016780203441157937,
+                    "sentence": "Since the Tories are deficient in each of these areas, Labour is offering the electorate a genuine choice - and the opportunity to make those radical changes that the Tories will never enact.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005834789015352726,
+                    "sentence": "It is imperative that we all vote in order that the Tories are removed from office for a very long time.Once in government, we have to believe that Labour will earn the trust of the nation and make the changes that are needed to the nature of government, the economy, our essential services and our relationship with our European neighbours that have been trashed by the Tories.It is imperative that people like David Lee respect the right that previous generations fought for on our behalf and vote, in the belief that change will come in due course.Graham PowellCirencesterIf you aren't going to vote, stay quietI'm always somewhat intrigued as to why people who have decided not to exercise their voice on the principal occasion when it might make an actual difference nonetheless feel the need to announce that they aren't going to bother.Simply put: if you're not going to voice your opinion when you are asked it, why ever would you think anyone might be interested in it when you're not?Julian SelfMilton KeynesAre Labour becoming the party of fiscal responsibility?What a great vote of confidence to seeformer Bank of England governor Mark Carney backing shadow chancellor Rachel Reevesafter her speech to the Labour Party conference.The Labour Party are clearly using their conference to set out an alternate agenda to a Conservative Party at war with itself and which crashed the economy under Liz Truss.Rachel Reevesagenda of economic stability, investment, and security will, I believe, make all working people better off by unlocking the growth potential of our economy with £24bn of private investment to get Britain building again.Geoffrey BrookingHampshireWhen it comes to our money, 'boring' is betterTom Peck entertains and informs us again in hislatest sketchfeaturing Rachel Reeves and the Labour Party conference.He describes Ms Reeves as a “competent but ultimately somewhat dull person”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.205631795339286e-05,
+                    "sentence": "It is true that Ms Reeves' subject matter is somewhat dull, but it is very important.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.871572986710817e-05,
+                    "sentence": "It is her domain, and she clearly projects a mastery of it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.311622125096619e-05,
+                    "sentence": "This contrasts starkly with recent occupants of the post of chancellor of the exchequer, at least one of whom was totally unfit for the task and hit the country with a disastrous “fiscal event” of questionable integrity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011134104715893045,
+                    "sentence": "A small number of people made very large sums of money which the public continue to fund.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012032921949867159,
+                    "sentence": "Its consequences are fresh in the memory and still burden many household budgets.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013684656005352736,
+                    "sentence": "A constant and painful reminder.Chancellor of the Exchequer is a post in which competence and integrity are essential requirements.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012477788550313562,
+                    "sentence": "Ms Reeves may appear boring, but she has both, and in consequence is a major electoral asset.David NelmesNewport",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.015281828032010496,
+            "class_probabilities": {
+                "human": 0.9847181719679895,
+                "ai": 0.015281828032010496,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9847181719679895,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.015281828032010496,
+                    "human": 0.9847181719679895,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI agree withDavid Leethat our nation is in need of radical changes if our economy is to be managed so that wealth is distributed more evenly and existential threats caused by climate change and Brexit are addressed. However, I cannot agree that the electorate has no choice, nor that he is right in deciding not to vote in the forthcoming general election.Whilst he is right that the parties in opposition are too cautious in what they are offering to rectify the chaos caused by 13 years of Tory mismanagement and ineffective leadership, he should recognise that this is because they sense that most voters are by nature (small “c”) conservative, pay little heed to politics and will not welcome change if it is thrust too rapidly upon them.Labour knows that it needs to appeal to the electorate’s desire for a fairer society led by decent people who have a realistic awareness of present dangers and future threats, and are equipped to provide assurance that they can be trusted to deal with them. Since the Tories are deficient in each of these areas, Labour is offering the electorate a genuine choice – and the opportunity to make those radical changes that the Tories will never enact. It is imperative that we all vote in order that the Tories are removed from office for a very long time.Once in government, we have to believe that Labour will earn the trust of the nation and make the changes that are needed to the nature of government, the economy, our essential services and our relationship with our European neighbours that have been trashed by the Tories.It is imperative that people like David Lee respect the right that previous generations fought for on our behalf and vote, in the belief that change will come in due course.Graham PowellCirencesterIf you aren’t going to vote, stay quietI’m always somewhat intrigued as to why people who have decided not to exercise their voice on the principal occasion when it might make an actual difference nonetheless feel the need to announce that they aren’t going to bother.Simply put: if you’re not going to voice your opinion when you are asked it, why ever would you think anyone might be interested in it when you’re not?Julian SelfMilton KeynesAre Labour becoming the party of fiscal responsibility?What a great vote of confidence to seeformer Bank of England governor Mark Carney backing shadow chancellor Rachel Reevesafter her speech to the Labour Party conference.The Labour Party are clearly using their conference to set out an alternate agenda to a Conservative Party at war with itself and which crashed the economy under Liz Truss.Rachel Reevesagenda of economic stability, investment, and security will, I believe, make all working people better off by unlocking the growth potential of our economy with £24bn of private investment to get Britain building again.Geoffrey BrookingHampshireWhen it comes to our money, ‘boring’ is betterTom Peck entertains and informs us again in hislatest sketchfeaturing Rachel Reeves and the Labour Party conference.He describes Ms Reeves as a “competent but ultimately somewhat dull person”. It is true that Ms Reeves’ subject matter is somewhat dull, but it is very important. It is her domain, and she clearly projects a mastery of it. This contrasts starkly with recent occupants of the post of chancellor of the exchequer, at least one of whom was totally unfit for the task and hit the country with a disastrous “fiscal event” of questionable integrity. A small number of people made very large sums of money which the public continue to fund. Its consequences are fresh in the memory and still burden many household budgets. A constant and painful reminder.Chancellor of the Exchequer is a post in which competence and integrity are essential requirements. Ms Reeves may appear boring, but she has both, and in consequence is a major electoral asset.David NelmesNewport"
+        }
+    ]
+}

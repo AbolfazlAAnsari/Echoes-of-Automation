@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 9.675943874754012e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.849762965226546e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukSo, thefull extent of rule-breaking in Johnson's No 10 is revealed.It is puzzling why this ancient and venerable political party - one that has enjoyed a dominant position of power for generations - has failed to deal with the damage this ridiculous and undignified man has done to the country.The sooner the Tory party restores sanity and disowns him and his cabal, the sooner Sunak and the party can seek to return to and win back some of the centre ground.Nick EastwellLondonClipped wingsIt is a great relief after therecent shenanigansto have a prime minister who is more measured and thoughtful.However, the Home Office's decision torefuse the Afghan pilot asylumafter all he has given this country, on extremely narrow grounds, fills me with shame and a deep distrust of this present government and its current leader.Penny SmithLondonCult statusI readSean O'Grady's columnwith interest.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.570017234887928e-05,
+                    "sentence": "The Boris cult is so depressing and demeaning for this country, that it beggars all sane and credible belief.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012338206579443067,
+                    "sentence": "How can one man suck the oxygen out of decent political debate and still elicit the support from some Conservative MPs and many party members?Why haven't the scales fallen from their eyes and yes, as O'Grady rightly states, caused them to kick Johnson out of the party?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011285110667813569,
+                    "sentence": "He is such a polarising figure and is probably relishing all the fallout from this latest debacle.Yes, Keir Starmer and Labour must think all their Christmases have come at once, but there is a far bigger picture here.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013602655963040888,
+                    "sentence": "How can one man wreak so much havoc, destroy our once good reputation for political probity across the world and become a case study for all that is wrong and duplicitous in our society?I should imagine this imponderable question will form an exam question for the future, and the answers will indeed be revelatory of how one man subverted our political system.Judith A DanielsGreat YarmouthThe green questionFemi Oluwolewrites of the loss of Caroline Lucas as the UK's only Green MP, and hopes that the reality of this loss might trigger some renaissance for green politics.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.487039303872734e-05,
+                    "sentence": "Despite a clear rise in awareness of green issues and the environment, ordinary folk with workaday jobs struggling with bills see these “green” worries as peripheral to their daily round.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.033296373672783e-05,
+                    "sentence": "Focusing on your carbon footprint while trying to stay solvent is nigh impossible.Add to this scenario an almost nil presence of Greens on the ground in local politics, and their impact is bound to be minimal.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013141472300048918,
+                    "sentence": "Femi roundly denigrates the vile antics of the current tranche of venal, corrupt egomaniacs in parliament, and although we'd like to believe these horrors might galvanise a new generation into involvement in politics it's obvious the reverse is true.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001910556893562898,
+                    "sentence": "We've lost all faith in the value and power of voting thanks to the likes of Liz Truss, Jacob Rees-Mogg andBoris Johnson.While some wards in my region recorded less than 16 per cent turnout at the last local elections it would seem there is no party (Green or otherwise) who can prise the electorate from their sofas.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015517065185122192,
+                    "sentence": "How that apathy is turned around is anybody's guess.Steve MackinderDenver",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.006576924694833349,
+            "class_probabilities": {
+                "human": 0.9934230753051666,
+                "ai": 0.006576924694833349,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9934230753051666,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006576924694833349,
+                    "human": 0.9934230753051666,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukSo, thefull extent of rule-breaking in Johnson’s No 10 is revealed.It is puzzling why this ancient and venerable political party – one that has enjoyed a dominant position of power for generations – has failed to deal with the damage this ridiculous and undignified man has done to the country.The sooner the Tory party restores sanity and disowns him and his cabal, the sooner Sunak and the party can seek to return to and win back some of the centre ground.Nick EastwellLondonClipped wingsIt is a great relief after therecent shenanigansto have a prime minister who is more measured and thoughtful.However, the Home Office’s decision torefuse the Afghan pilot asylumafter all he has given this country, on extremely narrow grounds, fills me with shame and a deep distrust of this present government and its current leader.Penny SmithLondonCult statusI readSean O’Grady’s columnwith interest. The Boris cult is so depressing and demeaning for this country, that it beggars all sane and credible belief. How can one man suck the oxygen out of decent political debate and still elicit the support from some Conservative MPs and many party members?Why haven’t the scales fallen from their eyes and yes, as O’Grady rightly states, caused them to kick Johnson out of the party? He is such a polarising figure and is probably relishing all the fallout from this latest debacle.Yes, Keir Starmer and Labour must think all their Christmases have come at once, but there is a far bigger picture here. How can one man wreak so much havoc, destroy our once good reputation for political probity across the world and become a case study for all that is wrong and duplicitous in our society?I should imagine this imponderable question will form an exam question for the future, and the answers will indeed be revelatory of how one man subverted our political system.Judith A DanielsGreat YarmouthThe green questionFemi Oluwolewrites of the loss of Caroline Lucas as the UK’s only Green MP, and hopes that the reality of this loss might trigger some renaissance for green politics. Despite a clear rise in awareness of green issues and the environment, ordinary folk with workaday jobs struggling with bills see these “green” worries as peripheral to their daily round. Focusing on your carbon footprint while trying to stay solvent is nigh impossible.Add to this scenario an almost nil presence of Greens on the ground in local politics, and their impact is bound to be minimal. Femi roundly denigrates the vile antics of the current tranche of venal, corrupt egomaniacs in parliament, and although we’d like to believe these horrors might galvanise a new generation into involvement in politics it’s obvious the reverse is true. We’ve lost all faith in the value and power of voting thanks to the likes of Liz Truss, Jacob Rees-Mogg andBoris Johnson.While some wards in my region recorded less than 16 per cent turnout at the last local elections it would seem there is no party (Green or otherwise) who can prise the electorate from their sofas. How that apathy is turned around is anybody’s guess.Steve MackinderDenver"
+        }
+    ]
+}

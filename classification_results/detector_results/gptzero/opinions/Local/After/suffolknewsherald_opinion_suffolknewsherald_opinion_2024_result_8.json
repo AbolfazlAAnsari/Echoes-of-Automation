@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.9999468922615051,
+                    "sentence": "Published 6:01 pm Tuesday, July 30, 2024BySuffolk News-Herald Editorial BoardAs the calendar flips to August, Suffolk's citizens and public safety personnel eagerly anticipate the annual celebration of National Night Out.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9999899864196777,
+                    "sentence": "This event, held on Tuesday, Aug. 6, is a nationwide effort to foster community bonds and take a collective stand against crime.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9999738931655884,
+                    "sentence": "Suffolk's commitment to this initiative is evident, with over 100 communities, homeowner associations, civic organizations, neighborhoods, churches, and business sponsors coming together to create an unforgettable evening filled with block parties, cookouts, and mini-festivals.The festivities will commence with a Send-Off ceremony at 5 p.m. in the City Council Chamber at Suffolk City Hall, where dignitaries such as Mayor Mike Duman, City Manager Al Moor, Police Chief James Buie, and Fire Chief Michael Barakey will kickstart the night's activities.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.999957799911499,
+                    "sentence": "Following this, seven motorcade units will traverse the city, visiting various registered parties and joining in the celebration.Suffolk's dedication to National Night Out is unmatched.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9999035596847534,
+                    "sentence": "For over a decade, it consistently ranked in the top ten nationwide in its population category and secured five first-in-the-nation awards.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9998795986175537,
+                    "sentence": "Last year, Suffolk proudly placed second in its category, underscoring its commitment to this significant event.Sponsored by the National Association of Town Watch (NATW) and locally co-sponsored by the Suffolk Police Department, National Night Out engages millions of people across the United States, U.S.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9996746778488159,
+                    "sentence": "Territories, Canadian cities, and military bases worldwide.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9998934268951416,
+                    "sentence": "The goals of National Night Out are multifaceted: to heighten awareness of crime, drug, and violence prevention; garner support for local anti-crime initiatives; strengthen neighborhood unity and police-community partnerships; and send a clear message to criminals that communities are organized and determined to fight back.But beyond these objectives, National Night Out represents something even more profound.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9999778270721436,
+                    "sentence": "It symbolizes the power of community and the shared responsibility of ensuring a safe and caring environment.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.999977707862854,
+                    "sentence": "In a time when societal challenges can often feel overwhelming, National Night Out serves as a reminder that unity and collective action are potent tools against crime and violence.So, as Aug. 6 approaches, let's prepare to lock our doors, turn on our porch lights, and join our friends and neighbors in celebration.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.27490681409835815,
+                    "sentence": "National Night Out is not just an event; it's a testament to Suffolk's enduring spirit of solidarity and its unwavering dedication to building a better, safer community.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.35503822565078735,
+                    "sentence": "Let's come together to show that Suffolk stands united and committed to creating a city where everyone can thrive in safety and harmony.The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.46535342931747437,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5353801846504211,
+                    "sentence": "Among those contests is the Los Angeles…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 0.27400280775049196
+                }
+            ],
+            "completely_generated_prob": 0.4467518749339812,
+            "class_probabilities": {
+                "human": 0.5531213689658815,
+                "ai": 0.4467518749339812,
+                "mixed": 0.0001267561001373191
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.5531213689658815,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.4467518749339812,
+                    "human": 0.5531213689658815,
+                    "mixed": 0.0001267561001373191
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 6:01 pm Tuesday, July 30, 2024BySuffolk News-Herald Editorial BoardAs the calendar flips to August, Suffolk’s citizens and public safety personnel eagerly anticipate the annual celebration of National Night Out. This event, held on Tuesday, Aug. 6, is a nationwide effort to foster community bonds and take a collective stand against crime. Suffolk’s commitment to this initiative is evident, with over 100 communities, homeowner associations, civic organizations, neighborhoods, churches, and business sponsors coming together to create an unforgettable evening filled with block parties, cookouts, and mini-festivals.The festivities will commence with a Send-Off ceremony at 5 p.m. in the City Council Chamber at Suffolk City Hall, where dignitaries such as Mayor Mike Duman, City Manager Al Moor, Police Chief James Buie, and Fire Chief Michael Barakey will kickstart the night’s activities. Following this, seven motorcade units will traverse the city, visiting various registered parties and joining in the celebration.Suffolk’s dedication to National Night Out is unmatched. For over a decade, it consistently ranked in the top ten nationwide in its population category and secured five first-in-the-nation awards. Last year, Suffolk proudly placed second in its category, underscoring its commitment to this significant event.Sponsored by the National Association of Town Watch (NATW) and locally co-sponsored by the Suffolk Police Department, National Night Out engages millions of people across the United States, U.S. Territories, Canadian cities, and military bases worldwide. The goals of National Night Out are multifaceted: to heighten awareness of crime, drug, and violence prevention; garner support for local anti-crime initiatives; strengthen neighborhood unity and police-community partnerships; and send a clear message to criminals that communities are organized and determined to fight back.But beyond these objectives, National Night Out represents something even more profound. It symbolizes the power of community and the shared responsibility of ensuring a safe and caring environment. In a time when societal challenges can often feel overwhelming, National Night Out serves as a reminder that unity and collective action are potent tools against crime and violence.So, as Aug. 6 approaches, let’s prepare to lock our doors, turn on our porch lights, and join our friends and neighbors in celebration. National Night Out is not just an event; it’s a testament to Suffolk’s enduring spirit of solidarity and its unwavering dedication to building a better, safer community. Let’s come together to show that Suffolk stands united and committed to creating a city where everyone can thrive in safety and harmony.The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…"
+        }
+    ]
+}

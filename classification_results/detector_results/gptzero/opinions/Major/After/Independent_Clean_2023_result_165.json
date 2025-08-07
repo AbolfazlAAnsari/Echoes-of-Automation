@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00012636600877158344,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001221329002873972,
+                    "sentence": "Please send your letters toletters@independent.co.ukWe have a year or more to decide who to vote for in the next general election.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.760178363649175e-05,
+                    "sentence": "Now is the time for the parties to announce their plan for a better future for Britain.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011591963993851095,
+                    "sentence": "We have suffered through enough of the Tories, but what is lacking is the confident,firm promises from Labourof what their governance will mean for the British people.There are possiblythree by-elections this yearat whichLabourmust put their very best candidates forward with one voice giving Britainhope for the future.Whether all three seats are won or lost, the people must be convinced that Labour has a formula for sustainable growth, sensible foreign andfinancial policies that workand long-term plans for our NHS.The Conservatives are now a bunch ofrats fighting in a sack,more intent on making money and saving their jobs than saving the country from further descent into chaos and shame.Rishi Sunak is doing his best to sort out the problems caused by 13 years of Tory rule but his party is in dire straits and about to implode.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00023075620993040502,
+                    "sentence": "Britain can takeanother five years of Tory rulebefore it becomes a failed country and is shunned by the rest of the world.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019002973567694426,
+                    "sentence": "And anyway, we deserve better than the Tories have served up.Keith PooleBasingstokeWe can't follow the US when it comes to abortion rightsIn late June last year, afterRoe Vs Wadewas overturned, I wrote to The Independent predicting a surge in anti-abortion activism in the UK.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013159547233954072,
+                    "sentence": "I also mentioned how the campaign would proceed: some harking back to uchronic days when all mothers stayed at home looking after many happy children, the ranting angle accusing abortion supporters of murder, and the smiling voice of artificial expertise telling us that medical advances require us to revisit time limits.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012408281327225268,
+                    "sentence": "One year later I noticed that social media is full of anti-abortionists using the same tactics I mentioned.They would stand out even more if it wasn't for surges in anti-vaxxers and Putin supporters encroaching on their space.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013130278966855258,
+                    "sentence": "I've even got anti-abortionists writing, very politely, to my local paper.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001799566380213946,
+                    "sentence": "Everything inMaya Oppenheim's splendid articleis spot on and should be compulsory reading.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000209401041502133,
+                    "sentence": "We must not take our eye off the ball on this one just because we have other crackpot causes out there.Robert BostonKentTories serving their constituents?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00033802477992139757,
+                    "sentence": "It would be nice!Nadine Dorries wants to know whyshe didn't get a peerage.She claims it's a duplicitous reason and down to the “posh boys” not wanting a working-class woman to receive one.Careful Nadine... think about your collusion with the otherposh boys in the cabineta short while ago and your buddy Boris who has obviously taught you well.Small wonder why the politicians and those of theTory partyare not getting on with the job of serving their constituents.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002908988972194493,
+                    "sentence": "They are too concerned with theirown selfishness and ego.John StockwellHertfordshireThe irony is not lostAs the House of Commons Media and Sport select committee try to spear thehapless ITV execs, the irony cannot be lost.Inappropriate relationships in the workplace,bullying,toxic culture, abuse of power and blind eyes being turned - surely this could not happen inthe House of Commons?Really!Gordon RonaldHerts",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.006608679833334143,
+            "class_probabilities": {
+                "human": 0.9933913201666659,
+                "ai": 0.006608679833334143,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933913201666659,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006608679833334143,
+                    "human": 0.9933913201666659,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW : Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukWe have a year or more to decide who to vote for in the next general election. Now is the time for the parties to announce their plan for a better future for Britain. We have suffered through enough of the Tories, but what is lacking is the confident,firm promises from Labourof what their governance will mean for the British people.There are possiblythree by-elections this yearat whichLabourmust put their very best candidates forward with one voice giving Britainhope for the future.Whether all three seats are won or lost, the people must be convinced that Labour has a formula for sustainable growth, sensible foreign andfinancial policies that workand long-term plans for our NHS.The Conservatives are now a bunch ofrats fighting in a sack,more intent on making money and saving their jobs than saving the country from further descent into chaos and shame.Rishi Sunak is doing his best to sort out the problems caused by 13 years of Tory rule but his party is in dire straits and about to implode. Britain can takeanother five years of Tory rulebefore it becomes a failed country and is shunned by the rest of the world. And anyway, we deserve better than the Tories have served up.Keith PooleBasingstokeWe can’t follow the US when it comes to abortion rightsIn late June last year, afterRoe Vs Wadewas overturned, I wrote to The Independent predicting a surge in anti-abortion activism in the UK. I also mentioned how the campaign would proceed: some harking back to uchronic days when all mothers stayed at home looking after many happy children, the ranting angle accusing abortion supporters of murder, and the smiling voice of artificial expertise telling us that medical advances require us to revisit time limits. One year later I noticed that social media is full of anti-abortionists using the same tactics I mentioned.They would stand out even more if it wasn’t for surges in anti-vaxxers and Putin supporters encroaching on their space. I’ve even got anti-abortionists writing, very politely, to my local paper. Everything inMaya Oppenheim’s splendid articleis spot on and should be compulsory reading. We must not take our eye off the ball on this one just because we have other crackpot causes out there.Robert BostonKentTories serving their constituents? It would be nice!Nadine Dorries wants to know whyshe didn’t get a peerage.She claims it’s a duplicitous reason and down to the “posh boys” not wanting a working-class woman to receive one.Careful Nadine... think about your collusion with the otherposh boys in the cabineta short while ago and your buddy Boris who has obviously taught you well.Small wonder why the politicians and those of theTory partyare not getting on with the job of serving their constituents. They are too concerned with theirown selfishness and ego.John StockwellHertfordshireThe irony is not lostAs the House of Commons Media and Sport select committee try to spear thehapless ITV execs, the irony cannot be lost.Inappropriate relationships in the workplace,bullying,toxic culture, abuse of power and blind eyes being turned – surely this could not happen inthe House of Commons?Really!Gordon RonaldHerts"
+        }
+    ]
+}

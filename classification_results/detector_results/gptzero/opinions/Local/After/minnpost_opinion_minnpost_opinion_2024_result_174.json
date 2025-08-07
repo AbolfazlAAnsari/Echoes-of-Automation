@@ -1,0 +1,160 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 1.4198583812685683e-05,
+                    "sentence": "From local coverage to the presidential race,.Cityscape| Twin Cities urban geographer Bill Lindeke weighs in on city life, transportation, planning and more in his column delivered to your inbox weekly.Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.879208169470076e-06,
+                    "sentence": "Tim Walz and the DFL majorities are pushing legislation at the state Capitol that would prohibit the banning of books in public school libraries.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.531329174526036e-06,
+                    "sentence": "In his newfound quest for national political attention, the governor regularly repeats the lie that literature suppression is on the rise.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.973110768944025e-06,
+                    "sentence": "And the Star Tribune recently echoed that falsehood in its praise of the bill in an editorial last week.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.326103514060378e-06,
+                    "sentence": "The record should be corrected.Walz grounds his alarm ondata from PEN America, a left leaning advocacy group.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.734059181530029e-06,
+                    "sentence": "But, as the Educational Freedom Institute has noted, 74% of the books that PEN America claims are “banned” are in fact available in the school districts where they're supposedly prohibited.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.445259143423755e-06,
+                    "sentence": "That's because PEN America alleges for political convenience that a volume is “banned” if any action, such as simply reclassifying it for a more age-appropriate section, or routine administrative review of it is undertaken by school staff.PEN America attests, as has Walz, that such classics as Anne Frank's diary, “Of Mice and Men,” “The Color Purple” and “To Kill a Mockingbird” have been “banned.” That would be very troubling indeed!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006769079249352217,
+                    "sentence": "ButEFI's studyfound that in every school district where PEN alleges those books have been barred, copies are actually listed as available.It is true that some school libraries have refused space on their shelves for certain books.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006706127896904945,
+                    "sentence": "And rightly so.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007651184219866991,
+                    "sentence": "EFI found that of the ten most actually banned books, all contain sexually charged, borderline pornographic storylines that are unarguably inappropriate for young students.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005482046399265528,
+                    "sentence": "PEN America suggests that anti-LGBTQ hostility is behind these literary prohibitions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007007127162069082,
+                    "sentence": "But most of these books actually contain heterosexually explicit content.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009362938813865185,
+                    "sentence": "The ones that do feature homosexual acts include instructions on how to use Grindr to find sex partners, a portrayal of underage incest and pictures of oral sex.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009400621056556702,
+                    "sentence": "Decency, not discrimination, motivates restricting these tomes in schools.Even if one accepts PEN America's ludicrous findings that book bans are a growing national epidemic, the group's own study found not a single instance of one here in Minnesota.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012714371085166931,
+                    "sentence": "With his state facing a sluggish and uncompetitive economy, population and investment exodus, failing schools and rising crime, Walz should focus on real problems facing his constituency instead of imaginary ones.Andy Brehm, of St. Paul, is a corporate attorney, longtime political commentator and former press secretary to U.S. Sen.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02232544496655464,
+                    "sentence": "Norm Coleman.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 16,
+                    "completely_generated_prob": 3.4496480286678e-14
+                }
+            ],
+            "completely_generated_prob": 0.01281881855424871,
+            "class_probabilities": {
+                "human": 0.9871811814457513,
+                "ai": 0.01281881855424871,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9871811814457513,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01281881855424871,
+                    "human": 0.9871811814457513,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "From local coverage to the presidential race, .Cityscape| Twin Cities urban geographer Bill Lindeke weighs in on city life, transportation, planning and more in his column delivered to your inbox weekly.Gov. Tim Walz and the DFL majorities are pushing legislation at the state Capitol that would prohibit the banning of books in public school libraries. In his newfound quest for national political attention, the governor regularly repeats the lie that literature suppression is on the rise. And the Star Tribune recently echoed that falsehood in its praise of the bill in an editorial last week. The record should be corrected.Walz grounds his alarm ondata from PEN America, a left leaning advocacy group. But, as the Educational Freedom Institute has noted, 74% of the books that PEN America claims are “banned” are in fact available in the school districts where they’re supposedly prohibited. That’s because PEN America alleges for political convenience that a volume is “banned” if any action, such as simply reclassifying it for a more age-appropriate section, or routine administrative review of it is undertaken by school staff.PEN America attests, as has Walz, that such classics as Anne Frank’s diary, “Of Mice and Men,” “The Color Purple” and “To Kill a Mockingbird” have been “banned.” That would be very troubling indeed! ButEFI’s studyfound that in every school district where PEN alleges those books have been barred, copies are actually listed as available.It is true that some school libraries have refused space on their shelves for certain books. And rightly so. EFI found that of the ten most actually banned books, all contain sexually charged, borderline pornographic storylines that are unarguably inappropriate for young students. PEN America suggests that anti-LGBTQ hostility is behind these literary prohibitions. But most of these books actually contain heterosexually explicit content. The ones that do feature homosexual acts include instructions on how to use Grindr to find sex partners, a portrayal of underage incest and pictures of oral sex. Decency, not discrimination, motivates restricting these tomes in schools.Even if one accepts PEN America’s ludicrous findings that book bans are a growing national epidemic, the group’s own study found not a single instance of one here in Minnesota. With his state facing a sluggish and uncompetitive economy, population and investment exodus, failing schools and rising crime, Walz should focus on real problems facing his constituency instead of imaginary ones.Andy Brehm, of St. Paul, is a corporate attorney, longtime political commentator and former press secretary to U.S. Sen. Norm Coleman."
+        }
+    ]
+}

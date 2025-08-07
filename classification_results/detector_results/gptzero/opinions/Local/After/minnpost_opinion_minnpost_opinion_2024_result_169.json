@@ -1,0 +1,183 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.025555161759257317,
+                    "sentence": "From local coverage to the presidential race,.Cityscape| Twin Cities urban geographer Bill Lindeke weighs in on city life, transportation, planning and more in his column delivered to your inbox weekly.In the rhythm of life, spring stands as a poignant reminder of new beginnings as nature awakens from its slumber, buds burst forth and the world transforms into a tapestry of vibrant colors.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9361532330513,
+                    "sentence": "Spring signifies a time of renewal, hope, and the promise of brighter days ahead.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9810901880264282,
+                    "sentence": "Yet, for many, it also carries the weight of loss, reminding us of those who are no longer with us.As we journey through life, loss becomes an inevitable companion.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9887868762016296,
+                    "sentence": "Whether it's the passing of loved ones, the end of relationships or the fading of dreams, each loss leaves an indelible mark on our hearts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9806692600250244,
+                    "sentence": "And as we grow older, the weight of these losses can seem to grow heavier, casting a shadow over the joyous arrival of spring.However, amidst the pain of loss, spring offers solace and the opportunity for healing.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9704169034957886,
+                    "sentence": "Just as nature sheds its winter coat and embraces the warmth of the sun, we too can let go of our grief and welcome the dawn of a new chapter.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9535217881202698,
+                    "sentence": "Spring teaches us the invaluable lesson of resilience, showing us that even in the face of loss, life continues to bloom.One of the most powerful ways to honor the memory of those we've lost is through remembrance.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9709736704826355,
+                    "sentence": "As the world around us comes to life, take a moment to reflect on the cherished moments shared with loved ones who are no longer here.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9368863701820374,
+                    "sentence": "Celebrate their lives through storytelling, sharing fond memories and holding onto the lessons they imparted.Yet, while remembrance is essential, so too is the act of moving forward.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9563027024269104,
+                    "sentence": "Spring beckons us to embrace change and to find beauty in the new beginnings that lie ahead.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9489622116088867,
+                    "sentence": "Just as flowers push through the earth to reach for the sky, we too can find the strength to persevere and grow, even in the face of adversity.Finding support in community and loved ones can provide a source of comfort and strength as we navigate the complexities of grief.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.8763865232467651,
+                    "sentence": "Lean on those who offer a listening ear, a shoulder to cry on or simply a hand to hold.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.878052294254303,
+                    "sentence": "Together, we can find solace in shared experiences and forge connections that help us weather life's storms.As we stand on the threshold of spring, let us embrace its message of hope and renewal.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.8706863522529602,
+                    "sentence": "Let us remember with love those we have lost, and let their memories inspire us to live our lives with purpose and gratitude.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.07306966185569763,
+                    "sentence": "And as we journey forward, may we find solace in the beauty of new beginnings, knowing that with each passing season, we are reminded of the precious gift of life itself.Deb Taylor is the CEO ofSenior Community Services, a Twin Cities nonprofit with a mission to empower people as they age, committed to serving compassionately, connecting communities and supporting independence.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 15,
+                    "completely_generated_prob": 0.8134954429062589
+                }
+            ],
+            "completely_generated_prob": 0.7995711047355243,
+            "class_probabilities": {
+                "human": 0.19427518060025914,
+                "ai": 0.7995711047355243,
+                "mixed": 0.006153714664216576
+            },
+            "average_generated_prob": 1,
+            "predicted_class": "ai",
+            "confidence_score": 0.7995711047355243,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.7995711047355243,
+                    "human": 0.19427518060025914,
+                    "mixed": 0.006153714664216576
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {
+                    "predicted_class": "pure_ai",
+                    "result_message": "",
+                    "confidence_score": 0.9999999998,
+                    "confidence_category": "high",
+                    "class_probabilities": {
+                        "pure_ai": 0.9999999999,
+                        "ai_paraphrased": 9.999999997e-11
+                    },
+                    "confidence_scores_raw": {
+                        "identity": {
+                            "pure_ai": 0.9999999998,
+                            "ai_paraphrased": 9.999999997e-11
+                        }
+                    },
+                    "confidence_thresholds_raw": {
+                        "identity": {
+                            "pure_ai": {
+                                "reject": 0.65,
+                                "low": 0.75,
+                                "medium": 0.92
+                            },
+                            "ai_paraphrased": {
+                                "reject": 0.85,
+                                "low": 0.9,
+                                "medium": 0.95
+                            }
+                        }
+                    }
+                },
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written by AI.",
+            "document_classification": "AI_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "From local coverage to the presidential race, .Cityscape| Twin Cities urban geographer Bill Lindeke weighs in on city life, transportation, planning and more in his column delivered to your inbox weekly.In the rhythm of life, spring stands as a poignant reminder of new beginnings as nature awakens from its slumber, buds burst forth and the world transforms into a tapestry of vibrant colors. Spring signifies a time of renewal, hope, and the promise of brighter days ahead. Yet, for many, it also carries the weight of loss, reminding us of those who are no longer with us.As we journey through life, loss becomes an inevitable companion. Whether it’s the passing of loved ones, the end of relationships or the fading of dreams, each loss leaves an indelible mark on our hearts. And as we grow older, the weight of these losses can seem to grow heavier, casting a shadow over the joyous arrival of spring.However, amidst the pain of loss, spring offers solace and the opportunity for healing. Just as nature sheds its winter coat and embraces the warmth of the sun, we too can let go of our grief and welcome the dawn of a new chapter. Spring teaches us the invaluable lesson of resilience, showing us that even in the face of loss, life continues to bloom.One of the most powerful ways to honor the memory of those we’ve lost is through remembrance. As the world around us comes to life, take a moment to reflect on the cherished moments shared with loved ones who are no longer here. Celebrate their lives through storytelling, sharing fond memories and holding onto the lessons they imparted.Yet, while remembrance is essential, so too is the act of moving forward. Spring beckons us to embrace change and to find beauty in the new beginnings that lie ahead. Just as flowers push through the earth to reach for the sky, we too can find the strength to persevere and grow, even in the face of adversity.Finding support in community and loved ones can provide a source of comfort and strength as we navigate the complexities of grief. Lean on those who offer a listening ear, a shoulder to cry on or simply a hand to hold. Together, we can find solace in shared experiences and forge connections that help us weather life’s storms.As we stand on the threshold of spring, let us embrace its message of hope and renewal. Let us remember with love those we have lost, and let their memories inspire us to live our lives with purpose and gratitude. And as we journey forward, may we find solace in the beauty of new beginnings, knowing that with each passing season, we are reminded of the precious gift of life itself.Deb Taylor is the CEO ofSenior Community Services, a Twin Cities nonprofit with a mission to empower people as they age, committed to serving compassionately, connecting communities and supporting independence."
+        }
+    ]
+}

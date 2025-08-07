@@ -1,0 +1,94 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00044203735888004303,
+                    "sentence": "In their final report into the management of the 2020 Northern Murray-Darling Basin first flush event, tabled on September 7, the \"independent\" assessors opined that\"... the efforts of staff within NSW government agencies to manage the first flows demonstrated great courage, dedication and commitment to restoring the critical water needs so desperately required in regional communities across the Northern Basin in NSW\".What farcical nonsense!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00043049571104347706,
+                    "sentence": "These bureaucrats (and their minister?)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004143985570408404,
+                    "sentence": "gave first dibs to their \"masters\", the flood plain harvesters, when it was not known how substantial the rain event would be.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00041138770757243037,
+                    "sentence": "It was only the huge howl of public protest that led to Minister Melinda Pavey imposing an embargo after at least an estimated 30 gigalitres (likely more) had been harvested.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005444801063276827,
+                    "sentence": "This apologist report is yet more evidence that the problems of the Murray Darling Basin will never be fully resolved without a comprehensive royal commission.Keith E RichardsBuronga, NSW",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                }
+            ],
+            "completely_generated_prob": 0.009998674697021016,
+            "class_probabilities": {
+                "human": 0.990001325302979,
+                "ai": 0.009998674697021016,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.990001325302979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.009998674697021016,
+                    "human": 0.990001325302979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "In their final report into the management of the 2020 Northern Murray-Darling Basin first flush event, tabled on September 7, the \"independent\" assessors opined that\"... the efforts of staff within NSW government agencies to manage the first flows demonstrated great courage, dedication and commitment to restoring the critical water needs so desperately required in regional communities across the Northern Basin in NSW\".What farcical nonsense! These bureaucrats (and their minister?) gave first dibs to their \"masters\", the flood plain harvesters, when it was not known how substantial the rain event would be. It was only the huge howl of public protest that led to Minister Melinda Pavey imposing an embargo after at least an estimated 30 gigalitres (likely more) had been harvested. This apologist report is yet more evidence that the problems of the Murray Darling Basin will never be fully resolved without a comprehensive royal commission.Keith E RichardsBuronga, NSW"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00016233905625995249,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014062243280932307,
+                    "sentence": "Please send your letters toletters@independent.co.ukHaving presumably run out of high vis jacketsBoris Johnson has turnedto dressing up as an overweight policeman, ironically attending a drugs raid while it was reported that traces of cocainewere allegedlyall over Westminster.It used to be that masquerading as apolice officerwas an offence, but thenJohnsonhas been masquerading as a political leader for some time and no one has been too concerned.G ForwardStirlingParty budgetAnother question to be answered is: while we were forbidden from holding parties due to Covid rules, was the general public paying for the partiesbeing held inNumber 10?William WainAddress suppliedMother of the HouseWhat a wonderful piece byJess Phillipson Friday.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018899842689279467,
+                    "sentence": "It is good to read the positives about politics and I hope that in her turn Jess becomes \"Mother of the House\".It is also worth noting that Harriet Harman used her privileged background as a springboard to help others such as Phillips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002378710196353495,
+                    "sentence": "A good example of how levelling up may actually be achieved rather than just spouting banalities.It also shows a sense of what is the right, honourable and decent thing to do is possible among those of our MPs who are privately educated at the top fee-paying schools.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0031221224926412106,
+                    "sentence": "What is needed is both empathy and the quality that used to be prized of putting what is best for the people before what is best for oneself.Kerry LarbalestierShetlandTo keep up to speed with all the latest opinions and comment sign up to our free weekly Voices Dispatches newsletter byclicking hereEnough is enoughI readKim Sengupta's columnon the UK entering talks in Tehran about its £400m debt.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005587687715888023,
+                    "sentence": "Please let this be resolved as soon as possible, so that Nazanin Zaghari-Ratcliffe and the other UK National detainees, can gain their much-needed freedom.This tragic affair has meandered on too long about the payment of this justified bill.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0044610039331018925,
+                    "sentence": "It has been long established that Britain does owe this money but it has now entangled itself in the ethical ways of settling this debt.While these laborious discussions meander on, the collateral damage is immense to detainees.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005202380940318108,
+                    "sentence": "Wouldn't it be the best Christmas present ever for Richard Ratcliffe, their Gabriella, and all the families involved if this iniquitous issue can be resolved?I never again want to have to see Ratcliffe undertakinga hunger striketo highlight his message - surely enough is now enough?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009001335129141808,
+                    "sentence": "Just get them all home, where they belong.Judith A. DanielsNorfolkCollective solutionsIt is cynical thatHuman Rights Dayis often overlooked or ignored.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02041752263903618,
+                    "sentence": "This year was no exception; it has passed relatively unnoticed.As the coronavirus pandemic has illuminated, our world stands at a moral and social crossroads.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013807673938572407,
+                    "sentence": "The widening inequalities between the rich and poor, gender-based violence, the thunderous existential threats of nuclear weapons, religious animosities, environmental degradation and climate change that reverberate across the world, are not only shrinking wildlife habitats but also putting human populations at risk.Millions of people are still gripped by poverty, destitution, hunger, malnutrition, homelessness, worklessness, diseases, knife crimes, traffic accidents, human trafficking, modern slavery, sexual harassment and mental ailments.Isn't it time to demand a collective and holistic solution to global crises, restore human rights, freedoms and dignities and tackle the root causes that act as fertile grounds for their violations?Dr Munjed Farid Al QutobLondonRead MoreThis is why Keir Starmer should go easy on Boris Johnson | John RentoulLetters: Boris Johnson's jovial mask has served the hard right very wellEditorial: The current crises won't just blow over for Boris JohnsonOpinion: There are whispers from Tory MPs that Boris Johnson is on 'probation'The sound of silence is ominous for Boris Johnson | John RentoulEditorial: Be careful what you wish for - Johnson's successor could be even worse",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.025041194076269924,
+            "class_probabilities": {
+                "human": 0.974671313226954,
+                "ai": 0.025041194076269924,
+                "mixed": 0.00028749269677611
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.974671313226954,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.025041194076269924,
+                    "human": 0.974671313226954,
+                    "mixed": 0.00028749269677611
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukHaving presumably run out of high vis jacketsBoris Johnson has turnedto dressing up as an overweight policeman, ironically attending a drugs raid while it was reported that traces of cocainewere allegedlyall over Westminster.It used to be that masquerading as apolice officerwas an offence, but thenJohnsonhas been masquerading as a political leader for some time and no one has been too concerned.G ForwardStirlingParty budgetAnother question to be answered is: while we were forbidden from holding parties due to Covid rules, was the general public paying for the partiesbeing held inNumber 10?William WainAddress suppliedMother of the HouseWhat a wonderful piece byJess Phillipson Friday. It is good to read the positives about politics and I hope that in her turn Jess becomes \"Mother of the House\".It is also worth noting that Harriet Harman used her privileged background as a springboard to help others such as Phillips. A good example of how levelling up may actually be achieved rather than just spouting banalities.It also shows a sense of what is the right, honourable and decent thing to do is possible among those of our MPs who are privately educated at the top fee-paying schools. What is needed is both empathy and the quality that used to be prized of putting what is best for the people before what is best for oneself.Kerry LarbalestierShetlandTo keep up to speed with all the latest opinions and comment sign up to our free weekly Voices Dispatches newsletter byclicking hereEnough is enoughI readKim Sengupta's columnon the UK entering talks in Tehran about its £400m debt. Please let this be resolved as soon as possible, so that Nazanin Zaghari-Ratcliffe and the other UK National detainees, can gain their much-needed freedom.This tragic affair has meandered on too long about the payment of this justified bill. It has been long established that Britain does owe this money but it has now entangled itself in the ethical ways of settling this debt.While these laborious discussions meander on, the collateral damage is immense to detainees. Wouldn't it be the best Christmas present ever for Richard Ratcliffe, their Gabriella, and all the families involved if this iniquitous issue can be resolved?I never again want to have to see Ratcliffe undertakinga hunger striketo highlight his message - surely enough is now enough? Just get them all home, where they belong.Judith A. DanielsNorfolkCollective solutionsIt is cynical thatHuman Rights Dayis often overlooked or ignored. This year was no exception; it has passed relatively unnoticed.As the coronavirus pandemic has illuminated, our world stands at a moral and social crossroads. The widening inequalities between the rich and poor, gender-based violence, the thunderous existential threats of nuclear weapons, religious animosities, environmental degradation and climate change that reverberate across the world, are not only shrinking wildlife habitats but also putting human populations at risk.Millions of people are still gripped by poverty, destitution, hunger, malnutrition, homelessness, worklessness, diseases, knife crimes, traffic accidents, human trafficking, modern slavery, sexual harassment and mental ailments.Isn't it time to demand a collective and holistic solution to global crises, restore human rights, freedoms and dignities and tackle the root causes that act as fertile grounds for their violations?Dr Munjed Farid Al QutobLondonRead MoreThis is why Keir Starmer should go easy on Boris Johnson | John RentoulLetters: Boris Johnson's jovial mask has served the hard right very wellEditorial: The current crises won't just blow over for Boris JohnsonOpinion: There are whispers from Tory MPs that Boris Johnson is on 'probation'The sound of silence is ominous for Boris Johnson | John RentoulEditorial: Be careful what you wish for - Johnson's successor could be even worse"
+        }
+    ]
+}

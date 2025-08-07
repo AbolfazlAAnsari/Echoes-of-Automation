@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.012207943014800549,
+                    "sentence": "Please send your letters toletters@independent.co.ukWith regard to your article today 'Teachers forced to double as unpaid examiners', my daughter tells me that from 12 May she has nine days, including working days, to mark 250 to 300 papers, with no extra pay.Is this how we want our education system administered?We need to appreciate our dedicated teachers.Geraldine LoftingBathIf we really must go down the route of teachers acting as examiners of their own pupils - with or without moderation - then one thing which would help is anonymity of scripts (preferably converted to typescript).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008460646495223045,
+                    "sentence": "This would avoid unconscious bias and would enable examiners to resist attempts to suborn.Cole DavisNorwichA surpriseCathy Hayward'sarticleabout her daughter and catcalling was surprising.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006967661902308464,
+                    "sentence": "Not because her daughter was being whistled at - and more - whilst wearing her school uniform, but that it came as a surprise.I am now 72 but still recall vividly being propositioned by crawling cars as a 12-year-old.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0068793948739767075,
+                    "sentence": "It was part of life in the area where I lived.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0052394019439816475,
+                    "sentence": "The even more concerning aspect was that, when out of uniform, the attention wasn't nearly so intense.P HullandAddress suppliedNo contactCan somebody please tell my why it is acceptable for footballers to hug and climb all over each other in public on the pitch when I am still not supposed to hug my grandchildren?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0081406245008111,
+                    "sentence": "I cannot even shake hands with anyone.I know the elderly in care homes are more vulnerable but they have almost all been vaccinated and they are still barely allowed outdoors, or must contact their loved ones via PPE.Clearly footballers are uncontrollable but please spare us the photographs on the front page.Simon FisherSellindge, KentSting in the tailSince 1707 England and Scotland have mutually benefited from a political union.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008081033593043685,
+                    "sentence": "Why, after 314 years of successful political union, should it be broken up (primarily to the detriment of the Scottish people whom we love)?My grandmother was born in Dundee and moved to England in the 1930s, and her passion for Scotland is reminiscent of many Scots and of the SNP.However, I feel strongly that any political party promoting independence should be absolutely transparent with the Scottish people as to the financial consequences of such a move.It does not take a mathematical genius to see that independence is going to come at a cost to the Scottish people.Voting independence may show patriotism, but beware of the sting in the tail!Ken DennyBedfordSelf-diluted sovereigntyWell Geoffrey Lazell (Letters), it was the oven ready deal you would appear to have voted for.How will we achieve our \"eventual extrication therefrom\"?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009223746601492167,
+                    "sentence": "It was very difficult to avoid a \"poorly negotiated Brexit Agreement (with all its potential pitfalls for the UK)\" when the government has consigned its considerable authority in the EU to the dustbin.I hope you feel able to enjoy our self-diluted sovereignty.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015497645363211632,
+                    "sentence": "The remaining 27 member states retain their sovereignty in full, including a sovereign right of veto.I am confident Norway will find it in their hearts to sell us some fish.I believe that we should prepare for worse.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0022443768102675676,
+                    "sentence": "Please remember the choice made to leave the EU was ours.David NelmesCaerleon, WalesRead MoreThe benefits of Brexit just keep rolling in - or is it the opposite?The UK must take full responsibility for its entire carbon footprintScotland leaving the UK would divert attention from pandemic recovery and climate change",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.039837804045504216,
+            "class_probabilities": {
+                "human": 0.9601216422360306,
+                "ai": 0.039837804045504216,
+                "mixed": 4.055371846526579e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601216422360306,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039837804045504216,
+                    "human": 0.9601216422360306,
+                    "mixed": 4.055371846526579e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukWith regard to your article today 'Teachers forced to double as unpaid examiners', my daughter tells me that from 12 May she has nine days, including working days, to mark 250 to 300 papers, with no extra pay.Is this how we want our education system administered?We need to appreciate our dedicated teachers.Geraldine LoftingBathIf we really must go down the route of teachers acting as examiners of their own pupils - with or without moderation - then one thing which would help is anonymity of scripts (preferably converted to typescript). This would avoid unconscious bias and would enable examiners to resist attempts to suborn.Cole DavisNorwichA surpriseCathy Hayward'sarticleabout her daughter and catcalling was surprising. Not because her daughter was being whistled at - and more - whilst wearing her school uniform, but that it came as a surprise.I am now 72 but still recall vividly being propositioned by crawling cars as a 12-year-old. It was part of life in the area where I lived. The even more concerning aspect was that, when out of uniform, the attention wasn't nearly so intense.P HullandAddress suppliedNo contactCan somebody please tell my why it is acceptable for footballers to hug and climb all over each other in public on the pitch when I am still not supposed to hug my grandchildren? I cannot even shake hands with anyone.I know the elderly in care homes are more vulnerable but they have almost all been vaccinated and they are still barely allowed outdoors, or must contact their loved ones via PPE.Clearly footballers are uncontrollable but please spare us the photographs on the front page.Simon FisherSellindge, KentSting in the tailSince 1707 England and Scotland have mutually benefited from a political union. Why, after 314 years of successful political union, should it be broken up (primarily to the detriment of the Scottish people whom we love)?My grandmother was born in Dundee and moved to England in the 1930s, and her passion for Scotland is reminiscent of many Scots and of the SNP.However, I feel strongly that any political party promoting independence should be absolutely transparent with the Scottish people as to the financial consequences of such a move.It does not take a mathematical genius to see that independence is going to come at a cost to the Scottish people.Voting independence may show patriotism, but beware of the sting in the tail!Ken DennyBedfordSelf-diluted sovereigntyWell Geoffrey Lazell (Letters), it was the oven ready deal you would appear to have voted for.How will we achieve our \"eventual extrication therefrom\"? It was very difficult to avoid a \"poorly negotiated Brexit Agreement (with all its potential pitfalls for the UK)\" when the government has consigned its considerable authority in the EU to the dustbin.I hope you feel able to enjoy our self-diluted sovereignty. The remaining 27 member states retain their sovereignty in full, including a sovereign right of veto.I am confident Norway will find it in their hearts to sell us some fish.I believe that we should prepare for worse. Please remember the choice made to leave the EU was ours.David NelmesCaerleon, WalesRead MoreThe benefits of Brexit just keep rolling in - or is it the opposite?The UK must take full responsibility for its entire carbon footprintScotland leaving the UK would divert attention from pandemic recovery and climate change"
+        }
+    ]
+}

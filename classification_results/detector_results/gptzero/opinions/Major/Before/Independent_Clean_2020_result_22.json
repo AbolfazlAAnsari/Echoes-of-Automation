@@ -1,0 +1,94 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0002772337174974382,
+                    "sentence": "It is one of the oddities ofWestminsterlife that sometimes the most historic moments take place in the most downbeat of ways.After three years of impassioned speeches, knife-edge votes and furious debate overBrexitin the House of Commons, when the act enabling the UK's departure from the EU finally became law, it was definitely a case of \"not with a bang but a whimper\".There were about 30 MPs on the green benches at 2.33pm on Thursday, when news that the Queen had granted her royal assent to the EU Withdrawal Agreement Bill reached the Commons, interrupting a debate on Holocaust Memorial Day.It fell to deputy speaker Nigel Evans to intone the words \"I have to notify the House, in accordance with the Royal Assent Act 1967, that Her Majesty has signified her royal assent to the following act - EU Withdrawal Agreement Act 2020\".A few Tories raised a desultory \"Hear!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000224377479753457,
+                    "sentence": "Hear!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00024112399842124432,
+                    "sentence": "\", SNP Westminster leader Ian Blackford raised a point of order about the move being a \"constitutional crisis\" and former Brexit secretary David Davis congratulated Evans on securing his place in history.But in reality, the moment when the UK irrevocably severed itself from its biggest market and its closest neighbours passed in the least historic way imaginable.And this reflects a wider reality about life in SW1 since last month's election - no one wants to talk about Brexit any more.True, Nigel Farage and his motley band of Brexiteers are planning a party in Parliament Square - without fireworks and without Big Ben bongs - for 11pm next Friday, when the UK formally ceases to be a member.But otherwise there seems to be little in the way of celebrations or protests planned by the two sides who were once so passionate in their campaigning zeal.Boris Johnson is getting out of town for a cabinet meeting in the north, and appears to be planning to mark the moment of Brexit behind closed doors in No 10.He is planning a big speech at the start of February on his vision of Britain's future in which the word Brexit will apparently not feature.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000596826896071434,
+                    "sentence": "The Department for Exiting the EU is being shut down and ministers never mention Brexit unless they really have to.As for Labour, the only use they now have for the word \"Brexit\" is as a scapegoat for the loss of the last election.Of course, the experts insist that the truly important decisions on Brexit - the new rules on trade and immigration, the regulations that businesses will have to follow - are all still to be made.But for the exhausted enemies who fought the battle over Britain's relations with Europe to a bloody outcome, it seems to be more tempting to pass by and pretend they haven't noticed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009499593870714307,
+                    "sentence": "It was a grim business, they seem to think, it divided the nation and gifted us four years of \"rancour and division\" - as Mr Johnson himself has admitted - and now they'd really prefer not to remind people that it ever happened at all.Yours,Andrew WoodcockPolitical editor",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "It is one of the oddities ofWestminsterlife that sometimes the most historic moments take place in the most downbeat of ways.After three years of impassioned speeches, knife-edge votes and furious debate overBrexitin the House of Commons, when the act enabling the UK's departure from the EU finally became law, it was definitely a case of \"not with a bang but a whimper\".There were about 30 MPs on the green benches at 2.33pm on Thursday, when news that the Queen had granted her royal assent to the EU Withdrawal Agreement Bill reached the Commons, interrupting a debate on Holocaust Memorial Day.It fell to deputy speaker Nigel Evans to intone the words \"I have to notify the House, in accordance with the Royal Assent Act 1967, that Her Majesty has signified her royal assent to the following act - EU Withdrawal Agreement Act 2020\".A few Tories raised a desultory \"Hear! Hear!\", SNP Westminster leader Ian Blackford raised a point of order about the move being a \"constitutional crisis\" and former Brexit secretary David Davis congratulated Evans on securing his place in history.But in reality, the moment when the UK irrevocably severed itself from its biggest market and its closest neighbours passed in the least historic way imaginable.And this reflects a wider reality about life in SW1 since last month's election - no one wants to talk about Brexit any more.True, Nigel Farage and his motley band of Brexiteers are planning a party in Parliament Square - without fireworks and without Big Ben bongs - for 11pm next Friday, when the UK formally ceases to be a member.But otherwise there seems to be little in the way of celebrations or protests planned by the two sides who were once so passionate in their campaigning zeal.Boris Johnson is getting out of town for a cabinet meeting in the north, and appears to be planning to mark the moment of Brexit behind closed doors in No 10.He is planning a big speech at the start of February on his vision of Britain's future in which the word Brexit will apparently not feature. The Department for Exiting the EU is being shut down and ministers never mention Brexit unless they really have to.As for Labour, the only use they now have for the word \"Brexit\" is as a scapegoat for the loss of the last election.Of course, the experts insist that the truly important decisions on Brexit - the new rules on trade and immigration, the regulations that businesses will have to follow - are all still to be made.But for the exhausted enemies who fought the battle over Britain's relations with Europe to a bloody outcome, it seems to be more tempting to pass by and pretend they haven't noticed. It was a grim business, they seem to think, it divided the nation and gifted us four years of \"rancour and division\" - as Mr Johnson himself has admitted - and now they'd really prefer not to remind people that it ever happened at all.Yours,Andrew WoodcockPolitical editor"
+        }
+    ]
+}

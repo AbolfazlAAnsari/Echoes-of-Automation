@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00023488581064157188,
+                    "sentence": "We'd like to hear student opinions about what's in the news.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002520133857615292,
+                    "sentence": "Write a letter to the editor in response to a recent article, and yours may be chosen for publication.We'd like to hear student opinions about what's in the news.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001269678759854287,
+                    "sentence": "Write a letter to the editor in response to a recent article, and yours may be chosen for publication.As this unusual school year nears its end, we invite high school students to enter our letter-writing competition.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000112422916572541,
+                    "sentence": "Craft a letter to the editor in response to a Times news or opinion article from the past week.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.052816312760115e-05,
+                    "sentence": "We will choose some of our favorites for publication.Letters should be about 150 to 200 words and include the headline and a link to the article.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.649641338502988e-05,
+                    "sentence": "Include your name, age, high school and grade, city or town and state (for publication), and telephone number (not for publication).Email:letters@nytimes.comPlease put “Student Competition” in the subject line.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000100212317192927,
+                    "sentence": "The deadline is Monday, May 3.For examples of what we're looking for, look at the letters publishedhere.For more opportunities to publish student work, visitThe New York Times Learning Network.PHOTO:   (PHOTOGRAPH BY Rafal Milach/Magnum Photos FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.0051780533755591265,
+            "class_probabilities": {
+                "human": 0.9948219466244408,
+                "ai": 0.0051780533755591265,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9948219466244408,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0051780533755591265,
+                    "human": 0.9948219466244408,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "We’d like to hear student opinions about what’s in the news. Write a letter to the editor in response to a recent article, and yours may be chosen for publication.We’d like to hear student opinions about what’s in the news. Write a letter to the editor in response to a recent article, and yours may be chosen for publication.As this unusual school year nears its end, we invite high school students to enter our letter-writing competition. Craft a letter to the editor in response to a Times news or opinion article from the past week. We will choose some of our favorites for publication.Letters should be about 150 to 200 words and include the headline and a link to the article. Include your name, age, high school and grade, city or town and state (for publication), and telephone number (not for publication).Email:letters@nytimes.comPlease put “Student Competition” in the subject line. The deadline is Monday, May 3.For examples of what we’re looking for, look at the letters publishedhere.For more opportunities to publish student work, visitThe New York Times Learning Network.PHOTO:   (PHOTOGRAPH BY Rafal Milach/Magnum Photos FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

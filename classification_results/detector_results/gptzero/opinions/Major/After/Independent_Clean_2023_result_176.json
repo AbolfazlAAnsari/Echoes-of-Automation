@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 3.304149868199602e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.7575519197853282e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukI was greatly heartened to readwhat Michel BarnierandGina Millerwrote recently for The Independent, about the UK's future relationship with theEU.We are now, hopefully, rid of the egregiousBoris Johnson, the main architect of the Brexit disaster.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.971666824829299e-05,
+                    "sentence": "Unfortunately,the Labour Partyseems not yet to have seen the light andrealised that rejoiningis not only growing in desirability for most of the electorate but is also quite likely to be a possibility.I expect to be marching, yet again, in support of a close relationship between the UK and the EU, and hope that in the future our politicians will have the sense to listen.Susan AlexanderSouth GloucestershireThe great Tory legacyAll prime ministers want to go down in history having left a legacy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.0860341464867815e-05,
+                    "sentence": "And, the Tories - the self-styled “natural party of government” - have certainly provided recent PMs whose legacies will be noted by historians as having driven the final nails into the coffin of British hegemony.Margaret Thatcher seriously dented the country's social fabric; forcing de-industrialisation, and thereby ensuring the development of the North-South divide.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.597722050268203e-05,
+                    "sentence": "David Cameron allowed a referendum without a super-majority that led to Brexit, the country's disunity, and our long-term fall from economic prosperity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.1471408874494955e-05,
+                    "sentence": "Johnson destroyed trust in the government and sanctioned lying as a means of avoiding scrutiny.Liz Truss - mercifully, inflicted on us only briefly - exacerbated the country's economic woes and left home ownership (a Tory battle cry) more expensive than many can afford.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1149156391620636,
+                    "sentence": "Rishi Sunak is yet to reveal his full identity and thankfully his run may be cut short by a general election.Ian ReidKilnwickRefugees represent the best of the human spiritEleanor Monbiotis right that we should be a voice for those who were displaced and bring light to those in darkness.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.12026975303888321,
+                    "sentence": "Many refugees had lived in the dark shadow of destitution, dehumanisation, degradation, demoralisation, destruction, danger, diseases, deportation, displacement, desperation, and death.However, we should not always taint refugees with the brush of mental illnesses.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.12151001393795013,
+                    "sentence": "Their perseverancein the face of adversityremains a source of inspiration for all.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.10952991992235184,
+                    "sentence": "They represent the best of the human spirit.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010590005695121363,
+                    "sentence": "They deserve moral and ethical solidarity, not closedborders and pushbacks.Dr Munjed Farid Al QutobLondonThe 1 per cent can hold their nerveSo, Rishi Sunak has asked the electorate to“hold their nerve”as interest rates rise yet again.How are people expected to “hold their nerve” when the cost of their mortgage is rising along with the cost of living and everything else thanks to Tory incompetence?Maybe if Conservative Party members held their nerve instead ofelecting Liz Trussthings might just have got a bit better?Truss andher kamikaze budgetlay at the heart of this mess along with David Cameron andGeorge Osbornefor failing to fix the roof when the sun was shining down.While the Tories no doubt will be knocking back champagne at Lord's this week like the rest of the richest one per cent, we poor members of the 99 per cent remain stuck trying to make financial mends even meet.Geoffrey BrookingHampshireTo serve and not dominateYour article on theSheffield Tree Massacreraises a very contemporary point - especially in light of the startling similar destruction of trees inPlymouthrecently.The arrogance of the councils and craven acquiescence of the police in supporting the destruction is chilling.When will these bodies accept that they - like our equally overweening government - are elected or appointed to serve and not dominate the people of the country - who pay their inflated salaries.Mike MargettsKilsby",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.039837804045504216,
+            "class_probabilities": {
+                "human": 0.9601216422360306,
+                "ai": 0.039837804045504216,
+                "mixed": 4.055371846526579e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601216422360306,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039837804045504216,
+                    "human": 0.9601216422360306,
+                    "mixed": 4.055371846526579e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW : Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI was greatly heartened to readwhat Michel BarnierandGina Millerwrote recently for The Independent, about the UK’s future relationship with theEU.We are now, hopefully, rid of the egregiousBoris Johnson, the main architect of the Brexit disaster. Unfortunately,the Labour Partyseems not yet to have seen the light andrealised that rejoiningis not only growing in desirability for most of the electorate but is also quite likely to be a possibility.I expect to be marching, yet again, in support of a close relationship between the UK and the EU, and hope that in the future our politicians will have the sense to listen.Susan AlexanderSouth GloucestershireThe great Tory legacyAll prime ministers want to go down in history having left a legacy. And, the Tories – the self-styled “natural party of government” – have certainly provided recent PMs whose legacies will be noted by historians as having driven the final nails into the coffin of British hegemony.Margaret Thatcher seriously dented the country’s social fabric; forcing de-industrialisation, and thereby ensuring the development of the North-South divide. David Cameron allowed a referendum without a super-majority that led to Brexit, the country’s disunity, and our long-term fall from economic prosperity. Johnson destroyed trust in the government and sanctioned lying as a means of avoiding scrutiny.Liz Truss – mercifully, inflicted on us only briefly – exacerbated the country’s economic woes and left home ownership (a Tory battle cry) more expensive than many can afford. Rishi Sunak is yet to reveal his full identity and thankfully his run may be cut short by a general election.Ian ReidKilnwickRefugees represent the best of the human spiritEleanor Monbiotis right that we should be a voice for those who were displaced and bring light to those in darkness. Many refugees had lived in the dark shadow of destitution, dehumanisation, degradation, demoralisation, destruction, danger, diseases, deportation, displacement, desperation, and death.However, we should not always taint refugees with the brush of mental illnesses. Their perseverancein the face of adversityremains a source of inspiration for all. They represent the best of the human spirit. They deserve moral and ethical solidarity, not closedborders and pushbacks.Dr Munjed Farid Al QutobLondonThe 1 per cent can hold their nerveSo, Rishi Sunak has asked the electorate to“hold their nerve”as interest rates rise yet again.How are people expected to “hold their nerve” when the cost of their mortgage is rising along with the cost of living and everything else thanks to Tory incompetence?Maybe if Conservative Party members held their nerve instead ofelecting Liz Trussthings might just have got a bit better?Truss andher kamikaze budgetlay at the heart of this mess along with David Cameron andGeorge Osbornefor failing to fix the roof when the sun was shining down.While the Tories no doubt will be knocking back champagne at Lord’s this week like the rest of the richest one per cent, we poor members of the 99 per cent remain stuck trying to make financial mends even meet.Geoffrey BrookingHampshireTo serve and not dominateYour article on theSheffield Tree Massacreraises a very contemporary point – especially in light of the startling similar destruction of trees inPlymouthrecently.The arrogance of the councils and craven acquiescence of the police in supporting the destruction is chilling.When will these bodies accept that they – like our equally overweening government – are elected or appointed to serve and not dominate the people of the country – who pay their inflated salaries.Mike MargettsKilsby"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0011165556497871876,
+                    "sentence": "Have a little fun by expressing your opinions in forms other than letters to the editor.Have a little fun by expressing your opinions in forms other than letters to the editor.We invite readers to have a little fun by expressing their opinions in forms other than letters to the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004854205471929163,
+                    "sentence": "Take a well-known song, poem or other kind of text (from Shakespeare to Seuss), and rewrite the words in response to something or someone in the news.For inspiration, look at what readers submitted when we solicited such“variations”a few years ago.Send in your submissions by Aug. 7.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003982493362855166,
+                    "sentence": "Please include your name, location and contact information, and put “variations” in the subject line.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003719840315170586,
+                    "sentence": "We will publish a selection of our favorites.Email:letters@nytimes.comThis article appeared in print on page A23.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 4,
+                    "completely_generated_prob": 0.0006564766595293492
+                }
+            ],
+            "completely_generated_prob": 0.008764888981516596,
+            "class_probabilities": {
+                "human": 0.9912351110184834,
+                "ai": 0.008764888981516596,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9912351110184834,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.008764888981516596,
+                    "human": 0.9912351110184834,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Have a little fun by expressing your opinions in forms other than letters to the editor.Have a little fun by expressing your opinions in forms other than letters to the editor.We invite readers to have a little fun by expressing their opinions in forms other than letters to the editor. Take a well-known song, poem or other kind of text (from Shakespeare to Seuss), and rewrite the words in response to something or someone in the news.For inspiration, look at what readers submitted when we solicited such“variations”a few years ago.Send in your submissions by Aug. 7. Please include your name, location and contact information, and put “variations” in the subject line. We will publish a selection of our favorites.Email:letters@nytimes.comThis article appeared in print on page A23."
+        }
+    ]
+}

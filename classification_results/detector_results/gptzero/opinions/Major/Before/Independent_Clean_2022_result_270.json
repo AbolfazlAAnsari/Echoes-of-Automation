@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 9.71336557995528e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.230651630787179e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukComments byLiz Trussthat it will take years for the UK to establish afree trade dealwith the US are both confusing and alarming.In 2019, then prime ministerBoris Johnsonnoted that a UK-US post-Brexit trade deal was imminent and the UK was at the “front of the queue”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.918623982230201e-05,
+                    "sentence": "Three years later, Truss tells us the deal has been shelved for at least the “short to medium term”.It transpires that there aren't currently even any negotiations taking place, despite a pledge by Brexiteers that this was one of the major economic benefits of leaving theEU.What we have witnessed since Brexit is a series of trade deals that mirror what the UK already had as members of the EU, or are even worse.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000104633676528465,
+                    "sentence": "This was most recently demonstrated by the free trade deal with New Zealand, which will see much higher quantities of produce come into the UK tariff-free.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.345324360765517e-05,
+                    "sentence": "It means a lack of a level playing field between British and New Zealand farmers, who can benefit from economies of scale.This is in stark contrast to the EU's free trade agreement with New Zealand, which secured the same market access for its exports but with better safeguards for its domestic producers.While the UK government is celebrating the fact that leaving the EU gives the UK the benefit of making trade agreements, these do not seem to be forthcoming, and where they do they frequently put the UK in a worse position than previous EU membership provided.Alex OrrEdinburghIs it what she would have wanted?In describing the outpourings of affection for her,Ian Lloyd saysthat the late Queen was a modest person.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.494687062921003e-05,
+                    "sentence": "Assuming this was true, wouldn't she have been shocked that people were unable to get any access to news other than about herself on all terrestrial television channels?Cole DavisNorwichThe Queen's respect for human dignityThe Queen spelt out her life's philosophy in countless BBC Christmas Day broadcasts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.896256233332679e-05,
+                    "sentence": "What made her festive witness to traditional Anglicanism so memorable and potent?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012237059127073735,
+                    "sentence": "Kierkegaard spoke about life being “lived forwards” but “understood backwards”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011406276462366804,
+                    "sentence": "What made the late Queen's witness so special was her absolute respect for human dignity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013493100414052606,
+                    "sentence": "The modern Anglican Church needs to relearn this lesson.James HardyBelfastPlan b for Scottish independenceSimply declare your whole country an “investment zone” that's free from any ties to the government and laws of the UK.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000600079249124974,
+                    "sentence": "After all, if the new chancellor, Kwasi Kwarteng, thinks it'll be beneficial for the West Midlands, the Thames estuary, the Tees Valley, West Yorkshire and Norfolk to become independent from the UK, he can't deny Scotland the same benefits, can he?Sasha SimicLondonTo keep up to speed with all the latest opinions and comment sign up to our free weekly Voices Dispatches newsletter by clickinghereWhere was The Queen and I?I was amazed to see that Sue Townsend's excellent The Queen and I was missing from your review of the best books about the Queen.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004808252560906112,
+                    "sentence": "It is by far the most informative book on the subject that I have ever come across.Phil WhitneyAddress suppliedSolemnity and dignityThe funeral procession of Queen Elizabeth II was an occasion of solemnity and dignity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008061577100306749,
+                    "sentence": "It was undoubtedly a global event where heads of states, kings and queens gathered to celebrate the life of a unique woman whose reign was an irreplaceable pleasure for our nation.Dr Munjed Farid Al QutobLondon",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.006608679833334143,
+            "class_probabilities": {
+                "human": 0.9933913201666659,
+                "ai": 0.006608679833334143,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933913201666659,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006608679833334143,
+                    "human": 0.9933913201666659,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukComments byLiz Trussthat it will take years for the UK to establish afree trade dealwith the US are both confusing and alarming.In 2019, then prime ministerBoris Johnsonnoted that a UK-US post-Brexit trade deal was imminent and the UK was at the “front of the queue”. Three years later, Truss tells us the deal has been shelved for at least the “short to medium term”.It transpires that there aren’t currently even any negotiations taking place, despite a pledge by Brexiteers that this was one of the major economic benefits of leaving theEU.What we have witnessed since Brexit is a series of trade deals that mirror what the UK already had as members of the EU, or are even worse. This was most recently demonstrated by the free trade deal with New Zealand, which will see much higher quantities of produce come into the UK tariff-free. It means a lack of a level playing field between British and New Zealand farmers, who can benefit from economies of scale.This is in stark contrast to the EU’s free trade agreement with New Zealand, which secured the same market access for its exports but with better safeguards for its domestic producers.While the UK government is celebrating the fact that leaving the EU gives the UK the benefit of making trade agreements, these do not seem to be forthcoming, and where they do they frequently put the UK in a worse position than previous EU membership provided.Alex OrrEdinburghIs it what she would have wanted?In describing the outpourings of affection for her,Ian Lloyd saysthat the late Queen was a modest person. Assuming this was true, wouldn’t she have been shocked that people were unable to get any access to news other than about herself on all terrestrial television channels?Cole DavisNorwichThe Queen’s respect for human dignityThe Queen spelt out her life’s philosophy in countless BBC Christmas Day broadcasts. What made her festive witness to traditional Anglicanism so memorable and potent? Kierkegaard spoke about life being “lived forwards” but “understood backwards”. What made the late Queen’s witness so special was her absolute respect for human dignity. The modern Anglican Church needs to relearn this lesson.James HardyBelfastPlan b for Scottish independenceSimply declare your whole country an “investment zone” that’s free from any ties to the government and laws of the UK. After all, if the new chancellor, Kwasi Kwarteng, thinks it’ll be beneficial for the West Midlands, the Thames estuary, the Tees Valley, West Yorkshire and Norfolk to become independent from the UK, he can’t deny Scotland the same benefits, can he?Sasha SimicLondonTo keep up to speed with all the latest opinions and comment sign up to our free weekly Voices Dispatches newsletter by clickinghereWhere was The Queen and I?I was amazed to see that Sue Townsend’s excellent The Queen and I was missing from your review of the best books about the Queen. It is by far the most informative book on the subject that I have ever come across.Phil WhitneyAddress suppliedSolemnity and dignityThe funeral procession of Queen Elizabeth II was an occasion of solemnity and dignity. It was undoubtedly a global event where heads of states, kings and queens gathered to celebrate the life of a unique woman whose reign was an irreplaceable pleasure for our nation.Dr Munjed Farid Al QutobLondon"
+        }
+    ]
+}

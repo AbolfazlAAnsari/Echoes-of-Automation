@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 8.335580059792846e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.07955114194192e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukTragically, is seems the government might succeed in getting itsdisgraceful Rwanda billthrough parliament.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.537933222716674e-05,
+                    "sentence": "There might follow a decrease in the number of people crossing theChannel in small boats.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.525250526261516e-05,
+                    "sentence": "But however small the decrease, the Tories would undoubtedly claim it as a triumph.It seems at least as likely that hopeful migrants would have been put off by hearing about theappalling living conditionsthey'd have to endure when they arrived.Susan AlexanderSouth GloucestershireNot enough?After 14 years of relentless persecution of immigrants,asylum-seekersand refugees by successive Tory governments via their“hostile environment” policy, British politics has arrived at a point where thereare senior Tory MPs- Robert Jenrick,Lee Anderson, Jane Stevenson and Brendan Clarke-Smith among them - who think a camp inRwandafor asylum-seekers isn't repressive enough.Sasha SimicLondonThe nation is sick and tiredInAdam Forrest'srecent report, he quotes Michael Gove as saying, “the concerns that Lee (Anderson) has about the bill are the concerns that the country has about migration more broadly.”In my view the whole of the governmentis out of touchwith the electorate on many of their objectives.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.107656711013988e-05,
+                    "sentence": "The nation is sick and tired of this faffing around with the “problem” of aslyum seekers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.105343684088439e-05,
+                    "sentence": "It has taken years for the government to get itself into the current mess.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.6693948863539845e-05,
+                    "sentence": "On the way it has only exacerbated the problems of migration and not stoppedthe unnecessary deathsin the Channel.It haswasted millions paying forRwanda to accommodate refugees and onlegal fees to defendits indefensible position on legislation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.757043153513223e-05,
+                    "sentence": "This of course was one of Rishi Sunak'sfive key objectiveswhich he selected without confirmation from the electorate.It is arrogant for the government to assume that they understand our needs or have the will of the people behind them to simply send refugees to Rwanda without thoroughly examining their request for entry.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004552418540697545,
+                    "sentence": "Mr Sunak and his ministers ought to bemore sympathetic tothe already-traumatised people running from terror in their own country.Nothing this government has achieved, if anything, stands up to current inspection and they will beridiculed by future generationsaffected by this failed legacy.Keith PooleBasingstokePreparing for the futureThe rebellion byso many of Sunak's MPsagainst the Rwanda bill shows the Tories have become the party of both government and opposition.In one way that's reassuring.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006426542531698942,
+                    "sentence": "It shows that they are practising for what will become of themafter the general election!Roger HindsSurreyStop kicking cans down the roadIsn't it amazing that, after 14 yearsof obfuscation and delay,the Torygovernment suddenly springsinto action in defence of those wronged by thePost Officeonly a few days after an ITV programme on the subject?Perhaps this is the way forward: commission a television series in order to get faster justice.Grenfell Towervictims and many other unfortunate groups who are increasingly frustrated with waiting for this government to stop kicking cans down the road may suddenly see some action.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007242066785693169,
+                    "sentence": "TV companies take note.Alistair WoodShropshire",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.00982192507144982,
+            "class_probabilities": {
+                "human": 0.9901780749285501,
+                "ai": 0.00982192507144982,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9901780749285501,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.00982192507144982,
+                    "human": 0.9901780749285501,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW : Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukTragically, is seems the government might succeed in getting itsdisgraceful Rwanda billthrough parliament. There might follow a decrease in the number of people crossing theChannel in small boats.  But however small the decrease, the Tories would undoubtedly claim it as a triumph.It seems at least as likely that hopeful migrants would have been put off by hearing about theappalling living conditionsthey’d have to endure when they arrived.Susan AlexanderSouth GloucestershireNot enough?After 14 years of relentless persecution of immigrants,asylum-seekersand refugees by successive Tory governments via their“hostile environment” policy, British politics has arrived at a point where thereare senior Tory MPs– Robert Jenrick,Lee Anderson, Jane Stevenson and Brendan Clarke-Smith among them – who think a camp inRwandafor asylum-seekers isn’t repressive enough.Sasha SimicLondonThe nation is sick and tiredInAdam Forrest’srecent report, he quotes Michael Gove as saying, “the concerns that Lee (Anderson) has about the bill are the concerns that the country has about migration more broadly.”In my view the whole of the governmentis out of touchwith the electorate on many of their objectives. The nation is sick and tired of this faffing around with the “problem” of aslyum seekers. It has taken years for the government to get itself into the current mess. On the way it has only exacerbated the problems of migration and not stoppedthe unnecessary deathsin the Channel.It haswasted millions paying forRwanda to accommodate refugees and onlegal fees to defendits indefensible position on legislation. This of course was one of Rishi Sunak’sfive key objectiveswhich he selected without confirmation from the electorate.It is arrogant for the government to assume that they understand our needs or have the will of the people behind them to simply send refugees to Rwanda without thoroughly examining their request for entry. Mr Sunak and his ministers ought to bemore sympathetic tothe already-traumatised people running from terror in their own country.Nothing this government has achieved, if anything, stands up to current inspection and they will beridiculed by future generationsaffected by this failed legacy.Keith PooleBasingstokePreparing for the futureThe rebellion byso many of Sunak’s MPsagainst the Rwanda bill shows the Tories have become the party of both government and opposition.In one way that’s reassuring. It shows that they are practising for what will become of themafter the general election!Roger HindsSurreyStop kicking cans down the roadIsn’t it amazing that, after 14 yearsof obfuscation and delay,the Torygovernment suddenly springsinto action in defence of those wronged by thePost Officeonly a few days after an ITV programme on the subject?Perhaps this is the way forward: commission a television series in order to get faster justice.Grenfell Towervictims and many other unfortunate groups who are increasingly frustrated with waiting for this government to stop kicking cans down the road may suddenly see some action. TV companies take note.Alistair WoodShropshire"
+        }
+    ]
+}

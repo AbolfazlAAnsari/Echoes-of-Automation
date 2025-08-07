@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0001023149088723585,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.382366260979325e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukPoliticians across all parties have for years given mealy mouthed commitments to the elusivetwo-state solutionof the Palestinian tragedy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.511570973088965e-05,
+                    "sentence": "But how can they issue a commitment without recognising both states in question?The UK has a historic responsibility to Palestine given theBalfour Declarationof 1917 and nothing short of recognition will suffice.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.193656059214845e-05,
+                    "sentence": "We must follow the lead of Norway, Spainand, in particular, Ireland.If necessary, the international community should allow Israel and its allies to ostracise themselves.The solution to the tragedy will be political, and only political pressure will bring about a resolution.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.4791777074569836e-05,
+                    "sentence": "And it will take political pressure within our own government to bring about recognition.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.1550396165112033e-05,
+                    "sentence": "What do we have to lose?David HillWaterloovillePromises are no longer enoughMichael Goveis anything but impartial in his crusade againstprotesters standing against Israel.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.8265530494973063e-05,
+                    "sentence": "Israel is undoubtedly committing war crimes - thedeaths of 35,000non-combatants and the famine among survivors is evidence of that.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.067378803389147e-05,
+                    "sentence": "It, rather than the protests, encourages antisemitism among the un-discriminating.Like all other forms of racism,antisemitism is a loathsomefact of life, but it would be largely extinguished in my opinion, if the UK supported the creation of a Palestinian state; just as it undertook to do so over a century ago.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001764501357683912,
+                    "sentence": "Repeated deceitful promises of self-determination are no longer enough - let right be done now.David McDowallRichmondTo right the wrongsAs the clock ticks, and the date of the next general election draws near,Keir Starmer is increasingly exhortedto right the various and numerous wrongs of this dysfunctional government.With any hope, a Labour government will see a return to social justice, public services will be cared for and integrity in public life will, again, be sacrosanct.The biggest wrong to be righted is, of course, Brexit.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017156265676021576,
+                    "sentence": "The magnitude of the task facing the Labour Party, assumingthey do get elected, is enormous.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013705222227144986,
+                    "sentence": "But with careful handling our next prime minister will surely succeed where his Tory counterparts failed.David LowndesAddress suppliedPlay us for foolsSpeaking at the Charleston Festival, Nicola Sturgeon claims shehastily resigned as first ministerlast year because of the strong opposition she faced to her legislative plans on trans rights.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016998554929159582,
+                    "sentence": "Apparently, it had nothing to do with the police investigation into SNP finances which, not long after her standing down, led to her arrest and ultimately herhusband being charged withembezzlement.Does Sturgeon honestly expect us to believe this?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00025223943521268666,
+                    "sentence": "That she, one of the toughest, mosthighly combative politiciansof our time, would relinquish power simply because she met opposition over a piece of legislation?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003326802980154753,
+                    "sentence": "It would seem that, while Sturgeon's not so often in the news these days, she is still trying to play us for fools.Martin RedfernRoxburghshire",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 1.9423489116273474e-12
+                }
+            ],
+            "completely_generated_prob": 0.006602786460384316,
+            "class_probabilities": {
+                "human": 0.9933972135396156,
+                "ai": 0.006602786460384316,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933972135396156,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006602786460384316,
+                    "human": 0.9933972135396156,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW : Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukPoliticians across all parties have for years given mealy mouthed commitments to the elusivetwo-state solutionof the Palestinian tragedy. But how can they issue a commitment without recognising both states in question?The UK has a historic responsibility to Palestine given theBalfour Declarationof 1917 and nothing short of recognition will suffice. We must follow the lead of Norway, Spainand, in particular, Ireland.If necessary, the international community should allow Israel and its allies to ostracise themselves.The solution to the tragedy will be political, and only political pressure will bring about a resolution. And it will take political pressure within our own government to bring about recognition. What do we have to lose?David HillWaterloovillePromises are no longer enoughMichael Goveis anything but impartial in his crusade againstprotesters standing against Israel.  Israel is undoubtedly committing war crimes – thedeaths of 35,000non-combatants and the famine among survivors is evidence of that. It, rather than the protests, encourages antisemitism among the un-discriminating.Like all other forms of racism,antisemitism is a loathsomefact of life, but it would be largely extinguished in my opinion, if the UK supported the creation of a Palestinian state; just as it undertook to do so over a century ago. Repeated deceitful promises of self-determination are no longer enough – let right be done now.David McDowallRichmondTo right the wrongsAs the clock ticks, and the date of the next general election draws near,Keir Starmer is increasingly exhortedto right the various and numerous wrongs of this dysfunctional government.With any hope, a Labour government will see a return to social justice, public services will be cared for and integrity in public life will, again, be sacrosanct.The biggest wrong to be righted is, of course, Brexit. The magnitude of the task facing the Labour Party, assumingthey do get elected, is enormous. But with careful handling our next prime minister will surely succeed where his Tory counterparts failed.David LowndesAddress suppliedPlay us for foolsSpeaking at the Charleston Festival, Nicola Sturgeon claims shehastily resigned as first ministerlast year because of the strong opposition she faced to her legislative plans on trans rights. Apparently, it had nothing to do with the police investigation into SNP finances which, not long after her standing down, led to her arrest and ultimately herhusband being charged withembezzlement.Does Sturgeon honestly expect us to believe this? That she, one of the toughest, mosthighly combative politiciansof our time, would relinquish power simply because she met opposition over a piece of legislation? It would seem that, while Sturgeon’s not so often in the news these days, she is still trying to play us for fools.Martin RedfernRoxburghshire"
+        }
+    ]
+}

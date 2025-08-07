@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0006343125132843852,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009114112472161651,
+                    "sentence": "Please send your letters toletters@independent.co.ukAren't Truss and Kwarteng just showing utter contempt for the electorate by not talking to the media or the public?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010847639059647918,
+                    "sentence": "Or are they planning to stay in power - and which politician isn't - so they must be planning to abolish UK democracy in some way?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005996645777486265,
+                    "sentence": "I can't think of any other reason for this week's economic madness, as nobody with any sanity will be voting for them as they do their best to dismantle theeconomyof the country and everybody's financial liquidity.Anna TaylorMiddlesexThe 'Grovel'My father always referred to the pound sterling when abroad on holiday as the “Grovel”: a degree of supplication always accompanied its use as a means of exchange.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006745105492882431,
+                    "sentence": "In light of recent economic events, I would suggest an alternative nomenclature: the pound “rupture” as it will soon breach the muscular parity barrier with respect to the US dollar and the euro.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002076825185213238,
+                    "sentence": "Sadly the “Truss” failed!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003115933504886925,
+                    "sentence": "Or how about the “Kwasi” Pound; it once had value but no longer?David SmithTauntonThis isn't all Truss's faultYou hit the nail on the head by alluding to the fact that the political and economic outlook forLiz Trussis bleak.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006333335768431425,
+                    "sentence": "However, we must emphasise the fact that Truss has been in office for less than a month and that soaring energy bills, living costs, food prices, inflation, benefits cuts, child poverty and pay freezes did not happen overnight and are the makings of successive governments.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004030916374176741,
+                    "sentence": "Time for bold and urgent policies to halt the detrimental impacts on living standards.Dr Munjed Farid Al QutobLondonWhy are the banks stalling?Can you please explain why the rise in the bank rate has not led (yet) to an increase in the interest on savings accounts?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0038216104730963707,
+                    "sentence": "Why are the banks stalling?Peter FieldmanFlorence, ItalyTo keep up to speed with all the latest opinions and comment sign up to our free weekly Voices Dispatches newsletter by clickinghereA Christmas CarolIf this government were playing out A Christmas Carol, “Kwartruss” just changed the story to Scrooge stealing Tiny Tim's walking stick, snatching the family's last lump of coal and pissing in their gruel...Amanda BakerEdinburghWhat's wrong with the wallpaper, Liz?Maybe Liz Truss doesn't like the gold wallpaper so she wants to move back out of No 10?Tim SidawayHertfordshire",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.01024630426605243,
+            "class_probabilities": {
+                "human": 0.989714449001761,
+                "ai": 0.01024630426605243,
+                "mixed": 3.924673218661023e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.989714449001761,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01024630426605243,
+                    "human": 0.989714449001761,
+                    "mixed": 3.924673218661023e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukAren’t Truss and Kwarteng just showing utter contempt for the electorate by not talking to the media or the public? Or are they planning to stay in power – and which politician isn’t – so they must be planning to abolish UK democracy in some way? I can’t think of any other reason for this week’s economic madness, as nobody with any sanity will be voting for them as they do their best to dismantle theeconomyof the country and everybody’s financial liquidity.Anna TaylorMiddlesexThe ‘Grovel’My father always referred to the pound sterling when abroad on holiday as the “Grovel”: a degree of supplication always accompanied its use as a means of exchange. In light of recent economic events, I would suggest an alternative nomenclature: the pound “rupture” as it will soon breach the muscular parity barrier with respect to the US dollar and the euro. Sadly the “Truss” failed! Or how about the “Kwasi” Pound; it once had value but no longer?David SmithTauntonThis isn’t all Truss’s faultYou hit the nail on the head by alluding to the fact that the political and economic outlook forLiz Trussis bleak. However, we must emphasise the fact that Truss has been in office for less than a month and that soaring energy bills, living costs, food prices, inflation, benefits cuts, child poverty and pay freezes did not happen overnight and are the makings of successive governments. Time for bold and urgent policies to halt the detrimental impacts on living standards.Dr Munjed Farid Al QutobLondonWhy are the banks stalling?Can you please explain why the rise in the bank rate has not led (yet) to an increase in the interest on savings accounts? Why are the banks stalling?Peter FieldmanFlorence, ItalyTo keep up to speed with all the latest opinions and comment sign up to our free weekly Voices Dispatches newsletter by clickinghereA Christmas CarolIf this government were playing out A Christmas Carol, “Kwartruss” just changed the story to Scrooge stealing Tiny Tim’s walking stick, snatching the family’s last lump of coal and pissing in their gruel...Amanda BakerEdinburghWhat’s wrong with the wallpaper, Liz?Maybe Liz Truss doesn’t like the gold wallpaper so she wants to move back out of No 10?Tim SidawayHertfordshire"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0004706686595454812,
+                    "sentence": "There are more planet-friendly ways to show your love.It's Valentine's Day, and if you celebrate, the chances of giving or receiving a bouquet of flowers is high.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005992927472107112,
+                    "sentence": "But have you considered the environmental impact of those flowers?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005721003981307149,
+                    "sentence": "In this audio essay, the contributing Opinion writer Margaret Renkl explains the true cost of bouquets and argues for other, less environmentally harmful ways to express your love.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006780831608921289,
+                    "sentence": "(A full transcript of this audio essay will be available within 24 hours of publication in the audio player above.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004220755072310567,
+                    "sentence": ")This episode of “The Opinions” was produced by Vishakha Darbha.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00040072028059512377,
+                    "sentence": "It was edited by Alison Bruzek and Kaari Pitkin.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00032422825461253524,
+                    "sentence": "Engineering by Isaac Jones with mixing by Dan Powell.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00026386804529465735,
+                    "sentence": "Original music by Pat McCusker and Dan Powell.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002645199710968882,
+                    "sentence": "Fact-checking by Mary Marge Locker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003429061034694314,
+                    "sentence": "Audience strategy by Shannon Busta and Kristina Samulewski.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00031210255110636353,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003520212776493281,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00031497247982770205,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,X (@NYTOpinion)andInstagram.PHOTO: (PHOTOGRAPH BY Illustration by Akshita Chandra/The New York Times; Photograph by Getty Images FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.017917192071486437,
+            "class_probabilities": {
+                "human": 0.9820828079285135,
+                "ai": 0.017917192071486437,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9820828079285135,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.017917192071486437,
+                    "human": 0.9820828079285135,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "There are more planet-friendly ways to show your love.It’s Valentine’s Day, and if you celebrate, the chances of giving or receiving a bouquet of flowers is high. But have you considered the environmental impact of those flowers? In this audio essay, the contributing Opinion writer Margaret Renkl explains the true cost of bouquets and argues for other, less environmentally harmful ways to express your love.(A full transcript of this audio essay will be available within 24 hours of publication in the audio player above.)This episode of “The Opinions” was produced by Vishakha Darbha. It was edited by Alison Bruzek and Kaari Pitkin. Engineering by Isaac Jones with mixing by Dan Powell. Original music by Pat McCusker and Dan Powell. Fact-checking by Mary Marge Locker. Audience strategy by Shannon Busta and Kristina Samulewski.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,X (@NYTOpinion)andInstagram.PHOTO:  (PHOTOGRAPH BY Illustration by Akshita Chandra/The New York Times; Photograph by Getty Images FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

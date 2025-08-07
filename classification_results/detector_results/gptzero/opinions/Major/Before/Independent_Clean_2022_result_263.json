@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 5.6699056585785e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.111378752393648e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukProtesters in the UK who have expressed the opinion both verbally and in writing (on one occasion, a blank piece of paper sufficed) that amonarchyis not to their taste appear to havecaused offenceandtriggered police interventions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.6763736463617533e-05,
+                    "sentence": "As far as I am aware, none of the protests were directed at the late Queen herself.The Queen, personally regarded in many quarters with respect and affection, did her job as head of state in the UK to a standard unlikely to be equalled by any future incumbent of the post.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.7182496928144246e-05,
+                    "sentence": "To a significant number of the UK population however, it is a calling that should not exist in a modern society.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.5288885303307325e-05,
+                    "sentence": "It is an exclusive vocation to which no one outside the royal family can be appointed - and they themselves have a batting order.Should a head of state be selected by an accident of birth?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.938294998486526e-05,
+                    "sentence": "Does anyone now believe in the divine right of kings or queens?In terms of constitutional arrangements, in both the UK and democracies elsewhere in the former empire, the event may prove a watershed.David NelmesNewportThe end of nuclear weaponsYoureditorial todayencouragingly says “we can finally hope for an end to the war inUkraine” but other media also point out the danger of a “wounded bear” lashing out with nuclear weapons.This fear has inhibited Nato - and will continue to do so - from taking bolder and more direct action to bring your headline to fruition.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.681149534415454e-05,
+                    "sentence": "But if, as we all hope, it proves correct, surely the world must now recognise that the only way to remove the risk of nuclear war is to get rid of these weapons.For too long have the states that possess nuclear weapons opposed an outright ban.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.019227374345064163,
+                    "sentence": "Once the conflict is over, the US should offer the withdrawal of all its nuclear weapons from Europe and Nato immediately adopt a policy of No First Use.This initiative would encourage an internationally isolated Russia the opportunity to enter the negotiations with dignity and respect that has been absent from the West.The resumption of peace in Ukraine will be a unique opportunity to remove the risk of these terrible weapons being used in future conflicts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002393997274339199,
+                    "sentence": "Now is the time to plan for this.Robert ForsythDeddingtonSwallowed a waspRegarding the proposal to haveLiz Trussaccompany our new King onhis tour around the United Kingdom, has the man not suffered enough sadness in the past few days?The poor woman seems to have her own cloud of wasps accompanying her everywhere she goes.She definitely looked like she had swallowed yet another one as she watched the first minister walk up to do the Old Testament reading in St Giles Cathedral.Bob CupplesSt Cyprien, FranceGreen energyI note with interest the proposal for a turbine in the Thames to power the Houses of Parliament.Would it not be simpler to use the hot air which is already generated there?Nick DonnellyDevonGathering to mournShould we choose to listen to those who wait patiently tonight at St Giles or Windsor, and who place flowers at Buckingham Palace, we might find the path to a less divisive body politic in the UK.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereThe public has responded to a person they trusted, who was constant and committed to a common public good, to duty -not personal gain.Kindness is often mentioned, something increasingly invisible in the discourse and debates in media, online or in parliament.Though we are told time again how individualistic and divided modern Britain is, many are voting with their feet this weekend, reflecting a common cause and perhaps a need for a communal experience.Will our current political leaders offer them a vision that delivers on these values?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0032826161477714777,
+                    "sentence": "Or will change come from both sides, as the electorate recognises that predictable, solid and experienced Starmer and Davey may just represent qualities worth valuing?Jane Alliston PickardEdinburgh",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.024461651786716186,
+            "class_probabilities": {
+                "human": 0.9754981327244504,
+                "ai": 0.024461651786716186,
+                "mixed": 4.0215488833363626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9754981327244504,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024461651786716186,
+                    "human": 0.9754981327244504,
+                    "mixed": 4.0215488833363626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukProtesters in the UK who have expressed the opinion both verbally and in writing (on one occasion, a blank piece of paper sufficed) that amonarchyis not to their taste appear to havecaused offenceandtriggered police interventions.  As far as I am aware, none of the protests were directed at the late Queen herself.The Queen, personally regarded in many quarters with respect and affection, did her job as head of state in the UK to a standard unlikely to be equalled by any future incumbent of the post. To a significant number of the UK population however, it is a calling that should not exist in a modern society. It is an exclusive vocation to which no one outside the royal family can be appointed – and they themselves have a batting order.Should a head of state be selected by an accident of birth? Does anyone now believe in the divine right of kings or queens?In terms of constitutional arrangements, in both the UK and democracies elsewhere in the former empire, the event may prove a watershed.David NelmesNewportThe end of nuclear weaponsYoureditorial todayencouragingly says “we can finally hope for an end to the war inUkraine” but other media also point out the danger of a “wounded bear” lashing out with nuclear weapons.This fear has inhibited Nato – and will continue to do so – from taking bolder and more direct action to bring your headline to fruition. But if, as we all hope, it proves correct, surely the world must now recognise that the only way to remove the risk of nuclear war is to get rid of these weapons.For too long have the states that possess nuclear weapons opposed an outright ban. Once the conflict is over, the US should offer the withdrawal of all its nuclear weapons from Europe and Nato immediately adopt a policy of No First Use.This initiative would encourage an internationally isolated Russia the opportunity to enter the negotiations with dignity and respect that has been absent from the West.The resumption of peace in Ukraine will be a unique opportunity to remove the risk of these terrible weapons being used in future conflicts. Now is the time to plan for this.Robert ForsythDeddingtonSwallowed a waspRegarding the proposal to haveLiz Trussaccompany our new King onhis tour around the United Kingdom, has the man not suffered enough sadness in the past few days?The poor woman seems to have her own cloud of wasps accompanying her everywhere she goes.She definitely looked like she had swallowed yet another one as she watched the first minister walk up to do the Old Testament reading in St Giles Cathedral.Bob CupplesSt Cyprien, FranceGreen energyI note with interest the proposal for a turbine in the Thames to power the Houses of Parliament.Would it not be simpler to use the hot air which is already generated there?Nick DonnellyDevonGathering to mournShould we choose to listen to those who wait patiently tonight at St Giles or Windsor, and who place flowers at Buckingham Palace, we might find the path to a less divisive body politic in the UK.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereThe public has responded to a person they trusted, who was constant and committed to a common public good, to duty –not personal gain.Kindness is often mentioned, something increasingly invisible in the discourse and debates in media, online or in parliament.Though we are told time again how individualistic and divided modern Britain is, many are voting with their feet this weekend, reflecting a common cause and perhaps a need for a communal experience.Will our current political leaders offer them a vision that delivers on these values? Or will change come from both sides, as the electorate recognises that predictable, solid and experienced Starmer and Davey may just represent qualities worth valuing?Jane Alliston PickardEdinburgh"
+        }
+    ]
+}

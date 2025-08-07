@@ -1,0 +1,88 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 5.730331031372771e-05,
+                    "sentence": "Trevor Noah, Kara Swisher, Jane Coaston and Ezra Klein debated the merits and dangers of cancel culture, and shared a sneak peek at upcoming episodes from Opinion Audio.Trevor Noah, Kara Swisher, Jane Coaston and Ezra Klein debated the merits and dangers of cancel culture, and shared a sneak peek at upcoming episodes from Opinion Audio.Kara Swisher, host of NYT Opinion's “Sway”; Jane Coaston, host of “The Argument”; Ezra Klein, host of “The Ezra Klein Show,” and Farhad Manjoo, Times Opinion columnist, teamed up to debate one of today's thorniest topics ᅳ from the societal pros and cons of cancellation to what role (if any) big tech should play in this cultural phenomenon.We also had a special interview with Trevor Noah, comedian and host of Comedy Central's “The Daily Show.” Noah spoke with Jane Coaston about comedy in the age of cancel culture.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.743714038748294e-05,
+                    "sentence": "Are there limits to what's funny?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.0454043957870454e-05,
+                    "sentence": "And what should happen when comedians go too far?Subscribers also got a sneak peek at upcoming episodes of “Sway” and “The Ezra Klein Show.”Join us for our next Times event.You can find the calendar and R.S.V.P.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.534910815185867e-05,
+                    "sentence": "here.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 4,
+                    "completely_generated_prob": 0.0006564766595293492
+                }
+            ],
+            "completely_generated_prob": 0.005030853279880518,
+            "class_probabilities": {
+                "human": 0.9949691467201195,
+                "ai": 0.005030853279880518,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9949691467201195,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.005030853279880518,
+                    "human": 0.9949691467201195,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Trevor Noah, Kara Swisher, Jane Coaston and Ezra Klein debated the merits and dangers of cancel culture, and shared a sneak peek at upcoming episodes from Opinion Audio.Trevor Noah, Kara Swisher, Jane Coaston and Ezra Klein debated the merits and dangers of cancel culture, and shared a sneak peek at upcoming episodes from Opinion Audio.Kara Swisher, host of NYT Opinion’s “Sway”; Jane Coaston, host of “The Argument”; Ezra Klein, host of “The Ezra Klein Show,” and Farhad Manjoo, Times Opinion columnist, teamed up to debate one of today’s thorniest topics — from the societal pros and cons of cancellation to what role (if any) big tech should play in this cultural phenomenon.We also had a special interview with Trevor Noah, comedian and host of Comedy Central’s “The Daily Show.” Noah spoke with Jane Coaston about comedy in the age of cancel culture. Are there limits to what’s funny? And what should happen when comedians go too far?Subscribers also got a sneak peek at upcoming episodes of “Sway” and “The Ezra Klein Show.”Join us for our next Times event.You can find the calendar and R.S.V.P. here."
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 6.817626126576215e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.039176125545055e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe decision to admit right-wing defectorNatalie Elphickefrom the Tory Party into the ranks of the parliamentaryLabour Partyhas been defended by Labour chairAnneliese Doddson the grounds that “people can change their minds”.The problem with that explanation is that Elphicke - a member of the hard-right European Research Group and notorious for her anti-immigrant politics - hasn't changed her “mind”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.588864926015958e-05,
+                    "sentence": "Her politics - which included attackingMarcus Rashfordwhen he fought for free school meals for poor children - remain the same, despite crossing the floor of the house.That Dodds sees the reactionary Elphicke as a“good, natural fit” for her partysays everything about Keir Starmer's Labour Party.It is an organisation which suspends life-long members likeJeremy Corbyn and Diane Abbottbut which welcomes Elphicke, someone condemned for her “appalling and dehumanising language” against immigrants.People can and do change their minds.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.772488556336612e-05,
+                    "sentence": "And, politicalparties can and do betraytheir founding principles and become everything they were created to fight.Elphicke hasn't defected to Labour because she has “changed”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015404605073854327,
+                    "sentence": "It's the Labour Party which has become a fit home for politicans like Elphicke.Sasha SimicLondonGaslighting on an industrial scaleAm I alone in feeling baffled by the endless Tory MPs churning out the“stick with the plan” mantra?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012566052610054612,
+                    "sentence": "Only recently, we had Jeremy Hunt claiming that only the Tories could be trusted with the economy and that we should (yes you've guessed it) “stick with the Conservative's plan”.But when it comes to the “plan”, the questions I would really like to ask the party are:Is it part of the plan for the UK to havethe highest rate of child povertysince Victorian times?Is it part of the plan for families with two parents who are both working, to still be unable to make ends meet?Is it part of the plan to establishlevels of inequalitynever seen before, with the gap between the rich and poor the widest it has ever been?Is it part of the plan forthe NHS to reach record waitingtimes?I could go on.We are repeatedly being told that the plan is working, so one can only assume that these statistics are part of the plan too.It takes some nerve to go into an interview and try to convince the electorate that after 14 years of Conservative rule you've had a plan all along.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012430227361619473,
+                    "sentence": "Make people poorer, then just before you call an election,throw them a few crumbs andsay, “Look you're getting better off”.This is gaslighting on an industrial scale.Karen BrittainYorkWork it outWe recently heard from the chancellor that the UK is now growing economically and that we needmore people in workto support this.The government's solution is to force the30,000 “economically inactive”people into work by making it harder to claim disability benefits.Meanwhile, there are 130,000 asylum seekers left in limbo as their claims are processed by the Home Office, all of whomare banned from workingwhile they wait.I wish I could think of a solution to Hunt's labour problem...Mike McMorranBournemouthA truthful answerAppointed as Scottish finance secretary by new first ministerJohn Swinney, Kate Forbes's conservative social views are by now well known.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03175881505012512,
+                    "sentence": "Opposed to same-sex marriage and abortion, Forbes has also expressed a belief that having children outside marriage is sinful.Of course, she has a right to hold these views, but would the majority of citizens in other European countries consider it acceptable that someone holding such views should beappointed to a key governmental positionthese days?Judging by her comments to journalists after First Minister's Questions, she claims she will now go onto ignore these beliefs,despite insisting they are fundamentally important to her, and will adopt a quite different, liberalagenda when acting as an SNPpolitician.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.027450159192085266,
+                    "sentence": "So does this make her guilty of gross hypocrisy too?Martin RedfernRoxburghshire",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.017916494329694815,
+            "class_probabilities": {
+                "human": 0.982044563084389,
+                "ai": 0.017916494329694815,
+                "mixed": 3.894258591613337e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.982044563084389,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.017916494329694815,
+                    "human": 0.982044563084389,
+                    "mixed": 3.894258591613337e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThe decision to admit right-wing defectorNatalie Elphickefrom the Tory Party into the ranks of the parliamentaryLabour Partyhas been defended by Labour chairAnneliese Doddson the grounds that “people can change their minds”.The problem with that explanation is that Elphicke – a member of the hard-right European Research Group and notorious for her anti-immigrant politics – hasn’t changed her “mind”. Her politics – which included attackingMarcus Rashfordwhen he fought for free school meals for poor children – remain the same, despite crossing the floor of the house.That Dodds sees the reactionary Elphicke as a“good, natural fit” for her partysays everything about Keir Starmer’s Labour Party.It is an organisation which suspends life-long members likeJeremy Corbyn and Diane Abbottbut which welcomes Elphicke, someone condemned for her “appalling and dehumanising language” against immigrants.People can and do change their minds. And, politicalparties can and do betraytheir founding principles and become everything they were created to fight.Elphicke hasn’t defected to Labour because she has “changed”. It’s the Labour Party which has become a fit home for politicans like Elphicke.Sasha SimicLondonGaslighting on an industrial scaleAm I alone in feeling baffled by the endless Tory MPs churning out the“stick with the plan” mantra? Only recently, we had Jeremy Hunt claiming that only the Tories could be trusted with the economy and that we should (yes you’ve guessed it) “stick with the Conservative’s plan”.But when it comes to the “plan”, the questions I would really like to ask the party are:Is it part of the plan for the UK to havethe highest rate of child povertysince Victorian times?Is it part of the plan for families with two parents who are both working, to still be unable to make ends meet?Is it part of the plan to establishlevels of inequalitynever seen before, with the gap between the rich and poor the widest it has ever been?Is it part of the plan forthe NHS to reach record waitingtimes?I could go on.We are repeatedly being told that the plan is working, so one can only assume that these statistics are part of the plan too.It takes some nerve to go into an interview and try to convince the electorate that after 14 years of Conservative rule you’ve had a plan all along. Make people poorer, then just before you call an election,throw them a few crumbs andsay, “Look you’re getting better off”.This is gaslighting on an industrial scale.Karen BrittainYorkWork it outWe recently heard from the chancellor that the UK is now growing economically and that we needmore people in workto support this.The government’s solution is to force the30,000 “economically inactive”people into work by making it harder to claim disability benefits.Meanwhile, there are 130,000 asylum seekers left in limbo as their claims are processed by the Home Office, all of whomare banned from workingwhile they wait.I wish I could think of a solution to Hunt’s labour problem...Mike McMorranBournemouthA truthful answerAppointed as Scottish finance secretary by new first ministerJohn Swinney, Kate Forbes’s conservative social views are by now well known. Opposed to same-sex marriage and abortion, Forbes has also expressed a belief that having children outside marriage is sinful.Of course, she has a right to hold these views, but would the majority of citizens in other European countries consider it acceptable that someone holding such views should beappointed to a key governmental positionthese days?Judging by her comments to journalists after First Minister’s Questions, she claims she will now go onto ignore these beliefs,despite insisting they are fundamentally important to her, and will adopt a quite different, liberalagenda when acting as an SNPpolitician. So does this make her guilty of gross hypocrisy too?Martin RedfernRoxburghshire"
+        }
+    ]
+}

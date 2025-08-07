@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.002249575685709715,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°Donald Trump's uninspired list of vice presidential prospects includes several men who have been critical of Trump, which could present problems for the ticket.The former president - who has reportedly winnowed down his VP list to just a handful - needs somebody who can step into the Oval Office right away and be acceptable to the MAGA base.Trump's legal problems and the real possibility of jail time remain a wild card, so Republican voters will want a VP who's qualified to be leader of the free world.That candidate at the top of the list now appears to be Florida Sen. Marco Rubio.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005666263401508331,
+                    "sentence": "He has the experience and credentials and home state advantage but tangled with Trump eight years ago and will be viewed skeptically by the GOP faithful.Trump has derided Rubio as “little Marco” and Rubio insulted Trump during the 2016 campaign but those facts shouldn't get in the way of Trump picking him.With the Trump campaign focusing heavily on the Latino vote, Rubio's Cuban heritage and Spanish language skills gives him a huge advantage over his VP rivals.There is one other problem with Rubio; Trump would have to move from his Florida voting address back to New York to avoid conflicting with a constitutional provision prohibiting the presidential ticket from living in the same state.What Trump is really missing is a woman from his list.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013367823325097561,
+                    "sentence": "South Dakota Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.017915599048137665,
+                    "sentence": "Kristi Noem vanished from the prospects by disclosing she once shot her dog.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01024804636836052,
+                    "sentence": "People won't support a woman who killed her dog and boasted about it.One longshot candidate who might be intriguing is Arkansas Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01282820850610733,
+                    "sentence": "Sarah Sanders, the former White House flack.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010065636597573757,
+                    "sentence": "Sanders may be short on experience but she's been through the ringer and is a good campaigner.Whoever is VP - Democrat or Republican - has a very good chance of becoming president given the age of President Joe Biden and Trump's legal problems.But most of the prospects are not ready for prime time - step to the front of the line, Doug Burgum.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.014074496924877167,
+                    "sentence": "The 67-year-old governor of North Dakota ran an extremely unsuccessful campaign for president last year and dropped out early to become a VP candidate.He somehow seems to have made it to Trump's narrowed list, probably because he's been a successful businessman.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.018257945775985718,
+                    "sentence": "But no one is going to jump to the voting booth to vote for Doug Burgum.Then there's J.D.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02031724527478218,
+                    "sentence": "Vance, the Ohio senator and former “never Trumper” whose clashes with the former president you'd think would exclude him from the roster of potential picks.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.026709847152233124,
+                    "sentence": "Vance would be viewed as disloyal by much of MAGA and his only upside is he's from a battleground Midwest state.On the Democratic side, current Vice President Kamala Harris has the clear incumbency advantage if Biden should be unable to perform his duties or has to drop out.The Wall Street Journal piece detailing the worries of some in the White House about Biden's mental capacities has made it even more critical that Democrats have a good VP nominee.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.037526171686261885,
+            "class_probabilities": {
+                "human": 0.9624738283137382,
+                "ai": 0.037526171686261885,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9624738283137382,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.037526171686261885,
+                    "human": 0.9624738283137382,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°Donald Trump’s uninspired list of vice presidential prospects includes several men who have been critical of Trump, which could present problems for the ticket.The former president – who has reportedly winnowed down his VP list to just a handful – needs somebody who can step into the Oval Office right away and be acceptable to the MAGA base.Trump’s legal problems and the real possibility of jail time remain a wild card, so Republican voters will want a VP who’s qualified to be leader of the free world.That candidate at the top of the list now appears to be Florida Sen. Marco Rubio. He has the experience and credentials and home state advantage but tangled with Trump eight years ago and will be viewed skeptically by the GOP faithful.Trump has derided Rubio as “little Marco” and Rubio insulted Trump during the 2016 campaign but those facts shouldn’t get in the way of Trump picking him.With the Trump campaign focusing heavily on the Latino vote, Rubio’s Cuban heritage and Spanish language skills gives him a huge advantage over his VP rivals.There is one other problem with Rubio; Trump would have to move from his Florida voting address back to New York to avoid conflicting with a constitutional provision prohibiting the presidential ticket from living in the same state.What Trump is really missing is a woman from his list. South Dakota Gov. Kristi Noem vanished from the prospects by disclosing she once shot her dog. People won’t support a woman who killed her dog and boasted about it.One longshot candidate who might be intriguing is Arkansas Gov. Sarah Sanders, the former White House flack. Sanders may be short on experience but she’s been through the ringer and is a good campaigner.Whoever is VP – Democrat or Republican – has a very good chance of becoming president given the age of President Joe Biden and Trump’s legal problems.But most of the prospects are not ready for prime time – step to the front of the line, Doug Burgum. The 67-year-old governor of North Dakota ran an extremely unsuccessful campaign for president last year and dropped out early to become a VP candidate.He somehow seems to have made it to Trump’s narrowed list, probably because he’s been a successful businessman. But no one is going to jump to the voting booth to vote for Doug Burgum.Then there’s J.D. Vance, the Ohio senator and former “never Trumper” whose clashes with the former president you’d think would exclude him from the roster of potential picks. Vance would be viewed as disloyal by much of MAGA and his only upside is he’s from a battleground Midwest state.On the Democratic side, current Vice President Kamala Harris has the clear incumbency advantage if Biden should be unable to perform his duties or has to drop out.The Wall Street Journal piece detailing the worries of some in the White House about Biden’s mental capacities has made it even more critical that Democrats have a good VP nominee."
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0011122000869363546,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011717334855347872,
+                    "sentence": "Please send your letters toletters@independent.co.ukI am astounded at the conceit of Labour politicians believing theirdemand for a ceasefirein theHamas-Israelconflict holds any resonance in the wider world.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009569278918206692,
+                    "sentence": "By all means take a principled stance - but not at the expense of a future change of government this country desperately needs.David SmithTauntonAmerica must crack down on irresponsible gun ownershipIs it really a surprise to learn that another mass shooting has occurred in Maine?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009101398754864931,
+                    "sentence": "A place where someone with mental issues has seemingly unlimited access to not only hunting guns, but automatic assault weapons?There are so many who only get their kicks from killing other sentient beings.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018267357954755425,
+                    "sentence": "But even these sad individuals can hardly justify owning the types of weapons used in the hundreds of mass shootings in the US.G ForwardStirlingYvette Cooper is right - it's time to get tough on shopliftersWell done shadow home secretary Yvette Cooper for vowing to get tough on shoplifters.Anything stolen from a shop only adds to higher costs for others, meaning that it is yet again the law-abiding citizens who pick up the cost.No wonder, under the Conservatives, shops are chaining fabric conditioner to shelves as well as putting tags on cheese and butter.The Conservatives' austerity saw cuts in policing numbers and stations for 13 years.However, Labour will hire 13,000 more neighbourhood police, more PCSOs, and open more new police hubs.Yvette Cooper is absolutely right to propose respect orders for repeat offenders and stronger penalties for assaults on shop staff.So I look forward to Yvette Cooper becoming a home secretary who will get tough on crime and tough on the causes of crime, and make people feel safe once again.Geoffrey BrookingHampshireThe Bianca Williams stop and search officers should not be rewarded with a fundraiserThecrowdfunding campaign for two sacked police officersis a perfect example of how not to support something you fervently believe in.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0021011685021221638,
+                    "sentence": "If one supports the police (or, like me, all law enforcement agencies), then you must wish for standards to be increased, not diminished.Some of the donations, I am sure, are from well-intentioned people.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019055228913202882,
+                    "sentence": "However, they should instead be supporting the new Met chief, Mark Rowley, in his drive to root out lazy officers, incompetent officers, rule-breakers, and obviously those engaged in criminality.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002342699794098735,
+                    "sentence": "The public perception around money being raised for disgraced public servants is everything.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003691526595503092,
+                    "sentence": "This is hardly going to endear serving officers to the already sceptical man or woman in the street.After all, just think about the outcry if an overzealous fan of politicians (does one exist?)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003804258769378066,
+                    "sentence": "started a fundraiser for those who had engaged in misconduct within the ranks of our political parties!Robert BostonKent",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563522,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563522,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563522,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI am astounded at the conceit of Labour politicians believing theirdemand for a ceasefirein theHamas-Israelconflict holds any resonance in the wider world. By all means take a principled stance – but not at the expense of a future change of government this country desperately needs.David SmithTauntonAmerica must crack down on irresponsible gun ownershipIs it really a surprise to learn that another mass shooting has occurred in Maine? A place where someone with mental issues has seemingly unlimited access to not only hunting guns, but automatic assault weapons?There are so many who only get their kicks from killing other sentient beings. But even these sad individuals can hardly justify owning the types of weapons used in the hundreds of mass shootings in the US.G ForwardStirlingYvette Cooper is right – it’s time to get tough on shopliftersWell done shadow home secretary Yvette Cooper for vowing to get tough on shoplifters.Anything stolen from a shop only adds to higher costs for others, meaning that it is yet again the law-abiding citizens who pick up the cost.No wonder, under the Conservatives, shops are chaining fabric conditioner to shelves as well as putting tags on cheese and butter.The Conservatives’ austerity saw cuts in policing numbers and stations for 13 years.However, Labour will hire 13,000 more neighbourhood police, more PCSOs, and open more new police hubs.Yvette Cooper is absolutely right to propose respect orders for repeat offenders and stronger penalties for assaults on shop staff.So I look forward to Yvette Cooper becoming a home secretary who will get tough on crime and tough on the causes of crime, and make people feel safe once again.Geoffrey BrookingHampshireThe Bianca Williams stop and search officers should not be rewarded with a fundraiserThecrowdfunding campaign for two sacked police officersis a perfect example of how not to support something you fervently believe in. If one supports the police (or, like me, all law enforcement agencies), then you must wish for standards to be increased, not diminished.Some of the donations, I am sure, are from well-intentioned people. However, they should instead be supporting the new Met chief, Mark Rowley, in his drive to root out lazy officers, incompetent officers, rule-breakers, and obviously those engaged in criminality. The public perception around money being raised for disgraced public servants is everything. This is hardly going to endear serving officers to the already sceptical man or woman in the street.After all, just think about the outcry if an overzealous fan of politicians (does one exist?) started a fundraiser for those who had engaged in misconduct within the ranks of our political parties!Robert BostonKent"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.004266628064215183,
+                    "sentence": "Published 11:04 pm Wednesday, August 28, 2024ByData SkriveOscar Smith High School will host Hermitage High School on Friday, August 30 at 7:00 p.m. ET.Don't miss out on a single high school game.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0032475492917001247,
+                    "sentence": "Sign up for an NFHS Network annual passand get full access to live regular season and postseason sporting events and get 45% off compared to a monthly pass.For just $6.67 per month you can keep tabs on your family or alma mater by following high school football this season on theNFHS Network.Team schedules reflect available data from NFHS and may not include every upcoming game.Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002372416667640209,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…In one of five compelling matchups on the WNBA slate today, the Seattle Storm and Connecticut Sun will…Wondering how you should bet on today's WNBA games?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004886013921350241,
+                    "sentence": "Look no further.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005521049257367849,
+                    "sentence": "Below you'll find computer predictions on…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563522,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563522,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563522,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 11:04 pm Wednesday, August 28, 2024ByData SkriveOscar Smith High School will host Hermitage High School on Friday, August 30 at 7:00 p.m. ET.Don’t miss out on a single high school game. Sign up for an NFHS Network annual passand get full access to live regular season and postseason sporting events and get 45% off compared to a monthly pass.For just $6.67 per month you can keep tabs on your family or alma mater by following high school football this season on theNFHS Network.Team schedules reflect available data from NFHS and may not include every upcoming game.Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…In one of five compelling matchups on the WNBA slate today, the Seattle Storm and Connecticut Sun will…Wondering how you should bet on today’s WNBA games? Look no further. Below you’ll find computer predictions on…"
+        }
+    ]
+}

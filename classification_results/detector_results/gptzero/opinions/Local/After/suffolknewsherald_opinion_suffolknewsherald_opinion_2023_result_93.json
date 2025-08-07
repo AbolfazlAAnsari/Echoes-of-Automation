@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0009474394028075039,
+                    "sentence": "Published 4:28 pm Tuesday, March 21, 2023BySuffolk News-Herald Editorial BoardSuffolk voters would have bid farewell to them regardless come January, but we'd be remiss not to acknowledge recent retirement announcements by veteran state Sens.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011217504506930709,
+                    "sentence": "John Cosgrove, R-Chesapeake, and Tommy Norment, R-James City County, and thank them for their service.Each currently represents a portion of Suffolk, which was sliced and diced into four state Senate districts during an especially creative round of gerrymandering a decade ago.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008625577320344746,
+                    "sentence": "To their credit, Virginia voters subsequently, via a constitutional amendment, took responsibility for once-a-decade redistricting away from partisan legislators and put it in the hands of a bipartisan commission, with the state Supreme Court as the backup option should the commission fail to agree on new state House and Senate and federal congressional maps.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008167544729076326,
+                    "sentence": "Indeed, the court had to step in and handle the remapping after the 2020 Census.Despite some whining from both parties and incumbents who were inconvenienced in the process, we think the court's map drawers did a terrific job, especially in creating the new Senate District 17, which consolidates Suffolk and all of rural Western Tidewater in a single district.Regardless of whether Clinton Jenkins, Emily Brewer or Hermie Sadler eventually wins the seat later this year, the region will be well served by having its own senator in Richmond, rather than being an afterthought in Peninsula and metropolitan Hampton Roads districts such as has been the case.That's not a criticism of Norment or Cosgrove, nor of their Democratic colleagues who represent portions of Suffolk, Sens.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001191051909700036,
+                    "sentence": "Louise Lucas and Monty Mason.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012357620289549232,
+                    "sentence": "It's just reality in elected service that you pay closest attention to the population base in your district.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009974073618650436,
+                    "sentence": "After all, those are the people who will determine your fate in the next election.In the case of Cosgrove and Norment, the 2019 election turned out to be their last.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010152736213058233,
+                    "sentence": "They recently joined a wave of retiring lawmakers ahead of the 2023 election cycle.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009791766060516238,
+                    "sentence": "Cosgrove has served Senate District 14 since 2013 after previously serving in the House of Delegates.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019320063292980194,
+                    "sentence": "Norment's service in the Senate goes all the way back to 1992.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.7199259400367737,
+                    "sentence": "He is currently the chamber's top-ranking Republican.Both represent an era of civility and statesmanship in politics that, sadly, has been dying in recent years on both sides of the aisle, replaced by bombast and disrespect for people who don't think exactly like you.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.4878619909286499,
+                    "sentence": "They never saw politics as a war between good and evil but as a space where occasionally compromising with well-intentioned opponents is good for Virginia and its people.We wish them both good health and happiness in life after politics.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.34979310631752014,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.09353082711899116,
+            "class_probabilities": {
+                "human": 0.9064691728810088,
+                "ai": 0.09353082711899116,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9064691728810088,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.09353082711899116,
+                    "human": 0.9064691728810088,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 4:28 pm Tuesday, March 21, 2023BySuffolk News-Herald Editorial BoardSuffolk voters would have bid farewell to them regardless come January, but we’d be remiss not to acknowledge recent retirement announcements by veteran state Sens. John Cosgrove, R-Chesapeake, and Tommy Norment, R-James City County, and thank them for their service.Each currently represents a portion of Suffolk, which was sliced and diced into four state Senate districts during an especially creative round of gerrymandering a decade ago. To their credit, Virginia voters subsequently, via a constitutional amendment, took responsibility for once-a-decade redistricting away from partisan legislators and put it in the hands of a bipartisan commission, with the state Supreme Court as the backup option should the commission fail to agree on new state House and Senate and federal congressional maps. Indeed, the court had to step in and handle the remapping after the 2020 Census.Despite some whining from both parties and incumbents who were inconvenienced in the process, we think the court’s map drawers did a terrific job, especially in creating the new Senate District 17, which consolidates Suffolk and all of rural Western Tidewater in a single district.Regardless of whether Clinton Jenkins, Emily Brewer or Hermie Sadler eventually wins the seat later this year, the region will be well served by having its own senator in Richmond, rather than being an afterthought in Peninsula and metropolitan Hampton Roads districts such as has been the case.That’s not a criticism of Norment or Cosgrove, nor of their Democratic colleagues who represent portions of Suffolk, Sens. Louise Lucas and Monty Mason. It’s just reality in elected service that you pay closest attention to the population base in your district. After all, those are the people who will determine your fate in the next election.In the case of Cosgrove and Norment, the 2019 election turned out to be their last. They recently joined a wave of retiring lawmakers ahead of the 2023 election cycle. Cosgrove has served Senate District 14 since 2013 after previously serving in the House of Delegates. Norment’s service in the Senate goes all the way back to 1992. He is currently the chamber’s top-ranking Republican.Both represent an era of civility and statesmanship in politics that, sadly, has been dying in recent years on both sides of the aisle, replaced by bombast and disrespect for people who don’t think exactly like you. They never saw politics as a war between good and evil but as a space where occasionally compromising with well-intentioned opponents is good for Virginia and its people.We wish them both good health and happiness in life after politics.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…"
+        }
+    ]
+}

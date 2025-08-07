@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.002732959808781743,
+                    "sentence": "Move over, apple pie.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014879417140036821,
+                    "sentence": "We're picking new American symbols.Listen to and follow 'Matter of Opinion'Apple Podcasts|Spotify|Stitcher|Amazon MusicIt's as American as … “Survivor”?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001934651518240571,
+                    "sentence": "This week on “Matter of Opinion,” our hosts each bring a piece of pop culture that they think defines America, and make the case for why grifters, connivers and Tennessee's finest explain the United States.Clickhereto read about the cultural artifacts other Opinion columnists think best represent America.Thoughts?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0026999698020517826,
+                    "sentence": "Email us atmatterofopinion@nytimes.comor leave us a voice mail message at (212) 556-7440.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001071724807843566,
+                    "sentence": "We may use excerpts from your message in a future episode.By leaving us a message, you are agreeing to be governed by ourreader submission termsand agreeing that we may use and allow others to use your name, voice and message.Follow our hosts on Twitter: Michelle Cottle (@mcottle), Ross Douthat (@DouthatNYT), Carlos Lozada (@CarlosNYT) and Lydia Polgreen (@lpolgreen).“Matter of Opinion” is produced this week by Derek Arthur, Phoebe Lett and Sophia Alvarez Boyd.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000752684602048248,
+                    "sentence": "It was edited by Stephanie Joyce.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004109265864826739,
+                    "sentence": "Mixing by Pat McCusker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005868311272934079,
+                    "sentence": "Original music by Isaac Jones, Efim Shapiro, Carole Sabouraud and Pat McCusker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007621104014106095,
+                    "sentence": "Our fact-checking team is Kate Sinclair, Mary Marge Locker and Michelle Harris.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007927779806777835,
+                    "sentence": "Audience strategy by Shannon Busta and Kristina Samulewski.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000886687368620187,
+                    "sentence": "Our executive producer is Annie-Rose Strasser.PHOTO: (PHOTOGRAPH BY Illustration by The New York Times; photograph by ClassicStock/Getty FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.00982192507144982,
+            "class_probabilities": {
+                "human": 0.9901780749285501,
+                "ai": 0.00982192507144982,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9901780749285501,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.00982192507144982,
+                    "human": 0.9901780749285501,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Move over, apple pie. We’re picking new American symbols.Listen to and follow ‘Matter of Opinion’Apple Podcasts|Spotify|Stitcher|Amazon MusicIt’s as American as … “Survivor”? This week on “Matter of Opinion,” our hosts each bring a piece of pop culture that they think defines America, and make the case for why grifters, connivers and Tennessee’s finest explain the United States.Clickhereto read about the cultural artifacts other Opinion columnists think best represent America.Thoughts? Email us atmatterofopinion@nytimes.comor leave us a voice mail message at (212) 556-7440. We may use excerpts from your message in a future episode.By leaving us a message, you are agreeing to be governed by ourreader submission termsand agreeing that we may use and allow others to use your name, voice and message.Follow our hosts on Twitter: Michelle Cottle (@mcottle), Ross Douthat (@DouthatNYT), Carlos Lozada (@CarlosNYT) and Lydia Polgreen (@lpolgreen).“Matter of Opinion” is produced this week by Derek Arthur, Phoebe Lett and Sophia Alvarez Boyd. It was edited by Stephanie Joyce. Mixing by Pat McCusker. Original music by Isaac Jones, Efim Shapiro, Carole Sabouraud and Pat McCusker. Our fact-checking team is Kate Sinclair, Mary Marge Locker and Michelle Harris. Audience strategy by Shannon Busta and Kristina Samulewski. Our executive producer is Annie-Rose Strasser.PHOTO:  (PHOTOGRAPH BY Illustration by The New York Times; photograph by ClassicStock/Getty FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

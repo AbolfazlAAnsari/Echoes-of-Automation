@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0003871676162816584,
+                    "sentence": "From local coverage to the presidential race,.Cityscape| Twin Cities urban geographer Bill Lindeke weighs in on city life, transportation, planning and more in his column delivered to your inbox weekly.I want to see an America where everyone can access the tools they need to reach financial freedom, regardless of where they come from or how wealthy they are.In line with that vision, I am always happy to see proposals that will bring more Black and brown Minnesotans into our nation's financial system, like the proposed Capital One and Discover merger.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007909393752925098,
+                    "sentence": "This merger, which the federal government has to review, would be a win for communities that have been cast aside by too many other financial institutions and heighten competition in the payment network market ᅳ a win for small and minority-owned businesses in Minnesota and around the country.Visa and Mastercard currently process 80% of all credit card transactions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003509848320391029,
+                    "sentence": "This lack of competition means Visa and Mastercard can get away with charging high prices, with Visa accused in a recent lawsuit of engaging in anticompetitive practices.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005443533882498741,
+                    "sentence": "The consolidation of the payment network industry has hurt minority-owned small businesses, which can lack the profit margins to absorb Visa and Mastercard's ability to set whatever price they want for their services.If this merger becomes final, it would bolster Discover's standing because Capital One will be able to issue its cards over the Discover payment network.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006421009311452508,
+                    "sentence": "This will make Discover a more robust competitor to the Visa and Mastercard duopoly.This heightened competition would push all payment networks to compete for the opportunity to work with businesses by offering better services and adopting more competitive pricing, and give small businesses a greater ability to negotiate more favorable terms for themselves.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008739068871363997,
+                    "sentence": "This would be a big win for minority-owned businesses who are most impacted by the current lack of competition in the marketplace.And even the financial press agrees.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00041276594856753945,
+                    "sentence": "The Bloomberg editorial board has said, “[The Capital One-Discover merger is] likely to inject much-needed competition into the card market,” which would expand consumer choice and yield more competitive price points for small businesses in our communities.In addition to competition, the merger would bring to the marketplace the creation of a Capital One-Discover bank that would also benefit communities often forgotten by other financial institutions, like so many in Minnesota.Capital One has been a leader in providing innovative and personalized banking services to everyone.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.015068287961184978,
+                    "sentence": "The bank has gained recognition for its commitment to ensuring that all people, regardless of background or income or wealth, have access to the financial tools they need to build or repair credit and is the largest issuer of credit cards to first-time cardholders.Discover's credit cards are also known for being pathways toward building credit for people.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006675461307168007,
+                    "sentence": "By coming together, a fused Capital One-Discover bank could build on its mission of empowering people to build credit ᅳ the first step toward securing a business loan or financing large purchases like buying a vehicle or a home.This is a unique opportunity for President Joe Biden's administration to build on its work of uplifting Black and brown communities.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006269377656280994,
+                    "sentence": "It would be a victory for minority-owned small businesses that currently bear the brunt of the consequences as a result of the Visa-Mastercard duopoly and for Minnesota's marginalized communities in need of expanded credit access in order to reach their financial goals.Lawrence Wright, a Minneapolis resident, is a DFL Party and community activist.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.018121205277011908,
+            "class_probabilities": {
+                "human": 0.9818394071854253,
+                "ai": 0.018121205277011908,
+                "mixed": 3.938753756276528e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9818394071854253,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.018121205277011908,
+                    "human": 0.9818394071854253,
+                    "mixed": 3.938753756276528e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "From local coverage to the presidential race, .Cityscape| Twin Cities urban geographer Bill Lindeke weighs in on city life, transportation, planning and more in his column delivered to your inbox weekly.I want to see an America where everyone can access the tools they need to reach financial freedom, regardless of where they come from or how wealthy they are.In line with that vision, I am always happy to see proposals that will bring more Black and brown Minnesotans into our nation’s financial system, like the proposed Capital One and Discover merger. This merger, which the federal government has to review, would be a win for communities that have been cast aside by too many other financial institutions and heighten competition in the payment network market — a win for small and minority-owned businesses in Minnesota and around the country.Visa and Mastercard currently process 80% of all credit card transactions. This lack of competition means Visa and Mastercard can get away with charging high prices, with Visa accused in a recent lawsuit of engaging in anticompetitive practices. The consolidation of the payment network industry has hurt minority-owned small businesses, which can lack the profit margins to absorb Visa and Mastercard’s ability to set whatever price they want for their services.If this merger becomes final, it would bolster Discover’s standing because Capital One will be able to issue its cards over the Discover payment network. This will make Discover a more robust competitor to the Visa and Mastercard duopoly.This heightened competition would push all payment networks to compete for the opportunity to work with businesses by offering better services and adopting more competitive pricing, and give small businesses a greater ability to negotiate more favorable terms for themselves. This would be a big win for minority-owned businesses who are most impacted by the current lack of competition in the marketplace.And even the financial press agrees. The Bloomberg editorial board has said, “[The Capital One-Discover merger is] likely to inject much-needed competition into the card market,” which would expand consumer choice and yield more competitive price points for small businesses in our communities.In addition to competition, the merger would bring to the marketplace the creation of a Capital One-Discover bank that would also benefit communities often forgotten by other financial institutions, like so many in Minnesota.Capital One has been a leader in providing innovative and personalized banking services to everyone. The bank has gained recognition for its commitment to ensuring that all people, regardless of background or income or wealth, have access to the financial tools they need to build or repair credit and is the largest issuer of credit cards to first-time cardholders.Discover’s credit cards are also known for being pathways toward building credit for people. By coming together, a fused Capital One-Discover bank could build on its mission of empowering people to build credit — the first step toward securing a business loan or financing large purchases like buying a vehicle or a home.This is a unique opportunity for President Joe Biden’s administration to build on its work of uplifting Black and brown communities. It would be a victory for minority-owned small businesses that currently bear the brunt of the consequences as a result of the Visa-Mastercard duopoly and for Minnesota’s marginalized communities in need of expanded credit access in order to reach their financial goals.Lawrence Wright, a Minneapolis resident, is a DFL Party and community activist."
+        }
+    ]
+}

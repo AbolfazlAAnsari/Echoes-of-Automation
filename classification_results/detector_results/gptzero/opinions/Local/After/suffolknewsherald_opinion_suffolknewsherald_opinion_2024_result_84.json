@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0007957451161928475,
+                    "sentence": "Published 7:04 pm Tuesday, January 30, 2024ByLetters to the EditorDear Editor:After reading the article, “SPS continues to provide students with free breakfast and lunch,” published on Thursday, Jan. 25, 2024, written by James Robinson, I wanted to express my appreciation for the initiative taken by Suffolk Public Schools in providing free breakfast and lunch to students amidst the many challenges the pandemic has caused.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008914990467019379,
+                    "sentence": "This program not only addresses the needs of Suffolk's students but also brings many benefits to our community.Providing free meals ensures that children in the community are fed and are not left hungry.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012880987487733364,
+                    "sentence": "It also helps families facing economic hardship during this time, as the cost of food has risen.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0022134603932499886,
+                    "sentence": "Many families are left to decide to pay for the roof over their heads or food.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014527698513120413,
+                    "sentence": "This program alleviates some of that pressure.Outside of alleviating hunger, children who are well-fed perform better academically because they can concentrate not on being hungry but on their schoolwork.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010398761369287968,
+                    "sentence": "Proper nutrition is vital for concentration and cognitive skills.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014434342738240957,
+                    "sentence": "So, this program contributes to a more conducive learning environment.The City of Suffolk taking the steps to provide free breakfast and lunch to its students deserves acknowledgment.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020320487674325705,
+                    "sentence": "The initiative taken to implement this program proves that Suffolk wants the best for its residents and their students to succeed.Stefanie LarrySuffolkOn Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010273857042193413,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0064101554453372955,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.020796750353547094,
+            "class_probabilities": {
+                "human": 0.9792032496464529,
+                "ai": 0.020796750353547094,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9792032496464529,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020796750353547094,
+                    "human": 0.9792032496464529,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 7:04 pm Tuesday, January 30, 2024ByLetters to the EditorDear Editor:After reading the article, “SPS continues to provide students with free breakfast and lunch,” published on Thursday, Jan. 25, 2024, written by James Robinson, I wanted to express my appreciation for the initiative taken by Suffolk Public Schools in providing free breakfast and lunch to students amidst the many challenges the pandemic has caused. This program not only addresses the needs of Suffolk’s students but also brings many benefits to our community.Providing free meals ensures that children in the community are fed and are not left hungry. It also helps families facing economic hardship during this time, as the cost of food has risen. Many families are left to decide to pay for the roof over their heads or food. This program alleviates some of that pressure.Outside of alleviating hunger, children who are well-fed perform better academically because they can concentrate not on being hungry but on their schoolwork. Proper nutrition is vital for concentration and cognitive skills. So, this program contributes to a more conducive learning environment.The City of Suffolk taking the steps to provide free breakfast and lunch to its students deserves acknowledgment. The initiative taken to implement this program proves that Suffolk wants the best for its residents and their students to succeed.Stefanie LarrySuffolkOn Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

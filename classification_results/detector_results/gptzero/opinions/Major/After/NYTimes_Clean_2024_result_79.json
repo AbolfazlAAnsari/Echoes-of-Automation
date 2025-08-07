@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.000993396039120853,
+                    "sentence": "A message for President Biden.The New York Times Opinion columnist David Brooks worries that the United States ᅳ and much of the world ᅳ is being harmed by the rise of populism.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015519395237788558,
+                    "sentence": "In this audio essay, he argues that the “us-versus-them” mentality, so core to populist movements, limits societal growth.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001732098520733416,
+                    "sentence": "Instead, Democrats should promote a positive-sum mind-set, centered on respect and dignity for every individual.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00180374039337039,
+                    "sentence": "He urges President Biden and other American leaders to embody a culture that celebrates what he describes as “liberal capitalism.”(A full transcript of this audio essay will be available within 24 hours of publication in the audio player above.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015636837342754006,
+                    "sentence": ")This episode of “The Opinions” was produced by Vishakha Darbha.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013512230943888426,
+                    "sentence": "It was edited by Alison Bruzek, Kaari Pitkin and Annie-Rose Strasser.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019146313425153494,
+                    "sentence": "Engineering by Efim Shapiro with mixing by Sonia Herrero.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013571205781772733,
+                    "sentence": "Original music by Isaac Jones, Carole Sabouraud and Sonia Herrero.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015573001001030207,
+                    "sentence": "Fact-checking by Mary Marge Locker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016797484131529927,
+                    "sentence": "Audience strategy by Kristina Samulewski and Shannon Busta.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001282567740418017,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002945998916402459,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002362379338592291,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,Instagram,TikTok,WhatsApp,XandThreads.PHOTO: (PHOTOGRAPH BY Illustration by The New York Times; photograph by David Madison/Getty Images FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.02446263556356353,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.02446263556356353,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.02446263556356353,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "A message for President Biden.The New York Times Opinion columnist David Brooks worries that the United States — and much of the world — is being harmed by the rise of populism. In this audio essay, he argues that the “us-versus-them” mentality, so core to populist movements, limits societal growth. Instead, Democrats should promote a positive-sum mind-set, centered on respect and dignity for every individual. He urges President Biden and other American leaders to embody a culture that celebrates what he describes as “liberal capitalism.”(A full transcript of this audio essay will be available within 24 hours of publication in the audio player above.)This episode of “The Opinions” was produced by Vishakha Darbha. It was edited by Alison Bruzek, Kaari Pitkin and Annie-Rose Strasser. Engineering by Efim Shapiro with mixing by Sonia Herrero. Original music by Isaac Jones, Carole Sabouraud and Sonia Herrero. Fact-checking by Mary Marge Locker. Audience strategy by Kristina Samulewski and Shannon Busta.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,Instagram,TikTok,WhatsApp,XandThreads.PHOTO:  (PHOTOGRAPH BY Illustration by The New York Times; photograph by David Madison/Getty Images FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

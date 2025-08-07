@@ -1,0 +1,147 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.28931736946105957,
+                    "sentence": "Mutual Fund and ETF data provided byRefinitiv Lipper.Former presidential candidate Andrew Yang spoke with Fox News Digital about the dangers of AI.In the rapidly evolvinglandscape of artificial intelligence(AI), the U.S. federal and state governments find themselves at a pivotal juncture.The FCC recently announced an investigation of robocalls created by Generative AI after adeepfake message emulating President Bidenurged voters in New Hampshire to skip voting in last month's primary.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.3169223964214325,
+                    "sentence": "At the same time, members of Congress held a hearing on the use of Generative AI in the legislative branch.And the Government Accountability Office (GAO) has unveiled a detailed report, showcasing the extensive utilization of AI across various non-military federal agencies.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.34640055894851685,
+                    "sentence": "This document reveals more than 200 current applications and over 500 planned initiatives, marking a significant leap in the government's engagement with AI technologies.When it comes to AI, the U.S. federal and state governments are at a pivotal juncture.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.2110317051410675,
+                    "sentence": "(Josep Lago/AFP via Getty Images)From enhancing national security to advancing scientific research,AI's potential is being tappedin myriad ways.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.35796058177948,
+                    "sentence": "Yet, the burgeoning use of such a potent tool raises critical questions about its governance, ethical use, and the strategic alignment of technology with public service objectives.FEDERAL GOVERNMENT LAGGING BEHIND ON KEY AI REQUIREMENTS, WATCHDOG FINDSThese conversations reveal the urgent need for a structured and unified approach to AI within federal and state agencies, and the concept of an AI Center of Excellence (CoE) offers a valuable solution.By drawing on the proven strategies of the private sector, which I have seen in consulting with companies on establishing AI Centers of Excellence, government officials can navigate the complexities of AI deployment while ensuring ethical standards and maximizing efficiency.Government agencies operate within unique ecosystems, each with its distinct mission, regulatory landscape and operational challenges.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.15306013822555542,
+                    "sentence": "An AI CoE, tailored to the specific context of each agency, along with a separate one for the federal and state legislatures, ensures a governance structure that is both flexible and informed, capable of addressing the peculiarities of each domain whilefostering innovation and ethical AI use.HOUSE LAWMAKERS TO SHINE LIGHT ON HOW AI CAN MAKE CONGRESS 'MORE EFFICIENT'The corporate sector's foray into AI has yielded a wealth of insights into the creation and operation of AI CoEs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9958368539810181,
+                    "sentence": "These hubs of innovation and expertise combine the technical prowess of IT specialists with the strategic acumen of business leaders, creating a synergistic environment that drives AI initiatives forward.By emulating this model, government agencies can ensure their AI strategies are not only technologically sound but also closely aligned with their overarching missions and ethical standards.The successful establishment of an AI CoE within each agency hinges on incorporating several key elements.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.8117321133613586,
+                    "sentence": "First, the CoE mustarticulate a strategic visionthat aligns with the agency's core mission, ensuring that AI initiatives significantly contribute to public service goals and societal welfare.Additionally, the CoE must cultivate an interdisciplinary collaboration culture, drawing together experts from various fields within and outside the agency to share knowledge, insights and drive AI innovation.CLICK HERE FOR MORE FOX NEWS OPINIONGiven the rapidpace of AI technology evolution, the CoE must also prioritize adaptability and promote lifelong learning among its personnel, keeping both staff and AI strategies at the forefront of technological advancements.At the heart of each CoE's responsibilities lies a commitment to ethical AI governance, along the lines of previous actions by the Biden administration.Such commitments entail deploying AI technologies responsibly, with careful consideration for privacy, security and fairness, and actively working to mitigate risks such as bias and discrimination, as well as more long-term threats, including existential risks to humanity.Such a decentralized framework not only maximizes the benefits derived from AI but also instills a culture of innovation, collaboration and continuous improvement.By fostering a culture of continuous learning and experimentation, CoEs empower officials toleverage AI in their work, nurturing a workforce that is innovative, agile and technologically adept.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.3256229758262634,
+                    "sentence": "It paves the way for a future where AI not only enhances the efficiency and effectiveness of government operations but also serves as a cornerstone of a more responsive, transparent and equitable public service.CLICK HERE TO READ MORE FROM GLEB TSIPURSKYGleb Tsipursky, Ph.D., serves as the CEO of the hybrid work consultancyDisaster Avoidance Expertsand authored the best-seller\"Returning to the Office and Leading Hybrid and Remote Teams.\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 2.572739450890027e-05
+                }
+            ],
+            "completely_generated_prob": 0.5473106288067257,
+            "class_probabilities": {
+                "human": 0.42721111778330617,
+                "ai": 0.5473106288067257,
+                "mixed": 0.025478253409968257
+            },
+            "average_generated_prob": 1,
+            "predicted_class": "ai",
+            "confidence_score": 0.5473106288067257,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.5473106288067257,
+                    "human": 0.42721111778330617,
+                    "mixed": 0.025478253409968257
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {
+                    "predicted_class": "pure_ai",
+                    "result_message": "",
+                    "confidence_score": 0.9999999998,
+                    "confidence_category": "high",
+                    "class_probabilities": {
+                        "pure_ai": 0.9999999999,
+                        "ai_paraphrased": 9.999999997e-11
+                    },
+                    "confidence_scores_raw": {
+                        "identity": {
+                            "pure_ai": 0.9999999998,
+                            "ai_paraphrased": 9.999999997e-11
+                        }
+                    },
+                    "confidence_thresholds_raw": {
+                        "identity": {
+                            "pure_ai": {
+                                "reject": 0.65,
+                                "low": 0.75,
+                                "medium": 0.92
+                            },
+                            "ai_paraphrased": {
+                                "reject": 0.85,
+                                "low": 0.9,
+                                "medium": 0.95
+                            }
+                        }
+                    }
+                },
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "AI_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Mutual Fund and ETF data provided byRefinitiv Lipper.Former presidential candidate Andrew Yang spoke with Fox News Digital about the dangers of AI.In the rapidly evolvinglandscape of artificial intelligence(AI), the U.S. federal and state governments find themselves at a pivotal juncture.The FCC recently announced an investigation of robocalls created by Generative AI after adeepfake message emulating President Bidenurged voters in New Hampshire to skip voting in last month’s primary. At the same time, members of Congress held a hearing on the use of Generative AI in the legislative branch.And the Government Accountability Office (GAO) has unveiled a detailed report, showcasing the extensive utilization of AI across various non-military federal agencies. This document reveals more than 200 current applications and over 500 planned initiatives, marking a significant leap in the government's engagement with AI technologies.When it comes to AI, the U.S. federal and state governments are at a pivotal juncture.(Josep Lago/AFP via Getty Images)From enhancing national security to advancing scientific research,AI's potential is being tappedin myriad ways. Yet, the burgeoning use of such a potent tool raises critical questions about its governance, ethical use, and the strategic alignment of technology with public service objectives.FEDERAL GOVERNMENT LAGGING BEHIND ON KEY AI REQUIREMENTS, WATCHDOG FINDSThese conversations reveal the urgent need for a structured and unified approach to AI within federal and state agencies, and the concept of an AI Center of Excellence (CoE) offers a valuable solution.By drawing on the proven strategies of the private sector, which I have seen in consulting with companies on establishing AI Centers of Excellence, government officials can navigate the complexities of AI deployment while ensuring ethical standards and maximizing efficiency.Government agencies operate within unique ecosystems, each with its distinct mission, regulatory landscape and operational challenges. An AI CoE, tailored to the specific context of each agency, along with a separate one for the federal and state legislatures, ensures a governance structure that is both flexible and informed, capable of addressing the peculiarities of each domain whilefostering innovation and ethical AI use.HOUSE LAWMAKERS TO SHINE LIGHT ON HOW AI CAN MAKE CONGRESS ‘MORE EFFICIENT’The corporate sector's foray into AI has yielded a wealth of insights into the creation and operation of AI CoEs. These hubs of innovation and expertise combine the technical prowess of IT specialists with the strategic acumen of business leaders, creating a synergistic environment that drives AI initiatives forward.By emulating this model, government agencies can ensure their AI strategies are not only technologically sound but also closely aligned with their overarching missions and ethical standards.The successful establishment of an AI CoE within each agency hinges on incorporating several key elements. First, the CoE mustarticulate a strategic visionthat aligns with the agency's core mission, ensuring that AI initiatives significantly contribute to public service goals and societal welfare.Additionally, the CoE must cultivate an interdisciplinary collaboration culture, drawing together experts from various fields within and outside the agency to share knowledge, insights and drive AI innovation.CLICK HERE FOR MORE FOX NEWS OPINIONGiven the rapidpace of AI technology evolution, the CoE must also prioritize adaptability and promote lifelong learning among its personnel, keeping both staff and AI strategies at the forefront of technological advancements.At the heart of each CoE's responsibilities lies a commitment to ethical AI governance, along the lines of previous actions by the Biden administration.Such commitments entail deploying AI technologies responsibly, with careful consideration for privacy, security and fairness, and actively working to mitigate risks such as bias and discrimination, as well as more long-term threats, including existential risks to humanity.Such a decentralized framework not only maximizes the benefits derived from AI but also instills a culture of innovation, collaboration and continuous improvement.By fostering a culture of continuous learning and experimentation, CoEs empower officials toleverage AI in their work, nurturing a workforce that is innovative, agile and technologically adept. It paves the way for a future where AI not only enhances the efficiency and effectiveness of government operations but also serves as a cornerstone of a more responsive, transparent and equitable public service.CLICK HERE TO READ MORE FROM GLEB TSIPURSKYGleb Tsipursky, Ph.D., serves as the CEO of the hybrid work consultancyDisaster Avoidance Expertsand authored the best-seller\"Returning to the Office and Leading Hybrid and Remote Teams.\""
+        }
+    ]
+}

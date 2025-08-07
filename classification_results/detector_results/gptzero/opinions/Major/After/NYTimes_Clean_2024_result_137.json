@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00018333106709178537,
+                    "sentence": "The president has many problems this election.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002141194709111005,
+                    "sentence": "Is Kamala Harris one of them?Listen to and follow 'Matter of Opinion'Apple Podcasts|Spotify|Amazon Music|YouTubeThis week on “Matter of Opinion,” the hosts debate what thelatest Times/Siena pollreveals about Joe Biden's weaknesses and mull over the question of whether Vice President Kamala Harris is one of them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003656555782072246,
+                    "sentence": "Plus, Carlos on some advice that's gold, Jerry, gold.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000391859735827893,
+                    "sentence": "(A full transcript of this audio essay will be available within 24 hours of publication in the audio player above.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013134312815964222,
+                    "sentence": ")Mentioned in this episode:·“Biden's Polling Denial: Why He Doesn't Believe He's Behind” by Hans Nichols and Alex Thompson in Axios·“An Interview With Kamala Harris on What's at Stake in 2024” from “The Run-Up”·“Kamala Harris Should Try to Be Really Popular” by Matthew Yglesias on his blog, Slow Boring·“What Happened” by Hillary Rodham Clinton·“Did the President Call?” mash-up from HBO's television series “Veep”·“The Last Politician: Inside Joe Biden's White House and the Struggle for America's Future” by Franklin Foer·“Democrats Have a Better Option Than Biden” from “The Ezra Klein Show”·“This New Book About 'Seinfeld' Is Worth Double-Dipping” by Carlos Lozada in The Washington Post·Jerry Seinfeld's2024 Commencement Addressat Duke University·“Why Conservatives Give Better Commencement Speeches Than Liberals” by Carlos Lozada in The Washington Post“Biden's Polling Denial: Why He Doesn't Believe He's Behind” by Hans Nichols and Alex Thompson in Axios“An Interview With Kamala Harris on What's at Stake in 2024” from “The Run-Up”“Kamala Harris Should Try to Be Really Popular” by Matthew Yglesias on his blog, Slow Boring“What Happened” by Hillary Rodham Clinton“Did the President Call?” mash-up from HBO's television series “Veep”“The Last Politician: Inside Joe Biden's White House and the Struggle for America's Future” by Franklin Foer“Democrats Have a Better Option Than Biden” from “The Ezra Klein Show”“This New Book About 'Seinfeld' Is Worth Double-Dipping” by Carlos Lozada in The Washington PostJerry Seinfeld's2024 Commencement Addressat Duke University“Why Conservatives Give Better Commencement Speeches Than Liberals” by Carlos Lozada in The Washington PostThoughts?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02477222867310047,
+                    "sentence": "Email us atmatterofopinion@nytimes.com.Follow our hosts on X: Michelle Cottle (@mcottle), Ross Douthat (@DouthatNYT) and Carlos Lozada (@CarlosNYT).“Matter of Opinion” is produced by Phoebe Lett, Derek Arthur and Sophia Alvarez Boyd.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03938557952642441,
+                    "sentence": "It is edited by Jordana Hochman.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03822660818696022,
+                    "sentence": "Mixing by Sonia Herrero.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03004099801182747,
+                    "sentence": "Original music by Isaac Jones, Carole Sabouraud, Sonia Herrero and Pat McCusker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04077108949422836,
+                    "sentence": "Our fact-checking team is Kate Sinclair, Mary Marge Locker and Michelle Harris.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05232619121670723,
+                    "sentence": "Audience strategy by Shannon Busta and Kristina Samulewski.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05348435789346695,
+                    "sentence": "Our executive producer is Annie-Rose Strasser.Follow the New York Times Opinion section onFacebook,Instagram,TikTok,WhatsApp,XandThreads.PHOTO: (PHOTOGRAPH BY Illustration by The New York Times; Photograph by Doug Mills/The New York Times FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.0375246461941804,
+            "class_probabilities": {
+                "human": 0.9624347023880775,
+                "ai": 0.0375246461941804,
+                "mixed": 4.065141774218333e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9624347023880775,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0375246461941804,
+                    "human": 0.9624347023880775,
+                    "mixed": 4.065141774218333e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "The president has many problems this election. Is Kamala Harris one of them?Listen to and follow ‘Matter of Opinion’Apple Podcasts|Spotify|Amazon Music|YouTubeThis week on “Matter of Opinion,” the hosts debate what thelatest Times/Siena pollreveals about Joe Biden’s weaknesses and mull over the question of whether Vice President Kamala Harris is one of them. Plus, Carlos on some advice that’s gold, Jerry, gold.(A full transcript of this audio essay will be available within 24 hours of publication in the audio player above.)Mentioned in this episode:•“Biden’s Polling Denial: Why He Doesn’t Believe He’s Behind” by Hans Nichols and Alex Thompson in Axios•“An Interview With Kamala Harris on What’s at Stake in 2024” from “The Run-Up”•“Kamala Harris Should Try to Be Really Popular” by Matthew Yglesias on his blog, Slow Boring•“What Happened” by Hillary Rodham Clinton•“Did the President Call?” mash-up from HBO’s television series “Veep”•“The Last Politician: Inside Joe Biden’s White House and the Struggle for America’s Future” by Franklin Foer•“Democrats Have a Better Option Than Biden” from “The Ezra Klein Show”•“This New Book About ‘Seinfeld’ Is Worth Double-Dipping” by Carlos Lozada in The Washington Post•Jerry Seinfeld’s2024 Commencement Addressat Duke University•“Why Conservatives Give Better Commencement Speeches Than Liberals” by Carlos Lozada in The Washington Post“Biden’s Polling Denial: Why He Doesn’t Believe He’s Behind” by Hans Nichols and Alex Thompson in Axios“An Interview With Kamala Harris on What’s at Stake in 2024” from “The Run-Up”“Kamala Harris Should Try to Be Really Popular” by Matthew Yglesias on his blog, Slow Boring“What Happened” by Hillary Rodham Clinton“Did the President Call?” mash-up from HBO’s television series “Veep”“The Last Politician: Inside Joe Biden’s White House and the Struggle for America’s Future” by Franklin Foer“Democrats Have a Better Option Than Biden” from “The Ezra Klein Show”“This New Book About ‘Seinfeld’ Is Worth Double-Dipping” by Carlos Lozada in The Washington PostJerry Seinfeld’s2024 Commencement Addressat Duke University“Why Conservatives Give Better Commencement Speeches Than Liberals” by Carlos Lozada in The Washington PostThoughts? Email us atmatterofopinion@nytimes.com.Follow our hosts on X: Michelle Cottle (@mcottle), Ross Douthat (@DouthatNYT) and Carlos Lozada (@CarlosNYT).“Matter of Opinion” is produced by Phoebe Lett, Derek Arthur and Sophia Alvarez Boyd. It is edited by Jordana Hochman. Mixing by Sonia Herrero. Original music by Isaac Jones, Carole Sabouraud, Sonia Herrero and Pat McCusker. Our fact-checking team is Kate Sinclair, Mary Marge Locker and Michelle Harris. Audience strategy by Shannon Busta and Kristina Samulewski. Our executive producer is Annie-Rose Strasser.Follow the New York Times Opinion section onFacebook,Instagram,TikTok,WhatsApp,XandThreads.PHOTO:  (PHOTOGRAPH BY Illustration by The New York Times; Photograph by Doug Mills/The New York Times FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

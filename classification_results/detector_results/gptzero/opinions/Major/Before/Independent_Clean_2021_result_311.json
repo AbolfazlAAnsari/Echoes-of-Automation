@@ -1,0 +1,100 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.9171128273010254,
+                    "sentence": "What was most interesting about a recent interview with Professor Dame Sarah Gilbert was her views on where we go with vaccine technology now, writes Chris StevensonI found a recent interview with Professor DameSarah Gilbert, one of the architects of the Oxfordvaccine, very interesting.The vaccine rollout has been one of the most successful elements of the government'sCovid-19response - with one of our readers saying in a letter today thatBoris Johnsonand his ministers are taking fartoo much creditfor the work of Prof Gilbert, her team and others around the world.There is no doubt that the work undertaken by Prof Gilbert and her colleagues is impressive - using an approach known as \"plug-and-play\" where specific genetic material for a virus like Covid-19 is added to an already-prepared \"base\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9586713314056396,
+                    "sentence": "It meant that there was a vaccine ready to start clinical trials in less than 100 days.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9730973839759827,
+                    "sentence": "But what I found most interesting about the interview - conducted withthe BBC- was what would be coming next now that \"plug-and-play\" is in use.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9769387245178223,
+                    "sentence": "\"There's a lot of vaccine development that we need to do now that we can do it,\" Prof Gilbert said, with top of the list being the so-called \"priority pathogens\" such as Mers, Zika and Ebola.Beyond that?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02654978632926941,
+                    "sentence": "\"I think the next big leap in vaccines, rather than totally new technologies, is making the technologies we've got more stable, that will be great,\" said Prof Gilbert - what with many vaccines needed to be kept at the right temperature, sometimes very, very cold for them to be viable.And potentially vaccines that do not need to be given as vaccines - but Prof Gilbert admits that advances like that will take lots of time.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02278565801680088,
+                    "sentence": "\"This is something that we can't do very quickly, there is quite a lot of vaccine testing to be done,\" she said.Our readers have been very interested in the vaccine rollout, it is one of the topics we get most letters about - so it is interesting to hear where Prof Gilbert thinks we might be heading in the future.Yours,Chris StevensonEditor, VoicesRead MoreReshuffle in full: Who is out and who has been promoted?Boris Johnson flexes muscles with cabinet shake-up for post-Covid eraPM won't say how Universal Credit claimants can recoup lost £20-a-week",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 6,
+                    "completely_generated_prob": 0.3436238582234724
+                }
+            ],
+            "completely_generated_prob": 0.2425855513307985,
+            "class_probabilities": {
+                "human": 0.7574144486692015,
+                "ai": 0.2425855513307985,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.7574144486692015,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.2425855513307985,
+                    "human": 0.7574144486692015,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "What was most interesting about a recent interview with Professor Dame Sarah Gilbert was her views on where we go with vaccine technology now, writes Chris StevensonI found a recent interview with Professor DameSarah Gilbert, one of the architects of the Oxfordvaccine, very interesting.The vaccine rollout has been one of the most successful elements of the government'sCovid-19response - with one of our readers saying in a letter today thatBoris Johnsonand his ministers are taking fartoo much creditfor the work of Prof Gilbert, her team and others around the world.There is no doubt that the work undertaken by Prof Gilbert and her colleagues is impressive - using an approach known as \"plug-and-play\" where specific genetic material for a virus like Covid-19 is added to an already-prepared \"base\". It meant that there was a vaccine ready to start clinical trials in less than 100 days. But what I found most interesting about the interview - conducted withthe BBC- was what would be coming next now that \"plug-and-play\" is in use.\"There's a lot of vaccine development that we need to do now that we can do it,\" Prof Gilbert said, with top of the list being the so-called \"priority pathogens\" such as Mers, Zika and Ebola.Beyond that? \"I think the next big leap in vaccines, rather than totally new technologies, is making the technologies we've got more stable, that will be great,\" said Prof Gilbert - what with many vaccines needed to be kept at the right temperature, sometimes very, very cold for them to be viable.And potentially vaccines that do not need to be given as vaccines - but Prof Gilbert admits that advances like that will take lots of time. \"This is something that we can't do very quickly, there is quite a lot of vaccine testing to be done,\" she said.Our readers have been very interested in the vaccine rollout, it is one of the topics we get most letters about - so it is interesting to hear where Prof Gilbert thinks we might be heading in the future.Yours,Chris StevensonEditor, VoicesRead MoreReshuffle in full: Who is out and who has been promoted?Boris Johnson flexes muscles with cabinet shake-up for post-Covid eraPM won't say how Universal Credit claimants can recoup lost £20-a-week"
+        }
+    ]
+}

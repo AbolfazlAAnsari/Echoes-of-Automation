@@ -1,0 +1,88 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.33241885900497437,
+                    "sentence": "Both the president and the prime minister have been under pressure over their response to the coronavirus pandemic and how to ease lockdown, writes Chris StevensonBoris JohnsonandDonald Trumpwere officially pictured wearing masks out in public for the first time within 24 hours of each other.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3592209219932556,
+                    "sentence": "That got me thinking.A common theme among a number of the letters we receive at The Independent are comparisons between the two leaders - not positive ones for either man in the majority of cases.Both Johnson and Trump have been under pressure over their response to the coronavirus pandemic and how to ease lockdown (although the increase in cases across the US is certainly much more steep than is seen in the UK recently).For Johnson, it is not the type of comparison he would want, although it is one that readers have always been quick to write about.Both men will be linked for a little while yet, with complaints that the UK is merely following the US lead over the issue of how to deal with China, and suggestions that the government is going do to try and keep Washington on side over the need for a post-Brexit trade deal.Johnson is in office for years yet, but things could all change over the Atlantic in November when the presidential election takes place.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.4346245229244232,
+                    "sentence": "If Trump wins, Johnson and the UK government will be dealing with the 45th president for a significant period - but if Joe Biden enters the White House then that will bring its own challenges.Downing Street would likely prefer a different kind of relationship with Biden than the UK has had with Trump in recent years - if indeed he does win the election.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5401101112365723,
+                    "sentence": "More mutual cooperation and less snap decisions would be appreciated.But there is no guarantee that the prime minister would do any better in comparisons to Biden.Yours,Chris StevensonCo-editor, Voices",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 4,
+                    "completely_generated_prob": 0.0006564766595293492
+                }
+            ],
+            "completely_generated_prob": 0.2425855513307985,
+            "class_probabilities": {
+                "human": 0.7574144486692015,
+                "ai": 0.2425855513307985,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.7574144486692015,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.2425855513307985,
+                    "human": 0.7574144486692015,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Both the president and the prime minister have been under pressure over their response to the coronavirus pandemic and how to ease lockdown, writes Chris StevensonBoris JohnsonandDonald Trumpwere officially pictured wearing masks out in public for the first time within 24 hours of each other. That got me thinking.A common theme among a number of the letters we receive at The Independent are comparisons between the two leaders - not positive ones for either man in the majority of cases.Both Johnson and Trump have been under pressure over their response to the coronavirus pandemic and how to ease lockdown (although the increase in cases across the US is certainly much more steep than is seen in the UK recently).For Johnson, it is not the type of comparison he would want, although it is one that readers have always been quick to write about.Both men will be linked for a little while yet, with complaints that the UK is merely following the US lead over the issue of how to deal with China, and suggestions that the government is going do to try and keep Washington on side over the need for a post-Brexit trade deal.Johnson is in office for years yet, but things could all change over the Atlantic in November when the presidential election takes place. If Trump wins, Johnson and the UK government will be dealing with the 45th president for a significant period - but if Joe Biden enters the White House then that will bring its own challenges.Downing Street would likely prefer a different kind of relationship with Biden than the UK has had with Trump in recent years - if indeed he does win the election. More mutual cooperation and less snap decisions would be appreciated.But there is no guarantee that the prime minister would do any better in comparisons to Biden.Yours,Chris StevensonCo-editor, Voices"
+        }
+    ]
+}

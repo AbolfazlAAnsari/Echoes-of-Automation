@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0031705687288194895,
+                    "sentence": "Published 5:26 pm Tuesday, April 23, 2024BySuffolk News-Herald Editorial BoardKeeping our community free of litter is not just the job of the city; we as a community play a part in those efforts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002784675220027566,
+                    "sentence": "There is never a good reason to throw trash along the roadside, but it happens, unfortunately.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00405478198081255,
+                    "sentence": "It's a bad look for the community, not just for those who live and work in Suffolk but also for those visiting and perhaps planning to relocate here.While we all should play a role and help pick up litter when we see it, we are grateful for any assistance we can get from outside, like the 400 sailors from the US Navy Carrier John F. Kennedy, who came over to Suffolk Friday and cleared over 400 bags of trash, 20 tires, with an estimated 10,470 pounds of garbage.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0030495128594338894,
+                    "sentence": "During the clean-up, Cmdr.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003645407035946846,
+                    "sentence": "Mike Steffens, navigator onboard PCU John F. Kennedy (CVN 79), said it was a “privilege” to be part of the event.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0022825603373348713,
+                    "sentence": "The privilege, sir, is all ours.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5906251072883606,
+                    "sentence": "While we know there are members of the Navy living in our community, not all 400 sailors do, and they took their time to travel from wherever in Hampton Roads they reside to help keep our roadways clear of trash and debris.We want to thank the John F. Kennedy men and women for their efforts here in Suffolk to help Keep Suffolk Beautiful.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.31258901953697205,
+                    "sentence": "We appreciate your service to not only our community but also our nation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6683013439178467,
+                    "sentence": "Thank you!On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.8856345415115356,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9332647323608398,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 5.563435907348475e-07
+                }
+            ],
+            "completely_generated_prob": 0.197278428133793,
+            "class_probabilities": {
+                "human": 0.8026524281914127,
+                "ai": 0.197278428133793,
+                "mixed": 6.914367479424954e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8026524281914127,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.197278428133793,
+                    "human": 0.8026524281914127,
+                    "mixed": 6.914367479424954e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:26 pm Tuesday, April 23, 2024BySuffolk News-Herald Editorial BoardKeeping our community free of litter is not just the job of the city; we as a community play a part in those efforts. There is never a good reason to throw trash along the roadside, but it happens, unfortunately. It’s a bad look for the community, not just for those who live and work in Suffolk but also for those visiting and perhaps planning to relocate here.While we all should play a role and help pick up litter when we see it, we are grateful for any assistance we can get from outside, like the 400 sailors from the US Navy Carrier John F. Kennedy, who came over to Suffolk Friday and cleared over 400 bags of trash, 20 tires, with an estimated 10,470 pounds of garbage. During the clean-up, Cmdr. Mike Steffens, navigator onboard PCU John F. Kennedy (CVN 79), said it was a “privilege” to be part of the event. The privilege, sir, is all ours. While we know there are members of the Navy living in our community, not all 400 sailors do, and they took their time to travel from wherever in Hampton Roads they reside to help keep our roadways clear of trash and debris.We want to thank the John F. Kennedy men and women for their efforts here in Suffolk to help Keep Suffolk Beautiful. We appreciate your service to not only our community but also our nation. Thank you!On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

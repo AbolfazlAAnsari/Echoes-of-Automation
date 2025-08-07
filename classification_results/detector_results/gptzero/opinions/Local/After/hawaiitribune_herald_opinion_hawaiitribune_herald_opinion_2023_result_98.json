@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 7.16401991667226e-05,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|76.748°The horror and outrage of the surprise attacks on Israel by Palestinian militants in Gaza are being compared with the terrorist attacks on Sept. 11, 2001, in America and the bombing of Pearl Harbor.While the despicable attacks are hard to comprehend and must be condemned, the fallout could be even more chaotic as Israel prepares for a long and bloody war that could roil the Middle East and upend politics in the United States and around the globe.Less than two weeks ago, U.S. national security adviser Jake Sullivan said, “The Middle East region is quieter today than it has been in two decades.” That came to a sudden end when Hamas militants launched the worst attack in Israel since the Yom Kippur War in 1973.Hundreds were killed and several thousand were injured.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.918431558413431e-05,
+                    "sentence": "The scenes captured on video were heartbreaking and hideous: An Israeli child was executed in front of her siblings and parents.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.447820098605007e-05,
+                    "sentence": "Hamas fighters paraded the semi-naked body of a woman through the streets on the back of a pickup truck.Iran reportedly helped to plan the attack, just as President Joe Biden, Israeli Prime Minister Benjamin Netanyahu, and Saudi Arabian Crown Prince Mohammed bin Salman were negotiating a landmark deal to forge diplomatic relations between Israel and Saudi Arabia.Over the weekend, rather than uniting around a plan for peace, Republican leaders, including Trump, tried to sow division by blaming Biden for releasing $6 billion in frozen Iranian assets in August as part of a prisoner swap.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010668841423466802,
+                    "sentence": "Never mind that Secretary of State Antony Blinken said the money was earmarked for humanitarian support and had not been spent yet.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.608519758330658e-05,
+                    "sentence": "Or that Trump may share some blame in provoking the Palestinians when he moved the U.S. Embassy from Tel Aviv to Jerusalem.The tinderbox in Israel comes at a precarious time in the U.S. and abroad.Republican support for the war in Ukraine is waning and could have huge repercussions for Europe.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.68548488849774e-05,
+                    "sentence": "Russian President Vladimir Putin boasted that if Western support ended, Ukraine wouldn't last a week.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.879057324724272e-05,
+                    "sentence": "Without a speaker, the U.S. House of Representatives can't conduct any business, let alone pass needed funding for Ukraine.More unsettling, the two leading contenders to be the next speaker are even more extreme than ousted leader Kevin McCarthy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0067819999530911446,
+                    "sentence": "Heaven help us if Rep. Jim Jordan, one of Trump's election-denying sycophants, becomes second in line to the Oval Office.Meanwhile, Netanyahu is promising a merciless war that will no doubt also end up distracting attention from his corruption charges and efforts to upend democracy in Israel.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012711763381958008,
+                    "sentence": "Indeed, Haaretz, a leading Israeli newspaper, said in an editorial that Netanyahu's actions contributed to the increased tensions between Israel and Palestinian groups like Hamas.In earlier times, the world would look to the United States to lead and help keep the peace.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01238575205206871,
+                    "sentence": "But the long wars in Iraq and Afghanistan, along with Trump's “America First” agenda and the rise of MAGA Republicans, have seemed to embolden extremist groups and authoritarians to act with impunity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013841071166098118,
+                    "sentence": "A new world order is needed to confront terrorist organizations and dictators, as well as existential threats like climate change, pandemics, and global inequality.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01785348914563656,
+                    "sentence": "Until then, the divisions here and abroad will result in turbulent times.ᅳ The Philadelphia InquirerHilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.022652551531791687,
+                    "sentence": "Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.025041194076269924,
+            "class_probabilities": {
+                "human": 0.974671313226954,
+                "ai": 0.025041194076269924,
+                "mixed": 0.00028749269677611
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.974671313226954,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.025041194076269924,
+                    "human": 0.974671313226954,
+                    "mixed": 0.00028749269677611
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|76.748°The horror and outrage of the surprise attacks on Israel by Palestinian militants in Gaza are being compared with the terrorist attacks on Sept. 11, 2001, in America and the bombing of Pearl Harbor.While the despicable attacks are hard to comprehend and must be condemned, the fallout could be even more chaotic as Israel prepares for a long and bloody war that could roil the Middle East and upend politics in the United States and around the globe.Less than two weeks ago, U.S. national security adviser Jake Sullivan said, “The Middle East region is quieter today than it has been in two decades.” That came to a sudden end when Hamas militants launched the worst attack in Israel since the Yom Kippur War in 1973.Hundreds were killed and several thousand were injured. The scenes captured on video were heartbreaking and hideous: An Israeli child was executed in front of her siblings and parents. Hamas fighters paraded the semi-naked body of a woman through the streets on the back of a pickup truck.Iran reportedly helped to plan the attack, just as President Joe Biden, Israeli Prime Minister Benjamin Netanyahu, and Saudi Arabian Crown Prince Mohammed bin Salman were negotiating a landmark deal to forge diplomatic relations between Israel and Saudi Arabia.Over the weekend, rather than uniting around a plan for peace, Republican leaders, including Trump, tried to sow division by blaming Biden for releasing $6 billion in frozen Iranian assets in August as part of a prisoner swap. Never mind that Secretary of State Antony Blinken said the money was earmarked for humanitarian support and had not been spent yet. Or that Trump may share some blame in provoking the Palestinians when he moved the U.S. Embassy from Tel Aviv to Jerusalem.The tinderbox in Israel comes at a precarious time in the U.S. and abroad.Republican support for the war in Ukraine is waning and could have huge repercussions for Europe. Russian President Vladimir Putin boasted that if Western support ended, Ukraine wouldn’t last a week. Without a speaker, the U.S. House of Representatives can’t conduct any business, let alone pass needed funding for Ukraine.More unsettling, the two leading contenders to be the next speaker are even more extreme than ousted leader Kevin McCarthy. Heaven help us if Rep. Jim Jordan, one of Trump’s election-denying sycophants, becomes second in line to the Oval Office.Meanwhile, Netanyahu is promising a merciless war that will no doubt also end up distracting attention from his corruption charges and efforts to upend democracy in Israel. Indeed, Haaretz, a leading Israeli newspaper, said in an editorial that Netanyahu’s actions contributed to the increased tensions between Israel and Palestinian groups like Hamas.In earlier times, the world would look to the United States to lead and help keep the peace. But the long wars in Iraq and Afghanistan, along with Trump’s “America First” agenda and the rise of MAGA Republicans, have seemed to embolden extremist groups and authoritarians to act with impunity. A new world order is needed to confront terrorist organizations and dictators, as well as existential threats like climate change, pandemics, and global inequality. Until then, the divisions here and abroad will result in turbulent times.— The Philadelphia InquirerHilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track. Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017."
+        }
+    ]
+}

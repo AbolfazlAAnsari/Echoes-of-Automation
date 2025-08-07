@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00029587780591100454,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003902886819560081,
+                    "sentence": "Please send your letters toletters@independent.co.ukNow the UK has embarked on minor (at the moment) skirmishes in the Middle East,Jeremy Hunthas promised increaseddefence spendingin the March Budget.It's interesting how governments can always find money to wage war when it's never available to meet other needs.Since the UK always jumpson the US bandwagon, I expect that the rest of Europe is grateful we're saving them any involvement.Dr Anthony IngletonSheffieldMore of the sameThe Tory party continues their lurch to the right withNigel Farageplaying the Pied Piper.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0026901401579380035,
+                    "sentence": "How long before they rebrand themselves as UKIP?Meanwhile, Labourattempts to fill the voidthey've left with policies designed to appeal to former Tory voters.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0025820741429924965,
+                    "sentence": "Why don't they just go the whole hog and rebrand themselves as The New Conservatives?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0022995928302407265,
+                    "sentence": "Then there'd be no more pretence about what they stand for.As someone who is concernedabout environmental issues, I find their stance on funding much-needed changes to our economy appalling and worrying.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0028109713457524776,
+                    "sentence": "Let's be rid of the Tories by all means, but we need something different in Labour, not more of the same.Andy VantShropshirePutting up a fightHow can the Conservative Party fight for their constituents when they are so busy fighting each other?Yet we had another weekend of manoeuvring for yet another Conservative leadership contest!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.022002186626195908,
+                    "sentence": "What's more, it's not just the MPs in the Westminster bubble at it now.Hence,a poll of 2,086 Torymembers shows that 90 per cent won't campaign for the party if Rishi Sunak remains leader, only 23 per cent would vote for the party under Sunak, and 50 per cent would switch their vote to Reform UK, even without Nigel Farage as it's leader.The survey was conducted by the Conservative Post, who, the website has stated, were verified by Conservative campaign headquarters as being party members in 2022 when Boris Johnson was deposed as leader.Geoffrey BrookingHavantThe things that matterFollowing the return of a devolved government in Northern Ireland aftera break of two years, Rishi Sunakhas warned the first ministerof the province, Sinn Fein's Michelle O'Neill, to focus on “things that matter”, rather than the possibility of a united Ireland.It's nearly 103 years since the British divided Ireland and, given all the violence, bloodshed and sectarian hate that has been the consequence of that act, Sunak telling Stormont it doesn't “matter” if Ireland is united or not is a veryodd thing for the leaderof something called “The Conservative and Unionist Party” to say.Sasha SimicLondonWe must not lose sight of the challenges our children faceThis week marks Children's Mental Health Week, shining a spotlight on the importance of children andyoung people's mental health.The rise in such problems over recent years has previously been labelled as a mental health emergency and one of the greatest public health challenges of our times.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.21354055404663086,
+                    "sentence": "These problems are even more worrying when they concern the mental fitness of our younger generations, and how we are preparing them to face the growing challenges of entering adulthood.Against this backdrop, our mental health services are facing overwhelming and unprecedented pressures, which existed even before the pandemic and are becoming further exacerbated by the cost of living crisis.Too many of our young people are waiting too long for treatment and the rapidly escalating number of those seeking support, faced with inadequate services, could potentially lead to a lost generation of vulnerable children and young people who aremissing out on the supportthey vitally need.Against the perfect storm of a mental health crisis combined with the long shadow of lockdown and the rising cost of living, we must not lose sight of the challenges that our children and young people are facing.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.15469884872436523,
+                    "sentence": "We must renew our efforts in a national crusade to ensure that they receive adequate mental health support.The Scottish Children's Services Coalition: Kenny Graham -Falkland House School,Lynn Bell - LOVE Learning, Stephen McGhee - Spark of Genius and Niall Kelly -Young Foundations",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.059261636754220776,
+            "class_probabilities": {
+                "human": 0.9406968808522652,
+                "ai": 0.059261636754220776,
+                "mixed": 4.148239351388549e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9406968808522652,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.059261636754220776,
+                    "human": 0.9406968808522652,
+                    "mixed": 4.148239351388549e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukNow the UK has embarked on minor (at the moment) skirmishes in the Middle East,Jeremy Hunthas promised increaseddefence spendingin the March Budget.It’s interesting how governments can always find money to wage war when it’s never available to meet other needs.Since the UK always jumpson the US bandwagon, I expect that the rest of Europe is grateful we’re saving them any involvement.Dr Anthony IngletonSheffieldMore of the sameThe Tory party continues their lurch to the right withNigel Farageplaying the Pied Piper. How long before they rebrand themselves as UKIP?Meanwhile, Labourattempts to fill the voidthey’ve left with policies designed to appeal to former Tory voters. Why don’t they just go the whole hog and rebrand themselves as The New Conservatives? Then there’d be no more pretence about what they stand for.As someone who is concernedabout environmental issues, I find their stance on funding much-needed changes to our economy appalling and worrying. Let’s be rid of the Tories by all means, but we need something different in Labour, not more of the same.Andy VantShropshirePutting up a fightHow can the Conservative Party fight for their constituents when they are so busy fighting each other?Yet we had another weekend of manoeuvring for yet another Conservative leadership contest! What’s more, it’s not just the MPs in the Westminster bubble at it now.Hence,a poll of 2,086 Torymembers shows that 90 per cent won’t campaign for the party if Rishi Sunak remains leader, only 23 per cent would vote for the party under Sunak, and 50 per cent would switch their vote to Reform UK, even without Nigel Farage as it’s leader.The survey was conducted by the Conservative Post, who, the website has stated, were verified by Conservative campaign headquarters as being party members in 2022 when Boris Johnson was deposed as leader.Geoffrey BrookingHavantThe things that matterFollowing the return of a devolved government in Northern Ireland aftera break of two years, Rishi Sunakhas warned the first ministerof the province, Sinn Fein’s Michelle O’Neill, to focus on “things that matter”, rather than the possibility of a united Ireland.It’s nearly 103 years since the British divided Ireland and, given all the violence, bloodshed and sectarian hate that has been the consequence of that act, Sunak telling Stormont it doesn’t “matter” if Ireland is united or not is a veryodd thing for the leaderof something called “The Conservative and Unionist Party” to say.Sasha SimicLondonWe must not lose sight of the challenges our children faceThis week marks Children’s Mental Health Week, shining a spotlight on the importance of children andyoung people’s mental health.The rise in such problems over recent years has previously been labelled as a mental health emergency and one of the greatest public health challenges of our times. These problems are even more worrying when they concern the mental fitness of our younger generations, and how we are preparing them to face the growing challenges of entering adulthood.Against this backdrop, our mental health services are facing overwhelming and unprecedented pressures, which existed even before the pandemic and are becoming further exacerbated by the cost of living crisis.Too many of our young people are waiting too long for treatment and the rapidly escalating number of those seeking support, faced with inadequate services, could potentially lead to a lost generation of vulnerable children and young people who aremissing out on the supportthey vitally need.Against the perfect storm of a mental health crisis combined with the long shadow of lockdown and the rising cost of living, we must not lose sight of the challenges that our children and young people are facing. We must renew our efforts in a national crusade to ensure that they receive adequate mental health support.The Scottish Children’s Services Coalition: Kenny Graham –Falkland House School,Lynn Bell – LOVE Learning, Stephen McGhee – Spark of Genius and Niall Kelly –Young Foundations"
+        }
+    ]
+}

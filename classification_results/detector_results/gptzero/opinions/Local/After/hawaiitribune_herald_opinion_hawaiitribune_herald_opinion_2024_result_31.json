@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.03151048347353935,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Helping the catsof the Big IslandHelping the catsof the Big IslandSummer is here!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.045329220592975616,
+                    "sentence": "Warmer nights mean 19:00 to 20:00 termite blackouts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04018107056617737,
+                    "sentence": "Pretty funny and inconvenient, but it works, right?Time to beat the heat and high humidity with shave ice/ice shave and slow cruises around Lili'uokalani Gardens with the windows down.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.048517994582653046,
+                    "sentence": "Sparkling waters of Hilo Bay, happy strollers, nene geese and feral popoki are all a part of the scene.Early mornings in Kaumana are still dewy and cool.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.037821363657712936,
+                    "sentence": "Recently, a playful gray popoki has been observing me pulling weeds and picking up fallen ti-leaves in the garden.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06564216315746307,
+                    "sentence": "Statue-like, it sits on a gray rock pedestal, or peeks its pointy-chinned face out from kupukupu growing wild beneath a towering orange ohia tree.My family has two senior dogs that enjoy good grub, pampering and occasional short walks, but they sleep the majority of the day and night, and we miss their nosy furball companionship.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.058195531368255615,
+                    "sentence": "Gone are the days of endless fetch with our chihuahua Tobi, so after enjoying the antics of the neighbor's kitty that include spooking me almost every time by darting away when I inadvertently get too near, we decided to adopt a cat from a local trap, neuter, release/rehome (TNR) group.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.056589942425489426,
+                    "sentence": "Their amazing volunteers help to care for and reduce feral cat populations through TNR, and provide nutrition, flea treatments, deworming, vaccinations, microchipping and foster homes.After meeting many cats and kittens, we adopted a sweet calico adolescent named Jini (pronounced Ginny).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0421438105404377,
+                    "sentence": "She has white paws, long whiskers and a tiny pink nose.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06174146384000778,
+                    "sentence": "Initially very timid, having been abandoned at a local market's cat colony where she picked up ear mites, her true nature now shines through with rolling purrs and wide golden-eyed curiosity.She is asleep in a cubby of her new cat tower, soft furry tummy full of food, completely at ease, princess of the castle.The good work of pet rescue organizations and compassionate volunteers comes to fruition, one animal at a time.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014814011519774795,
+                    "sentence": "Their work requires donations and for our community to stop abandoning animals.Sharon F. WongHiloShare your thoughtsabout Keauhou planI write this letter in hopes that many people from our beautiful community will take the time to respond to the recent environmental impact statement that Kamehameha Schools released on June 24 regarding the building of a new 150-room resort hotel at Keauhou Bay.The Keauhou-Kahalu'u Heritage Corridor has faced many changes over the last 75 years under the direction of Kamehameha Schools, with and mostly without the thought of the consequences of overdevelopment, destroying cultural sites and extractive tourism.While I appreciate the fact that Kamehameha Schools is finally making the care and stewardship of the area a priority, including the plans to correct the mistakes made at Keauhou Bay, I have to ask: Are they listening to the community and their own huamana?Please let your voice be heard.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0041550761088728905,
+                    "sentence": "Aug. 7 is the deadline to submit comments through www.ksbe.edu/keauhou-bay.Sally RankinKealakekuaSaveKeauhouBay.org",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Helping the catsof the Big IslandHelping the catsof the Big IslandSummer is here! Warmer nights mean 19:00 to 20:00 termite blackouts. Pretty funny and inconvenient, but it works, right?Time to beat the heat and high humidity with shave ice/ice shave and slow cruises around Lili‘uokalani Gardens with the windows down. Sparkling waters of Hilo Bay, happy strollers, nene geese and feral popoki are all a part of the scene.Early mornings in Kaumana are still dewy and cool. Recently, a playful gray popoki has been observing me pulling weeds and picking up fallen ti-leaves in the garden. Statue-like, it sits on a gray rock pedestal, or peeks its pointy-chinned face out from kupukupu growing wild beneath a towering orange ohia tree.My family has two senior dogs that enjoy good grub, pampering and occasional short walks, but they sleep the majority of the day and night, and we miss their nosy furball companionship. Gone are the days of endless fetch with our chihuahua Tobi, so after enjoying the antics of the neighbor’s kitty that include spooking me almost every time by darting away when I inadvertently get too near, we decided to adopt a cat from a local trap, neuter, release/rehome (TNR) group. Their amazing volunteers help to care for and reduce feral cat populations through TNR, and provide nutrition, flea treatments, deworming, vaccinations, microchipping and foster homes.After meeting many cats and kittens, we adopted a sweet calico adolescent named Jini (pronounced Ginny). She has white paws, long whiskers and a tiny pink nose. Initially very timid, having been abandoned at a local market’s cat colony where she picked up ear mites, her true nature now shines through with rolling purrs and wide golden-eyed curiosity.She is asleep in a cubby of her new cat tower, soft furry tummy full of food, completely at ease, princess of the castle.The good work of pet rescue organizations and compassionate volunteers comes to fruition, one animal at a time. Their work requires donations and for our community to stop abandoning animals.Sharon F. WongHiloShare your thoughtsabout Keauhou planI write this letter in hopes that many people from our beautiful community will take the time to respond to the recent environmental impact statement that Kamehameha Schools released on June 24 regarding the building of a new 150-room resort hotel at Keauhou Bay.The Keauhou-Kahalu‘u Heritage Corridor has faced many changes over the last 75 years under the direction of Kamehameha Schools, with and mostly without the thought of the consequences of overdevelopment, destroying cultural sites and extractive tourism.While I appreciate the fact that Kamehameha Schools is finally making the care and stewardship of the area a priority, including the plans to correct the mistakes made at Keauhou Bay, I have to ask: Are they listening to the community and their own huamana?Please let your voice be heard. Aug. 7 is the deadline to submit comments through www.ksbe.edu/keauhou-bay.Sally RankinKealakekuaSaveKeauhouBay.org"
+        }
+    ]
+}

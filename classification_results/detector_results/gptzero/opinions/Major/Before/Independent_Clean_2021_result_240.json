@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0004806026699952781,
+                    "sentence": "Tottenham Hotspur fans put rivalries aside to applaud Arsenal's Bukayo Saka onto the pitch during a friendly, writes Chris StevensonI recently wrote about the joy of the Olympics and it seems that many readers agree, with a number of letters praising the mixed-gender events and the camaraderie of the athletes.As the Games in Tokyo were ending, another heartening event was taking place at theTottenham HotspurStadium.Arsenalwere the visitors for a pre-season friendly, but no away fans were allowed thanks to Covid-19 regulations.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009895756375044584,
+                    "sentence": "In their absence, Spurs fans put rivalries aside to welcome Arsenal'sBukayo Sakaonto the pitch for the first time since Euro 2020.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006212631124071777,
+                    "sentence": "Saka received a warm round of applause as he replaced Pierre-Emerick Aubameyang.Saka was one of the players, alongsideMarcus Rashfordand Jadon Sancho, who faced sickening racial abuse for missing a penalty in the Euro 2020 final against Italy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007621158147230744,
+                    "sentence": "As well as clapping Saka, Tottenham fans also displayed a banner which read: \"North London stands with Bukayo Saka and all players against racism and discrimination.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.19684267044067383,
+                    "sentence": "\"All three of players have spoken out against the abuse they received, with Sancho writing in an social media post: \"I'm not going [to] pretend that I didn't see the racial abuse that me and my brothers Marcus and Bukayo received after the game, but sadly it's nothing new.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.2874045670032501,
+                    "sentence": "\"As a society, we need to do better and hold these people accountable,\" the player added.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.29651787877082825,
+                    "sentence": "\"Hate will never win.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.10393941402435303,
+                    "sentence": "\"There is much more that needs to be done to stamp out such abuse - from both the authorities and fans themselves - but any effort to make sure that it should not be a part of the game has to be appreciated.Alongside the heartwarming scenes at multiple points at the Olympics, it is a tonic to some of the disgraceful hatred that marred the end of the Euros earlier in the summer.Yours,Chris StevensonEditor, VoicesRead MoreBritish and American politics are strangely alike - it's all about Covid and immigrationI'm a travel editor - but I still haven't booked a summer holidayThe Tokyo Olympics has been full of joy - I'll be sad to see it end",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.06633669730667867,
+            "class_probabilities": {
+                "human": 0.9336633026933213,
+                "ai": 0.06633669730667867,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9336633026933213,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.06633669730667867,
+                    "human": 0.9336633026933213,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tottenham Hotspur fans put rivalries aside to applaud Arsenal's Bukayo Saka onto the pitch during a friendly, writes Chris StevensonI recently wrote about the joy of the Olympics and it seems that many readers agree, with a number of letters praising the mixed-gender events and the camaraderie of the athletes.As the Games in Tokyo were ending, another heartening event was taking place at theTottenham HotspurStadium.Arsenalwere the visitors for a pre-season friendly, but no away fans were allowed thanks to Covid-19 regulations. In their absence, Spurs fans put rivalries aside to welcome Arsenal'sBukayo Sakaonto the pitch for the first time since Euro 2020. Saka received a warm round of applause as he replaced Pierre-Emerick Aubameyang.Saka was one of the players, alongsideMarcus Rashfordand Jadon Sancho, who faced sickening racial abuse for missing a penalty in the Euro 2020 final against Italy. As well as clapping Saka, Tottenham fans also displayed a banner which read: \"North London stands with Bukayo Saka and all players against racism and discrimination.\"All three of players have spoken out against the abuse they received, with Sancho writing in an social media post: \"I'm not going [to] pretend that I didn't see the racial abuse that me and my brothers Marcus and Bukayo received after the game, but sadly it's nothing new.\"As a society, we need to do better and hold these people accountable,\" the player added. \"Hate will never win.\"There is much more that needs to be done to stamp out such abuse - from both the authorities and fans themselves - but any effort to make sure that it should not be a part of the game has to be appreciated.Alongside the heartwarming scenes at multiple points at the Olympics, it is a tonic to some of the disgraceful hatred that marred the end of the Euros earlier in the summer.Yours,Chris StevensonEditor, VoicesRead MoreBritish and American politics are strangely alike - it's all about Covid and immigrationI'm a travel editor - but I still haven't booked a summer holidayThe Tokyo Olympics has been full of joy - I'll be sad to see it end"
+        }
+    ]
+}

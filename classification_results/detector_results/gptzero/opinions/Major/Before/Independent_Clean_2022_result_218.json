@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00012035353574901819,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.454446990275756e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukI foundTim Farron's articlefocusing on Sudanese migrants very thought-provoking.However, his explanation for their desire to settle in the UK lacked substance, and provided insufficient differentiation from other European asylum destinations.It is my belief that the UK is unique in offering people from troubled countries opportunities to practise their religious and cultural traditions without feeling threatened by bigoted or coercive political philosophies.Britain'smulticulturalismhas created a society able to strengthen and sustain “cultures in exile”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011686851939884946,
+                    "sentence": "It has become a seed bank of threatened human experience that needs protection and care.If, in a post-Brexit world, the UK is in need of a reimagined sense of itself as “Global Britain”, then could this be how?David SmithTauntonEmpathy lessonsFlora Baker's excellent pieceon the obstacles faced by people who try to cancel or access contracts with deceased customers has reminded me of a recent conversation with my deceased friend's husband.He was really shocked that both the hospital where she died and the funeral directors who arranged the funeral were keen to get him to fill in customer satisfaction surveys, not realising how much he was grieving.Do we need to educate people about empathy?Kartar UppalSutton ColdfieldBoris Johnson's legacyThe principal theme trumpeted by the outgoing prime minister was to Get Brexit Done.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011546922905836254,
+                    "sentence": "Although he, and others, claim this has been achieved, the reality is that ministers are currently seeking, without proper negotiation, to undo that part of the deal related to Northern Ireland, which has led to a political impasse there.The government has failed to “take back control” of our borders.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011120385170215741,
+                    "sentence": "Small boats continue to cross from France.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013689923798665404,
+                    "sentence": "Prior to Brexit, the people being trafficked in this way could, lawfully, have been returned to France - an option not now available.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012656515173148364,
+                    "sentence": "Instead, we have a half-baked scheme to deport a very small proportion of them to Rwanda at vast cost.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013102740922477096,
+                    "sentence": "Meanwhile, we have another half-baked scheme to use Linton-on-Ouse as a place to site them while denying them any opportunity to work.The absence of workers (particularly HGV drivers) from Europe was one of the reasons advanced for the fuel crisis we experienced last year.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1440882384777069,
+                    "sentence": "It is also advanced as a factor (too few baggage handlers) in the chaotic state of our airports this year.I suspect that, as last year, we will soon also be experiencing a shortage of workers to harvest our crops.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.12178085744380951,
+                    "sentence": "The legacy of our outgoing PM, then, will not be that he Got Brexit Done, but that he left a large number of important matters unfinished.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.12148702889680862,
+                    "sentence": "He had already reneged on the promise to bring HS2 to Leeds.In fairness toBoris Johnson, he may also be remembered for the success of the vaccination programme, though we still have to pay for that, and other debts incurred as a result of the pandemic.A year ago, Britain's credibility in Europe was probably at its lowest ebb.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1475037783384323,
+                    "sentence": "The leading role that Johnson has played in supporting Ukraine in the face of the Russian invasion may lead to him being remembered more favourably.But his successor will need to rebuild many bridges closer to home.David LaverickYorkInvented manifestoWhere are the grown-ups in the Tory Party?If there are any left, do they all really believe it is a good idea for the party's manifesto to be invented by an individual just to get the top job?Jon HawksleyLondonTo keep up to speed with all the latest opinions and comment sign up to our free weekly Voices Dispatches newsletter by clicking here",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.06633669730667867,
+            "class_probabilities": {
+                "human": 0.9336633026933213,
+                "ai": 0.06633669730667867,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9336633026933213,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.06633669730667867,
+                    "human": 0.9336633026933213,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI foundTim Farron’s articlefocusing on Sudanese migrants very thought-provoking.However, his explanation for their desire to settle in the UK lacked substance, and provided insufficient differentiation from other European asylum destinations.It is my belief that the UK is unique in offering people from troubled countries opportunities to practise their religious and cultural traditions without feeling threatened by bigoted or coercive political philosophies.Britain’smulticulturalismhas created a society able to strengthen and sustain “cultures in exile”. It has become a seed bank of threatened human experience that needs protection and care.If, in a post-Brexit world, the UK is in need of a reimagined sense of itself as “Global Britain”, then could this be how?David SmithTauntonEmpathy lessonsFlora Baker’s excellent pieceon the obstacles faced by people who try to cancel or access contracts with deceased customers has reminded me of a recent conversation with my deceased friend’s husband.He was really shocked that both the hospital where she died and the funeral directors who arranged the funeral were keen to get him to fill in customer satisfaction surveys, not realising how much he was grieving.Do we need to educate people about empathy?Kartar UppalSutton ColdfieldBoris Johnson’s legacyThe principal theme trumpeted by the outgoing prime minister was to Get Brexit Done. Although he, and others, claim this has been achieved, the reality is that ministers are currently seeking, without proper negotiation, to undo that part of the deal related to Northern Ireland, which has led to a political impasse there.The government has failed to “take back control” of our borders. Small boats continue to cross from France. Prior to Brexit, the people being trafficked in this way could, lawfully, have been returned to France – an option not now available. Instead, we have a half-baked scheme to deport a very small proportion of them to Rwanda at vast cost. Meanwhile, we have another half-baked scheme to use Linton-on-Ouse as a place to site them while denying them any opportunity to work.The absence of workers (particularly HGV drivers) from Europe was one of the reasons advanced for the fuel crisis we experienced last year. It is also advanced as a factor (too few baggage handlers) in the chaotic state of our airports this year.I suspect that, as last year, we will soon also be experiencing a shortage of workers to harvest our crops. The legacy of our outgoing PM, then, will not be that he Got Brexit Done, but that he left a large number of important matters unfinished. He had already reneged on the promise to bring HS2 to Leeds.In fairness toBoris Johnson, he may also be remembered for the success of the vaccination programme, though we still have to pay for that, and other debts incurred as a result of the pandemic.A year ago, Britain’s credibility in Europe was probably at its lowest ebb. The leading role that Johnson has played in supporting Ukraine in the face of the Russian invasion may lead to him being remembered more favourably.But his successor will need to rebuild many bridges closer to home.David LaverickYorkInvented manifestoWhere are the grown-ups in the Tory Party?If there are any left, do they all really believe it is a good idea for the party’s manifesto to be invented by an individual just to get the top job?Jon HawksleyLondonTo keep up to speed with all the latest opinions and comment sign up to our free weekly Voices Dispatches newsletter by                                                                       clicking here"
+        }
+    ]
+}

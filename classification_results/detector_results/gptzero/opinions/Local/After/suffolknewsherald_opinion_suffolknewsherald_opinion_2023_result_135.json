@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.9923261404037476,
+                    "sentence": "Published 5:53 pm Tuesday, November 7, 2023BySuffolk News-Herald Editorial BoardVeterans Day is a cherished day of remembrance and gratitude.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9939896464347839,
+                    "sentence": "It is a day when we collectively pause to pay tribute to the brave men and women who have served in our nation's armed forces.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9949421882629395,
+                    "sentence": "This day is not just about a date on the calendar; it represents the unwavering dedication and sacrifices of our veterans.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9949937462806702,
+                    "sentence": "Here's why celebrating Veterans Day is so vital:Veterans Day is an opportunity to express our profound gratitude to those who have selflessly served our country, often at great personal cost.It is a day that transcends political divides and unites us in appreciation for the values and freedoms our veterans have defended.Veterans Day offers a chance to educate the younger generation about the sacrifices and values that have shaped our nation's history.It is an occasion to recognize the ongoing needs of veterans, from healthcare to employment opportunities, and to show our support for their well-being.Remember that Veterans Day also serves as a moment to remember those who made the ultimate sacrifice for our nation.Celebrating Veterans Day is not just a matter of tradition; it is a reflection of our national character and a promise never to forget those who have served.In a world often filled with tumult and division, Veterans Day stands as a beacon of unity, reminding us of the values we cherish and defend.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.33417031168937683,
+                    "sentence": "It is a day for every American to say, “Thank you for your service,” and show our veterans the honor and respect they deserve.Let us not forget the commitment, selflessness, and sacrifice of those who have served, and let us celebrate Veterans Day with heartfelt gratitude.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1812686026096344,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09360526502132416,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 0.11601769141592862
+                }
+            ],
+            "completely_generated_prob": 0.4958526390823963,
+            "class_probabilities": {
+                "human": 0.5003147550696395,
+                "ai": 0.4958526390823963,
+                "mixed": 0.0038326058479640434
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.5003147550696395,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.4958526390823963,
+                    "human": 0.5003147550696395,
+                    "mixed": 0.0038326058479640434
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:53 pm Tuesday, November 7, 2023BySuffolk News-Herald Editorial BoardVeterans Day is a cherished day of remembrance and gratitude. It is a day when we collectively pause to pay tribute to the brave men and women who have served in our nation’s armed forces. This day is not just about a date on the calendar; it represents the unwavering dedication and sacrifices of our veterans. Here’s why celebrating Veterans Day is so vital:Veterans Day is an opportunity to express our profound gratitude to those who have selflessly served our country, often at great personal cost.It is a day that transcends political divides and unites us in appreciation for the values and freedoms our veterans have defended.Veterans Day offers a chance to educate the younger generation about the sacrifices and values that have shaped our nation’s history.It is an occasion to recognize the ongoing needs of veterans, from healthcare to employment opportunities, and to show our support for their well-being.Remember that Veterans Day also serves as a moment to remember those who made the ultimate sacrifice for our nation.Celebrating Veterans Day is not just a matter of tradition; it is a reflection of our national character and a promise never to forget those who have served.In a world often filled with tumult and division, Veterans Day stands as a beacon of unity, reminding us of the values we cherish and defend. It is a day for every American to say, “Thank you for your service,” and show our veterans the honor and respect they deserve.Let us not forget the commitment, selflessness, and sacrifice of those who have served, and let us celebrate Veterans Day with heartfelt gratitude.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0003066255885642022,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|78.854°In yet another airliner scandal, Boeing and Airbus jets have been manufactured using titanium sold with forged documentation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00045844874694012105,
+                    "sentence": "The problem was uncovered after a parts supplier found small holes in the material from corrosion.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004767021455336362,
+                    "sentence": "Whether the parts are usable despite the faked paperwork is being investigated by the Federal Aviation Administration.Why did this happen?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00046634505270048976,
+                    "sentence": "The companies outsourced their manufacturing to China, and what manufacturing remains in the United States has been subject to intense cost-cutting.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000559515377972275,
+                    "sentence": "Outsourcing and cost-cutting often mean lower quality, more errors and more cover-ups.The parts in question are handled by Spirit AeroSystems, which was a division of Boeing until 2005, when it was sold to investors as a separate company.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006946876528672874,
+                    "sentence": "Right before that move, an internal report by John Hart-Smith, a Boeing engineer, questioned “whether or not a company can continue to operate if it relies primarily on outsourcing the majority of the work that it once did in-house,” according to The Seattle Times.Problems caused by outsourcing aren't exclusive to the airline industry.In 2008, Ward Stone, a wildlife pathologist, and his daughter, Montana Stone, used over-the-counter tests and discovered hazardous levels of lead in children's necklaces and bracelets.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006232872256077826,
+                    "sentence": "This led to a recall of half a million pieces of children's jewelry made in China and an agreement between the companies and the state of New York that allows the state to fine the companies if it finds lead in their products again.In 2010 an investigation by The Associated Press found that children's jewelry from China contained cadmium, a highly toxic and carcinogenic anti-corrosive material that is similar to lead but less regulated.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0270631555467844,
+                    "sentence": "In response, California and other states outlawed the use of the metal in children's jewelry, and testing found that by 2012, cadmium was no longer present in trinkets for children.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01626981981098652,
+                    "sentence": "There were no laws about it for adult jewelry and little testing.In 2018, the Center for Environmental Health, a nonprofit, decided to check adult products.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.015101094730198383,
+                    "sentence": "It quickly found that many items for adults contained cadmium, some at very high levels.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006775237154215574,
+                    "sentence": "Oops.Because the airline industry is so heavily regulated, it tends to discover problems.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006856429390609264,
+                    "sentence": "And because planes have multiple safety mechanisms backing up one another, the problems rarely lead to major loss of life (although two Boeing Max crashes in recent years are reminders that there are no guarantees).© 2024 The New York Times CompanyA 71-year-old Hilo man pleaded guilty Monday to second-degree negligent homicide for the Oct. 3, 2023, traffic collision death of a 79-year-old Hilo woman.WASHINGTON ᅳ The gunman who tried to kill Donald Trump mounted a “sustained, detailed effort” to attack a major gathering of some sort before deciding to target the Republican presidential candidate at a Pennsylvania rally in July, FBI officials said on Wednesday.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.021970499330714932,
+            "class_probabilities": {
+                "human": 0.9777411024959822,
+                "ai": 0.021970499330714932,
+                "mixed": 0.0002883981733029253
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9777411024959822,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.021970499330714932,
+                    "human": 0.9777411024959822,
+                    "mixed": 0.0002883981733029253
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|78.854°In yet another airliner scandal, Boeing and Airbus jets have been manufactured using titanium sold with forged documentation. The problem was uncovered after a parts supplier found small holes in the material from corrosion. Whether the parts are usable despite the faked paperwork is being investigated by the Federal Aviation Administration.Why did this happen? The companies outsourced their manufacturing to China, and what manufacturing remains in the United States has been subject to intense cost-cutting. Outsourcing and cost-cutting often mean lower quality, more errors and more cover-ups.The parts in question are handled by Spirit AeroSystems, which was a division of Boeing until 2005, when it was sold to investors as a separate company. Right before that move, an internal report by John Hart-Smith, a Boeing engineer, questioned “whether or not a company can continue to operate if it relies primarily on outsourcing the majority of the work that it once did in-house,” according to The Seattle Times.Problems caused by outsourcing aren’t exclusive to the airline industry.In 2008, Ward Stone, a wildlife pathologist, and his daughter, Montana Stone, used over-the-counter tests and discovered hazardous levels of lead in children’s necklaces and bracelets. This led to a recall of half a million pieces of children’s jewelry made in China and an agreement between the companies and the state of New York that allows the state to fine the companies if it finds lead in their products again.In 2010 an investigation by The Associated Press found that children’s jewelry from China contained cadmium, a highly toxic and carcinogenic anti-corrosive material that is similar to lead but less regulated. In response, California and other states outlawed the use of the metal in children’s jewelry, and testing found that by 2012, cadmium was no longer present in trinkets for children. There were no laws about it for adult jewelry and little testing.In 2018, the Center for Environmental Health, a nonprofit, decided to check adult products. It quickly found that many items for adults contained cadmium, some at very high levels. Oops.Because the airline industry is so heavily regulated, it tends to discover problems. And because planes have multiple safety mechanisms backing up one another, the problems rarely lead to major loss of life (although two Boeing Max crashes in recent years are reminders that there are no guarantees).© 2024 The New York Times CompanyA 71-year-old Hilo man pleaded guilty Monday to second-degree negligent homicide for the Oct. 3, 2023, traffic collision death of a 79-year-old Hilo woman.WASHINGTON — The gunman who tried to kill Donald Trump mounted a “sustained, detailed effort” to attack a major gathering of some sort before deciding to target the Republican presidential candidate at a Pennsylvania rally in July, FBI officials said on Wednesday."
+        }
+    ]
+}

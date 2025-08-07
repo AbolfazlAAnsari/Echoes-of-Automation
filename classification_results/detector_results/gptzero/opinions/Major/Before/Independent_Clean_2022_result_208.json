@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.002588374773040414,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0033478490076959133,
+                    "sentence": "Please send your letters toletters@independent.co.ukIt's typical of the Tory party thatPriti Patelreacts to protests bycriminalising the protesters, instead of listening to and acting upon their concerns.Surely something as serious as the climate crisis is the most pressing emergency and requires urgent and immediate attention.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0042945872992277145,
+                    "sentence": "But our government has decided that it will go missing while the election for a new PM takes precedence.Kit Malthouse explainsthat Britain will have to wait for government action and, until the election is concluded, Britain will have to burn.Once again, we have been let down by this second-rate party of out-of-touch nincompoops.Keith PooleBasingstokeTory leadership processThe Conservatives think of themselves as sophisticated and clever.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002968373941257596,
+                    "sentence": "But theirleadership election processis a clumsy palaver: five elections amongst MPs in order to prepare the way for yet another election by a group of self-selected people who are so accountable that no one knows how many will receive ballot papers!If the UK's ruling party wants to be taken seriously by people who believe in democracy, not only in Britain but worldwide, it would change the process of choosing a leader and, in this case, a prime minister.Even if the electorate as a whole had no say in that choice, at least the charade of the last few weeks could be avoided by adopting a transferable voting system as a means of whittling down the candidature.And we've still got a further six weeks of backbiting and infighting before this ludicrous procedure is settled!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0034144893288612366,
+                    "sentence": "No wonder there is disillusionment with politics and politicians.Ian ReidKilnwick, YorkshireTrack record of deliveryI had been thinking that pretty well anyone as prime minister would be an improvement onBoris Johnson.But it now seems that there's a distinct possibility it will be the right-wing tax-cutting “delivering” (but not delivering anything worthwhile) Liz Truss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005141500383615494,
+                    "sentence": "Oh dear, oh dear.But perhaps the silver lining is that she might make her party unelectable.Susan AlexanderSouth GloucestershireFour day weekIn her article on flexible working practices, Hannah Fearn mentions a pilot scheme where employees work a four-day week with no loss of pay.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011501261033117771,
+                    "sentence": "Early indications are that no drop in productivity occurred and the workforce morale improved.In 1942, C Northcote Parkinson (of One Upmanship fame) proposed Parkinson's law, which states that “work expands so as to fill the time available for its completion”.It would seem he was correct, although he was suggesting that work was stretched to fill the working week rather than compressed, as in the pilot scheme.Patrick ClearyGloucestershireTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereBoris Johnson's farewellWhilst the departing prime minister no doubt intended his final words from the despatch boxto echo those of Arnold Schwarzeneggerin the film Terminator, referring to YouTube will reveal that in fact the first time “Hasta la vista, baby” was heard on screen was in 1970 when they were spoken to Raquel Welch by Bob Hope.Only time will tell into which role, either that of super-macho Arnie or that of super-comic Bob, history will place Boris Johnson.Colin BurkeCumbria",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.017917192071486437,
+            "class_probabilities": {
+                "human": 0.9820828079285135,
+                "ai": 0.017917192071486437,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9820828079285135,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.017917192071486437,
+                    "human": 0.9820828079285135,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukIt’s typical of the Tory party thatPriti Patelreacts to protests bycriminalising the protesters, instead of listening to and acting upon their concerns.Surely something as serious as the climate crisis is the most pressing emergency and requires urgent and immediate attention. But our government has decided that it will go missing while the election for a new PM takes precedence.Kit Malthouse explainsthat Britain will have to wait for government action and, until the election is concluded, Britain will have to burn.Once again, we have been let down by this second-rate party of out-of-touch nincompoops.Keith PooleBasingstokeTory leadership processThe Conservatives think of themselves as sophisticated and clever. But theirleadership election processis a clumsy palaver: five elections amongst MPs in order to prepare the way for yet another election by a group of self-selected people who are so accountable that no one knows how many will receive ballot papers!If the UK’s ruling party wants to be taken seriously by people who believe in democracy, not only in Britain but worldwide, it would change the process of choosing a leader and, in this case, a prime minister.Even if the electorate as a whole had no say in that choice, at least the charade of the last few weeks could be avoided by adopting a transferable voting system as a means of whittling down the candidature.And we’ve still got a further six weeks of backbiting and infighting before this ludicrous procedure is settled! No wonder there is disillusionment with politics and politicians.Ian ReidKilnwick, YorkshireTrack record of deliveryI had been thinking that pretty well anyone as prime minister would be an improvement onBoris Johnson.But it now seems that there’s a distinct possibility it will be the right-wing tax-cutting “delivering” (but not delivering anything worthwhile) Liz Truss.  Oh dear, oh dear.But perhaps the silver lining is that she might make her party unelectable.Susan AlexanderSouth GloucestershireFour day weekIn her article on flexible working practices, Hannah Fearn mentions a pilot scheme where employees work a four-day week with no loss of pay. Early indications are that no drop in productivity occurred and the workforce morale improved.In 1942, C Northcote Parkinson (of One Upmanship fame) proposed Parkinson’s law, which states that “work expands so as to fill the time available for its completion”.It would seem he was correct, although he was suggesting that work was stretched to fill the working week rather than compressed, as in the pilot scheme.Patrick ClearyGloucestershireTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereBoris Johnson’s farewellWhilst the departing prime minister no doubt intended his final words from the despatch boxto echo those of Arnold Schwarzeneggerin the film Terminator, referring to YouTube will reveal that in fact the first time “Hasta la vista, baby” was heard on screen was in 1970 when they were spoken to Raquel Welch by Bob Hope.Only time will tell into which role, either that of super-macho Arnie or that of super-comic Bob, history will place Boris Johnson.Colin BurkeCumbria"
+        }
+    ]
+}

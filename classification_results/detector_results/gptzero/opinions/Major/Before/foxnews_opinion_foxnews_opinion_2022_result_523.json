@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0014686533249914646,
+                    "sentence": "Mutual Fund and ETF data provided byRefinitiv Lipper.Fox News contributor Joe Concha reacts to Twitter allowing the hacked materials of those who donated to the Canadian trucker convoy.This article is adapted from Joe Concha's video commentary.Twitterbreaks its own rules again!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010094119934365153,
+                    "sentence": "This time for allowing thehacked materialsof ordinary citizens to go public.When we talk aboutjournalismmorphing into outright activism in broad daylight if you're teaching a class, this situation should sit at the top of the syllabus as Exhibit A.Because here we have a simple situation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001035188091918826,
+                    "sentence": "There are some folks out there sympathetic to thetruckersprotestingvaccinemandates inCanada'scapital city of Ottawa.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011347400723025203,
+                    "sentence": "So they donated what they could.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009357552626170218,
+                    "sentence": "Some more than others.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011059121461585164,
+                    "sentence": "That's how charity works.JOE CONCHA: JEFF ZUCKER'S CNN EXIT LEAVES MORE QUESTIONS THAN ANSWERSBut here you have reporters, most notably Aaron Davis of the Washington Post, using hacked materials to place those who donated to the truckers into the public domain.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001512372400611639,
+                    "sentence": "That's something called doxing, and the newspaper that piously has a slogan that declares \"democracy dies in darkness\" is allowing this to happen, along with Twitter, which is arbitrarily selective when it comes to enforcing its own rules.A protester affixes a flag to the top of a truck, parked beside another with a sign calling for the jailing of Prime Minister Justin Trudeau on Feb. 7, 2022(Justin Tang/The Canadian Press via AP)Now there are reports that The Washington Post is contacting those who donated less than $50 to the truckers to ask them why they would do such a thing.Does that sound like journalism to you?Remember, Twitter blocked sharing theHunter Biden laptop storythat was broken by the New York Post shortly before the 2020 presidential election, and even locked the newspaper's account.But now the company is perfectly fine with doxing donors to the trucker protests.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016063626389950514,
+                    "sentence": "The company's new interim CEO meanwhile not available for comment.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009463627357035875,
+                    "sentence": "He's taking paternity leave \"for a few weeks.\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0031340974383056164,
+                    "sentence": "That's nice.So Twitter is now taking the side of the Canadian government andJustin Trudeau.He's the leader that recently said that any conservatives in his government, including those who are Jewish who support the truckers, are on the side of Nazis.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00455216970294714,
+                    "sentence": "Makes sense right?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010510437190532684,
+                    "sentence": "Bang-up job, everyone.It's another reason the credibility of the media and Big Tech is going down the toilet.Joe Concha is a FOX News contributor who joined the network in 2020.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.10954158008098602,
+                    "sentence": "His latest book is \"Progressively Worse: Why Today's Democrats Ain't Your Daddy's Donkeys\" (Broadside Books, July 30, 2024).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.024461651786716186,
+            "class_probabilities": {
+                "human": 0.9754981327244504,
+                "ai": 0.024461651786716186,
+                "mixed": 4.0215488833363626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9754981327244504,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024461651786716186,
+                    "human": 0.9754981327244504,
+                    "mixed": 4.0215488833363626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Mutual Fund and ETF data provided byRefinitiv Lipper.Fox News contributor Joe Concha reacts to Twitter allowing the hacked materials of those who donated to the Canadian trucker convoy.This article is adapted from Joe Concha's video commentary.Twitterbreaks its own rules again! This time for allowing thehacked materialsof ordinary citizens to go public.When we talk aboutjournalismmorphing into outright activism in broad daylight if you’re teaching a class, this situation should sit at the top of the syllabus as Exhibit A.Because here we have a simple situation. There are some folks out there sympathetic to thetruckersprotestingvaccinemandates inCanada'scapital city of Ottawa. So they donated what they could. Some more than others. That’s how charity works.JOE CONCHA: JEFF ZUCKER'S CNN EXIT LEAVES MORE QUESTIONS THAN ANSWERSBut here you have reporters, most notably Aaron Davis of the Washington Post, using hacked materials to place those who donated to the truckers into the public domain. That’s something called doxing, and the newspaper that piously has a slogan that declares \"democracy dies in darkness\" is allowing this to happen, along with Twitter, which is arbitrarily selective when it comes to enforcing its own rules.A protester affixes a flag to the top of a truck, parked beside another with a sign calling for the jailing of Prime Minister Justin Trudeau on Feb. 7, 2022(Justin Tang/The Canadian Press via AP)Now there are reports that The Washington Post is contacting those who donated less than $50 to the truckers to ask them why they would do such a thing.Does that sound like journalism to you?Remember, Twitter blocked sharing theHunter Biden laptop storythat was broken by the New York Post shortly before the 2020 presidential election, and even locked the newspaper's account.But now the company is perfectly fine with doxing donors to the trucker protests. The company’s new interim CEO meanwhile not available for comment. He’s taking paternity leave \"for a few weeks.\" That’s nice.So Twitter is now taking the side of the Canadian government andJustin Trudeau.He’s the leader that recently said that any conservatives in his government, including those who are Jewish who support the truckers, are on the side of Nazis. Makes sense right? Bang-up job, everyone.It's another reason the credibility of the media and Big Tech is going down the toilet.Joe Concha is a FOX News contributor who joined the network in 2020. His latest book is \"Progressively Worse: Why Today's Democrats Ain't Your Daddy's Donkeys\" (Broadside Books, July 30, 2024)."
+        }
+    ]
+}

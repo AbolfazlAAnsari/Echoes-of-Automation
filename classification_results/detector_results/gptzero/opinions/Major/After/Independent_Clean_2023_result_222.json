@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00014363763330038637,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015695203910581768,
+                    "sentence": "Please send your letters toletters@independent.co.ukFirst theRwandafarce, now thebarge story.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011589154019020498,
+                    "sentence": "One wonders if Rishi Sunak and Suella Braverman would even be able to organise the proverbial party in a brewery.Of course, this is no joking matter.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.094241300364956e-05,
+                    "sentence": "A government that is trying to dig itself out of political trouble by playing on xenophobic, anti-immigrant feelings needs to try to start behaving ethically.There is clearly an issue with thesmall boats' arrivals.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.9175185015192255e-05,
+                    "sentence": "What should be done is for the government to construct, in conversation with immigrant representatives, a safe, purpose-built hostel where the incomers can live in a decent, peaceable environment until their future is determined.Andrew McLuskeyAddress suppliedThe cost of compassion?I guess we have all become pretty numbed by the eye-watering sums of money being spent on temporary (hotel) accommodation provided for asylum seekers.Just to round things off, could we have a figure for all their legal costs, as attempts to provide accommodation are so frequently being challenged?Ian WingfieldDerbyshireWhen it comes to Labour, the key is patienceAndrew Grice isright in sayingthat the radical reforms that any Labour government needs to enact after the last 13 years of Tory misrule should emerge in the party's manifesto and not before.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.138168439269066e-05,
+                    "sentence": "Labour supporters need to be patient.There have been just five Labour prime ministers in my lifetime, all of whom have recognised that the changes needed in our society can only take place by gradually persuading a fundamentally conservative electorate to trust them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.798783528618515e-05,
+                    "sentence": "They failed when that trust was lost.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.602264279033989e-05,
+                    "sentence": "In 2019, Jeremy Corbyn's wide-ranging manifesto commitments were too much for the British public, who rejected him in favour of the vacuous rhetoric of Boris Johnson.Keir Starmer is right to be as cautious and “prudent” as his predecessors; the most important thing for Labour is to secure a big enough majority so that they can be more than a one-term government; able to enact the root and branch changes that need to take place for the benefit of all our people.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04729725793004036,
+                    "sentence": "He has to be sure-footed if he is to avoid the traps that a Tory party, in lieu of any compelling vision of its own, are laying for him over the economy and the cynical “culture wars” - both of which will be more apparent in the months ahead.The one thing we should be expecting from Starmer between now and the election is a clear and unambiguous statement of the values and commitments that inform the affordable priorities for action that will appeal to the majority of voters who, in the end, want a secure future for their children's children.Graham PowellCirencesterHow many is too many?There is no more important controversy at present than that overasylum policy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0779818445444107,
+                    "sentence": "Yet nobody seems to raise the most important question of all: how many refugees can the UK take per year?Robert EdwardsEssex",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukFirst theRwandafarce, now thebarge story.  One wonders if Rishi Sunak and Suella Braverman would even be able to organise the proverbial party in a brewery.Of course, this is no joking matter. A government that is trying to dig itself out of political trouble by playing on xenophobic, anti-immigrant feelings needs to try to start behaving ethically.There is clearly an issue with thesmall boats’ arrivals. What should be done is for the government to construct, in conversation with immigrant representatives, a safe, purpose-built hostel where the incomers can live in a decent, peaceable environment until their future is determined.Andrew McLuskeyAddress suppliedThe cost of compassion?I guess we have all become pretty numbed by the eye-watering sums of money being spent on temporary (hotel) accommodation provided for asylum seekers.Just to round things off, could we have a figure for all their legal costs, as attempts to provide accommodation are so frequently being challenged?Ian WingfieldDerbyshireWhen it comes to Labour, the key is patienceAndrew Grice isright in sayingthat the radical reforms that any Labour government needs to enact after the last 13 years of Tory misrule should emerge in the party’s manifesto and not before. Labour supporters need to be patient.There have been just five Labour prime ministers in my lifetime, all of whom have recognised that the changes needed in our society can only take place by gradually persuading a fundamentally conservative electorate to trust them. They failed when that trust was lost. In 2019, Jeremy Corbyn’s wide-ranging manifesto commitments were too much for the British public, who rejected him in favour of the vacuous rhetoric of Boris Johnson.Keir Starmer is right to be as cautious and “prudent” as his predecessors; the most important thing for Labour is to secure a big enough majority so that they can be more than a one-term government; able to enact the root and branch changes that need to take place for the benefit of all our people. He has to be sure-footed if he is to avoid the traps that a Tory party, in lieu of any compelling vision of its own, are laying for him over the economy and the cynical “culture wars” – both of which will be more apparent in the months ahead.The one thing we should be expecting from Starmer between now and the election is a clear and unambiguous statement of the values and commitments that inform the affordable priorities for action that will appeal to the majority of voters who, in the end, want a secure future for their children’s children.Graham PowellCirencesterHow many is too many?There is no more important controversy at present than that overasylum policy.  Yet nobody seems to raise the most important question of all: how many refugees can the UK take per year?Robert EdwardsEssex"
+        }
+    ]
+}

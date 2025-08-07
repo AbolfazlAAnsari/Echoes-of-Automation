@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 2.882136141124647e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.2882082703290507e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukI readRachel Reeves's recent column for International Women's Daywith interest, and felt she made a plausible case for a femalechancellorto oversee a necessary change in our economic fortunes.I was pleased to read that she is flying the fiscal flag forwomenwho, as she rightly states, are often at the bottom of the food chain and deserve far better.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.9906969100702554e-05,
+                    "sentence": "As a pragmatic woman too, she is under no illusions as to what the poisoned economic chalice will be if Labour does win the next election.Being the first woman chancellor is indeed a heavyweight role and, withReeves's economic credentials, one she would be a perfect fit for.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.1378687961259857e-05,
+                    "sentence": "Hopefully, she can aspire to this position in the midst of this all-consuming government complacency.So bring it on - and the sooner the better - before this country and its beleaguered public services sink completely.Judith A DanielsAddress suppliedMedia-literate young people?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.656672222656198e-05,
+                    "sentence": "That's fake newsIt was concerning to read inAlan Rusbridger's recent articleregarding the “epidemic” of fake news that “the News Literacy Trust has found that only 2 per cent of children have the skills they need to identify misinformation and that half of teachers believe that children are not equipped to identity fake news”.However, it is far more concerning that this implies that the other half of our teachers (who should know better) believe that children areequipped to identify fake news, despite all the evidence to the contrary.Phil WhitneyAddress suppliedEconomics isn't an exact scienceI believe it was Richard Feynman who said anyone who claims to understand quantum theory doesn't actually understand it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.5160616132779978e-05,
+                    "sentence": "However, I feel the same can be said of economics, with its many and diverse adherents.To give just one recent example, the Labour Party is concerned that the Tories havestolen its idea of taxing non-domsas if somehow this potential income has disappeared.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.029815161426086e-05,
+                    "sentence": "Surely (to use another science analogy) there is an equivalent conservation principle at work here - the money, like energy, can't disappear.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.027892395853996277,
+                    "sentence": "It's just somewhere else, or in a different form, and will be available to a future government as it is for the current one.G ForwardStirlingIt is time to salute women who bear the burden of men's conflictsHats off to The Independent for emphasising the fact thatInternational Women's Day is a cause for celebrationand a call to action.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.024608943611383438,
+                    "sentence": "It is an annual opportunity to pay homage to the tremendous achievements made by women - and to face up to some uncomfortable truths.It is time to salute women whodisproportionately shoulder the burdenof environmental injustice, climate change, inequities, wars and armed conflicts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02761232852935791,
+                    "sentence": "In war and climate-stricken places like Gaza, Libya and Ukraine, women and girls have shown unflinching strength, resilience and selfless spirits in the face of adversities.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.024353627115488052,
+                    "sentence": "It is therefore a ripe time to recommit ourselves to advancing women's rights not only here in theUK, but across the world too.Dr Munjed Farid Al QutobLondon",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.017917192071486437,
+            "class_probabilities": {
+                "human": 0.9820828079285135,
+                "ai": 0.017917192071486437,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9820828079285135,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.017917192071486437,
+                    "human": 0.9820828079285135,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI readRachel Reeves’s recent column for International Women’s Daywith interest, and felt she made a plausible case for a femalechancellorto oversee a necessary change in our economic fortunes.I was pleased to read that she is flying the fiscal flag forwomenwho, as she rightly states, are often at the bottom of the food chain and deserve far better. As a pragmatic woman too, she is under no illusions as to what the poisoned economic chalice will be if Labour does win the next election.Being the first woman chancellor is indeed a heavyweight role and, withReeves’s economic credentials, one she would be a perfect fit for. Hopefully, she can aspire to this position in the midst of this all-consuming government complacency.So bring it on – and the sooner the better – before this country and its beleaguered public services sink completely.Judith A DanielsAddress suppliedMedia-literate young people? That’s fake newsIt was concerning to read inAlan Rusbridger’s recent articleregarding the “epidemic” of fake news that “the News Literacy Trust has found that only 2 per cent of children have the skills they need to identify misinformation and that half of teachers believe that children are not equipped to identity fake news”.However, it is far more concerning that this implies that the other half of our teachers (who should know better) believe that children areequipped to identify fake news, despite all the evidence to the contrary.Phil WhitneyAddress suppliedEconomics isn’t an exact scienceI believe it was Richard Feynman who said anyone who claims to understand quantum theory doesn’t actually understand it. However, I feel the same can be said of economics, with its many and diverse adherents.To give just one recent example, the Labour Party is concerned that the Tories havestolen its idea of taxing non-domsas if somehow this potential income has disappeared. Surely (to use another science analogy) there is an equivalent conservation principle at work here – the money, like energy, can’t disappear. It’s just somewhere else, or in a different form, and will be available to a future government as it is for the current one.G ForwardStirlingIt is time to salute women who bear the burden of men’s conflictsHats off to The Independent for emphasising the fact thatInternational Women’s Day is a cause for celebrationand a call to action. It is an annual opportunity to pay homage to the tremendous achievements made by women – and to face up to some uncomfortable truths.It is time to salute women whodisproportionately shoulder the burdenof environmental injustice, climate change, inequities, wars and armed conflicts. In war and climate-stricken places like Gaza, Libya and Ukraine, women and girls have shown unflinching strength, resilience and selfless spirits in the face of adversities. It is therefore a ripe time to recommit ourselves to advancing women’s rights not only here in theUK, but across the world too.Dr Munjed Farid Al QutobLondon"
+        }
+    ]
+}

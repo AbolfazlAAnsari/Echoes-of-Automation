@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.002332834992557764,
+                    "sentence": "Please send your letters toletters@independent.co.ukIt is wonderful to see mixed-gender races in theOlympic Games.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0034806616604328156,
+                    "sentence": "What took the International Olympic Committee (IOC) so long?It would be great if the IOC explored mixed gender competition across all disciplines.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0036625356879085302,
+                    "sentence": "Perhaps James Moore could provide criteria for the Committee to work with?Simon FisherSellindgeJames Mooremakes observantcomments about the reaction to the new mixed relays in theOlympics, but will the Olympics go further and introduce mixed team events?In some team sports with an odd number of players on each side, one player could be added or removed depending on the size of the playing area.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0030811764299869537,
+                    "sentence": "Would this not potentially increase participation, which would generate more income for each team sport?Kartar UppalSutton ColdfieldParalympic prepThe 2020 Olympics are over, and they have been a great example of what fellowship can achieve, even though they should have been cancelled due to theCovid-19pandemic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0054891579784452915,
+                    "sentence": "There have been some great performances and numerous records broken but the highlight of the two weeks was surely the joint gold result in the high jump of Italy's Gianmarco Tamberi and Mutaz Barshim of Qatar.They could have continued on until there was a single winner but their decision to share the victory rather than depriving the other person showed an attitude that the world needs to see more of.So many of the world's countries are battling Covid and, although many are sharing resources, some are still in dire circumstances.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004544489085674286,
+                    "sentence": "This is one time when we need to be one world and earn our gold prize of freedom from the epidemic.The Paralympics running in a couple of weeks should also provide many inspiring results.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0037266542203724384,
+                    "sentence": "Look for the good that these examples can provide.Dennis FitzgeraldMelbourneEssence of EnglandArchbishop Stephen Cottrell calls for a rethink of what it means to be English.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01014374103397131,
+                    "sentence": "While we can sympathise with his call for recognition of those who sense they are undervalued by the \"metropolitan elite\" and, thus, left behind, one problem of promoting narrow sub-nationalism is that it further weakens the unity of the Kingdom.The answer lies not so much in setting up more regional assemblies but in moving the seat of government away from the commercial centre of London, locating it northwards and, incidentally, justifying the current expenditure on fast ground-based transport infrastructure such as HS2.Ian ReidKilnwickYou say \"let those of us who live in England be proud to be English\" in youreditorial.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010315600782632828,
+                    "sentence": "I have lived in England since 1977, and I did become British in 2016, but I have never felt English, and the English have never encouraged me to, either personally or by national example.I conclude that one is English by birth, or not at all and never.Rachael PadmanNewmarketClimate issuesIt would appear that the government are determined to undermine their commitment to slowingclimatechange on every possible occasion.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.016894858330488205,
+                    "sentence": "Boris Johnsonsayingwe \"can't just tear up contracts\" over more oil set to be pumped from the North Sea, Allegra Strattonrejectingelectric vehicles, Alok Sharma saying \"we are on the brink\" but continuing to fly around the world and a complete lack of concrete actions to reduce carbon emissions.It would seem that the UK will hardly be seen as setting a good example at Cop26 when scientists are confirming that we are drinking at the last chance saloon if complete climate disaster is to be averted.David FeltonWistastonRead MoreWhy is Russia banned from the Olympics and what is ROC?EOR Olympic team: What does it stand for and how is it formed?How much do Olympic athletes win for gold, silver and bronze medals?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.024461651786716186,
+            "class_probabilities": {
+                "human": 0.9754981327244504,
+                "ai": 0.024461651786716186,
+                "mixed": 4.0215488833363626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9754981327244504,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024461651786716186,
+                    "human": 0.9754981327244504,
+                    "mixed": 4.0215488833363626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukIt is wonderful to see mixed-gender races in theOlympic Games.  What took the International Olympic Committee (IOC) so long?It would be great if the IOC explored mixed gender competition across all disciplines. Perhaps James Moore could provide criteria for the Committee to work with?Simon FisherSellindgeJames Mooremakes observantcomments about the reaction to the new mixed relays in theOlympics, but will the Olympics go further and introduce mixed team events?In some team sports with an odd number of players on each side, one player could be added or removed depending on the size of the playing area. Would this not potentially increase participation, which would generate more income for each team sport?Kartar UppalSutton ColdfieldParalympic prepThe 2020 Olympics are over, and they have been a great example of what fellowship can achieve, even though they should have been cancelled due to theCovid-19pandemic. There have been some great performances and numerous records broken but the highlight of the two weeks was surely the joint gold result in the high jump of Italy's Gianmarco Tamberi and Mutaz Barshim of Qatar.They could have continued on until there was a single winner but their decision to share the victory rather than depriving the other person showed an attitude that the world needs to see more of.So many of the world's countries are battling Covid and, although many are sharing resources, some are still in dire circumstances. This is one time when we need to be one world and earn our gold prize of freedom from the epidemic.The Paralympics running in a couple of weeks should also provide many inspiring results. Look for the good that these examples can provide.Dennis FitzgeraldMelbourneEssence of EnglandArchbishop Stephen Cottrell calls for a rethink of what it means to be English. While we can sympathise with his call for recognition of those who sense they are undervalued by the \"metropolitan elite\" and, thus, left behind, one problem of promoting narrow sub-nationalism is that it further weakens the unity of the Kingdom.The answer lies not so much in setting up more regional assemblies but in moving the seat of government away from the commercial centre of London, locating it northwards and, incidentally, justifying the current expenditure on fast ground-based transport infrastructure such as HS2.Ian ReidKilnwickYou say \"let those of us who live in England be proud to be English\" in youreditorial.  I have lived in England since 1977, and I did become British in 2016, but I have never felt English, and the English have never encouraged me to, either personally or by national example.I conclude that one is English by birth, or not at all and never.Rachael PadmanNewmarketClimate issuesIt would appear that the government are determined to undermine their commitment to slowingclimatechange on every possible occasion. Boris Johnsonsayingwe \"can't just tear up contracts\" over more oil set to be pumped from the North Sea, Allegra Strattonrejectingelectric vehicles, Alok Sharma saying \"we are on the brink\" but continuing to fly around the world and a complete lack of concrete actions to reduce carbon emissions.It would seem that the UK will hardly be seen as setting a good example at Cop26 when scientists are confirming that we are drinking at the last chance saloon if complete climate disaster is to be averted.David FeltonWistastonRead MoreWhy is Russia banned from the Olympics and what is ROC?EOR Olympic team: What does it stand for and how is it formed?How much do Olympic athletes win for gold, silver and bronze medals?"
+        }
+    ]
+}

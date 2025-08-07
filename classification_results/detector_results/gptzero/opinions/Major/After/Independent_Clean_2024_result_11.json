@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0015511850360780954,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010715986136347055,
+                    "sentence": "Please send your letters toletters@independent.co.ukAlan Rusbridger is correct -attention spans aren't what they used to be.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009228047565557063,
+                    "sentence": "We are surrounded with more distractions and interactions than would floor even the most agile of minds.I blame 24-hournews coverage.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007883039070293307,
+                    "sentence": "We are bombarded by the same reporting continuously, and I myself am guilty of being unable to tear myself away from it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010194231290370226,
+                    "sentence": "I remember admonishing my late father for his dedication to its output, and I have inherited this gene in abundance, so apologies Dad.But it is so interesting that the seminal drama Mr Bates vs The Post Office should have captured theattentionof so many news avoiders, and indeed swayed the government.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010410916293039918,
+                    "sentence": "But Mr Rusbridger is right - thejournalistsand programmes behind this scandal all contributed to this overdue denouement, and shouldn't be discounted.So yes, short-term distraction is a plague we might all suffer from to a degree, but when our attention is really required, it is still there for the taking down of large corporate bodies, who treat men and women with unforgiveable disdain and institutional cruelty.Judith A DanielsNorfolkThe government must spend more on social creditI might be in my 80s now, but my memory is still working well.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002291546668857336,
+                    "sentence": "Reading Rachel Dodgson's letter - “Social care needs bolder policies” - I remember a move by the government not that long ago to increase national insurance contributions to help fund social care.This has obviously been forgotten by the same government (and most of the media), as they now cut these contributions to help their election chances, instead of spending on social credit.Bob SampsonWest SussexA new start for the Post Office?The stories of theBritish Post Officesubpostmasters wrongly accused of fraud and theft are disheartening.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002763219876214862,
+                    "sentence": "No private company would survive the public outcry following such a scandal.Likewise, the Post Office may ought to start afresh to erase the stain of the Horizon scandal.Bambos CharalambousManchesterI'm already sick of electionsIs it just me, or has the next cycle of endless electioneering already become beyond tedious?Not only do we have our own battle of the clones here in the UK, but over in America they're doing a sequel!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0027315355837345123,
+                    "sentence": "And like most sequels, I expect it will fail to live up to the standard set by the first, and have a much less satisfying ending.I shudder at the thought of spending 2024 being bombarded by unending campaigning in every single facet of my life.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002240312285721302,
+                    "sentence": "Although, I suppose it's better to have annoying elections than none at all...Stephen BloomAddress supplied",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.020660391318316405,
+            "class_probabilities": {
+                "human": 0.9793396086816837,
+                "ai": 0.020660391318316405,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9793396086816837,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020660391318316405,
+                    "human": 0.9793396086816837,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukAlan Rusbridger is correct –attention spans aren’t what they used to be.  We are surrounded with more distractions and interactions than would floor even the most agile of minds.I blame 24-hournews coverage.  We are bombarded by the same reporting continuously, and I myself am guilty of being unable to tear myself away from it. I remember admonishing my late father for his dedication to its output, and I have inherited this gene in abundance, so apologies Dad.But it is so interesting that the seminal drama Mr Bates vs The Post Office should have captured theattentionof so many news avoiders, and indeed swayed the government. But Mr Rusbridger is right – thejournalistsand programmes behind this scandal all contributed to this overdue denouement, and shouldn’t be discounted.So yes, short-term distraction is a plague we might all suffer from to a degree, but when our attention is really required, it is still there for the taking down of large corporate bodies, who treat men and women with unforgiveable disdain and institutional cruelty.Judith A DanielsNorfolkThe government must spend more on social creditI might be in my 80s now, but my memory is still working well. Reading Rachel Dodgson’s letter – “Social care needs bolder policies” – I remember a move by the government not that long ago to increase national insurance contributions to help fund social care.This has obviously been forgotten by the same government (and most of the media), as they now cut these contributions to help their election chances, instead of spending on social credit.Bob SampsonWest SussexA new start for the Post Office?The stories of theBritish Post Officesubpostmasters wrongly accused of fraud and theft are disheartening. No private company would survive the public outcry following such a scandal.Likewise, the Post Office may ought to start afresh to erase the stain of the Horizon scandal.Bambos CharalambousManchesterI’m already sick of electionsIs it just me, or has the next cycle of endless electioneering already become beyond tedious?Not only do we have our own battle of the clones here in the UK, but over in America they’re doing a sequel! And like most sequels, I expect it will fail to live up to the standard set by the first, and have a much less satisfying ending.I shudder at the thought of spending 2024 being bombarded by unending campaigning in every single facet of my life. Although, I suppose it’s better to have annoying elections than none at all...Stephen BloomAddress supplied"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 4.93127154186368e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.000939927413128e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukRecently we sawthe PopCon launch.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.904373417957686e-05,
+                    "sentence": "Despite a few hard-hitting speeches, there were more questions about who wasn't there, than who was there.Hence no Simon Clarke,no Kwasi Kwarteng, and no Ranil Jayawardena.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.451458127936348e-05,
+                    "sentence": "But at least former Brexit Party leader Nigel Farage was there.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.28974414919503e-05,
+                    "sentence": "You reallycouldn't make it up.Yet what raised my suspicions more was the fundraising efforts made at the event.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.2415842472109944e-05,
+                    "sentence": "What could they be raising the money for, one wonders?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.720005381386727e-05,
+                    "sentence": "Surely not to fund another plot - or even another leadership contest?Geoffrey BrookingHavantCarry on LizLiz Trussmay have already distorted the Conservative Party single-handedly, but she has now tossedanother hand grenade into the potwith her outlandish formation of the so-called “Popular Conservatism” faction.No wonder theLabour Partyis rubbing their hands in astonished appreciation forthe assistance Truss is providingthem with.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.189666550606489e-05,
+                    "sentence": "The people of the UK have suffered over the last 14 years with hardship and heartache, and all the Tory Party has to offer is self-righteousegos and infightingthat beggars belief.Paul AtkinsBurntwoodA broken marriageListening toRishi Sunak's plethora of pointless pledges, promises and plans, you could be forgiven for thinking the Tories hadn't been in power for the last 14 years (or 31 out of the last 44).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001089210156351328,
+                    "sentence": "You could be excused if you got the impression that the mess the country is in, is to do with some mysterious outside force beyond their control.The latest offerings - from improved dental provisions to promises to shore up the crumbling (literal and psychological) state school sector -have the tone of a husbandwho's been told the marriage is over and then rushes out to the local petrol station and hurries home with wilted, battered, week-old kiosk flowers…Amanda BakerEdinburghWill I live to see our country fit again?When thegeneral electioncomes at last, at the top of my mind will be the wreck that our countryhas become; the NHS, public infrastructure, decimated local government services, the neglect of our armed services and more.I'm currently a member of the Labour Party, but I won't be voting for them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007442288333550096,
+                    "sentence": "I'llvote tactically for whoeverhas the best shot against the Conservative candidate in my constituency.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011717393063008785,
+                    "sentence": "Then, I'll be looking to support whoever has the talent and personality to oustKeir Starmerand give us a glimmer of hope so that we can repair our wrecked country.I'm 77.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005085235461592674,
+                    "sentence": "Will I survive to see our country fit to live in again?Philip ProbertColwall",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW : Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukRecently we sawthe PopCon launch.  Despite a few hard-hitting speeches, there were more questions about who wasn’t there, than who was there.Hence no Simon Clarke,no Kwasi Kwarteng, and no Ranil Jayawardena. But at least former Brexit Party leader Nigel Farage was there. You reallycouldn’t make it up.Yet what raised my suspicions more was the fundraising efforts made at the event. What could they be raising the money for, one wonders? Surely not to fund another plot – or even another leadership contest?Geoffrey BrookingHavantCarry on LizLiz Trussmay have already distorted the Conservative Party single-handedly, but she has now tossedanother hand grenade into the potwith her outlandish formation of the so-called “Popular Conservatism” faction.No wonder theLabour Partyis rubbing their hands in astonished appreciation forthe assistance Truss is providingthem with. The people of the UK have suffered over the last 14 years with hardship and heartache, and all the Tory Party has to offer is self-righteousegos and infightingthat beggars belief.Paul AtkinsBurntwoodA broken marriageListening toRishi Sunak’s plethora of pointless pledges, promises and plans, you could be forgiven for thinking the Tories hadn’t been in power for the last 14 years (or 31 out of the last 44). You could be excused if you got the impression that the mess the country is in, is to do with some mysterious outside force beyond their control.The latest offerings – from improved dental provisions to promises to shore up the crumbling (literal and psychological) state school sector –have the tone of a husbandwho’s been told the marriage is over and then rushes out to the local petrol station and hurries home with wilted, battered, week-old kiosk flowers…Amanda BakerEdinburghWill I live to see our country fit again?When thegeneral electioncomes at last, at the top of my mind will be the wreck that our countryhas become; the NHS, public infrastructure, decimated local government services, the neglect of our armed services and more.I’m currently a member of the Labour Party, but I won’t be voting for them. I’llvote tactically for whoeverhas the best shot against the Conservative candidate in my constituency. Then, I’ll be looking to support whoever has the talent and personality to oustKeir Starmerand give us a glimmer of hope so that we can repair our wrecked country.I’m 77. Will I survive to see our country fit to live in again?Philip ProbertColwall"
+        }
+    ]
+}

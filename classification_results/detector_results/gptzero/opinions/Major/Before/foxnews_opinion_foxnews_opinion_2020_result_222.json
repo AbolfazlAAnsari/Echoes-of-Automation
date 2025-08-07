@@ -1,0 +1,154 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00024532544193789363,
+                    "sentence": "DuringHispanic Heritage Month, we recognize the incredible contributions that Hispanics have made to this great nation.From cabinet and congressional members tosportsfigures, we have helped to shape America.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002860139065887779,
+                    "sentence": "We know that freedom and opportunity are the driving force for our communities.As the daughter of aCuban immigrant, I am eternally grateful for living and having the opportunity to raise my children in America but recognize that our freedoms are fragile and should always be protected.SEN.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00042882218258455396,
+                    "sentence": "TED CRUZ: AFTER GINSBURG -- 3 REASONS WHY SENATE MUST CONFIRM HER SUCCESSOR BEFORE ELECTION DAYI learned that lesson at a young age when my father, Jose, lost his freedoms because he stood and fought against the Cuban dictatorship.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00025521297357045114,
+                    "sentence": "To escape the oppression, he came to America and taught his children what makes America great.President Donald J. Trump understands the fight for defending our freedoms: economic and educational freedoms.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003554981085471809,
+                    "sentence": "It's why the president's policies are working to help uplift Hispanics.August marked the fourth-largest jobs gain in American history; 1.4 million jobs were added back to the economy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00039874331559985876,
+                    "sentence": "This marks the fourth month of continuous job gains after the worst of COVID-19.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004703079757746309,
+                    "sentence": "A total of 10.6 million jobs have come back.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003897871356457472,
+                    "sentence": "Hispanic unemployment dropped 2.4% and we are on track to get back to a historic low like we were back in October 2019.It's fitting that Hispanic Heritage Month falls so closely to Election Day.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005016152281314135,
+                    "sentence": "A record number of Latinos will be eligible to vote this year, and our communities are faced with two competing ideologies.Democratic presidential nominee Joe Biden has surrendered to the wishes and hardline demands of an unhinged radical left.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000553773483261466,
+                    "sentence": "The former vice president has adopted the radical policies that have destroyed countries like Cuba and Venezuela.Even worse, his running Sen. Kamala Harris, D-Calif., is only further affirmation of this extreme, anti-Hispanic party.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005194352706894279,
+                    "sentence": "Their big-government policies would ban fracking, eliminate private health insurance and raise taxes on households.Under President Trump, the Latino community has experienced historic gains.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004542450187727809,
+                    "sentence": "Far more than anything witnessed under career politicians like Biden.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005256985314190388,
+                    "sentence": "The president will also champion school choice, which would empower Hispanic students.Hispanic unemployment reached a record low, tax cuts put more money in the pockets of hardworking families, and we were opening businesses at a higher rate than any other group in the country.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007653697393834591,
+                    "sentence": "Resources like the Paycheck Protection Program have saved millions of small businesses and households, and now the Great American Comeback is underway.Results versus rhetoric.This month is a time to honor the rich culture and traditions of the Hispanic community that Make America Great.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001357545144855976,
+                    "sentence": "As a first-generation Cuban American, I know that our story is just beginning, and the best is yet to come under President Trump's leadership.BY MERCEDES SCHLAPP",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 15,
+                    "completely_generated_prob": 2.5938383721896624e-13
+                }
+            ],
+            "completely_generated_prob": 0.008764888981516596,
+            "class_probabilities": {
+                "human": 0.9912351110184834,
+                "ai": 0.008764888981516596,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9912351110184834,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.008764888981516596,
+                    "human": 0.9912351110184834,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       DuringHispanic Heritage Month, we recognize the incredible contributions that Hispanics have made to this great nation.From cabinet and congressional members tosportsfigures, we have helped to shape America. We know that freedom and opportunity are the driving force for our communities.As the daughter of aCuban immigrant, I am eternally grateful for living and having the opportunity to raise my children in America but recognize that our freedoms are fragile and should always be protected.SEN. TED CRUZ: AFTER GINSBURG -- 3 REASONS WHY SENATE MUST CONFIRM HER SUCCESSOR BEFORE ELECTION DAYI learned that lesson at a young age when my father, Jose, lost his freedoms because he stood and fought against the Cuban dictatorship.  To escape the oppression, he came to America and taught his children what makes America great.President Donald J. Trump understands the fight for defending our freedoms: economic and educational freedoms. It’s why the president’s policies are working to help uplift Hispanics.August marked the fourth-largest jobs gain in American history; 1.4 million jobs were added back to the economy. This marks the fourth month of continuous job gains after the worst of COVID-19. A total of 10.6 million jobs have come back. Hispanic unemployment dropped 2.4% and we are on track to get back to a historic low like we were back in October 2019.It’s fitting that Hispanic Heritage Month falls so closely to Election Day. A record number of Latinos will be eligible to vote this year, and our communities are faced with two competing ideologies.Democratic presidential nominee Joe Biden has surrendered to the wishes and hardline demands of an unhinged radical left. The former vice president has adopted the radical policies that have destroyed countries like Cuba and Venezuela.Even worse, his running Sen. Kamala Harris, D-Calif., is only further affirmation of this extreme, anti-Hispanic party. Their big-government policies would ban fracking, eliminate private health insurance and raise taxes on households.Under President Trump, the Latino community has experienced historic gains. Far more than anything witnessed under career politicians like Biden. The president will also champion school choice, which would empower Hispanic students.Hispanic unemployment reached a record low, tax cuts put more money in the pockets of hardworking families, and we were opening businesses at a higher rate than any other group in the country. Resources like the Paycheck Protection Program have saved millions of small businesses and households, and now the Great American Comeback is underway.Results versus rhetoric.This month is a time to honor the rich culture and traditions of the Hispanic community that Make America Great. As a first-generation Cuban American, I know that our story is just beginning, and the best is yet to come under President Trump’s leadership.BY MERCEDES SCHLAPP   "
+        }
+    ]
+}

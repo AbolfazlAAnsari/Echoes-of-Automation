@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0035573658533394337,
+                    "sentence": "Published 5:09 pm Friday, July 28, 2023BySuffolk News-HeraldParticipating in government-sponsored feedback sessions, public hearings and the like can be tedious and time-consuming and less than fulfilling, to the extent that officials are sometimes simply going through the motions and checking the box, so to speak, on citizen input.However, in the case of the call for citizen involvement in plans to build a new crossing from South Hampton Roads to the Peninsula, we hope Suffolk residents are highly engaged.As we reported this week, the Hampton Roads Transportation Planning Organization is hosting a series of open houses specifically for input on the Hampton Roads Harbor crossing.A Suffolk session is planned for Thursday, Aug. 3 at the Virginia Department of Transportation Hampton Roads District Office, 7511 Burbage Drive in North Suffolk.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0077560069039464,
+                    "sentence": "If that one's not convenient for you, other choices are July 31 at Pearl Bailey Library in Newport News; Aug. 1 at First Baptist Church Lambert's Point in  Norfolk; and Aug. 2 at Churchland Branch Library in Portsmouth.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009641014970839024,
+                    "sentence": "All open houses run from 5:30-7:30 p.m.The project team has finalized its proposed recommendations for crossing the harbor, which includes Interstate 664 and the Route 164 connector into Suffolk.These are the final in-person programs on the plans, HRTPO officials said in a news release.During the open houses, area residents can talk with the study team, review proposed transportation recommendations and provide input.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010099777020514011,
+                    "sentence": "There will be a brief presentation at 6 p.m. and 7 p.m. with the same information presented at all four meetings.HRTPO kicked off the Regional Connectors Study in June 2018 with funding from the Hampton Roads Transportation Accountability Commission, according to its website.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.26022541522979736,
+                    "sentence": "The study focuses on Hampton Roads connectivity through the lenses of congestion relief, economic vitality, resiliency, accessibility and quality of life.The regional connectors study builds on the work examined in the Hampton Roads Crossing Study Supplemental Environmental Impact Statement, which includes: Route 164 widening, the I-564 connector, the 164 connector, the I-664 connector and I-664 widening, north of College Drive.Once complete, the regional connectors study will provide a long-term vision for connectivity improvements for the region, with recommendations for segment tiering and further evaluation.In other words, this is important work that will be strengthened by citizen involvement.For more information about the study and open house details, visit connectorstudy.org.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.22823025286197662,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.17116180062294006,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.06633396618935229,
+            "class_probabilities": {
+                "human": 0.9336248632755252,
+                "ai": 0.06633396618935229,
+                "mixed": 4.117053512248776e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9336248632755252,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.06633396618935229,
+                    "human": 0.9336248632755252,
+                    "mixed": 4.117053512248776e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:09 pm Friday, July 28, 2023BySuffolk News-HeraldParticipating in government-sponsored feedback sessions, public hearings and the like can be tedious and time-consuming and less than fulfilling, to the extent that officials are sometimes simply going through the motions and checking the box, so to speak, on citizen input.However, in the case of the call for citizen involvement in plans to build a new crossing from South Hampton Roads to the Peninsula, we hope Suffolk residents are highly engaged.As we reported this week, the Hampton Roads Transportation Planning Organization is hosting a series of open houses specifically for input on the Hampton Roads Harbor crossing.A Suffolk session is planned for Thursday, Aug. 3 at the Virginia Department of Transportation Hampton Roads District Office, 7511 Burbage Drive in North Suffolk. If that one’s not convenient for you, other choices are July 31 at Pearl Bailey Library in Newport News; Aug. 1 at First Baptist Church Lambert’s Point in  Norfolk; and Aug. 2 at Churchland Branch Library in Portsmouth. All open houses run from 5:30–7:30 p.m.The project team has finalized its proposed recommendations for crossing the harbor, which includes Interstate 664 and the Route 164 connector into Suffolk.These are the final in-person programs on the plans, HRTPO officials said in a news release.During the open houses, area residents can talk with the study team, review proposed transportation recommendations and provide input. There will be a brief presentation at 6 p.m. and 7 p.m. with the same information presented at all four meetings.HRTPO kicked off the Regional Connectors Study in June 2018 with funding from the Hampton Roads Transportation Accountability Commission, according to its website. The study focuses on Hampton Roads connectivity through the lenses of congestion relief, economic vitality, resiliency, accessibility and quality of life.The regional connectors study builds on the work examined in the Hampton Roads Crossing Study Supplemental Environmental Impact Statement, which includes: Route 164 widening, the I-564 connector, the 164 connector, the I-664 connector and I-664 widening, north of College Drive.Once complete, the regional connectors study will provide a long-term vision for connectivity improvements for the region, with recommendations for segment tiering and further evaluation.In other words, this is important work that will be strengthened by citizen involvement.For more information about the study and open house details, visit connectorstudy.org.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

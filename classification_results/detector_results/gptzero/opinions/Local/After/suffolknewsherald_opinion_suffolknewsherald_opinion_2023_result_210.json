@@ -1,0 +1,189 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.809492290019989,
+                    "sentence": "Published 5:03 pm Tuesday, August 29, 2023ByLetters to the EditorEditor:Well now, ain't this a head-scratcher?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.8727245330810547,
+                    "sentence": "Remember that fuss at the last school board get-together?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.8638682961463928,
+                    "sentence": "The head honcho of the board gave those fresh-faced members a real talking-to for wanting to jaw about some written-down rules.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.8921710252761841,
+                    "sentence": "It seems the big cheese didn't want any chinwag about those rules and told them to sort it out before the board pow-wow.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.8947473764419556,
+                    "sentence": "Mighty rude, if you ask me.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9274516701698303,
+                    "sentence": "Mr. Tyron Riddick, you sure seem eager to be the big kahuna acting like you have a clue.You're eatin' more than your fair share of rule stew I reckon.Here's the thing: You've been on this school board for a spell now - goin' on six years, I believe - and I can't rightly recall you ever yappin' about what's actually inside those rules.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.901384711265564,
+                    "sentence": "Never seen you break one down or give it a good thinkin', line by line.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.8184407353401184,
+                    "sentence": "And I sure as sunshine ain't seen you jawin' 'bout what those rules mean for folks.You're a servant of the public, and every move you make oughta be in front of the folks, not hidden away.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.8809704780578613,
+                    "sentence": "Even if you're demandin' everyone show up ready to give a thumbs up or down, there oughta be a good ol' jawin' session.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9324925541877747,
+                    "sentence": "Even old Roberts Rules says so.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.6078987717628479,
+                    "sentence": "As the big cheese, it's your job to make sure everyone gets their say, but it don't seem like you're doin' that.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.6006159782409668,
+                    "sentence": "And that goes for them limp grievance rules that don't give workers in the school division much direction.You got some rules needin' a real fixin', like them grievance ones.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.7908341288566589,
+                    "sentence": "They're as clear as mud and ain't worth a hill of beans, truth be told.I'm tellin' ya, let's have some transparency.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.5204334855079651,
+                    "sentence": "Let us, the folks of Suffolk, hear what our school board reps gotta spill.Deborah WahlstromSuffolkOn Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.567830502986908,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.5280869007110596,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 16,
+                    "completely_generated_prob": 0.03222750922547541
+                }
+            ],
+            "completely_generated_prob": 0.5625094844141642,
+            "class_probabilities": {
+                "human": 0.4373610042751815,
+                "ai": 0.5625094844141642,
+                "mixed": 0.00012951131065446384
+            },
+            "average_generated_prob": 1,
+            "predicted_class": "ai",
+            "confidence_score": 0.5625094844141642,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.5625094844141642,
+                    "human": 0.4373610042751815,
+                    "mixed": 0.00012951131065446384
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {
+                    "predicted_class": "pure_ai",
+                    "result_message": "",
+                    "confidence_score": 0.9999999998,
+                    "confidence_category": "high",
+                    "class_probabilities": {
+                        "pure_ai": 0.9999999999,
+                        "ai_paraphrased": 9.999999997e-11
+                    },
+                    "confidence_scores_raw": {
+                        "identity": {
+                            "pure_ai": 0.9999999998,
+                            "ai_paraphrased": 9.999999997e-11
+                        }
+                    },
+                    "confidence_thresholds_raw": {
+                        "identity": {
+                            "pure_ai": {
+                                "reject": 0.65,
+                                "low": 0.75,
+                                "medium": 0.92
+                            },
+                            "ai_paraphrased": {
+                                "reject": 0.85,
+                                "low": 0.9,
+                                "medium": 0.95
+                            }
+                        }
+                    }
+                },
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "AI_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:03 pm Tuesday, August 29, 2023ByLetters to the EditorEditor:Well now, ain’t this a head-scratcher? Remember that fuss at the last school board get-together? The head honcho of the board gave those fresh-faced members a real talking-to for wanting to jaw about some written-down rules. It seems the big cheese didn’t want any chinwag about those rules and told them to sort it out before the board pow-wow. Mighty rude, if you ask me. Mr. Tyron Riddick, you sure seem eager to be the big kahuna acting like you have a clue.You’re eatin’ more than your fair share of rule stew I reckon.Here’s the thing: You’ve been on this school board for a spell now – goin’ on six years, I believe – and I can’t rightly recall you ever yappin’ about what’s actually inside those rules. Never seen you break one down or give it a good thinkin’, line by line. And I sure as sunshine ain’t seen you jawin’ ’bout what those rules mean for folks.You’re a servant of the public, and every move you make oughta be in front of the folks, not hidden away. Even if you’re demandin’ everyone show up ready to give a thumbs up or down, there oughta be a good ol’ jawin’ session. Even old Roberts Rules says so. As the big cheese, it’s your job to make sure everyone gets their say, but it don’t seem like you’re doin’ that. And that goes for them limp grievance rules that don’t give workers in the school division much direction.You got some rules needin’ a real fixin’, like them grievance ones. They’re as clear as mud and ain’t worth a hill of beans, truth be told.I’m tellin’ ya, let’s have some transparency. Let us, the folks of Suffolk, hear what our school board reps gotta spill.Deborah WahlstromSuffolkOn Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

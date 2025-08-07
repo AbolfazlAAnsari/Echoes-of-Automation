@@ -1,0 +1,82 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 8.731905109016225e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.54879874875769e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukComplacent and ignorant are only a few of the descriptions I would apply toJacob Rees-Moggfollowing his inane utterances in the House of Commons recently.Could he possibly repeat them face to face to the many thousands of family members whose relatives have died withCovid-19?Rock bottom has surely been hit.Fiona BlackburnAddress suppliedCould the leader of the Commons, Jacob Rees-Mogg please confirm that Coronavirus-19 is aware that it is only allowed in the public gallery of the House, and not in the main chamber, particularly not on the one side?Tony ShephardShifnalThe daily figures make sobering reading, revealing that Covid-19 cases in the UK are once again rising rapidly and that we are seeing an increase in the rate of hospital admissions.Boris Johnson seems confident that our (no longer world-leading) vaccination programme will prove to be enough to stave off another wave, but a lot of other people (most notably experts, whose job it is to pay attention to \"details\") don't share his confidence and are pressing the government to act now to re-impose mandatory mask-wearing, social distancing and working from home, or even to consider the implementation of another lockdown.Alas, as bitter experience from previous waves has taught us by now, we can only expect our hapless PM to spring into action once he has already left it too late.Julian SelfMilton KeynesFestival fansAmusing and interesting update on the \"festival ofBrexit\" from Sean O'Grady at the end of his splendidarticle.Rebranding the whole project as an arts festival is probably a good idea; however, the organisers are rather missing various intangibles: firstly, remainers are not going to attend no matter what it is called nor what it contains.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005208496004343033,
+                    "sentence": "That just leaves the people that believed the sovereignty nonsense and those that did not vote, and it is unlikely the latter will be interested as apathy is possibly their middle name!Robert BostonKingshillVery surprisedI am surprisedSteve Brucehad to leave his job at Newcastle United.Given the players they have and the managerial skills of Mr Bruce, 'plan A' was working as expected and their position near the bottom of the table was within the predicted parameters.Alan PackCanterburyRead MoreChristmas shoppers warned about post-Brexit charges on orders from EUTravel to Europe: the post-Brexit passport rulesGovernment delays key Brexit border checksLetters: The government is doing what the incompetent always do - blame othersLetters: Am I alone in feeling anxiety watching Covid infection rates rising?Letters: All ministers must make mental health their business",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                }
+            ],
+            "completely_generated_prob": 0.025041194076269924,
+            "class_probabilities": {
+                "human": 0.974671313226954,
+                "ai": 0.025041194076269924,
+                "mixed": 0.00028749269677611
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.974671313226954,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.025041194076269924,
+                    "human": 0.974671313226954,
+                    "mixed": 0.00028749269677611
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukComplacent and ignorant are only a few of the descriptions I would apply toJacob Rees-Moggfollowing his inane utterances in the House of Commons recently.Could he possibly repeat them face to face to the many thousands of family members whose relatives have died withCovid-19?Rock bottom has surely been hit.Fiona BlackburnAddress suppliedCould the leader of the Commons, Jacob Rees-Mogg please confirm that Coronavirus-19 is aware that it is only allowed in the public gallery of the House, and not in the main chamber, particularly not on the one side?Tony ShephardShifnalThe daily figures make sobering reading, revealing that Covid-19 cases in the UK are once again rising rapidly and that we are seeing an increase in the rate of hospital admissions.Boris Johnson seems confident that our (no longer world-leading) vaccination programme will prove to be enough to stave off another wave, but a lot of other people (most notably experts, whose job it is to pay attention to \"details\") don't share his confidence and are pressing the government to act now to re-impose mandatory mask-wearing, social distancing and working from home, or even to consider the implementation of another lockdown.Alas, as bitter experience from previous waves has taught us by now, we can only expect our hapless PM to spring into action once he has already left it too late.Julian SelfMilton KeynesFestival fansAmusing and interesting update on the \"festival ofBrexit\" from Sean O'Grady at the end of his splendidarticle.Rebranding the whole project as an arts festival is probably a good idea; however, the organisers are rather missing various intangibles: firstly, remainers are not going to attend no matter what it is called nor what it contains. That just leaves the people that believed the sovereignty nonsense and those that did not vote, and it is unlikely the latter will be interested as apathy is possibly their middle name!Robert BostonKingshillVery surprisedI am surprisedSteve Brucehad to leave his job at Newcastle United.Given the players they have and the managerial skills of Mr Bruce, 'plan A' was working as expected and their position near the bottom of the table was within the predicted parameters.Alan PackCanterburyRead MoreChristmas shoppers warned about post-Brexit charges on orders from EUTravel to Europe: the post-Brexit passport rulesGovernment delays key Brexit border checksLetters: The government is doing what the incompetent always do - blame othersLetters: Am I alone in feeling anxiety watching Covid infection rates rising?Letters: All ministers must make mental health their business"
+        }
+    ]
+}

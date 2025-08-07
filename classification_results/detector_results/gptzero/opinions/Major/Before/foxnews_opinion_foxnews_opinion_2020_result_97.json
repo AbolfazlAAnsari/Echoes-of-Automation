@@ -1,0 +1,88 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 5.317010072758421e-05,
+                    "sentence": "Fox News Flash top headlines are here.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.137958603678271e-05,
+                    "sentence": "Check out what's clicking on Foxnews.com.On July 26, 2014, U.S. embassy personnel safely evacuated from Tripoli in an overland convoy to Tunisia during an intensely kinetic period of the Libyan civil war.Rival militias repeatedly launched rockets and heavy weapons in the 13 days before the entire cadre of embassy staff safely made the treacherous thirty-hour drive through hostile territory in the Sahara desert.This is the breathtaking story former CIA officer Sarah M. Carlson recounts in her new book  “In the Dark of War: A CIA Officer's Inside Account of the U.S.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00044664693996310234,
+                    "sentence": "Evacuation from Libya.”UAE SAID TO BE HOLDING UP GULF DEAL THAT COULD END QATAR BLOCKADE AND PROTECT US INTERESTS IN MIDDLE EASTThe evacuation was the culmination of Carlson's one-year deployment to Tripoli, during which she served in harm's way with great distinction.She was part of a dedicated and talented team, who collected strategic intelligence on Libya's political turmoil as well as tactical intelligence on terrorists and militias operating with impunity.I had begun serving as Chief of the CIA's Middle East Division a few months before four of our colleagues were killed during the September 2012 terrorist attack on the Benghazi diplomatic post.I was privileged to support Carlson and her extraordinary team, serving a critical mission in harm's way.A preacher's daughter from a military family, Carlson was Tripoli Station's self-described “geek in residence,” an Arabic linguist and accomplished counterterrorism analyst on whom CIA officers and the ambassador relied for daily briefings about Libya's dangerous battlespace.An avid outdoorswoman with a passion for adventure, qualified EMT, and archery expert, she was also known to be “quietly ferocious.”Carlson ruthlessly focused on the mission to detect, analyze and preempt threats to our people in country and our homeland.From assessing the exfiltration route's vulnerabilities to being on the lookout for threats during the drive, Carlson helped ensure the evacuation went off without a hitch.Carlson tracked and analyzed the fighting edging closer and closer to the embassy over the course of her year-long tour of duty.She expressed concern over a lack of clarity about U.S. objectives especially after commander of the Libyan National Army Field Marshal Khalifa Haftar launched Operation Dignity in May 2014, with simultaneous attacks on pro-Islamic militants in Benghazi and the Libyan parliament.Haftar had emerged as the key power broker in eastern Libya following the overthrow of longtime dictator Muammar Gaddafi in 2011.Carlson's commitment to the mission never wavered in spite of her frustration over U.S. desultory foreign policy, just as many of my generation of CIA officers who deployed to Iraq were critical of our failure to secure the peace with an effective post-reconstruction plan after winning the war.Iranian militias and Al Qaeda took advantage of the power vacuum to create a toxic petri dish of sectarian conflict, which threatens Iraq's existence as a nation-state to this day.Libya is now locked in a power struggle and proxy war involving terrorists, tribal militias, and foreign mercenaries seeking power and control over Libya's oil wealth.Egypt, Russia, and the United Arab Emirates back Haftar, while Turkey and Qatar support the Tripoli-based, UN-recognized Government of National Accord.Russia has deployed thousands of its Wagner mercenaries as well as fighter aircraft to Libya, where it has access to two airbases.Terrorists, including the Islamic State of Iraq and the Levant and Ansar al Sharia have taken full advantage of Libya's power vacuum and resulting ungoverned space to grow exponentially.Carlson was deeply honored to serve on the front lines, alongside her U.S. military, State Department, and Intelligence Community comrades.If her experience was like the one I had during my multiple war zone tours of duty, then some of her colleagues had voted for the president and others had not.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003129292745143175,
+                    "sentence": "But exercising our civic duty was entirely separate from our commitment to the oath we took to support and defend the constitution and serve the mission without any predisposed bias.Cognizant that the president considers other factors besides intelligence, especially political realities when making executive decisions, CIA officers are singularly focused on recruiting spies, stealing secrets, and delivering the most accurate and apolitical analytical judgments based on extensive all source analysis.Carlson and her colleagues might not have had the impact on U.S. policy that they wished, but they excelled in their most important mission, ultimately the only one over which they exercised real control, of safely evacuating.Experiencing PTSD after her tour of duty in Libya, Carlson decided to leave CIA and start an entirely new life.Her truncated CIA career is an admonition to senior government officials about how ineffectual policy threatens not only our national security but also the retention of our intelligence professionals, whose exceptional motivation to serve and sacrifice is not without its limits.FROM DANIEL HOFFMAN",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 4,
+                    "completely_generated_prob": 0.0006564766595293492
+                }
+            ],
+            "completely_generated_prob": 0.00982192507144982,
+            "class_probabilities": {
+                "human": 0.9901780749285501,
+                "ai": 0.00982192507144982,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9901780749285501,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.00982192507144982,
+                    "human": 0.9901780749285501,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.On July 26, 2014, U.S. embassy personnel safely evacuated from Tripoli in an overland convoy to Tunisia during an intensely kinetic period of the Libyan civil war.Rival militias repeatedly launched rockets and heavy weapons in the 13 days before the entire cadre of embassy staff safely made the treacherous thirty-hour drive through hostile territory in the Sahara desert.This is the breathtaking story former CIA officer Sarah M. Carlson recounts in her new book  “In the Dark of War: A CIA Officer's Inside Account of the U.S. Evacuation from Libya.”UAE SAID TO BE HOLDING UP GULF DEAL THAT COULD END QATAR BLOCKADE AND PROTECT US INTERESTS IN MIDDLE EASTThe evacuation was the culmination of Carlson’s one-year deployment to Tripoli, during which she served in harm’s way with great distinction.She was part of a dedicated and talented team, who collected strategic intelligence on Libya’s political turmoil as well as tactical intelligence on terrorists and militias operating with impunity.I had begun serving as Chief of the CIA’s Middle East Division a few months before four of our colleagues were killed during the September 2012 terrorist attack on the Benghazi diplomatic post.I was privileged to support Carlson and her extraordinary team, serving a critical mission in harm’s way.A preacher’s daughter from a military family, Carlson was Tripoli Station’s self-described “geek in residence,” an Arabic linguist and accomplished counterterrorism analyst on whom CIA officers and the ambassador relied for daily briefings about Libya’s dangerous battlespace.An avid outdoorswoman with a passion for adventure, qualified EMT, and archery expert, she was also known to be “quietly ferocious.”Carlson ruthlessly focused on the mission to detect, analyze and preempt threats to our people in country and our homeland.From assessing the exfiltration route’s vulnerabilities to being on the lookout for threats during the drive, Carlson helped ensure the evacuation went off without a hitch.Carlson tracked and analyzed the fighting edging closer and closer to the embassy over the course of her year-long tour of duty.She expressed concern over a lack of clarity about U.S. objectives especially after commander of the Libyan National Army Field Marshal Khalifa Haftar launched Operation Dignity in May 2014, with simultaneous attacks on pro-Islamic militants in Benghazi and the Libyan parliament.Haftar had emerged as the key power broker in eastern Libya following the overthrow of longtime dictator Muammar Gaddafi in 2011.Carlson’s commitment to the mission never wavered in spite of her frustration over U.S. desultory foreign policy, just as many of my generation of CIA officers who deployed to Iraq were critical of our failure to secure the peace with an effective post-reconstruction plan after winning the war.Iranian militias and Al Qaeda took advantage of the power vacuum to create a toxic petri dish of sectarian conflict, which threatens Iraq’s existence as a nation-state to this day.Libya is now locked in a power struggle and proxy war involving terrorists, tribal militias, and foreign mercenaries seeking power and control over Libya’s oil wealth.Egypt, Russia, and the United Arab Emirates back Haftar, while Turkey and Qatar support the Tripoli-based, UN-recognized Government of National Accord.Russia has deployed thousands of its Wagner mercenaries as well as fighter aircraft to Libya, where it has access to two airbases.Terrorists, including the Islamic State of Iraq and the Levant and Ansar al Sharia have taken full advantage of Libya’s power vacuum and resulting ungoverned space to grow exponentially.Carlson was deeply honored to serve on the front lines, alongside her U.S. military, State Department, and Intelligence Community comrades.If her experience was like the one I had during my multiple war zone tours of duty, then some of her colleagues had voted for the president and others had not. But exercising our civic duty was entirely separate from our commitment to the oath we took to support and defend the constitution and serve the mission without any predisposed bias.Cognizant that the president considers other factors besides intelligence, especially political realities when making executive decisions, CIA officers are singularly focused on recruiting spies, stealing secrets, and delivering the most accurate and apolitical analytical judgments based on extensive all source analysis.Carlson and her colleagues might not have had the impact on U.S. policy that they wished, but they excelled in their most important mission, ultimately the only one over which they exercised real control, of safely evacuating.Experiencing PTSD after her tour of duty in Libya, Carlson decided to leave CIA and start an entirely new life.Her truncated CIA career is an admonition to senior government officials about how ineffectual policy threatens not only our national security but also the retention of our intelligence professionals, whose exceptional motivation to serve and sacrifice is not without its limits.FROM DANIEL HOFFMAN   "
+        }
+    ]
+}

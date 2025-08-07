@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 2.453735396557022e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.910473631345667e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukI readChris Blackhurst's worrying article, regarding firms deserting the UK, and was horrified to seeBritaincalled “America's 51st state”.Money from almost any country can buy successful British firms,football clubsand newspapers, returning the profits to the owner's country of choice - thereby denying Britain of the benefits and having to run to the foreign management's routine and style.When Britain was a member of the European Commission, I understood why countries outside it wanted to have a base in Britain.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.0383871489902958e-05,
+                    "sentence": "But now that we have left the EC, will that need remain?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.814156687236391e-05,
+                    "sentence": "I doubt it.It is frightening to think that a hostile country could buy a newspaper to use as a propaganda machine.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.693463804665953e-05,
+                    "sentence": "Or, as Chris Blackhurst described, that we could lose control of our large companies and be considered America's 51st state.I am not advocating having a ringfence imposed, but - as Chris Blackhurst suggests - it is about time the government scrutinised foreign buys for the benefit of the British public.Keith PooleBasingstokeSunak's lies about migrationHopeless Sunak caught lying about migration, again.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.5162080166628584e-05,
+                    "sentence": "This only serves to make him look increasingly desperate and emphasises his lack of integrity.Note that this falsehood comes off the back of his recent lie regarding debt falling, on which he was rightly corrected.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.717394767794758e-05,
+                    "sentence": "Insecure, weak and desperate, lying is now his only option.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00044987309956923127,
+                    "sentence": "A Trump style tactic, it failed Johnson and it is failing Sunak.Dale HughesAddress suppliedGood luck to those doing 'Dry January'Thank you to, Judith Daniels, Rosamund Hall, and I believe earlier, Melanie Rickey for putting forward sensible views on alcohol consumption; it is an important issue and does not need polarisation, especially on true addiction and the need to seek help.We are going to adhere to dry-January and good luck to all those readers who are; to all those that choose not to, just remember this: “Lord, grant me sobriety, but just not yet!”Robert BostonKingshill, KentWho's more fearsome?ThePliosaur skull discoveredon the Southern UK Jurassic coast has been hailed as a “sea monster” and the world's “most fearsome predator”.I beg to differ.I doubt this creature on its most “fearsome” day ever notched up the death toll or the terror we associate with modern man-made weaponry and human aggression.I also doubt this pre-historic monster went in for the indiscriminate mass slaughter of its own kind we have become used to...Give me a rampant Pliosaur any day to self-righteous, blood-thirsty, greedy, Humanosaurus.Amanda BakerEdinburghIs there no end to the callousness of this government?In reply to a request for a comment on children needing life saving, pain relieving treatment they give the stock reply: “we have put so many millions in to help the situation,” and then they latch on to a minor statistic which is improved to show how “well” they are doing.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00037164712557569146,
+                    "sentence": "In this case a reduction in the 18 month waiting list.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00043065130012109876,
+                    "sentence": "So only 17 months in pain, hurrah!Please, Sir Keir, make a manifesto pledge to answer questions without meaningless statements of money and heartless minor spin statistics.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002001756802201271,
+                    "sentence": "Answer questions honestly.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00038096780190244317,
+                    "sentence": "It will be a refreshing change.Rob AlliottCambridge",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.006635186464044889,
+            "class_probabilities": {
+                "human": 0.9933648135359551,
+                "ai": 0.006635186464044889,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933648135359551,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006635186464044889,
+                    "human": 0.9933648135359551,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI readChris Blackhurst’s worrying article, regarding firms deserting the UK, and was horrified to seeBritaincalled “America’s 51st state”.Money from almost any country can buy successful British firms,football clubsand newspapers, returning the profits to the owner’s country of choice – thereby denying Britain of the benefits and having to run to the foreign management’s routine and style.When Britain was a member of the European Commission, I understood why countries outside it wanted to have a base in Britain. But now that we have left the EC, will that need remain? I doubt it.It is frightening to think that a hostile country could buy a newspaper to use as a propaganda machine. Or, as Chris Blackhurst described, that we could lose control of our large companies and be considered America’s 51st state.I am not advocating having a ringfence imposed, but – as Chris Blackhurst suggests – it is about time the government scrutinised foreign buys for the benefit of the British public.Keith PooleBasingstokeSunak’s lies about migrationHopeless Sunak caught lying about migration, again. This only serves to make him look increasingly desperate and emphasises his lack of integrity.Note that this falsehood comes off the back of his recent lie regarding debt falling, on which he was rightly corrected. Insecure, weak and desperate, lying is now his only option. A Trump style tactic, it failed Johnson and it is failing Sunak.Dale HughesAddress suppliedGood luck to those doing ‘Dry January’Thank you to, Judith Daniels, Rosamund Hall, and I believe earlier, Melanie Rickey for putting forward sensible views on alcohol consumption; it is an important issue and does not need polarisation, especially on true addiction and the need to seek help.We are going to adhere to dry-January and good luck to all those readers who are; to all those that choose not to, just remember this: “Lord, grant me sobriety, but just not yet!”Robert BostonKingshill, KentWho’s more fearsome?ThePliosaur skull discoveredon the Southern UK Jurassic coast has been hailed as a “sea monster” and the world’s “most fearsome predator”.I beg to differ.I doubt this creature on its most “fearsome” day ever notched up the death toll or the terror we associate with modern man-made weaponry and human aggression.I also doubt this pre-historic monster went in for the indiscriminate mass slaughter of its own kind we have become used to...Give me a rampant Pliosaur any day to self-righteous, blood-thirsty, greedy, Humanosaurus.Amanda BakerEdinburghIs there no end to the callousness of this government?In reply to a request for a comment on children needing life saving, pain relieving treatment they give the stock reply: “we have put so many millions in to help the situation,” and then they latch on to a minor statistic which is improved to show how “well” they are doing. In this case a reduction in the 18 month waiting list. So only 17 months in pain, hurrah!Please, Sir Keir, make a manifesto pledge to answer questions without meaningless statements of money and heartless minor spin statistics. Answer questions honestly. It will be a refreshing change.Rob AlliottCambridge"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.9994603395462036,
+                    "sentence": "Published 5:22 pm Friday, September 8, 2023BySuffolk News-HeraldAveryfest, a recent event celebrated on Sept. 5, 2023, has brought pride and nostalgia to the Suffolk community.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.999427855014801,
+                    "sentence": "This festival commemorated the illustrious career and life of Suffolk-born actor James Avery, whose name resonates deeply with not only residents of Suffolk but people across the nation.Avery played the role of Uncle Phil on the 90s sitcom Fresh Prince of Bel-Air, which aired from Sept. 10, 1990 until May 20, 1996.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9996757507324219,
+                    "sentence": "In the early '90s, the show ranked among the top shows on NBC, reaching as high as the #2 spot on the list of top television shows on the network.While many were unaware Avery was Suffolk-born, more specifically, Pughsville, the event served as a reminder of the talent and contributions that individuals from Suffolk have made to the entertainment industry.The festival featured various activities, including film screenings, discussions, and performances centered around the actor's work.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9996927976608276,
+                    "sentence": "It honored their achievements and provided a platform for emerging talents in the region.Suffolk has always been a wellspring of talent, and Averyfest was a fitting tribute to this legacy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.8204299211502075,
+                    "sentence": "It showcased the power of culture and art to unite and inspire a community.Events like Averyfest serve as a beacon of hope, reaffirming the importance of nurturing and celebrating local talent.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.10994558781385422,
+                    "sentence": "Suffolk can take pride in all of its native sons or daughters who have achieved great heights and continue to inspire generations to come.We applaud the event organizers and hope this continues to grow and serve the Suffolk community and spawn other similar events that highlight the many talented individuals who once called Suffolk home.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.10897903144359589,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.15234160423278809,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 0.17628848249938345
+                }
+            ],
+            "completely_generated_prob": 0.5560805168549202,
+            "class_probabilities": {
+                "human": 0.4395684085615083,
+                "ai": 0.5560805168549202,
+                "mixed": 0.004351074583571397
+            },
+            "average_generated_prob": 1,
+            "predicted_class": "ai",
+            "confidence_score": 0.5560805168549202,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.5560805168549202,
+                    "human": 0.4395684085615083,
+                    "mixed": 0.004351074583571397
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {
+                    "predicted_class": "pure_ai",
+                    "result_message": "",
+                    "confidence_score": 0.9999999998,
+                    "confidence_category": "high",
+                    "class_probabilities": {
+                        "pure_ai": 0.9999999999,
+                        "ai_paraphrased": 9.999999997e-11
+                    },
+                    "confidence_scores_raw": {
+                        "identity": {
+                            "pure_ai": 0.9999999998,
+                            "ai_paraphrased": 9.999999997e-11
+                        }
+                    },
+                    "confidence_thresholds_raw": {
+                        "identity": {
+                            "pure_ai": {
+                                "reject": 0.65,
+                                "low": 0.75,
+                                "medium": 0.92
+                            },
+                            "ai_paraphrased": {
+                                "reject": 0.85,
+                                "low": 0.9,
+                                "medium": 0.95
+                            }
+                        }
+                    }
+                },
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "AI_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:22 pm Friday, September 8, 2023BySuffolk News-HeraldAveryfest, a recent event celebrated on Sept. 5, 2023, has brought pride and nostalgia to the Suffolk community. This festival commemorated the illustrious career and life of Suffolk-born actor James Avery, whose name resonates deeply with not only residents of Suffolk but people across the nation.Avery played the role of Uncle Phil on the 90s sitcom Fresh Prince of Bel-Air, which aired from Sept. 10, 1990 until May 20, 1996. In the early ’90s, the show ranked among the top shows on NBC, reaching as high as the #2 spot on the list of top television shows on the network.While many were unaware Avery was Suffolk-born, more specifically, Pughsville, the event served as a reminder of the talent and contributions that individuals from Suffolk have made to the entertainment industry.The festival featured various activities, including film screenings, discussions, and performances centered around the actor’s work. It honored their achievements and provided a platform for emerging talents in the region.Suffolk has always been a wellspring of talent, and Averyfest was a fitting tribute to this legacy. It showcased the power of culture and art to unite and inspire a community.Events like Averyfest serve as a beacon of hope, reaffirming the importance of nurturing and celebrating local talent. Suffolk can take pride in all of its native sons or daughters who have achieved great heights and continue to inspire generations to come.We applaud the event organizers and hope this continues to grow and serve the Suffolk community and spawn other similar events that highlight the many talented individuals who once called Suffolk home.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

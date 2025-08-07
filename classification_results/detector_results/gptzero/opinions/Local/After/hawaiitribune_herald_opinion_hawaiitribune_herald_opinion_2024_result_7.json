@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 8.392555901082233e-05,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Overshadowed by the wonderings about President Joe Biden's vigor was the actual purpose of the NATO alliance's 75th anniversary summit in Washington last week.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.971418820787221e-05,
+                    "sentence": "It marked three quarters of a century since Harry Truman hosted leaders of 10 nations from Western Europe, as well as Canada, to create a new, permanent defense pact in 1949.America had had allies before going back to the Revolutionary War, when the French came to the aid of the rebellious colonists.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.0856280722655356e-05,
+                    "sentence": "And there were many military partnerships in the years that followed, most extensively during World War II, when the Allies fought Nazi Germany and Imperial Japan on battlefields across the planet under the banner of the United Nations, which led to the birth of the world body.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.066283433232456e-05,
+                    "sentence": "But all those groupings coalesced during wartime.The new North Atlantic Treaty Organization, was, as the National Archives put it, the “first peacetime military alliance ever concluded by the United States.” In doing so, the nation was going directly against the admonition of George Washington, who in his 1796 farewell address, wrote: “It is our true policy to steer clear of permanent alliances with any portion of the foreign world.”Washington, who relied on French assistance to beat the Redcoats, noted that to have a “respectable defensive posture, we may safely trust to temporary alliances for extraordinary emergencies.” But NATO was not to be temporary.George thought that the Atlantic Ocean would insulate the U.S. from Europe's chaos, but as Truman said when he spoke to the assembled foreign ministers, “Twice in recent years, nations have felt the sickening blow of unprovoked aggression.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.044705125736073e-05,
+                    "sentence": "Our peoples, to whom our governments are responsible, demand that these things shall not happen again.”Of the treaty they were signing: “It is a simple document, but if it had existed in 1914 and in 1939, supported by the nations who are represented here today, I believe it would have prevented the acts of aggression which led to two world wars.”Truman was an artillery officer in combat in France during World War I.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.637470793677494e-05,
+                    "sentence": "A generation later, he was commander in chief when World War II ended.Half of the original 12 NATO countries ᅳ France, Belgium, the Netherlands, Luxembourg, Denmark and Norway ᅳ had been overrun and occupied by Nazi Germany and were only liberated from the genocidal regime's jackboot four years earlier.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09257251024246216,
+                    "sentence": "Britain was never conquered by Hitler and with the Americans and Canadians, brought freedom back to the Continent.Italy had overthrown their own dictator and declared war on Germany, while the last two members, Iceland and Portugal, provided valuable bases to Atlantic convoys during the war.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.162175714969635,
+                    "sentence": "All 12 members pledged to protect each other if attacked.When Soviet troops invaded Hungary in 1956 and Czechoslovakia in 1968, NATO could not defend them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.20932798087596893,
+                    "sentence": "After the Iron Curtain fell, Hungary, the Czech Republic and Slovakia joined NATO, along with others from the former East Bloc.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.14446191489696503,
+                    "sentence": "Today the membership has grown to 32, with the accession of Sweden on March 7, which followed Russia's invasion of Ukraine.NATO vows an “irreversible path” to Ukraine's membership.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.13546690344810486,
+                    "sentence": "When that happens, Ukraine will be protected like the rest.ᅳNew York Daily News",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.058471088130131146,
+            "class_probabilities": {
+                "human": 0.9415289118698688,
+                "ai": 0.058471088130131146,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9415289118698688,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.058471088130131146,
+                    "human": 0.9415289118698688,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Overshadowed by the wonderings about President Joe Biden’s vigor was the actual purpose of the NATO alliance’s 75th anniversary summit in Washington last week. It marked three quarters of a century since Harry Truman hosted leaders of 10 nations from Western Europe, as well as Canada, to create a new, permanent defense pact in 1949.America had had allies before going back to the Revolutionary War, when the French came to the aid of the rebellious colonists. And there were many military partnerships in the years that followed, most extensively during World War II, when the Allies fought Nazi Germany and Imperial Japan on battlefields across the planet under the banner of the United Nations, which led to the birth of the world body. But all those groupings coalesced during wartime.The new North Atlantic Treaty Organization, was, as the National Archives put it, the “first peacetime military alliance ever concluded by the United States.” In doing so, the nation was going directly against the admonition of George Washington, who in his 1796 farewell address, wrote: “It is our true policy to steer clear of permanent alliances with any portion of the foreign world.”Washington, who relied on French assistance to beat the Redcoats, noted that to have a “respectable defensive posture, we may safely trust to temporary alliances for extraordinary emergencies.” But NATO was not to be temporary.George thought that the Atlantic Ocean would insulate the U.S. from Europe’s chaos, but as Truman said when he spoke to the assembled foreign ministers, “Twice in recent years, nations have felt the sickening blow of unprovoked aggression. Our peoples, to whom our governments are responsible, demand that these things shall not happen again.”Of the treaty they were signing: “It is a simple document, but if it had existed in 1914 and in 1939, supported by the nations who are represented here today, I believe it would have prevented the acts of aggression which led to two world wars.”Truman was an artillery officer in combat in France during World War I. A generation later, he was commander in chief when World War II ended.Half of the original 12 NATO countries — France, Belgium, the Netherlands, Luxembourg, Denmark and Norway — had been overrun and occupied by Nazi Germany and were only liberated from the genocidal regime’s jackboot four years earlier. Britain was never conquered by Hitler and with the Americans and Canadians, brought freedom back to the Continent.Italy had overthrown their own dictator and declared war on Germany, while the last two members, Iceland and Portugal, provided valuable bases to Atlantic convoys during the war. All 12 members pledged to protect each other if attacked.When Soviet troops invaded Hungary in 1956 and Czechoslovakia in 1968, NATO could not defend them. After the Iron Curtain fell, Hungary, the Czech Republic and Slovakia joined NATO, along with others from the former East Bloc. Today the membership has grown to 32, with the accession of Sweden on March 7, which followed Russia’s invasion of Ukraine.NATO vows an “irreversible path” to Ukraine’s membership. When that happens, Ukraine will be protected like the rest.—New York Daily News"
+        }
+    ]
+}

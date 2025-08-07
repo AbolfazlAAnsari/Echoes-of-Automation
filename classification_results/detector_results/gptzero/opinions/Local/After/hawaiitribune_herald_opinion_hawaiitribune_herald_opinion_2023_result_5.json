@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 5.0444134103599936e-05,
+                    "sentence": "In the name of national security, former South Carolina governor and current Republican presidential candidate Nikki Haley wants to use government authority to ban anonymous speech on social media platforms.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.771734893438406e-05,
+                    "sentence": "“Every person on social media should be verified by their name,” she told Fox News.No matter how many nefarious images of Russian or Chinese disinformation agents one conjures up, this is a no-good, very bad idea.Anonymous speech is a hallowed American tradition.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.174506804905832e-05,
+                    "sentence": "It's hardly an exaggeration to say that if it had never been permitted, the United States as we know it may never have existed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.530606747721322e-05,
+                    "sentence": "Letters from a Farmer in Pennsylvania, secretly penned by John Dickinson, were instrumental in uniting colonists against British misrule.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.8337180487578735e-05,
+                    "sentence": "Alexander Hamilton, John Jay and James Madison published their stirring Federalist essays defending the proposed U.S. Constitution under the pseudonym “Publius.” Thomas Paine, Benjamin Franklin, Thomas Jefferson regularly penned missives without their real names attached.For good reason, the tradition has remained alive through the 21st century.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.965878568124026e-05,
+                    "sentence": "In 2018, the New York Times published an op-ed from a then-anonymous official who proclaimed that “the president continues to act in a manner that is detrimental to the health of our republic.” Donald Trump, of course, said it was treason.One can question the wisdom of a newspaper choosing to shield the identity of an administration insider seeking to influence public policy without challenging the legal right to self-publish under a false name or no name at all.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.1008140871999785e-05,
+                    "sentence": "Anonymous and pseudonymous accounts proliferate on Reddit and on the platform once known as Twitter, often providing essential protection to whistleblowers and others worried about being fired, excoriated or even physically harmed.With respect to Haley, there's an extra ironic twist here.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.026592697948217392,
+                    "sentence": "Back in August 2022, someone in the office of New York Attorney General Tish James broke the law and leaked the tax returns of an advocacy group Haley founded called Stand for America.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03018522635102272,
+                    "sentence": "Politico published a story revealing donors' identities, and hell hath no fury like the candidate whose big-money allies were exposed.“We are not going to throw cotton balls at them,” said Haley of the AG's office.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03919018432497978,
+                    "sentence": "“We're going to throw a grenade, and we're going to make sure that they know enough is enough.”Her counterattack on “liberal harassment” is consistent with a long line of conservative legal thought that says the right to give anonymously to a political cause, even one closely aligned with a specific candidate, is sacred because forcing people to reveal their personal political commitments is to open them to harassment.It's a fair point.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03520558401942253,
+                    "sentence": "Take, for instance, the successful 2008 campaign to bar same-sex marriage in California.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.08703475445508957,
+                    "sentence": "Most donors were made public under law, and “victory has been soured by the ugly specter of intimidation,” reported the Times.In the irreconcilably inconsistent mind of Nikki Haley, it is unconscionable intimidation for government to out the names and contributions of multimillionaire contributors trying to influence the political process.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.14545583724975586,
+                    "sentence": "But it's a-OK for the same government to force everyday people who post on TikTok, Twitter/X, Instagram or other platforms to reveal their identities.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.08053576201200485,
+                    "sentence": "Really?ᅳNew York Daily News",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 1.9423489116273474e-12
+                }
+            ],
+            "completely_generated_prob": 0.037526171686261885,
+            "class_probabilities": {
+                "human": 0.9624738283137382,
+                "ai": 0.037526171686261885,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9624738283137382,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.037526171686261885,
+                    "human": 0.9624738283137382,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "In the name of national security, former South Carolina governor and current Republican presidential candidate Nikki Haley wants to use government authority to ban anonymous speech on social media platforms. “Every person on social media should be verified by their name,” she told Fox News.No matter how many nefarious images of Russian or Chinese disinformation agents one conjures up, this is a no-good, very bad idea.Anonymous speech is a hallowed American tradition. It’s hardly an exaggeration to say that if it had never been permitted, the United States as we know it may never have existed. Letters from a Farmer in Pennsylvania, secretly penned by John Dickinson, were instrumental in uniting colonists against British misrule. Alexander Hamilton, John Jay and James Madison published their stirring Federalist essays defending the proposed U.S. Constitution under the pseudonym “Publius.” Thomas Paine, Benjamin Franklin, Thomas Jefferson regularly penned missives without their real names attached.For good reason, the tradition has remained alive through the 21st century. In 2018, the New York Times published an op-ed from a then-anonymous official who proclaimed that “the president continues to act in a manner that is detrimental to the health of our republic.” Donald Trump, of course, said it was treason.One can question the wisdom of a newspaper choosing to shield the identity of an administration insider seeking to influence public policy without challenging the legal right to self-publish under a false name or no name at all. Anonymous and pseudonymous accounts proliferate on Reddit and on the platform once known as Twitter, often providing essential protection to whistleblowers and others worried about being fired, excoriated or even physically harmed.With respect to Haley, there’s an extra ironic twist here. Back in August 2022, someone in the office of New York Attorney General Tish James broke the law and leaked the tax returns of an advocacy group Haley founded called Stand for America. Politico published a story revealing donors’ identities, and hell hath no fury like the candidate whose big-money allies were exposed.“We are not going to throw cotton balls at them,” said Haley of the AG’s office. “We’re going to throw a grenade, and we’re going to make sure that they know enough is enough.”Her counterattack on “liberal harassment” is consistent with a long line of conservative legal thought that says the right to give anonymously to a political cause, even one closely aligned with a specific candidate, is sacred because forcing people to reveal their personal political commitments is to open them to harassment.It’s a fair point. Take, for instance, the successful 2008 campaign to bar same-sex marriage in California. Most donors were made public under law, and “victory has been soured by the ugly specter of intimidation,” reported the Times.In the irreconcilably inconsistent mind of Nikki Haley, it is unconscionable intimidation for government to out the names and contributions of multimillionaire contributors trying to influence the political process. But it’s a-OK for the same government to force everyday people who post on TikTok, Twitter/X, Instagram or other platforms to reveal their identities. Really?—New York Daily News"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0014101839624345303,
+                    "sentence": "Published 6:42 pm Tuesday, December 12, 2023ByLetters to the EditorDear Editor,I would like to thank the 14,218 citizens in the 89th district who believed in my candidacy and voted for me in the November election.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001542252954095602,
+                    "sentence": "I am so proud that my race for delegate for the 89th District was run with honesty, dignity, and integrity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001782641396857798,
+                    "sentence": "Thank you to my team and others who worked tirelessly from the beginning to the end… I strongly believe that a candidate should focus on their experiences and qualifications and set priorities that benefit all people.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014535265509039164,
+                    "sentence": "Rest assured, I have never needed a position or title to serve and fight for you.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001037793350405991,
+                    "sentence": "My heart and passion to serve is not predicated on what title and position I hold but because I know my purpose.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006934453849680722,
+                    "sentence": "I will continue to be an advocate and serve you because that's what true leadership is all about.I appreciate you, God bless.Karen JenkinsCandidate for Delegate of Virginia's 89th District and current Suffolk Public Schools board memberEzequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005705239600501955,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…In one of five compelling matchups on the WNBA slate today, the Seattle Storm and Connecticut Sun will…Wondering how you should bet on today's WNBA games?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014298177557066083,
+                    "sentence": "Look no further.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008200708543881774,
+                    "sentence": "Below you'll find computer predictions on…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.01565789170260218,
+            "class_probabilities": {
+                "human": 0.9843421082973979,
+                "ai": 0.01565789170260218,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9843421082973979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01565789170260218,
+                    "human": 0.9843421082973979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 6:42 pm Tuesday, December 12, 2023ByLetters to the EditorDear Editor,I would like to thank the 14,218 citizens in the 89th district who believed in my candidacy and voted for me in the November election. I am so proud that my race for delegate for the 89th District was run with honesty, dignity, and integrity. Thank you to my team and others who worked tirelessly from the beginning to the end… I strongly believe that a candidate should focus on their experiences and qualifications and set priorities that benefit all people. Rest assured, I have never needed a position or title to serve and fight for you. My heart and passion to serve is not predicated on what title and position I hold but because I know my purpose. I will continue to be an advocate and serve you because that’s what true leadership is all about.I appreciate you, God bless.Karen JenkinsCandidate for Delegate of Virginia’s 89th District and current Suffolk Public Schools board memberEzequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…In one of five compelling matchups on the WNBA slate today, the Seattle Storm and Connecticut Sun will…Wondering how you should bet on today’s WNBA games? Look no further. Below you’ll find computer predictions on…"
+        }
+    ]
+}

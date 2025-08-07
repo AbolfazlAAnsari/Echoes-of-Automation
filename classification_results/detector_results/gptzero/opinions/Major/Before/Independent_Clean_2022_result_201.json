@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0004073242889717221,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004321570449974388,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe prime ministerial candidates areclearly a crowd of tax-cutting Tories.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000230928766541183,
+                    "sentence": "The only one who isn't threatening immediate cuts isRishi Sunak, and even he is promising themas soon as he deems reasonable.Do these people not understand that if you want decent public services someone has to pay for them?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00028457684675231576,
+                    "sentence": "Of course it shouldn't be those who can't afford food and fuel.But there are plenty of retired people, like me, with adequate pensions who would be able and willing to pay for national insurance, television licences and prescriptions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004198942915536463,
+                    "sentence": "Many of us, of course, are not Conservative voters.As for the obscenely overpaid CEOs who also receive bonuses, and the huge profit-making, undertaxed corporations - words fail me.Susan AlexanderSouth GloucestershireScroungers and shirkersTory leadership hopefulSuella Bravermanspouting the usual guff aboutbenefit scroungers, that Victorian adage that there is a deserving and, by definition, an undeserving poor gets dusted off fairly regularly and the Tory faithful lap it up.ButHannah Fearn's articlemakes the most important point and one we need to be much more aware and wary of - that people can be in work full time and working hard and still not have enough to live on.This creates multiple long term problems.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00039903540164232254,
+                    "sentence": "Whether it is lorry drivers or fruit pickers, roles cannot be filled, allowing fruit to rot in fields and goods to not be transported because the conditions and salaries are so poor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00044584297575056553,
+                    "sentence": "Or we have to create stipends to allow people to make ends meet.We should not be allowing any business to get away with low pay just to continually increase their profits.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00036033798824064434,
+                    "sentence": "Way too much credence is given to “businesses” - theoretically the small business, but we know our leaders really only mean the big ones who fund them.This is why trickle-down economics does not work.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00036052826908417046,
+                    "sentence": "That “trickle” dries up in the intense heat of profit and the pursuit of growth.Laura DawsonHarpendenWallpapergateIs Johnson staying at No 10 so that he has time to scrapethe gold wallpaperoff the walls?Brook PhillipsLustonPM for PMToday, I asked a friend who is, regrettably, a member of the Conservative Party who he would vote for.Penny Mordaunt.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007871223613619804,
+                    "sentence": "Why?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007822597399353981,
+                    "sentence": "Because she has nice hair and a cool handshake.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011899416334927082,
+                    "sentence": "Sadly, I believe him.Colin WrightOrpingtonTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereAnswer the question, prime ministerI have, for the first time in many years,watched a recording of Prime Minister's Questions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.014404242858290672,
+                    "sentence": "What a pathetic performance from the speaker.The prime minister did not answer simple yes/no questions and instead launched into tub-thumping mode.In my opinion, the speaker should have pointed out that the purpose of PMQs is for the prime minister to answer questions, and if he refuses, as he did, then he should be declared in contempt of parliament and ejected from the estate.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01655200868844986,
+                    "sentence": "I am both astonished and disappointed that this did not happen.It's no wonder that politics in the UK is at such a low ebb.R FrancisFrance",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 1.9423489116273474e-12
+                }
+            ],
+            "completely_generated_prob": 0.015281828032010496,
+            "class_probabilities": {
+                "human": 0.9847181719679895,
+                "ai": 0.015281828032010496,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9847181719679895,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.015281828032010496,
+                    "human": 0.9847181719679895,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThe prime ministerial candidates areclearly a crowd of tax-cutting Tories.  The only one who isn’t threatening immediate cuts isRishi Sunak, and even he is promising themas soon as he deems reasonable.Do these people not understand that if you want decent public services someone has to pay for them? Of course it shouldn’t be those who can’t afford food and fuel.But there are plenty of retired people, like me, with adequate pensions who would be able and willing to pay for national insurance, television licences and prescriptions. Many of us, of course, are not Conservative voters.As for the obscenely overpaid CEOs who also receive bonuses, and the huge profit-making, undertaxed corporations – words fail me.Susan AlexanderSouth GloucestershireScroungers and shirkersTory leadership hopefulSuella Bravermanspouting the usual guff aboutbenefit scroungers, that Victorian adage that there is a deserving and, by definition, an undeserving poor gets dusted off fairly regularly and the Tory faithful lap it up.ButHannah Fearn’s articlemakes the most important point and one we need to be much more aware and wary of – that people can be in work full time and working hard and still not have enough to live on.This creates multiple long term problems. Whether it is lorry drivers or fruit pickers, roles cannot be filled, allowing fruit to rot in fields and goods to not be transported because the conditions and salaries are so poor. Or we have to create stipends to allow people to make ends meet.We should not be allowing any business to get away with low pay just to continually increase their profits. Way too much credence is given to “businesses” – theoretically the small business, but we know our leaders really only mean the big ones who fund them.This is why trickle-down economics does not work. That “trickle” dries up in the intense heat of profit and the pursuit of growth.Laura DawsonHarpendenWallpapergateIs Johnson staying at No 10 so that he has time to scrapethe gold wallpaperoff the walls?Brook PhillipsLustonPM for PMToday, I asked a friend who is, regrettably, a member of the Conservative Party who he would vote for.Penny Mordaunt.  Why? Because she has nice hair and a cool handshake. Sadly, I believe him.Colin WrightOrpingtonTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereAnswer the question, prime ministerI have, for the first time in many years,watched a recording of Prime Minister’s Questions.  What a pathetic performance from the speaker.The prime minister did not answer simple yes/no questions and instead launched into tub-thumping mode.In my opinion, the speaker should have pointed out that the purpose of PMQs is for the prime minister to answer questions, and if he refuses, as he did, then he should be declared in contempt of parliament and ejected from the estate. I am both astonished and disappointed that this did not happen.It’s no wonder that politics in the UK is at such a low ebb.R FrancisFrance"
+        }
+    ]
+}

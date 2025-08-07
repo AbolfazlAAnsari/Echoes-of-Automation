@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 7.58295354899019e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.910072210710496e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukLiz Truss's recipe for improving the economy is reminiscent of the Heath-Barber boom of 1971 to 1974.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010039689368568361,
+                    "sentence": "Coupled with the oil crisis caused by the Yom Kippur war, this short-term dash for growth ended with industrial action, power cuts, the three-day week and inflation peaking at 24 per cent.The Tories then lost the 1974 elections as the public sided with the trade unions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.02813670411706e-05,
+                    "sentence": "A national pay policy then followed, with the help of Jack Jones and the TUC.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.691410089842975e-05,
+                    "sentence": "Liz Truss was born in 1975 so she can't be expected to remember these events, but someone should explain them to her before we all suffer again.I was a personnel manager in the engineering industry at the time, and they are certainly etched in my memory.John WilkinBury St EdmundsToo late for TrussAccording to Liz Truss,a person with “the same views at 19 and 49” is “not capable of original thoughts”.On the other hand, people who change their views constantly in order to suit the preferences of those they are trying to impress - like herself and the disgraced prime minister - show themselves to be incapable of anything other than shallow and opportunistic thought.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00040145477396436036,
+                    "sentence": "Such people are devoid of those firmly held values and principles that have been forged by a lifetime of sincere and meaningful thought.For a country to be led by rudderless people such as these, at a time of enormous global, international, economic and social peril, is so irresponsible and dangerous that it verges on being criminally insane.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004467105318326503,
+                    "sentence": "We are sleepwalking to disaster the longer we indulge such self-serving charlatans; I fear that we will wake up when it is too late to do anything to repair the damage.Graham PowellCirencesterTory sleazeI doubt that too many will be surprised that one of yesterday's news headlines read: “Truss facing investigation into 'murky donations'”.Investigation into murky matters, and sometimes a conspicuous lack of it, appears to be the default position formore than one Tory MP.David NelmesNewportMore of the sameThis bloke [Rishi Sunak] is just as big an imposter as Johnson, he wants the PM title but he has no idea how to do the job.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00046420301077887416,
+                    "sentence": "Sadly, Truss is no better.Dale HughesAddress supplied",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.00921532982391573,
+            "class_probabilities": {
+                "human": 0.9907846701760843,
+                "ai": 0.00921532982391573,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9907846701760843,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.00921532982391573,
+                    "human": 0.9907846701760843,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukLiz Truss’s recipe for improving the economy is reminiscent of the Heath-Barber boom of 1971 to 1974. Coupled with the oil crisis caused by the Yom Kippur war, this short-term dash for growth ended with industrial action, power cuts, the three-day week and inflation peaking at 24 per cent.The Tories then lost the 1974 elections as the public sided with the trade unions. A national pay policy then followed, with the help of Jack Jones and the TUC. Liz Truss was born in 1975 so she can’t be expected to remember these events, but someone should explain them to her before we all suffer again.I was a personnel manager in the engineering industry at the time, and they are certainly etched in my memory.John WilkinBury St EdmundsToo late for TrussAccording to Liz Truss,a person with “the same views at 19 and 49” is “not capable of original thoughts”.On the other hand, people who change their views constantly in order to suit the preferences of those they are trying to impress – like herself and the disgraced prime minister – show themselves to be incapable of anything other than shallow and opportunistic thought. Such people are devoid of those firmly held values and principles that have been forged by a lifetime of sincere and meaningful thought.For a country to be led by rudderless people such as these, at a time of enormous global, international, economic and social peril, is so irresponsible and dangerous that it verges on being criminally insane. We are sleepwalking to disaster the longer we indulge such self-serving charlatans; I fear that we will wake up when it is too late to do anything to repair the damage.Graham PowellCirencesterTory sleazeI doubt that too many will be surprised that one of yesterday’s news headlines read: “Truss facing investigation into ‘murky donations’”.Investigation into murky matters, and sometimes a conspicuous lack of it, appears to be the default position formore than one Tory MP.David NelmesNewportMore of the sameThis bloke [Rishi Sunak] is just as big an imposter as Johnson, he wants the PM title but he has no idea how to do the job. Sadly, Truss is no better.Dale HughesAddress supplied"
+        }
+    ]
+}

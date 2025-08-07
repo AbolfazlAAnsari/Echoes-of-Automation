@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0011665783822536469,
+                    "sentence": "It is classic guilt by association, and the questioning was so reminiscent of Senator Joseph McCarthy's anti-communist witch hunts.Patrick Healy, Deputy Opinion EditorLydia, what struck me most aboutyour columnon Adeel Abdullah Mangi, who is President Biden's nominee to the Court of Appeals for the Third Circuit, was the baldness of the Republican smears.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010394102428108454,
+                    "sentence": "What was the worst one?Lydia Polgreen, Opinion ColumnistThe thing from the Senate hearing that was so shocking to me was the casual, almost automatic Republican assumption that Mangi, as a Muslim, might have suspect views of Oct. 7, 2023, or Sept. 11, 2001, and that asking him about them was legitimate.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008801799267530441,
+                    "sentence": "It is classic guilt by association, and the questioning was so reminiscent of Senator Joseph McCarthy's anti-communist witch hunts.But even worse was what the right-wing media machine did with these questions and insinuations.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009059737785719335,
+                    "sentence": "Writing in TheWashington Times, the right-wing operative Mike Davis called Mangi “Hamas's favorite judicial nominee.” An illustration superimposes the Hamas flag over his eyes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007235769298858941,
+                    "sentence": "It is truly sickening stuff.Patrick HealyYou write: “For all the Democratic talk about afreedom agenda, the party has not really seized religious liberty, one of Mangi's core areas of pro bono work, as part of its vision of a pluralistic and inclusive society.” Why do you think this is the case for Democrats?Lydia PolgreenThere is this unfortunate Democratic tendency to end up on defense rather than affirmatively spelling out their values in contrast with Republicans.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007196281803771853,
+                    "sentence": "Biden has begun to do this since the State of the Union, but it seems rather late in the game.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000960178324021399,
+                    "sentence": "Religious tolerance and freedom are as American as apple pie, and this should be an easy story for Democrats to tell.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001009976607747376,
+                    "sentence": "Democrats are the party that believes, like the founders intended, that freedom of worship without coercion from the state is a bedrock freedom of our country, and that freedom is being threatened by a Republican Party in thrall to deeply un-American ideas inflected with Christian nationalism.Patrick HealyWhat does it say to you about America in 2024 that putting a highly qualified Muslim American on an appellate court bench is such a hard thing to do?Lydia PolgreenIslamophobia has been on the rise since Oct. 7, but there is a long history of it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020599549170583487,
+                    "sentence": "It is not surprising that Republicans would use this line of attack on a Muslim judicial nominee; after all, the party's presidential candidate, Donald Trump, rode to the presidency in part by promising to ban Muslims from coming to the United States.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002324303612112999,
+                    "sentence": "In the early days of the Trump administration, these policies were met with outrage ᅳ remember when people went to airports to protest?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001697795232757926,
+                    "sentence": "That feels like another lifetime ago.Muslims in public life are routinely subjected to suspicion, and Democrats have shown a real willingness to throw their Muslim colleagues to the wolves when they are accused of antisemitism, as the experiences ofIlhan OmarandRashida Tlaibillustrate.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012834640219807625,
+                    "sentence": "Republicans in the Trump era exercise no such scruples.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019282668363302946,
+                    "sentence": "The fact that this tactic could actually tank Mangi's nomination illustrates how Islamophobia remains one of the most widely tolerated forms of bigotry.Patrick Healy, Deputy Opinion Editor Lydia Polgreen, Opinion Columnist Patrick Healy Lydia Polgreen Patrick Healy Lydia Polgreen",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.022115309848016095,
+            "class_probabilities": {
+                "human": 0.9775963346799376,
+                "ai": 0.022115309848016095,
+                "mixed": 0.0002883554720463312
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9775963346799376,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.022115309848016095,
+                    "human": 0.9775963346799376,
+                    "mixed": 0.0002883554720463312
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "It is classic guilt by association, and the questioning was so reminiscent of Senator Joseph McCarthy’s anti-communist witch hunts.Patrick Healy, Deputy Opinion EditorLydia, what struck me most aboutyour columnon Adeel Abdullah Mangi, who is President Biden’s nominee to the Court of Appeals for the Third Circuit, was the baldness of the Republican smears. What was the worst one?Lydia Polgreen, Opinion ColumnistThe thing from the Senate hearing that was so shocking to me was the casual, almost automatic Republican assumption that Mangi, as a Muslim, might have suspect views of Oct. 7, 2023, or Sept. 11, 2001, and that asking him about them was legitimate. It is classic guilt by association, and the questioning was so reminiscent of Senator Joseph McCarthy’s anti-communist witch hunts.But even worse was what the right-wing media machine did with these questions and insinuations. Writing in TheWashington Times, the right-wing operative Mike Davis called Mangi “Hamas’s favorite judicial nominee.” An illustration superimposes the Hamas flag over his eyes. It is truly sickening stuff.Patrick HealyYou write: “For all the Democratic talk about afreedom agenda, the party has not really seized religious liberty, one of Mangi’s core areas of pro bono work, as part of its vision of a pluralistic and inclusive society.” Why do you think this is the case for Democrats?Lydia PolgreenThere is this unfortunate Democratic tendency to end up on defense rather than affirmatively spelling out their values in contrast with Republicans. Biden has begun to do this since the State of the Union, but it seems rather late in the game. Religious tolerance and freedom are as American as apple pie, and this should be an easy story for Democrats to tell. Democrats are the party that believes, like the founders intended, that freedom of worship without coercion from the state is a bedrock freedom of our country, and that freedom is being threatened by a Republican Party in thrall to deeply un-American ideas inflected with Christian nationalism.Patrick HealyWhat does it say to you about America in 2024 that putting a highly qualified Muslim American on an appellate court bench is such a hard thing to do?Lydia PolgreenIslamophobia has been on the rise since Oct. 7, but there is a long history of it. It is not surprising that Republicans would use this line of attack on a Muslim judicial nominee; after all, the party’s presidential candidate, Donald Trump, rode to the presidency in part by promising to ban Muslims from coming to the United States. In the early days of the Trump administration, these policies were met with outrage — remember when people went to airports to protest? That feels like another lifetime ago.Muslims in public life are routinely subjected to suspicion, and Democrats have shown a real willingness to throw their Muslim colleagues to the wolves when they are accused of antisemitism, as the experiences ofIlhan OmarandRashida Tlaibillustrate. Republicans in the Trump era exercise no such scruples. The fact that this tactic could actually tank Mangi’s nomination illustrates how Islamophobia remains one of the most widely tolerated forms of bigotry.Patrick Healy, Deputy Opinion Editor Lydia Polgreen, Opinion Columnist Patrick Healy Lydia Polgreen Patrick Healy Lydia Polgreen"
+        }
+    ]
+}

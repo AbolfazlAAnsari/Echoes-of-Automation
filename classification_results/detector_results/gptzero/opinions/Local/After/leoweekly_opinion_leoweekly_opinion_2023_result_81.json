@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0002751848951447755,
+                    "sentence": "LEOhasn't made an official endorsement in the race for Kentucky Governor, though it is safe to assume that Daniel Cameron is NOT our candidate.During the beginning and at the height of the pandemic, newly-elected Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00028497897437773645,
+                    "sentence": "Andy Beshear presented a calm and caring tone, acting with reserve and authority.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002448911836836487,
+                    "sentence": "Despite blowback and the rashness of the right, Beshear continued, and continues, to lead the state of Kentucky through the crisis and to greater stability.On the other hand, we have Daniel Cameron.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00024207017850130796,
+                    "sentence": "His resume in public office could fit on a postage stamp.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00026064831763505936,
+                    "sentence": "It's that thin.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015492136299144477,
+                    "sentence": "Further, in crisis, particularly during his campaign, he's made several errors that highlight his glaring inexperience.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016315549146384,
+                    "sentence": "From how he handled the harassment issues in his staff to his claim that crime in Kentucky somehow was the fault of Beshear and not his own as the highest legal officer in the state as Attorney General.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016568544378969818,
+                    "sentence": "The crime rates that he claims are going up, reflect upon him and his lack of authority and leadership skills, and not that of Beshear.On those pieces of information alone, it is easy to see that the choice for Kentucky's Governor should be the only clear (and unflappable) adult in the room.There is nothing about current elections in the United States that happens without the taint of the prior “presidential” administration, with its leader now under 91 felony charges.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013562415551859885,
+                    "sentence": "This includes how that same person has dusted this political race with his bloviating negativity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001814552815631032,
+                    "sentence": "The age of the raging man-children should be wildly disappointing and frightening for most Americans but here we are, with Cameron leading the pack of hurt man-babies having a circle jerk to the tune of Donald Trump's voice.My guess, however, is that those, like the former White House orangutan, probably squeal at the thought that Cameron might behave like a good boy in the Governor's mansion for their current White House campaign.Cameron has proven time and time again that integrity means nothing to him as he's continuously sold himself, his community, and Kentucky off to the highest bidder to pad his meager record of experience and secure endorsements from the worst of his party.It's inconceivable that any working family or any tax-paying Kentuckian would act in favor of Cameron and vote for him, especially on the endorsement of someone who misused and misreported funds to the tune of criminal charges.What we'd get with Cameron as governor would be unmitigated risk and pre-packaged and processed corruption.With Beshear, despite the silver spoon he came to public service with, we don't get flash.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002246559306513518,
+                    "sentence": "We don't get sassy language or the embarrassment of petty mudslinging.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00025878543965518475,
+                    "sentence": "What we do get is calm, quiet leadership by a man who has built a life in Kentucky without giving away his ideals and dignity to the highest bidder.We get someone who has taken his roles in public service both as Attorney General, and Governor, very seriously and served this state to the best of his legal ability, and if we only look at his response to the pandemic, he deserves to serve another term as Governor that hopefully sees Kentucky move toward a newer and hopefully more modern future.So, if we are going to endorse anyone, we're standing firmly with Andy.·***.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.006608679833334143,
+            "class_probabilities": {
+                "human": 0.9933913201666659,
+                "ai": 0.006608679833334143,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933913201666659,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006608679833334143,
+                    "human": 0.9933913201666659,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "LEOhasn’t made an official endorsement in the race for Kentucky Governor, though it is safe to assume that Daniel Cameron is NOT our candidate.During the beginning and at the height of the pandemic, newly-elected Gov. Andy Beshear presented a calm and caring tone, acting with reserve and authority. Despite blowback and the rashness of the right, Beshear continued, and continues, to lead the state of Kentucky through the crisis and to greater stability.On the other hand, we have Daniel Cameron. His resume in public office could fit on a postage stamp. It’s that thin. Further, in crisis, particularly during his campaign, he’s made several errors that highlight his glaring inexperience. From how he handled the harassment issues in his staff to his claim that crime in Kentucky somehow was the fault of Beshear and not his own as the highest legal officer in the state as Attorney General. The crime rates that he claims are going up, reflect upon him and his lack of authority and leadership skills, and not that of Beshear.On those pieces of information alone, it is easy to see that the choice for Kentucky’s Governor should be the only clear (and unflappable) adult in the room.There is nothing about current elections in the United States that happens without the taint of the prior “presidential” administration, with its leader now under 91 felony charges. This includes how that same person has dusted this political race with his bloviating negativity. The age of the raging man-children should be wildly disappointing and frightening for most Americans but here we are, with Cameron leading the pack of hurt man-babies having a circle jerk to the tune of Donald Trump’s voice.My guess, however, is that those, like the former White House orangutan, probably squeal at the thought that Cameron might behave like a good boy in the Governor’s mansion for their current White House campaign.Cameron has proven time and time again that integrity means nothing to him as he’s continuously sold himself, his community, and Kentucky off to the highest bidder to pad his meager record of experience and secure endorsements from the worst of his party.It’s inconceivable that any working family or any tax-paying Kentuckian would act in favor of Cameron and vote for him, especially on the endorsement of someone who misused and misreported funds to the tune of criminal charges.What we’d get with Cameron as governor would be unmitigated risk and pre-packaged and processed corruption.With Beshear, despite the silver spoon he came to public service with, we don’t get flash. We don’t get sassy language or the embarrassment of petty mudslinging. What we do get is calm, quiet leadership by a man who has built a life in Kentucky without giving away his ideals and dignity to the highest bidder.We get someone who has taken his roles in public service both as Attorney General, and Governor, very seriously and served this state to the best of his legal ability, and if we only look at his response to the pandemic, he deserves to serve another term as Governor that hopefully sees Kentucky move toward a newer and hopefully more modern future.So, if we are going to endorse anyone, we’re standing firmly with Andy.•*** ."
+        }
+    ]
+}

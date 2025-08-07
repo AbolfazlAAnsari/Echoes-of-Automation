@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.01135497447103262,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°The Michigan Department of Health and Human Services reported Thursday that another farmworker has been infected with H5N1, an avian flu virus.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010992367751896381,
+                    "sentence": "Alarmingly, unlike earlier cases, he has respiratory symptoms.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009190338663756847,
+                    "sentence": "This means the virus is in his lungs, where it has a better chance to evolve into an airborne form that could easily infect others.Viruses often hit a dead end when they cross from one species to another, getting stuck at their first victim.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013433059677481651,
+                    "sentence": "For example, H5N1 has been around since the 1990s, but most patients have had extensive, direct contact with sick poultry and almost never pass it on to other humans.The pathogens that have the greatest potential to set off a pandemic often have a deadly combination of airborne transmission and frequent mild cases, allowing them to spread widely and stealthily.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.015664665028452873,
+                    "sentence": "That's a key reason there hasn't yet been an Ebola pandemic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01776142604649067,
+                    "sentence": "The disease causes severe illness and kills most victims, and it mainly spreads through close contact with infected bodily fluids.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.029267795383930206,
+                    "sentence": "It has fewer chances to spread widely than another disease might.The United States is certainly giving H5N1 many, many chances to adapt to spreading easily and quietly among humans.Cows started getting sick with H5N1 in the winter, but unlike birds with H5N1, they weren't dying.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02070014365017414,
+                    "sentence": "It took dogged investigation by Dr. Barb Petersen, a veterinarian in Texas, to determine that they were afflicted with a form of avian influenza.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0031759128905832767,
+                    "sentence": "When we spoke, she told me that whenever cows fell sick on farms she monitored, an unusual number of people also became ill.In April, the Centers for Disease Control and Prevention reported a farmworker in Texas had been infected with H5N1.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004833010025322437,
+                    "sentence": "This month, state health officials in Michigan found two more human cases (including the one reported Thursday).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005329657346010208,
+                    "sentence": "Even so, public health officials have largely been slow to establish the sort of widespread testing and data sharing that would give Americans the best chance at stopping an H5N1 pandemic.This month, Dr. Mandy Cohen, director of the CDC, told The New York Times there were no immediate plans to make testing mandatory.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00873603392392397,
+                    "sentence": "But if we don't test for H5N1, we won't find it.As Rick Bright, an expert on the H5N1 virus who served on President Joe Biden's coronavirus advisory board, told me: “We are missing additional cases by not testing.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0103696808218956,
+                    "sentence": "We are missing evolutionary patterns of the virus by not sequencing more.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.016325432807207108,
+                    "sentence": "We are also losing the trust of people by not being completely timely and transparent with data and information as it becomes available.”This virus may never evolve to spread dangerously among humans, but if it does, this particular avian flu pandemic will go down as one of the most avoidable slow-motion disasters in history.© 2024 The New York Times Company",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 1.9423489116273474e-12
+                }
+            ],
+            "completely_generated_prob": 0.039839419682113825,
+            "class_probabilities": {
+                "human": 0.9601605803178862,
+                "ai": 0.039839419682113825,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601605803178862,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039839419682113825,
+                    "human": 0.9601605803178862,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°The Michigan Department of Health and Human Services reported Thursday that another farmworker has been infected with H5N1, an avian flu virus. Alarmingly, unlike earlier cases, he has respiratory symptoms. This means the virus is in his lungs, where it has a better chance to evolve into an airborne form that could easily infect others.Viruses often hit a dead end when they cross from one species to another, getting stuck at their first victim. For example, H5N1 has been around since the 1990s, but most patients have had extensive, direct contact with sick poultry and almost never pass it on to other humans.The pathogens that have the greatest potential to set off a pandemic often have a deadly combination of airborne transmission and frequent mild cases, allowing them to spread widely and stealthily. That’s a key reason there hasn’t yet been an Ebola pandemic. The disease causes severe illness and kills most victims, and it mainly spreads through close contact with infected bodily fluids. It has fewer chances to spread widely than another disease might.The United States is certainly giving H5N1 many, many chances to adapt to spreading easily and quietly among humans.Cows started getting sick with H5N1 in the winter, but unlike birds with H5N1, they weren’t dying. It took dogged investigation by Dr. Barb Petersen, a veterinarian in Texas, to determine that they were afflicted with a form of avian influenza. When we spoke, she told me that whenever cows fell sick on farms she monitored, an unusual number of people also became ill.In April, the Centers for Disease Control and Prevention reported a farmworker in Texas had been infected with H5N1. This month, state health officials in Michigan found two more human cases (including the one reported Thursday). Even so, public health officials have largely been slow to establish the sort of widespread testing and data sharing that would give Americans the best chance at stopping an H5N1 pandemic.This month, Dr. Mandy Cohen, director of the CDC, told The New York Times there were no immediate plans to make testing mandatory. But if we don’t test for H5N1, we won’t find it.As Rick Bright, an expert on the H5N1 virus who served on President Joe Biden’s coronavirus advisory board, told me: “We are missing additional cases by not testing. We are missing evolutionary patterns of the virus by not sequencing more. We are also losing the trust of people by not being completely timely and transparent with data and information as it becomes available.”This virus may never evolve to spread dangerously among humans, but if it does, this particular avian flu pandemic will go down as one of the most avoidable slow-motion disasters in history.© 2024 The New York Times Company"
+        }
+    ]
+}

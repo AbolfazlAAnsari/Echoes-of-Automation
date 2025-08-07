@@ -1,0 +1,82 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00015434276429004967,
+                    "sentence": "Electoral violence is in our DNA.Electoral violence is in our DNA.In the wake of Wednesday's insurrection, lawmakers have embraced one response: “This is not who we are.” But that's not true at all.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014314986765384674,
+                    "sentence": "Guns, conspiracies, rampages: The video above argues that everything we saw that afternoon was exactly who we are ᅳ because it's the product of who we've always been.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016544017125852406,
+                    "sentence": "Until we face that truth, we'll never change it.Lindsay Crouse (@lindsaycrouse) is a senior staff editor in Opinion.Adam Westbrookis a producer with Opinion Video.Sanya Dosani (@saninamillion) is a producer with Opinion Video.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                }
+            ],
+            "completely_generated_prob": 0.005178053375559126,
+            "class_probabilities": {
+                "human": 0.9948219466244408,
+                "ai": 0.005178053375559126,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9948219466244408,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.005178053375559126,
+                    "human": 0.9948219466244408,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Electoral violence is in our DNA.Electoral violence is in our DNA.In the wake of Wednesday’s insurrection, lawmakers have embraced one response: “This is not who we are.” But that’s not true at all. Guns, conspiracies, rampages: The video above argues that everything we saw that afternoon was exactly who we are — because it’s the product of who we’ve always been. Until we face that truth, we’ll never change it.Lindsay Crouse (@lindsaycrouse) is a senior staff editor in Opinion.Adam Westbrookis a producer with Opinion Video.Sanya Dosani (@saninamillion) is a producer with Opinion Video."
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00035657649277709424,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Special Counsel Jack Smith has filed a new indictment against Donald Trump's attempts to interfere in the 2020 election, an effort to comply with the Supreme Court's dangerous immunity decision from July, holding that presidents cannot be criminally investigated or prosecuted for so-called official acts.The four counts remain, with the main distinction being that the new document jettisons Trump's meddling with the Justice Department and focuses mostly on his attempts to lean on state and local officials to rig the election on his behalf.This is wise for the simple reason that such acts are clearly outside of even the most expansive view of presidential authorities, and are plenty well-evidenced enough on their own.It's a shame that this is even necessary.This cat and mouse game is frankly embarrassing for our country; the counts are the same because the alleged crimes themselves haven't changed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004120530793443322,
+                    "sentence": "All that's happened is that the Supreme Court has made the offenses harder to prosecute, not just against Trump, but any president who chooses to use the powers of the office for acts that run counter to the public interest and the oath of office.That's a problem that we'll have to deal with more straightforwardly sometime soon, but for now, it's still important to hold Trump accountable for the acts that we all watched, heard and experienced him committing.It is worth reiterating that there is plenty of evidence that Trump actually did what he's accused of.Trump was recorded trying to have the Georgia secretary of state falsify that state's vote count.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004235243541188538,
+                    "sentence": "Trump has been tied by testimony that he conspired to have slates of fake electors cast their counterfeit ballots for him.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005083824507892132,
+                    "sentence": "Trump was on camera whipping up the crowd that would go on to march on the Capitol, and he did tell the Proud Boys and other potentially armed extremist groups to “stand by.” It's on video, in transcripts, in investigative documents, all laid out in sordid detail.What we're really arguing about here, then, is if all this conduct should result in criminal charges and a public trial that could end with the former president being convicted.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006519087473861873,
+                    "sentence": "That's the concept of no one being above the law.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009064390906132758,
+                    "sentence": "There is no free pass for holders of high public office.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00040227139834314585,
+                    "sentence": "The rule and all that, right?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007910847780294716,
+                    "sentence": "Otherwise, then what?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006087386864237487,
+                    "sentence": "What comes after we say that a president can stage a coup?Still, the justices get the last word and they have ruled and now Smith, following their edict, has responded based on the new (and we still contend, wrong, limits).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007036533788777888,
+                    "sentence": "Not prosecuting a former president on clear transgressions over strained legal technicalities is not better than not doing so for more explicit partisan reasons, and indeed the court has already derailed the possibility that this case will move forward before the election, leaving the American electorate to cast their ballots without the benefit of having seen the case presented against him in a court of law.So we commend Smith for not being dissuaded and moving forward with this indictment, even as we rue that the court has misguidedly immunized past or future efforts to weaponize the Justice Department.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005918130045756698,
+                    "sentence": "We'll take the accountability we can get, for now.ᅳ New York Daily NewsWASHINGTON ᅳ The gunman who tried to kill Donald Trump mounted a “sustained, detailed effort” to attack a major gathering of some sort before deciding to target the Republican presidential candidate at a Pennsylvania rally in July, FBI officials said on Wednesday.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.01281881855424871,
+            "class_probabilities": {
+                "human": 0.9871811814457513,
+                "ai": 0.01281881855424871,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9871811814457513,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01281881855424871,
+                    "human": 0.9871811814457513,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Special Counsel Jack Smith has filed a new indictment against Donald Trump’s attempts to interfere in the 2020 election, an effort to comply with the Supreme Court’s dangerous immunity decision from July, holding that presidents cannot be criminally investigated or prosecuted for so-called official acts.The four counts remain, with the main distinction being that the new document jettisons Trump’s meddling with the Justice Department and focuses mostly on his attempts to lean on state and local officials to rig the election on his behalf.This is wise for the simple reason that such acts are clearly outside of even the most expansive view of presidential authorities, and are plenty well-evidenced enough on their own.It’s a shame that this is even necessary.This cat and mouse game is frankly embarrassing for our country; the counts are the same because the alleged crimes themselves haven’t changed. All that’s happened is that the Supreme Court has made the offenses harder to prosecute, not just against Trump, but any president who chooses to use the powers of the office for acts that run counter to the public interest and the oath of office.That’s a problem that we’ll have to deal with more straightforwardly sometime soon, but for now, it’s still important to hold Trump accountable for the acts that we all watched, heard and experienced him committing.It is worth reiterating that there is plenty of evidence that Trump actually did what he’s accused of.Trump was recorded trying to have the Georgia secretary of state falsify that state’s vote count. Trump has been tied by testimony that he conspired to have slates of fake electors cast their counterfeit ballots for him. Trump was on camera whipping up the crowd that would go on to march on the Capitol, and he did tell the Proud Boys and other potentially armed extremist groups to “stand by.” It’s on video, in transcripts, in investigative documents, all laid out in sordid detail.What we’re really arguing about here, then, is if all this conduct should result in criminal charges and a public trial that could end with the former president being convicted. That’s the concept of no one being above the law. There is no free pass for holders of high public office. The rule and all that, right? Otherwise, then what? What comes after we say that a president can stage a coup?Still, the justices get the last word and they have ruled and now Smith, following their edict, has responded based on the new (and we still contend, wrong, limits). Not prosecuting a former president on clear transgressions over strained legal technicalities is not better than not doing so for more explicit partisan reasons, and indeed the court has already derailed the possibility that this case will move forward before the election, leaving the American electorate to cast their ballots without the benefit of having seen the case presented against him in a court of law.So we commend Smith for not being dissuaded and moving forward with this indictment, even as we rue that the court has misguidedly immunized past or future efforts to weaponize the Justice Department. We’ll take the accountability we can get, for now.— New York Daily NewsWASHINGTON — The gunman who tried to kill Donald Trump mounted a “sustained, detailed effort” to attack a major gathering of some sort before deciding to target the Republican presidential candidate at a Pennsylvania rally in July, FBI officials said on Wednesday."
+        }
+    ]
+}

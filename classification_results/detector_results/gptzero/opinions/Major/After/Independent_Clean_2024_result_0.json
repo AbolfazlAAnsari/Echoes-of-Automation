@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 6.928007496753708e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.7775214625289664e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukAs much as my heart wishes it, my realistic head reminds me of theenormous task required for Labourto not only win a general election at any point in 2024 but to maintain aworking majorityfor the full term of parliament.Reversing the Tories' 2019 election result would beon a scale hardly ever seenin modern British history - 1906, 1945 and 1997 are rare examples.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.5008520828559995e-05,
+                    "sentence": "That it can happen and, in each instance, on a left-of-centre programme offers some hope this can be repeated.However, the tendency is forgaping polling advantagesto narrow as the election day draws closer, while the inevitable instinct of the governing party is to entice back its traditional voter base with desperate tax giveaways - as appears likely with Jeremy Hunt's early March Budget, and so diminish the chances of a Labour landslide.In this scenario, Labour might be well advised to keep focused on capturing its target seats and avoid getting distracted fighting for seats in the nominally blue shires, so avoiding a hung parliament or gaining sufficient momentum to go for an even greater Commons majority the second time round, as happened in 1974.Paul DolanCheshireAn election year?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.2428939195815474e-05,
+                    "sentence": "I'll drink to thatI read Rosamund Hall's column (I'm not doing Dry January, and you don't have to either, 1 January) with interest.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.031707405578345e-05,
+                    "sentence": "As I have become rather partial to ginger wine on these cold, blustery days, I think she makes some pertinent points.She is right that the relationship to alcohol can be a concern, but everything in moderation is the way to drink.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.885001883143559e-05,
+                    "sentence": "If a dry January spurs people on, then good for them and their innate discipline.But hey... the champagne corks might be popping soon, or at least at the beginning of next year, if there is a change of political guard.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.117420657072216e-05,
+                    "sentence": "I, for one, will drink to that, whenever the general election delivers the goods for Labour!Judith DanielsNorfolkHonours without honourAmid the understandable furore over theLiz Truss resignation honours list, one should surely also question why various Orders of the British Empire are still given to (mostly) well-deserving recipients who have made worthy contributions to their communities and fellow citizens.The United Kingdom does not now have an Empire.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004944803658872843,
+                    "sentence": "So why do we persist in giving an honour in the name of the British Empire, which is particularly insulting to independent Commonwealth countries' recipients?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004710479115601629,
+                    "sentence": "Should we not give honours in a more accurate and meaningfully named form, such as related to the Commonwealth honours system, which already exists?Paul R DraperWinchesterIgnore Tory attacks on inheritance taxAs per Lord Lamont,cutting inheritance taxonly benefits “a small number of people”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004713302187155932,
+                    "sentence": "Indeed, fewer than 4 per cent of estates pay this tax.Scrapping this tax would deny the public coffers billions of pounds a year at a time when consecutive Tory governments have run down public services.However, Jacob Rees-Mogg says it is “a pernicious and bad tax, which ought to be scrapped”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004912233562208712,
+                    "sentence": "Rees-Mogg needs to look in the mirror.Levying inheritance tax on estates that can afford to pay such a tax, at a time when investment is required across a whole range of public services, is not pernicious or bad.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005721939378418028,
+                    "sentence": "Suggesting that the haves should pay less tax, while the vast majority of have-nots suffer as a result of underfunded public services is both pernicious and bad.Nick EastwellLondon",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.006608679833334143,
+            "class_probabilities": {
+                "human": 0.9933913201666659,
+                "ai": 0.006608679833334143,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933913201666659,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006608679833334143,
+                    "human": 0.9933913201666659,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukAs much as my heart wishes it, my realistic head reminds me of theenormous task required for Labourto not only win a general election at any point in 2024 but to maintain aworking majorityfor the full term of parliament.Reversing the Tories’ 2019 election result would beon a scale hardly ever seenin modern British history – 1906, 1945 and 1997 are rare examples. That it can happen and, in each instance, on a left-of-centre programme offers some hope this can be repeated.However, the tendency is forgaping polling advantagesto narrow as the election day draws closer, while the inevitable instinct of the governing party is to entice back its traditional voter base with desperate tax giveaways – as appears likely with Jeremy Hunt's early March Budget, and so diminish the chances of a Labour landslide.In this scenario, Labour might be well advised to keep focused on capturing its target seats and avoid getting distracted fighting for seats in the nominally blue shires, so avoiding a hung parliament or gaining sufficient momentum to go for an even greater Commons majority the second time round, as happened in 1974.Paul DolanCheshireAn election year? I’ll drink to thatI read Rosamund Hall’s column (I'm not doing Dry January, and you don’t have to either, 1 January) with interest. As I have become rather partial to ginger wine on these cold, blustery days, I think she makes some pertinent points.She is right that the relationship to alcohol can be a concern, but everything in moderation is the way to drink. If a dry January spurs people on, then good for them and their innate discipline.But hey... the champagne corks might be popping soon, or at least at the beginning of next year, if there is a change of political guard. I, for one, will drink to that, whenever the general election delivers the goods for Labour!Judith DanielsNorfolkHonours without honourAmid the understandable furore over theLiz Truss resignation honours list, one should surely also question why various Orders of the British Empire are still given to (mostly) well-deserving recipients who have made worthy contributions to their communities and fellow citizens.The United Kingdom does not now have an Empire. So why do we persist in giving an honour in the name of the British Empire, which is particularly insulting to independent Commonwealth countries’ recipients? Should we not give honours in a more accurate and meaningfully named form, such as related to the Commonwealth honours system, which already exists?Paul R DraperWinchesterIgnore Tory attacks on inheritance taxAs per Lord Lamont,cutting inheritance taxonly benefits “a small number of people”. Indeed, fewer than 4 per cent of estates pay this tax.Scrapping this tax would deny the public coffers billions of pounds a year at a time when consecutive Tory governments have run down public services.However, Jacob Rees-Mogg says it is “a pernicious and bad tax, which ought to be scrapped”. Rees-Mogg needs to look in the mirror.Levying inheritance tax on estates that can afford to pay such a tax, at a time when investment is required across a whole range of public services, is not pernicious or bad. Suggesting that the haves should pay less tax, while the vast majority of have-nots suffer as a result of underfunded public services is both pernicious and bad.Nick EastwellLondon"
+        }
+    ]
+}

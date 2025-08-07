@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 6.225708057172596e-05,
+                    "sentence": "Kellyanne Conway and Sean Spicer have both been asked to step down or be sacked.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.15908536221832e-05,
+                    "sentence": "The response has been typical, writes Chris StevensonAnother day, another spat betweenJoe Biden'sWhite Houseand former members of theDonald Trumpadministration.Eleven Trump appointees to boards advising military service have been asked to step down - or be sacked.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.169267337303609e-05,
+                    "sentence": "Among those sent letters to that effect were Trump adviserKellyanne Conwayand former White House press secretarySean Spicer.The current White House press secretary, Jen Psaki, said: \"The president's objective... is to ensure you have nominees and people serving on these boards who are qualified to serve on them and who are aligned with your values.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010816384019562975,
+                    "sentence": "And so yes, that was an ask that was made.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.8253205275395885e-05,
+                    "sentence": "\"The response was typical.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.340675412910059e-05,
+                    "sentence": "Spicer used his slot on the right-wing Newsmax to say: \"This move has taken partisanship to a new level.\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.860505916643888e-05,
+                    "sentence": "Conwaytweeted a letterin response to the request from The White House, adding: \"President Biden, I'm not resigning, but you should.\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.13390249479562e-05,
+                    "sentence": "As has become a regular occurrence from those connected to the Trump administration, Spicer and Conway were \"taking a stand\" against Biden.Those two cases are pretty clear cut - the case of HR McMaster, a retired army general who was Trump's second national security adviser, less so.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.8607773780822754,
+                    "sentence": "McMaster was appointed to the board at West Point and you can't argue he would not be qualified.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.8704555034637451,
+                    "sentence": "But if Biden wants a clean slate, it is hard to blame him.More than 18 months after his inauguration, Biden would likely have wanted to be finished with talking about the previous administration.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9107999205589294,
+                    "sentence": "It is a fine line between dealing with issues like this one (which will play well with Biden's own supporter base) and giving former Trump officials the oxygen of publicity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9001359343528748,
+                    "sentence": "There is a school of thought that a number of readers have put across in recent months - that Biden should just rise above it all.But it is an issue that will not be going away.Yours,Chris StevensonVoices editorRead MoreEditor's Letter: Remember 9/11 but don't forget events that aren't so well reportedEditor's Letter: Even the most pointless of football matches can have some meaningEditor's Letter: The Paralympic Games need to be more than a glorious two weeks",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 3.122979482305895e-05
+                }
+            ],
+            "completely_generated_prob": 0.2425855513307985,
+            "class_probabilities": {
+                "human": 0.7574144486692015,
+                "ai": 0.2425855513307985,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.7574144486692015,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.2425855513307985,
+                    "human": 0.7574144486692015,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Kellyanne Conway and Sean Spicer have both been asked to step down or be sacked. The response has been typical, writes Chris StevensonAnother day, another spat betweenJoe Biden'sWhite Houseand former members of theDonald Trumpadministration.Eleven Trump appointees to boards advising military service have been asked to step down - or be sacked. Among those sent letters to that effect were Trump adviserKellyanne Conwayand former White House press secretarySean Spicer.The current White House press secretary, Jen Psaki, said: \"The president's objective ... is to ensure you have nominees and people serving on these boards who are qualified to serve on them and who are aligned with your values. And so yes, that was an ask that was made.\"The response was typical. Spicer used his slot on the right-wing Newsmax to say: \"This move has taken partisanship to a new level.\" Conwaytweeted a letterin response to the request from The White House, adding: \"President Biden, I'm not resigning, but you should.\" As has become a regular occurrence from those connected to the Trump administration, Spicer and Conway were \"taking a stand\" against Biden.Those two cases are pretty clear cut - the case of HR McMaster, a retired army general who was Trump's second national security adviser, less so. McMaster was appointed to the board at West Point and you can't argue he would not be qualified. But if Biden wants a clean slate, it is hard to blame him.More than 18 months after his inauguration, Biden would likely have wanted to be finished with talking about the previous administration. It is a fine line between dealing with issues like this one (which will play well with Biden's own supporter base) and giving former Trump officials the oxygen of publicity. There is a school of thought that a number of readers have put across in recent months - that Biden should just rise above it all.But it is an issue that will not be going away.Yours,Chris StevensonVoices editorRead MoreEditor's Letter: Remember 9/11 but don't forget events that aren't so well reportedEditor's Letter: Even the most pointless of football matches can have some meaningEditor's Letter: The Paralympic Games need to be more than a glorious two weeks"
+        }
+    ]
+}

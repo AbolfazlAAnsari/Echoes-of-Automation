@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00010915577877312899,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.731205550953746e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukNo matter how much the polls and pollstersfavour Labour winning the general election, thepartyneeds to incite the electorate to come out to vote.Mr Starmer mustmarshal his troops, polish hismanifesto, and encourage his potential MPs to engage the electorate like never before.Labourcan win the next election if there is a wholehearted push for votes.The Tories are in a hell of a mess.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.697776891291142e-05,
+                    "sentence": "Mr Sunak has lost control of his party, as it appears fractious elements are controlling his tenure as PM.The past14 years of Conservative rulehave reduced Britain's economy to a state of stagnation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.597693911520764e-05,
+                    "sentence": "Living standards have fallen to the lowest level since the sixties.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.2453982536681e-05,
+                    "sentence": "Our infrastructure is in ruins.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.624792174785398e-05,
+                    "sentence": "Business investment is almost non-existent.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.748632586095482e-05,
+                    "sentence": "And the government is wasting time, effort and vast amounts of money on sending refugees to Rwanda.I truly believe that unless the Tory government is defeated at the next election Britain will continue to suffer their same mismanagement and their same lies and half-truths.Keith PooleBasingstokeInformation overloadOn the subject of attention spans, I feel it is worth mentioning a train of thought that has a distinct connection.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010613418271532282,
+                    "sentence": "Apparently, the average person living around 150 years ago experienced as much information in a lifetime as the average person now does in a year.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0072904955595731735,
+                    "sentence": "I've also read something similar around a dweller in the Middle Ages consuming lifetime information that we now do in a day.These are not precise and ironically, I cannot remember where or when I read this hypothesis, but I think the underlying theory has plenty to commend it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004733492154628038,
+                    "sentence": "Thank you toJudith Danielsand Alan Rusbridger for jogging my overloaded memory.Robert BostonKentFinally, justice for victimsAt long last it appears that victims of the Post Office scandal are to be compensated and it is to be hoped that a substantial part of that money will come from Fujitsu if they are found to have been complicit.Similarly, victims of the blood products fiasco are belatedly to receive compensation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0024284154642373323,
+                    "sentence": "However it remains to be seen if the pharma companies selling these products will be forced to pay up.G ForwardStirlingStarmer looks the partWell done Sir Keir Starmer forbacking strikes on Houthi rebelsin order to protect the United Kingdom.After what has been happening in the Red Sea area, this is something that is in the national interest and therefore deserves Labour support.It once again proves Sir Keir's statesmanship as a prime minister in waiting.Geoffrey BrookingHampshire",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.020796750353547094,
+            "class_probabilities": {
+                "human": 0.9792032496464529,
+                "ai": 0.020796750353547094,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9792032496464529,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020796750353547094,
+                    "human": 0.9792032496464529,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukNo matter how much the polls and pollstersfavour Labour winning the general election, thepartyneeds to incite the electorate to come out to vote.Mr Starmer mustmarshal his troops, polish hismanifesto, and encourage his potential MPs to engage the electorate like never before.Labourcan win the next election if there is a wholehearted push for votes.The Tories are in a hell of a mess. Mr Sunak has lost control of his party, as it appears fractious elements are controlling his tenure as PM.The past14 years of Conservative rulehave reduced Britain’s economy to a state of stagnation. Living standards have fallen to the lowest level since the sixties. Our infrastructure is in ruins. Business investment is almost non-existent. And the government is wasting time, effort and vast amounts of money on sending refugees to Rwanda.I truly believe that unless the Tory government is defeated at the next election Britain will continue to suffer their same mismanagement and their same lies and half-truths.Keith PooleBasingstokeInformation overloadOn the subject of attention spans, I feel it is worth mentioning a train of thought that has a distinct connection. Apparently, the average person living around 150 years ago experienced as much information in a lifetime as the average person now does in a year. I’ve also read something similar around a dweller in the Middle Ages consuming lifetime information that we now do in a day.These are not precise and ironically, I cannot remember where or when I read this hypothesis, but I think the underlying theory has plenty to commend it. Thank you toJudith Danielsand Alan Rusbridger for jogging my overloaded memory.Robert BostonKentFinally, justice for victimsAt long last it appears that victims of the Post Office scandal are to be compensated and it is to be hoped that a substantial part of that money will come from Fujitsu if they are found to have been complicit.Similarly, victims of the blood products fiasco are belatedly to receive compensation. However it remains to be seen if the pharma companies selling these products will be forced to pay up.G ForwardStirlingStarmer looks the partWell done Sir Keir Starmer forbacking strikes on Houthi rebelsin order to protect the United Kingdom.After what has been happening in the Red Sea area, this is something that is in the national interest and therefore deserves Labour support.It once again proves Sir Keir’s statesmanship as a prime minister in waiting.Geoffrey BrookingHampshire"
+        }
+    ]
+}

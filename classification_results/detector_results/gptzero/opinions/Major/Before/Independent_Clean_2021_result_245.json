@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0005147205665707588,
+                    "sentence": "Please send your letters toletters@independent.co.ukOn what basis is a 22-year-old crane driver with a social media presence demonstrating mental health issues andfar-rightinterests deemed safe to hold a licence for a shotgun?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006807913887314498,
+                    "sentence": "Surely gun licence requirements need to be urgently tightened?Brian MitchellCambridgeAchievement not potentialYesterday'sarticle by Maya Oppenheimends: \"We must prioritise investment in schools in low-income areas to build a fairer, thriving society - so every child has the chance to receive the grades that truly reflect their potential.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00033023307332769036,
+                    "sentence": "\"Surely grades should reflect achievement not potential?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005282411584630609,
+                    "sentence": "Are teachers really awarding grades, not on what pupils have achieved now, but on speculation concerning pupils' future potential?Come back, exams.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006284969858825207,
+                    "sentence": "All is forgiven.Roger ThomasEast LothianSmall gesturesI hope that beyond this phase of intense brutality and settling of old scores, as theTalibanwar machine rolls acrossAfghanistan, that some kind of \"modus vivendi\" is reached between the fundamentalist values of the insurgents and the more liberal aspirations of much of the Afghan population - particularly amongst its young in the main urban centres.This may be too much to expect, and history suggests a long period of cultural and democratic suppression, but Taliban messages that girls will still be permitted to attend school if they are deemed to dress appropriately, hold out some encouragement even if it shocks western sensibilities.If such small gestures are made, they should be responded to positively by the west in the hope that some relations can one day be re-established with a new regime in Kabul and discourage the country from drifting into the orbit of Iran or China.Paul DolanCheshireVaccines for school childrenThe cost of installing air purifiers or other forms of ventilation across all schools is prohibitive and the time scale to purchase and set them up would be too long.Surely, if there is a real risk of a Covid explosion in schools next term, we should be looking to vaccinate school children.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020425869151949883,
+                    "sentence": "Any such programme needs to be preceded by a national dialogue with young people, listening to their concerns and explaining the reasons for the policy.John E HarrisonChorleyUna Stubbs as Mrs HudsonAs a self-confessed Sherlock Holmes addict, I have read many of the books, seen films back to Basil Rathbone, listened to countless radio adaptations, watched many TV series both serious and spoof, and not forgetting the play in the theatre.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004523938521742821,
+                    "sentence": "I also attended a rather good exhibition at the Museum of London a few years ago.Therefore, I feel I have enough experience to confidently state thatUna Stubbs, who has just died aged 84, was the best portrayal of Mrs Hudson across the entire canon.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018672109581530094,
+                    "sentence": "I shall rewatch this excellent series as soon as possible.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0031891800463199615,
+                    "sentence": "Best wishes to all family and friends at this difficult time.Robert BostonKentRead MoreThe Afghan people need our help - many are at risk from the TalibanTaliban take control of another provincial capitalThe Taliban are storming prisons holding thousands of militants",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.024461651786716186,
+            "class_probabilities": {
+                "human": 0.9754981327244504,
+                "ai": 0.024461651786716186,
+                "mixed": 4.0215488833363626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9754981327244504,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024461651786716186,
+                    "human": 0.9754981327244504,
+                    "mixed": 4.0215488833363626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukOn what basis is a 22-year-old crane driver with a social media presence demonstrating mental health issues andfar-rightinterests deemed safe to hold a licence for a shotgun? Surely gun licence requirements need to be urgently tightened?Brian MitchellCambridgeAchievement not potentialYesterday'sarticle by Maya Oppenheimends: \"We must prioritise investment in schools in low-income areas to build a fairer, thriving society - so every child has the chance to receive the grades that truly reflect their potential.\"Surely grades should reflect achievement not potential? Are teachers really awarding grades, not on what pupils have achieved now, but on speculation concerning pupils' future potential?Come back, exams. All is forgiven.Roger ThomasEast LothianSmall gesturesI hope that beyond this phase of intense brutality and settling of old scores, as theTalibanwar machine rolls acrossAfghanistan, that some kind of \"modus vivendi\" is reached between the fundamentalist values of the insurgents and the more liberal aspirations of much of the Afghan population - particularly amongst its young in the main urban centres.This may be too much to expect, and history suggests a long period of cultural and democratic suppression, but Taliban messages that girls will still be permitted to attend school if they are deemed to dress appropriately, hold out some encouragement even if it shocks western sensibilities.If such small gestures are made, they should be responded to positively by the west in the hope that some relations can one day be re-established with a new regime in Kabul and discourage the country from drifting into the orbit of Iran or China.Paul DolanCheshireVaccines for school childrenThe cost of installing air purifiers or other forms of ventilation across all schools is prohibitive and the time scale to purchase and set them up would be too long.Surely, if there is a real risk of a Covid explosion in schools next term, we should be looking to vaccinate school children. Any such programme needs to be preceded by a national dialogue with young people, listening to their concerns and explaining the reasons for the policy.John E HarrisonChorleyUna Stubbs as Mrs HudsonAs a self-confessed Sherlock Holmes addict, I have read many of the books, seen films back to Basil Rathbone, listened to countless radio adaptations, watched many TV series both serious and spoof, and not forgetting the play in the theatre. I also attended a rather good exhibition at the Museum of London a few years ago.Therefore, I feel I have enough experience to confidently state thatUna Stubbs, who has just died aged 84, was the best portrayal of Mrs Hudson across the entire canon. I shall rewatch this excellent series as soon as possible. Best wishes to all family and friends at this difficult time.Robert BostonKentRead MoreThe Afghan people need our help - many are at risk from the TalibanTaliban take control of another provincial capitalThe Taliban are storming prisons holding thousands of militants"
+        }
+    ]
+}

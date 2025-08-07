@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 3.930233287974261e-05,
+                    "sentence": "Six former soldiers share their accounts.This article also appears in the Opinion Today newsletter.You can sign up hereto receive it in your inbox each weekday morning.Today, Times Opinion'sOp-Docsteam publishedthe award-winning short documentary “Mission: Hebron.”In it, six former Israeli soldiers offer eye-opening accounts of their recent service in Hebron, an overwhelmingly Palestinian city in the West Bank.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.069115336984396e-05,
+                    "sentence": "Soldiers assigned there are responsible for protecting the security of a small community of Jewish settlers in an area of the city center known as H2.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.54595979640726e-05,
+                    "sentence": "In practice, they exercise a high degree of authority over Palestinian civilian life and movement through the use of checkpoints, roadblocks, random searches,facial-recognition programsand other enforcement mechanisms.In this film, Rona Segal, an acclaimed Israeli director and screenwriter who learned how to make films while serving in the Israeli Army, turns the camera on her fellow ex-soldiers, some of whom have never before spoken publicly about their experiences.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.724881753441878e-05,
+                    "sentence": "To find soldiers who were willing to speak on camera, Segal reached out through people she knew and human rights organizations, including the Israeli advocacy group Breaking the Silence.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005971083417534828,
+                    "sentence": "Together, with cellphone footage captured by local witnesses, the accounts of those she interviewed offer a view of military life in Hebron that is filled with boredom, brutality and the sense that, as one soldier puts it, “everyone's a suspect.”“Mission: Hebron” debuted in 2020 at the International Documentary Film Festival Amsterdam, one of the most prestigious documentary festivals in the world.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006178623531013727,
+                    "sentence": "It has screened at film festivals around the globe, including in Israel at the Jerusalem Film Festival, where it won Best Short Documentary.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006044027395546436,
+                    "sentence": "This year, it was selected as a candidate for Best Short at the European Film Awards and was nominated for an Ophir Award (sometimes known as the “Israeli Oscars”) for Best Short Documentary.Our goal at Op-Docs is to showcase compelling documentary films that offer viewpoints from around the world.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003693320555612445,
+                    "sentence": "We were struck by the unique perspective Segal brought to her subject matter as a former soldier herself; the astonishing candor of her interview subjects combined with on-the-ground footage that provides rare glimpses into life in central Hebron offers a powerful documentary experience.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002927647205069661,
+                    "sentence": "We hope it will resonate with you the way it has with audiences around the world.Christine Kecher is the Senior Commissioning Editor for Op-Docs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002620689570903778,
+                    "sentence": "She joined the Times in 2021 from A&amp;E IndieFilms, where she commissioned and produced documentary features, shorts and series.PHOTO: (PHOTOGRAPH BY Rona Segal FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.010647891959681275,
+            "class_probabilities": {
+                "human": 0.9893113230945234,
+                "ai": 0.010647891959681275,
+                "mixed": 4.0784945795346054e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9893113230945234,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.010647891959681275,
+                    "human": 0.9893113230945234,
+                    "mixed": 4.0784945795346054e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Six former soldiers share their accounts.This article also appears in the Opinion Today newsletter.You can sign up hereto receive it in your inbox each weekday morning.Today, Times Opinion’sOp-Docsteam publishedthe award-winning short documentary “Mission: Hebron.”In it, six former Israeli soldiers offer eye-opening accounts of their recent service in Hebron, an overwhelmingly Palestinian city in the West Bank. Soldiers assigned there are responsible for protecting the security of a small community of Jewish settlers in an area of the city center known as H2. In practice, they exercise a high degree of authority over Palestinian civilian life and movement through the use of checkpoints, roadblocks, random searches,facial-recognition programsand other enforcement mechanisms.In this film, Rona Segal, an acclaimed Israeli director and screenwriter who learned how to make films while serving in the Israeli Army, turns the camera on her fellow ex-soldiers, some of whom have never before spoken publicly about their experiences. To find soldiers who were willing to speak on camera, Segal reached out through people she knew and human rights organizations, including the Israeli advocacy group Breaking the Silence. Together, with cellphone footage captured by local witnesses, the accounts of those she interviewed offer a view of military life in Hebron that is filled with boredom, brutality and the sense that, as one soldier puts it, “everyone’s a suspect.”“Mission: Hebron” debuted in 2020 at the International Documentary Film Festival Amsterdam, one of the most prestigious documentary festivals in the world. It has screened at film festivals around the globe, including in Israel at the Jerusalem Film Festival, where it won Best Short Documentary. This year, it was selected as a candidate for Best Short at the European Film Awards and was nominated for an Ophir Award (sometimes known as the “Israeli Oscars”) for Best Short Documentary.Our goal at Op-Docs is to showcase compelling documentary films that offer viewpoints from around the world. We were struck by the unique perspective Segal brought to her subject matter as a former soldier herself; the astonishing candor of her interview subjects combined with on-the-ground footage that provides rare glimpses into life in central Hebron offers a powerful documentary experience. We hope it will resonate with you the way it has with audiences around the world.Christine Kecher is the Senior Commissioning Editor for Op-Docs. She joined the Times in 2021 from A&amp;E IndieFilms, where she commissioned and produced documentary features, shorts and series.PHOTO:  (PHOTOGRAPH BY Rona Segal FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

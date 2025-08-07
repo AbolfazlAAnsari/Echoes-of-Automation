@@ -1,0 +1,94 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 2.9355349397519603e-05,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|76.748°Students are taught in civics class that, under the American justice system, a defendant may be convicted of a crime only if a jury finds him or her guilty of the charged offense “beyond a reasonable doubt.” What's rarely mentioned, however, is that federal law allows judges to ignore a not guilty verdict and sentence men and women to prison for illegal activity of which they were acquitted.On Wednesday, the U.S.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.8657412258326076e-05,
+                    "sentence": "Sentencing Commission, which establishes policies and practices for the federal courts, took a giant step toward ending this noxious practice ᅳ and the move is long overdue.Known as “acquitted conduct sentencing,” it has been federal policy for four decades.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.1892348488327116e-05,
+                    "sentence": "The concept gives federal judges the go-ahead to consider behavior for which the accused was found not guilty when sentencing that same defendant for crimes of which he was convicted.For instance, one high-profile case involved a teenager who was convicted of robbing an Indiana pharmacy but also found not guilty by a jury of killing one of his partners in crime.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.8989710446912795e-05,
+                    "sentence": "He received an enhanced sentence of nearly 20 years in prison because the judge determined, despite the jury verdict, that the teen was more likely than not to have been responsible for the death of his confederate.The issue now goes to Congress, which has never taken up the matter despite the introduction of several bipartisan legislative proposals that would have ended the practice.The use of acquitted conduct in criminal sentencing is antithetical to the Bill of Rights and incompatible with the cherished concept of a trial by jury.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.536954656941816e-05,
+                    "sentence": "Congress should allow the commission's reforms to become federal policy.ᅳLas Vegas Review-Journal/TNS",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                }
+            ],
+            "completely_generated_prob": 0,
+            "class_probabilities": {
+                "human": 1,
+                "ai": 0,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 1,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0,
+                    "human": 1,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|76.748°Students are taught in civics class that, under the American justice system, a defendant may be convicted of a crime only if a jury finds him or her guilty of the charged offense “beyond a reasonable doubt.” What’s rarely mentioned, however, is that federal law allows judges to ignore a not guilty verdict and sentence men and women to prison for illegal activity of which they were acquitted.On Wednesday, the U.S. Sentencing Commission, which establishes policies and practices for the federal courts, took a giant step toward ending this noxious practice — and the move is long overdue.Known as “acquitted conduct sentencing,” it has been federal policy for four decades. The concept gives federal judges the go-ahead to consider behavior for which the accused was found not guilty when sentencing that same defendant for crimes of which he was convicted.For instance, one high-profile case involved a teenager who was convicted of robbing an Indiana pharmacy but also found not guilty by a jury of killing one of his partners in crime. He received an enhanced sentence of nearly 20 years in prison because the judge determined, despite the jury verdict, that the teen was more likely than not to have been responsible for the death of his confederate.The issue now goes to Congress, which has never taken up the matter despite the introduction of several bipartisan legislative proposals that would have ended the practice.The use of acquitted conduct in criminal sentencing is antithetical to the Bill of Rights and incompatible with the cherished concept of a trial by jury. Congress should allow the commission’s reforms to become federal policy.—Las Vegas Review-Journal/TNS"
+        }
+    ]
+}

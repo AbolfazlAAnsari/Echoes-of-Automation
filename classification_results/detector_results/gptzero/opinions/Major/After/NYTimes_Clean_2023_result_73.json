@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.008854607120156288,
+                    "sentence": "Times Opinion wants to hear from you.If you're an older adult trying to cross a wide city street, you may be familiar with that stressful moment when the traffic light starts to blink red but you're still halfway from the curb and unsure if you'll make it in time while agitated drivers start honking.You might devise strategies to escape this fraught situation, or maybe you just stay home and miss a doctor's appointment or social gathering because you can't find someone to drive you there.You're not alone.By2030,at least 1 in 5 Americans will have reached retirement age, and cities are the major focal point for this demographic tide.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01538489107042551,
+                    "sentence": "Currently,8 in 10 Americansage 65 or older already live in metropolitan areas, and many older Americans increasingly prefer toage in place.Yet, many neighborhoods aren't designed to account for the needs of older populations.A narrowsidewalk, a rapidly changingstreetlightand limited options for resting areas can make getting around dangerous, and the lack of open public spaces can keep seniors from getting much-needed exercise and social time.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00027811460313387215,
+                    "sentence": "In rural areas and sprawling suburbs, insufficient public transportation choices also make it harder for older people to buy their groceries, live independently and stay connected with family and friends.Times Opinion would like to hear directly from seniors about the bumps in the road, literally and figuratively, that they encounter when navigating their neighborhoods.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00029545684810727835,
+                    "sentence": "What could your city or town do to be more age-friendly and inclusive?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002444672863930464,
+                    "sentence": "We want to know.A selection of responses has been featured in “The City Looks Different When You Get Older,” part of the Times Opinion special project “Can America Age Gracefully?”The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001275485410587862,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017456046771258116,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001956773630809039,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.PHOTO: (PHOTOGRAPH BY Damon Winter/The New York Times FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Times Opinion wants to hear from you.If you’re an older adult trying to cross a wide city street, you may be familiar with that stressful moment when the traffic light starts to blink red but you’re still halfway from the curb and unsure if you’ll make it in time while agitated drivers start honking.You might devise strategies to escape this fraught situation, or maybe you just stay home and miss a doctor’s appointment or social gathering because you can’t find someone to drive you there.You’re not alone.By2030,at least 1 in 5 Americans will have reached retirement age, and cities are the major focal point for this demographic tide. Currently,8 in 10 Americansage 65 or older already live in metropolitan areas, and many older Americans increasingly prefer toage in place.Yet, many neighborhoods aren’t designed to account for the needs of older populations.A narrowsidewalk, a rapidly changingstreetlightand limited options for resting areas can make getting around dangerous, and the lack of open public spaces can keep seniors from getting much-needed exercise and social time. In rural areas and sprawling suburbs, insufficient public transportation choices also make it harder for older people to buy their groceries, live independently and stay connected with family and friends.Times Opinion would like to hear directly from seniors about the bumps in the road, literally and figuratively, that they encounter when navigating their neighborhoods. What could your city or town do to be more age-friendly and inclusive? We want to know.A selection of responses has been featured in “The City Looks Different When You Get Older,”  part of the Times Opinion special project “Can America Age Gracefully?”The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.PHOTO:  (PHOTOGRAPH BY Damon Winter/The New York Times FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

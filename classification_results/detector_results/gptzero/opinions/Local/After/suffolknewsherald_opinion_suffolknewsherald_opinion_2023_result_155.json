@@ -1,0 +1,88 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0011077986564487219,
+                    "sentence": "Published 7:59 pm Friday, January 13, 2023ByStaff ReportsIn celebration of the 150th anniversary of Suffolk News-Herald, here's a “poetic” tribute from a humble avid reader and contributing guest writer-columnist of this award-winning publication, Suffolk News-Herald.I am the voice of the communityThe mouthpiece for everyone in the cityI serve with pride, honor and dignityWith veracity, objectivity and integrity.I report news in their entiretyI profile achievements that inspire manyI chronicle events for all generations to knowAs they live their lives wherever they go.I tell stories for the community to shareStories that are relevant, balanced and fairI expose crime, violence, indifference and inefficiencyPrompting actions from our diverse residents in our city.I promote health, sports and fitness for everybodyI celebrate growth and progress of the cityI value information and education for allThat's exactly my vision, mission and goal.I deal with questions, problems and plans of the cityI seek input, answers, solutions from everybodyI hold public officials accountable for what they doI share their success making the city prosper and grow.As I continue to publish our city's storyWhich becomes a part of our history and legacyI urge you all citizens of our beautiful cityTo get involved in our quest for peace, liberty and equality.Chris A. Quilpa, a retired U.S. Navy veteran, lives in Suffolk.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010516333859413862,
+                    "sentence": "Email him at chris.a.quilpa@gmail.com.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001353399595245719,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006261717528104782,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 4,
+                    "completely_generated_prob": 0.0006564766595293492
+                }
+            ],
+            "completely_generated_prob": 0.037526171686261885,
+            "class_probabilities": {
+                "human": 0.9624738283137382,
+                "ai": 0.037526171686261885,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9624738283137382,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.037526171686261885,
+                    "human": 0.9624738283137382,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 7:59 pm Friday, January 13, 2023ByStaff ReportsIn celebration of the 150th anniversary of Suffolk News-Herald, here’s a “poetic” tribute from a humble avid reader and contributing guest writer-columnist of this award-winning publication, Suffolk News-Herald.I am the voice of the communityThe mouthpiece for everyone in the cityI serve with pride, honor and dignityWith veracity, objectivity and integrity.I report news in their entiretyI profile achievements that inspire manyI chronicle events for all generations to knowAs they live their lives wherever they go.I tell stories for the community to shareStories that are relevant, balanced and fairI expose crime, violence, indifference and inefficiencyPrompting actions from our diverse residents in our city.I promote health, sports and fitness for everybodyI celebrate growth and progress of the cityI value information and education for allThat’s exactly my vision, mission and goal.I deal with questions, problems and plans of the cityI seek input, answers, solutions from everybodyI hold public officials accountable for what they doI share their success making the city prosper and grow.As I continue to publish our city’s storyWhich becomes a part of our history and legacyI urge you all citizens of our beautiful cityTo get involved in our quest for peace, liberty and equality.Chris A. Quilpa, a retired U.S. Navy veteran, lives in Suffolk. Email him at chris.a.quilpa@gmail.com.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

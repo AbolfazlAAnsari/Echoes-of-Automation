@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.1362830400466919,
+                    "sentence": "Published 5:34 pm Tuesday, September 5, 2023BySuffolk News-HeraldApart from children, a person's pet holds a special place as a beloved family member.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1986539214849472,
+                    "sentence": "In some households, pets are considered as close as possible to having a child.While we regularly celebrate our pets within our homes, it's now the perfect moment to showcase them to the broader community.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6015105843544006,
+                    "sentence": "Our family and friends already know how wonderful our pets are, but it's time to introduce them to everyone else.The Suffolk News-Herald is currently three days into its annual Priceless Pets photo contest.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5155631899833679,
+                    "sentence": "This presents an excellent opportunity to show off your adorable cat, dog, rabbit, fish, goat, or any other pet to the public.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3640383780002594,
+                    "sentence": "We welcome all types of animals.With more than 50 entries already received, the contest is off to an outstanding start.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.4907168745994568,
+                    "sentence": "If you haven't yet submitted a photo of your pet, there's still time.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3266596794128418,
+                    "sentence": "The success of these contests relies on the active participation and support of our community.The submission period for the photo contest began on Aug. 31 and continues until 11:59 p.m. Sept. 8.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.4868733584880829,
+                    "sentence": "On Sept. 10, the voting phase will commence, giving you the chance to promote your pet and vie for a $50 gift card and the title of Suffolk's 2023 Priceless Pet winner.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9630599021911621,
+                    "sentence": "Voting closes on Sept. 17 at 11:59 p.m.The winner will be announced in a special section at the end of September, coinciding with the Suffolk Humane Society's annual Mutt Strutt Festival.This event will take place at Bennett's Creek Park on Sept. 30, running from noon to 6 p.m., and is open to the public free of charge.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9764065742492676,
+                    "sentence": "All proceeds from the event will go towards supporting the Suffolk Humane Society.Don't miss this opportunity to showcase your pet.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.15298797190189362,
+                    "sentence": "There's still time to enter.ClickHERE to enter your petOn Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05531570687890053,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.030155645683407784,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.1206187286534568e-08
+                }
+            ],
+            "completely_generated_prob": 0.24037049587710382,
+            "class_probabilities": {
+                "human": 0.7342143906020558,
+                "ai": 0.24037049587710382,
+                "mixed": 0.02541511352084039
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.7342143906020558,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.24037049587710382,
+                    "human": 0.7342143906020558,
+                    "mixed": 0.02541511352084039
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:34 pm Tuesday, September 5, 2023BySuffolk News-HeraldApart from children, a person’s pet holds a special place as a beloved family member. In some households, pets are considered as close as possible to having a child.While we regularly celebrate our pets within our homes, it’s now the perfect moment to showcase them to the broader community. Our family and friends already know how wonderful our pets are, but it’s time to introduce them to everyone else.The Suffolk News-Herald is currently three days into its annual Priceless Pets photo contest. This presents an excellent opportunity to show off your adorable cat, dog, rabbit, fish, goat, or any other pet to the public. We welcome all types of animals.With more than 50 entries already received, the contest is off to an outstanding start. If you haven’t yet submitted a photo of your pet, there’s still time. The success of these contests relies on the active participation and support of our community.The submission period for the photo contest began on Aug. 31 and continues until 11:59 p.m. Sept. 8. On Sept. 10, the voting phase will commence, giving you the chance to promote your pet and vie for a $50 gift card and the title of Suffolk’s 2023 Priceless Pet winner. Voting closes on Sept. 17 at 11:59 p.m.The winner will be announced in a special section at the end of September, coinciding with the Suffolk Humane Society’s annual Mutt Strutt Festival.This event will take place at Bennett’s Creek Park on Sept. 30, running from noon to 6 p.m., and is open to the public free of charge. All proceeds from the event will go towards supporting the Suffolk Humane Society.Don’t miss this opportunity to showcase your pet. There’s still time to enter.ClickHERE to enter your petOn Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

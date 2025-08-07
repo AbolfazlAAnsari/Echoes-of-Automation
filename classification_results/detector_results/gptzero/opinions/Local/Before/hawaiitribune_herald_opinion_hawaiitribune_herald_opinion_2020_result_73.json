@@ -1,0 +1,154 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.06128332018852234,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°Stay homeStay homeCan you live with yourself, knowing that your selfish behavior meant the death of someone you dearly loved?You don't know you're sick.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.15722517669200897,
+                    "sentence": "You're asymptomatic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.16927964985370636,
+                    "sentence": "But you brought COVID-19 home to your family during the holidays.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.15370360016822815,
+                    "sentence": "You're traveling thousands of miles to see family in person who you've only spoken to on the phone or did Zoom over the internet.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.15562866628170013,
+                    "sentence": "You want that hug you haven't had in a year.You tested for COVID-19 before traveling, and the result was negative.But… you had inadvertent contact with someone who was ill since.In the scientific world, COVID-19 takes 2-10 days from contact to rear its ugly head in you.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.15080615878105164,
+                    "sentence": "You might have even connected with someone shedding the virus days before you tested, contracting enough of the virus to make you a carrier.You show up at your family's home, still not showing any symptoms.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.14514359831809998,
+                    "sentence": "You're in each others' faces, stupidly not wearing masks because you think you're clear.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.2293747216463089,
+                    "sentence": "You're here with family only a couple of days, symptom-free.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.21771149337291718,
+                    "sentence": "You fly or drive back home, beginning to feel punkish.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1518295407295227,
+                    "sentence": "You have a headache, a mild fever, some coughing.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006640804931521416,
+                    "sentence": "Uh-oh!You decide to retest.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004863885696977377,
+                    "sentence": "(Hopefully, you're able to retest!)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00046191742876544595,
+                    "sentence": "Two days later, about the same time as you get word that one of your loved ones you just spent time with has been hospitalized, your test result comes back positive for COVID-19.Your loved one succumbs five days later.Youare directly responsible for the death of your loved one!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00036137911956757307,
+                    "sentence": "How can you live with that?But… this isexactlywhat a large percentage of Americans are doing this holiday season, when they board flights or drive long distances to visit with loved ones in this pandemic.Shame on you!Assume youarepositive andstay home!Once we have a vaccine, and 70% receive it, holidays can return to our traditional experience.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005570993525907397,
+                    "sentence": "You'll have another year of FaceTiming, phone calls, etc., with those loved ones.And next holiday season, you'll have your loved ones to hug and laugh with.Please!Myrene J. WoldMountain View",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 15,
+                    "completely_generated_prob": 2.5938383721896624e-13
+                }
+            ],
+            "completely_generated_prob": 0.06633669730667865,
+            "class_probabilities": {
+                "human": 0.9336633026933213,
+                "ai": 0.06633669730667865,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9336633026933213,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.06633669730667865,
+                    "human": 0.9336633026933213,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°Stay homeStay homeCan you live with yourself, knowing that your selfish behavior meant the death of someone you dearly loved?You don’t know you’re sick. You’re asymptomatic. But you brought COVID-19 home to your family during the holidays. You’re traveling thousands of miles to see family in person who you’ve only spoken to on the phone or did Zoom over the internet. You want that hug you haven’t had in a year.You tested for COVID-19 before traveling, and the result was negative.But… you had inadvertent contact with someone who was ill since.In the scientific world, COVID-19 takes 2-10 days from contact to rear its ugly head in you. You might have even connected with someone shedding the virus days before you tested, contracting enough of the virus to make you a carrier.You show up at your family’s home, still not showing any symptoms. You’re in each others’ faces, stupidly not wearing masks because you think you’re clear. You’re here with family only a couple of days, symptom-free. You fly or drive back home, beginning to feel punkish. You have a headache, a mild fever, some coughing. Uh-oh!You decide to retest. (Hopefully, you’re able to retest!) Two days later, about the same time as you get word that one of your loved ones you just spent time with has been hospitalized, your test result comes back positive for COVID-19.Your loved one succumbs five days later.Youare directly responsible for the death of your loved one! How can you live with that?But… this isexactlywhat a large percentage of Americans are doing this holiday season, when they board flights or drive long distances to visit with loved ones in this pandemic.Shame on you!Assume youarepositive andstay home!Once we have a vaccine, and 70% receive it, holidays can return to our traditional experience. You’ll have another year of FaceTiming, phone calls, etc., with those loved ones.And next holiday season, you’ll have your loved ones to hug and laugh with.Please!Myrene J. WoldMountain View"
+        }
+    ]
+}

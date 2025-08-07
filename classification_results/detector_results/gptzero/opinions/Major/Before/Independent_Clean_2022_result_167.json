@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00043633830500766635,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005254689021967351,
+                    "sentence": "Please send your letters toletters@independent.co.ukWhile I am in no way a supporter of the monarchy, I see little reason whyPrince Charlesshould notmake commentsabout the morally corruptRwanda asylum proposals.Love them or loathe them, the royal family are part of the fabric of this country - so let's hear from them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00043725554132834077,
+                    "sentence": "I doubt the cabinet members would be in such a lather had the comments been supportive.Dr Anthony IngletonSheffieldWisdom or follyI am no royalist, but at least in Charles we will have a king with whom we can have an adult relationship.The Queen is an intelligent woman and to think that she has no opinions just because she does not voice them in public is naive.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005276930169202387,
+                    "sentence": "We have no idea what wisdom or folly she is sharing with her prime minister.There is this enigma at the heart of our government but as a nation, we appear to think that if we do not know what it is, then it is not a problem.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009822339052334428,
+                    "sentence": "Childish indeed!Joanna PallisterDurham CityWho'd be a farmer post-Brexit?In the run up toBrexit, farmers were assured that their EU subsidies would be replaced by a UK scheme.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002351141069084406,
+                    "sentence": "This, of course, turned out to be one of many false promises used to get a Leave vote.Having then been told they would get £800m, not to grow food but to rewild their land, those who chose to stick to providing food, their raison d'etre, then found they couldn't get the labour to harvest their crops, as a direct result ofBoris Johnson's hard version of Brexit.Now this subsidy is to be cut to £50m and farmers are being told to produce more fruit and vegetables.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004713556729257107,
+                    "sentence": "Who'd be a farmer?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004939648206345737,
+                    "sentence": "It strikes me that our leaders are spending too much time inPeppa Pig Worldand not in the world we mere mortals inhabit.G ForwardStirlingBoris Johnson: agent of chaosJess Phillips' pragmatic statementthat, since most governments focus their attention on re-election, little is done to plan and legislate for “the kind of future our country needs, wants or deserves”, is an honest and telling assessment of the outdated nature of our nation's political system.Instead of informed and mature debate aimed at consensual agreement that informs policies in the long-term interest of the nation and its people, we witness, time and again, adversarial point-scoring that wastes time and fails to address the pressing issues of our times.The chaos of the Johnson government has highlighted the flaws in our current first-past-the-post electoral system that has led to a lowering of debate and the adoption of gesture politics.As Phillips says, the current government abandons any long-term policies that might protect the wellbeing of those who come after us in favour of a range of unconnected, short-term, eye-catching tactics that are aimed at immediate political survival.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013572475872933865,
+                    "sentence": "We are desperately in need of radical reforms to the ways in which we are governed.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereGiven that Keir Starmer is failing to impress the majority of the electorate, a minority government in the near future might lead to a consensual agreement by centre-left parties that paves the way for the long overdue reform of our electoral system.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004188090097159147,
+                    "sentence": "We can but hope.Graham PowellCirencesterTrain drivers striking over payis a consequence of a bad government and inaction by the politicians.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003079435264226049,
+                    "sentence": "It is not a consequence of militant unions demanding more than what ordinary working people should be entitled to.Three per cent is not enough to keep up with spiralling costs of living, but obviously the Tory grandees can't appreciate this fact.I OlerenshawLancashire",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.020796750353547094,
+            "class_probabilities": {
+                "human": 0.9792032496464529,
+                "ai": 0.020796750353547094,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9792032496464529,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020796750353547094,
+                    "human": 0.9792032496464529,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukWhile I am in no way a supporter of the monarchy, I see little reason whyPrince Charlesshould notmake commentsabout the morally corruptRwanda asylum proposals.Love them or loathe them, the royal family are part of the fabric of this country – so let’s hear from them. I doubt the cabinet members would be in such a lather had the comments been supportive.Dr Anthony IngletonSheffieldWisdom or follyI am no royalist, but at least in Charles we will have a king with whom we can have an adult relationship.The Queen is an intelligent woman and to think that she has no opinions just because she does not voice them in public is naive. We have no idea what wisdom or folly she is sharing with her prime minister.There is this enigma at the heart of our government but as a nation, we appear to think that if we do not know what it is, then it is not a problem. Childish indeed!Joanna PallisterDurham CityWho’d be a farmer post-Brexit?In the run up toBrexit, farmers were assured that their EU subsidies would be replaced by a UK scheme. This, of course, turned out to be one of many false promises used to get a Leave vote.Having then been told they would get £800m, not to grow food but to rewild their land, those who chose to stick to providing food, their raison d’etre, then found they couldn’t get the labour to harvest their crops, as a direct result ofBoris Johnson’s hard version of Brexit.Now this subsidy is to be cut to £50m and farmers are being told to produce more fruit and vegetables. Who’d be a farmer? It strikes me that our leaders are spending too much time inPeppa Pig Worldand not in the world we mere mortals inhabit.G ForwardStirlingBoris Johnson: agent of chaosJess Phillips’ pragmatic statementthat, since most governments focus their attention on re-election, little is done to plan and legislate for “the kind of future our country needs, wants or deserves”, is an honest and telling assessment of the outdated nature of our nation’s political system.Instead of informed and mature debate aimed at consensual agreement that informs policies in the long-term interest of the nation and its people, we witness, time and again, adversarial point-scoring that wastes time and fails to address the pressing issues of our times.The chaos of the Johnson government has highlighted the flaws in our current first-past-the-post electoral system that has led to a lowering of debate and the adoption of gesture politics.As Phillips says, the current government abandons any long-term policies that might protect the wellbeing of those who come after us in favour of a range of unconnected, short-term, eye-catching tactics that are aimed at immediate political survival. We are desperately in need of radical reforms to the ways in which we are governed.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereGiven that Keir Starmer is failing to impress the majority of the electorate, a minority government in the near future might lead to a consensual agreement by centre-left parties that paves the way for the long overdue reform of our electoral system. We can but hope.Graham PowellCirencesterTrain drivers striking over payis a consequence of a bad government and inaction by the politicians. It is not a consequence of militant unions demanding more than what ordinary working people should be entitled to.Three per cent is not enough to keep up with spiralling costs of living, but obviously the Tory grandees can’t appreciate this fact.I OlerenshawLancashire"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0016621407121419907,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°After harrowing ordeals wrongly detained in Russian prisons, 16 people were freed in exchange for eight Russian prisoners held in the United States, Slovenia, Poland, Norway and Germany.The multinational deal includes the release of Americans Evan Gershkovich, a Wall Street Journal reporter convicted last month of spurious espionage charges after a year already imprisoned; Paul Whelan, a Marine veteran jailed in 2018 after traveling to a friend's wedding; Radio Free Europe/Radio Liberty journalist Alsu Kurmasheva, arrested in 2023; and U.S. resident Vladimir Kara-Murza, a Pulitzer Prize-winning Washington Post columnist and opposition politician.We must also commend the U.S. government for working to secure the release not only of American citizens and an American resident, but nationals of other countries also improperly held, including three who were Russian themselves and had formed part of opposition leader Alexei Navalny's team.Navalny himself should have been among them, but unfortunately he died early this year at an Arctic prison while serving his own sentence on trumped-up charges.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015153848798945546,
+                    "sentence": "Or rather, it'd be more accurate to say he was killed by the Kremlin, either through some sort of direct means or indirect but equally deadly intentional medical neglect.Let all that be a reminder that even though prisoners were swapped in both directions, what Russia was punishing were not crimes but acts of civil society, including the performance of journalism, political organization and free expression, particularly in opposition to Vladimir Putin's horrific war in Ukraine.Those released from Western prisons at Putin's insistence included an assassin convicted of murdering a Chechen separatist in Germany, an intelligence officer suspected of funneling U.S. military technology to Russia and a hacker convicted of breaking into more than 500 businesses.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020378201734274626,
+                    "sentence": "This follows the release of the “Merchant of Death,” arms trafficker Viktor Bout, in a December 2022 prisoner exchange for WNBA player Brittney Griner.We should all be glad that Russia has released these political prisoners, but we must acknowledge that these swaps do carry the consequence of showing the Putin and his cronies that they can get back Russian nationals serving prison sentences in the U.S. and elsewhere if they nab random Americans or Europeans on falsified or heavily inflated charges.In an earlier era, Putin would have perhaps thought twice about deploying this strategy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0160248801112175,
+                    "sentence": "But now that he's entirely torched any remaining credibility with his unwarranted invasion and the war crimes committed therein, he's got little left to lose from these tactics.The solution here can't be to just accept that and let him succeed at shutting down dissent or the ability of foreigners to operate in Russian territory, though it probably means that Americans and Europeans in particular should take greater care about the prospect of traveling to the despot's land.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0285065695643425,
+                    "sentence": "He must be isolated on the world stage, hit with economic, legal and political consequences.The U.S. and allies should continue to support the aspects of Russian civil society that haven't been swamped by Putin's machine.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01706784777343273,
+                    "sentence": "He remains popular in Russia in part due to relentless propaganda and the lack of any alternative visions or political projects.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006954502314329147,
+                    "sentence": "But he can't keep this up forever.ᅳ New York Daily NewsSomething incredible happened four years ago.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010056772269308567,
+                    "sentence": "People suddenly realized that my grocery store co-workers and I are essential.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006640436127781868,
+                    "sentence": "It had a lasting effect on me, but some people clearly need a reminder ᅳ especially the leaders of the conglomerates that dominate the industry.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009706554934382439,
+                    "sentence": "These bosses have rewardedNestled between lush community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.024461651786716186,
+            "class_probabilities": {
+                "human": 0.9754981327244504,
+                "ai": 0.024461651786716186,
+                "mixed": 4.0215488833363626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9754981327244504,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024461651786716186,
+                    "human": 0.9754981327244504,
+                    "mixed": 4.0215488833363626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°After harrowing ordeals wrongly detained in Russian prisons, 16 people were freed in exchange for eight Russian prisoners held in the United States, Slovenia, Poland, Norway and Germany.The multinational deal includes the release of Americans Evan Gershkovich, a Wall Street Journal reporter convicted last month of spurious espionage charges after a year already imprisoned; Paul Whelan, a Marine veteran jailed in 2018 after traveling to a friend’s wedding; Radio Free Europe/Radio Liberty journalist Alsu Kurmasheva, arrested in 2023; and U.S. resident Vladimir Kara-Murza, a Pulitzer Prize-winning Washington Post columnist and opposition politician.We must also commend the U.S. government for working to secure the release not only of American citizens and an American resident, but nationals of other countries also improperly held, including three who were Russian themselves and had formed part of opposition leader Alexei Navalny’s team.Navalny himself should have been among them, but unfortunately he died early this year at an Arctic prison while serving his own sentence on trumped-up charges. Or rather, it’d be more accurate to say he was killed by the Kremlin, either through some sort of direct means or indirect but equally deadly intentional medical neglect.Let all that be a reminder that even though prisoners were swapped in both directions, what Russia was punishing were not crimes but acts of civil society, including the performance of journalism, political organization and free expression, particularly in opposition to Vladimir Putin’s horrific war in Ukraine.Those released from Western prisons at Putin’s insistence included an assassin convicted of murdering a Chechen separatist in Germany, an intelligence officer suspected of funneling U.S. military technology to Russia and a hacker convicted of breaking into more than 500 businesses. This follows the release of the “Merchant of Death,” arms trafficker Viktor Bout, in a December 2022 prisoner exchange for WNBA player Brittney Griner.We should all be glad that Russia has released these political prisoners, but we must acknowledge that these swaps do carry the consequence of showing the Putin and his cronies that they can get back Russian nationals serving prison sentences in the U.S. and elsewhere if they nab random Americans or Europeans on falsified or heavily inflated charges.In an earlier era, Putin would have perhaps thought twice about deploying this strategy. But now that he’s entirely torched any remaining credibility with his unwarranted invasion and the war crimes committed therein, he’s got little left to lose from these tactics.The solution here can’t be to just accept that and let him succeed at shutting down dissent or the ability of foreigners to operate in Russian territory, though it probably means that Americans and Europeans in particular should take greater care about the prospect of traveling to the despot’s land. He must be isolated on the world stage, hit with economic, legal and political consequences.The U.S. and allies should continue to support the aspects of Russian civil society that haven’t been swamped by Putin’s machine. He remains popular in Russia in part due to relentless propaganda and the lack of any alternative visions or political projects. But he can’t keep this up forever.— New York Daily NewsSomething incredible happened four years ago. People suddenly realized that my grocery store co-workers and I are essential. It had a lasting effect on me, but some people clearly need a reminder — especially the leaders of the conglomerates that dominate the industry. These bosses have rewardedNestled between lush  community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round."
+        }
+    ]
+}

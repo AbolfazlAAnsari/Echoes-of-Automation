@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.000960008183028549,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°It's a rare issue that can bring 41 states together for a bipartisan fight.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006121844053268433,
+                    "sentence": "This week, state attorneys general across the political spectrum joined forces in suing Facebook parent company Meta for allegedly using features on Instagram and other platforms that hook young users, while denying or downplaying the risks to their mental health.This comes two years after states began investigating Meta following revelations that the company's internal research found Instagram was having a negative effect on some teen users' mental health.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005909277242608368,
+                    "sentence": "Since then health professionals, including Surgeon General Dr. Vivek Murthy and the American Psychological Association, have urged tech companies to make their products safer for young people.But there hasn't yet been significant change in the industry.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007068745326250792,
+                    "sentence": "Most companies haven't been willing to overhaul their platforms to curb addictive features or harmful content for users under 18 years old.In the absence of policy changes, lawsuits are the next logical step in prodding technology companies to ensure their products are safe for young people or be held accountable.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010884198127314448,
+                    "sentence": "Some have compared the states' legal strategy to lawsuits against Big Tobacco and opioid manufacturers that revealed how the companies lied about the harm caused by their products, and forced them to change their business practices.The federal complaint alleges Meta used harmful and “psychologically manipulative product features,” such as “likes,” infinite scroll and constant alerts, to hook young people on Instagram and Facebook and keep them engaged for as much time as possible in order to boost profits.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00069612410152331,
+                    "sentence": "Despite knowing that young users' brains are particularly vulnerable to manipulation by such features and internal studies warning that kids were being harmed, Meta allegedly concealed, denied and downplayed the harms.The lawsuit, which was filed jointly by 33 states,also accused Meta of violating the Children's Online Privacy Protection Act, a federal law that protects the digital privacy of children under 13 years old.Meta said in a statement that it has already rolled out 30 tools to support teens on its apps since 2021, including reminders on Instagram for teens to take a break and sharing expert resources if kids search for posts on suicide or eating disorders.That's a good start.The company lamented that the states chose to sue rather than work with tech firms “across the industry to create clear, age-appropriate standards.”Indeed, there is a need for comprehensive safety standards across social media platforms.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.20317162573337555,
+                    "sentence": "But a tech lobbying group of which Meta is a member has sued to stop an effort by California, which passed a first-in-the-nation law last year requiring age-appropriate design and child privacy protection.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.26337793469429016,
+                    "sentence": "The law was recently put on hold by a federal judge citing First Amendment concerns.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.20854724943637848,
+                    "sentence": "California Attorney General Rob Bonta has filed an appeal.This is complex legal and regulatory terrain, and the states' lawsuits are not a sure bet given existing laws that protect online platform companies from being held liable for content posted by users on their sites.Nor will any of these cases be resolved quickly.That's OK.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00874450895935297,
+                    "sentence": "This is an essential fight for the future.ᅳ Los Angeles TimesHilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005047183483839035,
+                    "sentence": "Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017.NEW YORK ᅳ Lou Piniella was back in uniform Saturday, wearing pinstripes and the number 14 for Old-Timers' Day at Yankee Stadium.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004808926954865456,
+                    "sentence": "Piniella, who turns 81 next week, earned his fame in the Bronx as a two-time World Series champion but spent much of his managing career in a feisty rivalry with the Y",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°It’s a rare issue that can bring 41 states together for a bipartisan fight. This week, state attorneys general across the political spectrum joined forces in suing Facebook parent company Meta for allegedly using features on Instagram and other platforms that hook young users, while denying or downplaying the risks to their mental health.This comes two years after states began investigating Meta following revelations that the company’s internal research found Instagram was having a negative effect on some teen users’ mental health. Since then health professionals, including Surgeon General Dr. Vivek Murthy and the American Psychological Association, have urged tech companies to make their products safer for young people.But there hasn’t yet been significant change in the industry. Most companies haven’t been willing to overhaul their platforms to curb addictive features or harmful content for users under 18 years old.In the absence of policy changes, lawsuits are the next logical step in prodding technology companies to ensure their products are safe for young people or be held accountable. Some have compared the states’ legal strategy to lawsuits against Big Tobacco and opioid manufacturers that revealed how the companies lied about the harm caused by their products, and forced them to change their business practices.The federal complaint alleges Meta used harmful and “psychologically manipulative product features,” such as “likes,” infinite scroll and constant alerts, to hook young people on Instagram and Facebook and keep them engaged for as much time as possible in order to boost profits. Despite knowing that young users’ brains are particularly vulnerable to manipulation by such features and internal studies warning that kids were being harmed, Meta allegedly concealed, denied and downplayed the harms.The lawsuit, which was filed jointly by 33 states,also accused Meta of violating the Children’s Online Privacy Protection Act, a federal law that protects the digital privacy of children under 13 years old.Meta said in a statement that it has already rolled out 30 tools to support teens on its apps since 2021, including reminders on Instagram for teens to take a break and sharing expert resources if kids search for posts on suicide or eating disorders.That’s a good start.The company lamented that the states chose to sue rather than work with tech firms “across the industry to create clear, age-appropriate standards.”Indeed, there is a need for comprehensive safety standards across social media platforms. But a tech lobbying group of which Meta is a member has sued to stop an effort by California, which passed a first-in-the-nation law last year requiring age-appropriate design and child privacy protection. The law was recently put on hold by a federal judge citing First Amendment concerns. California Attorney General Rob Bonta has filed an appeal.This is complex legal and regulatory terrain, and the states’ lawsuits are not a sure bet given existing laws that protect online platform companies from being held liable for content posted by users on their sites.Nor will any of these cases be resolved quickly.That’s OK. This is an essential fight for the future.— Los Angeles TimesHilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track. Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017.NEW YORK — Lou Piniella was back in uniform Saturday, wearing pinstripes and the number 14 for Old-Timers’ Day at Yankee Stadium. Piniella, who turns 81 next week, earned his fame in the Bronx as a two-time World Series champion but spent much of his managing career in a feisty rivalry with the Y"
+        }
+    ]
+}

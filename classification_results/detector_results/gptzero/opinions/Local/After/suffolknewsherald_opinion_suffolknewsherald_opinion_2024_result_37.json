@@ -1,0 +1,159 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.9507396221160889,
+                    "sentence": "Published 4:39 pm Tuesday, May 28, 2024BySuffolk News-Herald Editorial BoardThe St. Jude Dream Home Giveaway is a profound initiative, and its recent location in Suffolk underscores its impact on the community.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9885891079902649,
+                    "sentence": "This program, designed to raise funds for St. Jude Children's Research Hospital, exemplifies how collective efforts can foster significant change.First and foremost, the giveaway fosters community spirit.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9921943545341492,
+                    "sentence": "Local businesses, volunteers, and residents unite to support the construction and promotion of the Dream Home.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9927361011505127,
+                    "sentence": "This collaboration results in a beautiful new home and creates a sense of togetherness and shared purpose among participants.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.984845757484436,
+                    "sentence": "The event serves as a reminder of the power of community involvement in achieving common goals.Moreover, the funds raised through the giveaway are pivotal for St. Jude's mission.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.982781171798706,
+                    "sentence": "St. Jude Children's Research Hospital is renowned for its commitment to treating and curing pediatric catastrophic diseases.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9629690647125244,
+                    "sentence": "The hospital operates on the principle that no child should be denied treatment based on their family's ability to pay.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9997929334640503,
+                    "sentence": "By purchasing a ticket for the Dream Home Giveaway, participants contribute directly to this noble cause, ensuring that vital research and patient care continue without financial barriers.The St. Jude Dream Home Giveaway in Suffolk is more than just a raffle; it is a testament to the profound impact of community solidarity and philanthropy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.680898129940033,
+                    "sentence": "It highlights the importance of supporting medical research and patient care, reminding us that even small contributions can lead to significant outcomes.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.0028983033262193203,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.0005127354525029659,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 0.3879991262334155
+                }
+            ],
+            "completely_generated_prob": 0.870757180156658,
+            "class_probabilities": {
+                "human": 0,
+                "ai": 0.870757180156658,
+                "mixed": 0.12924281984334202
+            },
+            "average_generated_prob": 1,
+            "predicted_class": "ai",
+            "confidence_score": 0.870757180156658,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.870757180156658,
+                    "human": 0,
+                    "mixed": 0.12924281984334202
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {
+                    "predicted_class": "pure_ai",
+                    "result_message": "",
+                    "confidence_score": 0.9999999998,
+                    "confidence_category": "high",
+                    "class_probabilities": {
+                        "pure_ai": 0.9999999999,
+                        "ai_paraphrased": 9.999999997e-11
+                    },
+                    "confidence_scores_raw": {
+                        "identity": {
+                            "pure_ai": 0.9999999998,
+                            "ai_paraphrased": 9.999999997e-11
+                        }
+                    },
+                    "confidence_thresholds_raw": {
+                        "identity": {
+                            "pure_ai": {
+                                "reject": 0.65,
+                                "low": 0.75,
+                                "medium": 0.92
+                            },
+                            "ai_paraphrased": {
+                                "reject": 0.85,
+                                "low": 0.9,
+                                "medium": 0.95
+                            }
+                        }
+                    }
+                },
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written by AI.",
+            "document_classification": "AI_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 4:39 pm Tuesday, May 28, 2024BySuffolk News-Herald Editorial BoardThe St. Jude Dream Home Giveaway is a profound initiative, and its recent location in Suffolk underscores its impact on the community. This program, designed to raise funds for St. Jude Children’s Research Hospital, exemplifies how collective efforts can foster significant change.First and foremost, the giveaway fosters community spirit. Local businesses, volunteers, and residents unite to support the construction and promotion of the Dream Home. This collaboration results in a beautiful new home and creates a sense of togetherness and shared purpose among participants. The event serves as a reminder of the power of community involvement in achieving common goals.Moreover, the funds raised through the giveaway are pivotal for St. Jude’s mission. St. Jude Children’s Research Hospital is renowned for its commitment to treating and curing pediatric catastrophic diseases. The hospital operates on the principle that no child should be denied treatment based on their family’s ability to pay. By purchasing a ticket for the Dream Home Giveaway, participants contribute directly to this noble cause, ensuring that vital research and patient care continue without financial barriers.The St. Jude Dream Home Giveaway in Suffolk is more than just a raffle; it is a testament to the profound impact of community solidarity and philanthropy. It highlights the importance of supporting medical research and patient care, reminding us that even small contributions can lead to significant outcomes.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

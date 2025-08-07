@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.11333046853542328,
+                    "sentence": "Having returned from Cyprus two weeks ago, I'm still waiting for my son's passport to be processed, writes Victoria RichardsI want to start this letter with a very important note: and that is that I am fully aware of how fortunate I am to have been able to go on holiday over Easter.Getting away on a cheap European break during the school holidays really is a dream, and not one I take lightly.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.12154049426317215,
+                    "sentence": "But it wasn't all it seemed.Travelling to Cyprus with my family for a week gave me ample time to reflect; not just on what it means to spend time with loved ones, but also on what is waiting for you when you get back.In my case, what was waiting for me when I got back was... one of my children.Why?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.14052170515060425,
+                    "sentence": "Well, because when we decided to try to book time away together, it was (for my family, typically) spontaneous - unplanned and last-minute.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.12491593509912491,
+                    "sentence": "We'd almost forgotten that we'd had two years of a global pandemic; I, for one, hadn't even registered that my children's passports might have expired (spoiler: they had).I applied to the passport office to renew both my kids' official documentation five weeks before we were due to fly, knowing I was cutting it fine.At the time of applying, theadvicewas to leave it 10 weeks - but (again, typically) I decided to \"chance it\" and not pay £122 for each application for the \"fast-track service\" to expedite to get them back within a week - for two children, that would have cost me an extra £244 (which was off-putting, to say the least; especially as a single parent covering all the costs).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.11317002028226852,
+                    "sentence": "A regular renewal for a child passport already costs £58.50; a not-insubstantial barrier when you factor in the cost of a holiday in the first place.At the time of writing, having returned from Cyprus two weeks ago, I'm still waiting for my son's passport to be processed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.08708520978689194,
+                    "sentence": "I've checked it online; the last update was 5 April when it read: \"Application being processed\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.14081329107284546,
+                    "sentence": "In the week before I was due to fly, I was calling the helpline daily: nothing has changed since then, when they told me it was \"in the queue and had not been selected for manual inspection\".We, however, have been and gone: I spent a week with my parents and my daughter, while my son had a lovely time at home with his dad.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.11329656094312668,
+                    "sentence": "He was perfectly happy about that, but we missed him.A first world problem, that's for sure.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.14392973482608795,
+                    "sentence": "I'm very cognisant of that - but worth thinking about, especially if you're a better planner than I am.Yours,Victoria RichardsVoices editor",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.11122044395566232,
+            "class_probabilities": {
+                "human": 0.8887795560443376,
+                "ai": 0.11122044395566232,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8887795560443376,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.11122044395566232,
+                    "human": 0.8887795560443376,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Having returned from Cyprus two weeks ago, I'm still waiting for my son's passport to be processed, writes Victoria RichardsI want to start this letter with a very important note: and that is that I am fully aware of how fortunate I am to have been able to go on holiday over Easter.Getting away on a cheap European break during the school holidays really is a dream, and not one I take lightly. But it wasn't all it seemed.Travelling to Cyprus with my family for a week gave me ample time to reflect; not just on what it means to spend time with loved ones, but also on what is waiting for you when you get back.In my case, what was waiting for me when I got back was... one of my children.Why? Well, because when we decided to try to book time away together, it was (for my family, typically) spontaneous - unplanned and last-minute. We'd almost forgotten that we'd had two years of a global pandemic; I, for one, hadn't even registered that my children's passports might have expired (spoiler: they had).I applied to the passport office to renew both my kids' official documentation five weeks before we were due to fly, knowing I was cutting it fine.At the time of applying, theadvicewas to leave it 10 weeks - but (again, typically) I decided to \"chance it\" and not pay £122 for each application for the \"fast-track service\" to expedite to get them back within a week - for two children, that would have cost me an extra £244 (which was off-putting, to say the least; especially as a single parent covering all the costs). A regular renewal for a child passport already costs £58.50; a not-insubstantial barrier when you factor in the cost of a holiday in the first place.At the time of writing, having returned from Cyprus two weeks ago, I'm still waiting for my son's passport to be processed. I've checked it online; the last update was 5 April when it read: \"Application being processed\". In the week before I was due to fly, I was calling the helpline daily: nothing has changed since then, when they told me it was \"in the queue and had not been selected for manual inspection\".We, however, have been and gone: I spent a week with my parents and my daughter, while my son had a lovely time at home with his dad. He was perfectly happy about that, but we missed him.A first world problem, that's for sure. I'm very cognisant of that - but worth thinking about, especially if you're a better planner than I am.Yours,Victoria RichardsVoices editor"
+        }
+    ]
+}

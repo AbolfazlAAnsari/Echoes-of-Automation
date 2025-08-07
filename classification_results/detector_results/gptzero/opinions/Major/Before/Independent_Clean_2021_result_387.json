@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00033660390181466937,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00035484982072375715,
+                    "sentence": "Please send your letters toletters@independent.co.ukIt's theeconomy\" we are told when considering the key factor that voters take into consideration at an election.So it looks as though 2022 might be a bit dodgy for the Tories with dire predictions on all sides about inflation, rising prices etc.Add in the increasing anti-Boris Johnsonsentiment in the country and things could be decisively shifting towards the progressive parties -provided they play their cards right (and avoid attacking each other).Andrew McLuskeyAshfordNo sympathyInteresting articlefrom Ben Chapman.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000255976221524179,
+                    "sentence": "Personally I've little sympathy with the pubs and restaurants that failed to plan for the \"new normal\" during the past year.In too many cases large sectors of the hospitality world cried for support and lobbied the government NOT to restrict activity.Having achieved the levels of freedom they requested hospitality has to demonstrate and explain an appropriate level of care and planning to attract customers to visit their business 's not chase further public funds to compensate for not doing so.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00033725969842635095,
+                    "sentence": "Personally I continue to visit restaurants and bars I'm confident in -but it's a relatively short list.With freedom comes responsibility in this case!Hedley BaldwinAddress suppliedScience termsIn the otherwiseexcellent articleon the benefits of science, Steven Cutts should have known better than to say \"the James Webb telescope... ought to represent a quantum leap... from the Hubble Space Telescope\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03726126626133919,
+                    "sentence": "A quantum leap is the smallest possible change in an electron's energy level, not a large one, a widespread misunderstandingMeic GoodyearLewesMusical notesWith reference to thearticle about music in airports and on planes, could I add that this music is a pain for people who wear hearing aids.I have found cabin crew most helpful when I have asked that the music be turned down or even turned off.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.027326393872499466,
+                    "sentence": "Other passengers have also been supportive.Julia LewisAddress suppliedVinyl highlightsIfKatie Edwards feelsvinyl collectors may have \"touch of snobbery\" about their collections then what would she make of the person I met who had a gold stylus in his turntable for a better quality sound - and there are some who have a diamond stylus.Is music appreciation not about the quality of the sound - not the transmitting device and LP record?Kartar UppalSutton ColdfieldRead MoreWe should all be scrapping 'superspreader' Christmas | Sean O'GradyLetters: Surely, there's a risk that Scots could take the virus to England?Letters: Brexit benefits?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03314298018813133,
+                    "sentence": "What Brexit benefits?Letters: Surely, there's a risk that Scots could take the virus to England?Letters: Brexit benefits?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03836953639984131,
+                    "sentence": "What Brexit benefits?Letters: Football should call a break - if only for the sake of sporting fairness",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.039839419682113825,
+            "class_probabilities": {
+                "human": 0.9601605803178862,
+                "ai": 0.039839419682113825,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601605803178862,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039839419682113825,
+                    "human": 0.9601605803178862,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukIt's theeconomy\" we are told when considering the key factor that voters take into consideration at an election.So it looks as though 2022 might be a bit dodgy for the Tories with dire predictions on all sides about inflation, rising prices etc.Add in the increasing anti-Boris Johnsonsentiment in the country and things could be decisively shifting towards the progressive parties -provided they play their cards right (and avoid attacking each other).Andrew McLuskeyAshfordNo sympathyInteresting articlefrom Ben Chapman. Personally I've little sympathy with the pubs and restaurants that failed to plan for the \"new normal\" during the past year.In too many cases large sectors of the hospitality world cried for support and lobbied the government NOT to restrict activity.Having achieved the levels of freedom they requested hospitality has to demonstrate and explain an appropriate level of care and planning to attract customers to visit their business 's not chase further public funds to compensate for not doing so. Personally I continue to visit restaurants and bars I'm confident in -but it's a relatively short list.With freedom comes responsibility in this case!Hedley BaldwinAddress suppliedScience termsIn the otherwiseexcellent articleon the benefits of science, Steven Cutts should have known better than to say \"the James Webb telescope ... ought to represent a quantum leap ... from the Hubble Space Telescope\". A quantum leap is the smallest possible change in an electron's energy level, not a large one, a widespread misunderstandingMeic GoodyearLewesMusical notesWith reference to thearticle about music in airports and on planes, could I add that this music is a pain for people who wear hearing aids.I have found cabin crew most helpful when I have asked that the music be turned down or even turned off. Other passengers have also been supportive.Julia LewisAddress suppliedVinyl highlightsIfKatie Edwards feelsvinyl collectors may have \"touch of snobbery\" about their collections then what would she make of the person I met who had a gold stylus in his turntable for a better quality sound - and there are some who have a diamond stylus.Is music appreciation not about the quality of the sound - not the transmitting device and LP record?Kartar UppalSutton ColdfieldRead MoreWe should all be scrapping 'superspreader' Christmas | Sean O'GradyLetters: Surely, there's a risk that Scots could take the virus to England?Letters: Brexit benefits? What Brexit benefits?Letters: Surely, there's a risk that Scots could take the virus to England?Letters: Brexit benefits? What Brexit benefits?Letters: Football should call a break - if only for the sake of sporting fairness"
+        }
+    ]
+}

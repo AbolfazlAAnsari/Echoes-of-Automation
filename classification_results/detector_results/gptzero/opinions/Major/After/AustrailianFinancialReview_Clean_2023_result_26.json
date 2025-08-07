@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 2.4097264031297527e-05,
+                    "sentence": "Financial advice The government should take immediate action to solve the retirement riddle by implementing the Quality of Advice Review to help catalyse innovative solutions.The government's retirement discussion paper released on Monday signals strong and positive intent to solve a riddle facing millions of Australians.The treasurer hit the salient issues in his opinion piece to accompany yesterday's launch of the discussion paper, which are: we need to give the same focus to the retirement phase as we have to the accumulation phase; many Australians lack support to make the most of their growing super balances; financial uncertainty leaves retirees underspending in their retirement years, and only a collaborative effort from industry and government will solve these issues.As one of the key retail super providers, we will actively participate in the discussion and consultation process, advocating on behalf of our superannuation members, and for the wider community.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.438718729536049e-05,
+                    "sentence": "In our view, there are two obvious areas which would benefit from immediate attention.The first is to help make financial advice more affordable and accessible with rapid implementation of the Quality of Advice Review.The advice industry has been through the wringer in recent years, in order to rightly lift professional standards, but this has come at a cost to everyday Australians and advisers.Adviser numbers have plummeted and the rising regulatory burden has driven the cost of advice up to a point where only the wealthy can afford it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.3504045859444886e-05,
+                    "sentence": "This means that the three in four Australians who find our retirement system complex have few places to turn to for the help and support they need.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.669894638529513e-05,
+                    "sentence": "The sooner we streamline the advice process, the more affordable and accessible traditional face-to-face advice will become.Equally important is establishing the right frameworks to enable more help, advice and guidance to be provided through superannuation funds, identified by the government as \"Stream 2\" of the Quality of Advice Review's implementation.Superannuation funds are the logical first port of call for those approaching retirement to seek help and support.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.3086728106136434e-05,
+                    "sentence": "And while most funds already have an intra-fund advice offer in place, there are limitations to the advice that can be provided, potentially affecting retirement outcomes for members.We are waiting eagerly for the government to release its go-forward proposal for Stream 2, as we need clear and simple frameworks to ensure consumers understand how advice within super works, and how members are protected.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.464870289666578e-05,
+                    "sentence": "It must also sit cohesively within the broader advice ecosystem, including full-scale face-to-face advice, new digital solutions and other, more basic educational services provided by super funds.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003401855006814003,
+                    "sentence": "This will ensure there is a clear, scaled advice pathway for consumers as their needs evolve.The \"X factor\" for financial advice is generative artificial intelligence.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003927608020603657,
+                    "sentence": "It would appear well suited to the delivery of digital financial advice and must be considered as part of any new technology-based offerings.Despite much talks, the industry has yet to land a digital advice solution that works for all Australians, and AI could serve as a catalyst for a new wave of innovation.The same need for innovation applies to retirement solutions, another key area called out by the treasurer.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015652455622330308,
+                    "sentence": "The accumulation phase has dominated industry, government and regulatory focus for the past two decades, at the expense of innovation in the drawdown phase.The tide is now turning, and with government impetus, we would hope to see an acceleration in the rollout of more retirement solutions that provide lifetime income, balancing capital preservation with exposure to growth.Retirement needs and circumstances vary, so ensuring consumers have access to different solutions is critical.We would also warn against the danger of measures which standardise product design, disclosure and reporting, as these may inadvertently stifle innovation and reduce competition.While income should be the immediate focus for these solutions, innovation must expand into other areas of consumer need.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0028364520985633135,
+                    "sentence": "For example, into solutions that address the higher levels of debt Australians will be retiring with, the release of home equity to income and, critically, the financial and societal challenges associated with more retirees entering aged care.Our growing retirement population is one of the great economic and social challenges facing Australia.The government's discussion paper is another positive step towards meaningful change.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00348662119358778,
+                    "sentence": "It must be followed with action.Alexis George is CEO of AMP.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.017917192071486437,
+            "class_probabilities": {
+                "human": 0.9820828079285135,
+                "ai": 0.017917192071486437,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9820828079285135,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.017917192071486437,
+                    "human": 0.9820828079285135,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Financial advice The government should take immediate action to solve the retirement riddle by implementing the Quality of Advice Review to help catalyse innovative solutions.The government's retirement discussion paper released on Monday signals strong and positive intent to solve a riddle facing millions of Australians.The treasurer hit the salient issues in his opinion piece to accompany yesterday's launch of the discussion paper, which are: we need to give the same focus to the retirement phase as we have to the accumulation phase; many Australians lack support to make the most of their growing super balances; financial uncertainty leaves retirees underspending in their retirement years, and only a collaborative effort from industry and government will solve these issues.As one of the key retail super providers, we will actively participate in the discussion and consultation process, advocating on behalf of our superannuation members, and for the wider community. In our view, there are two obvious areas which would benefit from immediate attention.The first is to help make financial advice more affordable and accessible with rapid implementation of the Quality of Advice Review.The advice industry has been through the wringer in recent years, in order to rightly lift professional standards, but this has come at a cost to everyday Australians and advisers.Adviser numbers have plummeted and the rising regulatory burden has driven the cost of advice up to a point where only the wealthy can afford it. This means that the three in four Australians who find our retirement system complex have few places to turn to for the help and support they need. The sooner we streamline the advice process, the more affordable and accessible traditional face-to-face advice will become.Equally important is establishing the right frameworks to enable more help, advice and guidance to be provided through superannuation funds, identified by the government as \"Stream 2\" of the Quality of Advice Review's implementation.Superannuation funds are the logical first port of call for those approaching retirement to seek help and support. And while most funds already have an intra-fund advice offer in place, there are limitations to the advice that can be provided, potentially affecting retirement outcomes for members.We are waiting eagerly for the government to release its go-forward proposal for Stream 2, as we need clear and simple frameworks to ensure consumers understand how advice within super works, and how members are protected. It must also sit cohesively within the broader advice ecosystem, including full-scale face-to-face advice, new digital solutions and other, more basic educational services provided by super funds. This will ensure there is a clear, scaled advice pathway for consumers as their needs evolve.The \"X factor\" for financial advice is generative artificial intelligence. It would appear well suited to the delivery of digital financial advice and must be considered as part of any new technology-based offerings.Despite much talks, the industry has yet to land a digital advice solution that works for all Australians, and AI could serve as a catalyst for a new wave of innovation.The same need for innovation applies to retirement solutions, another key area called out by the treasurer. The accumulation phase has dominated industry, government and regulatory focus for the past two decades, at the expense of innovation in the drawdown phase.The tide is now turning, and with government impetus, we would hope to see an acceleration in the rollout of more retirement solutions that provide lifetime income, balancing capital preservation with exposure to growth.Retirement needs and circumstances vary, so ensuring consumers have access to different solutions is critical.We would also warn against the danger of measures which standardise product design, disclosure and reporting, as these may inadvertently stifle innovation and reduce competition.While income should be the immediate focus for these solutions, innovation must expand into other areas of consumer need. For example, into solutions that address the higher levels of debt Australians will be retiring with, the release of home equity to income and, critically, the financial and societal challenges associated with more retirees entering aged care.Our growing retirement population is one of the great economic and social challenges facing Australia.The government's discussion paper is another positive step towards meaningful change. It must be followed with action.Alexis George is CEO of AMP."
+        }
+    ]
+}

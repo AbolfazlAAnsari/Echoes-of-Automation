@@ -1,0 +1,141 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.9687768816947937,
+                    "sentence": "Published 7:17 pm Tuesday, March 26, 2024ByLetters to the EditorDear Editor,I am writing to express my support for the Saves Act and to commend the bipartisan efforts led by Republican Delegate Michael Webert and Democrat State Senator Creigh Deeds in advancing clean energy initiatives in Virginia.Conservatives for Clean Energy firmly believe in an “all the above” approach to clean energy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9790328145027161,
+                    "sentence": "We advocate for solutions that prioritize affordability, reliability, and environmental sustainability.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9871819615364075,
+                    "sentence": "The Saves Act exemplifies this approach by empowering the State Corporation Commission to establish efficiency targets for electric utilities and modernize energy efficiency cost-effectiveness tests.This legislation is a significant step forward in promoting energy efficiency programs, which not only reduce costs for consumers but also enhance the resilience of our energy grid.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9743622541427612,
+                    "sentence": "The bipartisan support garnered for the Saves Act underscores its importance and demonstrates a shared commitment to addressing energy challenges facing Virginians.We extend our gratitude to Delegate Webert, Senator Deeds, and all legislators who worked across party lines to ensure the passage of this crucial legislation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9978227019309998,
+                    "sentence": "Their dedication to the well-being of the citizens of Virginia is commendable.As the Saves Act awaits Governor Youngkin's signature, we urge him to recognize its benefits and sign it into law promptly.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.3529881238937378,
+                    "sentence": "Its implementation will mark a milestone in our collective efforts towards a cleaner, more reliable energy future for Virginia.Thomas TurnerState Director, Conservatives for Clean Energy VirginiaOn Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.01837865449488163,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.010977462865412235,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 0.17628848249938345
+                }
+            ],
+            "completely_generated_prob": 0.7294992806765149,
+            "class_probabilities": {
+                "human": 0.23663110986350397,
+                "ai": 0.7294992806765149,
+                "mixed": 0.03386960945998104
+            },
+            "average_generated_prob": 1,
+            "predicted_class": "ai",
+            "confidence_score": 0.7294992806765149,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.7294992806765149,
+                    "human": 0.23663110986350397,
+                    "mixed": 0.03386960945998104
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {
+                    "predicted_class": "pure_ai",
+                    "result_message": "",
+                    "confidence_score": 0.9999999998,
+                    "confidence_category": "high",
+                    "class_probabilities": {
+                        "pure_ai": 0.9999999999,
+                        "ai_paraphrased": 9.999999997e-11
+                    },
+                    "confidence_scores_raw": {
+                        "identity": {
+                            "pure_ai": 0.9999999998,
+                            "ai_paraphrased": 9.999999997e-11
+                        }
+                    },
+                    "confidence_thresholds_raw": {
+                        "identity": {
+                            "pure_ai": {
+                                "reject": 0.65,
+                                "low": 0.75,
+                                "medium": 0.92
+                            },
+                            "ai_paraphrased": {
+                                "reject": 0.85,
+                                "low": 0.9,
+                                "medium": 0.95
+                            }
+                        }
+                    }
+                },
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "AI_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 7:17 pm Tuesday, March 26, 2024ByLetters to the EditorDear Editor,I am writing to express my support for the Saves Act and to commend the bipartisan efforts led by Republican Delegate Michael Webert and Democrat State Senator Creigh Deeds in advancing clean energy initiatives in Virginia.Conservatives for Clean Energy firmly believe in an “all the above” approach to clean energy. We advocate for solutions that prioritize affordability, reliability, and environmental sustainability. The Saves Act exemplifies this approach by empowering the State Corporation Commission to establish efficiency targets for electric utilities and modernize energy efficiency cost-effectiveness tests.This legislation is a significant step forward in promoting energy efficiency programs, which not only reduce costs for consumers but also enhance the resilience of our energy grid. The bipartisan support garnered for the Saves Act underscores its importance and demonstrates a shared commitment to addressing energy challenges facing Virginians.We extend our gratitude to Delegate Webert, Senator Deeds, and all legislators who worked across party lines to ensure the passage of this crucial legislation. Their dedication to the well-being of the citizens of Virginia is commendable.As the Saves Act awaits Governor Youngkin’s signature, we urge him to recognize its benefits and sign it into law promptly. Its implementation will mark a milestone in our collective efforts towards a cleaner, more reliable energy future for Virginia.Thomas TurnerState Director, Conservatives for Clean Energy VirginiaOn Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

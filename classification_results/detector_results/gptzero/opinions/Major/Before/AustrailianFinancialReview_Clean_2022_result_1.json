@@ -1,0 +1,129 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.757763147354126,
+                    "sentence": "It was early January and my friend in Melbourne had invited me over for coffee.But a surge in the omicron variant was driving Australia to a record number of daily cases.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.8593388795852661,
+                    "sentence": "Hospitals were overflowing.In that light, the unusual request made total sense: would I mind takinga rapid antigen test before coming inside?And so I sat in the car, waiting for that little red line to appear before joining my friends.At as little as $5 apiece, RATs have become the frontline tool for governments and institutions to quickly check whether a person may be infected with COVID-19.The process is simple: stick the provided cotton swab up each nostril (and/or the throat) until you meet resistance, twirl it a few times, and swirl the tip in a small tube of liquid before putting a few drops onto a test strip.Then wait around 15 minutes forthe lines.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9270337224006653,
+                    "sentence": "One line (the control) means negative; two (control and test) mean positive.Although the process is much faster than reverse transcription polymerase chain reaction tests, the gold standard, and RATs for COVID-19 have been around for more than a year, it's taken time for governments to accept them.Their reticence is understandable because RATs aren't as sensitive as RT-PCR tests, meaning that a positive case may not always be picked up.But that attitude was from a time when leaders had decided to shoot for COVID-zero - no infections would be tolerated - rather than accept a wider spread of the virus.Most of the world has since moved on.Today the question is one of balance between returning to normal and restricting movement in order to protect populations.RATs now play an important part of the equation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.49513933062553406,
+                    "sentence": "RT-PCRs have around98 per cent sensitivity, which is closeto ideal.By comparison, the best rapid tests pick up only 90 per cent of cases in people with symptoms, and fewer than 50 per cent for those without.But that's still good enough because, many believe, a rapid test is better than no test at all when it comes to sorting who may need to be isolated.It's for this reason that authorities around the globe are deciding to offer tests, and even to require that they be performed.In Australia, for example, state governments recently decreed that school children get tested twice a week in order to attend class in person, with authorities footing the bill.The federal government, meanwhile, is promising to provide free tests to pensioners and other low-income citizens.Ironically, like the US governmenta month ago, Australia's leaders may be getting ahead of themselves, because slow action to procure supply means the country is running low on testing kits, which has led to queues at retailers and frustration among citizens as cases rise.A similar thing happened in the lead-up to Christmas, when President Joe Biden pledged to send free testingto any household that asked, froma stockpile of up to 500 million kits.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.7070816159248352,
+                    "sentence": "He's since upped that commitment to1 billion.But supply will eventually catch up, as it did with masks and other personal protective equipment.When they're in abundance, we'll likely see people test themselves voluntarily, even if just for peaceof mind.That's already starting to happen as party hosts and sports groups offer kits as a lure, or a requirement, for attendance.In the dating world, people will expect to see a negative test strip before meeting up with a prospective partner, and refusal will be an immediate disqualifier.And just as people tout their vax status on social media, expect more Instagram photos of those littleplastic kits.Remember to watch for that second line.BLOOMBERGTim Culpan is a Bloomberg Opinion columnist covering technology.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.8437210917472839,
+                    "sentence": "He previously covered technology for Bloomberg News.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 6,
+                    "completely_generated_prob": 0.06788505859236459
+                }
+            ],
+            "completely_generated_prob": 0.6396073249008873,
+            "class_probabilities": {
+                "human": 0.3603926750991127,
+                "ai": 0.6396073249008873,
+                "mixed": 0
+            },
+            "average_generated_prob": 1,
+            "predicted_class": "ai",
+            "confidence_score": 0.6396073249008873,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.6396073249008873,
+                    "human": 0.3603926750991127,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {
+                    "predicted_class": "ai_paraphrased",
+                    "result_message": "We are highly confident that this text has been rewritten by AI, an AI paraphraser or AI bypasser",
+                    "confidence_score": 0.9998050649110437,
+                    "confidence_category": "high",
+                    "class_probabilities": {
+                        "pure_ai": 0.00019493508895629025,
+                        "ai_paraphrased": 0.9998050649110437
+                    },
+                    "confidence_scores_raw": {
+                        "identity": {
+                            "pure_ai": 0.00019493498895629027,
+                            "ai_paraphrased": 0.9998050649110437
+                        }
+                    },
+                    "confidence_thresholds_raw": {
+                        "identity": {
+                            "pure_ai": {
+                                "reject": 0.65,
+                                "low": 0.75,
+                                "medium": 0.92
+                            },
+                            "ai_paraphrased": {
+                                "reject": 0.85,
+                                "low": 0.9,
+                                "medium": 0.95
+                            }
+                        }
+                    }
+                },
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "AI_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "It was early January and my friend in Melbourne had invited me over for coffee.But a surge in the omicron variant was driving Australia to a record number of daily cases. Hospitals were overflowing.In that light, the unusual request made total sense: would I mind takinga rapid antigen test before coming inside?And so I sat in the car, waiting for that little red line to appear before joining my friends.At as little as $5 apiece, RATs have become the frontline tool for governments and institutions to quickly check whether a person may be infected with COVID-19.The process is simple: stick the provided cotton swab up each nostril (and/or the throat) until you meet resistance, twirl it a few times, and swirl the tip in a small tube of liquid before putting a few drops onto a test strip.Then wait around 15 minutes forthe lines. One line (the control) means negative; two (control and test) mean positive.Although the process is much faster than reverse transcription polymerase chain reaction tests, the gold standard, and RATs for COVID-19 have been around for more than a year, it's taken time for governments to accept them.Their reticence is understandable because RATs aren't as sensitive as RT-PCR tests, meaning that a positive case may not always be picked up.But that attitude was from a time when leaders had decided to shoot for COVID-zero - no infections would be tolerated - rather than accept a wider spread of the virus.Most of the world has since moved on.Today the question is one of balance between returning to normal and restricting movement in order to protect populations.RATs now play an important part of the equation. RT-PCRs have around98 per cent sensitivity, which is closeto ideal.By comparison, the best rapid tests pick up only 90 per cent of cases in people with symptoms, and fewer than 50 per cent for those without.But that's still good enough because, many believe, a rapid test is better than no test at all when it comes to sorting who may need to be isolated.It's for this reason that authorities around the globe are deciding to offer tests, and even to require that they be performed.In Australia, for example, state governments recently decreed that school children get tested twice a week in order to attend class in person, with authorities footing the bill.The federal government, meanwhile, is promising to provide free tests to pensioners and other low-income citizens.Ironically, like the US governmenta month ago, Australia's leaders may be getting ahead of themselves, because slow action to procure supply means the country is running low on testing kits, which has led to queues at retailers and frustration among citizens as cases rise.A similar thing happened in the lead-up to Christmas, when President Joe Biden pledged to send free testingto any household that asked, froma stockpile of up to 500 million kits. He's since upped that commitment to1 billion.But supply will eventually catch up, as it did with masks and other personal protective equipment.When they're in abundance, we'll likely see people test themselves voluntarily, even if just for peaceof mind.That's already starting to happen as party hosts and sports groups offer kits as a lure, or a requirement, for attendance.In the dating world, people will expect to see a negative test strip before meeting up with a prospective partner, and refusal will be an immediate disqualifier.And just as people tout their vax status on social media, expect more Instagram photos of those littleplastic kits.Remember to watch for that second line.BLOOMBERGTim Culpan is a Bloomberg Opinion columnist covering technology. He previously covered technology for Bloomberg News."
+        }
+    ]
+}

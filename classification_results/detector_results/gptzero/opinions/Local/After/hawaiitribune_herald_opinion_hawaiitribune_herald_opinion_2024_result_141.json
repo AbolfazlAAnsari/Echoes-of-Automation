@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00018174556316807866,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°The unraveling of a high-level attempt to avoid transparency about the origins of the COVID-19 pandemic began with a single email uncovered via a Freedom of Information Act request published last year.Dr.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000206948330742307,
+                    "sentence": "David Morens, a senior adviser at the National Institute of Allergy and Infectious Diseases, had emailed a small group of outspoken scientists who opposed the idea that a lab leak was the source of COVID-19.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012160810001660138,
+                    "sentence": "“I always try to communicate on my Gmail,” he wrote, “because my NIH email is FOIA'd constantly.”If he had to email the group from his NIH email, he promised, “I will delete anything I don't want to see in The New York Times.”When the House Select Subcommittee on the Coronavirus Pandemic subpoenaed those emails, it found that Morens advised his colleagues to avoid oversight requirements and that he intimated he would delete emails related to COVID origins.Many of those conversations involved EcoHealth Alliance ᅳ a nonprofit that collaborated with the Wuhan Institute of Virology, often criticized for its risky research and lax biosafety standards ᅳ and Peter Daszak, EcoHealth's president.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.278895645868033e-05,
+                    "sentence": "The Trump administration had terminated an EcoHealth grant, but as these emails showed, Morens was working to reverse that decision.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.745439895894378e-05,
+                    "sentence": "(The termination was eventually reversed, but last week the Biden administration barred EcoHealth from all federal funding, after a hearing in which the organization was scorched by lawmakers from both parties for misrepresenting its work with Chinese virologists.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.245161734521389e-05,
+                    "sentence": ")After Morens rebuffed the committee's request for a voluntary interview, it subpoenaed him to testify.Morens told the committee he used a private email account because he was merely trying to avoid having his personal correspondence with Daszak, whom he described as a longtime friend, become public information.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.014514605747536e-05,
+                    "sentence": "However, the subpoenaed emails revealed Morens advised Daszak on how to publicly respond to the termination of EcoHealth's grant and demeaned other scientists who worried about biosafety lapses.Morens wrote to Daszak, “We are all smart enough to know to never have smoking guns, and if we did, we wouldn't put them in emails, and if we found them we would delete them.”Rep.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.950957271736115e-05,
+                    "sentence": "Raul Ruiz, a physician who is the committee's ranking Democrat, told Morens his actions were a “stain on the legacy” of his colleagues.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001518154313089326,
+                    "sentence": "Rep. Debbie Lesko, R-Ariz., read email after email from Morens on his avoidance techniques and snapped, “When you say, 'Oh, I didn't know this.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00023353187134489417,
+                    "sentence": "I didn't intentionally use my Gmail,' are you kidding me?”Morens replied to that and many other pointed questions with a version of “I don't remember,” drawing strong rebukes from members of both parties.The only way to reassure the public that smoking guns weren't deleted is proper transparency.© 2024 The New York Times Company",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.006608679833334143,
+            "class_probabilities": {
+                "human": 0.9933913201666659,
+                "ai": 0.006608679833334143,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933913201666659,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006608679833334143,
+                    "human": 0.9933913201666659,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°The unraveling of a high-level attempt to avoid transparency about the origins of the COVID-19 pandemic began with a single email uncovered via a Freedom of Information Act request published last year.Dr. David Morens, a senior adviser at the National Institute of Allergy and Infectious Diseases, had emailed a small group of outspoken scientists who opposed the idea that a lab leak was the source of COVID-19. “I always try to communicate on my Gmail,” he wrote, “because my NIH email is FOIA’d constantly.”If he had to email the group from his NIH email, he promised, “I will delete anything I don’t want to see in The New York Times.”When the House Select Subcommittee on the Coronavirus Pandemic subpoenaed those emails, it found that Morens advised his colleagues to avoid oversight requirements and that he intimated he would delete emails related to COVID origins.Many of those conversations involved EcoHealth Alliance — a nonprofit that collaborated with the Wuhan Institute of Virology, often criticized for its risky research and lax biosafety standards — and Peter Daszak, EcoHealth’s president. The Trump administration had terminated an EcoHealth grant, but as these emails showed, Morens was working to reverse that decision. (The termination was eventually reversed, but last week the Biden administration barred EcoHealth from all federal funding, after a hearing in which the organization was scorched by lawmakers from both parties for misrepresenting its work with Chinese virologists.)After Morens rebuffed the committee’s request for a voluntary interview, it subpoenaed him to testify.Morens told the committee he used a private email account because he was merely trying to avoid having his personal correspondence with Daszak, whom he described as a longtime friend, become public information. However, the subpoenaed emails revealed Morens advised Daszak on how to publicly respond to the termination of EcoHealth’s grant and demeaned other scientists who worried about biosafety lapses.Morens wrote to Daszak, “We are all smart enough to know to never have smoking guns, and if we did, we wouldn’t put them in emails, and if we found them we would delete them.”Rep. Raul Ruiz, a physician who is the committee’s ranking Democrat, told Morens his actions were a “stain on the legacy” of his colleagues. Rep. Debbie Lesko, R-Ariz., read email after email from Morens on his avoidance techniques and snapped, “When you say, ‘Oh, I didn’t know this. I didn’t intentionally use my Gmail,’ are you kidding me?”Morens replied to that and many other pointed questions with a version of “I don’t remember,” drawing strong rebukes from members of both parties.The only way to reassure the public that smoking guns weren’t deleted is proper transparency.© 2024 The New York Times Company"
+        }
+    ]
+}

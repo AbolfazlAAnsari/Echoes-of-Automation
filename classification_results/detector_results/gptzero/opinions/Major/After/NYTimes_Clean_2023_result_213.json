@@ -1,0 +1,160 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 4.1556359064998105e-05,
+                    "sentence": "Is this season of strikes going to change the way we all work?Listen to and follow 'Matter of Opinion'Apple Podcasts|Spotify|Amazon MusicAmericans are sick of business as usual.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.913641921826638e-05,
+                    "sentence": "This year alone, more than 275 strikes have broken out across the country, and last week, nearly 13,000 members of the United Auto Workers joined the picket line to demand a better deal with their employers.So what's going on with work in America?This week on “Matter of Opinion,” the hosts break down how a changing economy and technological innovations are complicating the worker-employer relationship.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.210490078548901e-05,
+                    "sentence": "Lydia offers some insight from her experience as the big boss on the other side of the bargaining table.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.099724174011499e-05,
+                    "sentence": "Ross asks how little work The Times should pay him to do.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.277443076716736e-05,
+                    "sentence": "And ultimately, the hosts debate the question: In today's world, what role should work play in our lives?Mentioned in this episode:·“Is College Worth It?,” an episode of “The Daily”·“Biden E.V.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.008459291071631e-05,
+                    "sentence": "Agenda Threatens U.S. Auto Industry,” by Senator J.D.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.2178668081760406e-05,
+                    "sentence": "Vance in the Toledo Blade·“Why Americans Care About Work So Much,” by Derek Thompson in The Atlantic“Is College Worth It?,” an episode of “The Daily”“Biden E.V.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.852411802858114e-05,
+                    "sentence": "Agenda Threatens U.S. Auto Industry,” by Senator J.D.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0021053587552160025,
+                    "sentence": "Vance in the Toledo Blade“Why Americans Care About Work So Much,” by Derek Thompson in The AtlanticThoughts?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017603470478206873,
+                    "sentence": "Email us atmatterofopinion@nytimes.com.Follow our hosts on Twitter: Michelle Cottle (@mcottle), Ross Douthat (@DouthatNYT), Carlos Lozada (@CarlosNYT) and Lydia Polgreen (@lpolgreen).“Matter of Opinion” is produced by Phoebe Lett, Derek Arthur and Sophia Alvarez Boyd.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013956367038190365,
+                    "sentence": "It is edited by Stephanie Joyce.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015377121744677424,
+                    "sentence": "Mixing by Carole Sabouraud.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014505696017295122,
+                    "sentence": "Original music by Isaac Jones, Carole Sabouraud, Sonia Herrero and Pat McCusker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013410109095275402,
+                    "sentence": "Our fact-checking team is Kate Sinclair, Mary Marge Locker and Michelle Harris.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017193631501868367,
+                    "sentence": "Audience strategy by Shannon Busta and Kristina Samulewski.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0021218869369477034,
+                    "sentence": "Our executive producer is Annie-Rose Strasser.PHOTO: (PHOTOGRAPH BY Illustration by The New York Times; photograph by Matthew Hatcher/Getty FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 16,
+                    "completely_generated_prob": 3.4496480286678e-14
+                }
+            ],
+            "completely_generated_prob": 0.017486769031531738,
+            "class_probabilities": {
+                "human": 0.9825132309684682,
+                "ai": 0.017486769031531738,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9825132309684682,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.017486769031531738,
+                    "human": 0.9825132309684682,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Is this season of strikes going to change the way we all work?Listen to and follow ‘Matter of Opinion’Apple Podcasts|Spotify|Amazon MusicAmericans are sick of business as usual. This year alone, more than 275 strikes have broken out across the country, and last week, nearly 13,000 members of the United Auto Workers joined the picket line to demand a better deal with their employers.So what’s going on with work in America?This week on “Matter of Opinion,” the hosts break down how a changing economy and technological innovations are complicating the worker-employer relationship. Lydia offers some insight from her experience as the big boss on the other side of the bargaining table. Ross asks how little work The Times should pay him to do. And ultimately, the hosts debate the question: In today’s world, what role should work play in our lives?Mentioned in this episode:•“Is College Worth It?,” an episode of “The Daily”•“Biden E.V. Agenda Threatens U.S. Auto Industry,” by Senator J.D. Vance in the Toledo Blade•“Why Americans Care About Work So Much,” by Derek Thompson in The Atlantic“Is College Worth It?,” an episode of “The Daily”“Biden E.V. Agenda Threatens U.S. Auto Industry,” by Senator J.D. Vance in the Toledo Blade“Why Americans Care About Work So Much,” by Derek Thompson in The AtlanticThoughts? Email us atmatterofopinion@nytimes.com.Follow our hosts on Twitter: Michelle Cottle (@mcottle), Ross Douthat (@DouthatNYT), Carlos Lozada (@CarlosNYT) and Lydia Polgreen (@lpolgreen).“Matter of Opinion” is produced by Phoebe Lett, Derek Arthur and Sophia Alvarez Boyd. It is edited by Stephanie Joyce. Mixing by Carole Sabouraud. Original music by Isaac Jones, Carole Sabouraud, Sonia Herrero and Pat McCusker. Our fact-checking team is Kate Sinclair, Mary Marge Locker and Michelle Harris. Audience strategy by Shannon Busta and Kristina Samulewski. Our executive producer is Annie-Rose Strasser.PHOTO:  (PHOTOGRAPH BY Illustration by The New York Times; photograph by Matthew Hatcher/Getty FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

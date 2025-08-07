@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.03751465678215027,
+                    "sentence": "Keeping track of the numbers of Conservative MPs who are prepared to get rid of the prime minister is like working in the dark, writes John RentoulIt is a bit like that scene from a family car on a long drive that was enacted by Eddie Murphy as the voice of Donkey in Shrek 2: \"Are we there yet?\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.028905607759952545,
+                    "sentence": "No, we are not there yet, because Sir Graham Brady, the chair of the 1922 Committee, has not stepped in front of the TV cameras to announce that he has received 54 letters from Conservative MPs requesting a vote of confidence inBoris Johnson's leadership.But the question is going to go on being asked.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.017809785902500153,
+                    "sentence": "At the time of writing, about 30 MPs have said publicly that Johnson should go, of whom about half have said that they have written a letter.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04714439436793327,
+                    "sentence": "I assume that they are like a kind of reverse iceberg: there is a smaller number of undeclared MPs who will have written or emailed their request, possibly including Sir Graham himself, who clashed with theprime ministerrepeatedly over coronavirus restrictions.There are other MPs who have not quite called for the prime minister to go, but who have issued cryptic statements.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05223260819911957,
+                    "sentence": "Andrew Jones said \"nobody should doubt my unhappiness\" but that \"correspondence with the '22 is confidential\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.059319719672203064,
+                    "sentence": "Robert Largan said: \"I am taking the appropriate action to defend integrity in public life.\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0026267822831869125,
+                    "sentence": "And Tom Tugendhat, who said he would be a candidate if there were a Tory leadership election, wouldn't answer when asked in a radio interview several weeks ago if he had put in a letter.Altogether, myrunning tallylists 63 MPs who have called for the prime minister to go (including two, Andrew Bridgen and Douglas Ross, who wrote letters but withdrew them), or who have criticised him over lockdown parties in Downing Street in such strong terms as to imply that they might write a letter.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0035006229300051928,
+                    "sentence": "Plus I have created a special category for Sir Charles Walker, a former vice chair of the 1922 Committee, who in February said he would \"applaud\" Johnson's resignation, but who now says he thought the prime minister's position was \"unrecoverable, and it seems that I was wrong\".So the potential is there for the target of 54 to be hit.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004068762995302677,
+                    "sentence": "No wonder Johnson is nervous about his future.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00280013307929039,
+                    "sentence": "Triggering a vote of confidence may be only the first stage in changing Tory leader, because he would then have to lose that vote, but once the first wall is breached, the momentum of the war changes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005710858851671219,
+                    "sentence": "Many MPs, including ministers, would not take the active step of writing a letter (or email), but once the vote of confidence is called, they have to decide, yes or no - and they might think it easier, if they think Johnson is not going to lead them into the next election, to make the change now.Are we there yet?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008119691163301468,
+                    "sentence": "Not yet, but when we get there, and it may be something else entirely that pushes the 54th Tory MP over the edge, I think it will be over for Johnson.Yours,John RentoulChief political commentator",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.09353082711899116,
+            "class_probabilities": {
+                "human": 0.9064691728810088,
+                "ai": 0.09353082711899116,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9064691728810088,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.09353082711899116,
+                    "human": 0.9064691728810088,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Keeping track of the numbers of Conservative MPs who are prepared to get rid of the prime minister is like working in the dark, writes John RentoulIt is a bit like that scene from a family car on a long drive that was enacted by Eddie Murphy as the voice of Donkey in Shrek 2: \"Are we there yet?\" No, we are not there yet, because Sir Graham Brady, the chair of the 1922 Committee, has not stepped in front of the TV cameras to announce that he has received 54 letters from Conservative MPs requesting a vote of confidence inBoris Johnson's leadership.But the question is going to go on being asked. At the time of writing, about 30 MPs have said publicly that Johnson should go, of whom about half have said that they have written a letter. I assume that they are like a kind of reverse iceberg: there is a smaller number of undeclared MPs who will have written or emailed their request, possibly including Sir Graham himself, who clashed with theprime ministerrepeatedly over coronavirus restrictions.There are other MPs who have not quite called for the prime minister to go, but who have issued cryptic statements. Andrew Jones said \"nobody should doubt my unhappiness\" but that \"correspondence with the '22 is confidential\". Robert Largan said: \"I am taking the appropriate action to defend integrity in public life.\" And Tom Tugendhat, who said he would be a candidate if there were a Tory leadership election, wouldn't answer when asked in a radio interview several weeks ago if he had put in a letter.Altogether, myrunning tallylists 63 MPs who have called for the prime minister to go (including two, Andrew Bridgen and Douglas Ross, who wrote letters but withdrew them), or who have criticised him over lockdown parties in Downing Street in such strong terms as to imply that they might write a letter. Plus I have created a special category for Sir Charles Walker, a former vice chair of the 1922 Committee, who in February said he would \"applaud\" Johnson's resignation, but who now says he thought the prime minister's position was \"unrecoverable, and it seems that I was wrong\".So the potential is there for the target of 54 to be hit. No wonder Johnson is nervous about his future. Triggering a vote of confidence may be only the first stage in changing Tory leader, because he would then have to lose that vote, but once the first wall is breached, the momentum of the war changes. Many MPs, including ministers, would not take the active step of writing a letter (or email), but once the vote of confidence is called, they have to decide, yes or no - and they might think it easier, if they think Johnson is not going to lead them into the next election, to make the change now.Are we there yet? Not yet, but when we get there, and it may be something else entirely that pushes the 54th Tory MP over the edge, I think it will be over for Johnson.Yours,John RentoulChief political commentator"
+        }
+    ]
+}

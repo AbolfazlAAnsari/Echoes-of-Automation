@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0002761191863100976,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021632832067552954,
+                    "sentence": "Please send your letters toletters@independent.co.ukWe carry enormous shame, ever greater, at the treatment of Shamima Begum after Friday's judgment by the Court of Appeal.We failed to support a community, failed to stop a minor travelling on a false passport to a war zone, and failed to warn her parents of a known risk.We allowed, for political popularism under the guise of national security,to strip her citizenshipand make her stateless - something we all should be concerned about.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015497651475016028,
+                    "sentence": "After the death of her three children, she has paid a terrible price for a mistake as a15-year-old when targetedand trafficked to be a child bride.We are, as a nation, truly on our knees when we use national security as an excuse for spending millions on this case while cutting well-respected interfaith and community group funding, run by a government with topsy-turvy priorities, where scapegoating and symbolism mattermore than actual national security.Andrew SnowdonGreat YarmouthContinuity of careThe Independent has reported recentlyon a Cambridge studyextolling the virtues of care continuity inprimary practice.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.411840877262875e-05,
+                    "sentence": "Talk about the blindingly obvious!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010504563397262245,
+                    "sentence": "It's a little depressing that one of the country's great universities can't come up with something more insightful.I'd rather they investigated the effects of so manyGP roles being devolvedto less qualified practitioners.Dr Anthony IngletonSheffieldDo us a favourNicola Sturgeonbreaks her uncharacteristic three-month silence on Facebook to snipe aboutWestminsterparliamentary procedures.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.495908019132912e-05,
+                    "sentence": "Not to debate crucial matters devolved to Holyrood such as education, the NHS, roads and public transport; in fact, not even to try to present constructive arguments for her separatist raison d'être.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00020580843556672335,
+                    "sentence": "Nor to discuss the cost of living crisis that is of concern to virtually all in Scotland or even matters that may impact particularly on her own constituents.Isn't it time Sturgeon, who admits to spending 15 hours a weekworking on her memoirand frequently appears at book festivals across the UK, did her constituents and her party a favour and stood down as an MSP?Martin RedfernMelrose, RoxburghshireGladiators is a contender for worst show on televisionI can't believe that, in an age when we have access to a million different streaming services and the entire sum of human knowledge on the internet, people are still choosing to tune in and watch people with absolutely no charisma try to run a child's obstacle course on the BBC's Gladiators.And before you accuse me of being nostalgic for the original, I didn't think it was any good in the Nineties, either.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002773798769339919,
+                    "sentence": "But at least we had the excuse then of there being nothing else on TV to watch!Stephen BloomCanterbury",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.006608679833334143,
+            "class_probabilities": {
+                "human": 0.9933913201666659,
+                "ai": 0.006608679833334143,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933913201666659,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006608679833334143,
+                    "human": 0.9933913201666659,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukWe carry enormous shame, ever greater, at the treatment of Shamima Begum after Friday’s judgment by the Court of Appeal.We failed to support a community, failed to stop a minor travelling on a false passport to a war zone, and failed to warn her parents of a known risk.We allowed, for political popularism under the guise of national security,to strip her citizenshipand make her stateless – something we all should be concerned about. After the death of her three children, she has paid a terrible price for a mistake as a15-year-old when targetedand trafficked to be a child bride.We are, as a nation, truly on our knees when we use national security as an excuse for spending millions on this case while cutting well-respected interfaith and community group funding, run by a government with topsy-turvy priorities, where scapegoating and symbolism mattermore than actual national security.Andrew SnowdonGreat YarmouthContinuity of careThe Independent has reported recentlyon a Cambridge studyextolling the virtues of care continuity inprimary practice.  Talk about the blindingly obvious! It’s a little depressing that one of the country’s great universities can’t come up with something more insightful.I’d rather they investigated the effects of so manyGP roles being devolvedto less qualified practitioners.Dr Anthony IngletonSheffieldDo us a favourNicola Sturgeonbreaks her uncharacteristic three-month silence on Facebook to snipe aboutWestminsterparliamentary procedures. Not to debate crucial matters devolved to Holyrood such as education, the NHS, roads and public transport; in fact, not even to try to present constructive arguments for her separatist raison d’être. Nor to discuss the cost of living crisis that is of concern to virtually all in Scotland or even matters that may impact particularly on her own constituents.Isn’t it time Sturgeon, who admits to spending 15 hours a weekworking on her memoirand frequently appears at book festivals across the UK, did her constituents and her party a favour and stood down as an MSP?Martin RedfernMelrose, RoxburghshireGladiators is a contender for worst show on televisionI can’t believe that, in an age when we have access to a million different streaming services and the entire sum of human knowledge on the internet, people are still choosing to tune in and watch people with absolutely no charisma try to run a child’s obstacle course on the BBC’s Gladiators.And before you accuse me of being nostalgic for the original, I didn’t think it was any good in the Nineties, either. But at least we had the excuse then of there being nothing else on TV to watch!Stephen BloomCanterbury"
+        }
+    ]
+}

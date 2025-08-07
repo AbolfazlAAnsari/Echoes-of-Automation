@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0001857744064182043,
+                    "sentence": "Please send your letters toletters@independent.co.ukI must take issue withPatrick Cockburn's analogycomparingBoris Johnsonto Inspector Clouseau.Although it is several years since I last had the pleasure of watching the Pink Panther films, my recollection is that, despite his bumbling incompetence, Clouseau's cases always, surprisingly, arrived at a satisfactory conclusion.Phil WhitneyCromfordThe Nasty PartySome few years ago, the Tory party managed to get itself the nickname of \"The Nasty Party\".Whilst there has been the (very) occasional call for this sobriquet to be relaunched, might I suggest, given developments (decay?)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002152327651856467,
+                    "sentence": "in the Tory party under Johnson's leadership, that a better, more fitting title might be \"The Mad, Bad and Truly Dangerous Party\"?PS.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021654917509295046,
+                    "sentence": "WouldDawn Butlerhave gotten away with stating this in the house, rather than simply reminding anyone listening that our prime minister is, indeed, a certified liar?David CurranMiddlesexExtra-tall mastWhat a delightful irony that our EU-bashing government is toinstruct councils to fly the EU flag.I trust it will be flown over Downing Street on Mr Johnson's extra-tall mast.Colin HaywardFarehamTravelling circusesAlthough in evidence for decades, theclimate crisishas finally reached critical mass.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016710147610865533,
+                    "sentence": "Something needs to be done urgently, though most governments are clueless and afraid to make decisions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00023841214715503156,
+                    "sentence": "Politics get in the way.My question here is, has anybody ever looked at our societal behaviour in a wider context and given some serious thought to the carbon footprints produced by our beloved mass entertainments?The travelling circuses which so much enhance the national pride for so many by winning, the opportunity to wave a flag, and commercial success for the relatively few?Formula One, travelling and flying from one end of the world to the other, year in, year out, to some 23 locations now.The Olympics, now in Tokyo, with tens of thousands of athletes, support staff and hangers-on from around the world, all using air travel out of necessity?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022501010971609503,
+                    "sentence": "Not to mention the necessary and costly construction of the venues to facilitate these games.The endless football, tennis and athletic championships all involve much travelling, with training camps in far-off countries and at high altitudes to improve performances.I am not advocating against entertainment, or sport in general.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003476233978290111,
+                    "sentence": "Far from it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.35504835844039917,
+                    "sentence": "It has its place and meaning in life.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.43119490146636963,
+                    "sentence": "However, I would suggest that if indeed we, as a global society, see the urgent need for addressing climate change, then we need to look at what we do and how we do it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1094607263803482,
+                    "sentence": "And we need to do so now.All of these travelling circuses are an easy means for manipulating audiences, enhancing national pride and prestige with much flag waving, yet come at an unsustainable cost to our climate.Gunter StraubLondonNursing strikeAllnurseshave to do is register with a nursing agency and then go on strike.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.054349470883607864,
+                    "sentence": "They will be sent by the agency to other hospitals or to other wards.They might even be able to create their own agency for this purpose, with any profits going to whatever good causes they choose.Sandra SempleExeter",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.16992929432968254,
+            "class_probabilities": {
+                "human": 0.8296547899625676,
+                "ai": 0.16992929432968254,
+                "mixed": 0.00041591570774989606
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8296547899625676,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.16992929432968254,
+                    "human": 0.8296547899625676,
+                    "mixed": 0.00041591570774989606
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukI must take issue withPatrick Cockburn's analogycomparingBoris Johnsonto Inspector Clouseau.Although it is several years since I last had the pleasure of watching the Pink Panther films, my recollection is that, despite his bumbling incompetence, Clouseau's cases always, surprisingly, arrived at a satisfactory conclusion.Phil WhitneyCromfordThe Nasty PartySome few years ago, the Tory party managed to get itself the nickname of \"The Nasty Party\".Whilst there has been the (very) occasional call for this sobriquet to be relaunched, might I suggest, given developments (decay?) in the Tory party under Johnson's leadership, that a better, more fitting title might be \"The Mad, Bad and Truly Dangerous Party\"?PS. WouldDawn Butlerhave gotten away with stating this in the house, rather than simply reminding anyone listening that our prime minister is, indeed, a certified liar?David CurranMiddlesexExtra-tall mastWhat a delightful irony that our EU-bashing government is toinstruct councils to fly the EU flag.I trust it will be flown over Downing Street on Mr Johnson's extra-tall mast.Colin HaywardFarehamTravelling circusesAlthough in evidence for decades, theclimate crisishas finally reached critical mass. Something needs to be done urgently, though most governments are clueless and afraid to make decisions. Politics get in the way.My question here is, has anybody ever looked at our societal behaviour in a wider context and given some serious thought to the carbon footprints produced by our beloved mass entertainments?The travelling circuses which so much enhance the national pride for so many by winning, the opportunity to wave a flag, and commercial success for the relatively few?Formula One, travelling and flying from one end of the world to the other, year in, year out, to some 23 locations now.The Olympics, now in Tokyo, with tens of thousands of athletes, support staff and hangers-on from around the world, all using air travel out of necessity? Not to mention the necessary and costly construction of the venues to facilitate these games.The endless football, tennis and athletic championships all involve much travelling, with training camps in far-off countries and at high altitudes to improve performances.I am not advocating against entertainment, or sport in general. Far from it. It has its place and meaning in life. However, I would suggest that if indeed we, as a global society, see the urgent need for addressing climate change, then we need to look at what we do and how we do it. And we need to do so now.All of these travelling circuses are an easy means for manipulating audiences, enhancing national pride and prestige with much flag waving, yet come at an unsustainable cost to our climate.Gunter StraubLondonNursing strikeAllnurseshave to do is register with a nursing agency and then go on strike. They will be sent by the agency to other hospitals or to other wards.They might even be able to create their own agency for this purpose, with any profits going to whatever good causes they choose.Sandra SempleExeter"
+        }
+    ]
+}

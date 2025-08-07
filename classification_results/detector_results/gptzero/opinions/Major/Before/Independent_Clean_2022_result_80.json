@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.001027841935865581,
+                    "sentence": "Send your letters toletters@independent.co.ukIs it too obvious to mention?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006823891308158636,
+                    "sentence": "Is it just too stark, too unpalatable?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012231110595166683,
+                    "sentence": "The party that served up the \"hostile environment\" for migrants is also the party that has presided for decades over selling off UK assets to foreign individuals and governments.Those entities now benefit from and have control over significant parts of Britain's infrastructure.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000986801227554679,
+                    "sentence": "This selling off of the family silver has gone hand in hand with spouting nonsense about sovereignty and the importance of borders and self-determination.Energy companies are controlled by Spain or France and a British ferry company is in the hands of a Dubai consortium.In light of Russia's invasion of Ukraine (and the UK's oligarch shame) wreaking havoc on our dependence on Russian oil at one end of the scale, and the disgusting treatment ofP&O workersat the other end, does the term \"chickens coming home to roost\" resonate?Amanda BakerEdinburghCrimes against humanityI applaud The Independent for inferring that theUkrainian landscapeis riven with the scars of war.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00046808706247247756,
+                    "sentence": "The wholesale destruction of ecosystems will have profound and traumatising effects on people's lives for generations to come.We should also remember that after the dust of weapons settles down, it will take years to clear forests, rivers and lakes from mines, shrapnel and unexploded bombs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002208576916018501,
+                    "sentence": "Regrettably, this is still unrecognised in international law as a crime against humanity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003607513499446213,
+                    "sentence": "It's time to rethink the definitions of genocide, crime against humanity and war crimes for the sake of justice and humankind.Dr Munjed Farid Al QutobLondonReducing our GDPRishi Sunak told fellow ministers at a cabinet meetingthat if Europe banned Russian imports of gas and oil immediately it would swipe up to £75bn from the UK economy \"straight away\" - the equivalent to about 3 per cent of our GDP.Did he also remind them that the government's own Office for Budgetary Responsibility had already told them that leaving the EU would reduce our long-run GDP by about 4 per cent each year?Nick EastwellLondonPartygate dismissalI readAndrew Woodcock's columnabout Jacob Rees-Mogg dismissing Partygate as \"fluff\" with interest because yet again Rees-Mogg has shown his arrogance.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022968818666413426,
+                    "sentence": "I am pleased that he was rebuked by the party chair, Oliver Dowden.Naturally, with the situation in Ukraine, the political scandal has retreated into the background, but it should not be dismissed in this cavalier fashion.People are still justifiably hurt that the government did not play by the rules they set for everyone else.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021973959519527853,
+                    "sentence": "They are still grieving for the loss of loved ones, who they could not visit or say their final goodbyes to, so to have this reduced to trivia is inordinately insulting and patronising.Ress-Mogg is wrong that suffering men, women and children do not care about Partygate and him wishing it away.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00030483503360301256,
+                    "sentence": "When the final report does emerge, it may leave him eating his words and a not-so-trivial backlash will emerge and hopefully leave him apologising for his callous statement.Judith DanielsNorfolkPeace dealsIfVladimir Putin wants peaceand requires Ukraine to be no threat to the security of Russia and respect its sovereignty, he must equally promise that Russia will not be a threat and respect the sovereignty of Ukraine and other countries.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002952803624793887,
+                    "sentence": "He must also pay for all the damage he has caused.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005522439605556428,
+                    "sentence": "The big question is can anyone trust Mr Putin's promise?J LongstaffE Sussex",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.015281828032010496,
+            "class_probabilities": {
+                "human": 0.9847181719679895,
+                "ai": 0.015281828032010496,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9847181719679895,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.015281828032010496,
+                    "human": 0.9847181719679895,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Send your letters toletters@independent.co.ukIs it too obvious to mention? Is it just too stark, too unpalatable? The party that served up the \"hostile environment\" for migrants is also the party that has presided for decades over selling off UK assets to foreign individuals and governments.Those entities now benefit from and have control over significant parts of Britain's infrastructure. This selling off of the family silver has gone hand in hand with spouting nonsense about sovereignty and the importance of borders and self-determination.Energy companies are controlled by Spain or France and a British ferry company is in the hands of a Dubai consortium.In light of Russia's invasion of Ukraine (and the UK's oligarch shame) wreaking havoc on our dependence on Russian oil at one end of the scale, and the disgusting treatment ofP&O workersat the other end, does the term \"chickens coming home to roost\" resonate?Amanda BakerEdinburghCrimes against humanityI applaud The Independent for inferring that theUkrainian landscapeis riven with the scars of war. The wholesale destruction of ecosystems will have profound and traumatising effects on people's lives for generations to come.We should also remember that after the dust of weapons settles down, it will take years to clear forests, rivers and lakes from mines, shrapnel and unexploded bombs. Regrettably, this is still unrecognised in international law as a crime against humanity. It's time to rethink the definitions of genocide, crime against humanity and war crimes for the sake of justice and humankind.Dr Munjed Farid Al QutobLondonReducing our GDPRishi Sunak told fellow ministers at a cabinet meetingthat if Europe banned Russian imports of gas and oil immediately it would swipe up to £75bn from the UK economy \"straight away\" - the equivalent to about 3 per cent of our GDP.Did he also remind them that the government's own Office for Budgetary Responsibility had already told them that leaving the EU would reduce our long-run GDP by about 4 per cent each year?Nick EastwellLondonPartygate dismissalI readAndrew Woodcock's columnabout Jacob Rees-Mogg dismissing Partygate as \"fluff\" with interest because yet again Rees-Mogg has shown his arrogance. I am pleased that he was rebuked by the party chair, Oliver Dowden.Naturally, with the situation in Ukraine, the political scandal has retreated into the background, but it should not be dismissed in this cavalier fashion.People are still justifiably hurt that the government did not play by the rules they set for everyone else. They are still grieving for the loss of loved ones, who they could not visit or say their final goodbyes to, so to have this reduced to trivia is inordinately insulting and patronising.Ress-Mogg is wrong that suffering men, women and children do not care about Partygate and him wishing it away. When the final report does emerge, it may leave him eating his words and a not-so-trivial backlash will emerge and hopefully leave him apologising for his callous statement.Judith DanielsNorfolkPeace dealsIfVladimir Putin wants peaceand requires Ukraine to be no threat to the security of Russia and respect its sovereignty, he must equally promise that Russia will not be a threat and respect the sovereignty of Ukraine and other countries. He must also pay for all the damage he has caused. The big question is can anyone trust Mr Putin's promise?J LongstaffE Sussex"
+        }
+    ]
+}

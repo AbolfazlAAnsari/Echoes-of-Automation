@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00010188308078795671,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012385037553030998,
+                    "sentence": "Please send your letters toletters@independent.co.ukWhen I first heard that our former, unlamentededucation secretaryhad been awarded a knighthood, I honestly thought that somebody was pulling my leg.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011160766007378697,
+                    "sentence": "Surely even this useless prime minister could not be so stupid as to so honour a man whose incompetence made Boris Johnson's cabinet of dolts and charlatans look effective?Then the penny dropped.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010231396299786866,
+                    "sentence": "Courtesy of his former role as chief whip and master of the dark arts, Gavin Williamson knows where the Tory bodies are buried.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010485309030627832,
+                    "sentence": "Even this useless minister had his value, if only in helping to save his master's political skin.Yet again we see the values at work in this government.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010270162601955235,
+                    "sentence": "Johnson's political survival comes before the country every time.Patrick MooreNorwichArise, Sir Gavin Williamson,knighted for serial incompetenceand loyal service to the prime minister.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.0751706769224256e-05,
+                    "sentence": "Since, we are told, rather distastefully, that \"he knows where the bodies are buried\", the honour will guarantee his compliance so that, rather than exposing Boris Johnson for what he is, he will simply shut up and go away.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.654287765035406e-05,
+                    "sentence": "The question remains: what exactly does he know?Graham PowellCirencesterThere is muchderision about Gavin Williamson's knighthoodamong those of us with any sense of decency left in this country.That our political elite sees justification in such an honour for Mr Williamson, or should I say Sir Gavin, rewarding incompetence, not only reflects badly on them, but dishonours the monarchy as well.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.704499487066641e-05,
+                    "sentence": "The Queen should never have allowed herself to be manipulated into putting her signature on such a recommendation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008432195754721761,
+                    "sentence": "It puts her position, not to say validity, into serious doubt.What this country needs urgently is proportional representation so we can, finally, call ourselves a democracy and to wheel the monarchy into oblivion.Gunter StraubLondon NW3Russian invasion of UkraineThe Russian Football Union has protested against its exclusion from international competitions, saying that it believes that Fifa and Uefa did not have a legal basis when deciding on the removal of Russian teams.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000660342222545296,
+                    "sentence": "Someone should explain to these blinkered fools that Vladimir Putin and his Kremlin thugs did not have a legal basis when deciding to attack an independent peaceful democratic sovereign nation that was no threat to them.Sam BooteNottinghamGiven that the Conservative Party has received £2m in donations from Russian sources, surely the only decent thing for it to do is to donate £2m to relief for Ukrainian refugees?Felicity PollardIsle of MullI remember the reply of a gunner when asked how could he shell such a beautiful city as Sarajevo: \"If we can't have it, then neither can they.\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010840140748769045,
+                    "sentence": "Goodbye, beautiful Kyiv.Vincent RyanEdinburgh",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.01313587981915916,
+            "class_probabilities": {
+                "human": 0.9868641201808408,
+                "ai": 0.01313587981915916,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9868641201808408,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01313587981915916,
+                    "human": 0.9868641201808408,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukWhen I first heard that our former, unlamentededucation secretaryhad been awarded a knighthood, I honestly thought that somebody was pulling my leg. Surely even this useless prime minister could not be so stupid as to so honour a man whose incompetence made Boris Johnson's cabinet of dolts and charlatans look effective?Then the penny dropped. Courtesy of his former role as chief whip and master of the dark arts, Gavin Williamson knows where the Tory bodies are buried. Even this useless minister had his value, if only in helping to save his master's political skin.Yet again we see the values at work in this government. Johnson's political survival comes before the country every time.Patrick MooreNorwichArise, Sir Gavin Williamson,knighted for serial incompetenceand loyal service to the prime minister. Since, we are told, rather distastefully, that \"he knows where the bodies are buried\", the honour will guarantee his compliance so that, rather than exposing Boris Johnson for what he is, he will simply shut up and go away. The question remains: what exactly does he know?Graham PowellCirencesterThere is muchderision about Gavin Williamson's knighthoodamong those of us with any sense of decency left in this country.That our political elite sees justification in such an honour for Mr Williamson, or should I say Sir Gavin, rewarding incompetence, not only reflects badly on them, but dishonours the monarchy as well. The Queen should never have allowed herself to be manipulated into putting her signature on such a recommendation. It puts her position, not to say validity, into serious doubt.What this country needs urgently is proportional representation so we can, finally, call ourselves a democracy and to wheel the monarchy into oblivion.Gunter StraubLondon NW3Russian invasion of UkraineThe Russian Football Union has protested against its exclusion from international competitions, saying that it believes that Fifa and Uefa did not have a legal basis when deciding on the removal of Russian teams. Someone should explain to these blinkered fools that Vladimir Putin and his Kremlin thugs did not have a legal basis when deciding to attack an independent peaceful democratic sovereign nation that was no threat to them.Sam BooteNottinghamGiven that the Conservative Party has received £2m in donations from Russian sources, surely the only decent thing for it to do is to donate £2m to relief for Ukrainian refugees?Felicity PollardIsle of MullI remember the reply of a gunner when asked how could he shell such a beautiful city as Sarajevo: \"If we can't have it, then neither can they.\" Goodbye, beautiful Kyiv.Vincent RyanEdinburgh"
+        }
+    ]
+}

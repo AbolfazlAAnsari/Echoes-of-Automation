@@ -1,0 +1,153 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.9949890375137329,
+                    "sentence": "Published 6:07 pm Tuesday, February 27, 2024BySuffolk News-Herald Editorial BoardAs the chill of winter slowly dissipates and the earth awakens with vibrant hues, there's an undeniable sense of anticipation in the airᅳspring is on the horizon.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9992197751998901,
+                    "sentence": "This annual transition isn't merely a shift in weather; it's a beckoning call to embrace the great outdoors and revel in the wonders of nature.Spring offers a renewed opportunity to reconnect with the natural world.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9995361566543579,
+                    "sentence": "Whether it's a leisurely stroll through blooming gardens or a hike along a winding trail, immersing ourselves in nature can invigorate the senses and uplift the spirit.The warmth of the sun's rays kissing our skin, the gentle rustle of leaves in the breeze ᅳ these simple pleasures of springtime have profound effects on our mental and physical well-being.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9981706738471985,
+                    "sentence": "Studies have shown that spending time outdoors can reduce stress, boost mood, and enhance cognitive function.Just as nature undergoes a process of rebirth during spring, so too can we experience personal growth and renewal.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9994762539863586,
+                    "sentence": "Whether it's embarking on a new hobby, setting fitness goals, or simply taking time to reflect and recharge, the arrival of spring symbolizes endless possibilities and a fresh start.Springtime gatherings outdoors offer precious opportunities to strengthen bonds with loved ones.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9996494054794312,
+                    "sentence": "From picnics in the park to weekend camping trips, shared experiences in nature foster deeper connections and create lasting memories.Spring serves as a reminder of the delicate balance of the natural world and the importance of environmental stewardship.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9913683533668518,
+                    "sentence": "By spending time outdoors, we gain a deeper appreciation for the beauty and fragility of our planet, motivating us to take action to protect and preserve it for future generations.The coming of spring is not just a change in seasons; it's an invitation to embrace life's beauty and embrace the great outdoors.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9029356837272644,
+                    "sentence": "As flowers bloom and birdsong fills the air, let us seize the opportunity to immerse ourselves in nature's splendor, rejuvenate our minds and bodies, and cultivate meaningful connections with the world around us.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.009044717065989971,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.0007477632607333362,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 0.6435701727263018
+                }
+            ],
+            "completely_generated_prob": 0.8919292615050989,
+            "class_probabilities": {
+                "human": 0,
+                "ai": 0.8919292615050989,
+                "mixed": 0.10807073849490113
+            },
+            "average_generated_prob": 1,
+            "predicted_class": "ai",
+            "confidence_score": 0.8919292615050989,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.8919292615050989,
+                    "human": 0,
+                    "mixed": 0.10807073849490113
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {
+                    "predicted_class": "pure_ai",
+                    "result_message": "",
+                    "confidence_score": 0.9999999998,
+                    "confidence_category": "high",
+                    "class_probabilities": {
+                        "pure_ai": 0.9999999999,
+                        "ai_paraphrased": 9.999999997e-11
+                    },
+                    "confidence_scores_raw": {
+                        "identity": {
+                            "pure_ai": 0.9999999998,
+                            "ai_paraphrased": 9.999999997e-11
+                        }
+                    },
+                    "confidence_thresholds_raw": {
+                        "identity": {
+                            "pure_ai": {
+                                "reject": 0.65,
+                                "low": 0.75,
+                                "medium": 0.92
+                            },
+                            "ai_paraphrased": {
+                                "reject": 0.85,
+                                "low": 0.9,
+                                "medium": 0.95
+                            }
+                        }
+                    }
+                },
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written by AI.",
+            "document_classification": "AI_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 6:07 pm Tuesday, February 27, 2024BySuffolk News-Herald Editorial BoardAs the chill of winter slowly dissipates and the earth awakens with vibrant hues, there’s an undeniable sense of anticipation in the air—spring is on the horizon. This annual transition isn’t merely a shift in weather; it’s a beckoning call to embrace the great outdoors and revel in the wonders of nature.Spring offers a renewed opportunity to reconnect with the natural world. Whether it’s a leisurely stroll through blooming gardens or a hike along a winding trail, immersing ourselves in nature can invigorate the senses and uplift the spirit.The warmth of the sun’s rays kissing our skin, the gentle rustle of leaves in the breeze — these simple pleasures of springtime have profound effects on our mental and physical well-being. Studies have shown that spending time outdoors can reduce stress, boost mood, and enhance cognitive function.Just as nature undergoes a process of rebirth during spring, so too can we experience personal growth and renewal. Whether it’s embarking on a new hobby, setting fitness goals, or simply taking time to reflect and recharge, the arrival of spring symbolizes endless possibilities and a fresh start.Springtime gatherings outdoors offer precious opportunities to strengthen bonds with loved ones. From picnics in the park to weekend camping trips, shared experiences in nature foster deeper connections and create lasting memories.Spring serves as a reminder of the delicate balance of the natural world and the importance of environmental stewardship. By spending time outdoors, we gain a deeper appreciation for the beauty and fragility of our planet, motivating us to take action to protect and preserve it for future generations.The coming of spring is not just a change in seasons; it’s an invitation to embrace life’s beauty and embrace the great outdoors. As flowers bloom and birdsong fills the air, let us seize the opportunity to immerse ourselves in nature’s splendor, rejuvenate our minds and bodies, and cultivate meaningful connections with the world around us.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

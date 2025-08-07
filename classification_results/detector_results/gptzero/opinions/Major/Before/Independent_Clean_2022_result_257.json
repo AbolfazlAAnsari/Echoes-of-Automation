@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 9.474030957790092e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010800284508150071,
+                    "sentence": "Please send your letters toletters@independent.co.ukTerrible, terrible choice, I don't believeLiz Trusshas it in her.Nothing will change!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001136831779149361,
+                    "sentence": "TheNHSis broken and people are going to go under, to never resurface again.Boris Johnsonwas a pillock and Truss is ineffective, waving her arms around like a puppy on strings.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.95215741568245e-05,
+                    "sentence": "Oh dear, we limp from bad to worse.Still, she has all her “mates” around her, right?Tina MorhallAddress not providedA word of warningDonnachadh McCarthy's article on one room livingis no doubt well intended.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.592759695602581e-05,
+                    "sentence": "But a word of warning...When 3 decades ago we moved from our two-bedroom London home to a four-bedroom home in Devon, we initially had two bedrooms we did not use.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.454661292489618e-05,
+                    "sentence": "So, in the first winter, off went the radiators and doors were closed.I had not considered how much wetter climate is in the West Country, so was horrified when sometime later I looked in the rooms and found walls and ceilings covered in black mould due to warm air seeping into cold rooms in a part of the country with high humidity.It probably cost more to remedy than the saving in fuel.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013012075214646757,
+                    "sentence": "We now, out of necessity, keep the whole house heated.Andy StewartDevonEnough is enoughOh, my paws and whiskers!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010774549446068704,
+                    "sentence": "We really are down the rabbit hole now!Therese Coffey is the new health secretary, and, believe it or not, deputy PM.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016213543131016195,
+                    "sentence": "Look at where a lack of principles and blind loyalty to the Tory Party gets you.Enough is enough.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005906512960791588,
+                    "sentence": "I'm off to live in Scotland with the hope that the SNP can free the country from venal Tory politicians.Julian SangerSuffolkThe right thing to doAt the last election, the Tory Party were elected on a specific manifesto - albeit with little intention of implementing those promises.If the new PM wants, as she has said, to make major changes in how the country is to be run, then surely the right thing to do would be either to implement that manifesto on which the Tories were elected, or hold a general election?Geoff ForwardStirlingTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereNow I will be changing sidesI have been Conservative supporter for the past 50 years, and now will be changing sides and voting Labour.When the party decides who should become the next prime minister, they become nostalgic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01247134618461132,
+                    "sentence": "The world has moved on.Rishi Sunak was well suited for the job.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01571660302579403,
+                    "sentence": "When Tories get a new leader after losing the next general election (I'm also hoping they support diversity in leadership), then I will switch my vote back.Rajendra VaghelaAddress not provided",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.021033675306985546,
+            "class_probabilities": {
+                "human": 0.9789663246930144,
+                "ai": 0.021033675306985546,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9789663246930144,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.021033675306985546,
+                    "human": 0.9789663246930144,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukTerrible, terrible choice, I don’t believeLiz Trusshas it in her.Nothing will change! TheNHSis broken and people are going to go under, to never resurface again.Boris Johnsonwas a pillock and Truss is ineffective, waving her arms around like a puppy on strings. Oh dear, we limp from bad to worse.Still, she has all her “mates” around her, right?Tina MorhallAddress not providedA word of warningDonnachadh McCarthy’s article on one room livingis no doubt well intended. But a word of warning...When 3 decades ago we moved from our two-bedroom London home to a four-bedroom home in Devon, we initially had two bedrooms we did not use. So, in the first winter, off went the radiators and doors were closed.I had not considered how much wetter climate is in the West Country, so was horrified when sometime later I looked in the rooms and found walls and ceilings covered in black mould due to warm air seeping into cold rooms in a part of the country with high humidity.It probably cost more to remedy than the saving in fuel. We now, out of necessity, keep the whole house heated.Andy StewartDevonEnough is enoughOh, my paws and whiskers! We really are down the rabbit hole now!Therese Coffey is the new health secretary, and, believe it or not, deputy PM. Look at where a lack of principles and blind loyalty to the Tory Party gets you.Enough is enough. I’m off to live in Scotland with the hope that the SNP can free the country from venal Tory politicians.Julian SangerSuffolkThe right thing to doAt the last election, the Tory Party were elected on a specific manifesto – albeit with little intention of implementing those promises.If the new PM wants, as she has said, to make major changes in how the country is to be run, then surely the right thing to do would be either to implement that manifesto on which the Tories were elected, or hold a general election?Geoff ForwardStirlingTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereNow I will be changing sidesI have been Conservative supporter for the past 50 years, and now will be changing sides and voting Labour.When the party decides who should become the next prime minister, they become nostalgic. The world has moved on.Rishi Sunak was well suited for the job. When Tories get a new leader after losing the next general election (I’m also hoping they support diversity in leadership), then I will switch my vote back.Rajendra VaghelaAddress not provided"
+        }
+    ]
+}

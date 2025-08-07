@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00022502026695292443,
+                    "sentence": "Times Opinion wants to hear from you.Times Opinion wants to hear from you.Coronavirus is changing the lives of teenagers all over the world.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002565545728430152,
+                    "sentence": "Schools have closed, some for the rest of the academic year.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00027571438113227487,
+                    "sentence": "Sporting events, proms and commencement ceremonies have been postponed or canceled.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003906268975697458,
+                    "sentence": "College plans could be stalled.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00024381330877076834,
+                    "sentence": "And what about the social tolls of isolation?We're working on an article about how coronavirus has disrupted the lives of high school students.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00020072166807949543,
+                    "sentence": "Tell us about how it has affected your life and plans.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019092371803708375,
+                    "sentence": "[Students 13 and older are invited to respond.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00024524619220755994,
+                    "sentence": "If you are younger than 18, we will need the permission of a parent or guardian before publishing your response.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002208220976172015,
+                    "sentence": "]We'd (@NYTopinion)andInstagram.PHOTO: German high school students taking final exams in Frankfurt last week.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003268359287176281,
+                    "sentence": "(PHOTOGRAPH BY Armando Babani/EPA, via Shutterstock FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.008764888981516596,
+            "class_probabilities": {
+                "human": 0.9912351110184834,
+                "ai": 0.008764888981516596,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9912351110184834,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.008764888981516596,
+                    "human": 0.9912351110184834,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Times Opinion wants to hear from you.Times Opinion wants to hear from you.Coronavirus is changing the lives of teenagers all over the world. Schools have closed, some for the rest of the academic year. Sporting events, proms and commencement ceremonies have been postponed or canceled. College plans could be stalled. And what about the social tolls of isolation?We’re working on an article about how coronavirus has disrupted the lives of high school students. Tell us about how it has affected your life and plans.[Students 13 and older are invited to respond. If you are younger than 18, we will need the permission of a parent or guardian before publishing your response.]We’d (@NYTopinion)andInstagram.PHOTO: German high school students taking final exams in Frankfurt last week. (PHOTOGRAPH BY Armando Babani/EPA, via Shutterstock FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.005660450551658869,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009468929842114449,
+                    "sentence": "Please send your letters toletters@independent.co.ukI have been pondering the monarchy overthe past 48 hours.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02421056665480137,
+                    "sentence": "I've never been a royalist.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007039186079055071,
+                    "sentence": "I've leaned very much towards republicanism.However, if there's one thing that Trump and the American experience has taught us over the past few years, it's that presidents and republics are not all that they're cracked up to be.Maybe a benevolent and caring constitutional monarchy, preferably without all the extended trappings which are paid for out of our taxes, is the better alternative.Antony RobsonAddress suppliedThe funeral procession of King George VIThe proclamation of apublic holiday on the day of Queen Elizabeth II's state funeralhas revived my longstanding memory of the funeral procession of her father,King George VI, from Westminster to Paddington Station.I took my usual train from Maidenhead to Paddington, but walked the short distance from there to Sussex Gardens to wait.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.018413696438074112,
+                    "sentence": "The crowd was not heavy, so the procession passed only a few yards away from me as I stood on the kerbside.It was a sad occasion, but the experience of a lifetime: the gun carriage with the coffin, followed by the carriages of the three Queens - regnant, widow and mother - and on foot, bareheaded, near the end of their long walk, the Royal Dukes, and many European kings and princes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011381803080439568,
+                    "sentence": "I particularly remember that the exceptional height of the King of Denmark accentuated the relatively small stature of the Duke of Windsor, who took precedence in this group.Such a scenario is utterly unimaginable today, and I feel privileged to have seen it.Leon WilliamsDoverOur government is needed ASAPGiven that the UK has endured the past six weeks without steer or direction, I am convinced that it would Liz Truss the best possible chance if King Charles called for parliament to restart at its earliest convenience, rather than her having to wait a further fortnight from now.May I respectfully suggest to His Royal Highness that Tuesday 20 September wouldn't be a moment too soonTim BaxterTavistockTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereLast Night of the Proms should have gone aheadIf ever there was a time for people to come together and if ever there was an opportunity to reflect together on the best of British life, it is surely now, as we have seen in the crowds which have gathered since the news of Queen Elizabeth's death broke on Thursday.It would have been entirely possible to have restructured theLast Night of the Promsin the same way as it was done at the time of 9/11.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008344966918230057,
+                    "sentence": "No need for bells, whistles or flag-waving; instead, appropriate music could have been chosen with a mood of reflection and hope for the future created.What a missed opportunity.Sue BreadnerIsle of Man",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.039828139852797,
+            "class_probabilities": {
+                "human": 0.9598887277771326,
+                "ai": 0.039828139852797,
+                "mixed": 0.0002831323700704621
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9598887277771326,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039828139852797,
+                    "human": 0.9598887277771326,
+                    "mixed": 0.0002831323700704621
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI have been pondering the monarchy overthe past 48 hours.  I’ve never been a royalist. I’ve leaned very much towards republicanism.However, if there’s one thing that Trump and the American experience has taught us over the past few years, it’s that presidents and republics are not all that they’re cracked up to be.Maybe a benevolent and caring constitutional monarchy, preferably without all the extended trappings which are paid for out of our taxes, is the better alternative.Antony RobsonAddress suppliedThe funeral procession of King George VIThe proclamation of apublic holiday on the day of Queen Elizabeth II’s state funeralhas revived my longstanding memory of the funeral procession of her father,King George VI, from Westminster to Paddington Station.I took my usual train from Maidenhead to Paddington, but walked the short distance from there to Sussex Gardens to wait. The crowd was not heavy, so the procession passed only a few yards away from me as I stood on the kerbside.It was a sad occasion, but the experience of a lifetime: the gun carriage with the coffin, followed by the carriages of the three Queens – regnant, widow and mother – and on foot, bareheaded, near the end of their long walk, the Royal Dukes, and many European kings and princes. I particularly remember that the exceptional height of the King of Denmark accentuated the relatively small stature of the Duke of Windsor, who took precedence in this group.Such a scenario is utterly unimaginable today, and I feel privileged to have seen it.Leon WilliamsDoverOur government is needed ASAPGiven that the UK has endured the past six weeks without steer or direction, I am convinced that it would Liz Truss the best possible chance if King Charles called for parliament to restart at its earliest convenience, rather than her having to wait a further fortnight from now.May I respectfully suggest to His Royal Highness that Tuesday 20 September wouldn’t be a moment too soonTim BaxterTavistockTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereLast Night of the Proms should have gone aheadIf ever there was a time for people to come together and if ever there was an opportunity to reflect together on the best of British life, it is surely now, as we have seen in the crowds which have gathered since the news of Queen Elizabeth’s death broke on Thursday.It would have been entirely possible to have restructured theLast Night of the Promsin the same way as it was done at the time of 9/11. No need for bells, whistles or flag-waving; instead, appropriate music could have been chosen with a mood of reflection and hope for the future created.What a missed opportunity.Sue BreadnerIsle of Man"
+        }
+    ]
+}

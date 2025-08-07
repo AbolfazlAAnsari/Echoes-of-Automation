@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00013528548879548907,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001668865152169019,
+                    "sentence": "Please send your letters toletters@independent.co.ukFrancis Maudeand his colleagues are determined to makechanges to the civil serviceas a result of their havingbullied Raab (poor mite)out of office.Presumably, the Tories will take into consideration that a different government will, one day, be in power?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016028460231609643,
+                    "sentence": "Such a government could be left-wing or, possibly and heaven forfend, even more right-wing.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015130396059248596,
+                    "sentence": "The Tories can't continue to act as though they are simply entitled to power and can use/abuse it as they wish, can they?Will they?Beryl WallLondonWhen it comes to racism we have a social responsibilityI wholeheartedly concur with the thrust of youreditorial that we still have a long way to goonantisemitism.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019162475655321032,
+                    "sentence": "Antisemitism is vile, malign, and repugnant to say the least.Poignantly, Britain is suffering from surging tides of antisemitism along with other debilitating forms of intolerance such as Islamophobia, xenophobia, misogyny,institutionalised racism, and discrimination.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00023549876641482115,
+                    "sentence": "We have a social responsibility to adopt integrity, truthfulness, and authenticity in our endeavor to achieve tolerance, equality, and social justice.Dr Munjed Farid Al QutobLondonThe ironyTucker Carlson's lastFox Newsitem was about eating bugs and nowhe has been squashed.Maybe Fox istrying to save moneyafter their recent settlement with a number of other cases still to be resolved.Carlson seemed to be the front person for the“stolen election” on Foxso he would be first to be shot down although he might not have expected to beshot in the back.Dennis FitzgeraldAddress SuppliedThe water industry is profiting from the destruction of our ecosystemMatt Wheeldon ofWessex WaterCompany is unabashed atthe bonuses paid to himand three other senior managers despite the woeful pollution they caused bydumping raw sewageinto our ecosystem.They, like other water companies, have had over 30 years toimprove service and stop dumpingbut instead have paid exorbitant salaries, bonuses, and fines.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0036749008577317,
+                    "sentence": "The outcome is that customers have paid far too much for their water, and suffer froma less than adequate servicewhile funding an unethical, inefficient, and callously negligent supplier.Wessex Water aren't alone in ruining our ecosystem, the whole of the water industry is responsible and rides roughshod over theWater Services Regulation Authoritywho seem to be toothless and complicit in the whole charade.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006498692091554403,
+                    "sentence": "Hopefully,a change of governmentwill bring about long-overdue change.Keith PooleBasingstoke",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.02381994364211734,
+            "class_probabilities": {
+                "human": 0.9761800563578826,
+                "ai": 0.02381994364211734,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9761800563578826,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.02381994364211734,
+                    "human": 0.9761800563578826,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukFrancis Maudeand his colleagues are determined to makechanges to the civil serviceas a result of their havingbullied Raab (poor mite)out of office.Presumably, the Tories will take into consideration that a different government will, one day, be in power? Such a government could be left-wing or, possibly and heaven forfend, even more right-wing. The Tories can’t continue to act as though they are simply entitled to power and can use/abuse it as they wish, can they?Will they?Beryl WallLondonWhen it comes to racism we have a social responsibilityI wholeheartedly concur with the thrust of youreditorial that we still have a long way to goonantisemitism.  Antisemitism is vile, malign, and repugnant to say the least.Poignantly, Britain is suffering from surging tides of antisemitism along with other debilitating forms of intolerance such as Islamophobia, xenophobia, misogyny,institutionalised racism, and discrimination.  We have a social responsibility to adopt integrity, truthfulness, and authenticity in our endeavor to achieve tolerance, equality, and social justice.Dr Munjed Farid Al QutobLondonThe ironyTucker Carlson’s lastFox Newsitem was about eating bugs and nowhe has been squashed.Maybe Fox istrying to save moneyafter their recent settlement with a number of other cases still to be resolved.Carlson seemed to be the front person for the“stolen election” on Foxso he would be first to be shot down although he might not have expected to beshot in the back.Dennis FitzgeraldAddress SuppliedThe water industry is profiting from the destruction of our ecosystemMatt Wheeldon ofWessex WaterCompany is unabashed atthe bonuses paid to himand three other senior managers despite the woeful pollution they caused bydumping raw sewageinto our ecosystem.They, like other water companies, have had over 30 years toimprove service and stop dumpingbut instead have paid exorbitant salaries, bonuses, and fines. The outcome is that customers have paid far too much for their water, and suffer froma less than adequate servicewhile funding an unethical, inefficient, and callously negligent supplier.Wessex Water aren’t alone in ruining our ecosystem, the whole of the water industry is responsible and rides roughshod over theWater Services Regulation Authoritywho seem to be toothless and complicit in the whole charade. Hopefully,a change of governmentwill bring about long-overdue change.Keith PooleBasingstoke"
+        }
+    ]
+}

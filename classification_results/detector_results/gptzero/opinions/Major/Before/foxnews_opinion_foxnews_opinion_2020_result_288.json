@@ -1,0 +1,94 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.005754733458161354,
+                    "sentence": "'Fox &amp; Friends' co-host Steve Doocy shares a Thanksgiving recipe for 'Glorious Leftover Galette.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015999333700165153,
+                    "sentence": "'Friday, the day afterThanksgiving, is the biggest shopping day of the year, it's also the biggest leftovers day of the year.What are you going to do with that fridge full ofleftovers?Here's a super simple yet positively delicious recipe from our #1 New York Times bestseller the new \"The Happy in a Hurry Cookbook: 100-Plus Fast and Easy New Recipes That Taste Like Home.\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015076827257871628,
+                    "sentence": "It's a leftover turkeygalette.What is agalette?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001810409827157855,
+                    "sentence": "It's like a free-form pie, and it's a snap to make as you can see in this how-to-make video above.STEVE DOOCY: GET 'HAPPY IN A HURRY' WITH GRANDMA BERNDT'S HASH BROWN-CRUST QUICHEIt's a very efficient way to use up the leftovers and at the same time get a different taste of Thanksgiving in every bite.When I taste the stuffing, it reminds me of Kathy's; the sweet potatoes remind me of the Market Basket store in New Jersey where Peter worked as a stock boy in high school and the turkey takes me back to every one of my mom's Butterball's.The ingredients we use are just a suggestion, whatever you've got will be fine as long as it's still fresh and bake-able.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.019498448818922043,
+                    "sentence": "And this is a joyous recipe because it marks the end of the leftovers!Saturday, we get new food!This is just one of 100+ quick and easy recipes you'll find it in the \"holidays\" chapter of our new \"The Happy in a Hurry Cookbook\" and because this Friday is the biggest shopping day of the year, we should remind you that the book is a thoughtful gift for the person on your holiday list who loves to cook!Click here to order our new cookbook.FROM STEVE DOOCYSteve Doocy currently serves as co-host of FOX News Channel's (FNC)FOX & Friends(weekdays 6-9AM/ET) alongside Ainsley Earhardt and Brian Kilmeade.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                }
+            ],
+            "completely_generated_prob": 0.037526171686261885,
+            "class_probabilities": {
+                "human": 0.9624738283137382,
+                "ai": 0.037526171686261885,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9624738283137382,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.037526171686261885,
+                    "human": 0.9624738283137382,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       'Fox &amp; Friends' co-host Steve Doocy shares a Thanksgiving recipe for 'Glorious Leftover Galette.'Friday, the day afterThanksgiving, is the biggest shopping day of the year, it’s also the biggest leftovers day of the year.What are you going to do with that fridge full ofleftovers?Here’s a super simple yet positively delicious recipe from our #1 New York Times bestseller the new \"The Happy in a Hurry Cookbook: 100-Plus Fast and Easy New Recipes That Taste Like Home.\" It’s a leftover turkeygalette.What is agalette? It’s like a free-form pie, and it’s a snap to make as you can see in this how-to-make video above.STEVE DOOCY: GET 'HAPPY IN A HURRY' WITH GRANDMA BERNDT'S HASH BROWN-CRUST QUICHEIt’s a very efficient way to use up the leftovers and at the same time get a different taste of Thanksgiving in every bite.When I taste the stuffing, it reminds me of Kathy’s; the sweet potatoes remind me of the Market Basket store in New Jersey where Peter worked as a stock boy in high school and the turkey takes me back to every one of my mom’s Butterball's.The ingredients we use are just a suggestion, whatever you’ve got will be fine as long as it’s still fresh and bake-able. And this is a joyous recipe because it marks the end of the leftovers!Saturday, we get new food!This is just one of 100+ quick and easy recipes you’ll find it in the \"holidays\" chapter of our new \"The Happy in a Hurry Cookbook\" and because this Friday is the biggest shopping day of the year, we should remind you that the book is a thoughtful gift for the person on your holiday list who loves to cook!Click here to order our new cookbook.FROM STEVE DOOCYSteve Doocy currently serves as co-host of FOX News Channel's (FNC)FOX & Friends(weekdays 6-9AM/ET) alongside Ainsley Earhardt and Brian Kilmeade.   "
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0036257579922676086,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|78.854°We have a child care crisis in the United States.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018506889464333653,
+                    "sentence": "And as a child care education provider, I know how to fix it: Put families first.The U.S. Bureau of Labor Statistics reports that each month, tens of thousands of Americans miss work due to a lack of child care, resulting in $122 billion annually in lost productivity, earnings and revenue.Meanwhile, early childhood education and child care workers are among the lowest-paid workers in the country.I'm also a veteran of the U.S. Armed Services.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005311391316354275,
+                    "sentence": "I grew up with a military dad and a mom who was an early childhood educator on military bases.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0030101106967777014,
+                    "sentence": "I knew I wanted to serve my country like my father and be an educator like my mother.After 9/11, I served for four years and was then honorably discharged to care for my newborn son.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001853434951044619,
+                    "sentence": "I later enrolled in college for early childhood education.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005516950972378254,
+                    "sentence": "But when I graduated in 2011, I found that the wages were unlivable: The best offer I got was $12.95 an hour to work in an underfunded state-federal program.That was far less than we needed, so I started my own home child care business for kids who lived on the base where my husband served.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007123897783458233,
+                    "sentence": "Entrepreneurial, patriotic, service-oriented and well-educated ᅳ I have all the elements to live the American dream.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008473335765302181,
+                    "sentence": "Yet child care remains an undervalued, low-wage industry wherever you go.Recently, we got a glimpse of what a better system could look like.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011278478428721428,
+                    "sentence": "As part of the Biden administration's American Rescue Plan during the pandemic, a “Child Care Stabilization Fund” allowed small, in-home, family child care facilities like mine to temporarily affiliate with the federal Head Start program and receive some of those funds.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010129234753549099,
+                    "sentence": "The Stabilization Fund was a game-changer.It provided stability and increased wages for over 225,000 child care providers while maintaining care for 10 million at-risk children.This not only kept child care centers open but also created more slots for children, enabling more parents to return to work.For me, it meant I could continue catering to the unique needs of military children and collaborating with school districts to provide one-on-one, smaller settings for children in need.The Republican House majority let that fund expire last fall.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010766101768240333,
+                    "sentence": "And other federal support will expire this September unless Congress renews it.Let's be clear: Every family should have access to early childhood care and education.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000958763062953949,
+                    "sentence": "Without it, children, their parents and our entire economy suffer ᅳ especially women, low-income communities and communities of color.We need to value all children, families and early learning providers equally ᅳ not only as an issue of equality but also because this strengthens our families, communities, workforces and nation.The Center for Community Change, where I volunteer, offers a vision to address the child care crisis that I think we can all agree on.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007453884463757277,
+                    "sentence": "It's rooted in the beliefs that every family deserves everything they need to provide the best care for their kids, that child care workers should be treated with dignity and earn a living wage and that families should have real choices.Just imagine how much stronger and more secure our families and workforce would be if we prioritized these values in our federal investments.WASHINGTON ᅳ The gunman who tried to kill Donald Trump mounted a “sustained, detailed effort” to attack a major gathering of some sort before deciding to target the Republican presidential candidate at a Pennsylvania rally in July, FBI officials said on Wednesday.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.020660391318316405,
+            "class_probabilities": {
+                "human": 0.9793396086816837,
+                "ai": 0.020660391318316405,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9793396086816837,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020660391318316405,
+                    "human": 0.9793396086816837,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|78.854°We have a child care crisis in the United States. And as a child care education provider, I know how to fix it: Put families first.The U.S. Bureau of Labor Statistics reports that each month, tens of thousands of Americans miss work due to a lack of child care, resulting in $122 billion annually in lost productivity, earnings and revenue.Meanwhile, early childhood education and child care workers are among the lowest-paid workers in the country.I’m also a veteran of the U.S. Armed Services. I grew up with a military dad and a mom who was an early childhood educator on military bases. I knew I wanted to serve my country like my father and be an educator like my mother.After 9/11, I served for four years and was then honorably discharged to care for my newborn son. I later enrolled in college for early childhood education. But when I graduated in 2011, I found that the wages were unlivable: The best offer I got was $12.95 an hour to work in an underfunded state-federal program.That was far less than we needed, so I started my own home child care business for kids who lived on the base where my husband served. Entrepreneurial, patriotic, service-oriented and well-educated — I have all the elements to live the American dream. Yet child care remains an undervalued, low-wage industry wherever you go.Recently, we got a glimpse of what a better system could look like. As part of the Biden administration’s American Rescue Plan during the pandemic, a “Child Care Stabilization Fund” allowed small, in-home, family child care facilities like mine to temporarily affiliate with the federal Head Start program and receive some of those funds. The Stabilization Fund was a game-changer.It provided stability and increased wages for over 225,000 child care providers while maintaining care for 10 million at-risk children.This not only kept child care centers open but also created more slots for children, enabling more parents to return to work.For me, it meant I could continue catering to the unique needs of military children and collaborating with school districts to provide one-on-one, smaller settings for children in need.The Republican House majority let that fund expire last fall. And other federal support will expire this September unless Congress renews it.Let’s be clear: Every family should have access to early childhood care and education. Without it, children, their parents and our entire economy suffer — especially women, low-income communities and communities of color.We need to value all children, families and early learning providers equally — not only as an issue of equality but also because this strengthens our families, communities, workforces and nation.The Center for Community Change, where I volunteer, offers a vision to address the child care crisis that I think we can all agree on. It’s rooted in the beliefs that every family deserves everything they need to provide the best care for their kids, that child care workers should be treated with dignity and earn a living wage and that families should have real choices.Just imagine how much stronger and more secure our families and workforce would be if we prioritized these values in our federal investments.WASHINGTON — The gunman who tried to kill Donald Trump mounted a “sustained, detailed effort” to attack a major gathering of some sort before deciding to target the Republican presidential candidate at a Pennsylvania rally in July, FBI officials said on Wednesday."
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00013985333498567343,
+                    "sentence": "Published 5:00 pm Tuesday, July 18, 2023BySuffolk News-HeraldIf you can't change the rules, make them work to your advantage.That seems to be the mantra of Virginia Republicans, many of whom have been critical of liberalized voting methods put in place during the COVID-19 pandemic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015195371815934777,
+                    "sentence": "Efforts to reverse those changes legislatively have failed in a divided Richmond, so the party, led by Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001066987169906497,
+                    "sentence": "Glenn Youngkin, is urging its supporters to take full advantage of early voting for the critical fall elections that will determine control of the General Assembly.Youngkin, in partnership with the Republican Party of Virginia, the Republican State Leadership Committee, the Virginia Senate Republican Caucus and the House Republican Campaign Committee, last week announced a campaign called “Secure Your Vote Virginia.”“Our data-driven effort will encourage our target audiences to vote absentee by mail or early in-person,” Youngkin said in a news release.If you're a Republican or one the party has identified as a “swing voter,” you might have already received a piece in the mail or been targeted by a digital ad promoting the initiative.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013001990737393498,
+                    "sentence": "The party seems to be sparing no expense getting out the message.Urging early voting strikes us as hypocritical for a party that has blamed states' expansion of that practice during COVID for Republican losses nationally since then, but it's unquestionably smart politics.Democrats have long worked hard to maximize the numbers of votes cast before Election Day, a historical advantage acknowledged by Youngkin in his news release.“We can't go into Election Day down thousands of votes, so I'm thrilled to have such strong partners coming alongside us in this effort,” he said.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.16786538064479828,
+                    "sentence": "“We fundamentally believe Secure Your Vote Virginia is how, together, we can win in 2023 and beyond.”Democrats, of course, aren't going to cede the early vote advantage to their rivals.Raw politics aside, we're glad to see both parties encouraging voters to have a voice.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.16174373030662537,
+                    "sentence": "Our local, state and federal governments are stronger when more people are involved in picking elected leaders, then holding them accountable.Whether early in person or by mail, or at the polls on Election Day, choose the method that works best for you and cast your ballot this fall.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.22276906669139862,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.29027146100997925,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.11122044395566233,
+            "class_probabilities": {
+                "human": 0.8887795560443376,
+                "ai": 0.11122044395566233,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8887795560443376,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.11122044395566233,
+                    "human": 0.8887795560443376,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:00 pm Tuesday, July 18, 2023BySuffolk News-HeraldIf you can’t change the rules, make them work to your advantage.That seems to be the mantra of Virginia Republicans, many of whom have been critical of liberalized voting methods put in place during the COVID-19 pandemic. Efforts to reverse those changes legislatively have failed in a divided Richmond, so the party, led by Gov. Glenn Youngkin, is urging its supporters to take full advantage of early voting for the critical fall elections that will determine control of the General Assembly.Youngkin, in partnership with the Republican Party of Virginia, the Republican State Leadership Committee, the Virginia Senate Republican Caucus and the House Republican Campaign Committee, last week announced a campaign called “Secure Your Vote Virginia.”“Our data-driven effort will encourage our target audiences to vote absentee by mail or early in-person,” Youngkin said in a news release.If you’re a Republican or one the party has identified as a “swing voter,” you might have already received a piece in the mail or been targeted by a digital ad promoting the initiative. The party seems to be sparing no expense getting out the message.Urging early voting strikes us as hypocritical for a party that has blamed states’ expansion of that practice during COVID for Republican losses nationally since then, but it’s unquestionably smart politics.Democrats have long worked hard to maximize the numbers of votes cast before Election Day, a historical advantage acknowledged by Youngkin in his news release.“We can’t go into Election Day down thousands of votes, so I’m thrilled to have such strong partners coming alongside us in this effort,” he said. “We fundamentally believe Secure Your Vote Virginia is how, together, we can win in 2023 and beyond.”Democrats, of course, aren’t going to cede the early vote advantage to their rivals.Raw politics aside, we’re glad to see both parties encouraging voters to have a voice. Our local, state and federal governments are stronger when more people are involved in picking elected leaders, then holding them accountable.Whether early in person or by mail, or at the polls on Election Day, choose the method that works best for you and cast your ballot this fall.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

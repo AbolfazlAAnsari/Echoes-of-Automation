@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 4.8301430069841444e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukI read Miguel Delaney's excellentarticlebut feel I must take issue with him on one point.He described taking the knee as a political act.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.270045246812515e-05,
+                    "sentence": "A political act is surely one aimed primarily at influencing politicians, whereas taking the knee is a moral act aimed at influencing the attitudes and behaviour of the population at large.To describe it simply as political is to reduce its fundamental message as one which it is acceptable to reject.Jerry WallworkLeicesterUnderstanding historyIn relation to David Janes's letter\"Woke wars\", I don't think anyone is asking us to forget or bury what happened in the past.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.8575326470891014e-05,
+                    "sentence": "Rather, actually to remember the past, see it for what it is without our jingoistic blinkers of the British Empire and how it might be perceived by those upon whom the empire was imposed.Likewise, remembering the Holocaust, slavery and all the other awful things perpetrated by humans on other humans down the ages.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.927760917576961e-05,
+                    "sentence": "We can't undo history but we can, if we try to understand it from all perspectives, possibly make the future a little better.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.562544927466661e-05,
+                    "sentence": "I'm not particularly optimistic though, I'm afraid to say.Sarah WoodAddress suppliedIn hindsightBoris Johnson's go-to insult whenKeir Starmerwas trying and failing to dent the PM's iron-clad lack of concern about anything and anyone - was \"Captain Hindsight\".Back in April, Johnson for the third (or fourth, or fifth... ) time failed to take measures to limit Covid-19 - by stopping travel to and from India in a timely manner.If only Johnson would use some hindsight - of which there is now much to be had - would we not now be better off?Amanda BakerEdinburghSlimmed downThe much-publicised new photo of Prince Charles on a bicycle will possibly remind people of the bicycling royals in Scandinavia and Europe.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04203246161341667,
+                    "sentence": "It may also bring to mind Charles's own proposal for a \"slimmed down\" monarchy.This suggestion probably chimes pretty well with the current zeitgeist where, if we are honest, the flummery and extravagance of traditional monarchy just does not cut it any more.Like all of us, the royals are probably facing big economic challenges in the aftermath of Covid and might welcome an arrangement which costs less and has more in common with our democratic age.In this inter-faith and no-faith age it probably bears asking too whether the very grand coronation that Charles's mother had in 1953 would be appropriate today.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03372536599636078,
+                    "sentence": "As a clergyman I am always pleased to see a religious tincture bestowed on important events.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.043327100574970245,
+                    "sentence": "However, it would surely be more in tune with these secular times if for the next royal \"induction\" we had the European arrangement where a new monarch is simply asked to take an oath, promising to be dutiful in their role, in parliament.The bike ride could lead on to some valuable national conversation.The Rev Andrew McLuskeyAshfordVegetarian timeThereportby Jane Dalton on our animal welfare standards was truly shocking.How much longer will we tolerate such treatment of animals in the meat industry.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.025247890502214432,
+                    "sentence": "Until the supermarkets, RSPCA and others can prove to me they are properly policing these farm animals, I for one will not be buying any sausages - or, for that matter, meat products in general.Time for me to become vegetarian.Julian ReadAddress suppliedRead MoreWatch live as Boris Johnson faces Keir Starmer at PMQsMacron has told Johnson to keep his word about Brexit.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07660768181085587,
+                    "sentence": "The very best of luck with thatTheresa May proves that some former prime ministers are more useful than others",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.058454380586116385,
+            "class_probabilities": {
+                "human": 0.9412598791523448,
+                "ai": 0.058454380586116385,
+                "mixed": 0.0002857402615388199
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9412598791523448,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.058454380586116385,
+                    "human": 0.9412598791523448,
+                    "mixed": 0.0002857402615388199
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukI read Miguel Delaney's excellentarticlebut feel I must take issue with him on one point.He described taking the knee as a political act. A political act is surely one aimed primarily at influencing politicians, whereas taking the knee is a moral act aimed at influencing the attitudes and behaviour of the population at large.To describe it simply as political is to reduce its fundamental message as one which it is acceptable to reject.Jerry WallworkLeicesterUnderstanding historyIn relation to David Janes's letter\"Woke wars\", I don't think anyone is asking us to forget or bury what happened in the past. Rather, actually to remember the past, see it for what it is without our jingoistic blinkers of the British Empire and how it might be perceived by those upon whom the empire was imposed.Likewise, remembering the Holocaust, slavery and all the other awful things perpetrated by humans on other humans down the ages. We can't undo history but we can, if we try to understand it from all perspectives, possibly make the future a little better. I'm not particularly optimistic though, I'm afraid to say.Sarah WoodAddress suppliedIn hindsightBoris Johnson's go-to insult whenKeir Starmerwas trying and failing to dent the PM's iron-clad lack of concern about anything and anyone - was \"Captain Hindsight\".Back in April, Johnson for the third (or fourth, or fifth... ) time failed to take measures to limit Covid-19 - by stopping travel to and from India in a timely manner.If only Johnson would use some hindsight - of which there is now much to be had - would we not now be better off?Amanda BakerEdinburghSlimmed downThe much-publicised new photo of Prince Charles on a bicycle will possibly remind people of the bicycling royals in Scandinavia and Europe. It may also bring to mind Charles's own proposal for a \"slimmed down\" monarchy.This suggestion probably chimes pretty well with the current zeitgeist where, if we are honest, the flummery and extravagance of traditional monarchy just does not cut it any more.Like all of us, the royals are probably facing big economic challenges in the aftermath of Covid and might welcome an arrangement which costs less and has more in common with our democratic age.In this inter-faith and no-faith age it probably bears asking too whether the very grand coronation that Charles's mother had in 1953 would be appropriate today. As a clergyman I am always pleased to see a religious tincture bestowed on important events. However, it would surely be more in tune with these secular times if for the next royal \"induction\" we had the European arrangement where a new monarch is simply asked to take an oath, promising to be dutiful in their role, in parliament.The bike ride could lead on to some valuable national conversation.The Rev Andrew McLuskeyAshfordVegetarian timeThereportby Jane Dalton on our animal welfare standards was truly shocking.How much longer will we tolerate such treatment of animals in the meat industry. Until the supermarkets, RSPCA and others can prove to me they are properly policing these farm animals, I for one will not be buying any sausages - or, for that matter, meat products in general.Time for me to become vegetarian.Julian ReadAddress suppliedRead MoreWatch live as Boris Johnson faces Keir Starmer at PMQsMacron has told Johnson to keep his word about Brexit. The very best of luck with thatTheresa May proves that some former prime ministers are more useful than others"
+        }
+    ]
+}

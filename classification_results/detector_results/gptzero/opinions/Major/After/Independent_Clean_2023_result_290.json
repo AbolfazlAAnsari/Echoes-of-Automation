@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00042156962445005774,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002698853495530784,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe latest by-election resultsfor Labour are clearly being interpreted by them as asure signthat next autumn they'll be in charge of the UKfinances, and rolling in themoney.It's hard to imagine how they'll actually deliver on those vague “airy fairy” ideas they have to transform our economy without money.I'd love it if thisseismic changecomes simply as a result of a change of policy and personnel at the top, but who are we kidding?Unless Sir Kier finds a whole hill of “magic beans” under an equally “magic money tree”, I fear this nation's hopes for a return to those sunny uplands will be short-lived.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022747847833670676,
+                    "sentence": "Nobody in their right minds should really believe that Labour has any better chance of turning things around without increasing the tax burden on those who they imagine can afford it, and while these two local election results may feel like they're on the home straight, the diabolical turnout suggests too many voters have little or no faith in either party being able to square this huge circle without raiding everyone's dwindling piggy banks.Steve MackinderNorfolkThe Tories cannot win by catering to the few at the expense of the manyReducing stamp tax, according to the Tories, will “make it cheaper for people to move houses”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002434955385979265,
+                    "sentence": "Excuse me but how many ordinary people actually can afford to move house?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022698930115438998,
+                    "sentence": "This will encourage the wealthy to purchase houses for investment purposes which will lead to higher rents and on and on.Decreasing inheritance tax will only affect the very rich.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003531314723659307,
+                    "sentence": "It seems to me that these are actions that are the core of the Tory party.Rita GregoryAddress suppliedA better Britain for all?It seems likely that the next general election will produce a Labour government.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000313556898618117,
+                    "sentence": "The challenges however will be great.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005148949567228556,
+                    "sentence": "The legacies of Johnson and Truss - along with long-standing concerns about the governance of the UK - mean that radical reform is needed.In terms of politics, we need a written constitution that will provide for anti-corruption and constitutional courts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005615160916931927,
+                    "sentence": "This, along with reform of the voting system and the House of Lords.Then there is the economy, where we need to adopt the forward-thinking “stakeholder” ideas of economist Will Hutton.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007635160582140088,
+                    "sentence": "Last but not least, we need a real Green New Deal that will couple the need for more social/affordable housing with clear air and water.A tall order?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006064658518880606,
+                    "sentence": "Yes, but the only way to secure a better Britain for all.Andrew McLuskeyAddress suppliedHow out of touch is Rishi Sunak?So, with his party facing political oblivion at the next election, Conservative Party leader and prime minister Rishi Sunak turns to his rich friends for desperately needed votes.How out of touch can the prime minister get?These aren't the people feeling the pinch because of high energy bills.These aren't the people using food banks in record numbers.These are core Tory voters Rishi Sunak is scared to lose the support of.Hence, the truth has yet again been exposed about how the out-of-touch Conservative Party looks after the richest at the expense of the rest of us.Geoffrey BrookingHampshire",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.009998674697021016,
+            "class_probabilities": {
+                "human": 0.990001325302979,
+                "ai": 0.009998674697021016,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.990001325302979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.009998674697021016,
+                    "human": 0.990001325302979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThe latest by-election resultsfor Labour are clearly being interpreted by them as asure signthat next autumn they’ll be in charge of the UKfinances, and rolling in themoney.It’s hard to imagine how they’ll actually deliver on those vague “airy fairy” ideas they have to transform our economy without money.I’d love it if thisseismic changecomes simply as a result of a change of policy and personnel at the top, but who are we kidding?Unless Sir Kier finds a whole hill of “magic beans” under an equally “magic money tree”, I fear this nation’s hopes for a return to those sunny uplands will be short-lived. Nobody in their right minds should really believe that Labour has any better chance of turning things around without increasing the tax burden on those who they imagine can afford it, and while these two local election results may feel like they’re on the home straight, the diabolical turnout suggests too many voters have little or no faith in either party being able to square this huge circle without raiding everyone’s dwindling piggy banks.Steve MackinderNorfolkThe Tories cannot win by catering to the few at the expense of the manyReducing stamp tax, according to the Tories, will “make it cheaper for people to move houses”. Excuse me but how many ordinary people actually can afford to move house? This will encourage the wealthy to purchase houses for investment purposes which will lead to higher rents and on and on.Decreasing inheritance tax will only affect the very rich. It seems to me that these are actions that are the core of the Tory party.Rita GregoryAddress suppliedA better Britain for all?It seems likely that the next general election will produce a Labour government. The challenges however will be great. The legacies of Johnson and Truss – along with long-standing concerns about the governance of the UK – mean that radical reform is needed.In terms of politics, we need a written constitution that will provide for anti-corruption and constitutional courts. This, along with reform of the voting system and the House of Lords.Then there is the economy, where we need to adopt the forward-thinking “stakeholder” ideas of economist Will Hutton. Last but not least, we need a real Green New Deal that will couple the need for more social/affordable housing with clear air and water.A tall order? Yes, but the only way to secure a better Britain for all.Andrew McLuskeyAddress suppliedHow out of touch is Rishi Sunak?So, with his party facing political oblivion at the next election, Conservative Party leader and prime minister Rishi Sunak turns to his rich friends for desperately needed votes.How out of touch can the prime minister get?These aren’t the people feeling the pinch because of high energy bills.These aren’t the people using food banks in record numbers.These are core Tory voters Rishi Sunak is scared to lose the support of.Hence, the truth has yet again been exposed about how the out-of-touch Conservative Party looks after the richest at the expense of the rest of us.Geoffrey BrookingHampshire"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00046927641960792243,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006501738680526614,
+                    "sentence": "Please send your letters toletters@independent.co.ukSurely we are not going to see further cuts to theHS2programme!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006367751047946513,
+                    "sentence": "What is it with the British, our governments and public administration, that - with rare exceptions - we cannot plan long-term infrastructure projects and just get on with them without endless arguments and cutbacks?France, Germany, Italy and Spain are all now crisscrossed with wonderful high-speed railways - links that are vital to commerce and beneficial to domestic life - while we have one short link to the Channel Tunnel.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003380014677532017,
+                    "sentence": "Birmingham did not need an HS link to London for all the difference it would make in travel time, but incidentally will benefit from fast links to cities in the North and Scotland.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008325739181600511,
+                    "sentence": "Such links would have enabled the UK, a small enough country, to abandon most scheduled internal flights which spew out daily toxic fumes across the country.Italy, for example, is a less wealthy country than Britain, often administratively challenged, with equally treasured landscapes and wildlife; yet somehow they have found the money to build an HS network often crossing more hilly if not mountainous country than the UK, with a much larger number of expensive tunnels and viaducts than we would need.To be fair to the UK, the Elizabeth Line is an engineering marvel, and no cash-strapped government abandoned part of its network halfway through.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04641053453087807,
+                    "sentence": "But we have almost forgotten our pioneering prowess in rail travel; so please Jeremy Hunt, don't cut back HS2 plans yet again.Gavin TurnerNorfolkLabour is a government in waitingThe fact that Sir Keir Starmer is already taking to the global stage in a bid to beef up policies to help guard against people trafficking shows more signs of a government in waiting.Suella Braverman has had ample opportunity to deal with people trafficking, but every single attempt has failed.Sir Keir Starmer's meeting with President Macron will hopefully pave the way for a far better post-Brexit relationship with France.This is far more than can be said for the relationship that Theresa May and Boris Johnson had with the French, thanks to the bitter civil war inside the ruling Conservative Party.Geoffrey BrookingHampshireThomas the tax engineThere may be many reasons for scrapping an expensive infrastructure project like HS2, but it speaks volumes about the Tory party's priorities when their main consideration is to provide tax cuts for their followers and not even to claim it is to boost our ailing public services.Geoff ForwardStirlingAnd on the seventh day, we restedInteresting toread about the 85:15rule today.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05848437920212746,
+                    "sentence": "15 per cent being about one-seventh, it made me wonder if the fourth Commandment (six days labour, one day rest) may have been on to something way back then…I'm writing this in the Netherlands where last Sunday most shops were shut, and many people and families were out cycling or playing or relaxing over coffee together.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0582684651017189,
+                    "sentence": "A noticeable contrast to the burned-out UK.Paul KeebleAddress supplied",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.058471088130131146,
+            "class_probabilities": {
+                "human": 0.9415289118698688,
+                "ai": 0.058471088130131146,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9415289118698688,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.058471088130131146,
+                    "human": 0.9415289118698688,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukSurely we are not going to see further cuts to theHS2programme! What is it with the British, our governments and public administration, that – with rare exceptions – we cannot plan long-term infrastructure projects and just get on with them without endless arguments and cutbacks?France, Germany, Italy and Spain are all now crisscrossed with wonderful high-speed railways – links that are vital to commerce and beneficial to domestic life – while we have one short link to the Channel Tunnel. Birmingham did not need an HS link to London for all the difference it would make in travel time, but incidentally will benefit from fast links to cities in the North and Scotland. Such links would have enabled the UK, a small enough country, to abandon most scheduled internal flights which spew out daily toxic fumes across the country.Italy, for example, is a less wealthy country than Britain, often administratively challenged, with equally treasured landscapes and wildlife; yet somehow they have found the money to build an HS network often crossing more hilly if not mountainous country than the UK, with a much larger number of expensive tunnels and viaducts than we would need.To be fair to the UK, the Elizabeth Line is an engineering marvel, and no cash-strapped government abandoned part of its network halfway through. But we have almost forgotten our pioneering prowess in rail travel; so please Jeremy Hunt, don’t cut back HS2 plans yet again.Gavin TurnerNorfolkLabour is a government in waitingThe fact that Sir Keir Starmer is already taking to the global stage in a bid to beef up policies to help guard against people trafficking shows more signs of a government in waiting.Suella Braverman has had ample opportunity to deal with people trafficking, but every single attempt has failed.Sir Keir Starmer’s meeting with President Macron will hopefully pave the way for a far better post-Brexit relationship with France.This is far more than can be said for the relationship that Theresa May and Boris Johnson had with the French, thanks to the bitter civil war inside the ruling Conservative Party.Geoffrey BrookingHampshireThomas the tax engineThere may be many reasons for scrapping an expensive infrastructure project like HS2, but it speaks volumes about the Tory party’s priorities when their main consideration is to provide tax cuts for their followers and not even to claim it is to boost our ailing public services.Geoff ForwardStirlingAnd on the seventh day, we restedInteresting toread about the 85:15rule today. 15 per cent being about one-seventh, it made me wonder if the fourth Commandment (six days labour, one day rest) may have been on to something way back then…I’m writing this in the Netherlands where last Sunday most shops were shut, and many people and families were out cycling or playing or relaxing over coffee together. A noticeable contrast to the burned-out UK.Paul KeebleAddress supplied"
+        }
+    ]
+}

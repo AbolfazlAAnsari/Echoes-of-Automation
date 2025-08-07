@@ -1,0 +1,100 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0018400249537080526,
+                    "sentence": "It's important to stock up on some things while waiting out Covid-19.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011923094280064106,
+                    "sentence": "But hoarding unnecessary items can deplete the supply for everyone else.It's important to stock up on some things while waiting out Covid-19.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001167033682577312,
+                    "sentence": "But hoarding unnecessary items can deplete the supply for everyone else.Tweetsandvideosof people panic-buying toilet paper are proliferating on social media.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013012441340833902,
+                    "sentence": "Yes, being prepared for a possible quarantine is smart.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011484917486086488,
+                    "sentence": "But the above video explains why overbuying certain items is not.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009509577648714185,
+                    "sentence": "An excess of toilet paper will not help protect you against Covid-19, but it will cause a run on supplies that keeps others from getting what they might need.Adam Westbrook(@AdamWestbrook) is a producer with Opinion Video.PHOTO: (PHOTOGRAPH BY The New York Times FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 6,
+                    "completely_generated_prob": 1.474742012248794e-05
+                }
+            ],
+            "completely_generated_prob": 0.009998674697021016,
+            "class_probabilities": {
+                "human": 0.990001325302979,
+                "ai": 0.009998674697021016,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.990001325302979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.009998674697021016,
+                    "human": 0.990001325302979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "It’s important to stock up on some things while waiting out Covid-19. But hoarding unnecessary items can deplete the supply for everyone else.It’s important to stock up on some things while waiting out Covid-19. But hoarding unnecessary items can deplete the supply for everyone else.Tweetsandvideosof people panic-buying toilet paper are proliferating on social media. Yes, being prepared for a possible quarantine is smart. But the above video explains why overbuying certain items is not. An excess of toilet paper will not help protect you against Covid-19, but it will cause a run on supplies that keeps others from getting what they might need.Adam Westbrook(@AdamWestbrook) is a producer with Opinion Video.PHOTO:  (PHOTOGRAPH BY The New York Times FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

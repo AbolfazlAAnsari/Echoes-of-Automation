@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.001803621998988092,
+                    "sentence": "He kicked off 2021 by declaring India had defeated Covid-19.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020391361322253942,
+                    "sentence": "Then came the second wave ᅳ and a record-breaking death toll.In the Opinion video above, Kunal Kamra, an enormously popular stand-up comedian in India, puts all jokes aside and takes a serious look at his government's handling of the pandemic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002139587188139558,
+                    "sentence": "His assessment is withering: He accuses the nation's leadership, especially an overconfident Prime Minister Narendra Modi, of putting political vanity before common sense and opening the door to a devastating resurgence of coronavirus infections.India has been struggling for weeks amid this second wave, which has sickened millions, killed tens of thousands and overwhelmed the nation's health care system.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017827005358412862,
+                    "sentence": "At the peak of the crisis, new infections numbered about 400,000 a day, a record-breaking pace.Since then, the daily counts of infections and deaths have dropped.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020138127729296684,
+                    "sentence": "But Mr. Kamra says that had Mr. Modi and other political leaders responded more quickly and more effectively, a lot of lives and heartache would have been spared.“My people are needlessly dying,” Mr. Kamra says.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015089166117832065,
+                    "sentence": "“Our government has blood on its hands.”Kunal Kamra (@kunalkamra88) is a comedian based in Mumbai, India.Veda Shastri (@vedashastri) is a documentary filmmaker.Adam B. Ellick (@aellick) is the executive producer of Opinion Video.Gabe Johnsonis a documentary filmmaker and investigative journalist.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0022470185067504644,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0026889112778007984,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001529622357338667,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.015281828032010496,
+            "class_probabilities": {
+                "human": 0.9847181719679895,
+                "ai": 0.015281828032010496,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9847181719679895,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.015281828032010496,
+                    "human": 0.9847181719679895,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "He kicked off 2021 by declaring India had defeated Covid-19. Then came the second wave — and a record-breaking death toll.In the Opinion video above, Kunal Kamra, an enormously popular stand-up comedian in India, puts all jokes aside and takes a serious look at his government’s handling of the pandemic. His assessment is withering: He accuses the nation’s leadership, especially an overconfident Prime Minister Narendra Modi, of putting political vanity before common sense and opening the door to a devastating resurgence of coronavirus infections.India has been struggling for weeks amid this second wave, which has sickened millions, killed tens of thousands and overwhelmed the nation’s health care system. At the peak of the crisis, new infections numbered about 400,000 a day, a record-breaking pace.Since then, the daily counts of infections and deaths have dropped. But Mr. Kamra says that had Mr. Modi and other political leaders responded more quickly and more effectively, a lot of lives and heartache would have been spared.“My people are needlessly dying,” Mr. Kamra says. “Our government has blood on its hands.”Kunal Kamra (@kunalkamra88) is a comedian based in Mumbai, India.Veda Shastri (@vedashastri) is a documentary filmmaker.Adam B. Ellick (@aellick) is the executive producer of Opinion Video.Gabe Johnsonis a documentary filmmaker and investigative journalist.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram."
+        }
+    ]
+}

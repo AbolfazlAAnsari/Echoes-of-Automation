@@ -1,0 +1,100 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0008583723101764917,
+                    "sentence": "Published 6:26 pm Friday, February 3, 2023ByLetters to the EditorDear Editor,I read with appreciation your editorial, “Be heard on Suffolk 2045” this week.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008917739032767713,
+                    "sentence": "I wish that these opportunities to be heard could have the effect that you, and I, desire, in potentially speaking out on the issue of warehouses in Suffolk.Unfortunately, the public hearings on the Port 460 project ᅳ a large warehouse project, approved by our City Council in recent months ᅳ shows that, at least at the present time, the Comprehensive Plans of our city are largely meaningless, and the voices of the public are, for the most part, ignored.We are two years away from the fulfillment date of the 2025 Comprehensive Plan, and 12 years away from the 2035 Comprehensive Plan.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.015490329824388027,
+                    "sentence": "Those plans called for the agricultural area contemplated for use by the Port 460 project to be changed, at most, to residential.When residents raised concerns about the Comprehensive Plan as objections to the proposed change to heavy industrial zoning, the mayor dismissed the objections, saying that was “just a plan” and “we can change it.”In addition, at the first of these meetings, concerns about traffic safety were shut down as “not our concern.”If the Comprehensive Plan has no impact on the planning and zoning decisions of our community, the rather obvious question becomes, “why do we have them?”I would like to think that the input of the community on this process would have an impact on the direction of the city.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.025490403175354004,
+                    "sentence": "However, the attitude of the present council certainly makes one question if there is any purpose to these meetings, other than to give the appearance of community input.Scott ThomasSuffolkOn Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02760058268904686,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006268114782869816,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 6,
+                    "completely_generated_prob": 1.474742012248794e-05
+                }
+            ],
+            "completely_generated_prob": 0.025047363853838715,
+            "class_probabilities": {
+                "human": 0.9749114577339202,
+                "ai": 0.025047363853838715,
+                "mixed": 4.1178412241002176e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9749114577339202,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.025047363853838715,
+                    "human": 0.9749114577339202,
+                    "mixed": 4.1178412241002176e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 6:26 pm Friday, February 3, 2023ByLetters to the EditorDear Editor,I read with appreciation your editorial, “Be heard on Suffolk 2045” this week. I wish that these opportunities to be heard could have the effect that you, and I, desire, in potentially speaking out on the issue of warehouses in Suffolk.Unfortunately, the public hearings on the Port 460 project — a large warehouse project, approved by our City Council in recent months — shows that, at least at the present time, the Comprehensive Plans of our city are largely meaningless, and the voices of the public are, for the most part, ignored.We are two years away from the fulfillment date of the 2025 Comprehensive Plan, and 12 years away from the 2035 Comprehensive Plan. Those plans called for the agricultural area contemplated for use by the Port 460 project to be changed, at most, to residential.When residents raised concerns about the Comprehensive Plan as objections to the proposed change to heavy industrial zoning, the mayor dismissed the objections, saying that was “just a plan” and “we can change it.”In addition, at the first of these meetings, concerns about traffic safety were shut down as “not our concern.”If the Comprehensive Plan has no impact on the planning and zoning decisions of our community, the rather obvious question becomes, “why do we have them?”I would like to think that the input of the community on this process would have an impact on the direction of the city. However, the attitude of the present council certainly makes one question if there is any purpose to these meetings, other than to give the appearance of community input.Scott ThomasSuffolkOn Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

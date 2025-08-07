@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0001485674292780459,
+                    "sentence": "After New Hampshire, the Never-Trump voters could be looking for a new home.Opinion writer Michelle Cottle watched last night's New Hampshire Primary results come in alongside supporters of Nikki Haley.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015058966528158635,
+                    "sentence": "She says the battle of head versus heart has just started.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011775716848205775,
+                    "sentence": "In this audio interview, Cottle speaks with Opinion's deputy editor, Patrick Healy, to break down the primary polls, voter “vibes” and the feeling of déjà vu from 2016.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.697761222720146e-05,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.990993617568165e-05,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.530896932119504e-05,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,X (@NYTOpinion)andInstagram.This episode of “The Opinions” was produced by Jillian Weinberger with help from Vishakha Darbha.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011100704432465136,
+                    "sentence": "It was edited by Kaari Pitkin and Annie-Rose Strasser.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001499876962043345,
+                    "sentence": "Mixing by Isaac Jones.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013199455861467868,
+                    "sentence": "Original music by Carole Sabouraud.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014492057380266488,
+                    "sentence": "Fact-checking by Kate Sinclair.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001646091986913234,
+                    "sentence": "Audience strategy by Kristina Samulewski.PHOTO: (PHOTOGRAPH BY Illustration by Akshita Chandra/The New York Times; photograph by juliaf/Getty Images FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.006608679833334143,
+            "class_probabilities": {
+                "human": 0.9933913201666659,
+                "ai": 0.006608679833334143,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933913201666659,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006608679833334143,
+                    "human": 0.9933913201666659,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "After New Hampshire, the Never-Trump voters could be looking for a new home.Opinion writer Michelle Cottle watched last night’s New Hampshire Primary results come in alongside supporters of Nikki Haley. She says the battle of head versus heart has just started. In this audio interview, Cottle speaks with Opinion’s deputy editor, Patrick Healy, to break down the primary polls, voter “vibes” and the feeling of déjà vu from 2016.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,X (@NYTOpinion)andInstagram.This episode of “The Opinions” was produced by Jillian Weinberger with help from Vishakha Darbha. It was edited by Kaari Pitkin and Annie-Rose Strasser. Mixing by Isaac Jones. Original music by Carole Sabouraud. Fact-checking by Kate Sinclair. Audience strategy by Kristina Samulewski.PHOTO:  (PHOTOGRAPH BY Illustration by Akshita Chandra/The New York Times; photograph by juliaf/Getty Images FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

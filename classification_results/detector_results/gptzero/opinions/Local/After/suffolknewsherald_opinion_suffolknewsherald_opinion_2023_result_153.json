@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.04865739867091179,
+                    "sentence": "Published 4:57 pm Tuesday, January 17, 2023BySuffolk News-Herald Editorial BoardIt's been said that little good happens after midnight.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.027740849182009697,
+                    "sentence": "On the other hand, law-abiding night owls shouldn't fear for their lives in Suffolk.As reported on today's front page, six people were wounded in unrelated incidents outside Suffolk restaurants over the weekend ᅳ one on the north end of town, the other downtown.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03925008326768875,
+                    "sentence": "Throw in a couple of armed robberies at convenience stores during the same 48-hour period, and it's clear that the violence that plagued our city in 2022 isn't subsiding.Police responded to Kickback Jacks, a popular new sports bar and grill on College Drive, at 12:38 a.m. Monday and found a woman suffering from gunshot wounds.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.017867714166641235,
+                    "sentence": "Officers learned there were two additional victims already being treated at area hospitals.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02471526339650154,
+                    "sentence": "Two of the three victims were in critical condition.The North Suffolk shooting followed one two nights earlier at High Tide Restaurant on Commerce Street downtown.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03742316737771034,
+                    "sentence": "Three people were injured, two seriously.A citizenry on edge needs some reassurance from city leaders, beginning with Police Chief Al Chandler.As we've written in this space before, a community's top cop doesn't bear full or even primary responsibility for a crime wave such as Suffolk has experienced since Chandler was named chief.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9268414974212646,
+                    "sentence": "But the community is looking to him for an aggressive response to a problem that is doing immeasurable harm to Suffolk's reputation and its citizens' quality of life.Chandler last year announced some worthy initiatives, including installation of portable cameras in hot spots such as the intersection of Saratoga and West Washington streets, gunshot detection technology, and special cameras that capture images of the rear of vehicles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9223029017448425,
+                    "sentence": "All were proactive and sorely needed.Amid the violent start to 2023, the community needs an update on how those are working and insight on what else is planned to make Suffolk safer.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.8872582316398621,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 0.0004553898259905009
+                }
+            ],
+            "completely_generated_prob": 0.39821528165086445,
+            "class_probabilities": {
+                "human": 0.6017847183491355,
+                "ai": 0.39821528165086445,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.6017847183491355,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.39821528165086445,
+                    "human": 0.6017847183491355,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 4:57 pm Tuesday, January 17, 2023BySuffolk News-Herald Editorial BoardIt’s been said that little good happens after midnight. On the other hand, law-abiding night owls shouldn’t fear for their lives in Suffolk.As reported on today’s front page, six people were wounded in unrelated incidents outside Suffolk restaurants over the weekend — one on the north end of town, the other downtown. Throw in a couple of armed robberies at convenience stores during the same 48-hour period, and it’s clear that the violence that plagued our city in 2022 isn’t subsiding.Police responded to Kickback Jacks, a popular new sports bar and grill on College Drive, at 12:38 a.m. Monday and found a woman suffering from gunshot wounds. Officers learned there were two additional victims already being treated at area hospitals. Two of the three victims were in critical condition.The North Suffolk shooting followed one two nights earlier at High Tide Restaurant on Commerce Street downtown. Three people were injured, two seriously.A citizenry on edge needs some reassurance from city leaders, beginning with Police Chief Al Chandler.As we’ve written in this space before, a community’s top cop doesn’t bear full or even primary responsibility for a crime wave such as Suffolk has experienced since Chandler was named chief. But the community is looking to him for an aggressive response to a problem that is doing immeasurable harm to Suffolk’s reputation and its citizens’ quality of life.Chandler last year announced some worthy initiatives, including installation of portable cameras in hot spots such as the intersection of Saratoga and West Washington streets, gunshot detection technology, and special cameras that capture images of the rear of vehicles. All were proactive and sorely needed.Amid the violent start to 2023, the community needs an update on how those are working and insight on what else is planned to make Suffolk safer.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 4.378585799713619e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.691861249739304e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukThecoronation service was impressive, and a showcase for Britain's contemporary multi-culturalism and our improved gender balance in public life.The ceremony displayed to the world our high musical standards at a time when classical music in particular is under threat from a government squeeze on arts funding.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.719262167578563e-05,
+                    "sentence": "Filling the abbey mainly with people of achievement in all walks of life, rather than dozens of unrepresentative aristocrats in costumes and coronets, was an essential change.But howeverelegantly and inclusivelytheAnglican Churchnow does these things, it is going to have to grasp the nettle of disestablishment before the nextcoronation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.354901127750054e-05,
+                    "sentence": "Even many Anglicans are embarrassed by the absurdity of the monarch rather than theArchbishopof Canterbury being the head of a church that no longer represents even most British Christians, never mind all the other faiths.However what was notable, as at Queen Elizabeth's funeral, was how smoothly it was all handled, especially the precision and magnificence of the military manoeuvres.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.238753561163321e-05,
+                    "sentence": "It leaves hanging in the air the question of how we can manage such events with such professionalism and panache, while making an incompetent mess of our politics, and of many of our public services.King Charles does seem likely to slim down the monarchy and make it more accessible; but what needs ungently rethinking is our creaking parliamentary system: the antique rules and procedures, the adversarial nonsense of Prime Minister's Questions, packing the House of Lords with clapped-out politicians rather than an upper house of talented achievers from all walks of life.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.106734584434889e-05,
+                    "sentence": "There are many other bizarre aspects of our now-outdated polity which really do need reforming; but they tend to be issues which politicians themselves have no interest in examining.Gavin TurnerGuntonLow turnout againWest Norfolk's turnout at therecent electionshas demonstrated just how disinterested many people are in voting or engaging in the process.With turnouts in some wards down to 16 per cent in poorer neighbourhoods and up to 35 per cent even in the affluent “second home” belt, we see just how utterly bereft of hope so many people have become.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.674554606433958e-05,
+                    "sentence": "Whose fault is it?The first past the post system has resulted in Norfolk in the past being relentlessly overwhelmed by a “blue tsunami”, and although the cracks are developing we'll be a long while wresting control from dyed in the wool Tory supporters.Clearly few people in low-income areas have any desire or expectation of change and surely this begs the question as to how any “successful” candidate can truly close their eyes at night knowing two thirds of their electorate couldn't be bothered get off their backsides to vote.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.929564238409512e-05,
+                    "sentence": "How you drag people into a polling station is anybody's guess.Steve MackinderDenverThe best of BritainI concur withyour editorial that the coronation was Britain at its best.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.581339453579858e-05,
+                    "sentence": "Whether we agree with the monarchy or not, it is impossible to imagine Great Britain without it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.157756484346464e-05,
+                    "sentence": "It remains a bulwark of stability, safety, security, inclusivity and diversity.Also, beside being a colourful, diverse and multireligious and multi-ethnic celebration, yesterday was an orderly event.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.4197236750042066e-05,
+                    "sentence": "Hundreds of thousands congregated in the mall without a single incident of stampede or scuffle.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.38070482132025e-05,
+                    "sentence": "This is truly Britain at its best.Dr Munjed Farid Al QutobLondonPM Penny Mordaunt?It was good to seePenny Mordaunt, particularly as a woman, taking such a prominent role in the coronation, and she has received widespread approval in the media for her muscular swordpersonship.I do wonder how long after the next election it will be before she announces her candidacy for leadership of the Conservative Party?Mark FarringtonGreat Shelford",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.004922978367096123,
+            "class_probabilities": {
+                "human": 0.9950770216329039,
+                "ai": 0.004922978367096123,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9950770216329039,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.004922978367096123,
+                    "human": 0.9950770216329039,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThecoronation service was impressive, and a showcase for Britain’s contemporary multi-culturalism and our improved gender balance in public life.The ceremony displayed to the world our high musical standards at a time when classical music in particular is under threat from a government squeeze on arts funding. Filling the abbey mainly with people of achievement in all walks of life, rather than dozens of unrepresentative aristocrats in costumes and coronets, was an essential change.But howeverelegantly and inclusivelytheAnglican Churchnow does these things, it is going to have to grasp the nettle of disestablishment before the nextcoronation.  Even many Anglicans are embarrassed by the absurdity of the monarch rather than theArchbishopof Canterbury being the head of a church that no longer represents even most British Christians, never mind all the other faiths.However what was notable, as at Queen Elizabeth’s funeral, was how smoothly it was all handled, especially the precision and magnificence of the military manoeuvres. It leaves hanging in the air the question of how we can manage such events with such professionalism and panache, while making an incompetent mess of our politics, and of many of our public services.King Charles does seem likely to slim down the monarchy and make it more accessible; but what needs ungently rethinking is our creaking parliamentary system: the antique rules and procedures, the adversarial nonsense of Prime Minister’s Questions, packing the House of Lords with clapped-out politicians rather than an upper house of talented achievers from all walks of life. There are many other bizarre aspects of our now-outdated polity which really do need reforming; but they tend to be issues which politicians themselves have no interest in examining.Gavin TurnerGuntonLow turnout againWest Norfolk’s turnout at therecent electionshas demonstrated just how disinterested many people are in voting or engaging in the process.With turnouts in some wards down to 16 per cent in poorer neighbourhoods and up to 35 per cent even in the affluent “second home” belt, we see just how utterly bereft of hope so many people have become. Whose fault is it?The first past the post system has resulted in Norfolk in the past being relentlessly overwhelmed by a “blue tsunami”, and although the cracks are developing we’ll be a long while wresting control from dyed in the wool Tory supporters.Clearly few people in low-income areas have any desire or expectation of change and surely this begs the question as to how any “successful” candidate can truly close their eyes at night knowing two thirds of their electorate couldn’t be bothered get off their backsides to vote. How you drag people into a polling station is anybody’s guess.Steve MackinderDenverThe best of BritainI concur withyour editorial that the coronation was Britain at its best.  Whether we agree with the monarchy or not, it is impossible to imagine Great Britain without it. It remains a bulwark of stability, safety, security, inclusivity and diversity.Also, beside being a colourful, diverse and multireligious and multi-ethnic celebration, yesterday was an orderly event. Hundreds of thousands congregated in the mall without a single incident of stampede or scuffle. This is truly Britain at its best.Dr Munjed Farid Al QutobLondonPM Penny Mordaunt?It was good to seePenny Mordaunt, particularly as a woman, taking such a prominent role in the coronation, and she has received widespread approval in the media for her muscular swordpersonship.I do wonder how long after the next election it will be before she announces her candidacy for leadership of the Conservative Party?Mark FarringtonGreat Shelford"
+        }
+    ]
+}

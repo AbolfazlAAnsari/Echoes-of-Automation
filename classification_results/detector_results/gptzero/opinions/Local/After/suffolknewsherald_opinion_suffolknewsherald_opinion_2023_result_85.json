@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00014566468598786741,
+                    "sentence": "Published 5:03 pm Tuesday, March 28, 2023ByStaff ReportsBy Tom MastaglioAmerican Legion Post 49National Vietnam War Veterans Day is observed March 29.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016455187869723886,
+                    "sentence": "It was designated as such by the Vietnam War Veterans Recognition Act of 2017 signed by President Trump to recognize the more than 6 million U.S. military veterans who served during the Vietnam War.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022070501290727407,
+                    "sentence": "President Obama called “upon all Americans to observe this day with appropriate programs, ceremonies, and activities that commemorate the 50-year anniversary of the Vietnam War.”March 29 was chosen because on that date in 1973 the last U.S. combat troops departed the Republic of Vietnam.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022581807570531964,
+                    "sentence": "All 6 million men and women who served in the U.S. military from Aug. 5, 1964 through May 7, 1975 are considered Vietnam-era Veterans.Last year President Biden reaffirmed the nation's commitment to commemorate the 50th anniversary of the Vietnam War, which began on Memorial Day, May 28, 2012, and which will continue through Veterans Day, Nov. 11, 2025.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022272737987805158,
+                    "sentence": "He called upon all Americans to seek out and extend the nation's profound gratitude to our Vietnam veterans and their families and caretakers, expressing compassion for the families of the fallen, those who remain missing and unaccounted for, and all others who served yet no longer walk among us.Locally, we recognize these veterans at the Smithfield American Legion's annual dinner, in some local churches during their weekly services and special programs at the Isle of Wight County Museum.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015118808369152248,
+                    "sentence": "But, there are few local and regional public events to acknowledge this national day of recognition.Given the paucity of public recognition of this holiday in our area, I am calling on each of you to take the time to remember the service of our men and women who served as well as the families of veterans during the week of March 29 by privately acknowledging them.Consider doing this personally by contacting those you know or encounter this week at stores, restaurants and in other public places who are Vietnam-era veterans.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016005223733372986,
+                    "sentence": "That generation is generally proud of their service in spite of the lack of appreciation at the time shown to those who served in the war zone then returned home or any who publicly wore the uniform.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008950802497565746,
+                    "sentence": "They were not just disrespected, but often denigrated as a focus for the frustration of those politically opposed to the war.Despite these anti-war protestors representing a minority demographic in our country, there was a failure by the silent majority to nevertheless publicly acknowledge the sacrifices of our soldiers, sailors, marines, airmen and coast guardsmen.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.017291735857725143,
+                    "sentence": "Vietnam-era veterans can be recognized by the proud display of inscriptions on their hats, shirts and jackets that announce they are Vietnam War Veterans.Regardless of your politics, then or now, I implore you to recognize those who served by “welcoming them home” and thank them for their service.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.021008023992180824,
+                    "sentence": "Perhaps more civic organizations can next year organize public ceremonies to acknowledge the sacrifice of these veterans and the families who lost loved ones in the Vietnam conflict.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.017654038965702057,
+                    "sentence": "Our veterans deserve and would appreciate nothing more than a show of appreciation for their sacrifices.Tom Mastaglio is the media and publicity coordinator at the American Legion Post 49 in Smithfield.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.026422426104545593,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.024461651786716186,
+            "class_probabilities": {
+                "human": 0.9754981327244504,
+                "ai": 0.024461651786716186,
+                "mixed": 4.0215488833363626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9754981327244504,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024461651786716186,
+                    "human": 0.9754981327244504,
+                    "mixed": 4.0215488833363626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:03 pm Tuesday, March 28, 2023ByStaff ReportsBy Tom MastaglioAmerican Legion Post 49National Vietnam War Veterans Day is observed March 29.  It was designated as such by the Vietnam War Veterans Recognition Act of 2017 signed by President Trump to recognize the more than 6 million U.S. military veterans who served during the Vietnam War. President Obama called “upon all Americans to observe this day with appropriate programs, ceremonies, and activities that commemorate the 50-year anniversary of the Vietnam War.”March 29 was chosen because on that date in 1973 the last U.S. combat troops departed the Republic of Vietnam. All 6 million men and women who served in the U.S. military from Aug. 5, 1964 through May 7, 1975 are considered Vietnam-era Veterans.Last year President Biden reaffirmed the nation’s commitment to commemorate the 50th anniversary of the Vietnam War, which began on Memorial Day, May 28, 2012, and which will continue through Veterans Day, Nov. 11, 2025.  He called upon all Americans to seek out and extend the nation’s profound gratitude to our Vietnam veterans and their families and caretakers, expressing compassion for the families of the fallen, those who remain missing and unaccounted for, and all others who served yet no longer walk among us.Locally, we recognize these veterans at the Smithfield American Legion’s annual dinner, in some local churches during their weekly services and special programs at the Isle of Wight County Museum. But, there are few local and regional public events to acknowledge this national day of recognition.Given the paucity of public recognition of this holiday in our area, I am calling on each of you to take the time to remember the service of our men and women who served as well as the families of veterans during the week of March 29 by privately acknowledging them.Consider doing this personally by contacting those you know or encounter this week at stores, restaurants and in other public places who are Vietnam-era veterans. That generation is generally proud of their service in spite of the lack of appreciation at the time shown to those who served in the war zone then returned home or any who publicly wore the uniform. They were not just disrespected, but often denigrated as a focus for the frustration of those politically opposed to the war.Despite these anti-war protestors representing a minority demographic in our country, there was a failure by the silent majority to nevertheless publicly acknowledge the sacrifices of our soldiers, sailors, marines, airmen and coast guardsmen. Vietnam-era veterans can be recognized by the proud display of inscriptions on their hats, shirts and jackets that announce they are Vietnam War Veterans.Regardless of your politics, then or now, I implore you to recognize those who served by “welcoming them home” and thank them for their service.  Perhaps more civic organizations can next year organize public ceremonies to acknowledge the sacrifice of these veterans and the families who lost loved ones in the Vietnam conflict. Our veterans deserve and would appreciate nothing more than a show of appreciation for their sacrifices.Tom Mastaglio is the media and publicity coordinator at the American Legion Post 49 in Smithfield.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…"
+        }
+    ]
+}

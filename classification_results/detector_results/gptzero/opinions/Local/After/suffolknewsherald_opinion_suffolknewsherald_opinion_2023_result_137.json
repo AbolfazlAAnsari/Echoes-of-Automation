@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 4.4662570871878415e-05,
+                    "sentence": "Published 6:25 pm Friday, February 3, 2023ByLetters to the EditorEditor:I am writing regarding the long-term future recommendations for Nansemond River High School as noted in the facility master plan.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.755978079629131e-05,
+                    "sentence": "The three options outlined included zero cost to rezone, $15 million to add on, or $119 million to replace the building.My parents attended Nansemond River when it was first built in the 90s.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.1286188459489495e-05,
+                    "sentence": "Our entire family feels both extreme pride for the school and great respect for the quality of education we received.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.849917266052216e-05,
+                    "sentence": "As a current senior, however, I can attest that the school's infrastructure is outdated and needs repair, the building is overcrowded, the technology needs upgrading, and the security measures in place are inadequate to meet the safety needs of faculty and students.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.0181914553395472e-05,
+                    "sentence": "For these reasons, I believe the long-term goal of our city should be to replace Nansemond River High School.According to the Schools Facility Needs Assessment and Attendance Zone Design Executive Summary, the population of the school has grown by 13% over five years and is projected to continue to increase.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.723201734828763e-05,
+                    "sentence": "Furthermore, Nansemond River has a current student population of 1,688, which represents an overall capacity of 107%.While rezoning might diminish the overcrowding, the infrastructure, technological issues and security measures at the school would still remain inadequate.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.878991992678493e-05,
+                    "sentence": "In addition, even if the size of Nansemond River is increased by adding square footage at an estimated cost of $15 million, the greater part of the building would still remain outdated and in need of repair.The Executive Summary gives Nansemond River a rating of 10.71 on the Facility Condition Index, indicating the infrastructure is in fair condition with some functional challenges that will require both minor and major repairs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.6456636735238135e-05,
+                    "sentence": "The cost of these deferred maintenance repairs is projected to be $21,159,794 over 10 years.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.588626714190468e-05,
+                    "sentence": "In addition, $8,667,131 is a high priority cost that needs to be addressed over the next three years.Although the cost to rebuild Nansemond River High School at about $119 million dollars is greater than the cost to renovate, the value will be realized with a lower cost of ongoing maintenance, accommodations for technological needs, and the increased safety and security measures that are a part of modern school designs.If our city wants to continue to attract highly educated workers that will fuel both economic growth and tax revenues, the condition of the public schools must be a high priority for the school board and the city council.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01709173247218132,
+                    "sentence": "Parents want what's best for their children.Upcoming high school students deserve an expanded learning experience that must include the newest technological applications and the best safety and security measures.I believe that the quality of life for both teachers and students would be enhanced with a new learning environment.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02532638981938362,
+                    "sentence": "I hope the city will consider the long-term option to rebuild Nansemond River High School in order to serve the citizens of Suffolk and future Warriors for years to come.Emma HarschSuffolkCorbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04333948716521263,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.06633669730667867,
+            "class_probabilities": {
+                "human": 0.9336633026933213,
+                "ai": 0.06633669730667867,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9336633026933213,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.06633669730667867,
+                    "human": 0.9336633026933213,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 6:25 pm Friday, February 3, 2023ByLetters to the EditorEditor:I am writing regarding the long-term future recommendations for Nansemond River High School as noted in the facility master plan. The three options outlined included zero cost to rezone, $15 million to add on, or $119 million to replace the building.My parents attended Nansemond River when it was first built in the 90s. Our entire family feels both extreme pride for the school and great respect for the quality of education we received. As a current senior, however, I can attest that the school’s infrastructure is outdated and needs repair, the building is overcrowded, the technology needs upgrading, and the security measures in place are inadequate to meet the safety needs of faculty and students. For these reasons, I believe the long-term goal of our city should be to replace Nansemond River High School.According to the Schools Facility Needs Assessment and Attendance Zone Design Executive Summary, the population of the school has grown by 13% over five years and is projected to continue to increase. Furthermore, Nansemond River has a current student population of 1,688, which represents an overall capacity of 107%.While rezoning might diminish the overcrowding, the infrastructure, technological issues and security measures at the school would still remain inadequate. In addition, even if the size of Nansemond River is increased by adding square footage at an estimated cost of $15 million, the greater part of the building would still remain outdated and in need of repair.The Executive Summary gives Nansemond River a rating of 10.71 on the Facility Condition Index, indicating the infrastructure is in fair condition with some functional challenges that will require both minor and major repairs. The cost of these deferred maintenance repairs is projected to be $21,159,794 over 10 years. In addition, $8,667,131 is a high priority cost that needs to be addressed over the next three years.Although the cost to rebuild Nansemond River High School at about $119 million dollars is greater than the cost to renovate, the value will be realized with a lower cost of ongoing maintenance, accommodations for technological needs, and the increased safety and security measures that are a part of modern school designs.If our city wants to continue to attract highly educated workers that will fuel both economic growth and tax revenues, the condition of the public schools must be a high priority for the school board and the city council. Parents want what’s best for their children.Upcoming high school students deserve an expanded learning experience that must include the newest technological applications and the best safety and security measures.I believe that the quality of life for both teachers and students would be enhanced with a new learning environment. I hope the city will consider the long-term option to rebuild Nansemond River High School in order to serve the citizens of Suffolk and future Warriors for years to come.Emma HarschSuffolkCorbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…"
+        }
+    ]
+}

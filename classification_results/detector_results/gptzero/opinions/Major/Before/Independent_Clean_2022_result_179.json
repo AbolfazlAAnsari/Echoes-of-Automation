@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 5.5437820265069604e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.383661533007398e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukOn a morning buoyed by the excellent political news of the results of theTiverton and Honitonand Wakefield by-elections, the best news of all is that, wholly predictably,Boris Johnson is intent on “carrying on”.Another two years of the unique mix of cluelessness, viciousness and stupidity that I believe characterises Johnson and his cabinet should be enough to ensure that the Conservative Party, like its former Ukip bedfellow, is never again taken seriously as a possible party of government by anyone who doesn't inhabit the right-wing lunatic fringe.Sometime in the future, when the pain and disgust have faded, and it becomes possible to focus on the absurdities rather than the viciousnesses of Johnson's time in Downing Street, some enterprising film producer might want to resurrect the Carry Onfilm series with Carry On Johnson.D Maughan BrownYorkMedia-savvy MickI readCathy Newman's columnconcerningMick Lynch, the general secretary of the RMT, andI too find him compellingviewing.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.119503864785656e-05,
+                    "sentence": "Because he states his claims and assertions in a straightforward, pragmatic manner, even the ubiquitous union phrase “this is completely unacceptable to my members” emerges from his mouth with fresh impetus and momentum.I too watched her interview with him and smiled at his witty riposte about working in the Seventies.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.630094579420984e-05,
+                    "sentence": "It is definitely the deadpan delivery and the sardonic raising of the eyebrows, when he is confronted with a particular statement he doesn't like or agree with.She is right to say that he is the actual deal with his impoverished background and has cut through with the public, which would be the stuff of political dreams for others.Whether this will carry on when morerail strikesoccur remains to be seen, but the electorate now appreciate that this is not a level playing field in terms of wages and conditions for many public sector and frontline workers who played vital roles in the pandemic and are now basically being told to go away, put up and shut up.For this reason, I am enjoying watching Mick Lynch's appearances and his proactive fervour on behalf of his members.Judith A DanielsNorfolkAbsence of wisdomFurvah Shah says that as a young person of colourshe deplores the way in which Brexit has increased intolerance.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009314457885921001,
+                    "sentence": "As an elderly white male, I am in full agreement with her.During the Brexit debate, Johnson and Farage gave Britain's lurking xenophobes a green light, and the consequences are and will be dire.The young of this island will have to live and deal with the consequences of the profound lack of wisdom displayed by their elders.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010395103134214878,
+                    "sentence": "A long struggle for decency and justice awaits them.Francis BeswickStretfordBritain's state pensionIt was good to see at last someone, Mary Dejevsky,putting the facts around the state pension in context.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009238077327609062,
+                    "sentence": "For many older people, this is their only income, and as she explains, it is shamefully one of the lowest in the developed world.Rather than further penalise this group, if people are so concerned about wealthy pensioners getting index-linked increases, maybe something should be done about the indexing of so many state sector pensions?G ForwardStirlingDisease and denialFriday's editorial was grim reading indeed: the tidal wave of chaos engulfing this country was adroitly itemised and already many of these reversals are proving only too tangible for the average person.However, I must mention one other potentially devastating problem which was not mentioned: the return of preventable infectious childhood diseases.A major concern over poliohas already been flagged up and it won't be long until others start to raise their ugly heads, such as pertussis [whooping cough], diphtheria, and measles.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereAnti-vaxxers have always been chipping away at long-established proven medical practices, but thanks to the pandemic and the nefarious campaign peddling untruths about vaccines and/or the actual existence ofCovid-19itself, many more people have now joined this self-harming movement.Tragically, in the next few years, we shall probably see the return of an epidemic (pick one from above) possibly not experienced since before the Second World War, and the deaths or disablement of a number of children.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013093053363263607,
+                    "sentence": "Hopefully, it will not need a disastrous return of these almost eradicated diseases to banish such nonsense, but I fear it just may!Robert BostonKent",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.020796750353547094,
+            "class_probabilities": {
+                "human": 0.9792032496464529,
+                "ai": 0.020796750353547094,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9792032496464529,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020796750353547094,
+                    "human": 0.9792032496464529,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukOn a morning buoyed by the excellent political news of the results of theTiverton and Honitonand Wakefield by-elections, the best news of all is that, wholly predictably,Boris Johnson is intent on “carrying on”.Another two years of the unique mix of cluelessness, viciousness and stupidity that I believe characterises Johnson and his cabinet should be enough to ensure that the Conservative Party, like its former Ukip bedfellow, is never again taken seriously as a possible party of government by anyone who doesn’t inhabit the right-wing lunatic fringe.Sometime in the future, when the pain and disgust have faded, and it becomes possible to focus on the absurdities rather than the viciousnesses of Johnson’s time in Downing Street, some enterprising film producer might want to resurrect the Carry Onfilm series with Carry On Johnson.D Maughan BrownYorkMedia-savvy MickI readCathy Newman’s columnconcerningMick Lynch, the general secretary of the RMT, andI too find him compellingviewing. Because he states his claims and assertions in a straightforward, pragmatic manner, even the ubiquitous union phrase “this is completely unacceptable to my members” emerges from his mouth with fresh impetus and momentum.I too watched her interview with him and smiled at his witty riposte about working in the Seventies. It is definitely the deadpan delivery and the sardonic raising of the eyebrows, when he is confronted with a particular statement he doesn’t like or agree with.She is right to say that he is the actual deal with his impoverished background and has cut through with the public, which would be the stuff of political dreams for others.Whether this will carry on when morerail strikesoccur remains to be seen, but the electorate now appreciate that this is not a level playing field in terms of wages and conditions for many public sector and frontline workers who played vital roles in the pandemic and are now basically being told to go away, put up and shut up.For this reason, I am enjoying watching Mick Lynch’s appearances and his proactive fervour on behalf of his members.Judith A DanielsNorfolkAbsence of wisdomFurvah Shah says that as a young person of colourshe deplores the way in which Brexit has increased intolerance.  As an elderly white male, I am in full agreement with her.During the Brexit debate, Johnson and Farage gave Britain’s lurking xenophobes a green light, and the consequences are and will be dire.The young of this island will have to live and deal with the consequences of the profound lack of wisdom displayed by their elders. A long struggle for decency and justice awaits them.Francis BeswickStretfordBritain’s state pensionIt was good to see at last someone, Mary Dejevsky,putting the facts around the state pension in context.  For many older people, this is their only income, and as she explains, it is shamefully one of the lowest in the developed world.Rather than further penalise this group, if people are so concerned about wealthy pensioners getting index-linked increases, maybe something should be done about the indexing of so many state sector pensions?G ForwardStirlingDisease and denialFriday’s editorial was grim reading indeed: the tidal wave of chaos engulfing this country was adroitly itemised and already many of these reversals are proving only too tangible for the average person.However, I must mention one other potentially devastating problem which was not mentioned: the return of preventable infectious childhood diseases.A major concern over poliohas already been flagged up and it won’t be long until others start to raise their ugly heads, such as pertussis [whooping cough], diphtheria, and measles.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereAnti-vaxxers have always been chipping away at long-established proven medical practices, but thanks to the pandemic and the nefarious campaign peddling untruths about vaccines and/or the actual existence ofCovid-19itself, many more people have now joined this self-harming movement.Tragically, in the next few years, we shall probably see the return of an epidemic (pick one from above) possibly not experienced since before the Second World War, and the deaths or disablement of a number of children. Hopefully, it will not need a disastrous return of these almost eradicated diseases to banish such nonsense, but I fear it just may!Robert BostonKent"
+        }
+    ]
+}

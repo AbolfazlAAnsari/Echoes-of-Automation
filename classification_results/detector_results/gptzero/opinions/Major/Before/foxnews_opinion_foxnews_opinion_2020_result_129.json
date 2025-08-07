@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.001658704481087625,
+                    "sentence": "If theDemocratic National Conventionfelt different this year, it wasn't just due to the absence of bedazzled activists, confetti, and balloons.As a Democratic political consultant I have attended multiple nationalconventions, and I can tell you that like all party conventions -- they are insider affairs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017630866495892406,
+                    "sentence": "They are to pros and party faithful what Bowl Games are to college football fans, Derbys are to Kentuckians and state fairs are to Iowans.This year I knew I wouldn't be lunching withSen.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015291291056200862,
+                    "sentence": "Cory Booker, D-N.J., or watching House Speaker Nancy Pelosi, D-Calif. power hug a colleague backstage.Thisonewas different.WASHINGTON POST'S JENNIFER RUBIN CLAIMS SHE CRIED '15, 20' TIMES WHILE WATCHING DEM CONVENTIONGone was the opportunity to see politicians, journalists and celebrity strategists collide in a traditional display of message, moments and mayhem.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013101176591590047,
+                    "sentence": "Gone were the crowds, and the traditional energy.The notion that a convention should exclude Republicans was gone too.This year the DNC aimed not only to unify and ignite the Democratic base, but to reach out, like never before, to those outside the tent.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001380168367177248,
+                    "sentence": "Some may argue that conventions always do this but I've never seen it like this.Political polarization has made swing voters an endangered species.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007337415008805692,
+                    "sentence": "However, some traditionally conservative voters - white women - and married white women in particular - remain a swing group in the 2020 election.From the choice of speakers to the stories they told, this convention was an invitation to conservative women to cross the party Rubicon and vote for a Democratic candidate for president.Democrats rolled out the red carpet under the big blue tent complete with a parade of Republicans endorsing Joe Biden.Republican women, from CEO Meg Whitman to public servants like former New Jersey Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010586928110569715,
+                    "sentence": "Christine Todd Whitman and New York Rep. Susan Molinari, called for their fellow conservatives to put America first -- and support a Democrat for president.Cindy McCain, the widow of Arizona Republican Sen. John McCain, spoke movingly of her husband's decades-long friendship with Democratic presidential nominee Joe Biden, and of the bipartisan friendship that he and McCain forged in the Senate.If the message from Republican women at the 2020 Democratic convention was to put “country over party” -- the message delivered by conservative men was that in this time of crisis it is fundamentally American to unite amid our differences.Former Ohio Republican Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016895560547709465,
+                    "sentence": "John Kasich said as much during his appearance at the DNC.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.916088700061664e-05,
+                    "sentence": "He said Republicans could trust Biden to bridge the historic partisan divide and bring Americans together in common purpose.Conservative men from across the country talked about why they had shifted their support from President Donald Trump to Biden.They looked like the husbands and brothers of the women Democrats are hoping to persuade and their voices and presence carried the unequivocal message: “it's OK to be conservative and vote for Joe.”Former first lady Michelle Obama invoked Lincoln as she appealed to Americans to summon our “better angels.” She spoke about hating politics and loving her country  and called on our empathy and character to help Biden rebuild it.It was a speech tailor-made for conservative women.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010151217429665849,
+                    "sentence": "Just like the women who approach me after speaking engagements, telling me they are considering voting for a Democrat for the first time.These women's policy views are different than mine, but their fundamental values and love of country are the same.In every video montage and speech, the courage of women took center stage -- from the story of Democratic vice presidential nominee Kamala Harris' mother raising two daughters while doing cancer research to former second lady Jill Biden helping to  raise two young children devastated by the loss of their own mother.It will take courage for conservative women to vote in opposition to not only their party, but very likely their husbands, their pastors and their families.Biden, in his powerful acceptance speech on Thursday night perhaps said it best when he said that “the job of a president is to represent all of us, not just our base or our party.”He said that while he will be a “Democratic candidate,” he will be an “American president.”",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.00982192507144982,
+            "class_probabilities": {
+                "human": 0.9901780749285501,
+                "ai": 0.00982192507144982,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9901780749285501,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.00982192507144982,
+                    "human": 0.9901780749285501,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       If theDemocratic National Conventionfelt different this year, it wasn’t just due to the absence of bedazzled activists, confetti, and balloons.As a Democratic political consultant I have attended multiple nationalconventions, and I can tell you that like all party conventions -- they are insider affairs. They are to pros and party faithful what Bowl Games are to college football fans, Derbys are to Kentuckians and state fairs are to Iowans.This year I knew I wouldn’t be lunching withSen. Cory Booker, D-N.J., or watching House Speaker Nancy Pelosi, D-Calif. power hug a colleague backstage.Thisonewas different.WASHINGTON POST'S JENNIFER RUBIN CLAIMS SHE CRIED '15, 20' TIMES WHILE WATCHING DEM CONVENTIONGone was the opportunity to see politicians, journalists and celebrity strategists collide in a traditional display of message, moments and mayhem. Gone were the crowds, and the traditional energy.The notion that a convention should exclude Republicans was gone too.This year the DNC aimed not only to unify and ignite the Democratic base, but to reach out, like never before, to those outside the tent. Some may argue that conventions always do this but I’ve never seen it like this.Political polarization has made swing voters an endangered species. However, some traditionally conservative voters - white women - and married white women in particular - remain a swing group in the 2020 election.From the choice of speakers to the stories they told, this convention was an invitation to conservative women to cross the party Rubicon and vote for a Democratic candidate for president.Democrats rolled out the red carpet under the big blue tent complete with a parade of Republicans endorsing Joe Biden.Republican women, from CEO Meg Whitman to public servants like former New Jersey Gov. Christine Todd Whitman and New York Rep. Susan Molinari, called for their fellow conservatives to put America first -- and support a Democrat for president.Cindy McCain, the widow of Arizona Republican Sen. John McCain, spoke movingly of her husband’s decades-long friendship with Democratic presidential nominee Joe Biden, and of the bipartisan friendship that he and McCain forged in the Senate.If the message from Republican women at the 2020 Democratic convention was to put “country over party” -- the message delivered by conservative men was that in this time of crisis it is fundamentally American to unite amid our differences.Former Ohio Republican Gov. John Kasich said as much during his appearance at the DNC. He said Republicans could trust Biden to bridge the historic partisan divide and bring Americans together in common purpose.Conservative men from across the country talked about why they had shifted their support from President Donald Trump to Biden.They looked like the husbands and brothers of the women Democrats are hoping to persuade and their voices and presence carried the unequivocal message: “it’s OK to be conservative and vote for Joe.”Former first lady Michelle Obama invoked Lincoln as she appealed to Americans to summon our “better angels.” She spoke about hating politics and loving her country  and called on our empathy and character to help Biden rebuild it.It was a speech tailor-made for conservative women. Just like the women who approach me after speaking engagements, telling me they are considering voting for a Democrat for the first time.These women’s policy views are different than mine, but their fundamental values and love of country are the same.In every video montage and speech, the courage of women took center stage -- from the story of Democratic vice presidential nominee Kamala Harris’ mother raising two daughters while doing cancer research to former second lady Jill Biden helping to  raise two young children devastated by the loss of their own mother.It will take courage for conservative women to vote in opposition to not only their party, but very likely their husbands, their pastors and their families.Biden, in his powerful acceptance speech on Thursday night perhaps said it best when he said that “the job of a president is to represent all of us, not just our base or our party.”He said that while he will be a “Democratic candidate,” he will be an “American president.”   "
+        }
+    ]
+}

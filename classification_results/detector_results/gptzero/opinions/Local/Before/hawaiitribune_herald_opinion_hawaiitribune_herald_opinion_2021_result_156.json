@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00012995566066820174,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°In 1971, when then-President Richard Nixon signed the National Cancer Act and launched the “war on cancer,” taxpayer dollars were poured into the search for a cure for a disease that was, at the time, the second-leading cause of death in the U.S.In 1971, when then-President Richard Nixon signed the National Cancer Act and launched the “war on cancer,” taxpayer dollars were poured into the search for a cure for a disease that was, at the time, the second-leading cause of death in the U.S.Today, 50 years and approximately $140 billion dollars later, cancer is still the second-leading cause of death in the U.S.How could five decades of nearly unwavering focus from the purportedly sharpest scientific minds in the world fail so spectacularly?The answer lies in the terminally flawed animal experimentation model, upon which an alarming amount of cancer research is based.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.511922012781724e-05,
+                    "sentence": "The fundamental biological differences between humans and other animals lead, unsurprisingly, to different results.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.946436769794673e-05,
+                    "sentence": "Other animals, quite simply, are a poor experimental model for humans.No matter what type of experiment it is, how intricately it is designed or how much it costs, experimenters have been unable to surmount the biological, immunological and genetic differences between species.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.782464333809912e-05,
+                    "sentence": "This has even led a former director of the National Cancer Institute (NCI) ᅳ the agency leading the war on cancer ᅳ to wave a white flag.“The history of cancer research has been a history of curing cancer in the mouse,” former NCI director Dr. Richard Klausner said.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.199148240033537e-05,
+                    "sentence": "“We have cured mice of cancer for decades ᅳ and it simply didn't work in humans.”This is what 50 years of animal experimentation has achieved:· Officials estimate that cancer killed 598,932 Americans in 2020.· About 39% of people in the U.S. can expect a cancer diagnosis at some point during their lives, and despite significant investment in research for cancer therapies, only 67.7% of them will survive for longer than five years after that diagnosis.· Cancer drugs developed through animal experimentation fail to get approved 96.6% of the time.The most significant battles being won in the war on cancer do not come from grafting tumors onto mice.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07777552306652069,
+                    "sentence": "They come from quitting smoking, ditching red and processed meat in favor of a vegan diet, and having regular check-ups to screen for indicators before symptoms present.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.08104924857616425,
+                    "sentence": "These personal preventive measures have brought cancer rates down 27% over the past two decades.Yet in 2019, almost 70% of the NCI's budget was dedicated not to prevention but to experiments involving such practices as genetically engineering irradiated mice.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.044701360166072845,
+                    "sentence": "In fact, the percentage of NCI funds invested in cancer prevention and control has changed little over the past several years.To wage a successful war on cancer, we must increase resources for cancer prevention, eliminate animal experimentation and invest in cutting-edge, human-relevant tools that have far greater potential for generating treatments and cures in humans.Tools such as in vitro experiments, human-relevant computational models, human-based tissue engineering, cancer organoids and epidemiology studies are much more relevant and reliable than animal experiments and hold the promise of actually winning the war on cancer.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04937009513378143,
+                    "sentence": "To learn more and take action, readers can visit PETA.org/Cancer.Dr.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05049306899309158,
+                    "sentence": "Emily R. Trunnell is a senior scientist with PETA's Laboratory Investigations Department, 501 Front St., Norfolk, VA 23510; www.PETA.org.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.025047363853838715,
+            "class_probabilities": {
+                "human": 0.9749114577339202,
+                "ai": 0.025047363853838715,
+                "mixed": 4.1178412241002176e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9749114577339202,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.025047363853838715,
+                    "human": 0.9749114577339202,
+                    "mixed": 4.1178412241002176e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°In 1971, when then-President Richard Nixon signed the National Cancer Act and launched the “war on cancer,” taxpayer dollars were poured into the search for a cure for a disease that was, at the time, the second-leading cause of death in the U.S.In 1971, when then-President Richard Nixon signed the National Cancer Act and launched the “war on cancer,” taxpayer dollars were poured into the search for a cure for a disease that was, at the time, the second-leading cause of death in the U.S.Today, 50 years and approximately $140 billion dollars later, cancer is still the second-leading cause of death in the U.S.How could five decades of nearly unwavering focus from the purportedly sharpest scientific minds in the world fail so spectacularly?The answer lies in the terminally flawed animal experimentation model, upon which an alarming amount of cancer research is based. The fundamental biological differences between humans and other animals lead, unsurprisingly, to different results. Other animals, quite simply, are a poor experimental model for humans.No matter what type of experiment it is, how intricately it is designed or how much it costs, experimenters have been unable to surmount the biological, immunological and genetic differences between species. This has even led a former director of the National Cancer Institute (NCI) — the agency leading the war on cancer — to wave a white flag.“The history of cancer research has been a history of curing cancer in the mouse,” former NCI director Dr. Richard Klausner said. “We have cured mice of cancer for decades — and it simply didn’t work in humans.”This is what 50 years of animal experimentation has achieved:• Officials estimate that cancer killed 598,932 Americans in 2020.• About 39% of people in the U.S. can expect a cancer diagnosis at some point during their lives, and despite significant investment in research for cancer therapies, only 67.7% of them will survive for longer than five years after that diagnosis.• Cancer drugs developed through animal experimentation fail to get approved 96.6% of the time.The most significant battles being won in the war on cancer do not come from grafting tumors onto mice. They come from quitting smoking, ditching red and processed meat in favor of a vegan diet, and having regular check-ups to screen for indicators before symptoms present. These personal preventive measures have brought cancer rates down 27% over the past two decades.Yet in 2019, almost 70% of the NCI’s budget was dedicated not to prevention but to experiments involving such practices as genetically engineering irradiated mice. In fact, the percentage of NCI funds invested in cancer prevention and control has changed little over the past several years.To wage a successful war on cancer, we must increase resources for cancer prevention, eliminate animal experimentation and invest in cutting-edge, human-relevant tools that have far greater potential for generating treatments and cures in humans.Tools such as in vitro experiments, human-relevant computational models, human-based tissue engineering, cancer organoids and epidemiology studies are much more relevant and reliable than animal experiments and hold the promise of actually winning the war on cancer. To learn more and take action, readers can visit PETA.org/Cancer.Dr. Emily R. Trunnell is a senior scientist with PETA’s Laboratory Investigations Department, 501 Front St., Norfolk, VA 23510; www.PETA.org."
+        }
+    ]
+}

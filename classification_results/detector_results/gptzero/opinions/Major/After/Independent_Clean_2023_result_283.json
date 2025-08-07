@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 1.734029319777619e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.5403966244775802e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukAfter the kerfuffle surrounding the “Liz Trussevent” at theToryconference I now read she's instigated her own “Growth Commission” which is purportedly going to challenge conventional economic thinking.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.1492478733998723e-05,
+                    "sentence": "While I'm convinced (like countless others) that she's slipped the leash and gone “rogue”, I fear this ridiculous circus does nothing more than feed the notion that the Tories are disassembling into an amorphous bunch of “special interest” groups who have read the writing on the wall and are girding up their loins in preparation for a leadership fight when in opposition.Out here in her constituency many of us remain increasingly baffled by what's going on inside that lady's head or indeed what she's doing for us as our MP.Clearly she's behaving as though the almost comedic ineptitude of those 40-plus days last autumn never actually happened.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.1196018931514118e-05,
+                    "sentence": "While we've all tried to shove unpalatable truths to the back of our minds as an act of self-preservation, Liz seems consummately able to blank it out in the face of a room full of acolytes, chortling journalists and onlookers gagging to watch another of her car-crash speeches.From a constituency perspective, the other thing this woman has clearly blanked from her mind is her role as the MP for South West Norfolk, for which she is paid handsomely but frankly seems to see us merely as a meek and convenient pair of shoulders to stand on.Conspicuous by her absence in the locality, we cringe as “our MP” embarrassingly reveals she's lost the plot - and by association, I fear the nation assumes we've “lost the plot” too by voting for her.Steve MackinderNorfolkWho cares what Liz Truss thinks?Who in the world now cares whatMs Truss believes inany more?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.6587324353167787e-05,
+                    "sentence": "After trashing the finances of Britain by making a laughing stock of our politics and government, she ought to keep her head down.We are still reeling from the fiasco of her 49-day tenure of No 10.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.5387659004773013e-05,
+                    "sentence": "She, along with her yes-man Mr Kwarteng, caused an already fragile economy to fail the people completely.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000663383980281651,
+                    "sentence": "It will take until well into Labour's time in office, after the next election, to regain any semblance of economic order.Why she thinks she has any useful, valid input to financial governance is beyond belief and, of course, she ought to be ignored.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006400412530638278,
+                    "sentence": "Hopefully Ms Truss will be rejected by her constituency or, better still, by the Tory party.However, Ms Truss is an asset to Labour's push for election to government as people will not forgive her for the chaos she caused through unfounded and irresponsible economic governance.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006022689631208777,
+                    "sentence": "She surely cannot be electable with such irresponsible behaviour on her CV.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001148439827375114,
+                    "sentence": "To save her party or constituents the embarrassment of deselecting her, Ms Truss ought to do the right thing and leave politics altogether.Keith PooleBasingstokePoetry is a balm for the soulI enjoyed readingFrieda Hughes's recent poem,and yes, last weekend I was sitting in a garden in Kent in very warm sunshine, lapping up probably the last warm rays of summer.She was so right to ride off into the benign Welsh sun and observe so well all the minutiae around her.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010971699375659227,
+                    "sentence": "I liked her day-to-day descriptions of people, for a short time, relinquishing their mundane obligations, and just discarding sweaters and the all-consuming angst of modern-day living.But now a cold wind reinserts itself and we are back to business as normal, and listen and watch fretfully the latest news, where the sun may be shining but men, women and children are on the move again to heaven knows where and indeed for how long?Judith A DanielsNorfolk",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.020660391318316405,
+            "class_probabilities": {
+                "human": 0.9793396086816837,
+                "ai": 0.020660391318316405,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9793396086816837,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020660391318316405,
+                    "human": 0.9793396086816837,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukAfter the kerfuffle surrounding the “Liz Trussevent” at theToryconference I now read she’s instigated her own “Growth Commission” which is purportedly going to challenge conventional economic thinking. While I’m convinced (like countless others) that she’s slipped the leash and gone “rogue”, I fear this ridiculous circus does nothing more than feed the notion that the Tories are disassembling into an amorphous bunch of “special interest” groups who have read the writing on the wall and are girding up their loins in preparation for a leadership fight when in opposition.Out here in her constituency many of us remain increasingly baffled by what’s going on inside that lady’s head or indeed what she’s doing for us as our MP.Clearly she’s behaving as though the almost comedic ineptitude of those 40-plus days last autumn never actually happened. While we’ve all tried to shove unpalatable truths to the back of our minds as an act of self-preservation, Liz seems consummately able to blank it out in the face of a room full of acolytes, chortling journalists and onlookers gagging to watch another of her car-crash speeches.From a constituency perspective, the other thing this woman has clearly blanked from her mind is her role as the MP for South West Norfolk, for which she is paid handsomely but frankly seems to see us merely as a meek and convenient pair of shoulders to stand on.Conspicuous by her absence in the locality, we cringe as “our MP” embarrassingly reveals she’s lost the plot – and by association, I fear the nation assumes we’ve “lost the plot” too by voting for her.Steve MackinderNorfolkWho cares what Liz Truss thinks?Who in the world now cares whatMs Truss believes inany more? After trashing the finances of Britain by making a laughing stock of our politics and government, she ought to keep her head down.We are still reeling from the fiasco of her 49-day tenure of No 10. She, along with her yes-man Mr Kwarteng, caused an already fragile economy to fail the people completely. It will take until well into Labour’s time in office, after the next election, to regain any semblance of economic order.Why she thinks she has any useful, valid input to financial governance is beyond belief and, of course, she ought to be ignored. Hopefully Ms Truss will be rejected by her constituency or, better still, by the Tory party.However, Ms Truss is an asset to Labour’s push for election to government as people will not forgive her for the chaos she caused through unfounded and irresponsible economic governance. She surely cannot be electable with such irresponsible behaviour on her CV. To save her party or constituents the embarrassment of deselecting her, Ms Truss ought to do the right thing and leave politics altogether.Keith PooleBasingstokePoetry is a balm for the soulI enjoyed readingFrieda Hughes’s recent poem,and yes, last weekend I was sitting in a garden in Kent in very warm sunshine, lapping up probably the last warm rays of summer.She was so right to ride off into the benign Welsh sun and observe so well all the minutiae around her. I liked her day-to-day descriptions of people, for a short time, relinquishing their mundane obligations, and just discarding sweaters and the all-consuming angst of modern-day living.But now a cold wind reinserts itself and we are back to business as normal, and listen and watch fretfully the latest news, where the sun may be shining but men, women and children are on the move again to heaven knows where and indeed for how long?Judith A DanielsNorfolk"
+        }
+    ]
+}

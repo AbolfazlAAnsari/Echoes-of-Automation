@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0005582565790973604,
+                    "sentence": "Send your letters toletters@independent.co.ukI can see why a civil servant, when looking to focus on parts of a town for enhanced lockdown restrictions, would look at wards.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000534411461558193,
+                    "sentence": "After all, wards make neat divisions.However, the flaw in this approach is that the majority of people do not know what ward they live in because the majority of people do not participate in local elections.I suggest identifying an area by geographical features, or simply list streets.John Harrison Chorley, LancashireNational TrustThe National Trust wants to reduce journey times for visitors to its properties.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006015552207827568,
+                    "sentence": "For most people the bulk of the distance travelled to visit properties, other than those few close to one's home, involves the journey from home to the region of the country one is visiting on holiday or during a short break away from home.How on earth does the National Trust think it can reduce those journey lengths?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006728856824338436,
+                    "sentence": "Or is the National Trust going to deny people who do not live within a particular radius of the post code of each property?J Longstaff Buxted, East SussexTesting mattersAdam Forrestreportsthat the Independent Sage group has called for all students to have regular testing for Covid-19.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005363955860957503,
+                    "sentence": "Why not test the whole population on a regular basis?This would pre-empt further expensive large-scale lockdowns and reassure most of the population that it was safe to go about our normal lives - and so enable a wider reopening of the economy, increasing productivity and so offsetting the costs of testing.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00037587113911285996,
+                    "sentence": "It would also enable tourists coming into the country or returning from holiday to be told if they had to quarantine or not.But are the tests reliable enough to do this?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00042683508945629,
+                    "sentence": "And, if not, why are we testing at all?Peter Cole Alnwick, NorthumberlandBrexit BluesEven government ministers who were most committed to Brexit must now be realising that leaving the EU was not such a good idea.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010908429976552725,
+                    "sentence": "Their problem is that having misled the British people for so long they can't be seen to change their minds - so they stagger on.Roger Hinds Surrey",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.015281828032010496,
+            "class_probabilities": {
+                "human": 0.9847181719679895,
+                "ai": 0.015281828032010496,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9847181719679895,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.015281828032010496,
+                    "human": 0.9847181719679895,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Send your letters toletters@independent.co.ukI can see why a civil servant, when looking to focus on parts of a town for enhanced lockdown restrictions, would look at wards. After all, wards make neat divisions.However, the flaw in this approach is that the majority of people do not know what ward they live in because the majority of people do not participate in local elections.I suggest identifying an area by geographical features, or simply list streets.John Harrison                                           Chorley, LancashireNational TrustThe National Trust wants to reduce journey times for visitors to its properties. For most people the bulk of the distance travelled to visit properties, other than those few close to one's home, involves the journey from home to the region of the country one is visiting on holiday or during a short break away from home.How on earth does the National Trust think it can reduce those journey lengths? Or is the National Trust going to deny people who do not live within a particular radius of the post code of each property?J Longstaff                                          Buxted, East SussexTesting mattersAdam Forrestreportsthat the Independent Sage group has called for all students to have regular testing for Covid-19. Why not test the whole population on a regular basis?This would pre-empt further expensive large-scale lockdowns and reassure most of the population that it was safe to go about our normal lives - and so enable a wider reopening of the economy, increasing productivity and so offsetting the costs of testing. It would also enable tourists coming into the country or returning from holiday to be told if they had to quarantine or not.But are the tests reliable enough to do this? And, if not, why are we testing at all?Peter Cole                                           Alnwick, NorthumberlandBrexit BluesEven government ministers who were most committed to Brexit must now be realising that leaving the EU was not such a good idea. Their problem is that having misled the British people for so long they can't be seen to change their minds - so they stagger on.Roger Hinds                                          Surrey"
+        }
+    ]
+}

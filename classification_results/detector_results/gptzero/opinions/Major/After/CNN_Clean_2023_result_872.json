@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.000153956440044567,
+                    "sentence": "(CNN) &#8212; Up to 150hostagesare being held in Gaza, according to Israeli officials.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022645629360340536,
+                    "sentence": "Meanwhile, 17Americansare missing, andHamasmay be holding an unknown number of them, according to the White House.Hamashas threatened to execute hostages and broadcast video of the execution if Israel strikes targets in Gaza without warning.The approach with the likely lowest risk to the hostages is a negotiated release.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00020826271793339401,
+                    "sentence": "Few governments have much leverage with Hamas, butQatardoes, as it has provided hundreds of millions of dollars to poor Gazan families in recent years.Qatar also has a track record of brokering such releases; for instance, last month,Qatari officialshelped to secure the release of five American prisoners held by Iran, which included $6 billion ofIranian oil revenuesbeing unfrozen and sent to a Qatari bank to be used for humanitarian purposes in Iran.Already,Qatari officialsare in communication withHamasabout what deal could be made to release the hostages they are holding.If there were to be some prisoner exchange, Hamas in the past has driven a hard bargain, exchanging Israeli soldierGilad Shalitin 2011 for more than 1,000 Palestinian prisoners held by Israel.There are options otherthan negotiated releases.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014331567217595875,
+                    "sentence": "There are rescue operations, typically by special operations forces.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002446083235554397,
+                    "sentence": "But those are predicated on knowing exactly where the hostages are located.US special operations forcesare offering their expertise and support to Israel, but are not part of a ground mission to rescue hostages.So far, there is no indication about where the hostages are being held, and Gaza is laced withunderground tunnelsthat Hamas controls, making it hard to locate hostages should they be secreted in these tunnels.WhenISISkidnapped American journalists and aid workers beginning in 2012, the US launched a rescue operation in 2014 based on indications that they were being held in a particular location in Syria, but the hostages had beenmovedby the time the operation happened.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00033015268854796886,
+                    "sentence": "ISIS subsequently murdered theAmericans.Rescues can also be dangerous for the hostages, even when the most skilled special operations forces are deployed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005035079084336758,
+                    "sentence": "In 2010, theTalibankidnapped British aid workerLinda Norgrove, and US Navy SEAL Team Six launched a rescue operation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.058352742344141006,
+                    "sentence": "Subsequent investigations revealed that Norgrove was killed by a fragmentation grenade thrown by a SEAL team member during the operation.Hostage-takers can also kill their prisoner during rescue operations.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.017244020476937294,
+                    "sentence": "In 2014, during a SEAL Team Six rescue operation in Yemen, American journalistLuke Somerswas killed by his al Qaeda captors.A 2017 study that I co-authored for New America, a research institution, found that in the previous decade and a half, in 42 cases of Western hostages being taken by terrorist groups in which a rescue attempt operation was made, it was fatal to thehostages20% of the time.In short, a negotiated release of thehostages, mediated perhaps by the Qataris, is the lowest-risk approach to freeing them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010855570435523987,
+                    "sentence": "If Hamas could release the children and elderly hostages the group appears to be holding, that would be a good start.The promise of this approach was shown on Friday when, as a result of negotiations between Hamas and Qatar, Hamasreleased two US citizens, a mother and her daughter.Opinion by Peter BergenTM & © 2023 Cable News Network, Inc., a Time Warner Company.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.015691114589571953,
+                    "sentence": "All rights reserved.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.022115309848016095,
+            "class_probabilities": {
+                "human": 0.9775963346799376,
+                "ai": 0.022115309848016095,
+                "mixed": 0.0002883554720463312
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9775963346799376,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.022115309848016095,
+                    "human": 0.9775963346799376,
+                    "mixed": 0.0002883554720463312
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "(CNN) &#8212; Up to 150hostagesare being held in Gaza, according to Israeli officials. Meanwhile, 17Americansare missing, andHamasmay be holding an unknown number of them, according to the White House.Hamashas threatened to execute hostages and broadcast video of the execution if Israel strikes targets in Gaza without warning.The approach with the likely lowest risk to the hostages is a negotiated release. Few governments have much leverage with Hamas, butQatardoes, as it has provided hundreds of millions of dollars to poor Gazan families in recent years.Qatar also has a track record of brokering such releases; for instance, last month,Qatari officialshelped to secure the release of five American prisoners held by Iran, which included $6 billion ofIranian oil revenuesbeing unfrozen and sent to a Qatari bank to be used for humanitarian purposes in Iran.Already,Qatari officialsare in communication withHamasabout what deal could be made to release the hostages they are holding.If there were to be some prisoner exchange, Hamas in the past has driven a hard bargain, exchanging Israeli soldierGilad Shalitin 2011 for more than 1,000 Palestinian prisoners held by Israel.There are options otherthan negotiated releases. There are rescue operations, typically by special operations forces. But those are predicated on knowing exactly where the hostages are located.US special operations forcesare offering their expertise and support to Israel, but are not part of a ground mission to rescue hostages.So far, there is no indication about where the hostages are being held, and Gaza is laced withunderground tunnelsthat Hamas controls, making it hard to locate hostages should they be secreted in these tunnels.WhenISISkidnapped American journalists and aid workers beginning in 2012, the US launched a rescue operation in 2014 based on indications that they were being held in a particular location in Syria, but the hostages had beenmovedby the time the operation happened. ISIS subsequently murdered theAmericans.Rescues can also be dangerous for the hostages, even when the most skilled special operations forces are deployed. In 2010, theTalibankidnapped British aid workerLinda Norgrove, and US Navy SEAL Team Six launched a rescue operation. Subsequent investigations revealed that Norgrove was killed by a fragmentation grenade thrown by a SEAL team member during the operation.Hostage-takers can also kill their prisoner during rescue operations. In 2014, during a SEAL Team Six rescue operation in Yemen, American journalistLuke Somerswas killed by his al Qaeda captors.A 2017 study that I co-authored for New America, a research institution, found that in the previous decade and a half, in 42 cases of Western hostages being taken by terrorist groups in which a rescue attempt operation was made, it was fatal to thehostages20% of the time.In short, a negotiated release of thehostages, mediated perhaps by the Qataris, is the lowest-risk approach to freeing them. If Hamas could release the children and elderly hostages the group appears to be holding, that would be a good start.The promise of this approach was shown on Friday when, as a result of negotiations between Hamas and Qatar, Hamasreleased two US citizens, a mother and her daughter.Opinion by Peter BergenTM & © 2023 Cable News Network, Inc., a Time Warner Company. All rights reserved."
+        }
+    ]
+}

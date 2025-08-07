@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00036511270445771515,
+                    "sentence": "Times Opinion is publishing a special series on George Floyd and America, a year after his death.This article originally appeared in the Opinion Today newsletter.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003644065000116825,
+                    "sentence": "You cansign up hereto receive it in your inbox each weekday morning.One year ago America was a society struggling with Covid-19: the deaths of loved ones, closed schools, lost jobs and lonelier lives.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005245853681117296,
+                    "sentence": "Then suddenly we were something else: We were a society watching Darnella Frazier's video of a Black American being suffocated under the knee of a white American, a police officer.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003572631976567209,
+                    "sentence": "Our eyes were fixed; our memories seared.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00031080120243132114,
+                    "sentence": "We were a society called to reckon with the murder ofGeorge Floyd.As we approached the firstanniversary of Floyd's death, this coming Tuesday, The Times's Opinion staff began discussing ways of grappling with the long shadow of Floyd and the acceleration of the racial justice movement ᅳ as well as what comes next.We asked the Rev.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00038662011502310634,
+                    "sentence": "William Barber II, the president of Repairers of the Breach,to reflect on our recent history; this morning we published his and Jonathan Wilson-Hartgrove's vision of a Third Reconstruction driven by the generation of Trayvon Martin, Breonna Taylor, Floyd and others.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005134560633450747,
+                    "sentence": "The Yale historian Elizabeth Hintonexplored how Americanshave been living in a nation created in part by the extreme violence of the 1960s, and asked whether we will ever get beyond it.David W. McIvor, the author of “Mourning in America: Race and the Politics of Loss,” argued thatit's still possible to build on the momentof shared grief over Floyd's death, in order to see a way toward a more democratic and just coexistence.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01694163866341114,
+                    "sentence": "And young Americans also wrote to usabout what changedᅳ and didn't change ᅳ from their perspective over the last year.We'll continue this reflection through the weekend.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.014025608077645302,
+                    "sentence": "We'll publish our colleague Talmon Joseph Smith's essay answering the question, “Who was the racial reckoning really for?” The mayor of Richmond, Va., will also reflect ona turbulent and at times transformative year,and we'll look at how public opinion changed ᅳ and changed again ᅳ as the Black Lives Matter movement intensified.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.017073705792427063,
+                    "sentence": "Andwe invite you to listen in ona focus group of Trump voters sharing their own candid views about race, Floyd and the future at a time when Americans are both divided and interdependent, when many people listen only to like-minded opinions, and when systemic racism is an urgent issue for the entire society.All of these articles and more will also run in a special Sunday Review print section dedicated to exploring America, one year on from George Floyd's death.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.019595377147197723,
+                    "sentence": "We hope you'll take some time to read them.Patrick Healy is the deputy Opinion editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03223026916384697,
+                    "sentence": "He joined the Times in 2005 from The Boston Globe, and has served as the Politics editor, a deputy editor in Culture, and a reporter covering two presidential campaigns, theater and New York politics.PHOTO: (PHOTOGRAPH BY José A. Alvarado Jr./Redux FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.037526171686261885,
+            "class_probabilities": {
+                "human": 0.9624738283137382,
+                "ai": 0.037526171686261885,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9624738283137382,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.037526171686261885,
+                    "human": 0.9624738283137382,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Times Opinion is publishing a special series on George Floyd and America, a year after his death.This article originally appeared in the Opinion Today newsletter. You cansign up hereto receive it in your inbox each weekday morning.One year ago America was a society struggling with Covid-19: the deaths of loved ones, closed schools, lost jobs and lonelier lives. Then suddenly we were something else: We were a society watching Darnella Frazier’s video of a Black American being suffocated under the knee of a white American, a police officer. Our eyes were fixed; our memories seared. We were a society called to reckon with the murder ofGeorge Floyd.As we approached the firstanniversary of Floyd’s death, this coming Tuesday, The Times’s Opinion staff began discussing ways of grappling with the long shadow of Floyd and the acceleration of the racial justice movement — as well as what comes next.We asked the Rev. William Barber II, the president of Repairers of the Breach,to reflect on our recent history; this morning we published his and Jonathan Wilson-Hartgrove’s vision of a Third Reconstruction driven by the generation of Trayvon Martin, Breonna Taylor, Floyd and others. The Yale historian Elizabeth Hintonexplored how Americanshave been living in a nation created in part by the extreme violence of the 1960s, and asked whether we will ever get beyond it.David W. McIvor, the author of “Mourning in America: Race and the Politics of Loss,” argued thatit’s still possible to build on the momentof shared grief over Floyd’s death, in order to see a way toward a more democratic and just coexistence. And young Americans also wrote to usabout what changed— and didn’t change — from their perspective over the last year.We’ll continue this reflection through the weekend. We’ll publish our colleague Talmon Joseph Smith’s essay answering the question, “Who was the racial reckoning really for?” The mayor of Richmond, Va., will also reflect ona turbulent and at times transformative year,and we’ll look at how public opinion changed — and changed again — as the Black Lives Matter movement intensified. Andwe invite you to listen in ona focus group of Trump voters sharing their own candid views about race, Floyd and the future at a time when Americans are both divided and interdependent, when many people listen only to like-minded opinions, and when systemic racism is an urgent issue for the entire society.All of these articles and more will also run in a special Sunday Review print section dedicated to exploring America, one year on from George Floyd’s death. We hope you’ll take some time to read them.Patrick Healy is the deputy Opinion editor. He joined the Times in 2005 from The Boston Globe, and has served as the Politics editor, a deputy editor in Culture, and a reporter covering two presidential campaigns, theater and New York politics.PHOTO:  (PHOTOGRAPH BY José A. Alvarado Jr./Redux FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

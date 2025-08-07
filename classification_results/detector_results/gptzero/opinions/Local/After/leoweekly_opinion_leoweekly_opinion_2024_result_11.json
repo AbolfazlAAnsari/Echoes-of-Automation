@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0002934597432613373,
+                    "sentence": "Trouble with your internet?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00036443560384213924,
+                    "sentence": "You're not alone.Kentuckians and other Americans across the country have been pouring in complaints about their internet for decades, but a recent study fromby Crawford,a website design company, found which states complain about their internet the most.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007133007165975869,
+                    "sentence": "Kentucky is not too far from the top spot.Internet speed can make or break your day, from laggy calls to frozen videos.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006386415334418416,
+                    "sentence": "While many states have caught up with high-speed internet, others are still playing catch up, like Kentucky's neighbor to the east, West Virginia, who ranked first in most complaints about their internet with 262.48 complaints per 100,000 residents.“The internet is essential for many people's daily lives and jobs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00030283472733572125,
+                    "sentence": "Some people even feel lost without it in their free time,” said Sam Crawford, director at byCrawford.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00027431431226432323,
+                    "sentence": "“Given how frustrating it can be to deal with no internet or a poor connection, we wanted to see which states had the most complaints about internet quality… We also discovered that billing complaints and issues with internet availability were the most common type of complaint for all states.”Kentucky ranked 12th, with 118.55 complaints per 100,000 residents in the Commonwealth.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00027425860753282905,
+                    "sentence": "Those numbers come from data analyzed from the Federal Communications Commission (FCC) from 2014 to 2024 to find which states complain about their respective internet speeds and downtimes the most.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003412099904380739,
+                    "sentence": "The study also analyzed complaints regarding availability, billings and internet-based equipment..North Dakota came in last, with only 25.45 complaints per 100,000 residents in the state.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00027496530674397945,
+                    "sentence": "().",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.006608679833334143,
+            "class_probabilities": {
+                "human": 0.9933913201666659,
+                "ai": 0.006608679833334143,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933913201666659,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006608679833334143,
+                    "human": 0.9933913201666659,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Trouble with your internet? You’re not alone.Kentuckians and other Americans across the country have been pouring in complaints about their internet for decades, but a recent study fromby Crawford,a website design company, found which states complain about their internet the most. Kentucky is not too far from the top spot.Internet speed can make or break your day, from laggy calls to frozen videos. While many states have caught up with high-speed internet, others are still playing catch up, like Kentucky’s neighbor to the east, West Virginia, who ranked first in most complaints about their internet with 262.48 complaints per 100,000 residents.“The internet is essential for many people’s daily lives and jobs. Some people even feel lost without it in their free time,” said Sam Crawford, director at byCrawford. “Given how frustrating it can be to deal with no internet or a poor connection, we wanted to see which states had the most complaints about internet quality… We also discovered that billing complaints and issues with internet availability were the most common type of complaint for all states.”Kentucky ranked 12th, with 118.55 complaints per 100,000 residents in the Commonwealth. Those numbers come from data analyzed from the Federal Communications Commission (FCC) from 2014 to 2024 to find which states complain about their respective internet speeds and downtimes the most. The study also analyzed complaints regarding availability, billings and internet-based equipment..North Dakota came in last, with only 25.45 complaints per 100,000 residents in the state. ()."
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0024562024045735598,
+                    "sentence": "The government has endlessly repeated that it has followed the scientific advice when dealing with coronavirus, but the advice you get depends on the question you ask.There has been a strong focus on keeping cases low enough for the NHS to \"cope\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002462848788127303,
+                    "sentence": "This might have been the appropriate target if there was an effective treatment for the virus, but there is not.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0031700418330729008,
+                    "sentence": "Many of the patients who go into intensive care end up dying despite the heroic efforts of doctors and nurses.The aim from the beginning should have been to keep cases at a very low level, not simply low enough.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001485442859120667,
+                    "sentence": "This target would have resulted in different advice and policies, eg beginning the lockdown earlier and continuing contact tracing.Poor policy choices have resulted in many thousands of unnecessary deaths, and simply saying that we have \"followed the science\" is an unjustifiable failure to take responsibility.Andrew Dalton LondonTheheadline\"Almost half of Britons believe virus is 'man-made'\" is highly misleading.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018500154837965965,
+                    "sentence": "The article is about conspiracy theories, which are a serious problem, but to focus on a flawed piece of research, and barely mention its flaw, is not helpful.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002825011732056737,
+                    "sentence": "\"45 per cent said it was 'a man-made creation'\" rolls together those who believe it has been manufactured by some malign group with those who see human hubris and abuse of the natural world as dangerous.John Harrison Address not suppliedLockdown exitThe statistics continue to show new Covid-19 cases in the UK at around 5,000 per day.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002852798206731677,
+                    "sentence": "Given we are now nearly 5 weeks into the lockdown, these new cases (4,913 on 25/4) must have been contracted during the lockdown period.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003807362401857972,
+                    "sentence": "It would be useful for the public to know where these newer cases are being contracted, as this will surely be a key factor in designing lockdown exit strategies.William Sellar NorthamptonshireRob Merricktoldus that \"Dominic Raab was easily bested by Sir Keir Starmer\" in PM's questions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011187371565029025,
+                    "sentence": "I know what he means, but it's such an ugly phrase.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0026385742239654064,
+                    "sentence": "Can we get rid of 'bested'?Kevin Curley Belper, DerbyshireClassic BorisWhen Boris Johnson quotes Cicero saying \"Salus populi suprema lex esto\" (\"Let the safety of the people be the supreme law\"), it's worth remembering that Cicero was trying to justify his unlawful summary execution of the Catiline conspirators.Philip Goldenberg Woking, SurreyWet and wildWhile The Independent's campaign to eradicate wildlife markets is very welcome, it's not helpful that in parts of your coverage every day, they are confused with \"wet markets\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0026175384409725666,
+                    "sentence": "The latter, in which water is sloshed onto dead meat and fish to keep it cool and fresh, may perhaps be viewed as unsanitary by westerners, but they are the normal outlet for these foods in many parts of the world.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0029962770640850067,
+                    "sentence": "Most wet markets do not trade in wild or exotic animals.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005134775303304195,
+                    "sentence": "Wildlife markets and wildlife sections of large wet markets are the risk for transmission of zoonotic diseases.Andy Knott Bath",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.024461651786716186,
+            "class_probabilities": {
+                "human": 0.9754981327244504,
+                "ai": 0.024461651786716186,
+                "mixed": 4.0215488833363626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9754981327244504,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024461651786716186,
+                    "human": 0.9754981327244504,
+                    "mixed": 4.0215488833363626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "The government has endlessly repeated that it has followed the scientific advice when dealing with coronavirus, but the advice you get depends on the question you ask.There has been a strong focus on keeping cases low enough for the NHS to \"cope\". This might have been the appropriate target if there was an effective treatment for the virus, but there is not. Many of the patients who go into intensive care end up dying despite the heroic efforts of doctors and nurses.The aim from the beginning should have been to keep cases at a very low level, not simply low enough. This target would have resulted in different advice and policies, eg beginning the lockdown earlier and continuing contact tracing.Poor policy choices have resulted in many thousands of unnecessary deaths, and simply saying that we have \"followed the science\" is an unjustifiable failure to take responsibility.Andrew Dalton                     LondonTheheadline\"Almost half of Britons believe virus is 'man-made'\" is highly misleading. The article is about conspiracy theories, which are a serious problem, but to focus on a flawed piece of research, and barely mention its flaw, is not helpful.\"45 per cent said it was 'a man-made creation'\" rolls together those who believe it has been manufactured by some malign group with those who see human hubris and abuse of the natural world as dangerous.John Harrison                                          Address not suppliedLockdown exitThe statistics continue to show new Covid-19 cases in the UK at around 5,000 per day. Given we are now nearly 5 weeks into the lockdown, these new cases (4,913 on 25/4) must have been contracted during the lockdown period. It would be useful for the public to know where these newer cases are being contracted, as this will surely be a key factor in designing lockdown exit strategies.William Sellar                                          NorthamptonshireRob Merricktoldus that \"Dominic Raab was easily bested by Sir Keir Starmer\" in PM's questions. I know what he means, but it's such an ugly phrase. Can we get rid of 'bested'?Kevin Curley​                                          Belper, DerbyshireClassic BorisWhen Boris Johnson quotes Cicero saying \"Salus populi suprema lex esto\" (\"Let the safety of the people be the supreme law\"), it's worth remembering that Cicero was trying to justify his unlawful summary execution of the Catiline conspirators.Philip Goldenberg                                          Woking, SurreyWet and wildWhile The Independent's campaign to eradicate wildlife markets is very welcome, it's not helpful that in parts of your coverage every day, they are confused with \"wet markets\". The latter, in which water is sloshed onto dead meat and fish to keep it cool and fresh, may perhaps be viewed as unsanitary by westerners, but they are the normal outlet for these foods in many parts of the world. Most wet markets do not trade in wild or exotic animals. Wildlife markets and wildlife sections of large wet markets are the risk for transmission of zoonotic diseases.Andy Knott                                          Bath"
+        }
+    ]
+}

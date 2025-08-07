@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.061902519315481186,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|78.62°In a narrow vote this week, the Federal Trade Commission approved a rule that will ban the vast majority of noncompete clauses by U.S. employers, which have long prevented workers from switching jobs or setting out on their own.In doing so, the agency did its duty to protect American economic dynamism and opportunity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06626096367835999,
+                    "sentence": "We hope that's the clear conclusion of the courts that will now rule on a lawsuit being brought by the Chamber of Commerce, which has strenuously supported this anticompetitive practice.Of the arguments that the business group and other opponents have rolled out to oppose the banning of noncompetes, the main one relates to trade secrets, which is probably the scenario first contemplated by contractual noncompetes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04434993490576744,
+                    "sentence": "We'll grant that there are certain jobs in typically specialized fields where it is reasonable for an employer to propose a noncompete to protect truly particularized and market-critical knowledge and expertise.The fact that the FTC estimates one in five American workers operates under some form of noncompete shows just how far from that purpose these restrictive agreements have strayed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06690191477537155,
+                    "sentence": "Companies can kick and scream all they want, but that won't make it true that burger-flipping technique or actuarial practices or whatever else are secrets they're entitled to zealously guard.The FTC did make an exception for senior management-level positions, where employees have much more of an ability to haggle over contracts; lower-level workers are expected to just sign on the line, and many don't even know they're agreeing to noncompetes.Opponents of the rule also contend that employers will be less willing to provide training and career development to workers who are then free to leave to competitors, which is a strange argument if you rephrase it to what it's really saying: employers will refuse to properly train employees they can't keep forever.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05457291379570961,
+                    "sentence": "If companies want to retain their workers, they should do so through competitive pay and benefits, good working conditions and an enticing work environment, not legal entrapment.Courts often use an analysis that weighs the interests of each party and tried to determine where the balance of interests lie.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.017597096040844917,
+                    "sentence": "So while there are definite reasons for companies to seek noncompetes ᅳ some eminently legitimate, many simply having to do with maintaining a competitive advantage through what is essentially market manipulation ᅳ we must also consider the interests of the workers, and what runs downstream from being locked in with a noncompete.FTC Chair Lina Khan referenced some of these situations when discussing the ban, pointing to workers who had written public comments noting that they had been prevented from leaving workplaces they didn't like or found abusive.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.022839123383164406,
+                    "sentence": "It's also the case that the era of most workers building entire careers at a single company, climbing the ranks, is practically over.In many industries, the key to advancement is jumping around, or setting up your own business to keep innovation flowing.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.018378574401140213,
+                    "sentence": "That means that noncompetes do more than just stop workers from changing jobs; they can stunt entire careers that could flourish if employees had the choice to move freely in what entities like the Chamber of Commerce itself will otherwise suggest should be an open and competitive market.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007579114753752947,
+                    "sentence": "Good riddance, and good news for the American economy.ᅳNew York Daily News/TNSA 64-year-old Ocean View man accused of killing one of his dogs has been freed from custody on supervised release, a form of cashless bail.Hilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005437158979475498,
+                    "sentence": "Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017.NEW YORK ᅳ Lou Piniella was back in uniform Saturday, wearing pinstripes and the number 14 for Old-Timers' Day at Yankee Stadium.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004484391305595636,
+                    "sentence": "Piniella, who turns 81 next week, earned his fame in the Bronx as a two-time World Series champion but spent much of his managing career in a feisty rivalry with the Y",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.06633396618935229,
+            "class_probabilities": {
+                "human": 0.9336248632755252,
+                "ai": 0.06633396618935229,
+                "mixed": 4.117053512248776e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9336248632755252,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.06633396618935229,
+                    "human": 0.9336248632755252,
+                    "mixed": 4.117053512248776e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|78.62°In a narrow vote this week, the Federal Trade Commission approved a rule that will ban the vast majority of noncompete clauses by U.S. employers, which have long prevented workers from switching jobs or setting out on their own.In doing so, the agency did its duty to protect American economic dynamism and opportunity. We hope that’s the clear conclusion of the courts that will now rule on a lawsuit being brought by the Chamber of Commerce, which has strenuously supported this anticompetitive practice.Of the arguments that the business group and other opponents have rolled out to oppose the banning of noncompetes, the main one relates to trade secrets, which is probably the scenario first contemplated by contractual noncompetes. We’ll grant that there are certain jobs in typically specialized fields where it is reasonable for an employer to propose a noncompete to protect truly particularized and market-critical knowledge and expertise.The fact that the FTC estimates one in five American workers operates under some form of noncompete shows just how far from that purpose these restrictive agreements have strayed. Companies can kick and scream all they want, but that won’t make it true that burger-flipping technique or actuarial practices or whatever else are secrets they’re entitled to zealously guard.The FTC did make an exception for senior management-level positions, where employees have much more of an ability to haggle over contracts; lower-level workers are expected to just sign on the line, and many don’t even know they’re agreeing to noncompetes.Opponents of the rule also contend that employers will be less willing to provide training and career development to workers who are then free to leave to competitors, which is a strange argument if you rephrase it to what it’s really saying: employers will refuse to properly train employees they can’t keep forever. If companies want to retain their workers, they should do so through competitive pay and benefits, good working conditions and an enticing work environment, not legal entrapment.Courts often use an analysis that weighs the interests of each party and tried to determine where the balance of interests lie. So while there are definite reasons for companies to seek noncompetes — some eminently legitimate, many simply having to do with maintaining a competitive advantage through what is essentially market manipulation — we must also consider the interests of the workers, and what runs downstream from being locked in with a noncompete.FTC Chair Lina Khan referenced some of these situations when discussing the ban, pointing to workers who had written public comments noting that they had been prevented from leaving workplaces they didn’t like or found abusive. It’s also the case that the era of most workers building entire careers at a single company, climbing the ranks, is practically over.In many industries, the key to advancement is jumping around, or setting up your own business to keep innovation flowing. That means that noncompetes do more than just stop workers from changing jobs; they can stunt entire careers that could flourish if employees had the choice to move freely in what entities like the Chamber of Commerce itself will otherwise suggest should be an open and competitive market. Good riddance, and good news for the American economy.—New York Daily News/TNSA 64-year-old Ocean View man accused of killing one of his dogs has been freed from custody on supervised release, a form of cashless bail.Hilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track. Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017.NEW YORK — Lou Piniella was back in uniform Saturday, wearing pinstripes and the number 14 for Old-Timers’ Day at Yankee Stadium. Piniella, who turns 81 next week, earned his fame in the Bronx as a two-time World Series champion but spent much of his managing career in a feisty rivalry with the Y"
+        }
+    ]
+}

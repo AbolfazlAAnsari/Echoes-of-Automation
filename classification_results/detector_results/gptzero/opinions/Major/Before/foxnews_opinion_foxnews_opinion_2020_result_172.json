@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 7.890548658906482e-06,
+                    "sentence": "Hunter Biden's business dealings raise serious questions, but there's better ways to get answers, Wall Street Journal Editorial Board member Bill McGurn says.What do Eric Swalwell andHunter Bidenhave in common?Both are highly connected, Mr. Swalwell as a member of the House Intelligence Committee andMr.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.10053824755596e-05,
+                    "sentence": "Bidenas the son of the incoming president.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.834834832465276e-06,
+                    "sentence": "Both have made news for their dealings with China, Mr. Swalwell for his relationship with a Chinese spy named Christine Fang, and Mr. Biden for business deals made with enterprises connected to the Chinese Communist Party.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.735268809483387e-06,
+                    "sentence": "Both also benefit from a U.S. press corps uninterested in getting to the bottom of their stories.When the New York Post published emails in October raising doubts about Joe Biden's claims he'd never discussed his son's business dealings, many dismissed the story as \"Russian disinformation\"ᅳand some suppressed it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.0141216080228332e-05,
+                    "sentence": "As for Mr. Swalwell's China connection, theNew York Timesstill refuses even to mention it.But it isn't just theBidenand Swalwell stories the press is missing.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.496397640556097e-06,
+                    "sentence": "Their cases are only a microcosm of what Secretary of State Mike Pompeo complains is an all-out Chinese Communist Party effort \"to make Americans receptive to Beijing's form of authoritarianism.\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.1258149293717e-06,
+                    "sentence": "China does this on multiple fronts, often masquerading under the banner of \"friendship\" associations.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.205261105496902e-05,
+                    "sentence": "But the agenda is always the same: to use whatever tools it has to mute opposition to China.CLICK HERE TO CONTINUE READING WILLIAM McGURN'S COLUMN IN THE WALL STREET JOURNALWilliam McGurn serves as a FOX News contributor, a member of The Wall Street Journal editorial board and writes the weekly \"Main Street\" column for the Journal each Tuesday.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.792387047316879e-05,
+                    "sentence": "Previously he served as Chief Speechwriter for President George W. Bush.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.003132712630293538,
+            "class_probabilities": {
+                "human": 0.9968672873697065,
+                "ai": 0.003132712630293538,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9968672873697065,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.003132712630293538,
+                    "human": 0.9968672873697065,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Hunter Biden's business dealings raise serious questions, but there's better ways to get answers, Wall Street Journal Editorial Board member Bill McGurn says.What do Eric Swalwell andHunter Bidenhave in common?Both are highly connected, Mr. Swalwell as a member of the House Intelligence Committee andMr. Bidenas the son of the incoming president. Both have made news for their dealings with China, Mr. Swalwell for his relationship with a Chinese spy named Christine Fang, and Mr. Biden for business deals made with enterprises connected to the Chinese Communist Party. Both also benefit from a U.S. press corps uninterested in getting to the bottom of their stories.When the New York Post published emails in October raising doubts about Joe Biden’s claims he’d never discussed his son’s business dealings, many dismissed the story as \"Russian disinformation\"—and some suppressed it. As for Mr. Swalwell’s China connection, theNew York Timesstill refuses even to mention it.But it isn’t just theBidenand Swalwell stories the press is missing. Their cases are only a microcosm of what Secretary of State Mike Pompeo complains is an all-out Chinese Communist Party effort \"to make Americans receptive to Beijing’s form of authoritarianism.\" China does this on multiple fronts, often masquerading under the banner of \"friendship\" associations. But the agenda is always the same: to use whatever tools it has to mute opposition to China.CLICK HERE TO CONTINUE READING WILLIAM McGURN'S COLUMN IN THE WALL STREET JOURNALWilliam McGurn serves as a FOX News contributor, a member of The Wall Street Journal editorial board and writes the weekly \"Main Street\" column for the Journal each Tuesday. Previously he served as Chief Speechwriter for President George W. Bush.   "
+        }
+    ]
+}

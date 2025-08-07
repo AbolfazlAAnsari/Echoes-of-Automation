@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0005434567574411631,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Access threatenedAccess threatenedOn Dec. 23, the Hawaii County Council will take up Bill 217, which bans the general public from walking on the county road into Waipio Valley.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006648922571912408,
+                    "sentence": "The bill makes an exception for landowners, residents and lessees in the valley, as well as Native Hawaiians engaging in traditional customary practices.In opposition to the bill, Jackson Bauer of the state Department of Land and Natural Resources testified that it “would severely limit the public's right to access public lands.” These include the mile-long Waipio shoreline, the Muliwai Trail to Waimanu Valley (where the state operates campgrounds and provides hunting lands), and the King's Trail.There is no parking in the valley.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005392642924562097,
+                    "sentence": "If hikers cannot walk down, they will be shut out.The bill says its purpose is safety, but the discussion in committee did not refer to any criteria for how many pedestrians might be too many.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005579211283475161,
+                    "sentence": "No one on the council cited any traffic safety study.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004614302306436002,
+                    "sentence": "And there was no analysis of how pedestrians electing to drive the road instead will affect safety.Bill 217 would defeat the purpose of the state law on “Public Access to Coastal and Inland Recreational Areas” (HRS 115-1), which seeks to “guarantee the right of public access to the sea, shorelines, and inland recreational areas …” and assigns responsibility for developing and maintaining rights-of-way to the counties.The County Code (Section 2-83) also mandates that the county afford “fair and impartial treatment” to “all persons.” If this bill passes, however, some will be able to access public lands while others will not.If you cherish your “fundamental right of free movement in public space” (HRS 115-1), you should contact your council member and submit testimony to the council without delay.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010369892697781324,
+                    "sentence": "Instructions are on the council website.Ed JohnstonPepeekeoGetting nothing doneThe Hawaii County Department of Environmental Management Commission meeting in December started off like a high school science fair.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009323182748630643,
+                    "sentence": "The sycophants pitched their local compost projects, and the clock kept ticking.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010426375083625317,
+                    "sentence": "Serious business was not discussed because time ran out.The previous November meeting was cancelled because nobody could figure out the cyberspace technology.All the while, private contractors and consultants continue to rack up billable hours on the Ka'u sewer projects.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008715566247701645,
+                    "sentence": "They are the winners in this game of kick-the-can-down-the road.Tax dollars are raining down on these cronies like confetti.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010096426121890545,
+                    "sentence": "They will celebrate a Happy New Year.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010209786705672741,
+                    "sentence": "We will sweep up afterwards.Jerry WarrenNaalehuThe Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009122096933424473,
+                    "sentence": "The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0053998068906366825,
+                    "sentence": "Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneNestled between lush community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round.A new website launched recently helps Hawaii residents and visitors easily find recreational services available across the state.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.01565789170260218,
+            "class_probabilities": {
+                "human": 0.9843421082973979,
+                "ai": 0.01565789170260218,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9843421082973979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01565789170260218,
+                    "human": 0.9843421082973979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Access threatenedAccess threatenedOn Dec. 23, the Hawaii County Council will take up Bill 217, which bans the general public from walking on the county road into Waipio Valley. The bill makes an exception for landowners, residents and lessees in the valley, as well as Native Hawaiians engaging in traditional customary practices.In opposition to the bill, Jackson Bauer of the state Department of Land and Natural Resources testified that it “would severely limit the public’s right to access public lands.” These include the mile-long Waipio shoreline, the Muliwai Trail to Waimanu Valley (where the state operates campgrounds and provides hunting lands), and the King’s Trail.There is no parking in the valley. If hikers cannot walk down, they will be shut out.The bill says its purpose is safety, but the discussion in committee did not refer to any criteria for how many pedestrians might be too many. No one on the council cited any traffic safety study. And there was no analysis of how pedestrians electing to drive the road instead will affect safety.Bill 217 would defeat the purpose of the state law on “Public Access to Coastal and Inland Recreational Areas” (HRS 115-1), which seeks to “guarantee the right of public access to the sea, shorelines, and inland recreational areas …” and assigns responsibility for developing and maintaining rights-of-way to the counties.The County Code (Section 2-83) also mandates that the county afford “fair and impartial treatment” to “all persons.” If this bill passes, however, some will be able to access public lands while others will not.If you cherish your “fundamental right of free movement in public space” (HRS 115-1), you should contact your council member and submit testimony to the council without delay. Instructions are on the council website.Ed JohnstonPepeekeoGetting nothing doneThe Hawaii County Department of Environmental Management Commission meeting in December started off like a high school science fair. The sycophants pitched their local compost projects, and the clock kept ticking. Serious business was not discussed because time ran out.The previous November meeting was cancelled because nobody could figure out the cyberspace technology.All the while, private contractors and consultants continue to rack up billable hours on the Ka‘u sewer projects. They are the winners in this game of kick-the-can-down-the road.Tax dollars are raining down on these cronies like confetti. They will celebrate a Happy New Year. We will sweep up afterwards.Jerry WarrenNaalehuThe Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today. The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph. Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneNestled between lush  community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round.A new website launched recently helps Hawaii residents and visitors easily find recreational services available across the state."
+        }
+    ]
+}

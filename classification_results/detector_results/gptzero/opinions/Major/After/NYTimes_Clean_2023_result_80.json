@@ -1,0 +1,88 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 2.741317803156562e-05,
+                    "sentence": "Readers deal with an existential crisis.Readers deal with an existential crisis.To the Editor:Re “A Litany of Clichés,” by Michael Massing (Opinion guest essay, April 30):Michael Massing and I are on the same page when it comes to the quotidian and over-the-top use of hackneyed language.Most scribes profess to avoid clichés, but in this day and age those who deliver on their promises are few and far between.The fact of the matter is that when all is said and done, at the end of the day most writers take the easy way out, and avoid the road not taken.I suppose it is what it is.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.502693678252399e-05,
+                    "sentence": "After all, actions speak louder than words.Henry Von KohornPrinceton, N.J.To the Editor:Thank you to Michael Massing for a representative litany of clichés, diminished only by the absence of the most, well, iconic one in use today.Robert LebeauPrinceton, N.J.To the Editor:Thanks for Michael Massing's valuable, exhaustive compilation of clichés.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.26631597999949e-05,
+                    "sentence": "He seems to have omitted one.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.3485492420149967e-05,
+                    "sentence": "Perhaps he could add it one day.“Going forward,” that is.Michael ShortWayland, Mass.This article appeared in print on page A21.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 4,
+                    "completely_generated_prob": 0.0006564766595293492
+                }
+            ],
+            "completely_generated_prob": 0.004992955483599872,
+            "class_probabilities": {
+                "human": 0.9950070445164001,
+                "ai": 0.004992955483599872,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9950070445164001,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.004992955483599872,
+                    "human": 0.9950070445164001,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Readers deal with an existential crisis.Readers deal with an existential crisis.To the Editor:Re “A Litany of Clichés,” by Michael Massing (Opinion guest essay, April 30):Michael Massing and I are on the same page when it comes to the quotidian and over-the-top use of hackneyed language.Most scribes profess to avoid clichés, but in this day and age those who deliver on their promises are few and far between.The fact of the matter is that when all is said and done, at the end of the day most writers take the easy way out, and avoid the road not taken.I suppose it is what it is. After all, actions speak louder than words.Henry Von KohornPrinceton, N.J.To the Editor:Thank you to Michael Massing for a representative litany of clichés, diminished only by the absence of the most, well, iconic one in use today.Robert LebeauPrinceton, N.J.To the Editor:Thanks for Michael Massing’s valuable, exhaustive compilation of clichés. He seems to have omitted one. Perhaps he could add it one day.“Going forward,” that is.Michael ShortWayland, Mass.This article appeared in print on page A21."
+        }
+    ]
+}

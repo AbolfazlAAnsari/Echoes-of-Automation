@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.001976861385628581,
+                    "sentence": "Even would-be leaders on the backbenches know that too obvious a grab for the crown could fatally undermine their chances of securing it, writes Andrew WoodcockHow manyConservativeMPswantBoris Johnsonto resign?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00174237962346524,
+                    "sentence": "How many would sign a letter demanding his removal?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020736840087920427,
+                    "sentence": "And, given the chance, how many would vote to throw him overboard?Those are the questions that everyone inWestminsterwants the answer to right now.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00423851003870368,
+                    "sentence": "And believe it or not, the three figures may be very different indeed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003077700501307845,
+                    "sentence": "The Conservative parliamentary party prides itself on being the \"most sophisticated electorate in the world\" on the grounds of the subtlety - some might say deviousness - of their machinations when deciding on the replacement of a leader.To trigger a vote of no confidence in Johnson's leadership requires 54 letters to the chair of the 1922 Committee,Sir Graham Brady, who is sworn to secrecy about how many he holds and who has written them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002337302081286907,
+                    "sentence": "Numbers have been flying around Westminster for months now, but the only truth about the letters is that no one but Brady knows.Past experience has shown that some MPs hand in letters but say nothing about it, either in public or to fellow rebels.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004303864203393459,
+                    "sentence": "Others tell fellow MPs they have submitted letters when they haven't, or post them off only to ask for them back.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9560487866401672,
+                    "sentence": "Some may even declare publicly that they've demanded a vote without actually writing a letter.There were even rumours that allies of Mr Johnson were preparing a mass mail-in of no-confidence letters to trigger a vote at a time when he was confident of winning it, thus securing at least a further 12 months in office as ballots are only permitted once a year.One thing Westminster-watchers can usually be sure of is that those hoping to replace the leader will not be among the MPs declaring he should go.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.981712818145752,
+                    "sentence": "Frontrunners such asLiz Truss,Rishi SunakorSajid Javidwould obviously have to quit their cabinet posts to do so - something that would in itself almost certainly trigger a leadership contest.But even would-be leaders on the backbenches, like Jeremy Hunt or Tom Tugendhat, know that too obvious a grab for the crown could fatally undermine their chances of securing it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.10519661009311676,
+                    "sentence": "Instead, public declarations are drawn from different groups of MPs.These include veterans who no longer hope for ministerial office, such as Sir Roger Gale or former ministers David Davis and Sir Gary Streeter, who act out of despair at the damage they believe the PM is doing to the reputation of their party.Then there are high-fliers who have been excluded from ministerial rank by the PM for political reasons, but can certainly hope for promotion under an alternative leader, like Tobias Ellwood or William Wragg.And there are also the king-makers, such as Steve Baker and Mark Harper, who believe they can exert a decisive influence on the future direction of the Tories by planting a banner for like-minded MPs to gather round.Alongside them are more who fear for their seats at the next election if Johnson stays on, or have simply grown sick of having to justify the PM's antics to furious constituents.It is this last group who will decide Mr Johnson's future if and when the 54-threshold of letters is reached and the question switches to whether 180 of the Tories' 359 MPs are ready to vote to remove him.While reaching the lower threshold may be difficult, the calculations are entirely different once the ballot has been called.MPs will no longer have to worry about whether a challenge to Johnson will be destabilising.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.2552753984928131,
+                    "sentence": "And they will know that the question of who will lead them into the next election can no longer be deferred.The question in the secret ballot will focus entirely on the single question of whether the PM is an electoral asset or liability to the party.At that point, we may discover that the number of MPs willing to eject Johnson is not only much higher than the number ready to sign a letter but also higher than the number who now want him to resign.Yours,Andrew WoodcockPolitical editor",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 5.563435907348475e-07
+                }
+            ],
+            "completely_generated_prob": 0.3086534012031467,
+            "class_probabilities": {
+                "human": 0.6913465987968532,
+                "ai": 0.3086534012031467,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.6913465987968532,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.3086534012031467,
+                    "human": 0.6913465987968532,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Even would-be leaders on the backbenches know that too obvious a grab for the crown could fatally undermine their chances of securing it, writes Andrew WoodcockHow manyConservativeMPswantBoris Johnsonto resign? How many would sign a letter demanding his removal? And, given the chance, how many would vote to throw him overboard?Those are the questions that everyone inWestminsterwants the answer to right now. And believe it or not, the three figures may be very different indeed. The Conservative parliamentary party prides itself on being the \"most sophisticated electorate in the world\" on the grounds of the subtlety - some might say deviousness - of their machinations when deciding on the replacement of a leader.To trigger a vote of no confidence in Johnson's leadership requires 54 letters to the chair of the 1922 Committee,Sir Graham Brady, who is sworn to secrecy about how many he holds and who has written them. Numbers have been flying around Westminster for months now, but the only truth about the letters is that no one but Brady knows.Past experience has shown that some MPs hand in letters but say nothing about it, either in public or to fellow rebels. Others tell fellow MPs they have submitted letters when they haven't, or post them off only to ask for them back. Some may even declare publicly that they've demanded a vote without actually writing a letter.There were even rumours that allies of Mr Johnson were preparing a mass mail-in of no-confidence letters to trigger a vote at a time when he was confident of winning it, thus securing at least a further 12 months in office as ballots are only permitted once a year.One thing Westminster-watchers can usually be sure of is that those hoping to replace the leader will not be among the MPs declaring he should go. Frontrunners such asLiz Truss,Rishi SunakorSajid Javidwould obviously have to quit their cabinet posts to do so - something that would in itself almost certainly trigger a leadership contest.But even would-be leaders on the backbenches, like Jeremy Hunt or Tom Tugendhat, know that too obvious a grab for the crown could fatally undermine their chances of securing it. Instead, public declarations are drawn from different groups of MPs.These include veterans who no longer hope for ministerial office, such as Sir Roger Gale or former ministers David Davis and Sir Gary Streeter, who act out of despair at the damage they believe the PM is doing to the reputation of their party.Then there are high-fliers who have been excluded from ministerial rank by the PM for political reasons, but can certainly hope for promotion under an alternative leader, like Tobias Ellwood or William Wragg.And there are also the king-makers, such as Steve Baker and Mark Harper, who believe they can exert a decisive influence on the future direction of the Tories by planting a banner for like-minded MPs to gather round.Alongside them are more who fear for their seats at the next election if Johnson stays on, or have simply grown sick of having to justify the PM's antics to furious constituents.It is this last group who will decide Mr Johnson's future if and when the 54-threshold of letters is reached and the question switches to whether 180 of the Tories' 359 MPs are ready to vote to remove him.While reaching the lower threshold may be difficult, the calculations are entirely different once the ballot has been called.MPs will no longer have to worry about whether a challenge to Johnson will be destabilising. And they will know that the question of who will lead them into the next election can no longer be deferred.The question in the secret ballot will focus entirely on the single question of whether the PM is an electoral asset or liability to the party.At that point, we may discover that the number of MPs willing to eject Johnson is not only much higher than the number ready to sign a letter but also higher than the number who now want him to resign.Yours,Andrew WoodcockPolitical editor"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.42662015557289124,
+                    "sentence": "March 2, 2024",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.559899091720581,
+                    "sentence": "Written byUbyssey news staff",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5238364338874817,
+                    "sentence": "All year, we've been attending governance meetings and keeping an eye on what's going on in the governance bodies at UBC.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.49200454354286194,
+                    "sentence": "Here's a short rundown on what we think of the referendum question on the ballot.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.4795003831386566,
+                    "sentence": "We're not here to tell how to vote, but we will be honest about what think about the question.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6401767134666443,
+                    "sentence": "Behold,The Ubyssey's guide to the 2024 AMS Elections referenda.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.39005520939826965,
+                    "sentence": "This referendum proposes the creation of a three year financial plan by the VP Finance.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.34919115900993347,
+                    "sentence": "Amid continued largedeficits, this relatively uncontroversial petition deserves a 'yes' vote to ensure the AMS incorporates long-term financial decision-making into its everyday operations.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.2998647093772888,
+                    "sentence": "Share this articlecopied!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5473100543022156,
+                    "sentence": "Ubyssey news staffauthor",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.398954838514328,
+                    "sentence": "Published bi-weekly in print and daily online, we cover what matters most to UBC students.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5477484464645386,
+                    "sentence": "Have feedback?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.732154905796051,
+                    "sentence": "Emailfeedback@ubyssey.ca.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 1,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 2,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 5,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 6,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 8,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 9,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 10,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 11,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                }
+            ],
+            "completely_generated_prob": 0.1276676162807097,
+            "class_probabilities": {
+                "human": 0.8722807660846754,
+                "ai": 0.1276676162807097,
+                "mixed": 5.161763461484218e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8722807660846754,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.1276676162807097,
+                    "human": 0.8722807660846754,
+                    "mixed": 5.161763461484218e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "March 2, 2024\nWritten byUbyssey news staff\nAll year, we’ve been attending governance meetings and keeping an eye on what’s going on in the governance bodies at UBC. Here's a short rundown on what we think of the referendum question on the ballot. We’re not here to tell how to vote, but we will be honest about what think about the question.\nBehold,The Ubyssey’s guide to the 2024 AMS Elections referenda.\nThis referendum proposes the creation of a three year financial plan by the VP Finance. Amid continued largedeficits, this relatively uncontroversial petition deserves a ‘yes’ vote to ensure the AMS incorporates long-term financial decision-making into its everyday operations.\nShare this articlecopied!\nUbyssey news staffauthor\nPublished bi-weekly in print and daily online, we cover what matters most to UBC students.\nHave feedback? Emailfeedback@ubyssey.ca."
+        }
+    ]
+}

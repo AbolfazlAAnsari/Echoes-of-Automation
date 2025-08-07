@@ -1,0 +1,147 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.845125675201416,
+                    "sentence": "Published 4:51 pm Friday, September 1, 2023ByLetters to the EditorEditor:Classes will soon begin at Kilby Shores Elementary.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9098983407020569,
+                    "sentence": "This school is situated at the corner of Kilby Shores Drive and Turlington Road.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.8259992003440857,
+                    "sentence": "These two roads form part of a traffic-congested intersection that includes those two and Holland Road, Route 58 Bypass, and Route 13 Bypass.The intersection merges vehicles from those major highways with those driven by residents from the communities of Kilby Shores, Dogwood Estates, Hunt Club Pointe, Turlington Park Community, Brewers Meadow, Meadows Landing, Bethlehem Court, and others who live on Turlington.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.8069126605987549,
+                    "sentence": "A driver heading north who wants to access Route 58 needs to be in the left hand lane of Kilby Shores Dr. to exit onto Holland Rd.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.8007138967514038,
+                    "sentence": "With this lane often backed up, drivers are inclined to turn right on Holland and risk a quick U-turn to get in line for Route 58.The congestion takes a different turn, increasing the possibility of accidents when cars line up in the right-hand lane on Kilby Shores Dr. and the shoulder of Turlington Rd.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.8480655550956726,
+                    "sentence": "to pick up children after school.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.8359185457229614,
+                    "sentence": "The safety of children, teachers, and residents calls for sharper driver attention, greater patience, and calm at all times, but especially during school hours.Ed KapinusSuffolkOn Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9276003837585449,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.8286975622177124,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 0.9257822263275673
+                }
+            ],
+            "completely_generated_prob": 0.562582345191041,
+            "class_probabilities": {
+                "human": 0.43741765480895917,
+                "ai": 0.562582345191041,
+                "mixed": 0
+            },
+            "average_generated_prob": 1,
+            "predicted_class": "ai",
+            "confidence_score": 0.562582345191041,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.562582345191041,
+                    "human": 0.43741765480895917,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {
+                    "predicted_class": "ai_paraphrased",
+                    "result_message": "We are highly confident that this text has been rewritten by AI, an AI paraphraser or AI bypasser",
+                    "confidence_score": 0.99959556644408,
+                    "confidence_category": "high",
+                    "class_probabilities": {
+                        "pure_ai": 0.00040443355591995763,
+                        "ai_paraphrased": 0.99959556644408
+                    },
+                    "confidence_scores_raw": {
+                        "identity": {
+                            "pure_ai": 0.00040443345591995765,
+                            "ai_paraphrased": 0.99959556644408
+                        }
+                    },
+                    "confidence_thresholds_raw": {
+                        "identity": {
+                            "pure_ai": {
+                                "reject": 0.65,
+                                "low": 0.75,
+                                "medium": 0.92
+                            },
+                            "ai_paraphrased": {
+                                "reject": 0.85,
+                                "low": 0.9,
+                                "medium": 0.95
+                            }
+                        }
+                    }
+                },
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "AI_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 4:51 pm Friday, September 1, 2023ByLetters to the EditorEditor:Classes will soon begin at Kilby Shores Elementary. This school is situated at the corner of Kilby Shores Drive and Turlington Road. These two roads form part of a traffic-congested intersection that includes those two and Holland Road, Route 58 Bypass, and Route 13 Bypass.The intersection merges vehicles from those major highways with those driven by residents from the communities of Kilby Shores, Dogwood Estates, Hunt Club Pointe, Turlington Park Community, Brewers Meadow, Meadows Landing, Bethlehem Court, and others who live on Turlington. A driver heading north who wants to access Route 58 needs to be in the left hand lane of Kilby Shores Dr. to exit onto Holland Rd. With this lane often backed up, drivers are inclined to turn right on Holland and risk a quick U-turn to get in line for Route 58.The congestion takes a different turn, increasing the possibility of accidents when cars line up in the right-hand lane on Kilby Shores Dr. and the shoulder of Turlington Rd. to pick up children after school. The safety of children, teachers, and residents calls for sharper driver attention, greater patience, and calm at all times, but especially during school hours.Ed KapinusSuffolkOn Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

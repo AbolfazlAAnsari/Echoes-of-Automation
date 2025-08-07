@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00015068365610204637,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013019682955928147,
+                    "sentence": "Please send your letters toletters@independent.co.ukI have just readKatie Rogerson's articleon the shameful behaviour of theanti-vaxxersin Milton Keynes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.47010383545421e-05,
+                    "sentence": "I am not a medic but I have friends who work in hospitals and I know how hard they are working to keep us safe.I can only hope that these ignorant, irresponsible people are a tiny minority.E NewtonAddress suppliedSurely it is time for the home secretary, Priti Patel, Prime MinisterBoris Johnsonand the police to get tough on anti-vax protesters.NHSstaff, volunteers, and frontline workers have done a truly magnificent job since the start of the pandemic.They do not deserve the disgraceful scenes we saw in Milton Keynes recently.Geoffrey BrookingHampshireSunny outlookWhy do weather presenters continue to tell us of 'exceptionally mild conditions' in a cheery manner?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.9754875615471974e-05,
+                    "sentence": "The high temperatures we are currently experiencing in the supposed depths of winter are more evidence that the planet is in the grip of potentially disastrous climate change.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.7054258175194263e-05,
+                    "sentence": "When the newsreader announces a human tragedy they rightly do so in sombre tones.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.040850323392078e-05,
+                    "sentence": "Is it too much to expect the weather person to do the same?Richard WalkerWest MalvernPlanning aheadYet again, the Celtic nations demonstrate how to plan ahead and leave self-opinionated England struggling (\"Wales loans 4 million more Covid tests to English NHS\").",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014718894381076097,
+                    "sentence": "How many times does the same lesson need learning by the bunch in Westminster?Ian ReidKilnwickAs yet I have not heard any expressions of gratitude from Boris Johnson or Sajid Javid to the Welsh government for the loan of Covid test kits.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001035333494655788,
+                    "sentence": "No surprise there because of course it is another embarrassment as it puts once again into sharp focus the incompetence of the UK government.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007587985601276159,
+                    "sentence": "In a pandemic of this nature mistakes were bound to be made.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013701749267056584,
+                    "sentence": "However the Welsh and Scottish governments have been consistently more sure-footed.John E HarrisonChorleyRead MoreEditor's Letter: What the anti-vaxxers get right, and what they get terribly wrongLetters: If it's the economy that decides elections - Johnson could be in troubleLetters: Surely, there's a risk that Scots could take the virus to England?Letters: If it's the economy that decides elections - Johnson could be in troubleLetters: Surely, there's a risk that Scots could take the virus to England?Letters: Brexit benefits?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016656436491757631,
+                    "sentence": "What Brexit benefits?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.009998674697021016,
+            "class_probabilities": {
+                "human": 0.990001325302979,
+                "ai": 0.009998674697021016,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.990001325302979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.009998674697021016,
+                    "human": 0.990001325302979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI have just readKatie Rogerson's articleon the shameful behaviour of theanti-vaxxersin Milton Keynes. I am not a medic but I have friends who work in hospitals and I know how hard they are working to keep us safe.I can only hope that these ignorant, irresponsible people are a tiny minority.E NewtonAddress suppliedSurely it is time for the home secretary, Priti Patel, Prime MinisterBoris Johnsonand the police to get tough on anti-vax protesters.NHSstaff, volunteers, and frontline workers have done a truly magnificent job since the start of the pandemic.They do not deserve the disgraceful scenes we saw in Milton Keynes recently.Geoffrey BrookingHampshireSunny outlookWhy do weather presenters continue to tell us of 'exceptionally mild conditions' in a cheery manner? The high temperatures we are currently experiencing in the supposed depths of winter are more evidence that the planet is in the grip of potentially disastrous climate change. When the newsreader announces a human tragedy they rightly do so in sombre tones. Is it too much to expect the weather person to do the same?Richard WalkerWest MalvernPlanning aheadYet again, the Celtic nations demonstrate how to plan ahead and leave self-opinionated England struggling (\"Wales loans 4 million more Covid tests to English NHS\"). How many times does the same lesson need learning by the bunch in Westminster?Ian ReidKilnwickAs yet I have not heard any expressions of gratitude from Boris Johnson or Sajid Javid to the Welsh government for the loan of Covid test kits. No surprise there because of course it is another embarrassment as it puts once again into sharp focus the incompetence of the UK government. In a pandemic of this nature mistakes were bound to be made. However the Welsh and Scottish governments have been consistently more sure-footed.John E HarrisonChorleyRead MoreEditor's Letter: What the anti-vaxxers get right, and what they get terribly wrongLetters: If it's the economy that decides elections - Johnson could be in troubleLetters: Surely, there's a risk that Scots could take the virus to England?Letters: If it's the economy that decides elections - Johnson could be in troubleLetters: Surely, there's a risk that Scots could take the virus to England?Letters: Brexit benefits? What Brexit benefits?"
+        }
+    ]
+}

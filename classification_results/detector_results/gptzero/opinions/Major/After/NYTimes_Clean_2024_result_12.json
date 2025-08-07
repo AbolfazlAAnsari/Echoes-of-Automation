@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.05074680969119072,
+                    "sentence": "There's more than one way for workers to organize.As the Opinion video above explores, these are heady times for organized labor.Unions have recently scored big victories in the auto industry and Hollywood; an increasing number of health care workers are starting to organize; and the threat of a strike resulted in big gains for hospitality workers in Las Vegas.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04968111217021942,
+                    "sentence": "Elsewhere, baristas, nail salon and fast food workers, graduate students, warehouse and retail workers, tech employees, domestic workers and ride-share drivers have been mobilizing as unions enjoy levels of public support not seen since the 1960s.But it's not all good news: The percentage of workers who belong to a union plunged to its lowest level on record in 2022.In this video, Jeff Seal, a video journalist and comedian, argues for the wider use of an industry mechanism known as a minimum standards council to strengthen the labor movement and empower workers.We're not going to use this space to explain what minimum standards councils are.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02991035394370556,
+                    "sentence": "We'll leave that to Jeff, who, in describing how these boards work and why we should care, takes viewers on a cross-country adventure and deploys an Uncle Sam wearing earrings, a megaphone on the streets of Seattle, a drive-through fast food order, boxing and even his mother.Jeff Seal is a comedian, a visual journalist and a member of the Lower Manhattan chapter of Democratic Socialists of America.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.020436156541109085,
+                    "sentence": "Chris Libbey and Nick Libbey are documentary filmmakers based in New York City.Opinion Videocombines original reporting with creative storytelling to produce visually transformative commentary.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01158339437097311,
+                    "sentence": "Pitch avideo Guest Essay here.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006488765589892864,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008161763660609722,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007109294645488262,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,Instagram,TikTok,XandThreads.PHOTO: (PHOTOGRAPH BY FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.03983780404550421,
+            "class_probabilities": {
+                "human": 0.9601216422360306,
+                "ai": 0.03983780404550421,
+                "mixed": 4.055371846526579e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601216422360306,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.03983780404550421,
+                    "human": 0.9601216422360306,
+                    "mixed": 4.055371846526579e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "There’s more than one way for workers to organize.As the Opinion video above explores, these are heady times for organized labor.Unions have recently scored big victories in the auto industry and Hollywood; an increasing number of health care workers are starting to organize; and the threat of a strike resulted in big gains for hospitality workers in Las Vegas. Elsewhere, baristas, nail salon and fast food workers, graduate students, warehouse and retail workers, tech employees, domestic workers and ride-share drivers have been mobilizing as unions enjoy levels of public support not seen since the 1960s.But it’s not all good news: The percentage of workers who belong to a union plunged to its lowest level on record in 2022.In this video, Jeff Seal, a video journalist and comedian, argues for the wider use of an industry mechanism known as a minimum standards council to strengthen the labor movement and empower workers.We’re not going to use this space to explain what minimum standards councils are. We’ll leave that to Jeff, who, in describing how these boards work and why we should care, takes viewers on a cross-country adventure and deploys an Uncle Sam wearing earrings, a megaphone on the streets of Seattle, a drive-through fast food order, boxing and even his mother.Jeff Seal is a comedian, a visual journalist and a member of the Lower Manhattan chapter of Democratic Socialists of America. Chris Libbey and Nick Libbey are documentary filmmakers based in New York City.Opinion Videocombines original reporting with creative storytelling to produce visually transformative commentary. Pitch avideo Guest Essay here.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,Instagram,TikTok,XandThreads.PHOTO:  (PHOTOGRAPH BY  FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00023970051552169025,
+                    "sentence": "Published 6:46 pm Tuesday, March 12, 2024BySuffolk News-Herald Editorial BoardIn this, another annual observance of Sunshine Week, we're reminded of the words of Bill Moyers ᅳ that “secrecy is the freedom tyrants dream of.”Vladimir Putin regularly lives that dream in Russia, where journalists and, for that matter, anyone who questions the dictator's authority are routinely snuffed out.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00032122700940817595,
+                    "sentence": "Here at home, a country built on citizens' right to know the affairs of their governments, secrecy is protected not by violence but by consistent, mostly subtle efforts to weaken open records and open meetings laws, or by simple disregard for the laws as written, knowing the consequences are minimal.Sunshine Week is a national initiative begun in 2005 by the former American Society of News Editors, now the News Leaders Association, intentionally during the birth week of the philosophical Founding Father of sunshine laws, James Madison, who famously declared: “A popular Government, without popular information, or the means of acquiring it, is but a Prologue to a Farce or a Tragedy; or, perhaps both.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002807065029628575,
+                    "sentence": "Knowledge will forever govern ignorance.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004022650246042758,
+                    "sentence": "And a people who mean to be their own Governors must arm themselves with the power which knowledge gives.”It's important to note that sunshine laws are not merely a tool for journalists.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006109414389356971,
+                    "sentence": "They are available to any citizen who wishes to know more about local, state and federal governments.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00601548794656992,
+                    "sentence": "Public servants responsible for fielding and responding to those requests sometimes grouse about the voluminous requests from gadflies, but the inconvenience, and even the expense, which can be reasonably recouped by the responding entity, are worth it to ensure transparent government.At their core, sunshine laws exist for the public's benefit, the right of the citizenry to be informed transcends any public agency embarrassment or loss of “efficiency.”As one state legislature put it, “The people, in delegating authority, do not give their public servants the right to decide what is good for them to know; the people insist on remaining informed so they may retain control over the instruments they have created.”Sunshine laws secure the public trust and therefore must remain robust.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007872939109802246,
+                    "sentence": "When the public trust is broken, these laws are the best hope for holding public servants accountable.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.020946025848388672,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.020862141624093056,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.03483077260757958,
+            "class_probabilities": {
+                "human": 0.9651284621953693,
+                "ai": 0.03483077260757958,
+                "mixed": 4.07651970510046e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9651284621953693,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.03483077260757958,
+                    "human": 0.9651284621953693,
+                    "mixed": 4.07651970510046e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 6:46 pm Tuesday, March 12, 2024BySuffolk News-Herald Editorial BoardIn this, another annual observance of Sunshine Week, we’re reminded of the words of Bill Moyers — that “secrecy is the freedom tyrants dream of.”Vladimir Putin regularly lives that dream in Russia, where journalists and, for that matter, anyone who questions the dictator’s authority are routinely snuffed out. Here at home, a country built on citizens’ right to know the affairs of their governments, secrecy is protected not by violence but by consistent, mostly subtle efforts to weaken open records and open meetings laws, or by simple disregard for the laws as written, knowing the consequences are minimal.Sunshine Week is a national initiative begun in 2005 by the former American Society of News Editors, now the News Leaders Association, intentionally during the birth week of the philosophical Founding Father of sunshine laws, James Madison, who famously declared: “A popular Government, without popular information, or the means of acquiring it, is but a Prologue to a Farce or a Tragedy; or, perhaps both. Knowledge will forever govern ignorance. And a people who mean to be their own Governors must arm themselves with the power which knowledge gives.”It’s important to note that sunshine laws are not merely a tool for journalists. They are available to any citizen who wishes to know more about local, state and federal governments. Public servants responsible for fielding and responding to those requests sometimes grouse about the voluminous requests from gadflies, but the inconvenience, and even the expense, which can be reasonably recouped by the responding entity, are worth it to ensure transparent government.At their core, sunshine laws exist for the public’s benefit, the right of the citizenry to be informed transcends any public agency embarrassment or loss of “efficiency.”As one state legislature put it, “The people, in delegating authority, do not give their public servants the right to decide what is good for them to know; the people insist on remaining informed so they may retain control over the instruments they have created.”Sunshine laws secure the public trust and therefore must remain robust. When the public trust is broken, these laws are the best hope for holding public servants accountable.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

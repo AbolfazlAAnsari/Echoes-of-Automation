@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00031909614335745573,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002265969233121723,
+                    "sentence": "Please send your letters toletters@independent.co.ukUnfortunately,some of Rishi Sunak's commentsyesterday regarding low-value university courses are correct.The explosion of university provision for allenvisaged by Tony Blairand the subsequent introduction of exorbitant fees and loans are leaving thousands of young graduates with massive debt.Many of these universities and courses appear to have a Ponzi-like structure, relying on the regular input oftuition feesto prop up the institution and subsidise the overpaid vice chancellors.Where I disagree withRishi Sunakis his contention that universities are responsible for not getting students into high-paying jobs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002861255197785795,
+                    "sentence": "Due in no small part to Tory policies, the jobs just don't exist.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00026608569896779954,
+                    "sentence": "This I can attest to from family experience of top grade masters science graduates working with many others, similarly qualified, in low-paid lab jobs.G ForwardStirlingDogma-driven Tory leadership hopefulsI refer totoday's Editorial.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00025671301409602165,
+                    "sentence": "The solutions to our profound economic problems, which are heavily underscored by the obvious economic and social disaster that is Brexit, lie in sound and intelligent management of the economy in the interests of a society that, under existent arrangements, comprises the whole of the UK.Such a course of action is an obvious no-no for these dogma-driven Tory candidates.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.17901398241519928,
+                    "sentence": "Exclusively targeted as it is at paid-up members of their own delusional and antediluvian party, it is constrained by fundamental flaws.Some of these flaws may be such things as personal ambition, a misplaced sense of superiority, a very real sense of entitlement, an obvious gulf between their personal economic circumstances and those of the majority of the population, remarks that identify them a little Englanders, and a willingness to say anything to please their minuscule and partisan electorate.For both Truss and Sunak, their most conspicuous survival tactic in this unedifying contest is a reflex jump away from their last erroneous proposition - like fleas on a hotplate.The disenfranchised observers in the larger constituency that they will ultimately answer to in a general election will be making their notes.David NelmesNewportRude gig-goers should stay homeJames Moore makes a good pointabout the cinema experience being ruined by people talking and on their phones.This is also a problem at live music gigs, with conversations shouted over the music and much screen time spent either on WhatsApp or filming the gig instead of watching it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.08388108015060425,
+                    "sentence": "Here, though, there is also the added disruption of frequent trips to get more drinks (and to the toilets).Suggesting that listening to the band's music at home on the hi-fi with a well-stocked fridge nearby would be a lot cheaper and less antisocial doesn't seem to go down well.Paul KeebleManchesterRedirecting cash to Tunbridge WellsThe logical outcome of Truss and Sunak's tax policies is that the wealthy will use the money they save to purchase property and businesses from those who cannot afford to pay mortgages or service commercial debt.Moreover, the breaching of the red wall at the last election can be seen as a precursor to a neo-harrowing of the North, with wealth concentrated in postmodern “manorial holdings” in the South.How else should we interpretSunak's boast about redistributing government fundsfrom deprived to wealthy constituencies?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02355996146798134,
+                    "sentence": "This could be dismissed as mere post-Brexit fantasy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.020947694778442383,
+                    "sentence": "However, a review of recent pronouncements by Jacob Rees-Mogg might suggest he believes it's possible and worth pursuing.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereArise Lord Rees-Mogg, Baron of Somerset and future prime minister?David SmithTaunton, SomersetWho is next in line in the blame game?Splendid idea from John Rentoul to run a top job sweepstake - assumingLiz Trussemerges victorious from the Conservative leadership election.Can I humbly suggest another sweepstake is run in tandem: after the Bank of England, who will the government next attempt to blame for the country's woes?Even after the EU, foreigners in general, judges and the BBC, I am confident there are still plenty of candidates to point the finger at.Robert BostonKingshill",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.0592640951707379,
+            "class_probabilities": {
+                "human": 0.9407359048292621,
+                "ai": 0.0592640951707379,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9407359048292621,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0592640951707379,
+                    "human": 0.9407359048292621,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukUnfortunately,some of Rishi Sunak’s commentsyesterday regarding low-value university courses are correct.The explosion of university provision for allenvisaged by Tony Blairand the subsequent introduction of exorbitant fees and loans are leaving thousands of young graduates with massive debt.Many of these universities and courses appear to have a Ponzi-like structure, relying on the regular input oftuition feesto prop up the institution and subsidise the overpaid vice chancellors.Where I disagree withRishi Sunakis his contention that universities are responsible for not getting students into high-paying jobs. Due in no small part to Tory policies, the jobs just don’t exist. This I can attest to from family experience of top grade masters science graduates working with many others, similarly qualified, in low-paid lab jobs.G ForwardStirlingDogma-driven Tory leadership hopefulsI refer totoday’s Editorial.  The solutions to our profound economic problems, which are heavily underscored by the obvious economic and social disaster that is Brexit, lie in sound and intelligent management of the economy in the interests of a society that, under existent arrangements, comprises the whole of the UK.Such a course of action is an obvious no-no for these dogma-driven Tory candidates. Exclusively targeted as it is at paid-up members of their own delusional and antediluvian party, it is constrained by fundamental flaws.Some of these flaws may be such things as personal ambition, a misplaced sense of superiority, a very real sense of entitlement, an obvious gulf between their personal economic circumstances and those of the majority of the population, remarks that identify them a little Englanders, and a willingness to say anything to please their minuscule and partisan electorate.For both Truss and Sunak, their most conspicuous survival tactic in this unedifying contest is a reflex jump away from their last erroneous proposition – like fleas on a hotplate.The disenfranchised observers in the larger constituency that they will ultimately answer to in a general election will be making their notes.David NelmesNewportRude gig-goers should stay homeJames Moore makes a good pointabout the cinema experience being ruined by people talking and on their phones.This is also a problem at live music gigs, with conversations shouted over the music and much screen time spent either on WhatsApp or filming the gig instead of watching it. Here, though, there is also the added disruption of frequent trips to get more drinks (and to the toilets).Suggesting that listening to the band’s music at home on the hi-fi with a well-stocked fridge nearby would be a lot cheaper and less antisocial doesn’t seem to go down well.Paul KeebleManchesterRedirecting cash to Tunbridge WellsThe logical outcome of Truss and Sunak’s tax policies is that the wealthy will use the money they save to purchase property and businesses from those who cannot afford to pay mortgages or service commercial debt.Moreover, the breaching of the red wall at the last election can be seen as a precursor to a neo-harrowing of the North, with wealth concentrated in postmodern “manorial holdings” in the South.How else should we interpretSunak’s boast about redistributing government fundsfrom deprived to wealthy constituencies? This could be dismissed as mere post-Brexit fantasy. However, a review of recent pronouncements by Jacob Rees-Mogg might suggest he believes it’s possible and worth pursuing.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereArise Lord Rees-Mogg, Baron of Somerset and future prime minister?David SmithTaunton, SomersetWho is next in line in the blame game?Splendid idea from John Rentoul to run a top job sweepstake – assumingLiz Trussemerges victorious from the Conservative leadership election.Can I humbly suggest another sweepstake is run in tandem: after the Bank of England, who will the government next attempt to blame for the country’s woes?Even after the EU, foreigners in general, judges and the BBC, I am confident there are still plenty of candidates to point the finger at.Robert BostonKingshill"
+        }
+    ]
+}

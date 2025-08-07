@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0010377924190834165,
+                    "sentence": "From local coverage to the presidential race,.Cityscape| Twin Cities urban geographer Bill Lindeke weighs in on city life, transportation, planning and more in his column delivered to your inbox weekly.Despite the complexities of our healthcare system, particularly regarding insurance plans, co-pays, deductibles, Medicare, Medicaid and in and out-of-network expenses, we are fortunate to reside in Minnesota.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0023551778867840767,
+                    "sentence": "Here, we enjoy substantial investments in healthcare research, robust hospital networks and a thriving medical device industry.These investments have yielded life-saving breakthroughs, pioneering research endeavors aimed at curing diseases, and opportunities to explore alternative medical treatments.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019110527355223894,
+                    "sentence": "While we have undoubtedly reaped the rewards of these investments, it's essential to acknowledge and address the often overlooked or misunderstood realities pertaining to healthcare costs.Last year, state lawmakers across the country and here in Minnesota have been implementing various versions of a Prescription Drug Affordability Board.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0025742175057530403,
+                    "sentence": "The idea is that the appointed members of the PDAB would oversee prescription drug pricing within the state and work to negotiate costs with manufacturers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00346756842918694,
+                    "sentence": "Since this law was enacted in Minnesota, many patients have expressed valid concerns about the future accessibility of their medications.While I commend lawmakers for their efforts to lower prescription drug costs, there are blind spots within this law and the board's established duties.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004280013497918844,
+                    "sentence": "The board must consider the current affordability and accessibility of medications for patients while simultaneously providing an expedited path for exemptions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06784796714782715,
+                    "sentence": "This is necessary to prevent supply limitations, particularly for specialized medicine.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09184715896844864,
+                    "sentence": "We have recently witnessed the impact of supply shortages and inflationary effects in various sectors of the economy, including prescription drugs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.12699240446090698,
+                    "sentence": "Above all, we must prioritize preserving access to life-saving medications.Furthermore, with states operating under different PDAB authorities or without an established board, negotiated prices will vary from state to state and could further affect the regional supply of medications.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.14960893988609314,
+                    "sentence": "This could have potentially fatal consequences for individuals with rare diseases who rely on specialty medications that already have limited production.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3306954503059387,
+                    "sentence": "Without exemptions, we may see people losing access to the medications they depend on to live.There are many cases where specialized medications are affordable when considering insurance, assistance programs and vouchers, with minimal barriers to accessibility for those in need of treatment.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.21967729926109314,
+                    "sentence": "Patients cannot risk losing access to their medications while waiting for negotiated pricing or experiencing supply shortages due to price disparities between states.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.16870297491550446,
+                    "sentence": "Exemptions are essential when considering these potential circumstances.Bridget Klosterman is an advocate and professional for nonprofit organizations that offer services related to child development, healthy lifestyle and well being.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.05846869506377007,
+            "class_probabilities": {
+                "human": 0.9414903775918344,
+                "ai": 0.05846869506377007,
+                "mixed": 4.092734439546067e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9414903775918344,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.05846869506377007,
+                    "human": 0.9414903775918344,
+                    "mixed": 4.092734439546067e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "From local coverage to the presidential race, .Cityscape| Twin Cities urban geographer Bill Lindeke weighs in on city life, transportation, planning and more in his column delivered to your inbox weekly.Despite the complexities of our healthcare system, particularly regarding insurance plans, co-pays, deductibles, Medicare, Medicaid and in and out-of-network expenses, we are fortunate to reside in Minnesota. Here, we enjoy substantial investments in healthcare research, robust hospital networks and a thriving medical device industry.These investments have yielded life-saving breakthroughs, pioneering research endeavors aimed at curing diseases, and opportunities to explore alternative medical treatments. While we have undoubtedly reaped the rewards of these investments, it’s essential to acknowledge and address the often overlooked or misunderstood realities pertaining to healthcare costs.Last year, state lawmakers across the country and here in Minnesota have been implementing various versions of a Prescription Drug Affordability Board. The idea is that the appointed members of the PDAB would oversee prescription drug pricing within the state and work to negotiate costs with manufacturers. Since this law was enacted in Minnesota, many patients have expressed valid concerns about the future accessibility of their medications.While I commend lawmakers for their efforts to lower prescription drug costs, there are blind spots within this law and the board’s established duties. The board must consider the current affordability and accessibility of medications for patients while simultaneously providing an expedited path for exemptions. This is necessary to prevent supply limitations, particularly for specialized medicine. We have recently witnessed the impact of supply shortages and inflationary effects in various sectors of the economy, including prescription drugs. Above all, we must prioritize preserving access to life-saving medications.Furthermore, with states operating under different PDAB authorities or without an established board, negotiated prices will vary from state to state and could further affect the regional supply of medications. This could have potentially fatal consequences for individuals with rare diseases who rely on specialty medications that already have limited production. Without exemptions, we may see people losing access to the medications they depend on to live.There are many cases where specialized medications are affordable when considering insurance, assistance programs and vouchers, with minimal barriers to accessibility for those in need of treatment. Patients cannot risk losing access to their medications while waiting for negotiated pricing or experiencing supply shortages due to price disparities between states. Exemptions are essential when considering these potential circumstances.Bridget Klosterman is an advocate and professional for nonprofit organizations that offer services related to child development, healthy lifestyle and well being."
+        }
+    ]
+}

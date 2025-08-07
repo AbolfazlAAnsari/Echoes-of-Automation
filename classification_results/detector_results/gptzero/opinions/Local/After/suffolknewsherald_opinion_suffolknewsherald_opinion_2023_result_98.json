@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00021480370196513832,
+                    "sentence": "Published 5:38 pm Tuesday, March 14, 2023ByLetters to the EditorEditor:A regional real estate association distributed a letter to its members asking them to attend the March 21 Planning Commission meeting to support the approval of a rezoning request on the agenda.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019886725931428373,
+                    "sentence": "The letter asserted that rezoning is necessary to maintain housing inventory, while there are already 7,480 units approved and not yet built.According to the realtor, a limited inventory will drive up the cost of homes, making it unaffordable for young and average families, although there are many factors making home buying unaffordable, such as inflation and interest rate increases, which reduce the purchasing power of an average family, which is not eliminated with additional rezoning.The realtor asserted that to build schools, roads and other infrastructure, we need growth to collect additional taxes, although we know that growth requires additional city services, and the city is struggling to maintain an adequate level of service, even without additional development already in the pipeline.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022698876273352653,
+                    "sentence": "The realtor references “Smart Growth” to support additional rezoning, although “Smart Growth” approaches include conserving resources by reinvesting in existing infrastructure and involving residents in development decisions, stressing the importance of balancing health, schools, taxes, traffic, the environment, economic growth and fairness in development decisions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0022544143721461296,
+                    "sentence": "The realtor calls out CARE4Suffolk for opposing rezoning, although the CARE4Suffolk mission supports responsible growth, where the citizens of Suffolk will receive the level of service expected to maintain our quality of life.Some realtors value having additional homes to produce sales as a higher priority than having safe roads and adequate school capacity.The city must consider the needs of all citizens and not merely some developers and realtors who stand to profit from irresponsible development under the guise of “Smart Growth.” The city must take a pause on rezoning until there is a reduction in the pipeline and the city's infrastructure can provide adequate levels of services as laid out in the UDO and the Comprehensive Plan.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004613190423697233,
+                    "sentence": "To learn more about the Lake Kilby rezoning and to review the letter and cover email, visitbit.ly/3yB2ITx.Dr.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0027943828608840704,
+                    "sentence": "Sherri L. JohnstonExecutive DirectorCARE4Suffolk.orgCorbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004649621434509754,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.020796750353547094,
+            "class_probabilities": {
+                "human": 0.9792032496464529,
+                "ai": 0.020796750353547094,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9792032496464529,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020796750353547094,
+                    "human": 0.9792032496464529,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:38 pm Tuesday, March 14, 2023ByLetters to the EditorEditor:A regional real estate association distributed a letter to its members asking them to attend the March 21 Planning Commission meeting to support the approval of a rezoning request on the agenda. The letter asserted that rezoning is necessary to maintain housing inventory, while there are already 7,480 units approved and not yet built.According to the realtor, a limited inventory will drive up the cost of homes, making it unaffordable for young and average families, although there are many factors making home buying unaffordable, such as inflation and interest rate increases, which reduce the purchasing power of an average family, which is not eliminated with additional rezoning.The realtor asserted that to build schools, roads and other infrastructure, we need growth to collect additional taxes, although we know that growth requires additional city services, and the city is struggling to maintain an adequate level of service, even without additional development already in the pipeline. The realtor references “Smart Growth” to support additional rezoning, although “Smart Growth” approaches include conserving resources by reinvesting in existing infrastructure and involving residents in development decisions, stressing the importance of balancing health, schools, taxes, traffic, the environment, economic growth and fairness in development decisions. The realtor calls out CARE4Suffolk for opposing rezoning, although the CARE4Suffolk mission supports responsible growth, where the citizens of Suffolk will receive the level of service expected to maintain our quality of life.Some realtors value having additional homes to produce sales as a higher priority than having safe roads and adequate school capacity.The city must consider the needs of all citizens and not merely some developers and realtors who stand to profit from irresponsible development under the guise of “Smart Growth.” The city must take a pause on rezoning until there is a reduction in the pipeline and the city’s infrastructure can provide adequate levels of services as laid out in the UDO and the Comprehensive Plan. To learn more about the Lake Kilby rezoning and to review the letter and cover email, visitbit.ly/3yB2ITx.Dr. Sherri L. JohnstonExecutive DirectorCARE4Suffolk.orgCorbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…"
+        }
+    ]
+}

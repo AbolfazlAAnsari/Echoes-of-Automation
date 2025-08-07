@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.013389523141086102,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°Donald Trump has made history in many ways over the last several years, most of it very bad.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0053447820246219635,
+                    "sentence": "He was the first president in U.S. history to have entered the office without any prior public office or military experience.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004985429812222719,
+                    "sentence": "He is the first president to have ever been impeached twice, and certainly the first to have openly and explicitly attempted to subvert the peaceful transfer of power to his successor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003968011122196913,
+                    "sentence": "For all his transgressions, at least Richard Nixon resigned.Now, Trump crosses another threshold, as the first president in history to have been criminally convicted of a felony, and one related to his presidential campaign to boot.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010884450748562813,
+                    "sentence": "After two days of deliberation, a jury of 12 Manhattanites has delivered a guilty verdict on all 34 counts brought by Manhattan District Attorney Alvin Bragg, involving Trump's falsification of business records to conceal his hush money payment to Stormy Daniels in the run-up to the 2016 election.Next, the ex-president will be sentenced, and could well become the first former president to serve time behind bars, another first for this disreputable man.We can't say that the conviction lands with the satisfaction of one that centered on his effort to overturn the election, or even his willful retention of classified records.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.016037592664361,
+                    "sentence": "Those processes, at the federal level and in Georgia, have been stalled by a mixture of judicial deference or outright obsequiousness ᅳ as is the case with Florida Federal Judge Aileen Cannon's numerous delay tactics ᅳ and some prosecutorial timidity and incompetence, as with Fulton County District Attorney Fani Willis' misguided decision to have a relationship with her appointed special prosecutor.Those cases are easier to explain, flashier and involve issues that are much more fundamental to Trump's danger to democracy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010125068947672844,
+                    "sentence": "We hope to see them advance, even if it seems very unlikely at this stage that any of them will progress substantially before the November election.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011215290054678917,
+                    "sentence": "Yet the conviction that Bragg has secured is no less a real crime, exhaustively documented and proven beyond a reasonable doubt.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007057522889226675,
+                    "sentence": "It happened, and Trump is being held to account, something that has all too rarely happened in his life.This might seem like small potatoes to some people, but the truth is, had Trump been made to respond to every one of his transgressions short of taking aim at American democracy itself, throughout his decades as a con man, swindler, sexual predator and overall reprobate, we probably wouldn't be in this situation to begin with.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008723730221390724,
+                    "sentence": "Accountability would have neutralized him much earlier on, and now who knows if it will stop him.We can't promise that this will change things, that it will expose Trump or finally derail his efforts to get back in the White House.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011908230371773243,
+                    "sentence": "Some observers think it will help, and indeed Trump has used every opportunity to use this trial as a campaign venue, painting himself as a victim of political persecution.It was not the job of the courts or the jury to game out the electoral consequences, which could go either way.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007992909289896488,
+                    "sentence": "But at the end of the day, if we don't have a system that can force someone, even a former president, to answer for clearly breaking the law, we don't have a system at all.ᅳNew York Daily News/TNSIn presidential fundraising these days, the donors who matter most are the very small and the very, very big.A 64-year-old Ocean View man accused of killing one of his dogs has been freed from custody on supervised release, a form of cashless bail.GLENDALE, Ariz. ᅳ One of the most attention-grabbing days of Robert F. Kennedy Jr.'s independent presidential bid was also its last.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.03983941968211383,
+            "class_probabilities": {
+                "human": 0.9601605803178862,
+                "ai": 0.03983941968211383,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601605803178862,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.03983941968211383,
+                    "human": 0.9601605803178862,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°Donald Trump has made history in many ways over the last several years, most of it very bad. He was the first president in U.S. history to have entered the office without any prior public office or military experience. He is the first president to have ever been impeached twice, and certainly the first to have openly and explicitly attempted to subvert the peaceful transfer of power to his successor. For all his transgressions, at least Richard Nixon resigned.Now, Trump crosses another threshold, as the first president in history to have been criminally convicted of a felony, and one related to his presidential campaign to boot. After two days of deliberation, a jury of 12 Manhattanites has delivered a guilty verdict on all 34 counts brought by Manhattan District Attorney Alvin Bragg, involving Trump’s falsification of business records to conceal his hush money payment to Stormy Daniels in the run-up to the 2016 election.Next, the ex-president will be sentenced, and could well become the first former president to serve time behind bars, another first for this disreputable man.We can’t say that the conviction lands with the satisfaction of one that centered on his effort to overturn the election, or even his willful retention of classified records. Those processes, at the federal level and in Georgia, have been stalled by a mixture of judicial deference or outright obsequiousness — as is the case with Florida Federal Judge Aileen Cannon’s numerous delay tactics — and some prosecutorial timidity and incompetence, as with Fulton County District Attorney Fani Willis’ misguided decision to have a relationship with her appointed special prosecutor.Those cases are easier to explain, flashier and involve issues that are much more fundamental to Trump’s danger to democracy. We hope to see them advance, even if it seems very unlikely at this stage that any of them will progress substantially before the November election. Yet the conviction that Bragg has secured is no less a real crime, exhaustively documented and proven beyond a reasonable doubt. It happened, and Trump is being held to account, something that has all too rarely happened in his life.This might seem like small potatoes to some people, but the truth is, had Trump been made to respond to every one of his transgressions short of taking aim at American democracy itself, throughout his decades as a con man, swindler, sexual predator and overall reprobate, we probably wouldn’t be in this situation to begin with. Accountability would have neutralized him much earlier on, and now who knows if it will stop him.We can’t promise that this will change things, that it will expose Trump or finally derail his efforts to get back in the White House. Some observers think it will help, and indeed Trump has used every opportunity to use this trial as a campaign venue, painting himself as a victim of political persecution.It was not the job of the courts or the jury to game out the electoral consequences, which could go either way. But at the end of the day, if we don’t have a system that can force someone, even a former president, to answer for clearly breaking the law, we don’t have a system at all.—New York Daily News/TNSIn presidential fundraising these days, the donors who matter most are the very small and the very, very big.A 64-year-old Ocean View man accused of killing one of his dogs has been freed from custody on supervised release, a form of cashless bail.GLENDALE, Ariz. — One of the most attention-grabbing days of Robert F. Kennedy Jr.’s independent presidential bid was also its last."
+        }
+    ]
+}

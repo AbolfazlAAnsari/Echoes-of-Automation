@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00020559984841383994,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003450530057307333,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe Independent's recent articleraises many interesting points.Boris Johnson, perhaps still in party mode, has decided to “pass the parcel” toRishi Sunakwho will be holding it when the music stops.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002470105537213385,
+                    "sentence": "It seems more than likely that the unredacted content of the information Johnson has provided to the Cabinet Office, which he claims to be comprehensive, is likely to be damaging to his successors and opponents within the Tory party.Boris Johnson is not a charitable man, and the worst-case scenario for the Tories is that there could be an enormous embarrassment andreputational damage to Rishi Sunakand other contemporary actors in the Covid crisis.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002908422611653805,
+                    "sentence": "If Johnson feels that the outcome of the inquiry is likely to be politically terminal for him, he'll make sure that others will also suffer.The probability that the outcome of this debacle is likely to further damage his party's evaporatingpossibility of re-electionappears to be no disincentive.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00035657500848174095,
+                    "sentence": "Johnson's behaviour in this matter is reflective of profound disunities in the Tory party.It is correct that full disclosure is made to the formidableLady Hallett and her Covid inquiry.If that is what materialises from his uncharacteristic candour, then the benefit of disclosure trumps its possible motivation.David NelmesNewportHow can the home secretary be so inept, uncaring, and unimaginative?We rightly take inAfghans who helped our military campaign,together with their families, and then, after a few months, threaten to put them on the streets expecting them to find their own way in a different society, different culture, with no certainty of employment and no guarantee of housing.There is general agreement thathotel accommodationis not the solution for anything other than the short term.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00038005365058779716,
+                    "sentence": "The answer lies rather in the government purchasing mobile homes and establishing “villages” that provideacceptable living quartersso that our migrant friends can acclimatise and get the support they need.Ian ReidKilnwickKicking out the cookiesThe constant demands to accept cookies whenever someone wishes to use the internetis increasingly upsettingand an affront to the intelligence of users who are told: “we value yourprivacy“.If this were true why bombard users with lists of “necessary” cookies or “useful” cookies expecting users to waste time with the numerous choices offered?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006764403660781682,
+                    "sentence": "And finding the small print to be able to reject cookies -not always available- wastes even more time.The government should simply ban all thesenot-so-subtle waysof trying to extract personal data and information purely for commercial purposes.Peter FieldmanAddress SuppliedMPs need to get a real jobInterestinglettersfrom bothDavid Nelmes and Judith Danielsconcerning the behaviour of the nation's employees.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012479636643547565,
+                    "sentence": "Nelmes poked an accusatory finger at the idleness of particular MPs while Daniels enthuses over minor civil servants undermining their bosses' decisions.From the standpoint of an ordinary employed person who has never had the option to pop in and out of the workplace when it suited me or worked for bosses who appreciated an underling'sefforts to question his actions,I find this lazy and casually subversive culture of our public servants deeply irritating.Surely as taxpayers (and therefore employers) couldn't we assume every one of thosebeing lavishly paid(and pensioned) were at least being required to sign contracts of employment with agreed hours andholiday entitlementwhile engaging regularly in annual reviews and performance reviews in the workplace?Having MPs swanning about failing to show any understanding of being a conscientious “full-time” employee or public servant should not be seen as acceptable.Who makes the checks and balances when it comes to the workday effectiveness of the people we have employed to runparliamentand operate the civil service?Let's have MPs and civil servants adopt a 9 to 5 workday and ban bookingholidays in “term time”.We should monitor annual holiday entitlement and have regular performance reviews, attendance records and return-to-work sick leave interviews like the “normal” people must endure.It's time to instil some order and disciplineinto this cultureof shambolic ineptitude, don't you think?Steve MackinderDenver",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.006608679833334143,
+            "class_probabilities": {
+                "human": 0.9933913201666659,
+                "ai": 0.006608679833334143,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933913201666659,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006608679833334143,
+                    "human": 0.9933913201666659,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThe Independent’s recent articleraises many interesting points.Boris Johnson, perhaps still in party mode, has decided to “pass the parcel” toRishi Sunakwho will be holding it when the music stops. It seems more than likely that the unredacted content of the information Johnson has provided to the Cabinet Office, which he claims to be comprehensive, is likely to be damaging to his successors and opponents within the Tory party.Boris Johnson is not a charitable man, and the worst-case scenario for the Tories is that there could be an enormous embarrassment andreputational damage to Rishi Sunakand other contemporary actors in the Covid crisis. If Johnson feels that the outcome of the inquiry is likely to be politically terminal for him, he’ll make sure that others will also suffer.The probability that the outcome of this debacle is likely to further damage his party’s evaporatingpossibility of re-electionappears to be no disincentive. Johnson’s behaviour in this matter is reflective of profound disunities in the Tory party.It is correct that full disclosure is made to the formidableLady Hallett and her Covid inquiry.If that is what materialises from his uncharacteristic candour, then the benefit of disclosure trumps its possible motivation.David NelmesNewportHow can the home secretary be so inept, uncaring, and unimaginative?We rightly take inAfghans who helped our military campaign,together with their families, and then, after a few months, threaten to put them on the streets expecting them to find their own way in a different society, different culture, with no certainty of employment and no guarantee of housing.There is general agreement thathotel accommodationis not the solution for anything other than the short term. The answer lies rather in the government purchasing mobile homes and establishing “villages” that provideacceptable living quartersso that our migrant friends can acclimatise and get the support they need.Ian ReidKilnwickKicking out the cookiesThe constant demands to accept cookies whenever someone wishes to use the internetis increasingly upsettingand an affront to the intelligence of users who are told: “we value yourprivacy“.If this were true why bombard users with lists of “necessary” cookies or “useful” cookies expecting users to waste time with the numerous choices offered? And finding the small print to be able to reject cookies –not always available– wastes even more time.The government should simply ban all thesenot-so-subtle waysof trying to extract personal data and information purely for commercial purposes.Peter FieldmanAddress SuppliedMPs need to get a real jobInterestinglettersfrom bothDavid Nelmes and Judith Danielsconcerning the behaviour of the nation’s employees. Nelmes poked an accusatory finger at the idleness of particular MPs while Daniels enthuses over minor civil servants undermining their bosses’ decisions.From the standpoint of an ordinary employed person who has never had the option to pop in and out of the workplace when it suited me or worked for bosses who appreciated an underling’sefforts to question his actions,I find this lazy and casually subversive culture of our public servants deeply irritating.Surely as taxpayers (and therefore employers) couldn’t we assume every one of thosebeing lavishly paid(and pensioned) were at least being required to sign contracts of employment with agreed hours andholiday entitlementwhile engaging regularly in annual reviews and performance reviews in the workplace?Having MPs swanning about failing to show any understanding of being a conscientious “full-time” employee or public servant should not be seen as acceptable.Who makes the checks and balances when it comes to the workday effectiveness of the people we have employed to runparliamentand operate the civil service?Let’s have MPs and civil servants adopt a 9 to 5 workday and ban bookingholidays in “term time”.We should monitor annual holiday entitlement and have regular performance reviews, attendance records and return-to-work sick leave interviews like the “normal” people must endure.It’s time to instil some order and disciplineinto this cultureof shambolic ineptitude, don’t you think?Steve MackinderDenver"
+        }
+    ]
+}

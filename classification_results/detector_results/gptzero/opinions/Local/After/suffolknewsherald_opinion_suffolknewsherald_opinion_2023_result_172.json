@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0014408852439373732,
+                    "sentence": "Published 5:25 pm Tuesday, December 19, 2023ByStaff ReportsNewspapers are often accused of ignoring good news.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002616674406453967,
+                    "sentence": "On this special day, we're devoting this space to the news delivered more than 2,000 years ago by an angelic choir, the news of the coming of Emmanuel, God with us.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00225630821660161,
+                    "sentence": "Jesus was God's gift to the world on that first Christmas, the gift of a Creator willing to take on the flesh of His created beings in order to show them the Way to a relationship with Him.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0023292640689760447,
+                    "sentence": "That's good news, indeed.…Luke 1:26Now in the sixth month the angel Gabriel was sent from God to a city in Galilee called Nazareth,27to a virgin engaged to a man whose name was Joseph, of the descendants of David; and the virgin's name was Mary.28And coming in, he said to her, “Greetings, favored one!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0583660788834095,
+                    "sentence": "The Lord is with you.”29But she was very perplexed at this statement, and kept pondering what kind of salutation this was.30The angel said to her, “Do not be afraid, Mary; for you have found favor with God.31“And behold, you will conceive in your womb and bear a son, and you shall name Him Jesus.32“He will be great and will be called the Son of the Most High; and the Lord God will give Him the throne of His father David;33and He will reign over the house of Jacob forever, and His kingdom will have no end.”34Mary said to the angel, “How can this be, since I am a virgin?”35The angel answered and said to her, “The Holy Spirit will come upon you, and the power of the Most High will overshadow you; and for that reason the holy Child shall be called the Son of God.”…Luke 2:1Now in those days a decree went out from Caesar Augustus, that a census be taken of all the inhabited earth.2This was the first census taken while Quirinius was governor of Syria.3And everyone was on his way to register for the census, each to his own city.4Joseph also went up from Galilee, from the city of Nazareth, to Judea, to the city of David which is called Bethlehem, because he was of the house and family of David,5in order to register along with Mary, who was engaged to him, and was with child.6While they were there, the days were completed for her to give birth.7And she gave birth to her firstborn son; and she wrapped Him in cloths, and laid Him in a manger, because there was no room for them in the inn.8In the same region there were some shepherds staying out in the fields and keeping watch over their flock by night.9And an angel of the Lord suddenly stood before them, and the glory of the Lord shone around them; and they were terribly frightened.10But the angel said to them, “Do not be afraid; for behold, I bring you good news of great joy which will be for all the people;11for today in the city of David there has been born for you a Savior, who is Christ the Lord.12“This will be a sign for you: you will find a baby wrapped in cloths and lying in a manger.”13And suddenly there appeared with the angel a multitude of the heavenly host praising God and saying,14“Glory to God in the highest, And on earth peace among men with whom He is pleased.”15When the angels had gone away from them into heaven, the shepherds began saying to one another, “Let us go straight to Bethlehem then, and see this thing that has happened which the Lord has made known to us.”16So they came in a hurry and found their way to Mary and Joseph, and the baby as He lay in the manger.17When they had seen this, they made known the statement which had been told them about this Child.18And all who heard it wondered at the things which were told them by the shepherds.19But Mary treasured all these things, pondering them in her heart.20The shepherds went back, glorifying and praising God for all that they had heard and seen, just as had been told them.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009795015212148428,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005879044183529913,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.025041194076269924,
+            "class_probabilities": {
+                "human": 0.974671313226954,
+                "ai": 0.025041194076269924,
+                "mixed": 0.00028749269677611
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.974671313226954,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.025041194076269924,
+                    "human": 0.974671313226954,
+                    "mixed": 0.00028749269677611
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:25 pm Tuesday, December 19, 2023ByStaff ReportsNewspapers are often accused of ignoring good news. On this special day, we’re devoting this space to the news delivered more than 2,000 years ago by an angelic choir, the news of the coming of Emmanuel, God with us. Jesus was God’s gift to the world on that first Christmas, the gift of a Creator willing to take on the flesh of His created beings in order to show them the Way to a relationship with Him. That’s good news, indeed.…Luke 1:26Now in the sixth month the angel Gabriel was sent from God to a city in Galilee called Nazareth,27to a virgin engaged to a man whose name was Joseph, of the descendants of David; and the virgin’s name was Mary.28And coming in, he said to her, “Greetings, favored one! The Lord is with you.”29But she was very perplexed at this statement, and kept pondering what kind of salutation this was.30The angel said to her, “Do not be afraid, Mary; for you have found favor with God.31“And behold, you will conceive in your womb and bear a son, and you shall name Him Jesus.32“He will be great and will be called the Son of the Most High; and the Lord God will give Him the throne of His father David;33and He will reign over the house of Jacob forever, and His kingdom will have no end.”34Mary said to the angel, “How can this be, since I am a virgin?”35The angel answered and said to her, “The Holy Spirit will come upon you, and the power of the Most High will overshadow you; and for that reason the holy Child shall be called the Son of God.”…Luke 2:1Now in those days a decree went out from Caesar Augustus, that a census be taken of all the inhabited earth.2This was the first census taken while Quirinius was governor of Syria.3And everyone was on his way to register for the census, each to his own city.4Joseph also went up from Galilee, from the city of Nazareth, to Judea, to the city of David which is called Bethlehem, because he was of the house and family of David,5in order to register along with Mary, who was engaged to him, and was with child.6While they were there, the days were completed for her to give birth.7And she gave birth to her firstborn son; and she wrapped Him in cloths, and laid Him in a manger, because there was no room for them in the inn.8In the same region there were some shepherds staying out in the fields and keeping watch over their flock by night.9And an angel of the Lord suddenly stood before them, and the glory of the Lord shone around them; and they were terribly frightened.10But the angel said to them, “Do not be afraid; for behold, I bring you good news of great joy which will be for all the people;11for today in the city of David there has been born for you a Savior, who is Christ the Lord.12“This will be a sign for you: you will find a baby wrapped in cloths and lying in a manger.”13And suddenly there appeared with the angel a multitude of the heavenly host praising God and saying,14“Glory to God in the highest, And on earth peace among men with whom He is pleased.”15When the angels had gone away from them into heaven, the shepherds began saying to one another, “Let us go straight to Bethlehem then, and see this thing that has happened which the Lord has made known to us.”16So they came in a hurry and found their way to Mary and Joseph, and the baby as He lay in the manger.17When they had seen this, they made known the statement which had been told them about this Child.18And all who heard it wondered at the things which were told them by the shepherds.19But Mary treasured all these things, pondering them in her heart.20The shepherds went back, glorifying and praising God for all that they had heard and seen, just as had been told them.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

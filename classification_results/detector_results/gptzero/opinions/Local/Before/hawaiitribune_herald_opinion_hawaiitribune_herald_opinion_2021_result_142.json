@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 8.007654832908884e-05,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°There may never be satisfactory answers to what led to the senseless tragedy last week at Oxford High School that cost four teens their lives and injured seven others.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.877746687270701e-05,
+                    "sentence": "But every effort should be taken to figure out why it happened and how to prevent future violence.There may never be satisfactory answers to what led to the senseless tragedy last week at Oxford High School that cost four teens their lives and injured seven others.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.590730557334609e-05,
+                    "sentence": "But every effort should be taken to figure out why it happened and how to prevent future violence.All reviews of the deadly shooting should be welcomed.Yet Oxford Superintendent Tim Throne has turned down Michigan Attorney General Dana Nessel's offer to investigate the shooting.“I am extremely disappointed that the school district chose to decline my offer to devote the full resources of the Department of Attorney General to review the events leading up to and on November 30th,” Nessel said in a statement.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.399188426556066e-05,
+                    "sentence": "“This tragedy demands a united effort from all of us who serve the Oxford community.”Nessel's offer came after Throne wrote to the Oxford school community, explaining that he would seek an outside review:” … I have personally asked for a third-party review of all the events of the past week because our community and our families deserve a full, transparent accounting of what occurred.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.7107274945592508e-05,
+                    "sentence": "We also plan to make regular updates to our families and community.”The district's attorney on Monday said school officials are already working with the Oakland County prosecutor and sheriff, in addition to their own internal investigation.While Throne may be leery of the Democratic attorney general's involvement, Nessel's office could be helpful.Nessel has said an AG probe could determine in part civil liability, including whether school or state policies were violated leading up to the shooting.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008662906475365162,
+                    "sentence": "Oxford's rejection doesn't preclude her involvement, but if the district cooperates, it could make the review go more smoothly.The county prosecutor and sheriff are focused on investigating criminal conduct.Nessel made the case that if the school district hires a private firm to conduct the investigation, it won't be an “independent” one as the firm would be serving its client ᅳ the district.Throne has sought to defend the school's response ahead of the actions taken by 15-year-old suspect Ethan Crumbley.That morning, hours before the shooting would take place, Crumbley and his parents met with officials from the school in regard to a disturbing drawing a teacher had seen that portrayed gun violence.Yet Crumbley remained in school after his parents refused to take him home, and had taken a gun with him to school that he later allegedly turned on his classmates.Hindsight makes these events seem more obvious, but all the details must be made public so that warning signs don't go overlooked in similar instances.Throne has said he wants to leave “no stone unturned.”To that end, the district shouldn't shut out any investigation.The families of the Oxford victims deserve a full accounting and transparency.Record-setting University of Hawaii quarterback and 2007 Heisman Trophy finalist Colt Brennan has died, his father Terry Brennan told the Honolulu Star-Advertiser.The Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006000000983476639,
+                    "sentence": "The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004873450845479965,
+                    "sentence": "Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneA 45-year-old Hilo man was sentenced Aug. 22 to 10 years for a domestic assault last Christmas Eve on his estranged girlfriend.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.00982192507144982,
+            "class_probabilities": {
+                "human": 0.9901780749285501,
+                "ai": 0.00982192507144982,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9901780749285501,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.00982192507144982,
+                    "human": 0.9901780749285501,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°There may never be satisfactory answers to what led to the senseless tragedy last week at Oxford High School that cost four teens their lives and injured seven others. But every effort should be taken to figure out why it happened and how to prevent future violence.There may never be satisfactory answers to what led to the senseless tragedy last week at Oxford High School that cost four teens their lives and injured seven others. But every effort should be taken to figure out why it happened and how to prevent future violence.All reviews of the deadly shooting should be welcomed.Yet Oxford Superintendent Tim Throne has turned down Michigan Attorney General Dana Nessel’s offer to investigate the shooting.“I am extremely disappointed that the school district chose to decline my offer to devote the full resources of the Department of Attorney General to review the events leading up to and on November 30th,” Nessel said in a statement. “This tragedy demands a united effort from all of us who serve the Oxford community.”Nessel’s offer came after Throne wrote to the Oxford school community, explaining that he would seek an outside review:” … I have personally asked for a third-party review of all the events of the past week because our community and our families deserve a full, transparent accounting of what occurred. We also plan to make regular updates to our families and community.”The district’s attorney on Monday said school officials are already working with the Oakland County prosecutor and sheriff, in addition to their own internal investigation.While Throne may be leery of the Democratic attorney general’s involvement, Nessel’s office could be helpful.Nessel has said an AG probe could determine in part civil liability, including whether school or state policies were violated leading up to the shooting. Oxford’s rejection doesn’t preclude her involvement, but if the district cooperates, it could make the review go more smoothly.The county prosecutor and sheriff are focused on investigating criminal conduct.Nessel made the case that if the school district hires a private firm to conduct the investigation, it won’t be an “independent” one as the firm would be serving its client — the district.Throne has sought to defend the school’s response ahead of the actions taken by 15-year-old suspect Ethan Crumbley.That morning, hours before the shooting would take place, Crumbley and his parents met with officials from the school in regard to a disturbing drawing a teacher had seen that portrayed gun violence.Yet Crumbley remained in school after his parents refused to take him home, and had taken a gun with him to school that he later allegedly turned on his classmates.Hindsight makes these events seem more obvious, but all the details must be made public so that warning signs don’t go overlooked in similar instances.Throne has said he wants to leave “no stone unturned.”To that end, the district shouldn’t shut out any investigation.The families of the Oxford victims deserve a full accounting and transparency.Record-setting University of Hawaii quarterback and 2007 Heisman Trophy finalist Colt Brennan has died, his father Terry Brennan told the Honolulu Star-Advertiser.The Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today. The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph. Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneA 45-year-old Hilo man was sentenced Aug. 22 to 10 years for a domestic assault last Christmas Eve on his estranged girlfriend."
+        }
+    ]
+}

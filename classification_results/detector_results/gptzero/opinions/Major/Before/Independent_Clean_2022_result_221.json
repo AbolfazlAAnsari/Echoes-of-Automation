@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 7.879757322371006e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.780600233469158e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukIfLiz Trussbecomes PM and implements her ideas onpublic sector pay being linked to local cost of livingvariations, then I suggest she starts with MPs and ministers' salaries.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.299917681142688e-05,
+                    "sentence": "I am informed that average salaries in areas such as Jacob Rees-Mogg's constituency in North Somerset are considerably lower than those in the Westminster area ofLondon.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.602364687249064e-05,
+                    "sentence": "She should put the proposal first to cabinet and then to parliament and act on the response.Patrick ClearyGloucestershireLiz Truss suggested a policy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.285179162863642e-05,
+                    "sentence": "It provoked public outrage.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.33712367946282e-05,
+                    "sentence": "She changed her mind.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.19609485915862e-05,
+                    "sentence": "Is this the closest we can get to democracy?Susan AlexanderSouth GloucestershireJust when you thought that Liz Truss couldn't become any nastier she discovers an even deeper barrel to scrape.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011915923823835328,
+                    "sentence": "I hope that thislatest carrotto the ageing and right-wing Tory party members is only a temporary “promise” to ensure she becomes the next prime minister.With three daughters who are teachers and only just managing on their current salaries, any reduction in their income during this time of soaring inflation would probably put them firmly in that ever-expanding group of citizens who have to make the painful decision to eat or heat.The entire farce of the Tory leadership election flies in the face of democracy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018195895245298743,
+                    "sentence": "Any political party with an ounce of decency would go to the country to decide who should run it, particularly after the previous regime has been mired in such corruption and downright criminality.David FeltonWistaston, CheshireLooking at the promises of our two would-be prime ministers, I can only hope and pray that, like the promises made by their recent predecessors, the promises do not translate into action.Joanna PallisterDurham CityOK, let's see if I've got this right.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.267234544386156e-05,
+                    "sentence": "After years of Conservative Party-imposed austerity, which primarily hit ordinary people; the Conservative-led injurious Brexit, followed by fiscally bungled aspects of the pandemic, we are being told that public sectorworkers, outside London and the South East,have to welcome a pay cut to help balance the books.I wonder how provoking an escalation of industrial action is going to help anyone in this country other than politicians and their egos?Robert BostonKingshillTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereWhilst it is depressing enough that Liz Truss is most likely to become our next prime minister, equally as depressing is that she will probably keep most of the existing cabinet members or the “sinister ministers” as I call them.Especially as most of them have declared her as their choice to replace Johnson, which means that we will continue to suffer the likes of Nadine Dorries, Jacob Rees-Mogg, Priti Patel, Suella Braverman and Grant Shapps making it up as they go along as per usual.This gang of reprobate chancers should all, by rights, be confined to the bin - and good riddance!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.170602526050061e-05,
+                    "sentence": "And what of Rishi Sunak, one idly ponders, will he be ignominiously relegated to the back benches or at the last moment, sensing annihilation, pledge allegiance to Truss as well?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.276221054373309e-05,
+                    "sentence": "With this leadership fiasco, anything is possible.Linda EvansLondon",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.0031759196115001315,
+            "class_probabilities": {
+                "human": 0.9968240803884999,
+                "ai": 0.0031759196115001315,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9968240803884999,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0031759196115001315,
+                    "human": 0.9968240803884999,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukIfLiz Trussbecomes PM and implements her ideas onpublic sector pay being linked to local cost of livingvariations, then I suggest she starts with MPs and ministers’ salaries. I am informed that average salaries in areas such as Jacob Rees-Mogg’s constituency in North Somerset are considerably lower than those in the Westminster area ofLondon.  She should put the proposal first to cabinet and then to parliament and act on the response.Patrick ClearyGloucestershireLiz Truss suggested a policy. It provoked public outrage. She changed her mind. Is this the closest we can get to democracy?Susan AlexanderSouth GloucestershireJust when you thought that Liz Truss couldn’t become any nastier she discovers an even deeper barrel to scrape. I hope that thislatest carrotto the ageing and right-wing Tory party members is only a temporary “promise” to ensure she becomes the next prime minister.With three daughters who are teachers and only just managing on their current salaries, any reduction in their income during this time of soaring inflation would probably put them firmly in that ever-expanding group of citizens who have to make the painful decision to eat or heat.The entire farce of the Tory leadership election flies in the face of democracy. Any political party with an ounce of decency would go to the country to decide who should run it, particularly after the previous regime has been mired in such corruption and downright criminality.David FeltonWistaston, CheshireLooking at the promises of our two would-be prime ministers, I can only hope and pray that, like the promises made by their recent predecessors, the promises do not translate into action.Joanna PallisterDurham CityOK, let’s see if I’ve got this right. After years of Conservative Party-imposed austerity, which primarily hit ordinary people; the Conservative-led injurious Brexit, followed by fiscally bungled aspects of the pandemic, we are being told that public sectorworkers, outside London and the South East,have to welcome a pay cut to help balance the books.I wonder how provoking an escalation of industrial action is going to help anyone in this country other than politicians and their egos?Robert BostonKingshillTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereWhilst it is depressing enough that Liz Truss is most likely to become our next prime minister, equally as depressing is that she will probably keep most of the existing cabinet members or the “sinister ministers” as I call them.Especially as most of them have declared her as their choice to replace Johnson, which means that we will continue to suffer the likes of Nadine Dorries, Jacob Rees-Mogg, Priti Patel, Suella Braverman and Grant Shapps making it up as they go along as per usual.This gang of reprobate chancers should all, by rights, be confined to the bin – and good riddance! And what of Rishi Sunak, one idly ponders, will he be ignominiously relegated to the back benches or at the last moment, sensing annihilation, pledge allegiance to Truss as well? With this leadership fiasco, anything is possible.Linda EvansLondon"
+        }
+    ]
+}

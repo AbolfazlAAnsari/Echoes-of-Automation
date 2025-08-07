@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 6.691905582556501e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.513298573438078e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukWhen a heinous act such as the bomb outside the Liverpool Women's Hospital has taken place, there is always the possibility of a backlash when the alleged perpetrator is an immigrant and even more if he is anasylum seeker.Great care has to be taken in order not to stir up any social disquiet and hostile reaction against some of the ethnic communities among us.But the home secretary (whose main role is to ensure public safety and security) obviously does not think such caution is necessary.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011011601600330323,
+                    "sentence": "For her, itwas a golden opportunityto take a potshot at the \"dysfunctional\" asylum system and the \"whole professional legal services industry that has based itself on the rights of appeal\".Well done,Priti Patel!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.5459414802026e-05,
+                    "sentence": "You have held yourself up as a role model for the agitators of dangerous ill-content.Rosa Wei-Ling ChangSheffieldOh no, he's notThe phenomenon ofBoris Johnsonnow suddenly toning down the jingoistic blusterto \"save Christmas\"is the shoddiest pantomime possible.In this one - Johnson desperately papers over more and more and ever wider and deeper cracks (presumably with gold wallpaper) while the house of cards (all jokers) tumbles down around him and the rest of Britain.And yes there are mixed and messy metaphors here just as there is mixed up and incredibly messy populism driving every harm that is currently happening to the UK.If only it were \"behind us\".Amanda BakerEdinburgh, ScotlandHS2 replacementApropos has announced that the government is scrapping the HS2 link to Leeds.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.373503078473732e-05,
+                    "sentence": "If everything that's going to replace HS2 is going to be so much better than HS2, as the government claims, then why isn't the government also scrapping the link to Manchester?Bill McKinnonLeedsStandard behaviourThe reports of racism shown towards Azeem Rafiq and now,Ebony Rainford-Brent, does not surprise me in the least.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00035544874845072627,
+                    "sentence": "It is standard behaviour of those who, while proclaiming they are not supremacists, certainly behave as though they are.Heather GreyAddress suppliedWe need hope not fearPossibly the most saddening comment that I increasingly hear made by young people in our society is that they cannot contemplate bringing children into this world and will walk away from the possibility of having a family.Now, I also hear elderly parents who have lovingly brought up a family say that in the present world they would not consider it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00025064125657081604,
+                    "sentence": "This is a tragic indictment of where we are as a nation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004032757133245468,
+                    "sentence": "Quite understandable concerns about the future have clearly been transformed into fear.Our world does face an uncertain future and we will be in desperate need of talented, visionary leadership.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005700129549950361,
+                    "sentence": "The growing fear in this country is that we are passengers in the back seat of a car being driven by an unqualified, inebriated driver with no idea of our destination, the route to take or indeed the rules of the road.The word \"hopeless\" is increasingly being associated with our prime minister and it's unfortunate that it is our nation that is feeling a total lack of hope as a result of his unprincipled lack of vision.John DillonNorthfieldRead MorePM insists Britain 'not remotely corrupt country' amid sleaze rowBoris Johnson under pressure at Cop26 as 'huge amount' yet to be doneEU and UK are playing chicken - and we still can't get Brexit doneLetters: Azeem Rafiq's experience of racism is not an appalling exception - if onlyLetters: Is Boris Johnson's newly combed hair of political significance?Letters: Bravo Tesco, the anti-vax boycott means I can shop with greater confidence",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.006635186464044889,
+            "class_probabilities": {
+                "human": 0.9933648135359551,
+                "ai": 0.006635186464044889,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933648135359551,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006635186464044889,
+                    "human": 0.9933648135359551,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukWhen a heinous act such as the bomb outside the Liverpool Women's Hospital has taken place, there is always the possibility of a backlash when the alleged perpetrator is an immigrant and even more if he is anasylum seeker.Great care has to be taken in order not to stir up any social disquiet and hostile reaction against some of the ethnic communities among us.But the home secretary (whose main role is to ensure public safety and security) obviously does not think such caution is necessary. For her, itwas a golden opportunityto take a potshot at the \"dysfunctional\" asylum system and the \"whole professional legal services industry that has based itself on the rights of appeal\".Well done,Priti Patel! You have held yourself up as a role model for the agitators of dangerous ill-content.Rosa Wei-Ling ChangSheffieldOh no, he's notThe phenomenon ofBoris Johnsonnow suddenly toning down the jingoistic blusterto \"save Christmas\"is the shoddiest pantomime possible.In this one - Johnson desperately papers over more and more and ever wider and deeper cracks (presumably with gold wallpaper) while the house of cards (all jokers) tumbles down around him and the rest of Britain.And yes there are mixed and messy metaphors here just as there is mixed up and incredibly messy populism driving every harm that is currently happening to the UK.If only it were \"behind us\".Amanda BakerEdinburgh, ScotlandHS2 replacementApropos has announced that the government is scrapping the HS2 link to Leeds. If everything that's going to replace HS2 is going to be so much better than HS2, as the government claims, then why isn't the government also scrapping the link to Manchester?Bill McKinnonLeedsStandard behaviourThe reports of racism shown towards Azeem Rafiq and now,Ebony Rainford-Brent, does not surprise me in the least. It is standard behaviour of those who, while proclaiming they are not supremacists, certainly behave as though they are.Heather GreyAddress suppliedWe need hope not fearPossibly the most saddening comment that I increasingly hear made by young people in our society is that they cannot contemplate bringing children into this world and will walk away from the possibility of having a family.Now, I also hear elderly parents who have lovingly brought up a family say that in the present world they would not consider it. This is a tragic indictment of where we are as a nation. Quite understandable concerns about the future have clearly been transformed into fear.Our world does face an uncertain future and we will be in desperate need of talented, visionary leadership. The growing fear in this country is that we are passengers in the back seat of a car being driven by an unqualified, inebriated driver with no idea of our destination, the route to take or indeed the rules of the road.The word \"hopeless\" is increasingly being associated with our prime minister and it's unfortunate that it is our nation that is feeling a total lack of hope as a result of his unprincipled lack of vision.John DillonNorthfieldRead MorePM insists Britain 'not remotely corrupt country' amid sleaze rowBoris Johnson under pressure at Cop26 as 'huge amount' yet to be doneEU and UK are playing chicken - and we still can't get Brexit doneLetters: Azeem Rafiq's experience of racism is not an appalling exception - if onlyLetters: Is Boris Johnson's newly combed hair of political significance?Letters: Bravo Tesco, the anti-vax boycott means I can shop with greater confidence"
+        }
+    ]
+}

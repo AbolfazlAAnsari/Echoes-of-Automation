@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0001371369871776551,
+                    "sentence": "Become such a good listener, you're “burning calories.”When the Opinion columnist David Brooks was growing up, he was emotionally detached, he says.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017303615459240973,
+                    "sentence": "Over the past several years, he's worked to change that.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001584875863045454,
+                    "sentence": "In this audio essay, Brooks shares what he learned opening up with others on his journey to become a fuller human being: that better conversation could help save America from its “social and emotional breakdown.”The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010922976071015,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015332995099015534,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010318378190277144,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.This Opinion short was produced by Derek Arthur.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013139238581061363,
+                    "sentence": "It was edited by Kaari Pitkin and Alison Bruzek.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.085363853955641e-05,
+                    "sentence": "Mixing by Pat McCusker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012391273048706353,
+                    "sentence": "Original music by Pat McCusker, Isaac Jones and Carole Sabouraud.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012944436457473785,
+                    "sentence": "Fact-checking by Mary Marge Locker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00020069131278432906,
+                    "sentence": "Audience strategy by Shannon Busta and Kristina Samulewski.PHOTO: (PHOTOGRAPH BY Liana Finck FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.006608679833334143,
+            "class_probabilities": {
+                "human": 0.9933913201666659,
+                "ai": 0.006608679833334143,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933913201666659,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006608679833334143,
+                    "human": 0.9933913201666659,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Become such a good listener, you’re “burning calories.”When the Opinion columnist David Brooks was growing up, he was emotionally detached, he says. Over the past several years, he’s worked to change that. In this audio essay, Brooks shares what he learned opening up with others on his journey to become a fuller human being: that better conversation could help save America from its “social and emotional breakdown.”The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.This Opinion short was produced by Derek Arthur. It was edited by Kaari Pitkin and Alison Bruzek. Mixing by Pat McCusker. Original music by Pat McCusker, Isaac Jones and Carole Sabouraud. Fact-checking by Mary Marge Locker. Audience strategy by Shannon Busta and Kristina Samulewski.PHOTO:  (PHOTOGRAPH BY Liana Finck FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

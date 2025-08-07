@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0006961040780879557,
+                    "sentence": "Mutual Fund and ETF data provided byRefinitiv Lipper.The Fox News contributor reacts to a Reuters survey in which only 29% of those in the U.S. said they could trust news most of the timeTake a bow.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006982946651987731,
+                    "sentence": "The U.S. mediafinished dead lastin the world on the trust front in a new poll.The country with the most resources - human, technical and otherwise - the country with the most channels, finished 46th in a 46-horse race in trust, according to a Reuters survey this week.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012067966163158417,
+                    "sentence": "Finland ranked the highest with a 65-percent trust rating.But here in the U.S., we're trusted by a whopping 29 percent of those reading and watching.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016986167756840587,
+                    "sentence": "The Reuters survey also found that trust in media improved in nearly every country surveyed from last year, but not in this country, where it remained largely flat.JOE CONCHA:: DEMOCRATIC AND MEDIA MESSAGING INDISTINGUISHABLE ON DEFEATED VOTING BILLYou want to laugh?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017125781159847975,
+                    "sentence": "The favorite category that we have here is the weather.But are you really surprised?Looking at pollsover the last few years - we're talking pre-Donald Trump - we've been trending in this dubious direction for some time.OneAxios/SurveyMonkey pollfound that nearly eight in 10 independent voters believe that news organizations report news they know to be fake, false, or purposefully misleading at least some of the time.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008099839091300964,
+                    "sentence": "That means they think it's intentional.As for Republicans, 92 percent feel the same way.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011131907813251019,
+                    "sentence": "Boy, I'd love to go bowling some time with the other eight percent.It wasn't always this way, believe it or not.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010339769534766674,
+                    "sentence": "Back in 1976, in the days of anchors like Walter Cronkite and David Brinkley and Roger Mudd, nearly two-thirds of the country trusted the media, according to Gallup.Fast forward to 2021, and anchors nowadays are activists, all sharing their feelings and opinions, which always support the blue team, and passing it off as objective news reporting.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.015612296760082245,
+                    "sentence": "It's an insult to those who have eyes and ears and sanity.Trust is like toothpaste.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.020977480337023735,
+                    "sentence": "Once it's out of the tube, it's impossible to put back in.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011165797710418701,
+                    "sentence": "In other words, don't expect the Cronkite and Brinkley 2.0s of the world to save journalism in the U.S. any time soon.Joe Concha is a FOX News contributor who joined the network in 2020.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.043646447360515594,
+                    "sentence": "His latest book is \"Progressively Worse: Why Today's Democrats Ain't Your Daddy's Donkeys\" (Broadside Books, July 30, 2024).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.025041194076269924,
+            "class_probabilities": {
+                "human": 0.974671313226954,
+                "ai": 0.025041194076269924,
+                "mixed": 0.00028749269677611
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.974671313226954,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.025041194076269924,
+                    "human": 0.974671313226954,
+                    "mixed": 0.00028749269677611
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Mutual Fund and ETF data provided byRefinitiv Lipper.The Fox News contributor reacts to a Reuters survey in which only 29% of those in the U.S. said they could trust news most of the timeTake a bow. The U.S. mediafinished dead lastin the world on the trust front in a new poll.The country with the most resources – human, technical and otherwise – the country with the most channels, finished 46th in a 46-horse race in trust, according to a Reuters survey this week. Finland ranked the highest with a 65-percent trust rating.But here in the U.S., we're trusted by a whopping 29 percent of those reading and watching. The Reuters survey also found that trust in media improved in nearly every country surveyed from last year, but not in this country, where it remained largely flat.JOE CONCHA:: DEMOCRATIC AND MEDIA MESSAGING INDISTINGUISHABLE ON DEFEATED VOTING BILLYou want to laugh? The favorite category that we have here is the weather.But are you really surprised?Looking at pollsover the last few years – we're talking pre-Donald Trump – we've been trending in this dubious direction for some time.OneAxios/SurveyMonkey pollfound that nearly eight in 10 independent voters believe that news organizations report news they know to be fake, false, or purposefully misleading at least some of the time. That means they think it's intentional.As for Republicans, 92 percent feel the same way. Boy, I'd love to go bowling some time with the other eight percent.It wasn't always this way, believe it or not. Back in 1976, in the days of anchors like Walter Cronkite and David Brinkley and Roger Mudd, nearly two-thirds of the country trusted the media, according to Gallup.Fast forward to 2021, and anchors nowadays are activists, all sharing their feelings and opinions, which always support the blue team, and passing it off as objective news reporting. It's an insult to those who have eyes and ears and sanity.Trust is like toothpaste. Once it's out of the tube, it's impossible to put back in. In other words, don't expect the Cronkite and Brinkley 2.0s of the world to save journalism in the U.S. any time soon.Joe Concha is a FOX News contributor who joined the network in 2020. His latest book is \"Progressively Worse: Why Today's Democrats Ain't Your Daddy's Donkeys\" (Broadside Books, July 30, 2024)."
+        }
+    ]
+}

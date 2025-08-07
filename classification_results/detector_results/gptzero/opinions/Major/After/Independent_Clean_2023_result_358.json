@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 4.386671571410261e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.3952950111124665e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukNever does a day go by during this Christmas recess without a member of our Conservative government putting their foot right in it.First, we had theJames Cleverly debaclethat continues to rumble on.Now it's the turn of armed forces minister and Plymouth MP,Johnny Mercer.Earlier this year, Mercer pledged to end veteran forces homelessness.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.045191963086836e-05,
+                    "sentence": "With days left, it's up by 14 per cent.Yet whenchallenged on his politicstwice over the recess, first, instead of being intelligent and sticking to policy, our Johnny accused Carol Vorderman of leading a “s***, lonely life\".Hardly the words of a role model.Yet just hours later, he got personal again by accusing a political opponent who served as a Royal Marine and captain for seven years of having \"served five minutes in uniform\".Surely, if Mr Mercer is going to continue to behave like this, then either he must resign - or, better still,Rishi Sunakshould sack him.Geoffrey BrookingHampshireWe need a stricter form of inheritance taxSo, Tories believeinheritance tax is a tax on aspiration?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.0327424105489627e-05,
+                    "sentence": "That it is unfair to tax funds that have already been taxed?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.347402424784377e-05,
+                    "sentence": "Well, my understanding of fiscal policy is that money is taxed multiple times as it makes its way through the economy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.130011312663555e-05,
+                    "sentence": "Why should unearned income in the form of substantial inherited windfalls be treated any different?Too many people from wealthy backgrounds aspire to little more than living off family wealth and inheritance is the full measure of their ambition.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005254019051790237,
+                    "sentence": "If changes must be made to inheritance tax, then devise a method by which tax is paid by the recipient at their marginal rate once equitable thresholds and allowances have passed.The 96 per cent of the population who will never benefit from massive inherited windfalls deserve better than this deliberate ransacking of the economy, for the benefit of the already, excessively enriched, few.David SmithTauntonIs there nothing human beings won't weaponise?As a murder investigation is launched in Sheffield followinganother senseless killing, it seems the cowardly act of driving your car into people is becoming as commonplace as cowardly knife crime.Is there nothing human beings won't weaponise nowadays?Certainly, those in power too spineless to speak their mind or argue against the bullies are complicit in these acts of cowardice by poor example?Richard WhitesideHalifaxYet another shallow Tory boastJames Cleverly's boast that he was effectively responsible for zero small boat crossings over Christmas is reminiscent of Priti Patel's equally stupid podium statement that car crime, burglary and shoplifting had fallen.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004757658578455448,
+                    "sentence": "This was in April 2020 when the country was in full lockdown with shops closed and most people at home.Alan PackKent",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.01604403346699664,
+            "class_probabilities": {
+                "human": 0.9839559665330034,
+                "ai": 0.01604403346699664,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9839559665330034,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01604403346699664,
+                    "human": 0.9839559665330034,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukNever does a day go by during this Christmas recess without a member of our Conservative government putting their foot right in it.First, we had theJames Cleverly debaclethat continues to rumble on.Now it’s the turn of armed forces minister and Plymouth MP,Johnny Mercer.Earlier this year, Mercer pledged to end veteran forces homelessness. With days left, it’s up by 14 per cent.Yet whenchallenged on his politicstwice over the recess, first, instead of being intelligent and sticking to policy, our Johnny accused Carol Vorderman of leading a “s***, lonely life\".Hardly the words of a role model.Yet just hours later, he got personal again by accusing a political opponent who served as a Royal Marine and captain for seven years of having \"served five minutes in uniform\".Surely, if Mr Mercer is going to continue to behave like this, then either he must resign – or, better still,Rishi Sunakshould sack him.Geoffrey BrookingHampshireWe need a stricter form of inheritance taxSo, Tories believeinheritance tax is a tax on aspiration? That it is unfair to tax funds that have already been taxed? Well, my understanding of fiscal policy is that money is taxed multiple times as it makes its way through the economy. Why should unearned income in the form of substantial inherited windfalls be treated any different?Too many people from wealthy backgrounds aspire to little more than living off family wealth and inheritance is the full measure of their ambition. If changes must be made to inheritance tax, then devise a method by which tax is paid by the recipient at their marginal rate once equitable thresholds and allowances have passed.The 96 per cent of the population who will never benefit from massive inherited windfalls deserve better than this deliberate ransacking of the economy, for the benefit of the already, excessively enriched, few.David SmithTauntonIs there nothing human beings won’t weaponise?As a murder investigation is launched in Sheffield followinganother senseless killing, it seems the cowardly act of driving your car into people is becoming as commonplace as cowardly knife crime.Is there nothing human beings won’t weaponise nowadays?Certainly, those in power too spineless to speak their mind or argue against the bullies are complicit in these acts of cowardice by poor example?Richard WhitesideHalifaxYet another shallow Tory boastJames Cleverly’s boast that he was effectively responsible for zero small boat crossings over Christmas is reminiscent of Priti Patel’s equally stupid podium statement that car crime, burglary and shoplifting had fallen. This was in April 2020 when the country was in full lockdown with shops closed and most people at home.Alan PackKent"
+        }
+    ]
+}

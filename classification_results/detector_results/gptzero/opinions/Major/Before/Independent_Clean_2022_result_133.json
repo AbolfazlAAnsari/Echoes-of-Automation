@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0010087533155456185,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013798442669212818,
+                    "sentence": "Please send your letters toletters@independent.co.ukBeforecelebrating their defence agreement with Britain, the Swedish and Finnish prime ministers would do well to reflect seriously on how lightlyBoris Johnsonregards signing his name to an international agreement.He signed theNorthern Irelandprotocol with the EU in order to be able to claim to have got Brexit done, only to start arguing in no time at all that it was unworkable.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015545906499028206,
+                    "sentence": "He now threatens to tear it up for his own political advantage.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010825884528458118,
+                    "sentence": "Whatever happened to \"an Englishman's word is his bond\"?No wonder we are so diminished in the eyes of the world.David IrvingPembrokeshireFood banksReadingLee Anderson's remarks regarding the use of food banksnot only angered me but seemed to epitomise the Conservative ethos.Like other Conservative MPs, Anderson appears to have lost sight of why food banks are needed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009964321507140994,
+                    "sentence": "They are required because people cannot afford to spend money on eating, heating, cooking and travel.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011292253620922565,
+                    "sentence": "These desperate people, some of whom are in employment, cannot survive on our benefits system's payments.Anderson's stated views - past and present - simply reinforce why the Conservatives ought not to be governing this once-proud country.It is indicative of the calibre of the politicians offered to the electorate by the Conservative Party.Keith PooleBasingstokeMental health crisisThis week marksMental Health Awareness Week, providing an opportunity to raise awareness and mobilise efforts in support of mental health.The rise in such problems over recent years has previously been called a mental health crisis and one of the greatest public health challenges of our times.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001721213455311954,
+                    "sentence": "These problems are even more worrying when they concern the mental fitness of our younger generations, and how we are preparing them to face the growing challenges of entering adulthood.Against the backdrop of increased demand during the pandemic, our mental health services are facing overwhelming and unprecedented pressures, which existed even before Covid-19 and will only be further exacerbated by the cost of living crisis.This rapidly escalating numbers of those seeking support and faced with inadequate services could potentially lead to a lost generation of vulnerable children and young people.Against the perfect storm of a mental health crisis combined with a global pandemic, we must not lose sight of the challenges that our children and young people are facing.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1056160181760788,
+                    "sentence": "It's vital that we renew our efforts in a national crusade to ensure that they receive adequate mental health support.The Scottish Children's Services Coalition:Kenny Graham Falkland House SchoolLynn Bell LOVE LearningStephen McGhee Spark of GeniusNiall Kelly Young FoundationsTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereOur European friendsWho do Tory parliamentarians think they are kidding when they refer to our European \"friends\"?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.11647608876228333,
+                    "sentence": "Honestly, it's pathetic and cringeworthy and makes us look like the complete idiots we are for walking away from the EU.It's obvious that the \"oven-ready\" deal was just another lie - look at the border problems in Northern Ireland.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.22248707711696625,
+                    "sentence": "Who in their right mind would think that leaving the economic union would not create a land border in Ireland or the Irish Sea?We were told that it was insulting to suggest that Brexiteers didn't understand what they were voting for.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.24152600765228271,
+                    "sentence": "But how could they, given that the answer to the Irish border question doesn't exist, even now.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3094683587551117,
+                    "sentence": "The DUP lost the recent election and have to live with what this government signed up to on their behalf.It beggars belief that we are led by a bunch of self-serving politicians who will lie at any cost to stay in power.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1302611529827118,
+                    "sentence": "I despair.Simon WatsonWorcester",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.056907381579152753,
+            "class_probabilities": {
+                "human": 0.9430926184208472,
+                "ai": 0.056907381579152753,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9430926184208472,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.056907381579152753,
+                    "human": 0.9430926184208472,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukBeforecelebrating their defence agreement with Britain, the Swedish and Finnish prime ministers would do well to reflect seriously on how lightlyBoris Johnsonregards signing his name to an international agreement.He signed theNorthern Irelandprotocol with the EU in order to be able to claim to have got Brexit done, only to start arguing in no time at all that it was unworkable. He now threatens to tear it up for his own political advantage. Whatever happened to \"an Englishman's word is his bond\"?No wonder we are so diminished in the eyes of the world.David IrvingPembrokeshireFood banksReadingLee Anderson's remarks regarding the use of food banksnot only angered me but seemed to epitomise the Conservative ethos.Like other Conservative MPs, Anderson appears to have lost sight of why food banks are needed. They are required because people cannot afford to spend money on eating, heating, cooking and travel. These desperate people, some of whom are in employment, cannot survive on our benefits system's payments.Anderson's stated views - past and present - simply reinforce why the Conservatives ought not to be governing this once-proud country.It is indicative of the calibre of the politicians offered to the electorate by the Conservative Party.Keith PooleBasingstokeMental health crisisThis week marksMental Health Awareness Week, providing an opportunity to raise awareness and mobilise efforts in support of mental health.The rise in such problems over recent years has previously been called a mental health crisis and one of the greatest public health challenges of our times. These problems are even more worrying when they concern the mental fitness of our younger generations, and how we are preparing them to face the growing challenges of entering adulthood.Against the backdrop of increased demand during the pandemic, our mental health services are facing overwhelming and unprecedented pressures, which existed even before Covid-19 and will only be further exacerbated by the cost of living crisis.This rapidly escalating numbers of those seeking support and faced with inadequate services could potentially lead to a lost generation of vulnerable children and young people.Against the perfect storm of a mental health crisis combined with a global pandemic, we must not lose sight of the challenges that our children and young people are facing. It's vital that we renew our efforts in a national crusade to ensure that they receive adequate mental health support.The Scottish Children's Services Coalition:Kenny Graham                     Falkland House SchoolLynn Bell                     LOVE LearningStephen McGhee                      Spark of GeniusNiall Kelly                     Young FoundationsTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereOur European friendsWho do Tory parliamentarians think they are kidding when they refer to our European \"friends\"? Honestly, it's pathetic and cringeworthy and makes us look like the complete idiots we are for walking away from the EU.It's obvious that the \"oven-ready\" deal was just another lie - look at the border problems in Northern Ireland. Who in their right mind would think that leaving the economic union would not create a land border in Ireland or the Irish Sea?We were told that it was insulting to suggest that Brexiteers didn't understand what they were voting for. But how could they, given that the answer to the Irish border question doesn't exist, even now. The DUP lost the recent election and have to live with what this government signed up to on their behalf.It beggars belief that we are led by a bunch of self-serving politicians who will lie at any cost to stay in power. I despair.Simon WatsonWorcester"
+        }
+    ]
+}

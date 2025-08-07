@@ -1,0 +1,562 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0016810805536806583,
+                    "sentence": "Don't blindly trust (Stanford) emails",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012288186699151993,
+                    "sentence": "An email entitled “Someone's interested in you…” from info@stanford.com appeared in my inbox.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012743716361001134,
+                    "sentence": "Confused by the subject line, yet expecting important information from Stanford's information service, I cautiously clicked.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014215147821232677,
+                    "sentence": "My inquiry was quickly greeted by a thinly-veiled advertisement for a freshly hatched dating website focused on linking Stanford students.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008434312185272574,
+                    "sentence": "My inbox marked this email to originate from Stanford, yet the message's content was clearly closer to a ferocious phishing campaign than critical University information.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000907164765521884,
+                    "sentence": "At first glance this email may appear to be from Stanford, although looking deeper into the email's header information, I discovered that it was sent from an unrelated website merely pretending to be Stanford.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008506639278493822,
+                    "sentence": "Stop spoofing with DMARC",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000798205379396677,
+                    "sentence": "Anyone with the right tools and technical knowledge can send out an email that appears to be coming from a Stanford email address ᅳ any Stanford email: mine, yours, MTL's and even the admissions office's.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009410836501047015,
+                    "sentence": "Emails being sent from a falsified domain is called spoofing, and the origin of this problem goes back to thecreation of email, which was designed to mirror real-world mail to a shocking degree.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00108225061558187,
+                    "sentence": "In the same manner that I could send you a letter and write another person's return address on it, I could send you an email disguised as being sent from someone else.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011856830678880215,
+                    "sentence": "Email was not originally designed to verify that an email's sender is who they claim to be.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000861691078171134,
+                    "sentence": "This is, quite clearly, a problem for large companies, email providers and individual users.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012937202118337154,
+                    "sentence": "The lack of sender verification in emails is often abused in phishing attacks, which are fraudulent attempts to obtain sensitive information by pretending to be someone else.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011663248296827078,
+                    "sentence": "To solve the spoofing problem, Domain-based Message Authentication Reporting and Conformance (DMARC) was created in 2010.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007908614934422076,
+                    "sentence": "Using DMARC, a domain (the portion after the @ sign in an email; i.e., @stanford.edu) can set up a policy to reject, quarantine or simply monitor emails spoofed from their domain.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005672348663210869,
+                    "sentence": "This works by publishing the policy for a given domain onto their DNS record, so that a receiving web mail server (Gmail or Outlook) can check it against the sending domain's DMARC to verify that the email really came from that domain.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008117077872157097,
+                    "sentence": "Stanford can help prevent their emails from being spoofed by setting up a DMARC.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006780913099646568,
+                    "sentence": "This can greatly reduce the potential of what has previously been a very successful avenue of attack.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012217223644256592,
+                    "sentence": "The DMARC information for stanford.edu shows “No DMARC Record [is] found.”Source",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.019321290776133537,
+                    "sentence": "Cyber security is a rapidly-evolving field where adversaries are adapting their methods just as fast as we can respond.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.025032036006450653,
+                    "sentence": "While DMARC can help prevent spoofing emails, it is not a magic bullet capable of securing your emails at the touch of a button.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01921365037560463,
+                    "sentence": "A well-defined DMARC could greatly reduce emails spoofed from Stanford's domains, but there are other avenues through which phishing attacks can be launched.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.018430037423968315,
+                    "sentence": "Detection to prevention",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013880917802453041,
+                    "sentence": "Mail servers can be configured to help detect and prevent malicious content before it ever reaches the user.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001994730904698372,
+                    "sentence": "While the default Outlook inbox provided by Stanford does not give a user any indication that the email is from a falsified sender, the same email received in a Gmail inbox indicates the email was sent from “info@stanford.comvia [another website].” Gmail caught the email as spam ᅳ giving the reader some indication that the email may not be what it claims to be.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018617388559505343,
+                    "sentence": "Given Stanford's current setup, unless some aspect of the message is suspicious enough to cause a reader to inspect the email header (in this case, the odd subject line), there is no warning that the sender is not who it claims to be.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004325411282479763,
+                    "sentence": "An email spoofed frominfo@stanford.comappearing in Stanford's default Outlook mailbox.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005293411202728748,
+                    "sentence": "Notice that this is identical to a legitimate email.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006192537024617195,
+                    "sentence": "Cropped out of the email are three URLs pointing to a non-Stanford website.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0066347550600767136,
+                    "sentence": "An email spoofed frominfo@stanford.comappearing in Gmail's default mailbox.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013767467811703682,
+                    "sentence": "Notice that the email was caught as spam and the 'from' attribute includes “via [another website],” indicating to the reader that something is suspicious.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.020286522805690765,
+                    "sentence": "Cropped out of the email are three URLs pointing to a non-Stanford website.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009470147080719471,
+                    "sentence": "What does this mean for you?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.016390401870012283,
+                    "sentence": "Most importantly, it means you cannot blindly trust emails you receive ᅳ and that includes emails from a Stanford address.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02784349024295807,
+                    "sentence": "The University currently offers neither the protections needed to catch spoofed emails before they reach our inbox, nor the capability to detect them once they are received by us.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03720087930560112,
+                    "sentence": "In this case, the spoofed Stanford email is the result of a non-malicious effort to launch a student social platform.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03145446255803108,
+                    "sentence": "While this may seem harmless, the use of a spoofed Stanford email enables the sender to collect user information by piggybacking on Stanford's reputation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04025671258568764,
+                    "sentence": "The risk",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03226727619767189,
+                    "sentence": "Let us turn our attention towards a more serious adversary with intention to harm.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.029687045142054558,
+                    "sentence": "Imagine an attacker posing as Stanford's financial aid office with a legitimate-looking email that asks students to fill out a financial form.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.039026614278554916,
+                    "sentence": "This attack could trick students into giving away valuable personal and financial data.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03167715668678284,
+                    "sentence": "Another example of the risk spoofing poses would be if every student was informed through a mass spam email from contact-tracing@stanford.edu that they were potentially exposed to a dangerous disease.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.035096682608127594,
+                    "sentence": "An email like this could cause widespread panic among students.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04752606898546219,
+                    "sentence": "Spoofed emails can cause real harm in people's lives.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.023716958239674568,
+                    "sentence": "Stanford has historically been a target of bothregular attackersandforeign intelligenceagencieslooking to steal intellectual property and cutting-edge research.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012125449255108833,
+                    "sentence": "The University was so concerned about phishing attacks that in 2016 the University's IT department created thePhishing Awareness Programto train University staff on how to recognize and avoid phishing attacks.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013840863481163979,
+                    "sentence": "Yet as recently as this March, a single phishing campaign utilizing a spoofed Stanford emailcompromised over 150 Stanford accounts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001718273269943893,
+                    "sentence": "Asked about available options for students to protect themselves, Ernest Miranda, the University's senior director of media relations, said the University is beginning to pilot their program to students, who can request access by submitting aService Nowticket.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016471226990688592,
+                    "sentence": "In addition to their pilot program, the University could increase user security against phishing by stopping email spoofing on their domain, offering warnings when an email is received via an unexpected source (similar to what Gmail does) and expanding their Phishing Awareness Program to create an educational program that teaches all students how to protect themselves against malicious emails.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018306737183593214,
+                    "sentence": "All this being said, it is ultimately the responsibility of the user to protect themselves online.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018722316599451005,
+                    "sentence": "Protecting yourself",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022331740183290094,
+                    "sentence": "The more informed one is, the more careful one can be.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001879313786048442,
+                    "sentence": "This is not to say that every email is a lie carefully curated to steal your passwords and personal sanity until your online identity is open-sourced.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00029226086917333305,
+                    "sentence": "However, as with any interaction with the wild west world of the world wide web, you must maintain a constant level of caution and vigilance.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00023695376876275986,
+                    "sentence": "On the internet, URLs do not always go where they claim to go and a website that appears harmless at first glance may be trying something malicious behind your back.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001403151691192761,
+                    "sentence": "Anything that feels “too good to be true” probably is.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017818782362155616,
+                    "sentence": "It is understandable that constant vigilance is hard to maintain, so if you want a general rule of thumb for email security, keep these four principles in mind:",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002046599838649854,
+                    "sentence": "As members of the Stanford community, you have access to additional resources to keep you safe.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017346357344649732,
+                    "sentence": "Contact Cooper de Nicola at cdenicol 'at' stanford.edu",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022633734624832869,
+                    "sentence": "The Daily is committed to publishing a diversity of op-eds and letters to the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00029009897843934596,
+                    "sentence": "We'd love to hear your thoughts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00020039260562043637,
+                    "sentence": "Email letters to the editor to eic 'at' stanforddaily.com and op-ed submissions to opinions 'at' stanforddaily.com.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002392281749052927,
+                    "sentence": "Follow The Daily onFacebook,TwitterandInstagram.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 1,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 4,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 6,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 7,
+                    "num_sentences": 4,
+                    "completely_generated_prob": 0.0006564766595293492
+                },
+                {
+                    "start_sentence_index": 11,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                },
+                {
+                    "start_sentence_index": 18,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 19,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 22,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 23,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 26,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 29,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 32,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                },
+                {
+                    "start_sentence_index": 37,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 38,
+                    "num_sentences": 6,
+                    "completely_generated_prob": 1.474742012248794e-05
+                },
+                {
+                    "start_sentence_index": 44,
+                    "num_sentences": 4,
+                    "completely_generated_prob": 0.0006564766595293492
+                },
+                {
+                    "start_sentence_index": 48,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 49,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 50,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 51,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                },
+                {
+                    "start_sentence_index": 56,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 57,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 58,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 59,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 62,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                }
+            ],
+            "completely_generated_prob": 0.03751552122182913,
+            "class_probabilities": {
+                "human": 0.9622006644706045,
+                "ai": 0.03751552122182913,
+                "mixed": 0.00028381430756647936
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9622006644706045,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.03751552122182913,
+                    "human": 0.9622006644706045,
+                    "mixed": 0.00028381430756647936
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Don’t blindly trust (Stanford) emails\nAn email entitled “Someone’s interested in you…” from info@stanford.com appeared in my inbox. Confused by the subject line, yet expecting important information from Stanford’s information service, I cautiously clicked. My inquiry was quickly greeted by a thinly-veiled advertisement for a freshly hatched dating website focused on linking Stanford students.\nMy inbox marked this email to originate from Stanford, yet the message’s content was clearly closer to a ferocious phishing campaign than critical University information. At first glance this email may appear to be from Stanford, although looking deeper into the email’s header information, I discovered that it was sent from an unrelated website merely pretending to be Stanford.\nStop spoofing with DMARC\nAnyone with the right tools and technical knowledge can send out an email that appears to be coming from a Stanford email address — any Stanford email: mine, yours, MTL’s and even the admissions office’s. Emails being sent from a falsified domain is called spoofing, and the origin of this problem goes back to thecreation of email, which was designed to mirror real-world mail to a shocking degree. In the same manner that I could send you a letter and write another person’s return address on it, I could send you an email disguised as being sent from someone else. Email was not originally designed to verify that an email’s sender is who they claim to be.\nThis is, quite clearly, a problem for large companies, email providers and individual users. The lack of sender verification in emails is often abused in phishing attacks, which are fraudulent attempts to obtain sensitive information by pretending to be someone else. To solve the spoofing problem, Domain-based Message Authentication Reporting and Conformance (DMARC) was created in 2010. Using DMARC, a domain (the portion after the @ sign in an email; i.e., @stanford.edu) can set up a policy to reject, quarantine or simply monitor emails spoofed from their domain. This works by publishing the policy for a given domain onto their DNS record, so that a receiving web mail server (Gmail or Outlook) can check it against the sending domain’s DMARC to verify that the email really came from that domain. Stanford can help prevent their emails from being spoofed by setting up a DMARC. This can greatly reduce the potential of what has previously been a very successful avenue of attack.\nThe DMARC information for stanford.edu shows “No DMARC Record [is] found.”Source\nCyber security is a rapidly-evolving field where adversaries are adapting their methods just as fast as we can respond. While DMARC can help prevent spoofing emails, it is not a magic bullet capable of securing your emails at the touch of a button. A well-defined DMARC could greatly reduce emails spoofed from Stanford’s domains, but there are other avenues through which phishing attacks can be launched.\nDetection to prevention\nMail servers can be configured to help detect and prevent malicious content before it ever reaches the user. While the default Outlook inbox provided by Stanford does not give a user any indication that the email is from a falsified sender, the same email received in a Gmail inbox indicates the email was sent from “info@stanford.comvia [another website].” Gmail caught the email as spam — giving the reader some indication that the email may not be what it claims to be. Given Stanford’s current setup, unless some aspect of the message is suspicious enough to cause a reader to inspect the email header (in this case, the odd subject line), there is no warning that the sender is not who it claims to be.\nAn email spoofed frominfo@stanford.comappearing in Stanford’s default Outlook mailbox. Notice that this is identical to a legitimate email. Cropped out of the email are three URLs pointing to a non-Stanford website.\nAn email spoofed frominfo@stanford.comappearing in Gmail’s default mailbox. Notice that the email was caught as spam and the ‘from’ attribute includes “via [another website],” indicating to the reader that something is suspicious. Cropped out of the email are three URLs pointing to a non-Stanford website.\nWhat does this mean for you? Most importantly, it means you cannot blindly trust emails you receive — and that includes emails from a Stanford address. The University currently offers neither the protections needed to catch spoofed emails before they reach our inbox, nor the capability to detect them once they are received by us. In this case, the spoofed Stanford email is the result of a non-malicious effort to launch a student social platform. While this may seem harmless, the use of a spoofed Stanford email enables the sender to collect user information by piggybacking on Stanford’s reputation.\nThe risk\nLet us turn our attention towards a more serious adversary with intention to harm. Imagine an attacker posing as Stanford’s financial aid office with a legitimate-looking email that asks students to fill out a financial form. This attack could trick students into giving away valuable personal and financial data. Another example of the risk spoofing poses would be if every student was informed through a mass spam email from contact-tracing@stanford.edu that they were potentially exposed to a dangerous disease. An email like this could cause widespread panic among students. Spoofed emails can cause real harm in people’s lives.\nStanford has historically been a target of bothregular attackersandforeign intelligenceagencieslooking to steal intellectual property and cutting-edge research. The University was so concerned about phishing attacks that in 2016 the University’s IT department created thePhishing Awareness Programto train University staff on how to recognize and avoid phishing attacks. Yet as recently as this March, a single phishing campaign utilizing a spoofed Stanford emailcompromised over 150 Stanford accounts. Asked about available options for students to protect themselves, Ernest Miranda, the University’s senior director of media relations, said the University is beginning to pilot their program to students, who can request access by submitting aService Nowticket.\nIn addition to their pilot program, the University could increase user security against phishing by stopping email spoofing on their domain, offering warnings when an email is received via an unexpected source (similar to what Gmail does) and expanding their Phishing Awareness Program to create an educational program that teaches all students how to protect themselves against malicious emails.\nAll this being said, it is ultimately the responsibility of the user to protect themselves online.\nProtecting yourself\nThe more informed one is, the more careful one can be. This is not to say that every email is a lie carefully curated to steal your passwords and personal sanity until your online identity is open-sourced. However, as with any interaction with the wild west world of the world wide web, you must maintain a constant level of caution and vigilance. On the internet, URLs do not always go where they claim to go and a website that appears harmless at first glance may be trying something malicious behind your back. Anything that feels “too good to be true” probably is.\nIt is understandable that constant vigilance is hard to maintain, so if you want a general rule of thumb for email security, keep these four principles in mind:\nAs members of the Stanford community, you have access to additional resources to keep you safe.\nContact Cooper de Nicola at cdenicol ‘at’ stanford.edu\nThe Daily is committed to publishing a diversity of op-eds and letters to the editor. We’d love to hear your thoughts. Email letters to the editor to eic ‘at’ stanforddaily.com and op-ed submissions to opinions ‘at’ stanforddaily.com.\nFollow The Daily onFacebook,TwitterandInstagram.\n\n"
+        }
+    ]
+}

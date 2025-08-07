@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0007572249742224813,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|78.332°There is no artificial intelligence without the fruits of human inquiry.Today's generative AI applications were built on a foundation of such information, drawn from across the internet and from various databases totaling, according to at least one estimate, somewhere around 300 billion words.That's a lot of intellectual property, much of it produced by successive generations of professional writers, honed and polished by editors and sent out into the world by publishers in newspapers, magazines, books and more.It's hard to put a price on such a thing or even to measure the collective value of such an incredible library.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001288107130676508,
+                    "sentence": "But it definitely should not be free.But that's the assumption made by OpenAI when it claims that its use of all this data, much of which it acknowledges was subject to various copyrights, is fair use and did not require compensation to the original creators and owners of that knowledge and information.If you walked into a bookstore and stole not just some of the books, but all of the books, that would be a crime, right?That's why many newspapers, including the Tribune, as well as authors and an array of digital publishers have filed lawsuits seeking to force OpenAI to pay for its exploitation of their work.Regular people aren't allowed to make copies of a recent best-seller and resell it with a different cover, nor can a studio stream a competitor's series just because it's on the internet and it's technically possible to copy it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019201686372980475,
+                    "sentence": "They might be able to license that material, if the owner allows it, and they can certainly buy copies, but even buying a copy doesn't give the purchaser the right to reproduce and redistribute such works.There's a fundamental issue of ownership in play here.For decades, newspapers like this one have been independent entities.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002560116583481431,
+                    "sentence": "They have written the obituaries of local luminaries, chronicled crimes committed and followed fights over public works.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007744996342808008,
+                    "sentence": "In most every U.S. city, they've accumulated a great storehouse of knowledge, day by day.The theft of that journalism to create new products clearly intended to supplant news publishers further undermines the economy for news at a time when fair and balanced reporting and a shared set of facts is more critical than ever before.Weakening news publishers also has a collateral effect on democracy as it not only siphons off publisher revenue, but it also damages publishers' reputations by attributing bogus information to credible publications.AI “hallucinations” occur when an AI app provides false information in response to a user's question.The rise of artificial intelligence may be inevitable but that does not mean that the originators of the content should not expect adequate compensation.OpenAI and its primary backer, Microsoft, pay their engineers to write their code and certainly recognize the value of that code.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008097161538898945,
+                    "sentence": "In fact, a recent valuation for OpenAI was $90 billion.Surely all the knowledge and information required to train their apps ᅳ to develop the code, as it were ᅳ has value.That value must be recognized and these companies must be held accountable.ᅳChicago Tribune/TNSA 64-year-old Ocean View man accused of killing one of his dogs has been freed from custody on supervised release, a form of cashless bail.Hilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004396919161081314,
+                    "sentence": "Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017.NEW YORK ᅳ Lou Piniella was back in uniform Saturday, wearing pinstripes and the number 14 for Old-Timers' Day at Yankee Stadium.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0040002199821174145,
+                    "sentence": "Piniella, who turns 81 next week, earned his fame in the Bronx as a two-time World Series champion but spent much of his managing career in a feisty rivalry with the Y",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.024461651786716186,
+            "class_probabilities": {
+                "human": 0.9754981327244504,
+                "ai": 0.024461651786716186,
+                "mixed": 4.0215488833363626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9754981327244504,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024461651786716186,
+                    "human": 0.9754981327244504,
+                    "mixed": 4.0215488833363626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|78.332°There is no artificial intelligence without the fruits of human inquiry.Today’s generative AI applications were built on a foundation of such information, drawn from across the internet and from various databases totaling, according to at least one estimate, somewhere around 300 billion words.That’s a lot of intellectual property, much of it produced by successive generations of professional writers, honed and polished by editors and sent out into the world by publishers in newspapers, magazines, books and more.It’s hard to put a price on such a thing or even to measure the collective value of such an incredible library. But it definitely should not be free.But that’s the assumption made by OpenAI when it claims that its use of all this data, much of which it acknowledges was subject to various copyrights, is fair use and did not require compensation to the original creators and owners of that knowledge and information.If you walked into a bookstore and stole not just some of the books, but all of the books, that would be a crime, right?That’s why many newspapers, including the Tribune, as well as authors and an array of digital publishers have filed lawsuits seeking to force OpenAI to pay for its exploitation of their work.Regular people aren’t allowed to make copies of a recent best-seller and resell it with a different cover, nor can a studio stream a competitor’s series just because it’s on the internet and it’s technically possible to copy it. They might be able to license that material, if the owner allows it, and they can certainly buy copies, but even buying a copy doesn’t give the purchaser the right to reproduce and redistribute such works.There’s a fundamental issue of ownership in play here.For decades, newspapers like this one have been independent entities. They have written the obituaries of local luminaries, chronicled crimes committed and followed fights over public works. In most every U.S. city, they’ve accumulated a great storehouse of knowledge, day by day.The theft of that journalism to create new products clearly intended to supplant news publishers further undermines the economy for news at a time when fair and balanced reporting and a shared set of facts is more critical than ever before.Weakening news publishers also has a collateral effect on democracy as it not only siphons off publisher revenue, but it also damages publishers’ reputations by attributing bogus information to credible publications.AI “hallucinations” occur when an AI app provides false information in response to a user’s question.The rise of artificial intelligence may be inevitable but that does not mean that the originators of the content should not expect adequate compensation.OpenAI and its primary backer, Microsoft, pay their engineers to write their code and certainly recognize the value of that code. In fact, a recent valuation for OpenAI was $90 billion.Surely all the knowledge and information required to train their apps — to develop the code, as it were — has value.That value must be recognized and these companies must be held accountable.—Chicago Tribune/TNSA 64-year-old Ocean View man accused of killing one of his dogs has been freed from custody on supervised release, a form of cashless bail.Hilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track. Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017.NEW YORK — Lou Piniella was back in uniform Saturday, wearing pinstripes and the number 14 for Old-Timers’ Day at Yankee Stadium. Piniella, who turns 81 next week, earned his fame in the Bronx as a two-time World Series champion but spent much of his managing career in a feisty rivalry with the Y"
+        }
+    ]
+}

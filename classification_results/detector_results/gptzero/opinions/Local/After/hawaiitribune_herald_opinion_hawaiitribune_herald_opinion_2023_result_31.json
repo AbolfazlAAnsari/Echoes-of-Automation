@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0034096497111022472,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°Last week, the Federal Reserve did the right thing by leaving well enough alone, keeping the benchmark interest rate at about 5.4%.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002715051406994462,
+                    "sentence": "With the acute pressure that the board and Chair Jay Powell in particular have faced in the past several months, we're glad they've had the wisdom to know when to step back.There have been those that, wedded to formulaic understandings about the economy, have insisted it's all but mechanically impossible for inflation to come down into acceptable ranges without seriously harming the economy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002496677450835705,
+                    "sentence": "We've even heard that we need a recession, that a recession is the inevitable endpoint of a sadly necessary effort to wrangle inflation under control, and that the Fed should not have relented on its campaign to sharply raise rates.These critics pointed to the 1970s and the reign of Paul Volcker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002881137188524008,
+                    "sentence": "When things looked grim, the story goes, Volcker stepped up and did what had to be done, pushing the economy into a recession with prolonged unemployment but in the process saving it from a worse spiral of soaring prices that threatened to derail the country's prosperous postwar climb.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004356800578534603,
+                    "sentence": "The horrifying prospect that this approach may not really have been necessary is something the conventional economic view all but put out of mind.We should all be mightily thankful that Powell and his Fed colleagues didn't listen to the naysayers, in part because of some powerful and clear-headed voices bucking the trend, including Chicago Fed President Austan Goolsbee.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0054018828086555,
+                    "sentence": "We now find ourselves right where they said we couldn't be: not only have we avoided a recession, but by most metrics, the economy is doing great.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008315355516970158,
+                    "sentence": "Unemployment is low, wages are gaining after a virtual decadeslong standstill, inequality is a bit down.None of that is to say that it's milk and honey for everyone out there; that we haven't had a recession doesn't mean that rising interest rates and inflation haven't both hurt households, and the majority of Americans are still living paycheck to paycheck.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005348999053239822,
+                    "sentence": "The job certainly isn't done, and a combination of factors including President Joe Biden's continuing commitment to robust industrial policy and the resurgent power of labor organizing can keep pulling things in the right direction.Is this graceful landing the product of the particular circumstances of the contemporary economic picture?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0163390152156353,
+                    "sentence": "Maybe, but what isn't?The point is that it worked, and what definitely won't help now is if the Fed busies itself fixing what ain't broke.Though the interest rates were kept steady this time around, Powell has repeatedly insinuated that he envisions a potential additional hike in the near term.This doesn't sound like too big of a deal given that the Fed's earlier series of successive rate increases did not drive us into recession already; what's another few basis points?Yet the primary distinction between a healthy economy and a recession isn't whether interest rates were hiked ᅳ pretty much everyone agreed they had to be hiked ᅳ but how aggressively and how quickly; the problem is that once a recession sparks, it's next to impossible to get it back under control before it inflicts massive damage, and why would we play with fire when things are fine now?The Fed should instead revel in pulling off what some thought impossible.ᅳ New York Daily NewsHilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002596945036202669,
+                    "sentence": "Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017.NEW YORK ᅳ Lou Piniella was back in uniform Saturday, wearing pinstripes and the number 14 for Old-Timers' Day at Yankee Stadium.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0021690670400857925,
+                    "sentence": "Piniella, who turns 81 next week, earned his fame in the Bronx as a two-time World Series champion but spent much of his managing career in a feisty rivalry with the Y",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.037515521221829135,
+            "class_probabilities": {
+                "human": 0.9622006644706045,
+                "ai": 0.037515521221829135,
+                "mixed": 0.00028381430756647936
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9622006644706045,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.037515521221829135,
+                    "human": 0.9622006644706045,
+                    "mixed": 0.00028381430756647936
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°Last week, the Federal Reserve did the right thing by leaving well enough alone, keeping the benchmark interest rate at about 5.4%. With the acute pressure that the board and Chair Jay Powell in particular have faced in the past several months, we’re glad they’ve had the wisdom to know when to step back.There have been those that, wedded to formulaic understandings about the economy, have insisted it’s all but mechanically impossible for inflation to come down into acceptable ranges without seriously harming the economy. We’ve even heard that we need a recession, that a recession is the inevitable endpoint of a sadly necessary effort to wrangle inflation under control, and that the Fed should not have relented on its campaign to sharply raise rates.These critics pointed to the 1970s and the reign of Paul Volcker. When things looked grim, the story goes, Volcker stepped up and did what had to be done, pushing the economy into a recession with prolonged unemployment but in the process saving it from a worse spiral of soaring prices that threatened to derail the country’s prosperous postwar climb. The horrifying prospect that this approach may not really have been necessary is something the conventional economic view all but put out of mind.We should all be mightily thankful that Powell and his Fed colleagues didn’t listen to the naysayers, in part because of some powerful and clear-headed voices bucking the trend, including Chicago Fed President Austan Goolsbee. We now find ourselves right where they said we couldn’t be: not only have we avoided a recession, but by most metrics, the economy is doing great. Unemployment is low, wages are gaining after a virtual decadeslong standstill, inequality is a bit down.None of that is to say that it’s milk and honey for everyone out there; that we haven’t had a recession doesn’t mean that rising interest rates and inflation haven’t both hurt households, and the majority of Americans are still living paycheck to paycheck. The job certainly isn’t done, and a combination of factors including President Joe Biden’s continuing commitment to robust industrial policy and the resurgent power of labor organizing can keep pulling things in the right direction.Is this graceful landing the product of the particular circumstances of the contemporary economic picture? Maybe, but what isn’t?The point is that it worked, and what definitely won’t help now is if the Fed busies itself fixing what ain’t broke.Though the interest rates were kept steady this time around, Powell has repeatedly insinuated that he envisions a potential additional hike in the near term.This doesn’t sound like too big of a deal given that the Fed’s earlier series of successive rate increases did not drive us into recession already; what’s another few basis points?Yet the primary distinction between a healthy economy and a recession isn’t whether interest rates were hiked — pretty much everyone agreed they had to be hiked — but how aggressively and how quickly; the problem is that once a recession sparks, it’s next to impossible to get it back under control before it inflicts massive damage, and why would we play with fire when things are fine now?The Fed should instead revel in pulling off what some thought impossible.— New York Daily NewsHilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track. Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017.NEW YORK — Lou Piniella was back in uniform Saturday, wearing pinstripes and the number 14 for Old-Timers’ Day at Yankee Stadium. Piniella, who turns 81 next week, earned his fame in the Bronx as a two-time World Series champion but spent much of his managing career in a feisty rivalry with the Y"
+        }
+    ]
+}

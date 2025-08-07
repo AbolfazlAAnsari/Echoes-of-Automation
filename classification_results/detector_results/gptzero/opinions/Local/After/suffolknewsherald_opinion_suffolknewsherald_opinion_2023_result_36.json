@@ -1,0 +1,154 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0027829548344016075,
+                    "sentence": "Published 5:18 pm Friday, May 26, 2023ByLetters to the EditorEditor:Imagine the thrill and shock of searching for an old friend and finding them online: not on Facebook, or some other social channel but in an openly published page of a digital newspaper, complete with their home address under the heading of “Land Transfers” in the Suffolk News-Herald.Imagine further if you were part of an organized scamming operative, how might you use such information?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018888567574322224,
+                    "sentence": "A nefarious stalker seeking to engage in swatting?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019227544544264674,
+                    "sentence": "A former colleague bent on revenge through doxxing?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004744383506476879,
+                    "sentence": "(Please Google those words if you're not familiar with them!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020643409807235003,
+                    "sentence": ")We are no longer in the age of community newspapers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003081351751461625,
+                    "sentence": "The internet makes all news international news.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0022447158116847277,
+                    "sentence": "The publishing of detailed personal information on the internet in an openly accessible manner is completely inappropriate in the year 2023.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0029887657146900892,
+                    "sentence": "(For reference, the last Land Transfer published by the Daily Press was in the year 2014.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0030644850339740515,
+                    "sentence": ")While there are commercial entities selling such data under the pretense of “people finding,” I would hope that a local newspaper would hold the safety of its neighbors in higher regard.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006194073241204023,
+                    "sentence": "Yet, while people search sites have clearly outlined methods for data removal, the Suffolk News-Herald does not.For the sake of the homeowners of Suffolk, I hope the News-Herald will consider updating its policy on the printing of public records, and at the very least, redacting identifying information in keeping with commercial policies for Personally Identifying Information.Taryn BlakeNewport NewsEditor's note: As the newspaper of record for the City of Suffolk, the News-Herald is charged with the duty of providing readers with access to public records in an easily accessible format.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00569832231849432,
+                    "sentence": "This includes publication of land transfers, police reports, obituaries, indictments and most importantly public notices.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007957219146192074,
+                    "sentence": "While these are also readily available online, it is our duty to ensure that readers do not have to spend time jumping across multiple websites for this public information.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008392851799726486,
+                    "sentence": "The role of a community newspaper is even more important today as a trusted source of factual information.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01574527844786644,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007979780435562134,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 15,
+                    "completely_generated_prob": 2.5938383721896624e-13
+                }
+            ],
+            "completely_generated_prob": 0.025041194076269924,
+            "class_probabilities": {
+                "human": 0.974671313226954,
+                "ai": 0.025041194076269924,
+                "mixed": 0.00028749269677611
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.974671313226954,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.025041194076269924,
+                    "human": 0.974671313226954,
+                    "mixed": 0.00028749269677611
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:18 pm Friday, May 26, 2023ByLetters to the EditorEditor:Imagine the thrill and shock of searching for an old friend and finding them online: not on Facebook, or some other social channel but in an openly published page of a digital newspaper, complete with their home address under the heading of “Land Transfers” in the Suffolk News-Herald.Imagine further if you were part of an organized scamming operative, how might you use such information? A nefarious stalker seeking to engage in swatting? A former colleague bent on revenge through doxxing? (Please Google those words if you’re not familiar with them!)We are no longer in the age of community newspapers. The internet makes all news international news. The publishing of detailed personal information on the internet in an openly accessible manner is completely inappropriate in the year 2023. (For reference, the last Land Transfer published by the Daily Press was in the year 2014.)While there are commercial entities selling such data under the pretense of “people finding,” I would hope that a local newspaper would hold the safety of its neighbors in higher regard. Yet, while people search sites have clearly outlined methods for data removal, the Suffolk News-Herald does not.For the sake of the homeowners of Suffolk, I hope the News-Herald will consider updating its policy on the printing of public records, and at the very least, redacting identifying information in keeping with commercial policies for Personally Identifying Information.Taryn BlakeNewport NewsEditor’s note: As the newspaper of record for the City of Suffolk, the News-Herald is charged with the duty of providing readers with access to public records in an easily accessible format. This includes publication of land transfers, police reports, obituaries, indictments and most importantly public notices. While these are also readily available online, it is our duty to ensure that readers do not have to spend time jumping across multiple websites for this public information. The role of a community newspaper is even more important today as a trusted source of factual information.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

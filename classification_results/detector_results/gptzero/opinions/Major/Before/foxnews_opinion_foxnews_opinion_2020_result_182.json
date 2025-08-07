@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00010275250679114833,
+                    "sentence": "'What Killed Michael Brown?'",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010522855882300064,
+                    "sentence": "director joins 'The Ingraham Angle' to discuss BLM's presence in schools across America.Sen.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.645520650432445e-05,
+                    "sentence": "Tim Scott of South Carolinagave a remarkable speech at this year's Republican National Convention.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.3225871447939426e-05,
+                    "sentence": "Yes, here was a black man at a GOP event, so there was a whiff of identity politics.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.049275230499916e-05,
+                    "sentence": "When we see color these days, we expect ideology to follow.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.8030382711440325e-05,
+                    "sentence": "But Mr. Scott's charisma that night was simply that he spoke as a person, not a spokesperson for his color.Burgess Owens, Herschel Walker, Daniel Cameron and several others did the same.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.962855382473208e-05,
+                    "sentence": "It was aparade of individuals.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.637749978224747e-05,
+                    "sentence": "And in their speeches the human being stepped out from behind the identity, telling personal stories that reached for human connections with the American peopleᅳthis rather than the usual posturing for leverage with tales of grievance.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.70820562238805e-05,
+                    "sentence": "So they were all fresh and compelling.Do theseRepublicansforetell a new racial order in America?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.622735286829993e-05,
+                    "sentence": "Clearly they have pushed their way through an old racial order, as haveᅳit could be arguedᅳmany black Trump voters in the recent election.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.33129137288779e-05,
+                    "sentence": "I believe there is in fact a new racial order slowly and tenuously emerging, and that we blacks are swimming through rough seas to reach it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.9738890083972365e-05,
+                    "sentence": "But to better see the new, it is necessary to know the old.The old began in what might be called America's Great Confession.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.542865255847573e-05,
+                    "sentence": "In passing the 1964 Civil Rights Act, America effectively confessed to a long and terrible collusion with the evil of racism.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013713348016608506,
+                    "sentence": "(President Kennedywas the first president to acknowledge that civil rights was a “moral issue.”) This triggered nothing less than a crisis of moral authority that threatened the very legitimacy of American democracy.CLICK HERE TO CONTINUE READING THIS COLUMN IN THE WALL STREET JOURNAL",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 1.9423489116273474e-12
+                }
+            ],
+            "completely_generated_prob": 0.005030853279880518,
+            "class_probabilities": {
+                "human": 0.9949691467201195,
+                "ai": 0.005030853279880518,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9949691467201195,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.005030853279880518,
+                    "human": 0.9949691467201195,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       'What Killed Michael Brown?' director joins 'The Ingraham Angle' to discuss BLM's presence in schools across America.Sen. Tim Scott of South Carolinagave a remarkable speech at this year’s Republican National Convention. Yes, here was a black man at a GOP event, so there was a whiff of identity politics. When we see color these days, we expect ideology to follow. But Mr. Scott’s charisma that night was simply that he spoke as a person, not a spokesperson for his color.Burgess Owens, Herschel Walker, Daniel Cameron and several others did the same. It was aparade of individuals. And in their speeches the human being stepped out from behind the identity, telling personal stories that reached for human connections with the American people—this rather than the usual posturing for leverage with tales of grievance. So they were all fresh and compelling.Do theseRepublicansforetell a new racial order in America? Clearly they have pushed their way through an old racial order, as have—it could be argued—many black Trump voters in the recent election. I believe there is in fact a new racial order slowly and tenuously emerging, and that we blacks are swimming through rough seas to reach it. But to better see the new, it is necessary to know the old.The old began in what might be called America’s Great Confession. In passing the 1964 Civil Rights Act, America effectively confessed to a long and terrible collusion with the evil of racism. (President Kennedywas the first president to acknowledge that civil rights was a “moral issue.”) This triggered nothing less than a crisis of moral authority that threatened the very legitimacy of American democracy.CLICK HERE TO CONTINUE READING THIS COLUMN IN THE WALL STREET JOURNAL   "
+        }
+    ]
+}

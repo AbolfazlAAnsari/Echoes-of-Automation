@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.01170444767922163,
+                    "sentence": "On Friday, 27-year-old Safi Rauf, an Afghan-American who had been held captive by the Taliban since mid-December,was released.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013403123244643211,
+                    "sentence": "Rauf, a US Navy reservist, was providing humanitarian aid through Human First Coalition, an organization he founded to help evacuate Americans and at-risk Afghans from Afghanistan.Also released by the Taliban was Rauf's brother,Anees Khalil, a US green card holder and a British citizen who alsoworks with the Human First Coalition.While their release is to be celebrated,at least five British citizens and an American are still detained by the Taliban.On Friday, the same day that the Rauf brothers were released, a \"proof of life\" video surfaced ofMark Frerichs, an American who was kidnapped more than two years ago and believed to be held by the Taliban and its affiliates before they took over the entire country last August.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.015254086814820766,
+                    "sentence": "Frerichs, a Navy veteran and civil engineer, was working on development projects in Afghanistan.The video was obtained by the New Yorker, and Frerichs' sister confirmed his identity.Along with Frerichs, the Taliban has also detained British citizen Peter Jouvenal, a businessman and former television journalist who filmed the first television interview with Osama bin Laden for CNN in 1997.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001281972974538803,
+                    "sentence": "Jouvenal and I have been friends since we first worked for CNN together in Afghanistan nearly three decades ago.He was taken into custody by the Talibanin mid-December, around the same time that four other British citizens were also detained.Jouvenal's family and friends, who worried his detention could have been an error, released a statement in February,saying, \"He is a Muslim, knows Afghanistan better than most foreigners, is married to an Afghan (they have three daughters), and speaks both main languages.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013589615700766444,
+                    "sentence": "He is being held without charge... Before his arrest, he was working openly and had frequent meetings with senior Taliban officials.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014903537230566144,
+                    "sentence": "\"If the Taliban sincerely want to be treated as the responsible de facto government of Afghanistan, they should release the British and American citizens that they continue to hold.The Islamic holy season of Ramadan is beginning around the world, which is traditionally a time for charity and reconciliation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014910275349393487,
+                    "sentence": "The Taliban should use this occasion to release the six detainees that they are holding.And if they aren't willing to do so, the British and American governments should alsoleverage theconsiderable aidthat they are continuing to give to humanitarian organizations in Taliban-controlled Afghanistan to secure the release of their detainees.By Peter Bergen, CNN National Security AnalystTM & © 2022 Cable News Network, Inc., a Time Warner Company.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015041106380522251,
+                    "sentence": "All rights reserved.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.039837804045504216,
+            "class_probabilities": {
+                "human": 0.9601216422360306,
+                "ai": 0.039837804045504216,
+                "mixed": 4.055371846526579e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601216422360306,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039837804045504216,
+                    "human": 0.9601216422360306,
+                    "mixed": 4.055371846526579e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "On Friday, 27-year-old Safi Rauf, an Afghan-American who had been held captive by the Taliban since mid-December,was released. Rauf, a US Navy reservist, was providing humanitarian aid through Human First Coalition, an organization he founded to help evacuate Americans and at-risk Afghans from Afghanistan.Also released by the Taliban was Rauf's brother,Anees Khalil, a US green card holder and a British citizen who alsoworks with the Human First Coalition.While their release is to be celebrated,at least five British citizens and an American are still detained by the Taliban.On Friday, the same day that the Rauf brothers were released, a \"proof of life\" video surfaced ofMark Frerichs, an American who was kidnapped more than two years ago and believed to be held by the Taliban and its affiliates before they took over the entire country last August. Frerichs, a Navy veteran and civil engineer, was working on development projects in Afghanistan.The video was obtained by the New Yorker, and Frerichs' sister confirmed his identity.Along with Frerichs, the Taliban has also detained British citizen Peter Jouvenal, a businessman and former television journalist who filmed the first television interview with Osama bin Laden for CNN in 1997. Jouvenal and I have been friends since we first worked for CNN together in Afghanistan nearly three decades ago.He was taken into custody by the Talibanin mid-December, around the same time that four other British citizens were also detained.Jouvenal's family and friends, who worried his detention could have been an error, released a statement in February,saying, \"He is a Muslim, knows Afghanistan better than most foreigners, is married to an Afghan (they have three daughters), and speaks both main languages. He is being held without charge ... Before his arrest, he was working openly and had frequent meetings with senior Taliban officials.\"If the Taliban sincerely want to be treated as the responsible de facto government of Afghanistan, they should release the British and American citizens that they continue to hold.The Islamic holy season of Ramadan is beginning around the world, which is traditionally a time for charity and reconciliation. The Taliban should use this occasion to release the six detainees that they are holding.And if they aren't willing to do so, the British and American governments should alsoleverage theconsiderable aidthat they are continuing to give to humanitarian organizations in Taliban-controlled Afghanistan to secure the release of their detainees.By Peter Bergen, CNN National Security AnalystTM & © 2022 Cable News Network, Inc., a Time Warner Company. All rights reserved."
+        }
+    ]
+}

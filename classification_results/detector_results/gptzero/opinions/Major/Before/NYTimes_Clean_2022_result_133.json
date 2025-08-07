@@ -1,0 +1,100 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0002483856223989278,
+                    "sentence": "Every opinion starts with a story.Listen and follow 'First Person'Apple Podcasts|Spotify|Stitcher|Amazon Music|TuneIn|GooglePremiering Thursday, June 9When a lot of us hear the word “opinion” we think of hot takes ᅳ points of view in reaction to the news.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003201035433448851,
+                    "sentence": "But what about the experiences that shape our opinions?That's the question we're exploring in “First Person,” a new podcast from New York Times Opinion with Lulu Garcia-Navarro.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00025639860541559756,
+                    "sentence": "In each episode, Lulu sits down with people living through the headlines for intimate and surprising conversations that help us make sense of our complicated world.Every opinion starts with a story.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016173899348359555,
+                    "sentence": "Begin listening on June 9 wherever you get your podcasts.Meet your hostLulu Garcia-Navarro is a two-time Peabody Award-winning journalist with years of experience interviewing world leaders, authors, artists and people living on the front lines of a changing world.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015071289089974016,
+                    "sentence": "A longtime international correspondent in the Middle East and Latin America, Lulu was at NPR for 17 years, most recently as the host of “Weekend Edition,” where she reported on everything from #MeToo to immigration to the pandemic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019968656124547124,
+                    "sentence": "Lulu was also a co-host of the NPR podcast “Up First” and the first Latina at the helm of a flagship show at the broadcaster.PHOTO: (PHOTOGRAPH BY Jason Andrew for The New York Times FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 6,
+                    "completely_generated_prob": 1.474742012248794e-05
+                }
+            ],
+            "completely_generated_prob": 0.005318440655131629,
+            "class_probabilities": {
+                "human": 0.9946815593448683,
+                "ai": 0.005318440655131629,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9946815593448683,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.005318440655131629,
+                    "human": 0.9946815593448683,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Every opinion starts with a story.Listen and follow ‘First Person’Apple Podcasts|Spotify|Stitcher|Amazon Music|TuneIn|GooglePremiering Thursday, June 9When a lot of us hear the word “opinion” we think of hot takes — points of view in reaction to the news. But what about the experiences that shape our opinions?That’s the question we’re exploring in “First Person,” a new podcast from New York Times Opinion with Lulu Garcia-Navarro. In each episode, Lulu sits down with people living through the headlines for intimate and surprising conversations that help us make sense of our complicated world.Every opinion starts with a story. Begin listening on June 9 wherever you get your podcasts.Meet your hostLulu Garcia-Navarro is a two-time Peabody Award-winning journalist with years of experience interviewing world leaders, authors, artists and people living on the front lines of a changing world. A longtime international correspondent in the Middle East and Latin America, Lulu was at NPR for 17 years, most recently as the host of “Weekend Edition,” where she reported on everything from #MeToo to immigration to the pandemic. Lulu was also a co-host of the NPR podcast “Up First” and the first Latina at the helm of a flagship show at the broadcaster.PHOTO:  (PHOTOGRAPH BY Jason Andrew for The New York Times FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

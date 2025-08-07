@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0014945006696507335,
+                    "sentence": "Published 5:32 pm Tuesday, March 7, 2023BySuffolk News-Herald Editorial BoardRegular readers of this page know that we're keen on volunteerism.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0036182745825499296,
+                    "sentence": "If more people volunteered for good causes ᅳ whether helping troubled kids, supporting youth sports leagues, improving their neighborhoods or participating in any of countless other altruistic pursuits ᅳ communities would have fewer problems, and the world, as they say, would be a better place.Keep Suffolk Beautiful is a great role model.The organization again is leading Suffolk's participation in the Great American Cleanup, scheduled this year for March 24-25.The organizers make it super easy to participate.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002815112704411149,
+                    "sentence": "Volunteers will receive all necessary supplies, including trash bags, litter grabbers, gloves and safety vests.The Great American Cleanup annually draws more than 1,000 volunteers to make a “clean sweep of the region.” Last year in Suffolk, 235 volunteers donated a combined 630 hours to collect 5,325 pounds of litter and debris.Imagine what's possible if the number of volunteers doubled this year.“Cleanups are a great way to give back to your city,” said Daniel McDonald, Suffolk's litter control coordinator,  “and it can be a unique way to meet your neighbors and have some fun.”Suffolk City Manager Albert “Al” Moor is leading by example.Moor says he's heading out on March 24 to take part in the Great Suffolk Cleanup and is authorizing city employees to do the same.“There is no denying it,” Moor said.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003329907776787877,
+                    "sentence": "“Our city has a litter problem.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006052193231880665,
+                    "sentence": "We see it every day as we travel around.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0057144081220030785,
+                    "sentence": "I'm encouraging all city staff, organizations, businesses and residents to join me in cleaning up our roadways and neighborhoods.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002255017403513193,
+                    "sentence": "I am personally planning on picking up trash along Wilroy Road and I look forward to everyone choosing their desired location to remove trash.”Groups of four or more people can pick up litter collection kits at Suffolk Litter Control or Suffolk Public Library locations, or call (757) 514-7604 or emailksb@suffolkva.usto register.It's hard to imagine why on earth in the year 2023 there are people who still discard tires on the side of the road and in public parks.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.7474244236946106,
+                    "sentence": "And it's nearly as hard to fathom why folks think it's appropriate to dump their trash wherever it might seem convenient to do so.In contrast, it's easy to see why people would want to work to clean up the mess that others leave behind: They care about the world around them and want to leave it in better condition than they found it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.4987458288669586,
+                    "sentence": "That's the essence of volunteerism and the heart of healthy environmentalism.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5343495011329651,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.4995575249195099,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.17975662694056194,
+            "class_probabilities": {
+                "human": 0.8201803705615326,
+                "ai": 0.17975662694056194,
+                "mixed": 6.300249790544842e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8201803705615326,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.17975662694056194,
+                    "human": 0.8201803705615326,
+                    "mixed": 6.300249790544842e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:32 pm Tuesday, March 7, 2023BySuffolk News-Herald Editorial BoardRegular readers of this page know that we’re keen on volunteerism. If more people volunteered for good causes — whether helping troubled kids, supporting youth sports leagues, improving their neighborhoods or participating in any of countless other altruistic pursuits — communities would have fewer problems, and the world, as they say, would be a better place.Keep Suffolk Beautiful is a great role model.The organization again is leading Suffolk’s participation in the Great American Cleanup, scheduled this year for March 24-25.The organizers make it super easy to participate. Volunteers will receive all necessary supplies, including trash bags, litter grabbers, gloves and safety vests.The Great American Cleanup annually draws more than 1,000 volunteers to make a “clean sweep of the region.” Last year in Suffolk, 235 volunteers donated a combined 630 hours to collect 5,325 pounds of litter and debris.Imagine what’s possible if the number of volunteers doubled this year.“Cleanups are a great way to give back to your city,” said Daniel McDonald, Suffolk’s litter control coordinator,  “and it can be a unique way to meet your neighbors and have some fun.”Suffolk City Manager Albert “Al” Moor is leading by example.Moor says he’s heading out on March 24 to take part in the Great Suffolk Cleanup and is authorizing city employees to do the same.“There is no denying it,” Moor said. “Our city has a litter problem. We see it every day as we travel around. I’m encouraging all city staff, organizations, businesses and residents to join me in cleaning up our roadways and neighborhoods. I am personally planning on picking up trash along Wilroy Road and I look forward to everyone choosing their desired location to remove trash.”Groups of four or more people can pick up litter collection kits at Suffolk Litter Control or Suffolk Public Library locations, or call (757) 514-7604 or emailksb@suffolkva.usto register.It’s hard to imagine why on earth in the year 2023 there are people who still discard tires on the side of the road and in public parks. And it’s nearly as hard to fathom why folks think it’s appropriate to dump their trash wherever it might seem convenient to do so.In contrast, it’s easy to see why people would want to work to clean up the mess that others leave behind: They care about the world around them and want to leave it in better condition than they found it. That’s the essence of volunteerism and the heart of healthy environmentalism.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

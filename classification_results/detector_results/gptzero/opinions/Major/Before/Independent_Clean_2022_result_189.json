@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.046791721135377884,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.022237982600927353,
+                    "sentence": "Please send your letters toletters@independent.co.ukI agree entirely withthe comments in your editorial, and it is beginning to morph into another day, another scandal.I am not at all surprised that decentConservativewomenMPs, such as Caroline Nokes and Karen Bradley, are so concerned about the trajectory of this government.Our cataclysmic list of failings, and desperate populist schemes to placate certain right-wing sections of the community and press, is now beginning to wear thin, and the downward spiral is becoming so prevalent and depressing.For all its populist flag-waving, this country - under the auspices ofthis prime ministerand government - is turning into a draconian state, with dire and unethical strategies, such as the deplorable Rwanda deportation scheme.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.028137806802988052,
+                    "sentence": "There are many decent backbenchers who are no doubt holding their heads in their hands as to where this government and party is headed, that this type of rogue conservatism is not one they should themselves condone or want to be a legitimate part of.They need to make their feelings and views known to the party hierarchy as soon as.Judith A DanielsNorfolkBad mathsWhat a completely daft idea thatchildren could take on a mortgage loan entered into by their parents.Simple arithmetic shows up the flaw in the idea.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006249602884054184,
+                    "sentence": "Assuming that most people have children when they are aged 25 to 30 and die when over the age of 80, their children would be 50 to 55 when they inherit the parental home and residual mortgage.As these children would presumably be parents themselves with mortgaged homes, (unless very comfortably off), they would be stretched to the maximum to add the parental mortgage to their outgoings, so the parental home would either be repossessed or sold on.The plan makes no sense whatsoever.Patrick ClearyGloucestershireLevelling downI'd not realised, butlevelling up is actually working- if you forget the “up” bit.Boris Johnson's master plan is actually global, not national.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013224993832409382,
+                    "sentence": "And it's levelling down, not up - or just levelling, or razing to the ground, maybe.For example, with its abundance of never-ending sleaze, Britain will soon be bracketed with your stereotypical failed state.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0026956861838698387,
+                    "sentence": "Plus, with the Brexit economic catastrophe and Covid mismanagement and the eviction of Tory-backing Russian oligarchs from London as a result of the Ukraine invasion - and the exponential growth in the use of foodbanks and underfunding of the NHS and so on and so on - our glorious leader is ensuring that Britain will soon be level with many other struggling global economies outside the G7.Amanda BakerEdinburghOpportunity lostI read with concern about the need, and apparent difficulty, for the government to find funding to spend a billion here and there on such areas as benefits and public sector pay, as well as - rightly -supporting Ukraine.I am still trying to reconcile how they managed to spend over £13bn on the NHS Test and Trace system up to April 2021 - interestingly, against a budget of over £22bn.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0034316687379032373,
+                    "sentence": "Not to mention, of course, other feckless Covid spending.So much for opportunity cost, or should that be opportunity lost?Steve HallanNairobiStandards in public lifeThe behaviour ofChris Pincher, who has been suspended as a Tory MP in the latest of a series of sex scandals, is shocking and speaks to the problems that persist both in Westminster and across society.It is hardly naive that we should expect our elected representatives to be above reproach, and Mr Pincher should clearly consider his future as a parliamentarian.This, it should be noted, is quite incredibly the second time that Mr Pincher has left the whips' office.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9894595742225647,
+                    "sentence": "In 2017, he was accused of sexual impropriety when he made an unwanted pass at Tory activist and former Olympic rower Alex Story.It clearly begs the obvious question of why Boris Johnson granted him a senior role in government a second time, and casts yet more doubt on his judgement in picking teams and whether he cares about sexual harassment.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.985837459564209,
+                    "sentence": "The whip, after all, is meant to look after MPs' wellbeing.Standards in public life matter, and this is yet another damaging episode for Westminster and for Mr Johnson's already deeply tarnished reputation.Alex OrrEdinburgh",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 2.572739450890027e-05
+                }
+            ],
+            "completely_generated_prob": 0.12767420652125164,
+            "class_probabilities": {
+                "human": 0.8723257934787484,
+                "ai": 0.12767420652125164,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8723257934787484,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.12767420652125164,
+                    "human": 0.8723257934787484,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI agree entirely withthe comments in your editorial, and it is beginning to morph into another day, another scandal.I am not at all surprised that decentConservativewomenMPs, such as Caroline Nokes and Karen Bradley, are so concerned about the trajectory of this government.Our cataclysmic list of failings, and desperate populist schemes to placate certain right-wing sections of the community and press, is now beginning to wear thin, and the downward spiral is becoming so prevalent and depressing.For all its populist flag-waving, this country – under the auspices ofthis prime ministerand government – is turning into a draconian state, with dire and unethical strategies, such as the deplorable Rwanda deportation scheme. There are many decent backbenchers who are no doubt holding their heads in their hands as to where this government and party is headed, that this type of rogue conservatism is not one they should themselves condone or want to be a legitimate part of.They need to make their feelings and views known to the party hierarchy as soon as.Judith A DanielsNorfolkBad mathsWhat a completely daft idea thatchildren could take on a mortgage loan entered into by their parents.Simple arithmetic shows up the flaw in the idea. Assuming that most people have children when they are aged 25 to 30 and die when over the age of 80, their children would be 50 to 55 when they inherit the parental home and residual mortgage.As these children would presumably be parents themselves with mortgaged homes, (unless very comfortably off), they would be stretched to the maximum to add the parental mortgage to their outgoings, so the parental home would either be repossessed or sold on.The plan makes no sense whatsoever.Patrick ClearyGloucestershireLevelling downI’d not realised, butlevelling up is actually working– if you forget the “up” bit.Boris Johnson’s master plan is actually global, not national. And it’s levelling down, not up – or just levelling, or razing to the ground, maybe.For example, with its abundance of never-ending sleaze, Britain will soon be bracketed with your stereotypical failed state. Plus, with the Brexit economic catastrophe and Covid mismanagement and the eviction of Tory-backing Russian oligarchs from London as a result of the Ukraine invasion – and the exponential growth in the use of foodbanks and underfunding of the NHS and so on and so on – our glorious leader is ensuring that Britain will soon be level with many other struggling global economies outside the G7.Amanda BakerEdinburghOpportunity lostI read with concern about the need, and apparent difficulty, for the government to find funding to spend a billion here and there on such areas as benefits and public sector pay, as well as – rightly –supporting Ukraine.I am still trying to reconcile how they managed to spend over £13bn on the NHS Test and Trace system up to April 2021 – interestingly, against a budget of over £22bn. Not to mention, of course, other feckless Covid spending.So much for opportunity cost, or should that be opportunity lost?Steve HallanNairobiStandards in public lifeThe behaviour ofChris Pincher, who has been suspended as a Tory MP in the latest of a series of sex scandals, is shocking and speaks to the problems that persist both in Westminster and across society.It is hardly naive that we should expect our elected representatives to be above reproach, and Mr Pincher should clearly consider his future as a parliamentarian.This, it should be noted, is quite incredibly the second time that Mr Pincher has left the whips’ office. In 2017, he was accused of sexual impropriety when he made an unwanted pass at Tory activist and former Olympic rower Alex Story.It clearly begs the obvious question of why Boris Johnson granted him a senior role in government a second time, and casts yet more doubt on his judgement in picking teams and whether he cares about sexual harassment. The whip, after all, is meant to look after MPs’ wellbeing.Standards in public life matter, and this is yet another damaging episode for Westminster and for Mr Johnson’s already deeply tarnished reputation.Alex OrrEdinburgh"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 4.7166660806396976e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.40666992997285e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukGeorge Osborne and Michael Heseltine recently described the cancelling of the Birmingham to Manchester stretch of HS2 as “a gross act of vandalism”.I describe the entire project as a gross act of vandalism against our beautifullandscape and the precious wildlifewithin it.Ancient woodlandshave fallen to this hideous scar - if that isn't vandalism I don't know what is.If thenorth does seethe cruel impact of the line on their beautiful environment, as we have done, they may not feel so sure its limited benefit is worth a yard of it.As we sink ever further into the degradation of our natural world, HS2 is utter folly, andcripplingly expensive follyat that.Penny LittleOxfordshireNo HS2?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.0463186451233923e-05,
+                    "sentence": "You don't know how lucky you areFor every one of the urban-centric objectors toRishi Sunak's decision to curtail HS2, there's another out here in the UK's rural areas who frankly couldn't give a hoot whether the city's travellers could shave 20 minutes off their tripto another city.We're still waiting for a reliable, cost-effective, andcomprehensive public transport systemthat doesn't involve standing in the rain on a grassy verge hoping a bus appears to take us to an increasingly sporadic andstrike-bound rail“service”.Sorry everyone, but you're going to have to get over yourselves and accept that you'll just have to spend another 20 minutes moaning on social media about our “medieval transport infrastructure”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.743305129930377e-05,
+                    "sentence": "Whether Sunak isgoing to spend the moneyhe saves on us is a forlorn hope I suspect.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0022908966057002544,
+                    "sentence": "I don't think he knows we exist either!Steve MackinderDenverWorking for who?As sick days at work hit thehighest level for 10 years, in my opinion, the origin of this crisis lies in the fact that people are sick of working tirelessly, only to see all their money disappear in bills every month.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00255524180829525,
+                    "sentence": "It's both deflating and degrading that people now are simplyworking flat out just to exist.That is not sustainable, so the result is more stress and more sickness.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0026683956384658813,
+                    "sentence": "The scale of the problem is only going to grow as we drop further into thegovernment's economic abyss.Dale HughesAddress SuppliedWhat justice?So our hard-pressed courts are going to be devoting weeks to a retrial ofLucy Letbyover onecount of attempted murder.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003745677648112178,
+                    "sentence": "Letby, as everyone knows, has already been sentenced toa whole life termfor seven murders and seven attempted murders.Meanwhile, hundreds of people are suffering and having to wait for up to five years before having acase brought to trialbecause the courts are too busy.So much for justice.D Maughan BrownYorkThe drooping English flags are just the startHaving lived inScotlandmost of my life, I keep being told by friends and family in England that the whole momentum for Scottish independence has fizzled sinceNicola Sturgeonwent.In the area of Warwickshire where I was originally born, I find I'm scared to put my feet into the river in caseof raw sewage, my elderly relatives seem to be at the mercy of a failedsocial care sector, prescriptions, and dentistry - even on the NHS - are prohibitively expensive, theBrexitcult is madder than ever, the attitude to asylum seekers and the desperate generally is cruel and inhumane.The only noticeable thing about many of the obviously failing small towns is the drooping English flags.Sunak and his ilk are either using the last days of this miserable government to enrich themselves (theinheritance tax proposalis one example) or getting themselves cushy jobswith the media mogulswho enabled them.I cannot think of one single reason why anyone living in Scotland would not want to cut from England andre-join the EU, given the chance.Amanda BakerEdinburgh",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.02065958899652478,
+            "class_probabilities": {
+                "human": 0.979301577189572,
+                "ai": 0.02065958899652478,
+                "mixed": 3.883381390324206e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.979301577189572,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.02065958899652478,
+                    "human": 0.979301577189572,
+                    "mixed": 3.883381390324206e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukGeorge Osborne and Michael Heseltine recently described the cancelling of the Birmingham to Manchester stretch of HS2 as “a gross act of vandalism”.I describe the entire project as a gross act of vandalism against our beautifullandscape and the precious wildlifewithin it.Ancient woodlandshave fallen to this hideous scar – if that isn’t vandalism I don’t know what is.If thenorth does seethe cruel impact of the line on their beautiful environment, as we have done, they may not feel so sure its limited benefit is worth a yard of it.As we sink ever further into the degradation of our natural world, HS2 is utter folly, andcripplingly expensive follyat that.Penny LittleOxfordshireNo HS2? You don’t know how lucky you areFor every one of the urban-centric objectors toRishi Sunak’s decision to curtail HS2, there’s another out here in the UK’s rural areas who frankly couldn’t give a hoot whether the city’s travellers could shave 20 minutes off their tripto another city.We’re still waiting for a reliable, cost-effective, andcomprehensive public transport systemthat doesn’t involve standing in the rain on a grassy verge hoping a bus appears to take us to an increasingly sporadic andstrike-bound rail“service”.Sorry everyone, but you’re going to have to get over yourselves and accept that you’ll just have to spend another 20 minutes moaning on social media about our “medieval transport infrastructure”. Whether Sunak isgoing to spend the moneyhe saves on us is a forlorn hope I suspect. I don’t think he knows we exist either!Steve MackinderDenverWorking for who?As sick days at work hit thehighest level for 10 years, in my opinion, the origin of this crisis lies in the fact that people are sick of working tirelessly, only to see all their money disappear in bills every month. It’s both deflating and degrading that people now are simplyworking flat out just to exist.That is not sustainable, so the result is more stress and more sickness. The scale of the problem is only going to grow as we drop further into thegovernment’s economic abyss.Dale HughesAddress SuppliedWhat justice?So our hard-pressed courts are going to be devoting weeks to a retrial ofLucy Letbyover onecount of attempted murder.  Letby, as everyone knows, has already been sentenced toa whole life termfor seven murders and seven attempted murders.Meanwhile, hundreds of people are suffering and having to wait for up to five years before having acase brought to trialbecause the courts are too busy.So much for justice.D Maughan BrownYorkThe drooping English flags are just the startHaving lived inScotlandmost of my life, I keep being told by friends and family in England that the whole momentum for Scottish independence has fizzled sinceNicola Sturgeonwent.In the area of Warwickshire where I was originally born, I find I’m scared to put my feet into the river in caseof raw sewage, my elderly relatives seem to be at the mercy of a failedsocial care sector, prescriptions, and dentistry – even on the NHS – are prohibitively expensive, theBrexitcult is madder than ever, the attitude to asylum seekers and the desperate generally is cruel and inhumane.The only noticeable thing about many of the obviously failing small towns is the drooping English flags.Sunak and his ilk are either using the last days of this miserable government to enrich themselves (theinheritance tax proposalis one example) or getting themselves cushy jobswith the media mogulswho enabled them.I cannot think of one single reason why anyone living in Scotland would not want to cut from England andre-join the EU, given the chance.Amanda BakerEdinburgh"
+        }
+    ]
+}

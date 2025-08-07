@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00012639294436667114,
+                    "sentence": "Professor Geoffrey Blainey is quoted as saying that the mining and natural resources industry will remain critical to Australia's economy for the next decade (\"Mining vital but public is hostile: Blainey\", February 15).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.985772440908477e-05,
+                    "sentence": "I agree, but apparently he has also said that \"public opinion is more hostile or indifferent to mining than in any other decade in our history\".I respectfully suggest that it is a mistake to assume that a person who objects to the mining of particular minerals is against mining in general.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.27150686038658e-05,
+                    "sentence": "This seems to be what has happened in this article, since the only evidence given of the public's hostility to mining in general is a survey of support for \"reducing coal exports, introducing an emissions trading scheme or carbon tax and banning new coal mines\".I really don't think it is helpful to portray what is a very reasonable concern about adding to carbon emissions as a wish to stop all mining, which would clearly be impractical.Gale TreadgoldLindfield, NSWNo place for fossil fuelsin our net zero futureThe Greens are seeking a government ban on new coal mines and gas plants as a condition for their support for legislation imposing emissions caps on big polluters.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012553948909044266,
+                    "sentence": "They point to the inconsistency in proposing the new limitations while not stopping expansion of fossil fuel extraction.The government resists pressure to stop further fossil fuel ventures on the grounds that this was not part of its election platform.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.015233615413308144,
+                    "sentence": "However, it is essential that Australia and other nations stop expanding fossil fuel extraction.Regardless of the Greens' demands, the government should urgently undertake a comprehensive investigation of how and when the closing of new fossil fuel mining fits into an overall strategy for achieving its commitment to net zero emissions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013635694980621338,
+                    "sentence": "This should include consideration of the technical training and retraining needs associated with the transition, as well as the financial and other costs and benefits of the fossil fuel industry.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0047027007676661015,
+                    "sentence": "We currently have a shortage of skilled labour and materials for the renewables industry, and expanding the fossil fuel industry will undermine our capacity to achieve our transition to renewables.John RollsVale Park, SAWe can't rely just onthe sun and the windI'm not worried about the climate catastrophe that could hit us quite a few years down the track.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0026166203897446394,
+                    "sentence": "But I am worried about the much more imminent one that threatens our hospitals, schools, defence capabilities, in fact our whole economy.All of them depend on the certainty that electricity will be available when required, and not when the sun and wind dictate it to be.Gordon ThurlowLaunceston, Tasmania",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.018121205277011908,
+            "class_probabilities": {
+                "human": 0.9818394071854253,
+                "ai": 0.018121205277011908,
+                "mixed": 3.938753756276528e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9818394071854253,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.018121205277011908,
+                    "human": 0.9818394071854253,
+                    "mixed": 3.938753756276528e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Professor Geoffrey Blainey is quoted as saying that the mining and natural resources industry will remain critical to Australia's economy for the next decade (\"Mining vital but public is hostile: Blainey\", February 15). I agree, but apparently he has also said that \"public opinion is more hostile or indifferent to mining than in any other decade in our history\".I respectfully suggest that it is a mistake to assume that a person who objects to the mining of particular minerals is against mining in general. This seems to be what has happened in this article, since the only evidence given of the public's hostility to mining in general is a survey of support for \"reducing coal exports, introducing an emissions trading scheme or carbon tax and banning new coal mines\".I really don't think it is helpful to portray what is a very reasonable concern about adding to carbon emissions as a wish to stop all mining, which would clearly be impractical.Gale TreadgoldLindfield, NSWNo place for fossil fuelsin our net zero futureThe Greens are seeking a government ban on new coal mines and gas plants as a condition for their support for legislation imposing emissions caps on big polluters. They point to the inconsistency in proposing the new limitations while not stopping expansion of fossil fuel extraction.The government resists pressure to stop further fossil fuel ventures on the grounds that this was not part of its election platform. However, it is essential that Australia and other nations stop expanding fossil fuel extraction.Regardless of the Greens' demands, the government should urgently undertake a comprehensive investigation of how and when the closing of new fossil fuel mining fits into an overall strategy for achieving its commitment to net zero emissions. This should include consideration of the technical training and retraining needs associated with the transition, as well as the financial and other costs and benefits of the fossil fuel industry. We currently have a shortage of skilled labour and materials for the renewables industry, and expanding the fossil fuel industry will undermine our capacity to achieve our transition to renewables.John RollsVale Park, SAWe can't rely just onthe sun and the windI'm not worried about the climate catastrophe that could hit us quite a few years down the track. But I am worried about the much more imminent one that threatens our hospitals, schools, defence capabilities, in fact our whole economy.All of them depend on the certainty that electricity will be available when required, and not when the sun and wind dictate it to be.Gordon ThurlowLaunceston, Tasmania"
+        }
+    ]
+}

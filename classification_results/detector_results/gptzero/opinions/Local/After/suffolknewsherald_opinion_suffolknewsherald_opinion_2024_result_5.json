@@ -1,0 +1,123 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.9774389863014221,
+                    "sentence": "Published 11:04 pm Wednesday, August 28, 2024ByData SkriveWe have a compelling high school clash in Windsor, NC on Thursday, August 29 (beginning at 7:00 p.m.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9220240116119385,
+                    "sentence": "ET), with Bertie High School hosting John A. Holmes High School.Don't miss out on a single high school game.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9220654964447021,
+                    "sentence": "Sign up for an NFHS Network annual passand get full access to live regular season and postseason sporting events and get 45% off compared to a monthly pass.For just $6.67 per month you can keep tabs on your family or alma mater by following high school football this season on theNFHS Network.Team schedules reflect available data from NFHS and may not include every upcoming game.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9781126379966736,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9799293875694275,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.8871651474786718
+                }
+            ],
+            "completely_generated_prob": 0.8129788192879674,
+            "class_probabilities": {
+                "human": 0.18702118071203244,
+                "ai": 0.8129788192879674,
+                "mixed": 0
+            },
+            "average_generated_prob": 1,
+            "predicted_class": "ai",
+            "confidence_score": 0.8129788192879674,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.8129788192879674,
+                    "human": 0.18702118071203244,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {
+                    "predicted_class": "ai_paraphrased",
+                    "result_message": "We are highly confident that this text has been rewritten by AI, an AI paraphraser or AI bypasser",
+                    "confidence_score": 0.9997955080669001,
+                    "confidence_category": "high",
+                    "class_probabilities": {
+                        "pure_ai": 0.00020449193309998552,
+                        "ai_paraphrased": 0.9997955080669001
+                    },
+                    "confidence_scores_raw": {
+                        "identity": {
+                            "pure_ai": 0.00020449183309998554,
+                            "ai_paraphrased": 0.9997955080669001
+                        }
+                    },
+                    "confidence_thresholds_raw": {
+                        "identity": {
+                            "pure_ai": {
+                                "reject": 0.65,
+                                "low": 0.75,
+                                "medium": 0.92
+                            },
+                            "ai_paraphrased": {
+                                "reject": 0.85,
+                                "low": 0.9,
+                                "medium": 0.95
+                            }
+                        }
+                    }
+                },
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written by AI.",
+            "document_classification": "AI_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 11:04 pm Wednesday, August 28, 2024ByData SkriveWe have a compelling high school clash in Windsor, NC on Thursday, August 29 (beginning at 7:00 p.m. ET), with Bertie High School hosting John A. Holmes High School.Don’t miss out on a single high school game. Sign up for an NFHS Network annual passand get full access to live regular season and postseason sporting events and get 45% off compared to a monthly pass.For just $6.67 per month you can keep tabs on your family or alma mater by following high school football this season on theNFHS Network.Team schedules reflect available data from NFHS and may not include every upcoming game.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

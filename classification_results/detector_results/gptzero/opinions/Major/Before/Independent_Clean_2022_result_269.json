@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 5.7233635743614286e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.0570626626722515e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukIt is to be hoped thatJustin Welby's wordsin honour of the Queen, that those who serve “will be loved and remembered when those who cling to power and privileges are long forgotten,” will not fall on deaf ears.If we take anything from the death ofQueen Elizabeth II, it should be that self-serving opportunism is no substitute for selfless service and dedication to the safety and welfare of others.Graham PowellCirencesterSuitable candidates for figureheadSusan Alexander inyesterday's Lettersexpresses a common concern about our ability to choose suitable candidates to be our president.Can I suggest that if Eire can come up with presidents of the stature of Mary Robinson and Mary McAleese, we should not doubt our ability to do the same.Joanna PallisterDurham CityDavid Beckham, man of the peopleIt seems that some nonentities received VIP passes to attend Westminster Hall.Well doneDavid Beckhamwho, I am sure, could have obtained a VIP pass but chose instead to take his turn in the queuewith the hoi polloi.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.458637264790013e-05,
+                    "sentence": "Not only that, but he was dressed most respectfully in a dark suit, white shirt and black tie.Mike StroudSwanseaPerilous economic stateOf all the many illogical changes that the new government is proposing, themassive tax cutsseem to me to be the most destructive to both the economy and the reputation of the Tory party.The huge level of borrowing required to fund the energy crisis bailout, coupled with the rejection of an increased windfall tax on the excessive profits of the energy companies, will put the country in a truly perilous economic state for years - or even decades - to come.Another disastrous decision is the proposal to licence renewfracking and hydrocarbon prospecting.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011026052379747853,
+                    "sentence": "Clearly the oil and gas companies are getting their money's worth from their lobbying organisations.David FeltonWistastonTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereHeaven help usHarry Cockburn's articlerightly highlights the frighteningly wrong thinking in our current leadership.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018049090867862105,
+                    "sentence": "He asks the question, “cui bono?” and it's quite clear that the latest awful PM is deeply in hock to the fossil fuel companies.Let's not forget that thelargest single donation to Liz Truss's campaign fundcame from the wife of a former BP executive.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001694628968834877,
+                    "sentence": "To how many other oil industry magnates is she indebted, I wonder?Major global events, the obvious imminence of a catastrophicclimate crisis, the likelihood of massive mortality rates - does this all mean nothing when your only priority is helping yourself and your rich cronies to get richer?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018582564080134034,
+                    "sentence": "Heaven help us.Lynda NewberyBristol",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.009998674697021016,
+            "class_probabilities": {
+                "human": 0.990001325302979,
+                "ai": 0.009998674697021016,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.990001325302979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.009998674697021016,
+                    "human": 0.990001325302979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukIt is to be hoped thatJustin Welby’s wordsin honour of the Queen, that those who serve “will be loved and remembered when those who cling to power and privileges are long forgotten,” will not fall on deaf ears.If we take anything from the death ofQueen Elizabeth II, it should be that self-serving opportunism is no substitute for selfless service and dedication to the safety and welfare of others.Graham PowellCirencesterSuitable candidates for figureheadSusan Alexander inyesterday’s Lettersexpresses a common concern about our ability to choose suitable candidates to be our president.Can I suggest that if Eire can come up with presidents of the stature of Mary Robinson and Mary McAleese, we should not doubt our ability to do the same.Joanna PallisterDurham CityDavid Beckham, man of the peopleIt seems that some nonentities received VIP passes to attend Westminster Hall.Well doneDavid Beckhamwho, I am sure, could have obtained a VIP pass but chose instead to take his turn in the queuewith the hoi polloi. Not only that, but he was dressed most respectfully in a dark suit, white shirt and black tie.Mike StroudSwanseaPerilous economic stateOf all the many illogical changes that the new government is proposing, themassive tax cutsseem to me to be the most destructive to both the economy and the reputation of the Tory party.The huge level of borrowing required to fund the energy crisis bailout, coupled with the rejection of an increased windfall tax on the excessive profits of the energy companies, will put the country in a truly perilous economic state for years – or even decades – to come.Another disastrous decision is the proposal to licence renewfracking and hydrocarbon prospecting.  Clearly the oil and gas companies are getting their money’s worth from their lobbying organisations.David FeltonWistastonTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereHeaven help usHarry Cockburn’s articlerightly highlights the frighteningly wrong thinking in our current leadership. He asks the question, “cui bono?” and it’s quite clear that the latest awful PM is deeply in hock to the fossil fuel companies.Let’s not forget that thelargest single donation to Liz Truss’s campaign fundcame from the wife of a former BP executive. To how many other oil industry magnates is she indebted, I wonder?Major global events, the obvious imminence of a catastrophicclimate crisis, the likelihood of massive mortality rates – does this all mean nothing when your only priority is helping yourself and your rich cronies to get richer? Heaven help us.Lynda NewberyBristol"
+        }
+    ]
+}

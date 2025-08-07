@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0006936888094060123,
+                    "sentence": "Published 5:24 pm Friday, January 6, 2023BySuffolk News-Herald Editorial BoardLong a regional treasure, the Great Dismal Swamp is getting overdue national appreciation.Last month, the U.S. Senate unanimously approved the Great Dismal Swamp National Heritage Area Act, which now has been signed into law by President Joe Biden.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014545856975018978,
+                    "sentence": "The law directs the secretary of the interior to assess the suitability and feasibility of designating the Great Dismal Swamp and its associated sites as a National Heritage Area.National Heritage Areas are private-public partnerships that support historic preservation, conservation, recreation, tourism and educational projects.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015767202712595463,
+                    "sentence": "In order for a site to be designated a National Heritage Area, a feasibility study is often conducted.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008703641360625625,
+                    "sentence": "If the Great Dismal Swamp is designated as a National Heritage Area, it will get access to much-needed technical assistance and support from the National Park Service “while also maintaining full ownership, authority over decision-making and stewardship of the land.”Credit for the new federal law goes to the late U.S. Rep. A. Donald McEachin, who introduced it in the House of Representatives.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006467608618550003,
+                    "sentence": "The House passed it in 2021, sending it to the Senate, where Sens.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008085351437330246,
+                    "sentence": "Tim Kaine and Mark Warner were strong advocates.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6878470778465271,
+                    "sentence": "We're pleased to see it add to McEachin's strong legacy of service to Suffolk.To the uninitiated, the Great Dismal Swamp National Wildlife Refuge might seem like just a great empty space on the map of southeastern Virginia, but the area is truly one of the great natural resources of the East Coast.Folks from across the country come for the annual spring birding festival and fall hunts, as well as activities such as tours, fishing, hiking, biking, canoeing and kayaking.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5650586485862732,
+                    "sentence": "The swamp's rich cultural history, including its ties to the Underground Railroad, offers an important historical perspective.It is also an economic engine for Suffolk.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.319354772567749,
+                    "sentence": "U.S.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3264310359954834,
+                    "sentence": "Fish and Wildlife Service studies over the years have estimated it contributes millions annually to the local economy in the form of retail sales, taxes and job income related to visitor spending for recreation activities.We commend Refuge Manager Chris Lowie and all who have advocated tirelessly for the Great Dismal Swamp over the years.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.37816059589385986,
+                    "sentence": "It's good to see their efforts rewarded by the federal government.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.34780871868133545,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3094543516635895,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.15197956577266925,
+            "class_probabilities": {
+                "human": 0.8480204342273308,
+                "ai": 0.15197956577266925,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8480204342273308,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.15197956577266925,
+                    "human": 0.8480204342273308,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:24 pm Friday, January 6, 2023BySuffolk News-Herald Editorial BoardLong a regional treasure, the Great Dismal Swamp is getting overdue national appreciation.Last month, the U.S. Senate unanimously approved the Great Dismal Swamp National Heritage Area Act, which now has been signed into law by President Joe Biden. The law directs the secretary of the interior to assess the suitability and feasibility of designating the Great Dismal Swamp and its associated sites as a National Heritage Area.National Heritage Areas are private-public partnerships that support historic preservation, conservation, recreation, tourism and educational projects. In order for a site to be designated a National Heritage Area, a feasibility study is often conducted. If the Great Dismal Swamp is designated as a National Heritage Area, it will get access to much-needed technical assistance and support from the National Park Service “while also maintaining full ownership, authority over decision-making and stewardship of the land.”Credit for the new federal law goes to the late U.S. Rep. A. Donald McEachin, who introduced it in the House of Representatives. The House passed it in 2021, sending it to the Senate, where Sens. Tim Kaine and Mark Warner were strong advocates. We’re pleased to see it add to McEachin’s strong legacy of service to Suffolk.To the uninitiated, the Great Dismal Swamp National Wildlife Refuge might seem like just a great empty space on the map of southeastern Virginia, but the area is truly one of the great natural resources of the East Coast.Folks from across the country come for the annual spring birding festival and fall hunts, as well as activities such as tours, fishing, hiking, biking, canoeing and kayaking. The swamp’s rich cultural history, including its ties to the Underground Railroad, offers an important historical perspective.It is also an economic engine for Suffolk. U.S. Fish and Wildlife Service studies over the years have estimated it contributes millions annually to the local economy in the form of retail sales, taxes and job income related to visitor spending for recreation activities.We commend Refuge Manager Chris Lowie and all who have advocated tirelessly for the Great Dismal Swamp over the years. It’s good to see their efforts rewarded by the federal government.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

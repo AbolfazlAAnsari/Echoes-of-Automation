@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.004310296848416328,
+                    "sentence": "Monday, Sept. 02, 2024|Today's Paper|79.151°The United States of America needs more housing ᅳ lots of it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005658747162669897,
+                    "sentence": "The lack of supply in cities and suburbs in particular is the main force driving up the cost of living for millions, and keeping young people on the outside looking in, their faces pressed against the double-pane glass.Though street homelessness like what we see on sidewalks and subways is often an outgrowth of complicated maladies including alcohol and drug addiction and mental illness, the wider phenomenon of homelessness in America is undoubtedly driven by high housing costs.For all those reasons and more, we are pleased as punch to see the Democratic Party trying to become the city of “Yes In My Backyard,” the movement that's emerged across the nation to try to bulldoze restrictive regulations and let more types of housing get built in many more places.For generations, America's suburbs have been single-family zones, where granny flats and garage apartments and even low-rise complexes near train stations are often verboten.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012593762949109077,
+                    "sentence": "And for just as long, too many of our cities have been places where steep building costs, onerous zoning and piles of red tape conspire to make it all but impossible for housing supply to begin to meet demand.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00836095865815878,
+                    "sentence": "New York has been the laggard of laggards.Fortunately, New York City under Mayor Eric Adams, like New York State under Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005677908193320036,
+                    "sentence": "Kathy Hochul, is in the thick of an awakening on this front.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004844811279326677,
+                    "sentence": "Adams' City of Yes for Economic Opportunity relaxed tons of ridiculous and out-of-date rules dictating what kinds of businesses could go where, and his City of Yes for Housing Opportunity will come before the City Council in the fall.Those crucial reforms would gently add more density all across New York, especially in the vicinity of transit.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001517182681709528,
+                    "sentence": "One can credibly argue that it's not ambitious enough, but given the punishing cost of housing here, it's impossible with a straight face to make the case that these modest reforms would destroy the city or the character of its neighborhoods.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.28417037660256e-05,
+                    "sentence": "When New Yorkers see some of the same local leaders who never miss an opportunity to lament the city's exorbitant cost of living line up against City of Yes, they should roll their eyes and close their ears.At the federal level, Democratic presidential standard-bearer Kamala Harris chose her first major policy address to lay out a housing production and affordability agenda that includes, among other things, a pledge to build 3 million new homes; hefty down-payment subsidies and tax credits for first-time homebuyers; tax incentives for builders erecting affordable homes for those buyers; and the much more aggressive use of federal land to construct affordable housing.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.3323696192819625e-05,
+                    "sentence": "What she's laid out isn't everything America needs on this front, but it's a damn good start.Harris can speak for herself, but it was also pretty great to see the last two-term Democratic president, Barack Obama, offer hearty support to these ideas in his DNC speech last week.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.623729132115841e-05,
+                    "sentence": "“if we want to make it easier for more young people to buy a home,” said Obama, “we need to build more units and clear away some of the outdated laws and regulations that made it harder to build homes for working people in this country.”Amen.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013587498688139021,
+                    "sentence": "Build, baby, build.- New York Daily NewsWASHINGTON ᅳ The gunman who tried to kill Donald Trump mounted a “sustained, detailed effort” to attack a major gathering of some sort before deciding to target the Republican presidential candidate at a Pennsylvania rally in July, FBI officials said on Wednesday.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.017486769031531738,
+            "class_probabilities": {
+                "human": 0.9825132309684682,
+                "ai": 0.017486769031531738,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9825132309684682,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.017486769031531738,
+                    "human": 0.9825132309684682,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Monday, Sept. 02, 2024|Today's Paper|79.151°The United States of America needs more housing — lots of it. The lack of supply in cities and suburbs in particular is the main force driving up the cost of living for millions, and keeping young people on the outside looking in, their faces pressed against the double-pane glass.Though street homelessness like what we see on sidewalks and subways is often an outgrowth of complicated maladies including alcohol and drug addiction and mental illness, the wider phenomenon of homelessness in America is undoubtedly driven by high housing costs.For all those reasons and more, we are pleased as punch to see the Democratic Party trying to become the city of “Yes In My Backyard,” the movement that’s emerged across the nation to try to bulldoze restrictive regulations and let more types of housing get built in many more places.For generations, America’s suburbs have been single-family zones, where granny flats and garage apartments and even low-rise complexes near train stations are often verboten. And for just as long, too many of our cities have been places where steep building costs, onerous zoning and piles of red tape conspire to make it all but impossible for housing supply to begin to meet demand. New York has been the laggard of laggards.Fortunately, New York City under Mayor Eric Adams, like New York State under Gov. Kathy Hochul, is in the thick of an awakening on this front. Adams’ City of Yes for Economic Opportunity relaxed tons of ridiculous and out-of-date rules dictating what kinds of businesses could go where, and his City of Yes for Housing Opportunity will come before the City Council in the fall.Those crucial reforms would gently add more density all across New York, especially in the vicinity of transit. One can credibly argue that it’s not ambitious enough, but given the punishing cost of housing here, it’s impossible with a straight face to make the case that these modest reforms would destroy the city or the character of its neighborhoods. When New Yorkers see some of the same local leaders who never miss an opportunity to lament the city’s exorbitant cost of living line up against City of Yes, they should roll their eyes and close their ears.At the federal level, Democratic presidential standard-bearer Kamala Harris chose her first major policy address to lay out a housing production and affordability agenda that includes, among other things, a pledge to build 3 million new homes; hefty down-payment subsidies and tax credits for first-time homebuyers; tax incentives for builders erecting affordable homes for those buyers; and the much more aggressive use of federal land to construct affordable housing. What she’s laid out isn’t everything America needs on this front, but it’s a damn good start.Harris can speak for herself, but it was also pretty great to see the last two-term Democratic president, Barack Obama, offer hearty support to these ideas in his DNC speech last week. “if we want to make it easier for more young people to buy a home,” said Obama, “we need to build more units and clear away some of the outdated laws and regulations that made it harder to build homes for working people in this country.”Amen. Build, baby, build.– New York Daily NewsWASHINGTON — The gunman who tried to kill Donald Trump mounted a “sustained, detailed effort” to attack a major gathering of some sort before deciding to target the Republican presidential candidate at a Pennsylvania rally in July, FBI officials said on Wednesday."
+        }
+    ]
+}

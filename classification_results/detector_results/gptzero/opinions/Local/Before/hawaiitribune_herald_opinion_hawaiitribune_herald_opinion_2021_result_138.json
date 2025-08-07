@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.010979493148624897,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Bob Dole was among the best of a generation of Americans who believed this country had both the ability and obligation to do great things at home and abroad.The former Republican senator from Kansas and three-time unsuccessful presidential candidate died Sunday of lung cancer at age 98.America's involvement in World War II began 80 years ago Tuesday with Japan's bombing of Pearl Harbor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005998152308166027,
+                    "sentence": "Dole, from the small Kansas town of Russell, joined the fight along with millions of other young men and women.He became a war hero during a battle in Italy in 1945, when he sacrificed himself to save a fellow soldier, and in doing so suffered grave injuries that afflicted him for the rest of his life.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00867942813783884,
+                    "sentence": "Having saved the world, Dole and the rest of the World War II forces returned home to build a better America.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007203084882348776,
+                    "sentence": "And they did.Dole played a major role in national politics during the last half of the 20th century.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011634587310254574,
+                    "sentence": "He served in the Senate from 1969 to 1996, when he won the Republican nomination for the presidency.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008481202647089958,
+                    "sentence": "He lost the bid to President Bill Clinton.For 11 years, Dole was the GOP leader in the Senate and earned a reputation as a skilled vote-counter and deal-maker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0060894675552845,
+                    "sentence": "He came to Washington to get things done, and understood that to be successful he would have to forge alliances across political lines.Dole was a practitioner of pragmatic conservatism.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004192461725324392,
+                    "sentence": "He held his principles dear, but also recognized when it was time to compromise for the good of the country.He is remembered as perhaps the last American statesman.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008268828503787518,
+                    "sentence": "If that description is true, it's a shame for a country that needs a new crop of leaders like Dole, who place ideals ahead of ideology and are Americans first, partisans second.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010062767192721367,
+                    "sentence": "Bob Dole served his nation well.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005240395199507475,
+                    "sentence": "He was the perfect representative of a remarkable generation that made this a great nation through its commitment to duty, honor, country.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008820305578410625,
+                    "sentence": "May he rest in peace.ᅳ The Detroit News",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.03983941968211383,
+            "class_probabilities": {
+                "human": 0.9601605803178862,
+                "ai": 0.03983941968211383,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601605803178862,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.03983941968211383,
+                    "human": 0.9601605803178862,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Bob Dole was among the best of a generation of Americans who believed this country had both the ability and obligation to do great things at home and abroad.The former Republican senator from Kansas and three-time unsuccessful presidential candidate died Sunday of lung cancer at age 98.America’s involvement in World War II began 80 years ago Tuesday with Japan’s bombing of Pearl Harbor. Dole, from the small Kansas town of Russell, joined the fight along with millions of other young men and women.He became a war hero during a battle in Italy in 1945, when he sacrificed himself to save a fellow soldier, and in doing so suffered grave injuries that afflicted him for the rest of his life. Having saved the world, Dole and the rest of the World War II forces returned home to build a better America. And they did.Dole played a major role in national politics during the last half of the 20th century. He served in the Senate from 1969 to 1996, when he won the Republican nomination for the presidency. He lost the bid to President Bill Clinton.For 11 years, Dole was the GOP leader in the Senate and earned a reputation as a skilled vote-counter and deal-maker. He came to Washington to get things done, and understood that to be successful he would have to forge alliances across political lines.Dole was a practitioner of pragmatic conservatism. He held his principles dear, but also recognized when it was time to compromise for the good of the country.He is remembered as perhaps the last American statesman. If that description is true, it’s a shame for a country that needs a new crop of leaders like Dole, who place ideals ahead of ideology and are Americans first, partisans second. Bob Dole served his nation well. He was the perfect representative of a remarkable generation that made this a great nation through its commitment to duty, honor, country. May he rest in peace.— The Detroit News"
+        }
+    ]
+}

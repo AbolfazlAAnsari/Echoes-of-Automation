@@ -1,0 +1,94 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0023176802787929773,
+                    "sentence": "We are also seeing more letters from those who are frustrated by the ongoing Tory psychodrama and want a say on who leads this country, writes Harriet WilliamsonFive days a week, I have the pleasure of selecting and editing the opinions our readers share with us and collating them forThe Independent's letters page.I'm always interested in the thoughts of readers who take the time to write to the letters inbox, rather than merely leaving a hasty comment below the line.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00182749901432544,
+                    "sentence": "And from the most recent missives we've received, it's quite clear that our readers have not forgotten whyBoris Johnsonwas forced toresign on 7 July 2022.ThePartygatescandal and the devastation of finding out that those who had made the rules regarding Covid restrictions enjoyed cheese-and-wine parties, withloud music, quizzes, cake and fizz, while so many of us experienced loneliness and isolation and must now live with the knowledge thatour loved ones died alone, is still a source of pain and anger.Readers also reference Johnson's strained relationship with the truth and his legacy as a prime minister“mired in sleaze and wrongdoing”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.015138370916247368,
+                    "sentence": "You can find a timeline of the biggest scandals Johnson was involved in during his premiershiphere.We are also seeing more letters from readers who are frustrated by the ongoing Tory psychodrama and want a say on who leads this country.More than 350,000 people have already signedThe Independent's petitioncalling for a general election now.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.016716282814741135,
+                    "sentence": "The British public deserve to choose a government with a real democratic mandate, rather than suffer through repeated Tory leadership contests in which the vast majority of the electorate have no voice or agency whatsoever.To keep up to speed with all the latest opinions and comment sign up to our free weekly Voices Dispatches newsletter by clickinghereIf our mailbag is anything to go by, the majority of our readers are unimpressed by the chopping and changing of Tory leaders and economic agendas.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.021172046661376953,
+                    "sentence": "Westminster chaos and instability does not go unnoticed - and, ultimately, it is not sustainable.Yours,Harriet WilliamsonVoices commissioning editor",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "We are also seeing more letters from those who are frustrated by the ongoing Tory psychodrama and want a say on who leads this country, writes Harriet WilliamsonFive days a week, I have the pleasure of selecting and editing the opinions our readers share with us and collating them forThe Independent’s letters page.I’m always interested in the thoughts of readers who take the time to write to the letters inbox, rather than merely leaving a hasty comment below the line. And from the most recent missives we’ve received, it’s quite clear that our readers have not forgotten whyBoris Johnsonwas forced toresign on 7 July 2022.ThePartygatescandal and the devastation of finding out that those who had made the rules regarding Covid restrictions enjoyed cheese-and-wine parties, withloud music, quizzes, cake and fizz, while so many of us experienced loneliness and isolation and must now live with the knowledge thatour loved ones died alone, is still a source of pain and anger.Readers also reference Johnson’s strained relationship with the truth and his legacy as a prime minister“mired in sleaze and wrongdoing”.  You can find a timeline of the biggest scandals Johnson was involved in during his premiershiphere.We are also seeing more letters from readers who are frustrated by the ongoing Tory psychodrama and want a say on who leads this country.More than 350,000 people have already signedThe Independent’s petitioncalling for a general election now. The British public deserve to choose a government with a real democratic mandate, rather than suffer through repeated Tory leadership contests in which the vast majority of the electorate have no voice or agency whatsoever.To keep up to speed with all the latest opinions and comment sign up to our free weekly Voices Dispatches newsletter by clickinghereIf our mailbag is anything to go by, the majority of our readers are unimpressed by the chopping and changing of Tory leaders and economic agendas. Westminster chaos and instability does not go unnoticed – and, ultimately, it is not sustainable.Yours,Harriet WilliamsonVoices commissioning editor"
+        }
+    ]
+}

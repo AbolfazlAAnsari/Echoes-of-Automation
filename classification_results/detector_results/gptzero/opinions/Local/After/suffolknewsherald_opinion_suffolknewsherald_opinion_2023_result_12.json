@@ -1,0 +1,160 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.001149356015957892,
+                    "sentence": "Published 5:50 pm Friday, June 23, 2023ByStaff ReportsBy Steve Zollos, Guest ColumnistHousing costs, taxes, and food prices have skyrocketed in recent years.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019497780594974756,
+                    "sentence": "Inflation has had a negative effect on everyone.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002195529406890273,
+                    "sentence": "While many of us adjust to changes like these by cutting back on expenses like dining out and movie tickets, older adults, who were once financially stable, are now struggling.An increasing number of our senior citizens are living month-to-month and facing difficult choices such as choosing between paying their rent or buying their medications.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0025520797353237867,
+                    "sentence": "Some further compromise their health by limiting their food purchases.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001618591253645718,
+                    "sentence": "Extreme weather, such as high heat or freezing temperatures, can also become life-threatening if older adults are unable to keep up with their air conditioning or heating bills.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015818902757018805,
+                    "sentence": "Did you know that older adults are the fastest growing segment of the homeless population?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019146219128742814,
+                    "sentence": "How could this be happening right here in Hampton Roads?These are real situations that occur daily in our own backyards.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016338140703737736,
+                    "sentence": "Unfortunately, as a nation, we have been slow to recognize that the world has changed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020735638681799173,
+                    "sentence": "Economists have long warned about the coming “silver tsunami,” but we fail to recognize that we are currently experiencing it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010918349726125598,
+                    "sentence": "In fact, for the first time the 60-and-older population has surpassed the number of youths aged 18 and under.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018082711612805724,
+                    "sentence": "Our practices and policies need to be updated to be inclusive of older adults who deserve an equal share of respect, support, consideration and financial resources as the rest of our community.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6310378909111023,
+                    "sentence": "That's health equity in aging.To create a more equitable environment for our older adults we can take the following steps:By working together, we can build a stronger Hampton Roads that recognizes the value of our older citizens and ensures they will receive an equitable share of respect, support, consideration and financial resources.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6421421766281128,
+                    "sentence": "In doing so, we will be building a stronger, more resilient community for us all.Steve Zollos is the chief executive officer with Senior Services of Southeastern Virginia, the local Area Agency on Aging.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5515649318695068,
+                    "sentence": "Senior Services has been providing essential services such as home-delivered meals and transportation for individuals aged 60 years of age and older for more than 50 years.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6168054938316345,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6209512948989868,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 16,
+                    "completely_generated_prob": 3.4496480286678e-14
+                }
+            ],
+            "completely_generated_prob": 0.22253760999148456,
+            "class_probabilities": {
+                "human": 0.7774623900085155,
+                "ai": 0.22253760999148456,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.7774623900085155,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.22253760999148456,
+                    "human": 0.7774623900085155,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:50 pm Friday, June 23, 2023ByStaff ReportsBy Steve Zollos, Guest ColumnistHousing costs, taxes, and food prices have skyrocketed in recent years. Inflation has had a negative effect on everyone. While many of us adjust to changes like these by cutting back on expenses like dining out and movie tickets, older adults, who were once financially stable, are now struggling.An increasing number of our senior citizens are living month-to-month and facing difficult choices such as choosing between paying their rent or buying their medications. Some further compromise their health by limiting their food purchases. Extreme weather, such as high heat or freezing temperatures, can also become life-threatening if older adults are unable to keep up with their air conditioning or heating bills. Did you know that older adults are the fastest growing segment of the homeless population? How could this be happening right here in Hampton Roads?These are real situations that occur daily in our own backyards. Unfortunately, as a nation, we have been slow to recognize that the world has changed. Economists have long warned about the coming “silver tsunami,” but we fail to recognize that we are currently experiencing it. In fact, for the first time the 60-and-older population has surpassed the number of youths aged 18 and under. Our practices and policies need to be updated to be inclusive of older adults who deserve an equal share of respect, support, consideration and financial resources as the rest of our community. That’s health equity in aging.To create a more equitable environment for our older adults we can take the following steps:By working together, we can build a stronger Hampton Roads that recognizes the value of our older citizens and ensures they will receive an equitable share of respect, support, consideration and financial resources. In doing so, we will be building a stronger, more resilient community for us all.Steve Zollos is the chief executive officer with Senior Services of Southeastern Virginia, the local Area Agency on Aging. Senior Services has been providing essential services such as home-delivered meals and transportation for individuals aged 60 years of age and older for more than 50 years.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

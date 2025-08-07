@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.010280885733664036,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°The largest number of migrants streaming into the U.S. and to New York City are from Venezuela and so Americans are directly impacted by stability in that country.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012265500612556934,
+                    "sentence": "Now comes a suspicious election favoring President Nicolás Maduro, with his puppet electoral council granting him a dubious victory over challenger Edmundo González that could cause even more chaos there.Maduro is a continuation of a regime, launched by Hugo Chávez, that has robbed Venezuelans of a chance to enjoy the vast wealth that the country could have generated with its vast oil reserves.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010234452784061432,
+                    "sentence": "Chávez was freely elected in 1998, with a promise to fix things.He did not.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007130454760044813,
+                    "sentence": "Chávez was convinced that he and his party alone had the right and ability to govern the country, and moved to abolish the legislature and independent courts, muzzle the press and bring independent watchdogs and civil society to heel.Programs that had initially relied on sky-high oil prices and to dent poverty and increase social services were not sustainable, and Chávez had increasingly little oversight and opposition to keep him in check and provide alternate governing visions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.014149951748549938,
+                    "sentence": "Quality of life plummeted, and every subsequent election got a little more suspect, until Maduro took over as Chavez's handpicked successor when Chávez died in 2013.Now we find ourselves here, with international governments across Latin America casting doubt on this election, which takes place after Maduro used the levers of power to crack down on the opposition and bar opposition leader María Corina Machado from running at all.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.020115762948989868,
+                    "sentence": "Venezuela once had free and fair elections, which is how Hugo Chávez first won.But an unpopular president refusing to be voted out by the public is not something that only happens in Latin American countries.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02252238057553768,
+                    "sentence": "Let's not forget that the prior president of the United States tried to do the same four years ago.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017884152475744486,
+                    "sentence": "Donald Trump's Jan. 6 insurrection was a last-ditch effort to physically prevent the transfer of power, but his earlier attempts were rooted in using or trying to use the formal levers of power to tilt the outcome of the election in his direction.Entreaties for the Georgia secretary of state to “find” enough votes to put him over the top are no different than Maduro leaning on his electoral council to fudge the numbers in his favor, or stop counting before they all come in.The main difference is that Trump's gambit failed, in part because of the decentralized nature of U.S. elections.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018509809160605073,
+                    "sentence": "He could pressure state officials here and there and gin up fake electors, but he did not directly oversee the machinery of the election.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002623455657158047,
+                    "sentence": "Still, we shouldn't take it for granted that his coup did not succeed; a lot of people in different jobs around the country had to make the decision not to go along, and we're all lucky they did.In this country, the rightful winner took power and we can only hope that the rightful winner in Venezuela, probably González, somehow manages to prevail over Maduro and his forces.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004454431473277509,
+                    "sentence": "Democracy requires people of good will on both sides; for the loser to accept the results and for the winner to rule within the bounds of the law.And that's the same in English and Spanish.ᅳ New York Daily News",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.037526171686261885,
+            "class_probabilities": {
+                "human": 0.9624738283137382,
+                "ai": 0.037526171686261885,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9624738283137382,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.037526171686261885,
+                    "human": 0.9624738283137382,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°The largest number of migrants streaming into the U.S. and to New York City are from Venezuela and so Americans are directly impacted by stability in that country. Now comes a suspicious election favoring President Nicolás Maduro, with his puppet electoral council granting him a dubious victory over challenger Edmundo González that could cause even more chaos there.Maduro is a continuation of a regime, launched by Hugo Chávez, that has robbed Venezuelans of a chance to enjoy the vast wealth that the country could have generated with its vast oil reserves. Chávez was freely elected in 1998, with a promise to fix things.He did not. Chávez was convinced that he and his party alone had the right and ability to govern the country, and moved to abolish the legislature and independent courts, muzzle the press and bring independent watchdogs and civil society to heel.Programs that had initially relied on sky-high oil prices and to dent poverty and increase social services were not sustainable, and Chávez had increasingly little oversight and opposition to keep him in check and provide alternate governing visions. Quality of life plummeted, and every subsequent election got a little more suspect, until Maduro took over as Chavez’s handpicked successor when Chávez died in 2013.Now we find ourselves here, with international governments across Latin America casting doubt on this election, which takes place after Maduro used the levers of power to crack down on the opposition and bar opposition leader María Corina Machado from running at all. Venezuela once had free and fair elections, which is how Hugo Chávez first won.But an unpopular president refusing to be voted out by the public is not something that only happens in Latin American countries. Let’s not forget that the prior president of the United States tried to do the same four years ago. Donald Trump’s Jan. 6 insurrection was a last-ditch effort to physically prevent the transfer of power, but his earlier attempts were rooted in using or trying to use the formal levers of power to tilt the outcome of the election in his direction.Entreaties for the Georgia secretary of state to “find” enough votes to put him over the top are no different than Maduro leaning on his electoral council to fudge the numbers in his favor, or stop counting before they all come in.The main difference is that Trump’s gambit failed, in part because of the decentralized nature of U.S. elections. He could pressure state officials here and there and gin up fake electors, but he did not directly oversee the machinery of the election. Still, we shouldn’t take it for granted that his coup did not succeed; a lot of people in different jobs around the country had to make the decision not to go along, and we’re all lucky they did.In this country, the rightful winner took power and we can only hope that the rightful winner in Venezuela, probably González, somehow manages to prevail over Maduro and his forces. Democracy requires people of good will on both sides; for the loser to accept the results and for the winner to rule within the bounds of the law.And that’s the same in English and Spanish.— New York Daily News"
+        }
+    ]
+}

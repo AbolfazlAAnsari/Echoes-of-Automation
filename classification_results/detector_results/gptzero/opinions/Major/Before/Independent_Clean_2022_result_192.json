@@ -1,0 +1,100 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 7.654663932044059e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.318275700323284e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukI understandKeir Starmer's desire to appear daring after all the “boring leader” stories, but the desire to makeBrexitwork suggests a grab for the vote of the right wing of the populace, who are rather unlikely Labour voters.Unfortunately, he may succeed in pulling off a rather unusual feat, the alienation of electors from the left, moderate and centre - all at once.Cole DavisNorwichA missed opportunityI read your editorial with interestand I too wonder if Keir Starmer hasread the room wrong.I am still a Remainer to my bones, but have not relished the unalterable fact that Brexit is not a work in progress, just an abject failure, with this government shredding deals with the speed that they signed up to them in the first place.I appreciate that he doesn't want to rerun old arguments but this is, I sense, a missed opportunity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.464150934945792e-05,
+                    "sentence": "The public have indeed altered their views on this issue and would welcome a closer affiliation with the EU.Starmer has often been accused of shilly-shallying and not coming out with definite policies and views as to what Labour would do.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00216182554140687,
+                    "sentence": "On this occasion,he has been emphatic about making Brexit work,but I fear that horse has finally bolted and being robust about its reappearance is basically whistling in the dark.Judith A DanielsGreat YarmouthShort-term calculationInruling out any prospect of Britain rejoining the EU or its single marketand customs union, the Labour leader is turning his back on the future of millions of our citizens, but particularly our young who, since Brexit are facing poorer income, housing, employment, education, and social mobility opportunities that their peers in the rest of the EU take for granted.Labour could still be the custodian of these Remain hopes, but short-term political calculation seems to have prevailed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003228480461984873,
+                    "sentence": "Yet that in itself is loaded with risk.Starmer is naive in believing a UK racked with economic decline and serious threats of recession can wrangle better terms from the EU, while his hopes of neutralising the Brexit issue, particularly in the red wall north, may only end up diminishing Labour's appeal in London, the south and Scotland.Paul DolanCheshireThe reasonable civil serviceSuella Bravermanclaims that civil servants are resisting cutting EU legislation after Brexit.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004497750196605921,
+                    "sentence": "But most recent polls show that people in general have reservations about it.Perhaps the civil service is more sympathetic to democracy than the government is?Susan AlexanderFrampton CotterellThe PM and Chris PincherSean O'Grady correctly identifiesthat “Boris can't even lie properly about the Chris Pincher scandal” and such mendacity has predictable consequences.Johnson has several given names, and he needs to be careful that history does award him the additional one of “Matilda”.Colin BurkeCumbriaTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereArt gallery protestsI am disgusted at the currentJust Stop Oil protests in art galleriesaround the country.Students are glueing themselves to valuable artworks, which will inevitably cause damage which will be very expensive and time consuming to restore.I trust that as well as criminal charges for their vandalism, the museums concerned will see that they are pursued for the full costs of restoration of the paintings, frames and buildings they have defiled.Were I the principal of their university, each and every one of them would be expelled, as I would have almost certainly been had I behaved like when I was a student, albeit in a century where standards were seemingly higher.Ian McNicholasEbbw Vale",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 6,
+                    "completely_generated_prob": 1.474742012248794e-05
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI understandKeir Starmer’s desire to appear daring after all the “boring leader” stories, but the desire to makeBrexitwork suggests a grab for the vote of the right wing of the populace, who are rather unlikely Labour voters.Unfortunately, he may succeed in pulling off a rather unusual feat, the alienation of electors from the left, moderate and centre – all at once.Cole DavisNorwichA missed opportunityI read your editorial with interestand I too wonder if Keir Starmer hasread the room wrong.I am still a Remainer to my bones, but have not relished the unalterable fact that Brexit is not a work in progress, just an abject failure, with this government shredding deals with the speed that they signed up to them in the first place.I appreciate that he doesn’t want to rerun old arguments but this is, I sense, a missed opportunity. The public have indeed altered their views on this issue and would welcome a closer affiliation with the EU.Starmer has often been accused of shilly-shallying and not coming out with definite policies and views as to what Labour would do. On this occasion,he has been emphatic about making Brexit work,but I fear that horse has finally bolted and being robust about its reappearance is basically whistling in the dark.Judith A DanielsGreat YarmouthShort-term calculationInruling out any prospect of Britain rejoining the EU or its single marketand customs union, the Labour leader is turning his back on the future of millions of our citizens, but particularly our young who, since Brexit are facing poorer income, housing, employment, education, and social mobility opportunities that their peers in the rest of the EU take for granted.Labour could still be the custodian of these Remain hopes, but short-term political calculation seems to have prevailed. Yet that in itself is loaded with risk.Starmer is naive in believing a UK racked with economic decline and serious threats of recession can wrangle better terms from the EU, while his hopes of neutralising the Brexit issue, particularly in the red wall north, may only end up diminishing Labour’s appeal in London, the south and Scotland.Paul DolanCheshireThe reasonable civil serviceSuella Bravermanclaims that civil servants are resisting cutting EU legislation after Brexit. But most recent polls show that people in general have reservations about it.Perhaps the civil service is more sympathetic to democracy than the government is?Susan AlexanderFrampton CotterellThe PM and Chris PincherSean O’Grady correctly identifiesthat “Boris can’t even lie properly about the Chris Pincher scandal” and such mendacity has predictable consequences.Johnson has several given names, and he needs to be careful that history does award him the additional one of “Matilda”.Colin BurkeCumbriaTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereArt gallery protestsI am disgusted at the currentJust Stop Oil protests in art galleriesaround the country.Students are glueing themselves to valuable artworks, which will inevitably cause damage which will be very expensive and time consuming to restore.I trust that as well as criminal charges for their vandalism, the museums concerned will see that they are pursued for the full costs of restoration of the paintings, frames and buildings they have defiled.Were I the principal of their university, each and every one of them would be expelled, as I would have almost certainly been had I behaved like when I was a student, albeit in a century where standards were seemingly higher.Ian McNicholasEbbw Vale"
+        }
+    ]
+}

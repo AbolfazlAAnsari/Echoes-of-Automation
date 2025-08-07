@@ -1,0 +1,154 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0006209770799614489,
+                    "sentence": "Each time events look as if they are conspiring to bring the prime minister down, he slips free, writes John RentoulFor a few days last month, it looked as ifBoris Johnson's time as prime minister was more likely than not to come to an abrupt end.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00047883085790090263,
+                    "sentence": "If Sue Gray, the civil servant investigating lockdown gatherings, had published her original report, it would probably have triggered the 54 letters from Conservative MPs demanding a vote of confidence in their leader, which I thought he was likely to lose.He was saved by the intervention of the police, which should have made his position more difficult but it bought him time.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005521763232536614,
+                    "sentence": "Now it seems less certain that, even if the police say they think he broke the law, the 54 letters will be sent.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00023342938220594078,
+                    "sentence": "A defiant tone, a foreign crisis and, crucially, a slight recovery in the opinion polls have steadied Tory nerves.At which point the caravan of media speculation moves on to the next checkpoint.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00037177858757786453,
+                    "sentence": "If the prime minister survives the issuing of fixed penalty notices, it is said, Tory plotters will try to get rid of him after the local elections in May.I am not sure that they will.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005534492083825171,
+                    "sentence": "At one point it looked as if the Tories would do so badly in the local elections that it would bring home to MPs in marginal seats the dangers to them of keeping Johnson as leader.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007379546877928078,
+                    "sentence": "But a closer look at the prospects suggests that the Tories may be able to shrug off the results as mere midterm blues.Early in January,Lord Hayward,the Conservative elections analyst, said that the party could lose Wandsworth and Westminster, two well-known London councils, and faced \"serious challenges\" in Barnet and \"possibly\" Hillingdon.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007291804067790508,
+                    "sentence": "(Losing all four would leave the Tories in control of only three of the 32 boroughs: Bexley, Bromley, and Kensington and Chelsea.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0058684865944087505,
+                    "sentence": ")It is quite possible that the Tories could lose Wandsworth, which they have held since 1978.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010803544893860817,
+                    "sentence": "Labour actually won more votes than the Tories in the last elections in 2018, so a small swing in its favour on new ward boundaries may be enough.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00787885207682848,
+                    "sentence": "David Cowling, the former BBC elections guru, tells me that this year \"must be Labour's best chance to take Wandsworth in decades\".Westminster and the other London Tory councils, on the other hand, are a tall order.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008355481550097466,
+                    "sentence": "If local votes swing to Labour in line with national opinion polls - the two parties were neck and neck in 2018; Labour is an average of four points ahead now - the Tories should hold on.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00892527587711811,
+                    "sentence": "If the Tories \"only\" lose Wandsworth, they may win the expectations game - and Tory MPs uncertain about what to do will have another excuse to do nothing.Mind you, Kenneth Baker, who was Tory chair in 1990, presented the party's success in holding Wandsworth as a vote of confidence from the electorate in Margaret Thatcher.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03536113724112511,
+                    "sentence": "Six months later, she was gone.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03879256546497345,
+                    "sentence": "So even if Johnson survives the May elections, he may not survive them for long.Yours,John RentoulChief political commentator",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 15,
+                    "completely_generated_prob": 2.5938383721896624e-13
+                }
+            ],
+            "completely_generated_prob": 0.037526171686261885,
+            "class_probabilities": {
+                "human": 0.9624738283137382,
+                "ai": 0.037526171686261885,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9624738283137382,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.037526171686261885,
+                    "human": 0.9624738283137382,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Each time events look as if they are conspiring to bring the prime minister down, he slips free, writes John RentoulFor a few days last month, it looked as ifBoris Johnson's time as prime minister was more likely than not to come to an abrupt end. If Sue Gray, the civil servant investigating lockdown gatherings, had published her original report, it would probably have triggered the 54 letters from Conservative MPs demanding a vote of confidence in their leader, which I thought he was likely to lose.He was saved by the intervention of the police, which should have made his position more difficult but it bought him time. Now it seems less certain that, even if the police say they think he broke the law, the 54 letters will be sent. A defiant tone, a foreign crisis and, crucially, a slight recovery in the opinion polls have steadied Tory nerves.At which point the caravan of media speculation moves on to the next checkpoint. If the prime minister survives the issuing of fixed penalty notices, it is said, Tory plotters will try to get rid of him after the local elections in May.I am not sure that they will. At one point it looked as if the Tories would do so badly in the local elections that it would bring home to MPs in marginal seats the dangers to them of keeping Johnson as leader. But a closer look at the prospects suggests that the Tories may be able to shrug off the results as mere midterm blues.Early in January,Lord Hayward,the Conservative elections analyst, said that the party could lose Wandsworth and Westminster, two well-known London councils, and faced \"serious challenges\" in Barnet and \"possibly\" Hillingdon. (Losing all four would leave the Tories in control of only three of the 32 boroughs: Bexley, Bromley, and Kensington and Chelsea.)It is quite possible that the Tories could lose Wandsworth, which they have held since 1978. Labour actually won more votes than the Tories in the last elections in 2018, so a small swing in its favour on new ward boundaries may be enough. David Cowling, the former BBC elections guru, tells me that this year \"must be Labour's best chance to take Wandsworth in decades\".Westminster and the other London Tory councils, on the other hand, are a tall order. If local votes swing to Labour in line with national opinion polls - the two parties were neck and neck in 2018; Labour is an average of four points ahead now - the Tories should hold on. If the Tories \"only\" lose Wandsworth, they may win the expectations game - and Tory MPs uncertain about what to do will have another excuse to do nothing.Mind you, Kenneth Baker, who was Tory chair in 1990, presented the party's success in holding Wandsworth as a vote of confidence from the electorate in Margaret Thatcher. Six months later, she was gone. So even if Johnson survives the May elections, he may not survive them for long.Yours,John RentoulChief political commentator"
+        }
+    ]
+}

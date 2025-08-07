@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0007823529304005206,
+                    "sentence": "The state's historic weather is upending plans for everyone ᅳ candidates, reporters and voters.Iowa is in a deep freeze.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007720278226770461,
+                    "sentence": "Subzero temperatures ᅳ and a blizzard ᅳ have thrown many of the weekend's highly choreographed events into question, leaving observers wondering if the weather could alter the election results.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008406903361901641,
+                    "sentence": "In this audio report from the frozen Hawkeye State, the Opinion writer Katherine Miller describes what it's like to cover the caucuses and considers how the inclement weather might affect voting.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00047812267439439893,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006958069861866534,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006069656810723245,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,X (@NYTOpinion)andInstagram.This episode of “The Opinions” was produced by Vishakha Darbha and Jillian Weinberger.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007175697246566415,
+                    "sentence": "It was edited by Alison Bruzek and Annie-Rose Strasser.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007876824820414186,
+                    "sentence": "Mixing by Efim Shapiro.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006990080000832677,
+                    "sentence": "Original music by Carole Sabouraud.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006458035204559565,
+                    "sentence": "Fact-checking by Kate Sinclair.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000792599399574101,
+                    "sentence": "Audience strategy by Shannon Busta.PHOTO: (PHOTOGRAPH BY Illustration by Akshita Chandra/The New York Times; Photograph by Maksym Kapliuk/Getty Images FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.020660391318316405,
+            "class_probabilities": {
+                "human": 0.9793396086816837,
+                "ai": 0.020660391318316405,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9793396086816837,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020660391318316405,
+                    "human": 0.9793396086816837,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "The state’s historic weather is upending plans for everyone — candidates, reporters and voters.Iowa is in a deep freeze. Subzero temperatures — and a blizzard — have thrown many of the weekend’s highly choreographed events into question, leaving observers wondering if the weather could alter the election results. In this audio report from the frozen Hawkeye State, the Opinion writer Katherine Miller describes what it’s like to cover the caucuses and considers how the inclement weather might affect voting.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,X (@NYTOpinion)andInstagram.This episode of “The Opinions” was produced by Vishakha Darbha and Jillian Weinberger. It was edited by Alison Bruzek and Annie-Rose Strasser. Mixing by Efim Shapiro. Original music by Carole Sabouraud. Fact-checking by Kate Sinclair. Audience strategy by Shannon Busta.PHOTO:  (PHOTOGRAPH BY Illustration by Akshita Chandra/The New York Times; Photograph by Maksym Kapliuk/Getty Images FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

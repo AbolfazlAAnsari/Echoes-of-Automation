@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00019053008873015642,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°It has been more than a month since the attack on Israel that killed more than 1,400 people, according to Israeli officials.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017185628530569375,
+                    "sentence": "In responding to that atrocity, Israel has relentlessly bombarded Gaza and launched a ground operation with the objectives of destroying Hamas and rescuing hostages.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016735888493712991,
+                    "sentence": "The result has been a humanitarian catastrophe with more than 10,000 people in Gaza killed, according to the Hamas-run Health Ministry, and massive displacement and destruction.It is time that Israel heeded calls from the United States and other nations for a humanitarian pause in its attacks to allow for expanded efforts to relieve some of the misery.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010788199870148674,
+                    "sentence": "There are signs that some respite may be in the works, but pauses in violence need to be long and frequent enough to deliver meaningful assistance to civilians in Gaza.On Thursday, President Joe Biden confirmed that he had asked for a pause in Israeli attacks, one that would last “a lot more than three days.” Biden's comment came a day after diplomats at a Group of 7 meeting in Tokyo issued a statement ᅳ crafted in part by Secretary of State Antony J. Blinken ᅳ calling for “humanitarian pauses and corridors to facilitate urgently needed assistance, civilian movement and the release of hostages.” The statement called on all parties to the conflict to allow “unimpeded humanitarian support for civilians, including food, water, medical care, fuel and shelter, and access for humanitarian workers.”Congress also is getting involved.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011641286255326122,
+                    "sentence": "On Wednesday, 24 Democratic U.S. senators, including California's Laphonza Butler, and two independents, Angus King of Maine and Bernie Sanders of Vermont, who caucus with the Democrats, sent a letter to Biden.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001218879988300614,
+                    "sentence": "Even as the senators expressed support for new aid to Israel to help it replenish its defenses, they asked for “information relative to these two clear U.S. priorities: supporting an Israeli strategy that will effectively degrade and defeat the threat from Hamas and taking all possible measures to protect civilians in Gaza.”The letter also asked Biden to “inform us about what specific mechanisms you are putting in place to ensure that Israeli military operations conducted inside Gaza are carried out in accordance with international humanitarian law and to ensure that any U.S.-provided equipment is used in a manner consistent with U.S. law.”These are legitimate questions, and Biden should respond to them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004049282521009445,
+                    "sentence": "But the immediate priority is to address the dire civilian toll of this conflict.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005680585280060768,
+                    "sentence": "Israeli Prime Minister Benjamin Netanyahu said on Monday that Israel might be open to “ little pauses” in its campaign against Hamas.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006168501451611519,
+                    "sentence": "On Thursday, the White House indicated that Israel would engage in daily four-hour pauses of military operations in parts of northern Gaza.There are also reports that a three-day “humanitarian pause” might be part of an agreement for the release of some hostages held by Hamas.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01123669184744358,
+                    "sentence": "Progress on hostage release would be welcome, but it shouldn't be a precondition for a meaningful humanitarian pause.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00477397907525301,
+                    "sentence": "Civilians in Gaza are suffering, and they need a lifeline.ᅳLos Angeles TimesHilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004229491576552391,
+                    "sentence": "Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017.NEW YORK ᅳ Lou Piniella was back in uniform Saturday, wearing pinstripes and the number 14 for Old-Timers' Day at Yankee Stadium.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0035183955915272236,
+                    "sentence": "Piniella, who turns 81 next week, earned his fame in the Bronx as a two-time World Series champion but spent much of his managing career in a feisty rivalry with the Y",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.021601982568463345,
+            "class_probabilities": {
+                "human": 0.9783576840560043,
+                "ai": 0.021601982568463345,
+                "mixed": 4.0333375532255976e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9783576840560043,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.021601982568463345,
+                    "human": 0.9783576840560043,
+                    "mixed": 4.0333375532255976e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°It has been more than a month since the attack on Israel that killed more than 1,400 people, according to Israeli officials. In responding to that atrocity, Israel has relentlessly bombarded Gaza and launched a ground operation with the objectives of destroying Hamas and rescuing hostages. The result has been a humanitarian catastrophe with more than 10,000 people in Gaza killed, according to the Hamas-run Health Ministry, and massive displacement and destruction.It is time that Israel heeded calls from the United States and other nations for a humanitarian pause in its attacks to allow for expanded efforts to relieve some of the misery. There are signs that some respite may be in the works, but pauses in violence need to be long and frequent enough to deliver meaningful assistance to civilians in Gaza.On Thursday, President Joe Biden confirmed that he had asked for a pause in Israeli attacks, one that would last “a lot more than three days.” Biden’s comment came a day after diplomats at a Group of 7 meeting in Tokyo issued a statement — crafted in part by Secretary of State Antony J. Blinken — calling for “humanitarian pauses and corridors to facilitate urgently needed assistance, civilian movement and the release of hostages.” The statement called on all parties to the conflict to allow “unimpeded humanitarian support for civilians, including food, water, medical care, fuel and shelter, and access for humanitarian workers.”Congress also is getting involved. On Wednesday, 24 Democratic U.S. senators, including California’s Laphonza Butler, and two independents, Angus King of Maine and Bernie Sanders of Vermont, who caucus with the Democrats, sent a letter to Biden. Even as the senators expressed support for new aid to Israel to help it replenish its defenses, they asked for “information relative to these two clear U.S. priorities: supporting an Israeli strategy that will effectively degrade and defeat the threat from Hamas and taking all possible measures to protect civilians in Gaza.”The letter also asked Biden to “inform us about what specific mechanisms you are putting in place to ensure that Israeli military operations conducted inside Gaza are carried out in accordance with international humanitarian law and to ensure that any U.S.-provided equipment is used in a manner consistent with U.S. law.”These are legitimate questions, and Biden should respond to them. But the immediate priority is to address the dire civilian toll of this conflict. Israeli Prime Minister Benjamin Netanyahu said on Monday that Israel might be open to “ little pauses” in its campaign against Hamas. On Thursday, the White House indicated that Israel would engage in daily four-hour pauses of military operations in parts of northern Gaza.There are also reports that a three-day “humanitarian pause” might be part of an agreement for the release of some hostages held by Hamas. Progress on hostage release would be welcome, but it shouldn’t be a precondition for a meaningful humanitarian pause. Civilians in Gaza are suffering, and they need a lifeline.—Los Angeles TimesHilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track. Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017.NEW YORK — Lou Piniella was back in uniform Saturday, wearing pinstripes and the number 14 for Old-Timers’ Day at Yankee Stadium. Piniella, who turns 81 next week, earned his fame in the Bronx as a two-time World Series champion but spent much of his managing career in a feisty rivalry with the Y"
+        }
+    ]
+}

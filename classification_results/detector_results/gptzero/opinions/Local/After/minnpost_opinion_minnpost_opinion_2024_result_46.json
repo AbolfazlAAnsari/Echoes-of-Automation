@@ -1,0 +1,94 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0019704459700733423,
+                    "sentence": "From local coverage to the presidential race,.Cityscape| Twin Cities urban geographer Bill Lindeke weighs in on city life, transportation, planning and more in his column delivered to your inbox weekly.Out of a growing need to explore strategies to expand the state's workforce, the Minnesota Department of Employment and Economic Development last month drew attention to the increase in foreign-born residents who have moved into the region in the last decade and the potential these individuals have in alleviating labor shortages.A labor market analyst studied trends within this population since 2010.According to the 2018-2022 American Community Survey, southeast Minnesota is home to about 36,000 foreign-born individuals, an increase of almost 10,000 people in 2022 compared to 2010, bringing the number of foreign-born people in southeastern Minnesota to almost 36,000.These individuals made up 6.9% of the total population in the region in 2022, according to the survey.In southeast Minnesota, Olmsted County had the largest number of foreign-born residents in 2022, making up 11.2% of its total population.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002756467554718256,
+                    "sentence": "Close behind was Mower County with 11.1%.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5981490612030029,
+                    "sentence": "Foreign-born residents made up 4.9% of Freeborn County's total population.Freeborn County saw a 55.1% increase ᅳ or an increase of 537 foreign-born people ᅳ from 2010 to 2022, while Mower County saw an increase of 67.8% or 1,801 residents in the same period.Specifically, the American Community Survey estimated Freeborn County in 2022 had 1,512 foreign-born residents, while Mower County had 4,459.That is not insignificant.The Department of Employment and Economic Development went on further to illustrate how the foreign-born population as a whole right now has a younger age distribution than the overall population, with 61% of the immigrant population falling in the prime working age range of 25 to 54.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.4493098258972168,
+                    "sentence": "When looking at the total population, only 36% is within that same age range, especially with the retirement of Baby Boomers.We have seen some area businesses take advantage of this opportunity to attract these workers by making an extra effort to reach out to these communities, and we urge others to join in.These workers are filling a gap in workers in the area, and they will only continue to do so in the coming years.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.49258556962013245,
+                    "sentence": "These individuals have a variety of backgrounds, and with that can bring in diverse knowledge and skill to the workforce.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                }
+            ],
+            "completely_generated_prob": 0.09352669053757362,
+            "class_probabilities": {
+                "human": 0.9064290825316382,
+                "ai": 0.09352669053757362,
+                "mixed": 4.422693078808984e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9064290825316382,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.09352669053757362,
+                    "human": 0.9064290825316382,
+                    "mixed": 4.422693078808984e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "From local coverage to the presidential race, .Cityscape| Twin Cities urban geographer Bill Lindeke weighs in on city life, transportation, planning and more in his column delivered to your inbox weekly.Out of a growing need to explore strategies to expand the state’s workforce, the Minnesota Department of Employment and Economic Development last month drew attention to the increase in foreign-born residents who have moved into the region in the last decade and the potential these individuals have in alleviating labor shortages.A labor market analyst studied trends within this population since 2010.According to the 2018-2022 American Community Survey, southeast Minnesota is home to about 36,000 foreign-born individuals, an increase of almost 10,000 people in 2022 compared to 2010, bringing the number of foreign-born people in southeastern Minnesota to almost 36,000.These individuals made up 6.9% of the total population in the region in 2022, according to the survey.In southeast Minnesota, Olmsted County had the largest number of foreign-born residents in 2022, making up 11.2% of its total population. Close behind was Mower County with 11.1%. Foreign-born residents made up 4.9% of Freeborn County’s total population.Freeborn County saw a 55.1% increase — or an increase of 537 foreign-born people — from 2010 to 2022, while Mower County saw an increase of 67.8% or 1,801 residents in the same period.Specifically, the American Community Survey estimated Freeborn County in 2022 had 1,512 foreign-born residents, while Mower County had 4,459.That is not insignificant.The Department of Employment and Economic Development went on further to illustrate how the foreign-born population as a whole right now has a younger age distribution than the overall population, with 61% of the immigrant population falling in the prime working age range of 25 to 54. When looking at the total population, only 36% is within that same age range, especially with the retirement of Baby Boomers.We have seen some area businesses take advantage of this opportunity to attract these workers by making an extra effort to reach out to these communities, and we urge others to join in.These workers are filling a gap in workers in the area, and they will only continue to do so in the coming years. These individuals have a variety of backgrounds, and with that can bring in diverse knowledge and skill to the workforce."
+        }
+    ]
+}

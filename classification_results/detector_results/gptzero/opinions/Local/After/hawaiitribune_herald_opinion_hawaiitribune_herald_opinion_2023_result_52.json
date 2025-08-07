@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 3.568709144019522e-05,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°More than 11 years ago, Barack Obama drew his “red line” in the sand.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.7216299713472836e-05,
+                    "sentence": "Will the Biden administration make the same mistake?It was August 2012 when Obama, running for a second term in the Oval Office, held a news conference and fielded a question about the ongoing civil war in Syria.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.4348219085368328e-05,
+                    "sentence": "The president said that he had so far avoided U.S. military intervention but that his calculations would change if Syria crossed a “red line” and used chemical weapons.A year later, a chemical weapons attack believed to have been carried out by the regime of Bashar al-Assad killed 1,400 people near Damascus.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.427805884508416e-05,
+                    "sentence": "Obama did little about his “red line” but eventually cut a deal with Vladimir Putin and Russia to have Syria turn over its chemical stockpiles to international inspectors.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.8578591809491627e-05,
+                    "sentence": "The agreement was a failure, the victim ᅳ as The Atlantic later put it ᅳ “of Syrian deception, Russian duplicity and American dithering.”Fast forward to this month in the wake of the horrific Hamas terror attack on Israel.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.1789088097866625e-05,
+                    "sentence": "As the Jewish state prepares for a ground invasion of Gaza, militant groups threaten to escalate the conflict and have even targeted American forces.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.796088119794149e-05,
+                    "sentence": "In recent days, Iranian-backed groups in the region “launched 10 drone and rocket attacks against bases that U.S. troops use in Iraq and three on a U.S. base in southeast Syria.”In response, the United States has ramped up the rhetoric.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.4189175746869296e-05,
+                    "sentence": "“My warning to the Ayatollah,” President Joe Biden said, “was that if they continue to move against” U.S. troops in the Middle East, “we will respond.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.2835311028757133e-05,
+                    "sentence": "And he should be prepared.”These warnings are appropriate as an exercise in deterrence.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.243507308070548e-05,
+                    "sentence": "But this administration's fiasco in Afghanistan and the Obama administration's “red line” still haunt American diplomacy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.3017258829204366e-05,
+                    "sentence": "It's highly likely that the resolve of the Biden White House will be tested by Iranian-backed terrorists in the region.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.198678652755916e-05,
+                    "sentence": "Is Biden prepared to follow through?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.525020606000908e-05,
+                    "sentence": "Or will he speak loudly and carry a small stick?ᅳ Las Vegas Review-Journal",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.0031733866852551138,
+            "class_probabilities": {
+                "human": 0.996826613314745,
+                "ai": 0.0031733866852551138,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.996826613314745,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0031733866852551138,
+                    "human": 0.996826613314745,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°More than 11 years ago, Barack Obama drew his “red line” in the sand. Will the Biden administration make the same mistake?It was August 2012 when Obama, running for a second term in the Oval Office, held a news conference and fielded a question about the ongoing civil war in Syria. The president said that he had so far avoided U.S. military intervention but that his calculations would change if Syria crossed a “red line” and used chemical weapons.A year later, a chemical weapons attack believed to have been carried out by the regime of Bashar al-Assad killed 1,400 people near Damascus. Obama did little about his “red line” but eventually cut a deal with Vladimir Putin and Russia to have Syria turn over its chemical stockpiles to international inspectors. The agreement was a failure, the victim — as The Atlantic later put it — “of Syrian deception, Russian duplicity and American dithering.”Fast forward to this month in the wake of the horrific Hamas terror attack on Israel. As the Jewish state prepares for a ground invasion of Gaza, militant groups threaten to escalate the conflict and have even targeted American forces. In recent days, Iranian-backed groups in the region “launched 10 drone and rocket attacks against bases that U.S. troops use in Iraq and three on a U.S. base in southeast Syria.”In response, the United States has ramped up the rhetoric. “My warning to the Ayatollah,” President Joe Biden said, “was that if they continue to move against” U.S. troops in the Middle East, “we will respond. And he should be prepared.”These warnings are appropriate as an exercise in deterrence. But this administration’s fiasco in Afghanistan and the Obama administration’s “red line” still haunt American diplomacy. It’s highly likely that the resolve of the Biden White House will be tested by Iranian-backed terrorists in the region. Is Biden prepared to follow through? Or will he speak loudly and carry a small stick?— Las Vegas Review-Journal"
+        }
+    ]
+}

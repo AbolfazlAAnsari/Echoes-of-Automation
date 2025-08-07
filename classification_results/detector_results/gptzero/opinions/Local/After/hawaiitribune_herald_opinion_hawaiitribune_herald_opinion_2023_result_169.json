@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 5.384923133533448e-05,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°It's holiday season, and the Biden administration is in full Santa Claus mode.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.342681106412783e-05,
+                    "sentence": "Never mind the $33 trillion national debt clock whirring upward, the White House is making liberal use of a massive green slush fund to dole out taxpayer-funded goodies to favored special interests.The comically misnamed Inflation Reduction Act contained $400 billion to be dispersed as part of President Joe Biden's green industrial policy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.93654767726548e-05,
+                    "sentence": "That's a fancy phrase for empowering government bureaucrats under crony capitalism to make decisions that should be left to the marketplace.Much of the cash will be funneled through the Department of Energy's Loan Programs Office.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.85322268307209e-05,
+                    "sentence": "There's no shortage of outstretched hands.“The agency agreed to a $1 billion loan for Monolith, a company that promises to make hydrogen out of natural gas,” Kimberley Strassel of The Wall Street Journal reports.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.477345985127613e-05,
+                    "sentence": "“Sunnova, a solar company, landed a $3 billion loan guarantee.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.2612085710279644e-05,
+                    "sentence": "Then there are all the real paupers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.289009277475998e-05,
+                    "sentence": "General Motors and LG scooped up $2.5 billion to build electric-vehicle battery plants.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.3320669394452125e-05,
+                    "sentence": "Ford landed a record $9.2 billion battery commitment.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.087926547275856e-05,
+                    "sentence": "The Ford loan would be $3.3 billion larger than what the company borrowed during the Detroit meltdown of 2008-09.”There's more.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.401306018233299e-05,
+                    "sentence": "The Environmental Protection Agency also has billions in taxpayer cash to throw around.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.1629162044264376e-05,
+                    "sentence": "“The EPA's Greenhouse Gas Reduction Fund will be responsible for distributing $27 billion to nonprofit groups and the green energy technology sector by next September,” The Washington Free Beacon reports.Remember all the waste and fraud that characterized the government's COVID response?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.100887468259316e-05,
+                    "sentence": "The same risks dog the administration's green handouts ᅳ and many observers are ringing alarm bells.The Energy Department's inspector general, Teri L. Donaldson, testified last month before a Senate committee, “The current situation brings tremendous risk to the taxpayers,” adding that the accelerated disbursement of funds creates “a real risk of funding entities with foreign ownership or control.” In addition, Ms. Donaldson noted, “many of these projects are designed to promote innovation by financing projects not otherwise acceptable by private equity investors ᅳ projects the markets do not view as acceptable.”Supporters of green pork argue that such “investments” will pave the way for our brave new energy future.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.9454018658725545e-05,
+                    "sentence": "But the idea that state and federal functionaries are capable of manipulating the energy marketplace without deleterious consequences is fiction ᅳ as is the notion that the United States can meet all its energy needs over the next few decades solely with renewables.ᅳLas Vegas Review-Journal",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.004992955483599872,
+            "class_probabilities": {
+                "human": 0.9950070445164001,
+                "ai": 0.004992955483599872,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9950070445164001,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.004992955483599872,
+                    "human": 0.9950070445164001,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°It’s holiday season, and the Biden administration is in full Santa Claus mode. Never mind the $33 trillion national debt clock whirring upward, the White House is making liberal use of a massive green slush fund to dole out taxpayer-funded goodies to favored special interests.The comically misnamed Inflation Reduction Act contained $400 billion to be dispersed as part of President Joe Biden’s green industrial policy. That’s a fancy phrase for empowering government bureaucrats under crony capitalism to make decisions that should be left to the marketplace.Much of the cash will be funneled through the Department of Energy’s Loan Programs Office. There’s no shortage of outstretched hands.“The agency agreed to a $1 billion loan for Monolith, a company that promises to make hydrogen out of natural gas,” Kimberley Strassel of The Wall Street Journal reports. “Sunnova, a solar company, landed a $3 billion loan guarantee. Then there are all the real paupers. General Motors and LG scooped up $2.5 billion to build electric-vehicle battery plants. Ford landed a record $9.2 billion battery commitment. The Ford loan would be $3.3 billion larger than what the company borrowed during the Detroit meltdown of 2008-09.”There’s more. The Environmental Protection Agency also has billions in taxpayer cash to throw around. “The EPA’s Greenhouse Gas Reduction Fund will be responsible for distributing $27 billion to nonprofit groups and the green energy technology sector by next September,” The Washington Free Beacon reports.Remember all the waste and fraud that characterized the government’s COVID response? The same risks dog the administration’s green handouts — and many observers are ringing alarm bells.The Energy Department’s inspector general, Teri L. Donaldson, testified last month before a Senate committee, “The current situation brings tremendous risk to the taxpayers,” adding that the accelerated disbursement of funds creates “a real risk of funding entities with foreign ownership or control.” In addition, Ms. Donaldson noted, “many of these projects are designed to promote innovation by financing projects not otherwise acceptable by private equity investors — projects the markets do not view as acceptable.”Supporters of green pork argue that such “investments” will pave the way for our brave new energy future. But the idea that state and federal functionaries are capable of manipulating the energy marketplace without deleterious consequences is fiction — as is the notion that the United States can meet all its energy needs over the next few decades solely with renewables.—Las Vegas Review-Journal"
+        }
+    ]
+}

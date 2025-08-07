@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00031597449560649693,
+                    "sentence": "Please send your letters toletters@independent.co.ukJacob Rees-Mogg rebukes us, in that way he has, for \"endlessly carping\" about the Covid-19 testing system rather than celebrating the number of tests available.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00028700707480311394,
+                    "sentence": "He chooses to wear blinkers.People are \"carping\" because the government promised a world-beating system with any massive number (plucked weekly and randomly) of tests per week.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000285126268863678,
+                    "sentence": "And those promises have gone unfulfilled.They are \"carping\" because they have tried to get tested (as previously encouraged by the government) but couldn't - and so couldn't work; or could not be tested within a reasonable distance; or could not access testing without a car; or they had a test and their results were lost.They are \"carping\" because the government has outsourced testing instead of using local facilities which would have been more cost-effective and more time-efficient.They are \"carping\" because the credibility gap between the official messages and the facts is so immense.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00024489022325724363,
+                    "sentence": "I think we should all carp, flat out, day and night and, indeed, strain every sinew in so doing.Beryl WallLondonThe name of the right honourable fish that Jacob Rees-Mogg used to describe criticism of his government's phenomenal coronavirus testing success is simply an anagram of this government's policies.Tony ShephardShifnal, ShropshireTesting timesBaroness Dido Harding, the head of the NHS test and trace programme, and others say the rise in demand for tests could not have been predicted.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00024395569926127791,
+                    "sentence": "But the government's own website shows demand for tests rising linearly from late June, while testing capacity in pillars one and two hit 200,000 at the start of June and has remained essentially unchanged until a small late rise at the end of August.Did Ms Harding think that demand was magically going to top out at the start of December?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00028098636539652944,
+                    "sentence": "Did nobody expect the second wave to actually happen?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00032314169220626354,
+                    "sentence": "Ms Harding is the wrong person in the wrong job.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005155516555532813,
+                    "sentence": "So are most of the government.Rachael PadmanNewmarketAre the people rushing, sometimes unnecessarily, to get a Covid-19 test the same people who are still using toilet rolls they purchased in April?Michael PatePrestonClimate climbMatt Minshall's assertion in yesterday's letters that the Extinction Rebellion actions have \"little effect\" is self-evidently wrong.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.13296476006507874,
+                    "sentence": "He, and many others are noticing the subjects that are the targets of the protests, such that environmental issues are rising quickly up the political agenda.He may not like the style of the XR actions, but they will very likely continue until our \"profit at all costs\" leaders respond with rapid and meaningful policies to that address the looming climate crisis.Steve EdmondsonCambridgeLockdown lessonsThe new restrictions imposed on the northeast of England appear to be a another deviation by this incompetent government.I can agree that the infection rates in the larger towns and cities are a concern, but to include all of rural Northumberland where I live is ridiculous.We are one of of the least populated parts of the country and therefore have fewer cases per 100,000 than most.This government said it was going to have a targeted approach to local lockdowns (whack-a-mole).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1964714527130127,
+                    "sentence": "It now appears to using a sledgehammer to crack a nut.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1637825071811676,
+                    "sentence": "Second national lockdown here we come.John ArchibaldHaltwhistle, NorthumberlandRead moreCoronavirus: Jacob Rees-Mogg accuses people complaining about unavailable tests of 'carping'Coronavirus: New lockdown measures in North West, Midlands and Yorkshire, government announcesRecord number of trains arrive on time during coronavirus pandemicCoronavirus: More than four out of five English schools have children absent from class as they are unable to get tests",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.060423759254479424,
+            "class_probabilities": {
+                "human": 0.9395348095964596,
+                "ai": 0.060423759254479424,
+                "mixed": 4.1431149060857404e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9395348095964596,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.060423759254479424,
+                    "human": 0.9395348095964596,
+                    "mixed": 4.1431149060857404e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukJacob Rees-Mogg rebukes us, in that way he has, for \"endlessly carping\" about the Covid-19 testing system rather than celebrating the number of tests available. He chooses to wear blinkers.People are \"carping\" because the government promised a world-beating system with any massive number (plucked weekly and randomly) of tests per week. And those promises have gone unfulfilled.They are \"carping\" because they have tried to get tested (as previously encouraged by the government) but couldn't - and so couldn't work; or could not be tested within a reasonable distance; or could not access testing without a car; or they had a test and their results were lost.They are \"carping\" because the government has outsourced testing instead of using local facilities which would have been more cost-effective and more time-efficient.They are \"carping\" because the credibility gap between the official messages and the facts is so immense. I think we should all carp, flat out, day and night and, indeed, strain every sinew in so doing.Beryl WallLondonThe name of the right honourable fish that Jacob Rees-Mogg used to describe criticism of his government's phenomenal coronavirus testing success is simply an anagram of this government's policies.Tony ShephardShifnal, ShropshireTesting timesBaroness Dido Harding, the head of the NHS test and trace programme, and others say the rise in demand for tests could not have been predicted. But the government's own website shows demand for tests rising linearly from late June, while testing capacity in pillars one and two hit 200,000 at the start of June and has remained essentially unchanged until a small late rise at the end of August.Did Ms Harding think that demand was magically going to top out at the start of December? Did nobody expect the second wave to actually happen? Ms Harding is the wrong person in the wrong job. So are most of the government.Rachael PadmanNewmarketAre the people rushing, sometimes unnecessarily, to get a Covid-19 test the same people who are still using toilet rolls they purchased in April?Michael PatePrestonClimate climbMatt Minshall's assertion in yesterday's letters that the Extinction Rebellion actions have \"little effect\" is self-evidently wrong. He, and many others are noticing the subjects that are the targets of the protests, such that environmental issues are rising quickly up the political agenda.He may not like the style of the XR actions, but they will very likely continue until our \"profit at all costs\" leaders respond with rapid and meaningful policies to that address the looming climate crisis.Steve EdmondsonCambridgeLockdown lessonsThe new restrictions imposed on the northeast of England appear to be a another deviation by this incompetent government.I can agree that the infection rates in the larger towns and cities are a concern, but to include all of rural Northumberland where I live is ridiculous.We are one of of the least populated parts of the country and therefore have fewer cases per 100,000 than most.This government said it was going to have a targeted approach to local lockdowns (whack-a-mole). It now appears to using a sledgehammer to crack a nut. Second national lockdown here we come.John ArchibaldHaltwhistle, NorthumberlandRead moreCoronavirus: Jacob Rees-Mogg accuses people complaining about unavailable tests of 'carping'Coronavirus: New lockdown measures in North West, Midlands and Yorkshire, government announcesRecord number of trains arrive on time during coronavirus pandemicCoronavirus: More than four out of five English schools have children absent from class as they are unable to get tests"
+        }
+    ]
+}

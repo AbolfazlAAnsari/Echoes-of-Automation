@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.000356007250957191,
+                    "sentence": "Send your letters toletters@independent.co.ukThe desperate people risking their lives trying to cross the English Channel in flimsy boats in the hope they can build new lives here free of war and persecution and poverty aren't my enemies.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00034360046265646815,
+                    "sentence": "I wish them well and welcome them.My enemies are the Tories - like Boris Johnson and Priti Patel - who are always ready to scapegoat the weak for political advantage.Sasha Simic LondonWhen will Ms Patel stop to think about why increasing numbers of migrants are prepared to risk their lives to get to Britain and start to develop a positive contribution to alleviating the suffering of these people, instead of invoking the navy to \"sort out\" these vulnerable, desperate and unarmed people in leaky rubber boats?Evelyn Stevens Llanfairfechan, Conwy, WalesCummings attackWhy are youattacking Dominic Cummings again?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021691030997317284,
+                    "sentence": "Why are you not attacking Professor Ferguson and the Labour Party whip who broke lockdown to have sex?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00024818896781653166,
+                    "sentence": "Goodness, I sound like Lady Bracknell.Surely if you care about lockdown that much you care about everybody involved in breaking it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002443060220684856,
+                    "sentence": "Don't you?Or are you perhaps just creating your own form of propaganda?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000480630318634212,
+                    "sentence": "Working on the premise that if you can discredit a person who successfully worked for Brexit, you can discredit Brexit itself?Maggie Owen HockwoldThatcher planningUntil Margaret Thatcher's government scrapped it we had the Parker Morris standard setting out the requirements for good standard local authority homes.The size of rooms was stipulated, as was the orientation which ensured that every dwelling had the maximum amount of sunlight.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017410477448720485,
+                    "sentence": "As an architect - now long retired - I found this a very exacting challenge at times, but it was satisfying to be able to provide decent homes, often providing better accommodation than could be found in many new private houses.Why not dig out Parker Morris, update it as necessary, and impose a minimum standard based on it for both the public and private sector?Ian Turnbull CarlisleVindictive voiceI thought Shappi Khorsandiwrote very intelligentlyabout the phenomenon that was Nigel Farage, with his ill-judged comments about men, women and children trying to cross the Channel, dangerously trying to gain access to the largesse that exists in our government to aid these disenfranchised people.Of course there is no real legitimate largesse, just a call-out from Priti Patel that the navy should step in.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018570679822005332,
+                    "sentence": "Naturally these very dangerous crossings should be halted but not in an aggressive and populist manner.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003219264617655426,
+                    "sentence": "I think too that Farage is less of a rebel with a cause and more like a vindictive voice crying in the wilderness: \"You all used to love me.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021480547729879618,
+                    "sentence": "\"Khorsandi is right that there surely must be a more humane strategy for these imperilled people, who wave joyfully when they arrive on British soil - but this is more in hope than actual expectation, as they undoubtedly will find in the tight and unyielding treatment they will probably receive.Judith A Daniels Great Yarmouth, NorfolkWild boar chaseIn yet another day of utterly depressing and alarming news, thank God for thenaked chap chasing a larcenous wild boarand piglets through a park in Berlin, to the surprise and amusement of onlookers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015056930715218186,
+                    "sentence": "The boar also gets my thanks for being clever and cheeky enough to make off with the bag containing this nude chap's laptop.Against all the odds on a day of bleak news and also of personal challenges, this merry scene has raised my spirits no end.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022778093989472836,
+                    "sentence": "Thank heavens for animals, as I say to myself every day.Penny Little Great Haseley, Oxfordshire",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.009998674697021016,
+            "class_probabilities": {
+                "human": 0.990001325302979,
+                "ai": 0.009998674697021016,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.990001325302979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.009998674697021016,
+                    "human": 0.990001325302979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Send your letters toletters@independent.co.ukThe desperate people risking their lives trying to cross the English Channel in flimsy boats in the hope they can build new lives here free of war and persecution and poverty aren't my enemies. I wish them well and welcome them.My enemies are the Tories - like Boris Johnson and Priti Patel - who are always ready to scapegoat the weak for political advantage.Sasha Simic                                          LondonWhen will Ms Patel stop to think about why increasing numbers of migrants are prepared to risk their lives to get to Britain and start to develop a positive contribution to alleviating the suffering of these people, instead of invoking the navy to \"sort out\" these vulnerable, desperate and unarmed people in leaky rubber boats?Evelyn Stevens                                            Llanfairfechan, Conwy, WalesCummings attackWhy are youattacking Dominic Cummings again? Why are you not attacking Professor Ferguson and the Labour Party whip who broke lockdown to have sex? Goodness, I sound like Lady Bracknell.Surely if you care about lockdown that much you care about everybody involved in breaking it. Don't you?Or are you perhaps just creating your own form of propaganda? Working on the premise that if you can discredit a person who successfully worked for Brexit, you can discredit Brexit itself?Maggie Owen                                          HockwoldThatcher planningUntil Margaret Thatcher's government scrapped it we had the Parker Morris standard setting out the requirements for good standard local authority homes.The size of rooms was stipulated, as was the orientation which ensured that every dwelling had the maximum amount of sunlight. As an architect - now long retired - I found this a very exacting challenge at times, but it was satisfying to be able to provide decent homes, often providing better accommodation than could be found in many new private houses.Why not dig out Parker Morris, update it as necessary, and impose a minimum standard based on it for both the public and private sector?Ian Turnbull                                            CarlisleVindictive voiceI thought Shappi Khorsandiwrote very intelligentlyabout the phenomenon that was Nigel Farage, with his ill-judged comments about men, women and children trying to cross the Channel, dangerously trying to gain access to the largesse that exists in our government to aid these disenfranchised people.Of course there is no real legitimate largesse, just a call-out from Priti Patel that the navy should step in. Naturally these very dangerous crossings should be halted but not in an aggressive and populist manner. I think too that Farage is less of a rebel with a cause and more like a vindictive voice crying in the wilderness: \"You all used to love me.\"Khorsandi is right that there surely must be a more humane strategy for these imperilled people, who wave joyfully when they arrive on British soil - but this is more in hope than actual expectation, as they undoubtedly will find in the tight and unyielding treatment they will probably receive.Judith A Daniels                                            Great Yarmouth, NorfolkWild boar chaseIn yet another day of utterly depressing and alarming news, thank God for thenaked chap chasing a larcenous wild boarand piglets through a park in Berlin, to the surprise and amusement of onlookers. The boar also gets my thanks for being clever and cheeky enough to make off with the bag containing this nude chap's laptop.Against all the odds on a day of bleak news and also of personal challenges, this merry scene has raised my spirits no end. Thank heavens for animals, as I say to myself every day.Penny Little                                            Great Haseley, Oxfordshire"
+        }
+    ]
+}

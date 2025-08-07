@@ -1,0 +1,172 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 3.493581243674271e-05,
+                    "sentence": "Dear Editor,",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.318966966820881e-05,
+                    "sentence": "In anopen letter, 98 Stanford faculty members accuse their Stanford colleague and White House COVID-19 advisorScott Atlasof “falsehoods and misrepresentations,” claiming that “many of his opinions and statements run counter to established science.” Surprisingly, the alleged falsehoods are not mentioned, making scientific discourse difficult.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.516104334266856e-05,
+                    "sentence": "Among other things, the letter advocates handwashing, which Atlas obviously agrees with.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.208461177768186e-05,
+                    "sentence": "So, what are the disagreements?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.6234130170196295e-05,
+                    "sentence": "While anyone can get infected, there is athousand-fold differencein mortality risk between the old and young, and the risk to children is less than from annual influenza.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.575808998197317e-05,
+                    "sentence": "Using an age-targeted strategy,Atlas wants to better protect high-risk individuals, while letting children and young adults live more normal lives.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.519467620411888e-05,
+                    "sentence": "This contrasts with general age-wide lockdowns that protect low-risk students and young professionals working from home, while older higher-risk working-class people generate the inevitable herd immunity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.161697092466056e-05,
+                    "sentence": "The open letter ignores collateral damage caused by lockdowns.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.335620128083974e-05,
+                    "sentence": "Being a public health policy expert, it is natural and reassuring that Atlas also consider plummeting childhood vaccinations, postponed cancer screenings, worsening cardiovascular disease outcomes, deteriorating mental health and more house evictions, just to name a few.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.16496181464754e-05,
+                    "sentence": "Among experts on infectious disease outbreaks, many of us have long advocated for an age-targeted strategy, and I would be delighted to debate this with any of the 98 signatories.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.387731552124023e-05,
+                    "sentence": "Supporters include professor Sunetra Gupta at Oxford University, the world's preeminent infectious disease epidemiologist.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.996959902811795e-05,
+                    "sentence": "Assuming no bias against women scientists of color, I urge Stanford faculty and students toread her thoughts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011604981409618631,
+                    "sentence": "Martin Kulldorff, professor, Harvard Medical School",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 1,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 2,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 4,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 7,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 9,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 12,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                }
+            ],
+            "completely_generated_prob": 0.0031759196115001315,
+            "class_probabilities": {
+                "human": 0.9968240803884999,
+                "ai": 0.0031759196115001315,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9968240803884999,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0031759196115001315,
+                    "human": 0.9968240803884999,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Dear Editor,\nIn anopen letter, 98 Stanford faculty members accuse their Stanford colleague and White House COVID-19 advisorScott Atlasof “falsehoods and misrepresentations,” claiming that “many of his opinions and statements run counter to established science.” Surprisingly, the alleged falsehoods are not mentioned, making scientific discourse difficult.\nAmong other things, the letter advocates handwashing, which Atlas obviously agrees with. So, what are the disagreements?\nWhile anyone can get infected, there is athousand-fold differencein mortality risk between the old and young, and the risk to children is less than from annual influenza. Using an age-targeted strategy,Atlas wants to better protect high-risk individuals, while letting children and young adults live more normal lives. This contrasts with general age-wide lockdowns that protect low-risk students and young professionals working from home, while older higher-risk working-class people generate the inevitable herd immunity.\nThe open letter ignores collateral damage caused by lockdowns. Being a public health policy expert, it is natural and reassuring that Atlas also consider plummeting childhood vaccinations, postponed cancer screenings, worsening cardiovascular disease outcomes, deteriorating mental health and more house evictions, just to name a few.\nAmong experts on infectious disease outbreaks, many of us have long advocated for an age-targeted strategy, and I would be delighted to debate this with any of the 98 signatories. Supporters include professor Sunetra Gupta at Oxford University, the world’s preeminent infectious disease epidemiologist. Assuming no bias against women scientists of color, I urge Stanford faculty and students toread her thoughts.\nMartin Kulldorff, professor, Harvard Medical School\n\n"
+        }
+    ]
+}

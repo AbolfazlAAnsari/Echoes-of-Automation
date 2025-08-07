@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0001003484649118036,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010802343604154885,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe news that theMetropolitan Policeare arrestingprotestersover luggage straps is worrying on several fronts.Otheremergency servicesand many health practitioners carry ligature cutters and safety knives; this sort of equipment could make very short work of any attempt to lock on using straps.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.373196760658175e-05,
+                    "sentence": "Are we to believe the Met training is so deficient they have never heard of, let alone carry, such a cutter?Equally effective for locking on would be a belt or the sleeves of a jumper.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011373688175808638,
+                    "sentence": "In futureprotestswill we see people arrested for“going equipped to lock on”on the basis of wearing a belt or a jumper?Dr John BaileyPrestonTrains need to meet public need rather than greedTransPennine Express Trainshas failed as a privately owned business, and has been taken over by the state.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012949858501087874,
+                    "sentence": "There is now daily proof that Margaret Thatcher's neoliberal experiment has utterly failed, and that the claims its mechanisms provide economic efficiency and good services are lies.Time for wholesalerenationalisation of servicesso they meet public need, not shareholder greed.Sasha SimicLondonThrowing money at the problem is not the answerRishi Sunak, as we know, has a limited understanding of the plight of GPs, dentists, hospitals, care services, and all the auxiliary services associated with theNHS, including pharmacies.With the currentlack of workers, and the plight of the NHS, how on earth can pharmacies possibly be expected to offerthe services that Sunakis suggesting?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.23482094705104828,
+                    "sentence": "Throwing money at the problem is not the complete answer, and will not solve the underlying needs for more people, up-to-date facilities and well-trained personnel.For 13 years the Tories have been running down the NHS to, possibly,facilitate privatisation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.19909216463565826,
+                    "sentence": "There is a fear among many people that private interests are being given carte blanche to sweep up NHS services, which are at best second rate.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.18379150331020355,
+                    "sentence": "Sunak must listen to the British people and to NHS practitioners for solutions to this major problem.Keith PooleBasingstokeWe need more GPsLabourMP Stephen Morgan is so right to highlight how his own parliamentary constituency has thelowest number of GPsper head of the population than anywhere else in the country at Prime Ministers Questions on Wednesday.Stephen used PMQs to ask why the prime minister has scrapped his target ofrecruiting 6,000 more GPs,while his constituents are still struggling to get an appointment.This is why we need aLabour government committedto more doctors, more nurses, and more dentists paid for by scrapping theTory non-dom tax status.Geoffrey BrookingHampshire",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.06042626278398002,
+            "class_probabilities": {
+                "human": 0.9395737372160199,
+                "ai": 0.06042626278398002,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9395737372160199,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.06042626278398002,
+                    "human": 0.9395737372160199,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThe news that theMetropolitan Policeare arrestingprotestersover luggage straps is worrying on several fronts.Otheremergency servicesand many health practitioners carry ligature cutters and safety knives; this sort of equipment could make very short work of any attempt to lock on using straps. Are we to believe the Met training is so deficient they have never heard of, let alone carry, such a cutter?Equally effective for locking on would be a belt or the sleeves of a jumper. In futureprotestswill we see people arrested for“going equipped to lock on”on the basis of wearing a belt or a jumper?Dr John BaileyPrestonTrains need to meet public need rather than greedTransPennine Express Trainshas failed as a privately owned business, and has been taken over by the state. There is now daily proof that Margaret Thatcher’s neoliberal experiment has utterly failed, and that the claims its mechanisms provide economic efficiency and good services are lies.Time for wholesalerenationalisation of servicesso they meet public need, not shareholder greed.Sasha SimicLondonThrowing money at the problem is not the answerRishi Sunak, as we know, has a limited understanding of the plight of GPs, dentists, hospitals, care services, and all the auxiliary services associated with theNHS, including pharmacies.With the currentlack of workers, and the plight of the NHS, how on earth can pharmacies possibly be expected to offerthe services that Sunakis suggesting? Throwing money at the problem is not the complete answer, and will not solve the underlying needs for more people, up-to-date facilities and well-trained personnel.For 13 years the Tories have been running down the NHS to, possibly,facilitate privatisation.  There is a fear among many people that private interests are being given carte blanche to sweep up NHS services, which are at best second rate. Sunak must listen to the British people and to NHS practitioners for solutions to this major problem.Keith PooleBasingstokeWe need more GPsLabourMP Stephen Morgan is so right to highlight how his own parliamentary constituency has thelowest number of GPsper head of the population than anywhere else in the country at Prime Ministers Questions on Wednesday.Stephen used PMQs to ask why the prime minister has scrapped his target ofrecruiting 6,000 more GPs,while his constituents are still struggling to get an appointment.This is why we need aLabour government committedto more doctors, more nurses, and more dentists paid for by scrapping theTory non-dom tax status.Geoffrey BrookingHampshire"
+        }
+    ]
+}

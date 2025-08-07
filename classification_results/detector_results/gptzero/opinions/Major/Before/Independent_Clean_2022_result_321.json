@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0006197654874995351,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009153351420536637,
+                    "sentence": "Please send your letters toletters@independent.co.ukSince the Tories pushed through their Police, Crime, Sentencing and Courts Act, it hasn't taken very long for police officers to get a bit ahead of themselves.A journalist and photographer (equipped with press badges)were arrested and handcuffed for filming(from a public footpath) a documentary on the M25Just Stop Oilprotest.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008554717060178518,
+                    "sentence": "They were not part of the protest, nor were they breaking the law.Perhaps the officers concerned are unaware that this act states that it is a crime if your action prevents the public or a section of the public from exercising their rights.Although I am not a lawyer, surely - in this country - the freedom of the press to report on newsworthy items is a recognised right?Katharine PowellCheshireHouse on fireRishi Sunak saying he'll sort out the economy first, in order to then combat climate change is like someone whose house is on fire saying they'll sort out their finances first and then put the fire out.We need to put the fire out now!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008590192883275449,
+                    "sentence": "And, if we make it our top priority, we do have the resources to do it.Dr Bob BanksGrindlefordTories don't care about the planetSomething switches off inside you once a new leader lets you down, and it is never turned back on again.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014962083660066128,
+                    "sentence": "Prime ministers play at politics at their peril.Gavin WilliamsonandSuella Bravermanwere blatant payoffs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001276506925933063,
+                    "sentence": "Given high positions (whether minister without portfolio is high, I'm not sure) to keep the poisonous trolls on the bridge rather than under it.Going to Cop27 simply because Johnson was seen slithering around in the undergrowth convinces no one.Don't tell me any of the Tories really care about the environment or climate change.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011946340091526508,
+                    "sentence": "This is the party that was happy to do a trade deal with Amazon destroyer Bolsonaro of Brazil - only he's got the chop now, along with millions of his earth cooling trees, so that's another trade coup that's dropped out of the hat.My scorn and curled lip are currently at 11 on the scale.Lynn BrymerAddress suppliedLaw and orderMany of my generation were brought up to view the Conservatives as the party of “law and order”.The conduct of Sir Gavin WilliamsonandSuella Braverman- and other goings on in government - reported in The Independent and elsewhere prove this is no longer so.They've now become the “lawless and disorder” party.Roger HindsSurreyTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereHow much longer?Our newest Sunak-led government backed Gavin Williamson, knowing his abysmal track record.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00143745809327811,
+                    "sentence": "It now also turns out he has been accused of being a callous bully -and they knew before he got the post.How much longer do we have to put up with this power-hungry, nasty party?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0025109124835580587,
+                    "sentence": "Sooner or later, this horrid batch of Tory MPs will have to face their hacked-off constituents at the next general election.Paul MorrisonGlasgow",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.020660391318316405,
+            "class_probabilities": {
+                "human": 0.9793396086816837,
+                "ai": 0.020660391318316405,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9793396086816837,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020660391318316405,
+                    "human": 0.9793396086816837,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukSince the Tories pushed through their Police, Crime, Sentencing and Courts Act, it hasn’t taken very long for police officers to get a bit ahead of themselves.A journalist and photographer (equipped with press badges)were arrested and handcuffed for filming(from a public footpath) a documentary on the M25Just Stop Oilprotest. They were not part of the protest, nor were they breaking the law.Perhaps the officers concerned are unaware that this act states that it is a crime if your action prevents the public or a section of the public from exercising their rights.Although I am not a lawyer, surely – in this country – the freedom of the press to report on newsworthy items is a recognised right?Katharine PowellCheshireHouse on fireRishi Sunak saying he’ll sort out the economy first, in order to then combat climate change is like someone whose house is on fire saying they’ll sort out their finances first and then put the fire out.We need to put the fire out now! And, if we make it our top priority, we do have the resources to do it.Dr Bob BanksGrindlefordTories don’t care about the planetSomething switches off inside you once a new leader lets you down, and it is never turned back on again. Prime ministers play at politics at their peril.Gavin WilliamsonandSuella Bravermanwere blatant payoffs. Given high positions (whether minister without portfolio is high, I’m not sure) to keep the poisonous trolls on the bridge rather than under it.Going to Cop27 simply because Johnson was seen slithering around in the undergrowth convinces no one.Don’t tell me any of the Tories really care about the environment or climate change. This is the party that was happy to do a trade deal with Amazon destroyer Bolsonaro of Brazil – only he’s got the chop now, along with millions of his earth cooling trees, so that’s another trade coup that’s dropped out of the hat.My scorn and curled lip are currently at 11 on the scale.Lynn BrymerAddress suppliedLaw and orderMany of my generation were brought up to view the Conservatives as the party of “law and order”.The conduct of Sir Gavin WilliamsonandSuella Braverman– and other goings on in government – reported in The Independent and elsewhere prove this is no longer so.They’ve now become the “lawless and disorder” party.Roger HindsSurreyTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereHow much longer?Our newest Sunak-led government backed Gavin Williamson, knowing his abysmal track record. It now also turns out he has been accused of being a callous bully –and they knew before he got the post.How much longer do we have to put up with this power-hungry, nasty party? Sooner or later, this horrid batch of Tory MPs will have to face their hacked-off constituents at the next general election.Paul MorrisonGlasgow"
+        }
+    ]
+}

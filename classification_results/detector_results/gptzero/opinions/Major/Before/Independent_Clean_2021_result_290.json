@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 5.0870668928837404e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe juxtaposition of Carolyn Gilmour and Keith Pool'slettersis instructive.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.043741061352193e-05,
+                    "sentence": "Pool seems to placeAngela Rayner's admitted rudeness in describing some Tories as \"scum\" as more reprehensible than the routine dishonesty of our disgraceful prime minister.Call me old fashioned, but I'll take Angela's bad manners in describing some of the less honourable elements of a once-great Conservative Party, overBoris Johnson's shameless lies and deceit.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.662472489755601e-05,
+                    "sentence": "He brings shame to our nation, whereas she has merely given way to a momentary display of understandable passion.W P MooreNorwichI must confess to being amused by all the faux horror over Angela Rayner's use of \"street language\" at someLabour Party Conferenceside show.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.864238169626333e-05,
+                    "sentence": "She is a skilled and experienced politician, and like all politicians, she is playing to the gallery.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.192486034706235e-05,
+                    "sentence": "She chose her language with care to grab attention.Why should she apologise, she says, when the Johnson government refuses to apologise for any of its failings which have resulted in the premature deaths of tens of thousands of people in the past year.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.500917930272408e-05,
+                    "sentence": "The word \"sorry\" is clearly not in their vocabulary.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.699957884848118e-05,
+                    "sentence": "All in all, she looks pretty good in comparison with the occupant of 10 Downing Street and his fan club.Bernard CuddMorpethJenny Eclair describesthe distressing case of her mother'sdementiaand the unbearable effects at the end of her life which have ensued.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.1945801058318466e-05,
+                    "sentence": "Ms Eclair states that she would \"not want to live like this\".Unfortunately, she has no choice.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.0873859183629975e-05,
+                    "sentence": "In more enlightened countries than ours, she would have the option of ending her suffering at a time and manner of her choosing - perhaps propped up in her own bed listening to Mozart whilst enjoying a glass of decent claret before drifting off into a dreamless sleep.Of course, those of us who would prefer to suffer a drawn-out death with, say, MND, dementia or some ghastly cancer, are perfectly entitled to do so, but their wishes should not be imposed on the rest of us.David HooleyDorchesterFurther toMr Wiltshire's letter today, might I suggest that a lot of our contemporary travails stem from a desire for so-called efficiency?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0037178099155426025,
+                    "sentence": "When shall we accept that we cannot be treated as if we were inanimate goods on a production line?People do not behave in sufficiently predicable ways that are amenable to \"efficient\" solutions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005138333886861801,
+                    "sentence": "We are far too complicated to respond to this management babble.Dr Anthony IngletonSheffieldKatie Edwards makes a good pointon how theBondfilms represent women in terms of sexuality and inferiority.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009884181432425976,
+                    "sentence": "I feel the whole genre is representative of everything that is wrong in western society, particularly the extreme violence against the anyone judged to be a \"baddie\" being seen as not just acceptable, but actually enjoyable.Watching Bond on TV, which I rarely do, I sometimes think that as Bond kills untold numbers of the evil villain's staff, if this were real, the staff would probably have been on minimum wage and have a family to feed.We see people going to the cinema in their millions, viewing this violence and outdated attitudes towards women, and presumably really enjoying the fantasy of being able to behave like this themselves.Jim FoyleLondonRead MoreReshuffle in full: Who is out and who has been promoted?Boris Johnson flexes muscles with cabinet shake-up for post-Covid eraPM won't say how Universal Credit claimants can recoup lost £20-a-week",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.02103284929902213,
+            "class_probabilities": {
+                "human": 0.9789278799624425,
+                "ai": 0.02103284929902213,
+                "mixed": 3.927073853532657e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9789278799624425,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.02103284929902213,
+                    "human": 0.9789278799624425,
+                    "mixed": 3.927073853532657e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukThe juxtaposition of Carolyn Gilmour and Keith Pool'slettersis instructive. Pool seems to placeAngela Rayner's admitted rudeness in describing some Tories as \"scum\" as more reprehensible than the routine dishonesty of our disgraceful prime minister.Call me old fashioned, but I'll take Angela's bad manners in describing some of the less honourable elements of a once-great Conservative Party, overBoris Johnson's shameless lies and deceit. He brings shame to our nation, whereas she has merely given way to a momentary display of understandable passion.W P MooreNorwichI must confess to being amused by all the faux horror over Angela Rayner's use of \"street language\" at someLabour Party Conferenceside show. She is a skilled and experienced politician, and like all politicians, she is playing to the gallery. She chose her language with care to grab attention.Why should she apologise, she says, when the Johnson government refuses to apologise for any of its failings which have resulted in the premature deaths of tens of thousands of people in the past year. The word \"sorry\" is clearly not in their vocabulary. All in all, she looks pretty good in comparison with the occupant of 10 Downing Street and his fan club.Bernard CuddMorpethJenny Eclair describesthe distressing case of her mother'sdementiaand the unbearable effects at the end of her life which have ensued. Ms Eclair states that she would \"not want to live like this\".Unfortunately, she has no choice. In more enlightened countries than ours, she would have the option of ending her suffering at a time and manner of her choosing - perhaps propped up in her own bed listening to Mozart whilst enjoying a glass of decent claret before drifting off into a dreamless sleep.Of course, those of us who would prefer to suffer a drawn-out death with, say, MND, dementia or some ghastly cancer, are perfectly entitled to do so, but their wishes should not be imposed on the rest of us.David HooleyDorchesterFurther toMr Wiltshire's letter today, might I suggest that a lot of our contemporary travails stem from a desire for so-called efficiency? When shall we accept that we cannot be treated as if we were inanimate goods on a production line?People do not behave in sufficiently predicable ways that are amenable to \"efficient\" solutions. We are far too complicated to respond to this management babble.Dr Anthony IngletonSheffieldKatie Edwards makes a good pointon how theBondfilms represent women in terms of sexuality and inferiority. I feel the whole genre is representative of everything that is wrong in western society, particularly the extreme violence against the anyone judged to be a \"baddie\" being seen as not just acceptable, but actually enjoyable.Watching Bond on TV, which I rarely do, I sometimes think that as Bond kills untold numbers of the evil villain's staff, if this were real, the staff would probably have been on minimum wage and have a family to feed.We see people going to the cinema in their millions, viewing this violence and outdated attitudes towards women, and presumably really enjoying the fantasy of being able to behave like this themselves.Jim FoyleLondonRead MoreReshuffle in full: Who is out and who has been promoted?Boris Johnson flexes muscles with cabinet shake-up for post-Covid eraPM won't say how Universal Credit claimants can recoup lost £20-a-week"
+        }
+    ]
+}

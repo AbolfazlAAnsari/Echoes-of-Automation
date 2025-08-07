@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0001455307356081903,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001414400467183441,
+                    "sentence": "Please send your letters toletters@independent.co.ukI completely agree withyour editorialregarding Rishi Sunak's fumbles regarding the Covid inquiry.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011431648454163224,
+                    "sentence": "Has thisgovernmentstepped into Alice in Wonderland territory by setting up this inquiry, appointing a very astute and experienced chair, then trampling all over it, more or less stating that is not what they wanted at all?Of course, Lady Hallett and her team have to be given carte blanche to make informed judgements, and I think it is demeaning to her that she is not been given full autonomy to carry out her duties.As you rightly state, men, women and children are still suffering the effects of this dire pandemic, and countless people are grieving This time-wasting exercise, which will probably be overturned anyway, is an insult to them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016907784447539598,
+                    "sentence": "It will again all add to the mix of cynicism and distrust the public feel towards this government.Judith A DanielsNorfolkTruss and Zahawi have another cunning planAh, the irony of it: alleged tax evader and former chancellor of the Exchequer, Nadhim Zahawi, advocatesabolishing inheritance taxthat will benefit his family and families like his that enjoy vast wealth.And I note that to add hilarity to irony this “brilliant idea” is supported by financial wizard, Liz Truss!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017542796558700502,
+                    "sentence": "Hopefully, I'll stop laughing before the general election.Robert BostonKentEnough of the gossipPhillip Schofielddid what he did.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013716959801968187,
+                    "sentence": "I would assume that at the time of his affair, he was giving in to his feelings.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015614723088219762,
+                    "sentence": "Like all of us do under circumstances like this, most of the time.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007674458902329206,
+                    "sentence": "Rational thought and consideration of the possible consequences did not occur to him.Assuming he has done nothing illegal, or unlawful, I fail to understand why this has now become a national drama with all and sundry obliged to voice an opinion, to criticise, to condemn, and to demand a public enquiry.That he was married at the time is surely a matter between him and his wife, and should not be hung out for public consumption and tittle-tattle on social media.Our world now appears to be governed by hanging judges.Gunter StraubLondonHas Phillip Schofield really 'lost everything'?Despite having his daughters by his side and his million pounds flat, Philip Schofieldclaims to have lost everything.What a ludicrous human being he is, and shame on the media that allows mediocre celebrities to use the thought of suicide to either plug their latest venture or cover up their despicable behaviour.Those of us with a serious mental health issue know there's a world of difference between thinking of suicide, planning it and even greater attempting it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013131852028891444,
+                    "sentence": "What a much better world it would be if the media concentrated on the supremely talented and their work as opposed to the pointless cult of celebrity.Richard WhitesideHalifaxWe should care more about lives than legaciesWhile Johnsonplays out his usual entirely selfish gameand Sunak foolishly prevaricates over the release of documents to the Covid inquiry, we should remind them that several hundreds of thousands lost their lives, leaving millions mourning the loss of those they loved.In addition, an unfathomable number of people continue to suffer, and will suffer long term, from the side effects of the disease, having an unquantifiable, but significant, impact on the lives of many more families.The nation needs to learn what not to do when faced with the next pandemic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0021221796050667763,
+                    "sentence": "We don't need the enquiry obstructed by past and present prime ministers selfishly worried about their reputation and their legacy.Ian ReidKilnwick",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.009998674697021016,
+            "class_probabilities": {
+                "human": 0.990001325302979,
+                "ai": 0.009998674697021016,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.990001325302979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.009998674697021016,
+                    "human": 0.990001325302979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI completely agree withyour editorialregarding Rishi Sunak’s fumbles regarding the Covid inquiry. Has thisgovernmentstepped into Alice in Wonderland territory by setting up this inquiry, appointing a very astute and experienced chair, then trampling all over it, more or less stating that is not what they wanted at all?Of course, Lady Hallett and her team have to be given carte blanche to make informed judgements, and I think it is demeaning to her that she is not been given full autonomy to carry out her duties.As you rightly state, men, women and children are still suffering the effects of this dire pandemic, and countless people are grieving This time-wasting exercise, which will probably be overturned anyway, is an insult to them. It will again all add to the mix of cynicism and distrust the public feel towards this government.Judith A DanielsNorfolkTruss and Zahawi have another cunning planAh, the irony of it: alleged tax evader and former chancellor of the Exchequer, Nadhim Zahawi, advocatesabolishing inheritance taxthat will benefit his family and families like his that enjoy vast wealth.And I note that to add hilarity to irony this “brilliant idea” is supported by financial wizard, Liz Truss! Hopefully, I’ll stop laughing before the general election.Robert BostonKentEnough of the gossipPhillip Schofielddid what he did.  I would assume that at the time of his affair, he was giving in to his feelings. Like all of us do under circumstances like this, most of the time. Rational thought and consideration of the possible consequences did not occur to him.Assuming he has done nothing illegal, or unlawful, I fail to understand why this has now become a national drama with all and sundry obliged to voice an opinion, to criticise, to condemn, and to demand a public enquiry.That he was married at the time is surely a matter between him and his wife, and should not be hung out for public consumption and tittle-tattle on social media.Our world now appears to be governed by hanging judges.Gunter StraubLondonHas Phillip Schofield really ‘lost everything’?Despite having his daughters by his side and his million pounds flat, Philip Schofieldclaims to have lost everything.What a ludicrous human being he is, and shame on the media that allows mediocre celebrities to use the thought of suicide to either plug their latest venture or cover up their despicable behaviour.Those of us with a serious mental health issue know there’s a world of difference between thinking of suicide, planning it and even greater attempting it. What a much better world it would be if the media concentrated on the supremely talented and their work as opposed to the pointless cult of celebrity.Richard WhitesideHalifaxWe should care more about lives than legaciesWhile Johnsonplays out his usual entirely selfish gameand Sunak foolishly prevaricates over the release of documents to the Covid inquiry, we should remind them that several hundreds of thousands lost their lives, leaving millions mourning the loss of those they loved.In addition, an unfathomable number of people continue to suffer, and will suffer long term, from the side effects of the disease, having an unquantifiable, but significant, impact on the lives of many more families.The nation needs to learn what not to do when faced with the next pandemic. We don’t need the enquiry obstructed by past and present prime ministers selfishly worried about their reputation and their legacy.Ian ReidKilnwick"
+        }
+    ]
+}

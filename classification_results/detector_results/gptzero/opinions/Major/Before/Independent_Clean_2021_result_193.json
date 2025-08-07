@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00012356191291473806,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe food and drinks industry is objecting to the proposed restrictions on theadvertising of junk food.They claim that the changes will have little effect on children's eating habits, while at the same time damaging the industry.How can both these claims be true?John WilkinBury St EdmundsRoyal familyI read Salma Shah'scolumnwith interest and agreement.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.973649139283225e-05,
+                    "sentence": "Who could not be moved by the sheer bravery and fortitude of the Queen as she embraces all her royal duties, after the death of her husband.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.581528527429327e-05,
+                    "sentence": "Shah is correct theroyalssuch, as the Duchess of Cambridge, can champion brilliant causes and give them the necessary oxygen to thrive and survive.This slimmed down family are good value for money and even Prince Charles has come into his own with his now very credible \"green\" credentials.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.412650251761079e-05,
+                    "sentence": "It was noted that at the recent G7 summit, world leaders were very pleased to be seen with the Queen.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.793252007104456e-05,
+                    "sentence": "She has the undeniable cachet of loyalty, a lifetime of service and is well respected all over the world.Of course there will always be detractors and see them as privileged and \"out of touch\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001535861665615812,
+                    "sentence": "I would actually dispute that and I will always sing God save the Queen with personal gusto.Judith A DanielsGreat YarmouthMerkel mandateBased on her call for all those entering the EU from Britainto be quarantined, can we assume that if Germany get through to the Euro 2020 final at WembleyAngela Merkelwill not be attending?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05724291875958443,
+                    "sentence": "And if that is the case, could I apply for her ticket?Just a thought.Leo ThomasManchesterAngela Merkel would like to have a uniform quarantine system for UK arrivals throughout the EU.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013203853741288185,
+                    "sentence": "Apparently each member state determines their own arrangement.Could it possibly be that EU member states control their own borders and that the Brexit mantra about taking back control of our own borders, repeated byBoris Johnsonthis week and used by him and Dominic Cummings in 2016 was misleading?Surely notJohn LewisAddress suppliedBoris breakGunter Straub (Letters) believes Boris Johnson's frequent photo opportunity trips are essentially an avoidance strategy for actually sitting at his desk and doing some work.However I think another element is also in play.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.020702365785837173,
+                    "sentence": "I can imagine his wife complaining to No 10 staff that he is getting restless and fractious and could they please send him off somewhere for the day to give her some peace and quiet with the other child.Alan PackKentRead MorePrivatising TV channels means placing profit over quality contentWe must never allow this government to divide us with their 'culture wars'The Tories will never be the party of the working class",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.021970499330714932,
+            "class_probabilities": {
+                "human": 0.9777411024959822,
+                "ai": 0.021970499330714932,
+                "mixed": 0.0002883981733029253
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9777411024959822,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.021970499330714932,
+                    "human": 0.9777411024959822,
+                    "mixed": 0.0002883981733029253
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukThe food and drinks industry is objecting to the proposed restrictions on theadvertising of junk food.They claim that the changes will have little effect on children's eating habits, while at the same time damaging the industry.How can both these claims be true?John WilkinBury St EdmundsRoyal familyI read Salma Shah'scolumnwith interest and agreement. Who could not be moved by the sheer bravery and fortitude of the Queen as she embraces all her royal duties, after the death of her husband. Shah is correct theroyalssuch, as the Duchess of Cambridge, can champion brilliant causes and give them the necessary oxygen to thrive and survive.This slimmed down family are good value for money and even Prince Charles has come into his own with his now very credible \"green\" credentials. It was noted that at the recent G7 summit, world leaders were very pleased to be seen with the Queen. She has the undeniable cachet of loyalty, a lifetime of service and is well respected all over the world.Of course there will always be detractors and see them as privileged and \"out of touch\". I would actually dispute that and I will always sing God save the Queen with personal gusto.Judith A DanielsGreat YarmouthMerkel mandateBased on her call for all those entering the EU from Britainto be quarantined, can we assume that if Germany get through to the Euro 2020 final at WembleyAngela Merkelwill not be attending? And if that is the case, could I apply for her ticket?Just a thought.Leo ThomasManchesterAngela Merkel would like to have a uniform quarantine system for UK arrivals throughout the EU. Apparently each member state determines their own arrangement.Could it possibly be that EU member states control their own borders and that the Brexit mantra about taking back control of our own borders, repeated byBoris Johnsonthis week and used by him and Dominic Cummings in 2016 was misleading?Surely notJohn LewisAddress suppliedBoris breakGunter Straub (Letters) believes Boris Johnson's frequent photo opportunity trips are essentially an avoidance strategy for actually sitting at his desk and doing some work.However I think another element is also in play. I can imagine his wife complaining to No 10 staff that he is getting restless and fractious and could they please send him off somewhere for the day to give her some peace and quiet with the other child.Alan PackKentRead MorePrivatising TV channels means placing profit over quality contentWe must never allow this government to divide us with their 'culture wars'The Tories will never be the party of the working class"
+        }
+    ]
+}

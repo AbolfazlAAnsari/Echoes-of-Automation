@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 7.135709165595472e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.485260408022441e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukWhile I remain hugely sceptical that many Conservatives have any real interest in taking part inanother term of officein the light of the basket case our economy has become, it's clear that Labour's enthusiasm is also being tempered by this reality.Keir Starmer clearly doesn't want to be tarred with potential accusations that his party merely “promised long and delivered short”, but it's embarrassingly obvious his policies and trajectory for growth will require funds that simply aren't going to be there.Starmer's social conscience could well prove to be Labour's achilles heel.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.2173494623275474e-05,
+                    "sentence": "He knows that he has only one option if the UK wants to drag itself out of the mire, and that's to speak up and reveal that he'll have to retain thecurrent tax burdenfor most and increase it for some.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.522154631558806e-05,
+                    "sentence": "But how does he “level” with the British people and tell them the painful truth without triggering a tectonic shift insupport towards the Tories?They say “honesty is the best policy”, but that may not be true for Labour.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.539692988852039e-05,
+                    "sentence": "A short-sighted electorate next year will undoubtedly vote for anything which offers financial respite in the form of tax cuts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.8429985074326396e-05,
+                    "sentence": "Sir Keir will have to decide soon whether he's an honest player or a great politician.Steve MackinderAddress suppliedA crackdown on migrants?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.460660708602518e-05,
+                    "sentence": "The NHS relies on foreign workersHow often have I heard friends and sadly also relatives, usually with private health insurance paid for by someone else, decry our health service with comments like “I would never use the state sector.”Having underfunded the NHS for years, and allowing or encouraging privatisation of many parts of the service, we now have thelikes of Robert Jenrickdeciding that we need to have more UK nationals working in the service.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013838741870131344,
+                    "sentence": "Who on earth does he think has been running the NHS for the last 70 years?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006706870626658201,
+                    "sentence": "Or is he, by trying to restrict overseas workers, attempting to further hobble this wonderful institution?G ForwardStirlingCan AI 'writers' improve on the classics?At a recent writers group meeting we discussed the use of AI in creative writing, and even tried quizzing a variety of language models on their attitudes towards great works of literature.When provided with William Wordsworth's “Daffodils”, ChatGPT and Bard rewrote the poem (the rewrites were not an improvement), whereas Bing gave some suggestions on how to improve it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004700264427810907,
+                    "sentence": "With Hamlet's famous soliloquy, ChatGPT and Bard again rewrote the speech, but Bing recognised the piece and said that it was \"not easy to improve such a masterpiece\" and only gave suggestions on delivering it.Should we be more concerned that AI tried to improve these classic pieces, or that it couldn't?Dennis FitzgeraldMelbourne, AustraliaThe health of the people of Gaza should concern us allHats off to TheIndependent for emphasising that the four-day pause in hostilities will be respite for the helpless refugee population of Gaza.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010769441723823547,
+                    "sentence": "As a public health specialist, what worries me is the cessation of all vaccination programmes such as measles, rubella, diphtheria, influenza, malaria, etc.Such diseases which might be eradicated in the West can re-emerge in Gaza with life-threatening repercussions for children.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010516093112528324,
+                    "sentence": "Lack of vaccinations also poses major global health threats.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01950763911008835,
+                    "sentence": "No one is safe until everyone is safe.Dr Munjed Farid Al QutobLondon",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.021601982568463345,
+            "class_probabilities": {
+                "human": 0.9783576840560043,
+                "ai": 0.021601982568463345,
+                "mixed": 4.0333375532255976e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9783576840560043,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.021601982568463345,
+                    "human": 0.9783576840560043,
+                    "mixed": 4.0333375532255976e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukWhile I remain hugely sceptical that many Conservatives have any real interest in taking part inanother term of officein the light of the basket case our economy has become, it’s clear that Labour’s enthusiasm is also being tempered by this reality.Keir Starmer clearly doesn’t want to be tarred with potential accusations that his party merely “promised long and delivered short”, but it’s embarrassingly obvious his policies and trajectory for growth will require funds that simply aren’t going to be there.Starmer’s social conscience could well prove to be Labour’s achilles heel. He knows that he has only one option if the UK wants to drag itself out of the mire, and that’s to speak up and reveal that he’ll have to retain thecurrent tax burdenfor most and increase it for some. But how does he “level” with the British people and tell them the painful truth without triggering a tectonic shift insupport towards the Tories?They say “honesty is the best policy”, but that may not be true for Labour. A short-sighted electorate next year will undoubtedly vote for anything which offers financial respite in the form of tax cuts. Sir Keir will have to decide soon whether he’s an honest player or a great politician.Steve MackinderAddress suppliedA crackdown on migrants? The NHS relies on foreign workersHow often have I heard friends and sadly also relatives, usually with private health insurance paid for by someone else, decry our health service with comments like “I would never use the state sector.”Having underfunded the NHS for years, and allowing or encouraging privatisation of many parts of the service, we now have thelikes of Robert Jenrickdeciding that we need to have more UK nationals working in the service. Who on earth does he think has been running the NHS for the last 70 years? Or is he, by trying to restrict overseas workers, attempting to further hobble this wonderful institution?G ForwardStirlingCan AI ‘writers’ improve on the classics?At a recent writers group meeting we discussed the use of AI in creative writing, and even tried quizzing a variety of language models on their attitudes towards great works of literature.When provided with William Wordsworth’s “Daffodils”, ChatGPT and Bard rewrote the poem (the rewrites were not an improvement), whereas Bing gave some suggestions on how to improve it. With Hamlet‘s famous soliloquy, ChatGPT and Bard again rewrote the speech, but Bing recognised the piece and said that it was \"not easy to improve such a masterpiece\" and only gave suggestions on delivering it.Should we be more concerned that AI tried to improve these classic pieces, or that it couldn’t?Dennis FitzgeraldMelbourne, AustraliaThe health of the people of Gaza should concern us allHats off to TheIndependent for emphasising that the four-day pause in hostilities will be respite for the helpless refugee population of Gaza. As a public health specialist, what worries me is the cessation of all vaccination programmes such as measles, rubella, diphtheria, influenza, malaria, etc.Such diseases which might be eradicated in the West can re-emerge in Gaza with life-threatening repercussions for children. Lack of vaccinations also poses major global health threats. No one is safe until everyone is safe.Dr Munjed Farid Al QutobLondon"
+        }
+    ]
+}

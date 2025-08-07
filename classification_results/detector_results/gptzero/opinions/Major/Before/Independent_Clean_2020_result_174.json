@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0001188113383250311,
+                    "sentence": "Please send your letters toletters@independent.co.ukIf the chancellor wants to stimulate the economy, there is a better way than cutting VAT.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.453941700281575e-05,
+                    "sentence": "That is a blunt instrument that means that those of us who can afford to buy more stuff will not necessarily do so to the benefit of the economy.Far better would be to raise the minimum wage and put more money into the pockets of those dependent on social security.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.288484579883516e-05,
+                    "sentence": "Money given to those who have least will immediately be spent on the high street and will also signal that the government does, along with the nation, appreciate our \"low skill\" workers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.049300570040941e-05,
+                    "sentence": "As an aside, I do wonder how far the death of the high street was exacerbated by the austerity which meant that those most likely to shop there were barred from doing so because they had no money.Joanna Pallister DurhamExpensive tastesI liked Jenny Eclair'slatest columnabout how she can travel around London now, but she wants a 1970s Ford Capri?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.83462086878717e-05,
+                    "sentence": "An 80s Ford Capri would set her back £15,000 to £20,000 and if she wanted a red 1970s Capri she would have to sell her house.Best to buy a new car.Charlie Osler Milton KeynesDrive the change throughIn Ireland learner permits that expired between 1 March to 30 June have been extended by four months and as testing sees further delays, a further extension is under review.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005184391513466835,
+                    "sentence": "Why can't the UK government make a similar concession regarding theory tests, enabling thousands whose driving tests have been cancelled to join the front of the ever-increasing queue instead of starting from scratch?Deborah Richardson Address suppliedHousing for the elderlyThe government has an opportunity and an obligation to demonstrate its commitment to our ageing population.Anchor Hanover's research shows that 62 per cent of the public now have a higher opinion of the social care sector than before the pandemic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004322168882936239,
+                    "sentence": "Government must match public sentiment by delivering on its promises for tangible, sustainable social care reform.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004597115330398083,
+                    "sentence": "With pressure on social care continuing to deepen and with an ageing population, the need for innovative solutions is profound.Demand for high quality specialist housing and care is extremely strong.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003807398024946451,
+                    "sentence": "Government backing for housing with care could benefit older people with care and support needs, as well as everyone wanting to get a foothold on the property ladder and boost the economic health of the UK.The measures being called for do not require vast sums of money, simply political will.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004952390678226948,
+                    "sentence": "We have waited too long and simply \"going back to normal\" is not an option.Jane Ashcroft, CBE, chief executive of Anchor Hanover, England's largest not-for-profit provider of care and housing for older peopleA flying commentTo condemn the flying of a banner saying \"white lives matter\" is discriminatory, racist and makes unfounded assumptions about the motivation of those displaying it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09457046538591385,
+                    "sentence": "It is also a massive own goal that pours fuel on the fire of right-wing extremism, by appearing to confirm the feeling that white lives are less important.Andy Brown AllestreeEssential travelI understand that Nigel Farage's trip to the recent Trump rally was deemed essential by the Americans, but is it really essential that Britain allows him back?Philip Bushill-Matthews Leamington Spa",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.0592640951707379,
+            "class_probabilities": {
+                "human": 0.9407359048292621,
+                "ai": 0.0592640951707379,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9407359048292621,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0592640951707379,
+                    "human": 0.9407359048292621,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukIf the chancellor wants to stimulate the economy, there is a better way than cutting VAT. That is a blunt instrument that means that those of us who can afford to buy more stuff will not necessarily do so to the benefit of the economy.Far better would be to raise the minimum wage and put more money into the pockets of those dependent on social security. Money given to those who have least will immediately be spent on the high street and will also signal that the government does, along with the nation, appreciate our \"low skill\" workers. As an aside, I do wonder how far the death of the high street was exacerbated by the austerity which meant that those most likely to shop there were barred from doing so because they had no money.Joanna Pallister                                          DurhamExpensive tastesI liked Jenny Eclair'slatest columnabout how she can travel around London now, but she wants a 1970s Ford Capri? An 80s Ford Capri would set her back £15,000 to £20,000 and if she wanted a red 1970s Capri she would have to sell her house.Best to buy a new car.Charlie Osler                                          Milton KeynesDrive the change throughIn Ireland learner permits that expired between 1 March to 30 June have been extended by four months and as testing sees further delays, a further extension is under review. Why can't the UK government make a similar concession regarding theory tests, enabling thousands whose driving tests have been cancelled to join the front of the ever-increasing queue instead of starting from scratch?Deborah Richardson                                           Address suppliedHousing for the elderlyThe government has an opportunity and an obligation to demonstrate its commitment to our ageing population.Anchor Hanover's research shows that 62 per cent of the public now have a higher opinion of the social care sector than before the pandemic. Government must match public sentiment by delivering on its promises for tangible, sustainable social care reform. With pressure on social care continuing to deepen and with an ageing population, the need for innovative solutions is profound.Demand for high quality specialist housing and care is extremely strong. Government backing for housing with care could benefit older people with care and support needs, as well as everyone wanting to get a foothold on the property ladder and boost the economic health of the UK.The measures being called for do not require vast sums of money, simply political will. We have waited too long and simply \"going back to normal\" is not an option.Jane Ashcroft, CBE, chief executive of Anchor Hanover, England's largest not-for-profit provider of care and housing for older peopleA flying commentTo condemn the flying of a banner saying \"white lives matter\" is discriminatory, racist and makes unfounded assumptions about the motivation of those displaying it. It is also a massive own goal that pours fuel on the fire of right-wing extremism, by appearing to confirm the feeling that white lives are less important.Andy Brown                                          AllestreeEssential travelI understand that Nigel Farage's trip to the recent Trump rally was deemed essential by the Americans, but is it really essential that Britain allows him back?Philip Bushill-Matthews                                          Leamington Spa"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00032200125860981643,
+                    "sentence": "Please send your letters toletters@independent.co.ukDoes theTaliban manufacture its own arms?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003113789134658873,
+                    "sentence": "Presumably, the guns on the front pages were supplied by another country.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003438900166656822,
+                    "sentence": "World leaders can help to stop actions like this, and the killings of innocent people, if they stop supplying firearms.Malvern HutleyColchesterChoose geographyEd Dorrell highlightshow changes in education over the last decade have influenced what young people are going on to study at university.As well as the rise of Stem subjects, there has also been an expansion in the numbers of young people studyinggeography.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004434917645994574,
+                    "sentence": "From a low point in 2010, geography's GCSE numbers have skyrocketed - by over 100,000 to a 20-year high (285,000 candidates) - and this year's A-level results saw the subject's 16 per cent increase outstrip all other A-level subjects.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005992191727273166,
+                    "sentence": "Such interest has also been carried through to university where undergraduate numbers have increased over the last 15 years by 20 per cent.The IPCC's recent report highlighted how education can accelerate wide-scale behavioural change to help limit global warming to 1.5C.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004972138558514416,
+                    "sentence": "Geography has a clear focus on interdependencies and relationships between people, places and the environment, and its courses including study of the carbon cycle, the geopolitics of international cooperation, and the geographical skills necessary to understand how climate change is reshaping our world.So it is no surprise that increasing numbers of young people are also choosing geography as the subject relevant to their, and our future.Steve BraceHead of education, Royal Geographical Society (with IBG)Humanitarian imperialismThe collapse of the latest western imperialadventure in Afghanistanconfirms the truth of Maximilien Robespierre's argument that\"The most extravagant idea that can be born in the head of a political thinker is to believe that it suffices for people to enter, weapons in hand, among a foreign people and expect to have its laws and constitution embraced.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00038098354707472026,
+                    "sentence": "No one loves armed missionaries.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006408888148143888,
+                    "sentence": "\"There is no such thing as \"humanitarian\" imperialism.Sasha SimicLondonVaccinating childrenThe cost of installing air purifiers or other forms of ventilation across all schools is prohibitive and the time scale would be too long to purchase and instal.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003517788602039218,
+                    "sentence": "Surely if there is a real risk of a Covid explosion in schools next term, we should be looking to vaccinate school children.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0037601208314299583,
+                    "sentence": "Any such programme needs to be preceded by a national dialogue with young people, listening to their questions and concerns and explaining the reasons for the policy.John E HarrisonLancashireFunding social careThose of us delivering care services for older people will not be surprised to hear that members of the public back the notion of paying morenational insurance to funda reformed social care system.Across the country, members of the public have come out in support of the incredible workforce who care for us when we need it most, and many have been pushing their local politicians to take action too.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005527179688215256,
+                    "sentence": "These people know that older people of today and tomorrow deserve a system that is sustainably funded, which holds care providers to account, and which properly values care workers.With almost half the people that MHA (the UK's largest charity care provider) polled saying they think the government is not concerned about the needs of older people, the government risks missing a golden chance to show it can deliver.Sam MonaghanChief executive, MHA",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.021601982568463345,
+            "class_probabilities": {
+                "human": 0.9783576840560043,
+                "ai": 0.021601982568463345,
+                "mixed": 4.0333375532255976e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9783576840560043,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.021601982568463345,
+                    "human": 0.9783576840560043,
+                    "mixed": 4.0333375532255976e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukDoes theTaliban manufacture its own arms? Presumably, the guns on the front pages were supplied by another country. World leaders can help to stop actions like this, and the killings of innocent people, if they stop supplying firearms.Malvern HutleyColchesterChoose geographyEd Dorrell highlightshow changes in education over the last decade have influenced what young people are going on to study at university.As well as the rise of Stem subjects, there has also been an expansion in the numbers of young people studyinggeography.  From a low point in 2010, geography's GCSE numbers have skyrocketed - by over 100,000 to a 20-year high (285,000 candidates) - and this year's A-level results saw the subject's 16 per cent increase outstrip all other A-level subjects. Such interest has also been carried through to university where undergraduate numbers have increased over the last 15 years by 20 per cent.The IPCC's recent report highlighted how education can accelerate wide-scale behavioural change to help limit global warming to 1.5C. Geography has a clear focus on interdependencies and relationships between people, places and the environment, and its courses including study of the carbon cycle, the geopolitics of international cooperation, and the geographical skills necessary to understand how climate change is reshaping our world.So it is no surprise that increasing numbers of young people are also choosing geography as the subject relevant to their, and our future.Steve BraceHead of education, Royal Geographical Society (with IBG)Humanitarian imperialismThe collapse of the latest western imperialadventure in Afghanistanconfirms the truth of Maximilien Robespierre's argument that\"The most extravagant idea that can be born in the head of a political thinker is to believe that it suffices for people to enter, weapons in hand, among a foreign people and expect to have its laws and constitution embraced. No one loves armed missionaries.\"There is no such thing as \"humanitarian\" imperialism.Sasha SimicLondonVaccinating childrenThe cost of installing air purifiers or other forms of ventilation across all schools is prohibitive and the time scale would be too long to purchase and instal. Surely if there is a real risk of a Covid explosion in schools next term, we should be looking to vaccinate school children. Any such programme needs to be preceded by a national dialogue with young people, listening to their questions and concerns and explaining the reasons for the policy.John E HarrisonLancashireFunding social careThose of us delivering care services for older people will not be surprised to hear that members of the public back the notion of paying morenational insurance to funda reformed social care system.Across the country, members of the public have come out in support of the incredible workforce who care for us when we need it most, and many have been pushing their local politicians to take action too. These people know that older people of today and tomorrow deserve a system that is sustainably funded, which holds care providers to account, and which properly values care workers.With almost half the people that MHA (the UK's largest charity care provider) polled saying they think the government is not concerned about the needs of older people, the government risks missing a golden chance to show it can deliver.Sam MonaghanChief executive, MHA"
+        }
+    ]
+}

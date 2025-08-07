@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0015408649342134595,
+                    "sentence": "Meher Ahmad on the importance of connecting with both her Muslim community and the wider world.With the ongoing war and suffering in Gaza, this year's holy month of Ramadan has also been a painful one for Muslims around the world.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018499379511922598,
+                    "sentence": "In this audio essay, Times Opinion staff editor Meher Ahmad reflects on the support she has found during Ramadan in her Muslim community, and why she hopes other Muslims also reach out beyond that world of safety and understanding.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001787298358976841,
+                    "sentence": "(A full transcript of this audio essay will be available within 24 hours of publication in the audio player above.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008124588057398796,
+                    "sentence": ")This episode of “The Opinions” was produced by Derek Arthur.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012458601268008351,
+                    "sentence": "It was edited by Kaari Pitkin, Alison Bruzek and Annie-Rose Strasser.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007459230255335569,
+                    "sentence": "Mixing by Sonia Herrero.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008159998105838895,
+                    "sentence": "Original music by Isaac Jones and Sonia Herrero.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007708242628723383,
+                    "sentence": "Fact-checking by Mary Marge Locker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010346568888053298,
+                    "sentence": "Audience strategy by Kristina Samulewski.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006462695891968906,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009207578259520233,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005783006781712174,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,Instagram,TikTok,WhatsApp,XandThreads.PHOTO: (PHOTOGRAPH BY Illustration by The New York Times; photograph by ferlistockphoto/Getty Images FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.020796750353547094,
+            "class_probabilities": {
+                "human": 0.9792032496464529,
+                "ai": 0.020796750353547094,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9792032496464529,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020796750353547094,
+                    "human": 0.9792032496464529,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Meher Ahmad on the importance of connecting with both her Muslim community and the wider world.With the ongoing war and suffering in Gaza, this year’s holy month of Ramadan has also been a painful one for Muslims around the world. In this audio essay, Times Opinion staff editor Meher Ahmad reflects on the support she has found during Ramadan in her Muslim community, and why she hopes other Muslims also reach out beyond that world of safety and understanding.(A full transcript of this audio essay will be available within 24 hours of publication in the audio player above.)This episode of “The Opinions” was produced by Derek Arthur. It was edited by Kaari Pitkin, Alison Bruzek and Annie-Rose Strasser. Mixing by Sonia Herrero. Original music by Isaac Jones and Sonia Herrero. Fact-checking by Mary Marge Locker. Audience strategy by Kristina Samulewski.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,Instagram,TikTok,WhatsApp,XandThreads.PHOTO:  (PHOTOGRAPH BY Illustration by The New York Times; photograph by ferlistockphoto/Getty Images FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

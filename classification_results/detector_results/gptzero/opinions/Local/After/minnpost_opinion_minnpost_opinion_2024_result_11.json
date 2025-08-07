@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 4.7595560317859054e-05,
+                    "sentence": "From local coverage to the presidential race,.Cityscape| Twin Cities urban geographer Bill Lindeke weighs in on city life, transportation, planning and more in his column delivered to your inbox weekly.The countdown is getting closer and closer to zero as families and their children have no doubt started looking at the calendar and the first days of school.However, for many schools the first day of school will be preceded by the first athletic competition.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.8936108467169106e-05,
+                    "sentence": "With schools now holding organized practices, student-athletes and coaches alike are excited to be back on the field of competition, whatever that may be.We hope these seasons are successful in terms of whatever goals are set by the teams and individuals involved.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.582442514016293e-05,
+                    "sentence": "It's inevitable that some of these goals might not be reached just as it's inevitable that many will be.With that in mind, we urge spectators to understand that underneath it all ᅳ the school spirit, the drive to win, the hope for something more ᅳ these are games and those competing are just kids.As spectators, we want to see these teams and athletes succeed and have fun doing it, fully understanding that there will be parts of athletics that are no fun at all.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.4518441427499056e-05,
+                    "sentence": "That includes the fact that teams and individuals will lose.That is the reality of athletic competition and as part of that reality we in the stands are here to support and cheer.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.525465480284765e-05,
+                    "sentence": "Never demean or put down.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004803022020496428,
+                    "sentence": "Far too often, spectators get caught up in the idea that winning is not only the ultimate goal, but the only goal.Anything less can be seen as failure, but in the end these are just kids doing the best they can.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005060025141574442,
+                    "sentence": "Nobody wants to lose.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004422096535563469,
+                    "sentence": "Nobody wants to fail.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006324916612356901,
+                    "sentence": "Unruly spectators who put undue pressure on these kids does not help.Getting upset and frustrated will happen, but always keep in mind that the youth can succeed when they know that adults have their best interest in mind.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007761558517813683,
+                    "sentence": "It's often said, but paradoxically not said enough, that just as much can be gained from a loss as a win.Through a loss, kids learn resilience and perseverance, but broadly speaking they learn.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006905781337991357,
+                    "sentence": "There are just as many lessons to losing as there are winning and ultimately, that is what school is about.At the end of the day, there are likely no professional athletes in the making in our area and only a few that will play college athletics.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000725889636669308,
+                    "sentence": "For a large majority of athletes this is a chance to play a game and to do it with friends.This coming fall and into the winter and spring sports seasons we remind you that the players are kids and when mistakes happen reaffirm and support.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009318124502897263,
+                    "sentence": "Lift them up and urge them to try again.Falling will happen.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008941771229729056,
+                    "sentence": "Don't be the reason that an athlete stays down.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 1.9423489116273474e-12
+                }
+            ],
+            "completely_generated_prob": 0.01281881855424871,
+            "class_probabilities": {
+                "human": 0.9871811814457513,
+                "ai": 0.01281881855424871,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9871811814457513,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01281881855424871,
+                    "human": 0.9871811814457513,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "From local coverage to the presidential race, .Cityscape| Twin Cities urban geographer Bill Lindeke weighs in on city life, transportation, planning and more in his column delivered to your inbox weekly.The countdown is getting closer and closer to zero as families and their children have no doubt started looking at the calendar and the first days of school.However, for many schools the first day of school will be preceded by the first athletic competition. With schools now holding organized practices, student-athletes and coaches alike are excited to be back on the field of competition, whatever that may be.We hope these seasons are successful in terms of whatever goals are set by the teams and individuals involved. It’s inevitable that some of these goals might not be reached just as it’s inevitable that many will be.With that in mind, we urge spectators to understand that underneath it all — the school spirit, the drive to win, the hope for something more — these are games and those competing are just kids.As spectators, we want to see these teams and athletes succeed and have fun doing it, fully understanding that there will be parts of athletics that are no fun at all. That includes the fact that teams and individuals will lose.That is the reality of athletic competition and as part of that reality we in the stands are here to support and cheer. Never demean or put down. Far too often, spectators get caught up in the idea that winning is not only the ultimate goal, but the only goal.Anything less can be seen as failure, but in the end these are just kids doing the best they can. Nobody wants to lose. Nobody wants to fail. Unruly spectators who put undue pressure on these kids does not help.Getting upset and frustrated will happen, but always keep in mind that the youth can succeed when they know that adults have their best interest in mind. It’s often said, but paradoxically not said enough, that just as much can be gained from a loss as a win.Through a loss, kids learn resilience and perseverance, but broadly speaking they learn. There are just as many lessons to losing as there are winning and ultimately, that is what school is about.At the end of the day, there are likely no professional athletes in the making in our area and only a few that will play college athletics. For a large majority of athletes this is a chance to play a game and to do it with friends.This coming fall and into the winter and spring sports seasons we remind you that the players are kids and when mistakes happen reaffirm and support. Lift them up and urge them to try again.Falling will happen. Don’t be the reason that an athlete stays down."
+        }
+    ]
+}

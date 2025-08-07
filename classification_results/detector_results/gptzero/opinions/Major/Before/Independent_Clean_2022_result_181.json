@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00010688864858821034,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011230845120735466,
+                    "sentence": "Please send your letters toletters@independent.co.ukFar from celebrating that more ToryMPsare finally prepared to rescue Britain from the human catastrophe that isBoris Johnson, I am disgusted.They happily swung along behind a character I believe is totally devoid of any decent inclinations, lazy, self-serving, self-indulgent, cowardly, dishonest in the extreme (let's leave it there).It's only now that they sense the danger of losing their own positions, income and influence that they reject him.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015036614786367863,
+                    "sentence": "They are, in my view, more disgusting than he is.Amanda BakerEdinburghJudicial independenceHow can citizens of the USA believe they live in a democracy when the judges in the Supreme Court are appointed on the basis of their political beliefs or adherence to partisan policies, rather than genuine interpretation of the law?Just how long will judges in the UK be able to remain independent when already, questions about their integrity are being posed by the current right-wing government and its media apologists?G ForwardStirlingLand of the free?Twenty years of butchery in Afghanistan by the USA was partly justified on the grounds they were there to “liberate” women from being oppressed by religious extremists.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001897702895803377,
+                    "sentence": "The USA is currently fighting a proxy war against Russia in Ukraine in the name of “freedom”.Yet the US Supreme court has just overturned the 50-year-old ruling in the Roe v. Wade casewhich will deny millions of women access to safe, legal abortions in the US.The US is denying freedom of choice to women.Solidarity withwomen in the USA who have had their human rights denied to themby a corrupt, backward state, which sees them as walking incubators with no agency over their own bodies.This ruling must be fought.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013113472959958017,
+                    "sentence": "There must be no return to the backstreets.Sasha SimicLondonTory troopsA word of caution.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019042444182559848,
+                    "sentence": "If Boris Johnson remains the complete focus of people's anger, this could let the rest of this deplorable government off the hook.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00024249186390079558,
+                    "sentence": "I do not see people such as Priti Patel, Jacob Rees-Mogg and Nadine Dorries as blameless - far from it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00020255502022337168,
+                    "sentence": "Remember also that Tory MPs as a body have voted through such reprehensible and dangerous policies as the restrictions on the right to protest.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.7966037392616272,
+                    "sentence": "The absolute rottenness of this administration leaks from the top, but it is maintained by the troops.The first-past-the-post voting system encourages this syndrome by making dominant parties complacent and, eventually, corrupt.Penny LittleOxfordshireNo room for complacencyLabour should not be complacent aboutits by-election victory in Wakefield, particularly as the voter turnout of 39 per cent, compared with 64 per cent in 2019, suggests a large number of those first-time Tory voters in 2019 have deserted Johnson but still cannot bring themselves to vote Labour.Nevertheless, Labour's share of the vote in Wakefield at 47.9 per cent is almost identical to what the Tories achieved there in 2019, evidencing the impact of the Brexit wedge may at last be receding.Furthermore, by-election victories where the two main parties stand against each other tend to be harder to secure but easier to retain once won than those achieved by the Liberals.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.8442930579185486,
+                    "sentence": "So the 12 per cent swing to Labour in Wakefield could indeed be a seminal moment in the life and fate of Johnson and the Tory Party.Paul Dolan Cheshire",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 1.6001890298926319e-07
+                }
+            ],
+            "completely_generated_prob": 0.2425855513307985,
+            "class_probabilities": {
+                "human": 0.7574144486692015,
+                "ai": 0.2425855513307985,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.7574144486692015,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.2425855513307985,
+                    "human": 0.7574144486692015,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukFar from celebrating that more ToryMPsare finally prepared to rescue Britain from the human catastrophe that isBoris Johnson, I am disgusted.They happily swung along behind a character I believe is totally devoid of any decent inclinations, lazy, self-serving, self-indulgent, cowardly, dishonest in the extreme (let’s leave it there).It’s only now that they sense the danger of losing their own positions, income and influence that they reject him.  They are, in my view, more disgusting than he is.Amanda BakerEdinburghJudicial independenceHow can citizens of the USA believe they live in a democracy when the judges in the Supreme Court are appointed on the basis of their political beliefs or adherence to partisan policies, rather than genuine interpretation of the law?Just how long will judges in the UK be able to remain independent when already, questions about their integrity are being posed by the current right-wing government and its media apologists?G ForwardStirlingLand of the free?Twenty years of butchery in Afghanistan by the USA was partly justified on the grounds they were there to “liberate” women from being oppressed by religious extremists. The USA is currently fighting a proxy war against Russia in Ukraine in the name of “freedom”.Yet the US Supreme court has just overturned the 50-year-old ruling in the Roe v. Wade casewhich will deny millions of women access to safe, legal abortions in the US.The US is denying freedom of choice to women.Solidarity withwomen in the USA who have had their human rights denied to themby a corrupt, backward state, which sees them as walking incubators with no agency over their own bodies.This ruling must be fought. There must be no return to the backstreets.Sasha SimicLondonTory troopsA word of caution. If Boris Johnson remains the complete focus of people’s anger, this could let the rest of this deplorable government off the hook. I do not see people such as Priti Patel, Jacob Rees-Mogg and Nadine Dorries as blameless – far from it. Remember also that Tory MPs as a body have voted through such reprehensible and dangerous policies as the restrictions on the right to protest. The absolute rottenness of this administration leaks from the top, but it is maintained by the troops.The first-past-the-post voting system encourages this syndrome by making dominant parties complacent and, eventually, corrupt.Penny LittleOxfordshireNo room for complacencyLabour should not be complacent aboutits by-election victory in Wakefield, particularly as the voter turnout of 39 per cent, compared with 64 per cent in 2019, suggests a large number of those first-time Tory voters in 2019 have deserted Johnson but still cannot bring themselves to vote Labour.Nevertheless, Labour’s share of the vote in Wakefield at 47.9 per cent is almost identical to what the Tories achieved there in 2019, evidencing the impact of the Brexit wedge may at last be receding.Furthermore, by-election victories where the two main parties stand against each other tend to be harder to secure but easier to retain once won than those achieved by the Liberals. So the 12 per cent swing to Labour in Wakefield could indeed be a seminal moment in the life and fate of Johnson and the Tory Party.Paul Dolan                     Cheshire"
+        }
+    ]
+}

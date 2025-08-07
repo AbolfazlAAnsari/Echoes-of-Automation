@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0008871268946677446,
+                    "sentence": "Ada Limón, the U.S. poet laureate, has a balm for your solastalgia.In a time of climate crisis, can poetry help us save the planet?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009985296055674553,
+                    "sentence": "In this audio essay, the contributing Opinion writer Margaret Renkl speaks with Ada Limón, the U.S. poet laureate, to understand how the written word can help the natural world.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001107489224523306,
+                    "sentence": "(A full transcript of this audio essay will be available within 24 hours of publication in the audio player above.)Thoughts?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005994350067339838,
+                    "sentence": "Email us attheopinions@nytimes.com.This episode of “The Opinions” was produced by Kristina Samulewski.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006737763760611415,
+                    "sentence": "It was edited by Alison Bruzek, Kaari Pitkin and Annie-Rose Strasser.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005599508294835687,
+                    "sentence": "Engineering by Isaac Jones and Efim Shapiro.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000689267588313669,
+                    "sentence": "Mixing and original music by Sonia Herrero.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007680574781261384,
+                    "sentence": "Fact-checking by Mary Marge Locker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007151771569624543,
+                    "sentence": "Audience strategy by Shannon Busta and Kristina Samulewski.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00045258330646902323,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005084245931357145,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004145610728301108,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,Instagram,TikTok,WhatsApp,XandThreads.PHOTO: (PHOTOGRAPH BY Illustration by The New York Times; photograph by Nouran Magdy / 500px, via Getty Images FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.020796750353547094,
+            "class_probabilities": {
+                "human": 0.9792032496464529,
+                "ai": 0.020796750353547094,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9792032496464529,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020796750353547094,
+                    "human": 0.9792032496464529,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Ada Limón, the U.S. poet laureate, has a balm for your solastalgia.In a time of climate crisis, can poetry help us save the planet? In this audio essay, the contributing Opinion writer Margaret Renkl speaks with Ada Limón, the U.S. poet laureate, to understand how the written word can help the natural world.(A full transcript of this audio essay will be available within 24 hours of publication in the audio player above.)Thoughts? Email us attheopinions@nytimes.com.This episode of “The Opinions” was produced by Kristina Samulewski. It was edited by Alison Bruzek, Kaari Pitkin and Annie-Rose Strasser. Engineering by Isaac Jones and Efim Shapiro. Mixing and original music by Sonia Herrero. Fact-checking by Mary Marge Locker. Audience strategy by Shannon Busta and Kristina Samulewski.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,Instagram,TikTok,WhatsApp,XandThreads.PHOTO:  (PHOTOGRAPH BY Illustration by The New York Times; photograph by Nouran Magdy / 500px, via Getty Images FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

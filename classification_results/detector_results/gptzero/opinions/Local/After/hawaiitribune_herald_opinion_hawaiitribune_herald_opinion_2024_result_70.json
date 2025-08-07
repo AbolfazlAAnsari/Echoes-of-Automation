@@ -1,0 +1,88 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.000162457610713318,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|78.854°More about baseball legend Jimmy CorreaMore about baseball legend Jimmy CorreaI was glad to read the article on naming the Francis Wong Stadium baseball field after Jimmy Correa, but what was missing in the well-written tribute to Coach Correa was that in 2000 he was inducted to the second class of the Big Island Sports Hall of Fame.He was a student athlete at St. Mary's School, starred for the Civilian Conservation Corps, and was a catcher for the Army's 298th Warriors infantry team that won the coveted South Pacific Baseball Championship in the Guadalcanal World Series.As a coach, he won the Pony Baseball Colt World Series in Indiana in 1981.In 1988, Coach Correa received a congratulatory statement in Congress by Sen. Daniel Akaka, who in part read: “These victories while important in themselves are more significant as a reflection of not only of Jimmy's skills as a coach but of his dedication to his community and his ability to bring out the best in his chargers, who rose to the challenge, not only on the diamond, but on the playing field of life.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015057643759064376,
+                    "sentence": "There are many in Hawaii today who are better for having come in contact with Jimmy Correa.”Jerry ChangPresident, Big Island Sports Hall of FameHelp needed tofight noxious weedI am not a botanist, but a little bit of research has my alarm bells clanging about the dangers of the rampant spread of the Miconia calvescens shrub on the Big Island.Any resident with even average skills of observation should be noticing the increase of these ugly purple broad-leaf woody shrubs that are clogging gulches of the Hamakua Coast and sprouting up in the uplands of Puna.Each plant can produce up to 9 million seeds per year, and they quickly take over, creating dense stands.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001583884295541793,
+                    "sentence": "Their shallow root system causes increased erosion, which in turn increases sedimentation and runoff into near-shore reefs.In Tahiti, it is threatening up to two-thirds of indigenous flora.So, what is the county doing about this?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008597685373388231,
+                    "sentence": "Not much.I called the Big Island Invasive Species Council (you can, too: 808-933 3340) and was told that they have very limited funding, none of it federal and scant state funding.Please eradicate this plant if you see it on your property, and let's all kokua to spread awareness of this noxious weed and stop it from spreading.Adriaina WoodsKurtistown.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 4,
+                    "completely_generated_prob": 0.0006564766595293492
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|78.854°More about baseball legend Jimmy CorreaMore about baseball legend Jimmy CorreaI was glad to read the article on naming the Francis Wong Stadium baseball field after Jimmy Correa, but what was missing in the well-written tribute to Coach Correa was that in 2000 he was inducted to the second class of the Big Island Sports Hall of Fame.He was a student athlete at St. Mary’s School, starred for the Civilian Conservation Corps, and was a catcher for the Army’s 298th Warriors infantry team that won the coveted South Pacific Baseball Championship in the Guadalcanal World Series.As a coach, he won the Pony Baseball Colt World Series in Indiana in 1981.In 1988, Coach Correa received a congratulatory statement in Congress by Sen. Daniel Akaka, who in part read: “These victories while important in themselves are more significant as a reflection of not only of Jimmy’s skills as a coach but of his dedication to his community and his ability to bring out the best in his chargers, who rose to the challenge, not only on the diamond, but on the playing field of life. There are many in Hawaii today who are better for having come in contact with Jimmy Correa.”Jerry ChangPresident, Big Island Sports Hall of FameHelp needed tofight noxious weedI am not a botanist, but a little bit of research has my alarm bells clanging about the dangers of the rampant spread of the Miconia calvescens shrub on the Big Island.Any resident with even average skills of observation should be noticing the increase of these ugly purple broad-leaf woody shrubs that are clogging gulches of the Hamakua Coast and sprouting up in the uplands of Puna.Each plant can produce up to 9 million seeds per year, and they quickly take over, creating dense stands. Their shallow root system causes increased erosion, which in turn increases sedimentation and runoff into near-shore reefs.In Tahiti, it is threatening up to two-thirds of indigenous flora.So, what is the county doing about this? Not much.I called the Big Island Invasive Species Council (you can, too: 808-933 3340) and was told that they have very limited funding, none of it federal and scant state funding.Please eradicate this plant if you see it on your property, and let’s all kokua to spread awareness of this noxious weed and stop it from spreading.Adriaina WoodsKurtistown."
+        }
+    ]
+}

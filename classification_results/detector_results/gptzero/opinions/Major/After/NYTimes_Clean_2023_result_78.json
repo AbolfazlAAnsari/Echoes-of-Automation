@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00026840216014534235,
+                    "sentence": "A reader responds to a question that Donald Trump's lawyer asked E. Jean Carroll: “You never screamed for help?”A reader responds to a question that Donald Trump's lawyer asked E. Jean Carroll: “You never screamed for help?”To the Editor:I cannot begin to express my gratitude for Jessica Bennett's May 2 Opinion essay, “Questions Not to Ask a Rape Accuser.”I didn't scream when I regained consciousness while being raped by a boy who was part of a group of exchange students newly arrived in southern Vermont.I had offered them a ride to their dorm from the Brattleboro bar where I worked, and as thanks, they invited me in for a glass of the wine they'd brought from their native country.I didn't scream when the room began to spin.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017585750902071595,
+                    "sentence": "Awakening, pinned, I didn't scream when I heard other boys pounding on the door.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002721340279094875,
+                    "sentence": "“They want their turn,” the boy on top of me said.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00030652532586827874,
+                    "sentence": "I didn't scream: To protect myself from further rape, I told him I liked him best and wanted only him.I didn't scream as dawn finally broke and I cautiously collected my clothes to walk naked through the snow to my car.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.997755164979026e-05,
+                    "sentence": "I didn't scream when my gynecologist noted vaginal abrasions.I didn't scream when a cop I considered my friend told me not to bother to report the rape ᅳ that I'd be the one scrutinized.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.608608914073557e-05,
+                    "sentence": "Instead I wrote a letter to the head of the exchange program, concerned for the families that these boys were about to join.I didn't scream upon receiving his elegantly worded response, alluding to the boys' “completely inexcusable” behavior.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.134277595672756e-05,
+                    "sentence": "I didn't scream when I cashed the $40 check he'd drawn on the program's account to reimburse me for medical expenses.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.897848263382912e-05,
+                    "sentence": "He earmarked it “entertainment.”A half-century has gone by, and I have never stopped screaming ᅳ inside.Sandy MacDonaldNew YorkThis article appeared in print on page A23.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.006602786460384316,
+            "class_probabilities": {
+                "human": 0.9933972135396156,
+                "ai": 0.006602786460384316,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933972135396156,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006602786460384316,
+                    "human": 0.9933972135396156,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "A reader responds to a question that Donald Trump’s lawyer asked E. Jean Carroll: “You never screamed for help?”A reader responds to a question that Donald Trump’s lawyer asked E. Jean Carroll: “You never screamed for help?”To the Editor:I cannot begin to express my gratitude for Jessica Bennett’s May 2 Opinion essay, “Questions Not to Ask a Rape Accuser.”I didn’t scream when I regained consciousness while being raped by a boy who was part of a group of exchange students newly arrived in southern Vermont.I had offered them a ride to their dorm from the Brattleboro bar where I worked, and as thanks, they invited me in for a glass of the wine they’d brought from their native country.I didn’t scream when the room began to spin. Awakening, pinned, I didn’t scream when I heard other boys pounding on the door. “They want their turn,” the boy on top of me said. I didn’t scream: To protect myself from further rape, I told him I liked him best and wanted only him.I didn’t scream as dawn finally broke and I cautiously collected my clothes to walk naked through the snow to my car. I didn’t scream when my gynecologist noted vaginal abrasions.I didn’t scream when a cop I considered my friend told me not to bother to report the rape — that I’d be the one scrutinized. Instead I wrote a letter to the head of the exchange program, concerned for the families that these boys were about to join.I didn’t scream upon receiving his elegantly worded response, alluding to the boys’ “completely inexcusable” behavior. I didn’t scream when I cashed the $40 check he’d drawn on the program’s account to reimburse me for medical expenses. He earmarked it “entertainment.”A half-century has gone by, and I have never stopped screaming — inside.Sandy MacDonaldNew YorkThis article appeared in print on page A23."
+        }
+    ]
+}

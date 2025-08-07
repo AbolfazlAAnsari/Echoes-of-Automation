@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.000592945609241724,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007408485980704427,
+                    "sentence": "Please send your letters toletters@independent.co.ukWe theBritishpublic pay for theBBCwith our own license fee.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007319379365071654,
+                    "sentence": "As such, it belongs to us.I do not remember voting for any political party to demand that the BBC should behave in a specific way, orfollow the party line as laid down by them.I do feel justifiably proud that our BBC is seen worldwide as an organisation that speaks truth and challenges power.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005662890034727752,
+                    "sentence": "From South America to easternEuropeI have found the world service and BBC news an impartial broadcaster to whom many turn for facts andopinion.So to all our politicians of whatever party: hands off our BBC.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011762176873162389,
+                    "sentence": "It's not yours to play with.We love and loathe it in its many facets, but that's the price we pay for thefreedom of speechit affords us.John SinclairPocklingtonIf Gary Lineker leaves, it's the BBC's lossOne factor that the BBC has clearly overlooked in its treatment of Gary Lineker is that he is not famous or followed on Twitter because he works for the corporation, unlike numerous other presenters whose reputations were forged by their TV or radio appearances.Lineker has a place in the hearts of millions because of his graceful football skills, the memory of his scoring crucial goals in an England shirt which brought joy to a nation, and his distinction as a modest and courteous role model to all who would be classed as superstars.It is the BBC's reputation which is enhanced by his presence on Match of the Day, not the other way around.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002384866587817669,
+                    "sentence": "It will be their loss, not his, if he leaves.Colin BurkeCartmelIf only our politicians were as empathetic as our athletesI have not had a TV since 1999.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007216115482151508,
+                    "sentence": "Long before there were other regular screen alternatives.It began with not wanting to fund an institution which was London-centric, white or male-dominated (see Lenny Henry's comments over the decades), and stultified with an ideology that seemed to have evolved little since my childhood in the 1960s.Now I see the rest of the UK catching up.Shame the conscience of the nation seems to belong to footballers -first Rashford, now Lineker.Maybe politicians will catch up with them.Amanda BakerEdinburghAs scandals go, Sue Gray's appointment is small potatoesWhilst it may be unusual forcivil servants or diplomats to leave their jobs to join a political party, let us not forget the interesting times in which we live.We still haveDominic Raab under investigation over bullying claims; we had the Matt Hancock affair, then Dominic Cummings; then we still have Boris Johnson and Partygate; and then there was the Chris Pincher debacle which eventually contributed to the resignation of the former prime minister.So for me, given the chaos that has been more or less continual in Downing Street ever since Brexit and through a pandemic, I would have thought that some good civil service experience and diplomacy would come in very handy indeed.So I say well done to Sue Gray for taking the courageous decision to give up the chaos of the Tories driving you mad in favour of joining a man in Keir Starmer who wants to put country before party.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.026125822216272354,
+                    "sentence": "She will bring a wealth of experience into what is fast becoming a government in waiting.Geoffrey BrookingHampshireWe should cap footballers' salariesI agree in the main with the views expressed by Gary Lineker, but I would rather see him address the moral depths professional football has plummeted to.Some footballers can earn in a week more than most peopleearn in a lifetime, with a good portion of that wealth coming from something as small as wearing a particular pair of football boots.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04339849203824997,
+                    "sentence": "How can clubs justify these wages for kicking a ball about a few times a week?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04201159253716469,
+                    "sentence": "Not to mention the ticket prices they charge now for two hours of entertainment.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05405636504292488,
+                    "sentence": "The FA should introduce a ceiling to players wages.HennySuffolk",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.037526171686261885,
+            "class_probabilities": {
+                "human": 0.9624738283137382,
+                "ai": 0.037526171686261885,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9624738283137382,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.037526171686261885,
+                    "human": 0.9624738283137382,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukWe theBritishpublic pay for theBBCwith our own license fee. As such, it belongs to us.I do not remember voting for any political party to demand that the BBC should behave in a specific way, orfollow the party line as laid down by them.I do feel justifiably proud that our BBC is seen worldwide as an organisation that speaks truth and challenges power. From South America to easternEuropeI have found the world service and BBC news an impartial broadcaster to whom many turn for facts andopinion.So to all our politicians of whatever party: hands off our BBC. It's not yours to play with.We love and loathe it in its many facets, but that's the price we pay for thefreedom of speechit affords us.John SinclairPocklingtonIf Gary Lineker leaves, it’s the BBC’s lossOne factor that the BBC has clearly overlooked in its treatment of Gary Lineker is that he is not famous or followed on Twitter because he works for the corporation, unlike numerous other presenters whose reputations were forged by their TV or radio appearances.Lineker has a place in the hearts of millions because of his graceful football skills, the memory of his scoring crucial goals in an England shirt which brought joy to a nation, and his distinction as a modest and courteous role model to all who would be classed as superstars.It is the BBC’s reputation which is enhanced by his presence on Match of the Day, not the other way around. It will be their loss, not his, if he leaves.Colin BurkeCartmelIf only our politicians were as empathetic as our athletesI have not had a TV since 1999. Long before there were other regular screen alternatives.It began with not wanting to fund an institution which was London-centric, white or male-dominated (see Lenny Henry's comments over the decades), and stultified with an ideology that seemed to have evolved little since my childhood in the 1960s.Now I see the rest of the UK catching up.Shame the conscience of the nation seems to belong to footballers –first Rashford, now Lineker.Maybe politicians will catch up with them.Amanda BakerEdinburghAs scandals go, Sue Gray’s appointment is small potatoesWhilst it may be unusual forcivil servants or diplomats to leave their jobs to join a political party, let us not forget the interesting times in which we live.We still haveDominic Raab under investigation over bullying claims; we had the Matt Hancock affair, then Dominic Cummings; then we still have Boris Johnson and Partygate; and then there was the Chris Pincher debacle which eventually contributed to the resignation of the former prime minister.So for me, given the chaos that has been more or less continual in Downing Street ever since Brexit and through a pandemic, I would have thought that some good civil service experience and diplomacy would come in very handy indeed.So I say well done to Sue Gray for taking the courageous decision to give up the chaos of the Tories driving you mad in favour of joining a man in Keir Starmer who wants to put country before party. She will bring a wealth of experience into what is fast becoming a government in waiting.Geoffrey BrookingHampshireWe should cap footballers’ salariesI agree in the main with the views expressed by Gary Lineker, but I would rather see him address the moral depths professional football has plummeted to.Some footballers can earn in a week more than most peopleearn in a lifetime, with a good portion of that wealth coming from something as small as wearing a particular pair of football boots. How can clubs justify these wages for kicking a ball about a few times a week? Not to mention the ticket prices they charge now for two hours of entertainment. The FA should introduce a ceiling to players wages.HennySuffolk"
+        }
+    ]
+}

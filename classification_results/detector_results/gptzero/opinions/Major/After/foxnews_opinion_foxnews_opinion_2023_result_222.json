@@ -1,0 +1,166 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.000747120298910886,
+                    "sentence": "Mutual Fund and ETF data provided byRefinitiv Lipper.Fox News host Tucker Carlson provides insight on the consequences of the development of artificial intelligence and why he spoke to Elon Musk on 'Tucker Carlson Tonight.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00030894053634256124,
+                    "sentence": "'Artificial intelligenceis one of those topics that's just spooky and sci-fi enough to make for a compelling television segment.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00020558973483275622,
+                    "sentence": "They love it on the morning shows.But at the same time, A.I.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00028725937590934336,
+                    "sentence": "is complex enough that it's easy to misrepresent.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003462734166532755,
+                    "sentence": "It sounds like something that could be revolutionary, even dangerous to humanity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00028432495309971273,
+                    "sentence": "But is it?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003016051778104156,
+                    "sentence": "If it is, what should we do about it?ELON MUSK TO DEVELOP 'TRUTHGPT' AS HE WARNS ABOUT 'CIVILIZATIONAL DESTRUCTION' FROM AIThose questions are significant enough that we wanted to find someone who could provide a definitive answer.Elon Muskseemed like the right person.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003856703988276422,
+                    "sentence": "Musk has been thinking about AI and worrying about it for most of his life.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000381628138711676,
+                    "sentence": "Nearly a decade ago, he helped found a nonprofit research project called OpenAI, and the point was in the name.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003854518581647426,
+                    "sentence": "If we're going to have artificial intelligence and apparently we are, it ought to be open, open to the world.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00036756161716766655,
+                    "sentence": "That would help ensure that it's used for good and not evil.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003385018790140748,
+                    "sentence": "That was the idea.But as the years passed and Musk found himself preoccupied building a couple of enormous companies, SpaceX and Tesla, OpenAI got away from him.As of tonight, OpenA.I.is no longer open.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00035456253681331873,
+                    "sentence": "It's not a nonprofit research project dedicated to using artificial intelligence to serve humanity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005358143243938684,
+                    "sentence": "It is instead a commercial enterprise backed by Microsoft and controlled to some extent by the Democratic Party.Elon Musk thinks that's a problem.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003877183189615607,
+                    "sentence": "In fact, he believes it's a threat to human civilization, tantamount to, maybe even more terrifying than thermonuclear weapons.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00044227371108718216,
+                    "sentence": "The conversation you're about to see took place recently in a hotel room in Los Angeles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007051519933156669,
+                    "sentence": "We think it's important enough that we're going to play the entire thing for you over the course of tonight and tomorrow.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 17,
+                    "completely_generated_prob": 4.571217651318373e-15
+                }
+            ],
+            "completely_generated_prob": 0.01024630426605243,
+            "class_probabilities": {
+                "human": 0.989714449001761,
+                "ai": 0.01024630426605243,
+                "mixed": 3.924673218661023e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.989714449001761,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01024630426605243,
+                    "human": 0.989714449001761,
+                    "mixed": 3.924673218661023e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Mutual Fund and ETF data provided byRefinitiv Lipper.Fox News host Tucker Carlson provides insight on the consequences of the development of artificial intelligence and why he spoke to Elon Musk on 'Tucker Carlson Tonight.'Artificial intelligenceis one of those topics that's just spooky and sci-fi enough to make for a compelling television segment. They love it on the morning shows.But at the same time, A.I. is complex enough that it's easy to misrepresent. It sounds like something that could be revolutionary, even dangerous to humanity. But is it? If it is, what should we do about it?ELON MUSK TO DEVELOP 'TRUTHGPT' AS HE WARNS ABOUT 'CIVILIZATIONAL DESTRUCTION' FROM AIThose questions are significant enough that we wanted to find someone who could provide a definitive answer.Elon Muskseemed like the right person. Musk has been thinking about AI and worrying about it for most of his life. Nearly a decade ago, he helped found a nonprofit research project called OpenAI, and the point was in the name. If we're going to have artificial intelligence and apparently we are, it ought to be open, open to the world. That would help ensure that it's used for good and not evil. That was the idea.But as the years passed and Musk found himself preoccupied building a couple of enormous companies, SpaceX and Tesla, OpenAI got away from him.As of tonight, OpenA.I.is no longer open. It's not a nonprofit research project dedicated to using artificial intelligence to serve humanity. It is instead a commercial enterprise backed by Microsoft and controlled to some extent by the Democratic Party.Elon Musk thinks that's a problem. In fact, he believes it's a threat to human civilization, tantamount to, maybe even more terrifying than thermonuclear weapons. The conversation you're about to see took place recently in a hotel room in Los Angeles. We think it's important enough that we're going to play the entire thing for you over the course of tonight and tomorrow."
+        }
+    ]
+}

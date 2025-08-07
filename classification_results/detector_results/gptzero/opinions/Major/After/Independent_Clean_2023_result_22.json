@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0003364489530213177,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004696479591075331,
+                    "sentence": "Please send your letters toletters@independent.co.ukWe have learnt that Boris Johnson needed an£800,000 line of creditwhen he found himself in “financial difficulties”, a loan supposedly secured with the involvement ofBBC chairman Richard Sharp.Clearly, he was struggling to manage on his prime minister's salary of £165,000 a year.Perhaps Lee Anderson could advise himon how to budget properly?Though he might think twice before asking his former chancellor of the Exchequer.Helen BoreScarboroughSuella Braverman's next move is always predictableThe government is under attack because of yet more allegations ofcorruption, sleaze, and cronyism.So it's predictable and not all surprising that Suella Braverman uses dead cat tactics as a smoke screen (yet again) by announcing in The Daily Telegraph (yet again) that she declaring a culture war (yet again) on “politically correct nonsense” within theHome Office, and their readers lap it up.It may be predictable but it's disappointing nonetheless.Nigel GroomEssexZahawi can't keep using the same excuseWhen Nadhim Zahawi was found to be usingpublic money to heat his stables, he pleaded bungling ignorance as his excuse.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00038028776179999113,
+                    "sentence": "He has resorted to this again in order to explain his failure to pay his tax.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00045401506940834224,
+                    "sentence": "I (and I'm one of his constituents) find it extremely hard to square thisclaim to be an incompetent innocent mistake, against the quite extraordinary sophistication and complexity with which he more generally manages his finances.Michael RosenthalBanburyThere is a far greater risk around Tory sleazeSurely the issue of Nadhim Zahawi's tax affairs goes further than justhis dealings with HM Revenue and Customs.Here is a holder of one of the great offices of state seemingly with something to hide in his personal life, which thesecurity services failed to uncoverbefore he was elevated to his high position.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007253061630763113,
+                    "sentence": "This could possibly have left him susceptible to blackmail or other potential security risks, the consequences of which do not bear thinking about.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01361833419650793,
+                    "sentence": "If our intelligence services cannot find all the skeletons in the cupboards of our politicians, we have to consider who will.Leo ThomasManchesterThis government has shown they are devoid of any conscienceOne would have thought by now that Sunak, with his own recent experiences surroundingincome tax, would have cottoned on to Zahawi's shenanigans, thus avoiding the embarrassment ofsupposedly being taken by surprise.They are after all both part of that very select circle who know their way through the tax system and by the same token are devoid of any conscience.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01072459202259779,
+                    "sentence": "Theirs is just a few million pounds being held back after all.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013564078137278557,
+                    "sentence": "There are already tens of millions all dutifully paying tax, every month year in and year out, on the money they have actually earned.That will be enough to keep the country afloat!Ian WingfieldDerbyshireIs British Gas treating all customers fairly?If British Gas and other electricity suppliers can afford topay people not to use powerat a particular time perhaps they are already charging customers too much, especially those of us who have no alternative form of fuel to keep warm orsmart metersto prove we are not using power.With policies like this can they honestly say they are treating all customers fairly?Jonathan LongstaffSussex",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.020796750353547094,
+            "class_probabilities": {
+                "human": 0.9792032496464529,
+                "ai": 0.020796750353547094,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9792032496464529,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020796750353547094,
+                    "human": 0.9792032496464529,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukWe have learnt that Boris Johnson needed an£800,000 line of creditwhen he found himself in “financial difficulties”, a loan supposedly secured with the involvement ofBBC chairman Richard Sharp.Clearly, he was struggling to manage on his prime minister’s salary of £165,000 a year.Perhaps Lee Anderson could advise himon how to budget properly?Though he might think twice before asking his former chancellor of the Exchequer.Helen BoreScarboroughSuella Braverman’s next move is always predictableThe government is under attack because of yet more allegations ofcorruption, sleaze, and cronyism.So it’s predictable and not all surprising that Suella Braverman uses dead cat tactics as a smoke screen (yet again) by announcing in The Daily Telegraph (yet again) that she declaring a culture war (yet again) on “politically correct nonsense” within theHome Office, and their readers lap it up.It may be predictable but it’s disappointing nonetheless.Nigel GroomEssexZahawi can’t keep using the same excuseWhen Nadhim Zahawi was found to be usingpublic money to heat his stables, he pleaded bungling ignorance as his excuse. He has resorted to this again in order to explain his failure to pay his tax. I (and I’m one of his constituents) find it extremely hard to square thisclaim to be an incompetent innocent mistake, against the quite extraordinary sophistication and complexity with which he more generally manages his finances.Michael RosenthalBanburyThere is a far greater risk around Tory sleazeSurely the issue of Nadhim Zahawi’s tax affairs goes further than justhis dealings with HM Revenue and Customs.Here is a holder of one of the great offices of state seemingly with something to hide in his personal life, which thesecurity services failed to uncoverbefore he was elevated to his high position. This could possibly have left him susceptible to blackmail or other potential security risks, the consequences of which do not bear thinking about. If our intelligence services cannot find all the skeletons in the cupboards of our politicians, we have to consider who will.Leo ThomasManchesterThis government has shown they are devoid of any conscienceOne would have thought by now that Sunak, with his own recent experiences surroundingincome tax, would have cottoned on to Zahawi’s shenanigans, thus avoiding the embarrassment ofsupposedly being taken by surprise.They are after all both part of that very select circle who know their way through the tax system and by the same token are devoid of any conscience. Theirs is just a few million pounds being held back after all. There are already tens of millions all dutifully paying tax, every month year in and year out, on the money they have actually earned.That will be enough to keep the country afloat!Ian WingfieldDerbyshireIs British Gas treating all customers fairly?If British Gas and other electricity suppliers can afford topay people not to use powerat a particular time perhaps they are already charging customers too much, especially those of us who have no alternative form of fuel to keep warm orsmart metersto prove we are not using power.With policies like this can they honestly say they are treating all customers fairly?Jonathan LongstaffSussex"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 9.201761713484302e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukWith the recent controversy as to whether or notmasksshould be worn from the 19 July, I have made my own decision to continue to wear a mask on public transport, and in shops and crowded spaces for the rest of my life.I self-isolated and shielded for just over a year, and I am not going to throw all of that past effort out of the window.J HyattAddress suppliedIs not \"freedom day\" on 19 July really only freedom forCovid-19to freely infect now as sensible restrictions are removed?Kartar UppalSutton ColdfieldGallic smokescreenOne wonders if the move to maintain quarantine on travellers returning from France is designed to distract attention from the skyrocketing infection rates in England caused by whatKeir Starmerrefers to as the \"Johnson variant\".France has far lower infection rates than England.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011996757530141622,
+                    "sentence": "Embarrassing to Boris Johnson and his acolytes doubtless.John LewisAddress suppliedWembley woesA local Wembley resident states that \"All the blame has been placed on the fans, but they are not solely responsible\" ('Questions mount over FA's handling of Euro 2020 final').Of course it is correct that investigations are conducted into police and stewarding arrangements but surely we must ask, at a very core level, what is it about our society that leaves largely white male, so-called \"fans'\" feeling entitled to engage in such appalling behaviour, both within and around the stadium and in other areas such as Leicester Square?There is clearly a deep-rooted malaise which only individual and collective responsibility and action will address.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017430903972126544,
+                    "sentence": "Unless and until we find a way to do so, far more than the chance to host the 2030 World Cup are at risk.Anne RushtonEssexLet him in\"Sir Keir refused to say whether or not he would allow Jeremy Corbyn... to sit again as a Labour MP again.\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000229453609790653,
+                    "sentence": "ThemessageSir Keir is giving is that the people who believe in social justice and peace are no longer welcome in the Labour Party.In the meantime the Conservative Party is quietly adopting Corbyn's ideas: no austerity, one nationalised authority for the railways, etc.Lucila MakinAddress suppliedNail on the headIt's not often that I find myself agreeing entirely with your polemical columnist Mary Dejevsky but on Cuba she hits the nail on the head.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015889559872448444,
+                    "sentence": "We can only hope President Joe Biden is listening.Arden TomisonBristolRead MoreBoris Johnson's 'levelling up' speech: what he said - and what he really meantIt's time the government levelled with us about Covid and the science behind 'freedom day'Let us hope support for permanent Covid-19 restrictions is just a phase",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                }
+            ],
+            "completely_generated_prob": 0.021033675306985546,
+            "class_probabilities": {
+                "human": 0.9789663246930144,
+                "ai": 0.021033675306985546,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9789663246930144,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.021033675306985546,
+                    "human": 0.9789663246930144,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukWith the recent controversy as to whether or notmasksshould be worn from the 19 July, I have made my own decision to continue to wear a mask on public transport, and in shops and crowded spaces for the rest of my life.I self-isolated and shielded for just over a year, and I am not going to throw all of that past effort out of the window.J HyattAddress suppliedIs not \"freedom day\" on 19 July really only freedom forCovid-19to freely infect now as sensible restrictions are removed?Kartar UppalSutton ColdfieldGallic smokescreenOne wonders if the move to maintain quarantine on travellers returning from France is designed to distract attention from the skyrocketing infection rates in England caused by whatKeir Starmerrefers to as the \"Johnson variant\".France has far lower infection rates than England. Embarrassing to Boris Johnson and his acolytes doubtless.John LewisAddress suppliedWembley woesA local Wembley resident states that \"All the blame has been placed on the fans, but they are not solely responsible\" ('Questions mount over FA's handling of Euro 2020 final').Of course it is correct that investigations are conducted into police and stewarding arrangements but surely we must ask, at a very core level, what is it about our society that leaves largely white male, so-called \"fans'\" feeling entitled to engage in such appalling behaviour, both within and around the stadium and in other areas such as Leicester Square?There is clearly a deep-rooted malaise which only individual and collective responsibility and action will address. Unless and until we find a way to do so, far more than the chance to host the 2030 World Cup are at risk.Anne RushtonEssexLet him in\"Sir Keir refused to say whether or not he would allow Jeremy Corbyn ... to sit again as a Labour MP again.\" ThemessageSir Keir is giving is that the people who believe in social justice and peace are no longer welcome in the Labour Party.In the meantime the Conservative Party is quietly adopting Corbyn's ideas: no austerity, one nationalised authority for the railways, etc.Lucila MakinAddress suppliedNail on the headIt's not often that I find myself agreeing entirely with your polemical columnist Mary Dejevsky but on Cuba she hits the nail on the head. We can only hope President Joe Biden is listening.Arden TomisonBristolRead MoreBoris Johnson's 'levelling up' speech: what he said - and what he really meantIt's time the government levelled with us about Covid and the science behind 'freedom day'Let us hope support for permanent Covid-19 restrictions is just a phase"
+        }
+    ]
+}

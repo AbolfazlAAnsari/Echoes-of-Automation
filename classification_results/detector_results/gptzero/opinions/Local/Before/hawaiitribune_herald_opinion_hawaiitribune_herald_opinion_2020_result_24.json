@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 4.081746010342613e-05,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°The state of marijuana research law defies common sense.The state of marijuana research law defies common sense.Although people in several states, including Washington, are free to purchase an astonishing array of cannabis products for recreational or medical use, many of the finest researchers are handcuffed in their ability to examine the good ᅳ or harm ᅳ of those same products.Federal law requires all research in federally funded laboratories to use only marijuana from a single facility ᅳ in Oxford, Miss., thousands of miles away from Washington's hundreds of marijuana retailers, just as an example.This absurd restriction needs to end.A bill now before the U.S. Senate would improve matters dramatically and deserves approval.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.19840871472843e-05,
+                    "sentence": "The Medical Marijuana Research Act, which passed the House with resounding bipartisan approval, would untie researchers' hands nationwide.Under the bill, qualified researchers in states that have legalized marijuana would be able to perform lab analysis of the cannabis available in those states.That would mean the University of Washington's laboratories could research the same products Washingtonians of legal age can already buy and consume.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.971513797296211e-05,
+                    "sentence": "Privately funded labs can study the street-legal products, but the top-flight research institutions funded by the National Institutes of Health cannot collaborate.“There's currently these two (types of) entities where you can perform research, and there's no bridge between the two,” said UW pharmacology professor Dr. Nephi Stella.For Stella and other medical-marijuana researchers, this restriction hinders their ability to learn more about potentially transformative uses for cannabis products in medicine ᅳ such as the recent discovery that cannabidiol might be a useful treatment for epilepsy.“Having one source of old-school cannabis product does not satisfy our needs for research,” he said.Although the University of Mississippi's marijuana-growing operation has worked to diversify its offerings in recent years, its selection is still limited to 11 marijuana varietals.Congress must end this federal choke point in drug research.Medical marijuana is now legal in 36 states, and 15 states allow recreational marijuana.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.7754863519221544e-05,
+                    "sentence": "Researchers in each one of them should be free to analyze the local products citizens can buy and consume for themselves.The goals aren't limited to the medical world.States have not found a consensus definition for chemical thresholds for impaired driving after marijuana consumption.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.24534906516783e-05,
+                    "sentence": "Washington voters set an arbitrary THC blood limit for drivers as part of Initiative 502 in 2012.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005476954975165427,
+                    "sentence": "California and Oregon do not have a set standard.“We don't have a good test for impairment because we can't study it,” said U.S. Rep. Earl Blumenauer, D-Ore., one of the bill's authors.Science ought to inform this national conversation better.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006492942338809371,
+                    "sentence": "The Senate should pass HR 3797 to remove the barriers to cannabis research as marijuana legalization continues to proliferate throughout the country.ᅳ The Seattle TimesRecord-setting University of Hawaii quarterback and 2007 Heisman Trophy finalist Colt Brennan has died, his father Terry Brennan told the Honolulu Star-Advertiser.The Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007760166190564632,
+                    "sentence": "The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001372836297377944,
+                    "sentence": "Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneNestled between lush community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.006608679833334143,
+            "class_probabilities": {
+                "human": 0.9933913201666659,
+                "ai": 0.006608679833334143,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933913201666659,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006608679833334143,
+                    "human": 0.9933913201666659,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°The state of marijuana research law defies common sense.The state of marijuana research law defies common sense.Although people in several states, including Washington, are free to purchase an astonishing array of cannabis products for recreational or medical use, many of the finest researchers are handcuffed in their ability to examine the good — or harm — of those same products.Federal law requires all research in federally funded laboratories to use only marijuana from a single facility — in Oxford, Miss., thousands of miles away from Washington’s hundreds of marijuana retailers, just as an example.This absurd restriction needs to end.A bill now before the U.S. Senate would improve matters dramatically and deserves approval. The Medical Marijuana Research Act, which passed the House with resounding bipartisan approval, would untie researchers’ hands nationwide.Under the bill, qualified researchers in states that have legalized marijuana would be able to perform lab analysis of the cannabis available in those states.That would mean the University of Washington’s laboratories could research the same products Washingtonians of legal age can already buy and consume. Privately funded labs can study the street-legal products, but the top-flight research institutions funded by the National Institutes of Health cannot collaborate.“There’s currently these two (types of) entities where you can perform research, and there’s no bridge between the two,” said UW pharmacology professor Dr. Nephi Stella.For Stella and other medical-marijuana researchers, this restriction hinders their ability to learn more about potentially transformative uses for cannabis products in medicine — such as the recent discovery that cannabidiol might be a useful treatment for epilepsy.“Having one source of old-school cannabis product does not satisfy our needs for research,” he said.Although the University of Mississippi’s marijuana-growing operation has worked to diversify its offerings in recent years, its selection is still limited to 11 marijuana varietals.Congress must end this federal choke point in drug research.Medical marijuana is now legal in 36 states, and 15 states allow recreational marijuana. Researchers in each one of them should be free to analyze the local products citizens can buy and consume for themselves.The goals aren’t limited to the medical world.States have not found a consensus definition for chemical thresholds for impaired driving after marijuana consumption. Washington voters set an arbitrary THC blood limit for drivers as part of Initiative 502 in 2012. California and Oregon do not have a set standard.“We don’t have a good test for impairment because we can’t study it,” said U.S. Rep. Earl Blumenauer, D-Ore., one of the bill’s authors.Science ought to inform this national conversation better. The Senate should pass HR 3797 to remove the barriers to cannabis research as marijuana legalization continues to proliferate throughout the country.— The Seattle TimesRecord-setting University of Hawaii quarterback and 2007 Heisman Trophy finalist Colt Brennan has died, his father Terry Brennan told the Honolulu Star-Advertiser.The Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today. The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph. Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneNestled between lush  community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round."
+        }
+    ]
+}

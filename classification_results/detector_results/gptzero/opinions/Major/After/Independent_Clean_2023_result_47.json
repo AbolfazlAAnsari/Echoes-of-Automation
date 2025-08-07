@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0005780570791102946,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007289747009053826,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe NHS may soon recommend that some 999 callers be sent instead to a local pharmacist.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006320070242509246,
+                    "sentence": "There are some basic flaws in this approach.Pharmacists are highly trained in a very specific skill, and are an excellent resource complimenting other clinical specialties.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00047660592827014625,
+                    "sentence": "But they cannot, and never will, take the place of doctors, and should not be put in the position of making a diagnosis without the consultation of other healthcare professionals.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00048419222002848983,
+                    "sentence": "It is just not fair to burden them with this extra responsibility that they probably haven't been trained for.Also, where areall these extra pharmacists going to come from?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00047195947263389826,
+                    "sentence": "Our local pharmacies are already stretched beyond breaking point, and regularly close their doors so they can “catch up on their backlog of prescriptions”.This is only shifting the problem to another already overstretched NHS service.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005123596056364477,
+                    "sentence": "It has the potential to be disastrous.Anna TaylorSunbury-on-ThamesWhat's the issue with Northern Ireland?I really can't see why the prime minister is having such a problem with sorting out thetrade issues in Northern Ireland.After all, we were told categorically there beno border in the Irish Sea post-Brexit; surely all he needs to do is remove it and go back to the \"technical solutions\" we were promised would miraculously appear after we left the EU?Geoff ForwardStirlingWhen it comes to the future of the UK, nothing is certainThere are a handful of near-certainties approaching within the political world that many of us were already confident of.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0029814152512699366,
+                    "sentence": "Now, thanks to a number of recent events, these certainties are no longer so certain.Firstly, the Conservative Party are going to lose the next election (even if they have no more scandals or leadership elections).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0023378636687994003,
+                    "sentence": "Next,the Labour Party are going to resurface in Scotland.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018479275749996305,
+                    "sentence": "And last but not least, the UK will re-join the EU.Of course we cannot be certain of how close to full membership we shall enjoy, nor can we be sure of when we will re-join, but I feel 10 years is a reasonable bet.Looking at the next election would it not be rather ironic if, during the years of Tory opposition, there are complaints that Labour Brexit is not working?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007974809966981411,
+                    "sentence": "Then we may just see an even bigger move towards sensible interaction with the world's largest free trade zone.Robert BostonKentWe should be more ready to challenge our assumptionsMary Dejevskygives us all a timely reminderof how our personal and national preconceptions can be erroneous and potentially dangerous.How much more peaceful a place the world would be if we all went to the mirror every morning, looked ourselves sternly in the eye, and told ourselves that whatever we believe could be wrong?I expect the pig that just flew by my window would agree.Susan AlexanderSouth GloucestershireSunak's political future depends on his ability to stand up to Brexit hardlinersAndrew Grice is right thatthe prime minister is facing his biggest test yetwhen it comes to sorting out the Northern Ireland Protocol, to facilitate a more efficacious agreement, build bridges with the EU, and just as importantly see off the hard line Eurosceptics in his party.If Sunak fails and caves in to their intractable and unreasonable demands, he will lose so much political ground that he will never recover.The country is sick and tired of these machinations from this group, because they just want to see Brexit work better if nothing else is on the table.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02442070096731186,
+                    "sentence": "The ERG finally need to wake up and smell the coffee: that the public are disillusioned by Brexit, and want at least a few gains from the hard deal they went out of their way to support (and, indeed, demand).Judith A. DanielsGreat Yarmouth",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.024461651786716186,
+            "class_probabilities": {
+                "human": 0.9754981327244504,
+                "ai": 0.024461651786716186,
+                "mixed": 4.0215488833363626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9754981327244504,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024461651786716186,
+                    "human": 0.9754981327244504,
+                    "mixed": 4.0215488833363626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThe NHS may soon recommend that some 999 callers be sent instead to a local pharmacist. There are some basic flaws in this approach.Pharmacists are highly trained in a very specific skill, and are an excellent resource complimenting other clinical specialties. But they cannot, and never will, take the place of doctors, and should not be put in the position of making a diagnosis without the consultation of other healthcare professionals. It is just not fair to burden them with this extra responsibility that they probably haven’t been trained for.Also, where areall these extra pharmacists going to come from? Our local pharmacies are already stretched beyond breaking point, and regularly close their doors so they can “catch up on their backlog of prescriptions”.This is only shifting the problem to another already overstretched NHS service. It has the potential to be disastrous.Anna TaylorSunbury-on-ThamesWhat’s the issue with Northern Ireland?I really can’t see why the prime minister is having such a problem with sorting out thetrade issues in Northern Ireland.After all, we were told categorically there beno border in the Irish Sea post-Brexit; surely all he needs to do is remove it and go back to the \"technical solutions\" we were promised would miraculously appear after we left the EU?Geoff ForwardStirlingWhen it comes to the future of the UK, nothing is certainThere are a handful of near-certainties approaching within the political world that many of us were already confident of. Now, thanks to a number of recent events, these certainties are no longer so certain.Firstly, the Conservative Party are going to lose the next election (even if they have no more scandals or leadership elections). Next,the Labour Party are going to resurface in Scotland.  And last but not least, the UK will re-join the EU.Of course we cannot be certain of how close to full membership we shall enjoy, nor can we be sure of when we will re-join, but I feel 10 years is a reasonable bet.Looking at the next election would it not be rather ironic if, during the years of Tory opposition, there are complaints that Labour Brexit is not working? Then we may just see an even bigger move towards sensible interaction with the world’s largest free trade zone.Robert BostonKentWe should be more ready to challenge our assumptionsMary Dejevskygives us all a timely reminderof how our personal and national preconceptions can be erroneous and potentially dangerous.How much more peaceful a place the world would be if we all went to the mirror every morning, looked ourselves sternly in the eye, and told ourselves that whatever we believe could be wrong?I expect the pig that just flew by my window would agree.Susan AlexanderSouth GloucestershireSunak’s political future depends on his ability to stand up to Brexit hardlinersAndrew Grice is right thatthe prime minister is facing his biggest test yetwhen it comes to sorting out the Northern Ireland Protocol, to facilitate a more efficacious agreement, build bridges with the EU, and just as importantly see off the hard line Eurosceptics in his party.If Sunak fails and caves in to their intractable and unreasonable demands, he will lose so much political ground that he will never recover.The country is sick and tired of these machinations from this group, because they just want to see Brexit work better if nothing else is on the table. The ERG finally need to wake up and smell the coffee: that the public are disillusioned by Brexit, and want at least a few gains from the hard deal they went out of their way to support (and, indeed, demand).Judith A. DanielsGreat Yarmouth"
+        }
+    ]
+}

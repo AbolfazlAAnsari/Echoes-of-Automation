@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.003518659621477127,
+                    "sentence": "Published 5:11 pm Tuesday, August 29, 2023BySuffolk News-Herald Editorial BoardTeachers and students from Suffolk Public Schools may very well be glancing at their calendars with a mixture of joy and dread over the figurative Big Red Circle on the calendar that marks Sept. 5, the end of a summer vacation that will seem all too short for some and far too long for others.Ready or not, though, all of Suffolk's students will be back in their classes by this time next week.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0033446475863456726,
+                    "sentence": "Having enjoyed one last long holiday weekend with family and friends, those who head to school Tuesday morning can be divided into two groups ᅳ those who will take advantage of the opportunity they have in America for a first-rate, free education and those who ignore the gift placed before them and choose to live only up to society's low expectations.For those who grab onto the opportunity and pursue the goal of the true American Dream ᅳ a better life than that of those who have gone before them ᅳ the path will be full of twists and turns, ruts and potholes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00360341789200902,
+                    "sentence": "It's not easy, after all, to achieve a dream.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007091410458087921,
+                    "sentence": "And nothing easily achieved will be long remembered or valued, anyway.For those who choose the path of simply sliding by in school, things will be much easier for the time being.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006571683567017317,
+                    "sentence": "But the harvest they reap will likely be meager, in proportion to what they sowed during those seemingly carefree days.It's especially hard for teenagers to see the reward of the work they do in high school.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6667919754981995,
+                    "sentence": "Good teachers and involved parents help them see the benefits every day and frequently encourage them and praise them for their hard work.Here are a few of our favorite quotes that students, parents and teachers might find inspirational as they embark on a new year of learning:We pray that all of Suffolk's students will find good teachers and involved parents or other adults who help them learn to make the most of this school year.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3576826751232147,
+                    "sentence": "Good luck to all.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3249298930168152,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3981928825378418,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.2277857476748497,
+            "class_probabilities": {
+                "human": 0.7716823288576541,
+                "ai": 0.2277857476748497,
+                "mixed": 0.0005319234674962524
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.7716823288576541,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.2277857476748497,
+                    "human": 0.7716823288576541,
+                    "mixed": 0.0005319234674962524
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:11 pm Tuesday, August 29, 2023BySuffolk News-Herald Editorial BoardTeachers and students from Suffolk Public Schools may very well be glancing at their calendars with a mixture of joy and dread over the figurative Big Red Circle on the calendar that marks Sept. 5, the end of a summer vacation that will seem all too short for some and far too long for others.Ready or not, though, all of Suffolk’s students will be back in their classes by this time next week. Having enjoyed one last long holiday weekend with family and friends, those who head to school Tuesday morning can be divided into two groups — those who will take advantage of the opportunity they have in America for a first-rate, free education and those who ignore the gift placed before them and choose to live only up to society’s low expectations.For those who grab onto the opportunity and pursue the goal of the true American Dream — a better life than that of those who have gone before them — the path will be full of twists and turns, ruts and potholes. It’s not easy, after all, to achieve a dream. And nothing easily achieved will be long remembered or valued, anyway.For those who choose the path of simply sliding by in school, things will be much easier for the time being. But the harvest they reap will likely be meager, in proportion to what they sowed during those seemingly carefree days.It’s especially hard for teenagers to see the reward of the work they do in high school. Good teachers and involved parents help them see the benefits every day and frequently encourage them and praise them for their hard work.Here are a few of our favorite quotes that students, parents and teachers might find inspirational as they embark on a new year of learning:We pray that all of Suffolk’s students will find good teachers and involved parents or other adults who help them learn to make the most of this school year. Good luck to all.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

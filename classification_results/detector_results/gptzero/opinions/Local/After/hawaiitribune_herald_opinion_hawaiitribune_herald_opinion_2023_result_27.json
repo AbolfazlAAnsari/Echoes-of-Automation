@@ -1,0 +1,88 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0002936584933195263,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°Federal pigs areway out of controlFederal pigs areway out of controlEveryone knows we have a huge, out-of-control pig problem here.Their destructive ways are ripping this place apart, and most people I talk to agree that it's never been this bad.Although solutions are hard to come up with, it doesn't help things when people leave bowls of food outside their doors for the pigs and invite them to drink out of their ponds.We have a steady procession of many, many pigs that cross our road from the forest over to the “food court,” and it's a real drag.To obliterate the line between wild and domesticated animals, as has happened where I live, screams two things to me.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002534834493417293,
+                    "sentence": "(1) It displays a staggering lack of common sense, and (2), it shows a huge disregard for the community.Please care for your community, and don't feed the pigs.Mary Lee KnapstadVolcanoAmerica againstthe global majorityIn this 21st century, the enduring narrative of the United States is that it is leading the “democratic” faction ᅳ mainly the G7 and a few of their dependent cronies against the threatening tide of authoritarian states intent on overrunning the civilized world.However, the truth ᅳ especially since the Ukraine war that began in 2022 and now the horrific Israel-Hamas war ᅳ has shown it is the U.S. that refuses to accept the will of the global majority.In both cases, the world ᅳ overwhelmingly ᅳ is demanding a ceasefire and to start serious peace negotiations based on respect of legitimate security concerns on all sides.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.134801464620978e-05,
+                    "sentence": "Uncle Sam, however, insists on sending billions of dollars of lethal arms to his allies, objectively extending and even escalating the tragically inhumane violence.In the latest United Nations maneuvering, the U.S. vetoed a Brazilian-sponsored Security Council resolution (on a lone dissenting vote, versus 12 nations voting in favor) calling for a ceasefire in Gaza, to be followed by fair negotiations for a legitimate two-state solution between Israel and Palestine.Then, in the General Assembly, the U.S. side again voted with 13 others against a call for a ceasefire, versus a huge majority of 120 member states.So, who is really on the “democratic” side of global affairs and governance?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013696633686777204,
+                    "sentence": "I think it's pretty clear to billions of world citizens the “authoritarian” side gets its marching orders from Washington.Danny H.C. LiKeaau",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 4,
+                    "completely_generated_prob": 0.0006564766595293492
+                }
+            ],
+            "completely_generated_prob": 0.0051780533755591265,
+            "class_probabilities": {
+                "human": 0.9948219466244408,
+                "ai": 0.0051780533755591265,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9948219466244408,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0051780533755591265,
+                    "human": 0.9948219466244408,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°Federal pigs areway out of controlFederal pigs areway out of controlEveryone knows we have a huge, out-of-control pig problem here.Their destructive ways are ripping this place apart, and most people I talk to agree that it’s never been this bad.Although solutions are hard to come up with, it doesn’t help things when people leave bowls of food outside their doors for the pigs and invite them to drink out of their ponds.We have a steady procession of many, many pigs that cross our road from the forest over to the “food court,” and it’s a real drag.To obliterate the line between wild and domesticated animals, as has happened where I live, screams two things to me. (1) It displays a staggering lack of common sense, and (2), it shows a huge disregard for the community.Please care for your community, and don’t feed the pigs.Mary Lee KnapstadVolcanoAmerica againstthe global majorityIn this 21st century, the enduring narrative of the United States is that it is leading the “democratic” faction — mainly the G7 and a few of their dependent cronies against the threatening tide of authoritarian states intent on overrunning the civilized world.However, the truth — especially since the Ukraine war that began in 2022 and now the horrific Israel-Hamas war — has shown it is the U.S. that refuses to accept the will of the global majority.In both cases, the world — overwhelmingly — is demanding a ceasefire and to start serious peace negotiations based on respect of legitimate security concerns on all sides. Uncle Sam, however, insists on sending billions of dollars of lethal arms to his allies, objectively extending and even escalating the tragically inhumane violence.In the latest United Nations maneuvering, the U.S. vetoed a Brazilian-sponsored Security Council resolution (on a lone dissenting vote, versus 12 nations voting in favor) calling for a ceasefire in Gaza, to be followed by fair negotiations for a legitimate two-state solution between Israel and Palestine.Then, in the General Assembly, the U.S. side again voted with 13 others against a call for a ceasefire, versus a huge majority of 120 member states.So, who is really on the “democratic” side of global affairs and governance? I think it’s pretty clear to billions of world citizens the “authoritarian” side gets its marching orders from Washington.Danny H.C. LiKeaau"
+        }
+    ]
+}

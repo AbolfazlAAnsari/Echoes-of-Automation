@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.08349434286355972,
+                    "sentence": "Published 5:58 pm Friday, March 31, 2023BySuffolk News-Herald Editorial BoardIt's one thing to pay high taxes, a topic fresh on the minds of Virginians after having recently paid their property taxes and with state and federal income tax returns due this month.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.11910054087638855,
+                    "sentence": "The more important question is what we get in return.According to at least one group's analysis, Virginians get good bang for their buck.WalletHub, which advises consumers on their credit scores, says Virginia, which ranks among the top half of states in total tax burden, has the seventh best taxpayer ROI nationally.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3145213723182678,
+                    "sentence": "ROI, for those unfamiliar with business lingo, stands for return on investment.Some 73% of American taxpayers think the government doesn't use their taxes wisely, so WalletHub's analysis is useful.The company used 29 metrics to compare the quality and efficiency of state-government services across five categories - education, health, safety, economy, and infrastructure and pollution - taking into account the drastically different rates at which citizens are taxed by their locality and state.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.2684505879878998,
+                    "sentence": "Virginia ranks fourth in education, 20th in health, eighth in safety, second in economy and eighth in infrastructure and pollution.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09763984382152557,
+                    "sentence": "And, impressively, No.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.27008888125419617,
+                    "sentence": "1 in the nation in overall quality of governmental services.If you wish your government services were better, just be thankful you don't live in North Carolina (32nd) or West Virginia (46th), to name a couple of neighboring states.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.15970458090305328,
+                    "sentence": "California, whose residents have the country's highest tax burden, ranks dead last in taxpayer ROI and 35th in quality of government services.We're especially proud of Virginia's education ranking, which is based on factors such as quality of the public university system, quality of K-12 schools, high school graduation rate, availability and affordability of community colleges and prekindergarten funding.The commonwealth should aspire to improve its health ranking, which is based on availability of hospital beds, average life expectancy at birth, infant mortality rate and average health insurance premium, among other factors.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.18566063046455383,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.13631141185760498,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.07286165202115429,
+            "class_probabilities": {
+                "human": 0.9268225467824988,
+                "ai": 0.07286165202115429,
+                "mixed": 0.0003158011963468892
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9268225467824988,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.07286165202115429,
+                    "human": 0.9268225467824988,
+                    "mixed": 0.0003158011963468892
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:58 pm Friday, March 31, 2023BySuffolk News-Herald Editorial BoardIt’s one thing to pay high taxes, a topic fresh on the minds of Virginians after having recently paid their property taxes and with state and federal income tax returns due this month. The more important question is what we get in return.According to at least one group’s analysis, Virginians get good bang for their buck.WalletHub, which advises consumers on their credit scores, says Virginia, which ranks among the top half of states in total tax burden, has the seventh best taxpayer ROI nationally. ROI, for those unfamiliar with business lingo, stands for return on investment.Some 73% of American taxpayers think the government doesn’t use their taxes wisely, so WalletHub’s analysis is useful.The company used 29 metrics to compare the quality and efficiency of state-government services across five categories – education, health, safety, economy, and infrastructure and pollution – taking into account the drastically different rates at which citizens are taxed by their locality and state. Virginia ranks fourth in education, 20th in health, eighth in safety, second in economy and eighth in infrastructure and pollution. And, impressively, No. 1 in the nation in overall quality of governmental services.If you wish your government services were better, just be thankful you don’t live in North Carolina (32nd) or West Virginia (46th), to name a couple of neighboring states. California, whose residents have the country’s highest tax burden, ranks dead last in taxpayer ROI and 35th in quality of government services.We’re especially proud of Virginia’s education ranking, which is based on factors such as quality of the public university system, quality of K-12 schools, high school graduation rate, availability and affordability of community colleges and prekindergarten funding.The commonwealth should aspire to improve its health ranking, which is based on availability of hospital beds, average life expectancy at birth, infant mortality rate and average health insurance premium, among other factors.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

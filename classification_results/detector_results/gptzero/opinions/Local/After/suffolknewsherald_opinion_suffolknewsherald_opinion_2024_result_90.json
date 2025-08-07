@@ -1,0 +1,165 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.9998884201049805,
+                    "sentence": "Published 5:14 pm Tuesday, January 23, 2024ByStaff ReportsDrew VarnerIn an unprecedented move, the Texas State Guard, bolstered by roughly 10,000 troops, along with roughly 1,000 from the Florida State Guard, has assumed control of a vital point along the Texas border at Shelby Park.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9994625449180603,
+                    "sentence": "This operation, commencing on Jan. 10, signifies a major escalation in the ongoing dispute between state and federal authorities regarding immigration policies and border control.Shelby Park in Eagle Pass, Texas, a known hotspot for migrant crossings, has emerged as the epicenter of this intensifying conflict.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9995468258857727,
+                    "sentence": "The intervention by the Texas and Florida state guards has effectively barred Border Patrol access to this area, starkly opposing the objectives of the Department of Homeland Security (DHS) and the federal government.Remarkably, the National Guard's deployment seems to have drastically impacted migrant crossings.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9992061257362366,
+                    "sentence": "Reports suggest a plummet from around 13,000 daily crossings to merely a handful, highlighting the complex nature of border security and immigration enforcement.The recent alteration of the Title 42 border policy, initially a public health order during the COVID-19 pandemic enabling rapid migrant removal and blockade, is a key factor behind Texas's stance.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9996082782745361,
+                    "sentence": "The policy's termination has shifted from a 'catch and release' approach back into allowing migrants to seek asylum in the heartland of the United States.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9993810653686523,
+                    "sentence": "This change, reportedly accompanied by Border Patrol agents aiding in asylum efforts, marks a significant deviation from earlier practices and has heightened concerns among Texas officials and residents about potential increases in illegal border crossings and associated criminal activities, particularly those involving cartels.The White House has issued a stark warning in response, indicating, with the support of the Supreme Court, to allow board patrol to remove barbed fencing.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9988768100738525,
+                    "sentence": "This pronouncement suggests a possible rapid escalation in the conflict between the federal government and the state of Texas.This confrontation transcends mere border security concerns, reflecting deeper, long-standing issues between federal and state authorities over immigration policies and national security.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.998853325843811,
+                    "sentence": "The tension underlines the contentious nature of these issues across multiple administrations.Observers express concern that without a prompt and diplomatic resolution, this standoff could mark a critical turning point in federal-state relations, especially concerning immigration and border security, increasingly regarded as national security crises.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.8430553078651428,
+                    "sentence": "Even to the extent that independent journalist are reporting on migrants crossing who are eluding that the American people “will soon know who we are”, and presumed to threaten the journalist.The revised policy, moving from expulsion to asylum assistance, has been a significant shift, provoking Texas to take a proactive role in border security, leading to the current impasse with federal authorities.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.7204416990280151,
+                    "sentence": "The situation at the Texas border remains tense, with potentially far-reaching consequences for immigration policy and federal-state relations in the United States.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.02896275371313095,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.021395443007349968,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 0.4555036304721739
+                }
+            ],
+            "completely_generated_prob": 0.8234924743860008,
+            "class_probabilities": {
+                "human": 0.13827394644607763,
+                "ai": 0.8234924743860008,
+                "mixed": 0.03823357916792146
+            },
+            "average_generated_prob": 1,
+            "predicted_class": "ai",
+            "confidence_score": 0.8234924743860008,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.8234924743860008,
+                    "human": 0.13827394644607763,
+                    "mixed": 0.03823357916792146
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {
+                    "predicted_class": "pure_ai",
+                    "result_message": "",
+                    "confidence_score": 0.9999999998,
+                    "confidence_category": "high",
+                    "class_probabilities": {
+                        "pure_ai": 0.9999999999,
+                        "ai_paraphrased": 9.999999997e-11
+                    },
+                    "confidence_scores_raw": {
+                        "identity": {
+                            "pure_ai": 0.9999999998,
+                            "ai_paraphrased": 9.999999997e-11
+                        }
+                    },
+                    "confidence_thresholds_raw": {
+                        "identity": {
+                            "pure_ai": {
+                                "reject": 0.65,
+                                "low": 0.75,
+                                "medium": 0.92
+                            },
+                            "ai_paraphrased": {
+                                "reject": 0.85,
+                                "low": 0.9,
+                                "medium": 0.95
+                            }
+                        }
+                    }
+                },
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written by AI.",
+            "document_classification": "AI_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:14 pm Tuesday, January 23, 2024ByStaff ReportsDrew VarnerIn an unprecedented move, the Texas State Guard, bolstered by roughly 10,000 troops, along with roughly 1,000 from the Florida State Guard, has assumed control of a vital point along the Texas border at Shelby Park. This operation, commencing on Jan. 10, signifies a major escalation in the ongoing dispute between state and federal authorities regarding immigration policies and border control.Shelby Park in Eagle Pass, Texas, a known hotspot for migrant crossings, has emerged as the epicenter of this intensifying conflict. The intervention by the Texas and Florida state guards has effectively barred Border Patrol access to this area, starkly opposing the objectives of the Department of Homeland Security (DHS) and the federal government.Remarkably, the National Guard’s deployment seems to have drastically impacted migrant crossings. Reports suggest a plummet from around 13,000 daily crossings to merely a handful, highlighting the complex nature of border security and immigration enforcement.The recent alteration of the Title 42 border policy, initially a public health order during the COVID-19 pandemic enabling rapid migrant removal and blockade, is a key factor behind Texas’s stance. The policy’s termination has shifted from a ‘catch and release’ approach back into allowing migrants to seek asylum in the heartland of the United States. This change, reportedly accompanied by Border Patrol agents aiding in asylum efforts, marks a significant deviation from earlier practices and has heightened concerns among Texas officials and residents about potential increases in illegal border crossings and associated criminal activities, particularly those involving cartels.The White House has issued a stark warning in response, indicating, with the support of the Supreme Court, to allow board patrol to remove barbed fencing. This pronouncement suggests a possible rapid escalation in the conflict between the federal government and the state of Texas.This confrontation transcends mere border security concerns, reflecting deeper, long-standing issues between federal and state authorities over immigration policies and national security. The tension underlines the contentious nature of these issues across multiple administrations.Observers express concern that without a prompt and diplomatic resolution, this standoff could mark a critical turning point in federal-state relations, especially concerning immigration and border security, increasingly regarded as national security crises. Even to the extent that independent journalist are reporting on migrants crossing who are eluding that the American people “will soon know who we are”, and presumed to threaten the journalist.The revised policy, moving from expulsion to asylum assistance, has been a significant shift, provoking Texas to take a proactive role in border security, leading to the current impasse with federal authorities. The situation at the Texas border remains tense, with potentially far-reaching consequences for immigration policy and federal-state relations in the United States.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

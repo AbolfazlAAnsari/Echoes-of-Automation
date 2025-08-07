@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0006480321753770113,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008294639410451055,
+                    "sentence": "Please send your letters toletters@independent.co.ukAn excellent articleby Hannah Fearnon the demoralising problem of fuel poverty.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008712726412340999,
+                    "sentence": "Government intervention in the form of loans to help withenergy billsor a cash payment, which could be spent on anything, fails to tackle the problem.Why are we not providing, directly to each meter, a small amount of energy for free?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001105806790292263,
+                    "sentence": "Just enough to stay alive and have some hot food.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008547440520487726,
+                    "sentence": "This is easy to program into all energy contracts, and is a form of aid that can only accomplish its one desired aim.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006891441298648715,
+                    "sentence": "It cannot be sold for drugs or alcohol.This does not solve the increasing international price of energy, but it does what any decent government should be doing, and shifts the burden from the individual to the state, where it can be tackled centrally and efficiently.The obvious ways are a tax on the huge profits made by energy producers (why are the Tories not adopting such a simple policy?)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007124819094315171,
+                    "sentence": "and a tax on high energy consumers.Robert MurrayNottinghamHealth and social careOur secretary of state for health and social care,Sajid Javid, has denied there is a permanent crisis in health and social care staffing.I have been delivering social care for 32 years and he has been secretary of state for 10 months.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009262488456442952,
+                    "sentence": "There has been a shortage of staff in social care for all of those 32 years, but it is the worst it has ever been right now.If he doesn't believe me then I will invite him, as I have done on many occasions, to visit a social care provider here in North Yorkshire and to see for himself the daily battle to get enough staff to cover shifts either in care and nursing homes, or to go out and provide homecare.Mike PadghamChair, Independent Care GroupWimbledon banWhile appreciating the very complex issues behind the Wimbledon ban on Russian players, the fear raised that President Putin could exploit the occasion if the Duchess of Cambridge ended up presenting the trophy to Daniil Medvedev could be avoided by adopting a method already mooted for the French Open.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018050131620839238,
+                    "sentence": "If any Russian or Belarusian wins the tournament, a Ukrainian refugee will be asked to present the prize.Such a move would surely ensure that the Russian people got the message without threatening the integrity of the sport.Colin BurkeCumbriaRemember when the All England Lawn Tennis and Croquet Club banned all British and US players from Wimbledon when their governments invaded Iraq in 2003?No, neither do I.Sasha SimicLondonTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereJacob Rees-MoggReading Jacob Rees-Mogg's insistence that he will not follow the EU's lead in vehicle safety features reminds me of my grandfather who said, at the age of 80, he would not go to hospital because \"you only go to hospitals to die at my age\".Mr Rees-Mogg lives in his own little rosy world, apparently not bothered by common sense.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008263628114946187,
+                    "sentence": "It is very unnerving to think he has any sway on the lives of British people.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013849898241460323,
+                    "sentence": "What is needed is futurist thinking, decisive policies and determination to benefit the British way of life.Mr Rees-Mogg represents failed government and it doesn't matter how many times failed government thinking is put forward as a way forward - it is still not feasible.Bring on a new regime.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0034493242856115103,
+                    "sentence": "Let the new order produce a sea-change in our economy, foreign policies, social services and so on, which will expand Britain's horizons and give our children hope for their future.Keith PooleBasingstoke",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.01728879156693996,
+            "class_probabilities": {
+                "human": 0.98271120843306,
+                "ai": 0.01728879156693996,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.98271120843306,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01728879156693996,
+                    "human": 0.98271120843306,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukAn excellent articleby Hannah Fearnon the demoralising problem of fuel poverty. Government intervention in the form of loans to help withenergy billsor a cash payment, which could be spent on anything, fails to tackle the problem.Why are we not providing, directly to each meter, a small amount of energy for free? Just enough to stay alive and have some hot food. This is easy to program into all energy contracts, and is a form of aid that can only accomplish its one desired aim. It cannot be sold for drugs or alcohol.This does not solve the increasing international price of energy, but it does what any decent government should be doing, and shifts the burden from the individual to the state, where it can be tackled centrally and efficiently.The obvious ways are a tax on the huge profits made by energy producers (why are the Tories not adopting such a simple policy?) and a tax on high energy consumers.Robert MurrayNottinghamHealth and social careOur secretary of state for health and social care,Sajid Javid, has denied there is a permanent crisis in health and social care staffing.I have been delivering social care for 32 years and he has been secretary of state for 10 months. There has been a shortage of staff in social care for all of those 32 years, but it is the worst it has ever been right now.If he doesn't believe me then I will invite him, as I have done on many occasions, to visit a social care provider here in North Yorkshire and to see for himself the daily battle to get enough staff to cover shifts either in care and nursing homes, or to go out and provide homecare.Mike PadghamChair, Independent Care GroupWimbledon banWhile appreciating the very complex issues behind the Wimbledon ban on Russian players, the fear raised that President Putin could exploit the occasion if the Duchess of Cambridge ended up presenting the trophy to Daniil Medvedev could be avoided by adopting a method already mooted for the French Open. If any Russian or Belarusian wins the tournament, a Ukrainian refugee will be asked to present the prize.Such a move would surely ensure that the Russian people got the message without threatening the integrity of the sport.Colin BurkeCumbriaRemember when the All England Lawn Tennis and Croquet Club banned all British and US players from Wimbledon when their governments invaded Iraq in 2003?No, neither do I.Sasha SimicLondonTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereJacob Rees-MoggReading Jacob Rees-Mogg's insistence that he will not follow the EU's lead in vehicle safety features reminds me of my grandfather who said, at the age of 80, he would not go to hospital because \"you only go to hospitals to die at my age\".Mr Rees-Mogg lives in his own little rosy world, apparently not bothered by common sense. It is very unnerving to think he has any sway on the lives of British people. What is needed is futurist thinking, decisive policies and determination to benefit the British way of life.Mr Rees-Mogg represents failed government and it doesn't matter how many times failed government thinking is put forward as a way forward - it is still not feasible.Bring on a new regime. Let the new order produce a sea-change in our economy, foreign policies, social services and so on, which will expand Britain's horizons and give our children hope for their future.Keith PooleBasingstoke"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0005205435445532203,
+                    "sentence": "Published 5:21 pm Friday, May 5, 2023BySuffolk News-Herald Editorial BoardIn recent months, the Virginia Reliability Project has drawn criticism and concerns from groups opposed to Columbia Gas Transmission's proposed natural gas line that will run through the region.A 48-mile expansion project proposed by Columbia Gas Transmission LLC, a subsidiary of Canada-based TC Energy unaffiliated with Columbia Gas of Virginia, VRP is proposed to bring a new gas pipeline routed through the Hampton Roads and Southeast areas of Virginia, including the cities of Suffolk and Chesapeake, as well as Isle of Wight and Southampton counties.The VRP website says it is “an expansion and reliability project that would replace two existing segments of the TCO pipeline system to continue reliable and abundant natural gas supply.”Opponents raise concerns about the project's environmental effects, its proximity to homes and schools in Suffolk and other communities and the hazards it could pose.One of the key points that catches our attention is Chesapeake Climate Action Network Hampton Roads organizer Charles Brown II's findings that many in Suffolk know little or nothing aboutVRP.“We've been doing a lot of outreach in the Hillpoint community of Suffolk,” he said.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00024563068291172385,
+                    "sentence": "“As we're knocking on doors to inform residents of the project, what we're seeing time and time again is that a lot of them, don't even know still, that it's even being proposed.”We agree with his assertion that everyone in areas where the transmission line is proposed to go should both be aware of the project and have a chance to review all the facts and do their own research.The Federal Energy Regulatory Commission's Wednesday, April 26 public hearing on the project's Draft Environmental Impact Statement did allow people a chance to comment.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004002905043307692,
+                    "sentence": "But how can local residents do this if they don't even know about the VRP plan.With FERC's public comment period continuing through June 5, we believe there is a need for the Columbia Gas of Virginia to provide more information to Suffolk residents.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005948689067736268,
+                    "sentence": "A company-hosted forum on VRP would be a great start.The VRP website, tcenergy.com/operations/natural-gas/virginia-reliability-project, has the details and the benefits the company says the new line will bring to the region.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003201120416633785,
+                    "sentence": "But it would be great to provide residents the opportunity to ask questions and have their concerns addressed.The website includes data sheets on each community.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00048586068442091346,
+                    "sentence": "Suffolk's page says VRP would provide about 854 new jobs, $49.8 million in associated labor income, $133.2 million in economic output, $1.8 million in one-time local tax revenue from construction and $1.1 million in ongoing annual net new local tax revenuefrom property tax.Opponents believe an informed public will reach conclusions similar to theirs.“We feel like just getting the information, they'll understand that this is a dangerous project that can affect communities, students, schools, the Great Dismal Swamp, the veteran's cemetery in Suffolk, Nansemond tribe,” Brown said.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003141548950225115,
+                    "sentence": "“And we don't want it to happen.”While a public forum or a mailing is a good idea, it's likely the public will have to do its own research.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004937610356137156,
+                    "sentence": "We urge residents to at least go online and learn more.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.29572203755378723,
+                    "sentence": "Then you can have the chance to share your views with the FERC (www.ferc.gov) before the comment period ends.In the end, when a decision is made on the VRP proposal, it is best that all residents have a chance to voice their opinion with complete knowledge about the project in hand.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.4247608184814453,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.2206096351146698,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.11121459473988642,
+            "class_probabilities": {
+                "human": 0.8887328140676323,
+                "ai": 0.11121459473988642,
+                "mixed": 5.2591192481149283e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8887328140676323,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.11121459473988642,
+                    "human": 0.8887328140676323,
+                    "mixed": 5.2591192481149283e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:21 pm Friday, May 5, 2023BySuffolk News-Herald Editorial BoardIn recent months, the Virginia Reliability Project has drawn criticism and concerns from groups opposed to Columbia Gas Transmission’s proposed natural gas line that will run through the region.A 48-mile expansion project proposed by Columbia Gas Transmission LLC, a subsidiary of Canada-based TC Energy unaffiliated with Columbia Gas of Virginia, VRP is proposed to bring a new gas pipeline routed through the Hampton Roads and Southeast areas of Virginia, including the cities of Suffolk and Chesapeake, as well as Isle of Wight and Southampton counties.The VRP website says it is “an expansion and reliability project that would replace two existing segments of the TCO pipeline system to continue reliable and abundant natural gas supply.”Opponents raise concerns about the project’s environmental effects, its proximity to homes and schools in Suffolk and other communities and the hazards it could pose.One of the key points that catches our attention is Chesapeake Climate Action Network Hampton Roads organizer Charles Brown II’s findings that many in Suffolk know little or nothing aboutVRP.“We’ve been doing a lot of outreach in the Hillpoint community of Suffolk,” he said. “As we’re knocking on doors to inform residents of the project, what we’re seeing time and time again is that a lot of them, don’t even know still, that it’s even being proposed.”We agree with his assertion that everyone in areas where the transmission line is proposed to go should both be aware of the project and have a chance to review all the facts and do their own research.The Federal Energy Regulatory Commission’s Wednesday, April 26 public hearing on the project’s Draft Environmental Impact Statement did allow people a chance to comment. But how can local residents do this if they don’t even know about the VRP plan.With FERC’s public comment period continuing through June 5, we believe there is a need for the Columbia Gas of Virginia to provide more information to Suffolk residents. A company-hosted forum on VRP would be a great start.The VRP website, tcenergy.com/operations/natural-gas/virginia-reliability-project, has the details and the benefits the company says the new line will bring to the region. But it would be great to provide residents the opportunity to ask questions and have their concerns addressed.The website includes data sheets on each community. Suffolk’s page says VRP would provide about 854 new jobs, $49.8 million in associated labor income, $133.2 million in economic output, $1.8 million in one-time local tax revenue from construction and $1.1 million in ongoing annual net new local tax revenuefrom property tax.Opponents believe an informed public will reach conclusions similar to theirs.“We feel like just getting the information, they’ll understand that this is a dangerous project that can affect communities, students, schools, the Great Dismal Swamp, the veteran’s cemetery in Suffolk, Nansemond tribe,” Brown said. “And we don’t want it to happen.”While a public forum or a mailing is a good idea, it’s likely the public will have to do its own research. We urge residents to at least go online and learn more. Then you can have the chance to share your views with the FERC (www.ferc.gov) before the comment period ends.In the end, when a decision is made on the VRP proposal, it is best that all residents have a chance to voice their opinion with complete knowledge about the project in hand.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

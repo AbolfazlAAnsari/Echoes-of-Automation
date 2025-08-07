@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 2.7535346816875972e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.337573798489757e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukWith the Bill she brings to parliament this week, home secretarySuella Bravermanwishes tocurb the rights of environmental protestersto disrupt public access and daily activities by glueing themselves to roads, among other tactics.She should reflect on the undeniable benefits that such protests, not infrequently violent, have brought to society - one of which is embodied in her own exalted position.Without the often disruptive activities of the Suffragettes, it is certain that women of the UK would have waited longer to get universal suffrage, and Margaret Bondfield is unlikely to have become the first woman to enter government.Professor Ian ReidKilnwickA career in comedyWhen Suella Braverman has to look for a new job, she should consider a career in comedy.After this past month, who is “holding Britain to ransom”, exactly?Sure, protesters glueing themselves to tarmac is annoyingif you're trying to get to work.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.917983748484403e-05,
+                    "sentence": "But the fear of losing your pensions, your savings or your home because of mortgage rate hikes, or being forced to choose between heating and eating is beyond annoying.Andthe plan to give billions of our hard earned pounds to the richto boot feels a lot like being held to ransom.Ian HendersonNorwichSharing prescription drugsI read that the health secretary,Thérèse Coffey, has admitted sharing antibiotics with people for whom they were not prescribed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.773980592493899e-05,
+                    "sentence": "I also read that this is illegal.I trust the police will soon be knocking on her door - they are very prompt at pursuing eco warriors of demonstrators, so I assume they'll be quick off the mark.We seem to have a home secretary who is keen on clamping down on what she sees as wrong-doing, so I imagine the Met will have her support.Dr Anthony IngletonSheffieldNo running, just hittingThe more the shambolic premiership of Liz Truss unravels, the more apparent it becomes that there was no slip of the tongue when she announced thatshe would \"hit the ground\"on day one.Ian McBainLoughtonTruss the gamblerIn your Letters page, Gordon Ronald asks whether Truss has any political acumen.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.99694979225751e-05,
+                    "sentence": "He suggests she does not, but I am not so sure.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6526533365249634,
+                    "sentence": "She is like a punter who wants to win and will choose whichever horse she thinks will do so, without any compunction about changing her mind.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereShe backed the Liberal Democrats and changed to the Tories.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.7820082902908325,
+                    "sentence": "She backed Remain andchanged to supporting Brexit.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.7819404006004333,
+                    "sentence": "She backed Kwasi Kwartang and changed to Jeremy Hunt.Each time, she wanted to be on the winning side and was not inhibited by any thought through ideology.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6754796504974365,
+                    "sentence": "For he,r ideology is a means to an end rather than an end in itself.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5863178372383118,
+                    "sentence": "It is all about what is best for her, so I would not look for any joined up thinking about what is best for the country.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6376541256904602,
+                    "sentence": "Whether she stays in office does not depend upon her understanding anything but on whether she picks winners to be government ministers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.7123265862464905,
+                    "sentence": "Her problem, therefore, is not her ignorance, but the dearth of good candidates.Picking Jeremy Huntdoes show political acumen.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5932863354682922,
+                    "sentence": "It gives her a second chance and the time to replace other ministers who are not helping her stay in office.Jon HawksleyLondon",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.12767420652125164,
+            "class_probabilities": {
+                "human": 0.8723257934787484,
+                "ai": 0.12767420652125164,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8723257934787484,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.12767420652125164,
+                    "human": 0.8723257934787484,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukWith the Bill she brings to parliament this week, home secretarySuella Bravermanwishes tocurb the rights of environmental protestersto disrupt public access and daily activities by glueing themselves to roads, among other tactics.She should reflect on the undeniable benefits that such protests, not infrequently violent, have brought to society – one of which is embodied in her own exalted position.Without the often disruptive activities of the Suffragettes, it is certain that women of the UK would have waited longer to get universal suffrage, and Margaret Bondfield is unlikely to have become the first woman to enter government.Professor Ian ReidKilnwickA career in comedyWhen Suella Braverman has to look for a new job, she should consider a career in comedy.After this past month, who is “holding Britain to ransom”, exactly?Sure, protesters glueing themselves to tarmac is annoyingif you’re trying to get to work. But the fear of losing your pensions, your savings or your home because of mortgage rate hikes, or being forced to choose between heating and eating is beyond annoying.Andthe plan to give billions of our hard earned pounds to the richto boot feels a lot like being held to ransom.Ian HendersonNorwichSharing prescription drugsI read that the health secretary,Thérèse Coffey, has admitted sharing antibiotics with people for whom they were not prescribed. I also read that this is illegal.I trust the police will soon be knocking on her door – they are very prompt at pursuing eco warriors of demonstrators, so I assume they’ll be quick off the mark.We seem to have a home secretary who is keen on clamping down on what she sees as wrong-doing, so I imagine the Met will have her support.Dr Anthony IngletonSheffieldNo running, just hittingThe more the shambolic premiership of Liz Truss unravels, the more apparent it becomes that there was no slip of the tongue when she announced thatshe would \"hit the ground\"on day one.Ian McBainLoughtonTruss the gamblerIn your Letters page, Gordon Ronald asks whether Truss has any political acumen. He suggests she does not, but I am not so sure. She is like a punter who wants to win and will choose whichever horse she thinks will do so, without any compunction about changing her mind.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereShe backed the Liberal Democrats and changed to the Tories. She backed Remain andchanged to supporting Brexit.  She backed Kwasi Kwartang and changed to Jeremy Hunt.Each time, she wanted to be on the winning side and was not inhibited by any thought through ideology. For he,r ideology is a means to an end rather than an end in itself. It is all about what is best for her, so I would not look for any joined up thinking about what is best for the country. Whether she stays in office does not depend upon her understanding anything but on whether she picks winners to be government ministers. Her problem, therefore, is not her ignorance, but the dearth of good candidates.Picking Jeremy Huntdoes show political acumen. It gives her a second chance and the time to replace other ministers who are not helping her stay in office.Jon HawksleyLondon"
+        }
+    ]
+}

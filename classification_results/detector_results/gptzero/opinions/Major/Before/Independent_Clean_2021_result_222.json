@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0018457318656146526,
+                    "sentence": "Please send your letters to:letters@independent.co.ukThePolice Federationhas stated that they have \"lost all confidence\" in the home secretary,Priti Patel.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014292910927906632,
+                    "sentence": "It is quite remarkable that they have had any confidence at all to lose, as there seems very little she has done whilst in office to foster any belief that she has the interests of police officers' well being, earnings or working conditions as part of her remit.Alistair VincentAddress suppliedStrange worldWhat a strange world where you can be removed from parliament for calling someone a liar and yet you can lie with impunity in the house.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014757136814296246,
+                    "sentence": "Most peculiar!Richard LyonWoodbridgeRoad worksPost pandemic travel habits are encouraging agovernment reviewof road building plans.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019788891077041626,
+                    "sentence": "Good.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002000272972509265,
+                    "sentence": "What about HS2?Jane PensonChalfont St GilesAlmost daily the news features government ministers espousing commitments on decarbonising the UK.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001983884023502469,
+                    "sentence": "But too often their lofty promises are starkly contradicted by policies gambling with the stability of our planet's future, much like a £27bn road building scheme committed to just last year.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00248387991450727,
+                    "sentence": "Reading that these plans are up for review, while reason for hope, is not the U-turn needed.Our planet is getting hotter and moving towards temperatures it cannot withstand.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0025451609399169683,
+                    "sentence": "Over the next two decades, cutting carbon pollution in sectors like transport will be vital.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004948979709297419,
+                    "sentence": "But the buck doesn't stop with polluting vehicles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.020643653348088264,
+                    "sentence": "The government's ownclimateadvisers say fewer cars must be driven overall, including electric-powered ones.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.029217679053544998,
+                    "sentence": "Active forms of travel, like walking and cycling, alongside reliable, quality public transport, must be promoted as the primary ways to get from A to B.Building more roads encourages more driving, leaving the UK's climate credibility in tatters.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0029682815074920654,
+                    "sentence": "By ploughing ahead with existing road building until the review's completion in 2023, it's patently clear this is just another distraction tactic to make it look like the government is acting sincerely, when it's not.Tony BosworthCampaigner at Friends of the EarthEaling comedyThis may be a stupid question but if the Covid-19 taskforce is drawing up plans to reintroduce restrictive measures next month, why are they being relaxed this month?This government is something out of an Ealing Comedy, but a lot more dangerous.John LewisAddress supplied",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.024461651786716186,
+            "class_probabilities": {
+                "human": 0.9754981327244504,
+                "ai": 0.024461651786716186,
+                "mixed": 4.0215488833363626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9754981327244504,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024461651786716186,
+                    "human": 0.9754981327244504,
+                    "mixed": 4.0215488833363626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters to:letters@independent.co.ukThePolice Federationhas stated that they have \"lost all confidence\" in the home secretary,Priti Patel.  It is quite remarkable that they have had any confidence at all to lose, as there seems very little she has done whilst in office to foster any belief that she has the interests of police officers' well being, earnings or working conditions as part of her remit.Alistair VincentAddress suppliedStrange worldWhat a strange world where you can be removed from parliament for calling someone a liar and yet you can lie with impunity in the house. Most peculiar!Richard LyonWoodbridgeRoad worksPost pandemic travel habits are encouraging agovernment reviewof road building plans. Good. What about HS2?Jane PensonChalfont St GilesAlmost daily the news features government ministers espousing commitments on decarbonising the UK. But too often their lofty promises are starkly contradicted by policies gambling with the stability of our planet's future, much like a £27bn road building scheme committed to just last year. Reading that these plans are up for review, while reason for hope, is not the U-turn needed.Our planet is getting hotter and moving towards temperatures it cannot withstand. Over the next two decades, cutting carbon pollution in sectors like transport will be vital. But the buck doesn't stop with polluting vehicles. The government's ownclimateadvisers say fewer cars must be driven overall, including electric-powered ones. Active forms of travel, like walking and cycling, alongside reliable, quality public transport, must be promoted as the primary ways to get from A to B.Building more roads encourages more driving, leaving the UK's climate credibility in tatters. By ploughing ahead with existing road building until the review's completion in 2023, it's patently clear this is just another distraction tactic to make it look like the government is acting sincerely, when it's not.Tony BosworthCampaigner at Friends of the EarthEaling comedyThis may be a stupid question but if the Covid-19 taskforce is drawing up plans to reintroduce restrictive measures next month, why are they being relaxed this month?This government is something out of an Ealing Comedy, but a lot more dangerous.John LewisAddress supplied"
+        }
+    ]
+}

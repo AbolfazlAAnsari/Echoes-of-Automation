@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 3.0631017580162734e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.149574331473559e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe transport secretary Grant Shapps considers that theP&Ochief executive showed \"brazen, breathtaking arrogance\" and \"needs to consider his position, in fact, he should resign\" as a result of unlawfully sacking 800 employees.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.018594310968183e-05,
+                    "sentence": "The hypocrisy of this government leaves me speechless.Have they ever heard the maxim, \"Take out the plank in your own eye, and then you will be able to see to take out the speck in your neighbour's\"?Katharine PowellAddress suppliedArms to UkraineWe sell tanks, artillery and fighter aircraft to disgusting regimes all over the world on the understanding that they will be used for \"defensive\" purposes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.054343894997146e-05,
+                    "sentence": "It seems to me to be sheer cowardice that we should refuse to sell these items under the same terms, to a friendly democratic nation which is at war against a totalitarian regime, whose overtly stated aim is its total subjugation and enslavement.Richard SwinneyGatesheadPutin the humanitarian?Mary Dejevsky writes today about the chaos and suffering in Mariupol, and I found it strange to read that a Putin objective in toppling this city is for reasons of simplification of deliveries of weapons and humanitarian aid.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.5466839613509364e-05,
+                    "sentence": "Who are we kidding here?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.444732490403112e-05,
+                    "sentence": "I doubt very much that Putin is delivering humanitarian aid... far from it.Martin SpittleNorfolkBetter togetherI could not agree more with Andrew Woodcock (\"Brexit should not be branded as a fight to regain freedoms,\" 25 March).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008554485975764692,
+                    "sentence": "Brexit has curtailed our freedom in immeasurable ways and that of our young people, disappearing in a puff of pseudo patriotic smoke.We are better together with our European allies and although there has been a welcome resurgence of unity concerning the heinous war in Ukraine, there is an undeniable feeling that we are now an outlier in this respect.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014513260684907436,
+                    "sentence": "It is true to say that immigration was at the heart of the Brexit debate, but now I would surmise things have changed unalterably.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011835979530587792,
+                    "sentence": "The public are now looking out and not in, and appreciating there is indeed safety in numbers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012904199538752437,
+                    "sentence": "The conclusion must be that the EU, warts and all, was a much safer and conducive haven than fanatical Brexiteers had us believe back in 2016, before the irrevocable dye was cast.Judith A DanielsNorfolkSunak's car troubleWith one eye on the Tory leadership, Rishi Sunak's distasteful, if comical, attempt at creating a more humble image was no surprise.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008574747480452061,
+                    "sentence": "It is disheartening though, to find that in the current political realm influenced by an increasingly media savvy cultural atmosphere, that ministers have failed to learn from the folly of others.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008342426735907793,
+                    "sentence": "Namely that attempting to artificially generate a false narrative, is doomed to failure.Nigel PlevinSomersetI read today of Rishi Sunak's \"fill up to help out\" scheme to help himself out in his leadership bid.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001107440679334104,
+                    "sentence": "Apparently, the chancellor even paid for the fuel used himself.Geoff ForwardStirling",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.006608679833334143,
+            "class_probabilities": {
+                "human": 0.9933913201666659,
+                "ai": 0.006608679833334143,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933913201666659,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006608679833334143,
+                    "human": 0.9933913201666659,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThe transport secretary Grant Shapps considers that theP&Ochief executive showed \"brazen, breathtaking arrogance\" and \"needs to consider his position, in fact, he should resign\" as a result of unlawfully sacking 800 employees. The hypocrisy of this government leaves me speechless.Have they ever heard the maxim, \"Take out the plank in your own eye, and then you will be able to see to take out the speck in your neighbour's\"?Katharine PowellAddress suppliedArms to UkraineWe sell tanks, artillery and fighter aircraft to disgusting regimes all over the world on the understanding that they will be used for \"defensive\" purposes. It seems to me to be sheer cowardice that we should refuse to sell these items under the same terms, to a friendly democratic nation which is at war against a totalitarian regime, whose overtly stated aim is its total subjugation and enslavement.Richard SwinneyGatesheadPutin the humanitarian?Mary Dejevsky writes today about the chaos and suffering in Mariupol, and I found it strange to read that a Putin objective in toppling this city is for reasons of simplification of deliveries of weapons and humanitarian aid. Who are we kidding here? I doubt very much that Putin is delivering humanitarian aid... far from it.Martin SpittleNorfolkBetter togetherI could not agree more with Andrew Woodcock (\"Brexit should not be branded as a fight to regain freedoms,\" 25 March). Brexit has curtailed our freedom in immeasurable ways and that of our young people, disappearing in a puff of pseudo patriotic smoke.We are better together with our European allies and although there has been a welcome resurgence of unity concerning the heinous war in Ukraine, there is an undeniable feeling that we are now an outlier in this respect. It is true to say that immigration was at the heart of the Brexit debate, but now I would surmise things have changed unalterably. The public are now looking out and not in, and appreciating there is indeed safety in numbers. The conclusion must be that the EU, warts and all, was a much safer and conducive haven than fanatical Brexiteers had us believe back in 2016, before the irrevocable dye was cast.Judith A DanielsNorfolkSunak's car troubleWith one eye on the Tory leadership, Rishi Sunak's distasteful, if comical, attempt at creating a more humble image was no surprise. It is disheartening though, to find that in the current political realm influenced by an increasingly media savvy cultural atmosphere, that ministers have failed to learn from the folly of others. Namely that attempting to artificially generate a false narrative, is doomed to failure.Nigel PlevinSomersetI read today of Rishi Sunak's \"fill up to help out\" scheme to help himself out in his leadership bid. Apparently, the chancellor even paid for the fuel used himself.Geoff ForwardStirling"
+        }
+    ]
+}

@@ -1,0 +1,976 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00020875920017715544,
+                    "sentence": "(CNN) &#8212; Ever since ChatGPT was released last November, artificial intelligence has been thrust into the spotlight, sparking enormous excitement anddebateover the possibilities.ChatGPT, along with other AI tools like DALL-E, Midjourney, Stable Diffusion and Bard,racked up millions of users, who utilized them to write emails, plan their vacations,impersonate musicians, producecampaign adsand evendesign buildings.While tech giants like Bill Gates have touted the possibility that artificial intelligence canreduce global inequality or fight climate change, the technology has also prompted a lot of fear and anxiety: Will AI replace millions of jobs?Will disinformation become even more widespread?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015997739683371037,
+                    "sentence": "Will general purpose AI - AI that is as capable as humans - eventually take over the world?We talked to Stuart Russell, a computer science professor at the University of California, Berkeley who co-authored the textbook, \"Artificial Intelligence: A Modern Approach,\" about the promises and risks of AI, and whether it's possible to ensure it remains safe and within our control.Russell said large language models like ChatGPT, which are trained on massive amounts of data and can summarize, process and generate language, could move us one step closer to general purpose intelligence.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.253163443645462e-05,
+                    "sentence": "\"If we really had general purpose AI, we could have much better health care, much better education, amazing new forms of entertainment and literature and new forms of art that don't exist yet,\" Russell said.But it's impossible to tell if the large language models are safe because no one truly understands how they work: \"We don't know if they reason; we don't know if they have their own internal goals that they've learned or what they might be.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010386892972746864,
+                    "sentence": "\"Russell has called for rebuilding AI on a different foundation to ensure our control over the technology - but that doesn't solve the potential issue of AI systems falling into the hands of malign forces.Russell also worries about humans becoming too dependent on the technology, and then losing \"the incentive to learn and to be capable of anything.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.959461021935567e-05,
+                    "sentence": "And that, I think, would be another form of catastrophe,\" he said.Read our conversation below, which has been edited and condensed for clarity.STUART RUSSELL:AI has been around as a discipline since 1956.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003228622954338789,
+                    "sentence": "And there's always been a confusion between the discipline, which is the problem of making machines intelligent, and the artifacts that it produces.Right now, what a lot of people are excited about are large language models.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0023310743272304535,
+                    "sentence": "They are a product of AI, but they are not AI.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003126967465505004,
+                    "sentence": "It's sort of like confusing physics with cell phones, right?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0024298150092363358,
+                    "sentence": "Cell phones are a product of physics - they're not the same thing as physics.And as a researcher inside the field, when I read things, I want to say, \"No, no, you're getting it completely wrong.\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0030367698054760695,
+                    "sentence": "Probably the biggest confusion that we see is that a lot of writers talk about the big question as being: Are these things conscious?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003849464002996683,
+                    "sentence": "Nobody in the field actually has any answers to those kinds of questions and they are irrelevant to the issue of whether AI systems pose a risk to humanity.Within the field, what we think about is, for example, does this particular technology constitute part of a solution to the longstanding problem of creating general purpose intelligent systems, which roughly means systems that are capable of quickly learning high-performance behavior in any kind of task environment where the human intellect is relevant.And I think most people within the field believe that the large language models are part of the solution.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002843176480382681,
+                    "sentence": "One metaphor that I find helpful is to think about a jigsaw puzzle.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018433942459523678,
+                    "sentence": "And, if we can fit it all together, we'll have general purpose intelligent systems.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0023966124281287193,
+                    "sentence": "And we think that these large language models are one piece of that jigsaw puzzle, but we haven't yet figured out what shape that piece is, and so we don't know how to fit it together with the other pieces.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002935102442279458,
+                    "sentence": "And the reason we haven't figured out what shape the piece is, is because we have really no idea what's going on inside.Russell:To a first approximation?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0025337478145956993,
+                    "sentence": "No.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0026700322050601244,
+                    "sentence": "That sounds weird, but I can tell you how to make one.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003664399730041623,
+                    "sentence": "So first of all, what is a large language model from the outside?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0025132535956799984,
+                    "sentence": "It's a system that is given a sequence of words as input, and it basically predicts what the next word is going to be, and will then output that next word if you ask it to.And to make that prediction, it starts out with - think of it as a chain-link fence.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017607451882213354,
+                    "sentence": "And every little link in that circuit is tunable.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0022683755960315466,
+                    "sentence": "And as you tune those connection strengths in the circuit, the output of the circuit will change.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012387758120894432,
+                    "sentence": "And say that circuit has about a trillion links - a chain-link fence covering 500 square miles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.020279567688703537,
+                    "sentence": "And then you are training it with 20 or 30 trillion words, and you're just tweaking all those links to get it to be good at predicting the next word.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.024726351723074913,
+                    "sentence": "And then you hope for the best.If you train on all that, all those trillions of words of text, you get a system that behaves very badly.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03619301691651344,
+                    "sentence": "It'll give you advice on how to make chemical weapons - it has no constraints on its behavior.Then there's another phase, which is a relatively new thing called reinforcement learning from human feedback.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.022800100967288017,
+                    "sentence": "But that's just a technical term for saying, \"Good dog!\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011850261129438877,
+                    "sentence": "and \"Bad dog!\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.024361593648791313,
+                    "sentence": "So whenever it says something it's not supposed to, you say, \"Bad dog!\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04208839684724808,
+                    "sentence": "and then that causes more tweaks to happen to all those connections in that huge network.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.028630414977669716,
+                    "sentence": "And you hope that next time it won't do that.How they work, we don't know.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0332198292016983,
+                    "sentence": "We don't know if they know things.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.025932475924491882,
+                    "sentence": "We don't know if they reason; we don't know if they have their own internal goals that they've learned or what they might be.Because they're being trained to imitate the behavior of human beings, all that text is human linguistic behavior, and the humans who generated that text had purposes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03035937063395977,
+                    "sentence": "The natural place you're going to end up is an entity with similar kinds of goals.Russell:Artificial intelligence is the problem of how we make machines intelligent.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.026593085378408432,
+                    "sentence": "What is intelligence?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04399416595697403,
+                    "sentence": "For most of the history of the field, the meaning of intelligence has been that the system's actions can be expected to achieve the system's objectives.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.029964270070195198,
+                    "sentence": "So for example, if you have a navigation app on your phone and you say, \"Get me to the airport,\" then you would hope that the directions that it gives you will tend to lead you to the airport, right?So it's this notion of systems that have objectives, and then how well do they achieve those objectives through the actions that they choose?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05480070039629936,
+                    "sentence": "That's the core notion of intelligence that we've been using in the field since the beginning.Russell:Since the 1950s, AI as a field has produced a number of different technologies that are useful for building intelligent systems.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003133515128865838,
+                    "sentence": "And roughly speaking, the biggest division is between what we call machine learning - which are systems that learn through their own experience to improve their achievement of objectives - and other kinds of approaches that don't involve learning.So, for example, the navigation app doesn't do any learning and it wasn't created by learning.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0035124714486300945,
+                    "sentence": "It was created by computer scientists figuring out good algorithms for finding short paths to an objective on a map.In the 1950s, the first significant machine learning program was developed by a gentleman called Arthur Samuel.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004409237764775753,
+                    "sentence": "And that system learned to play checkers by itself - when it won against itself, it would tweak various parameters in the program to reward whatever it was that it did.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0030049202032387257,
+                    "sentence": "And if it lost, it would tweak them to avoid doing that again.It actually became much better at playing checkers than Samuel was.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006313670426607132,
+                    "sentence": "It didn't reach a world champion level, but it still became a pretty impressive checkers-playing program.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0038343211635947227,
+                    "sentence": "And it was actually shown on television in 1956 and caused an uproar comparable, I would say, to what's going on now with ChatGPT.And in fact, people later wrote about the possibility that if thistechnologycontinued along these directions, that it would present a threat.So learning technologies in particular have always seemed to be particularly threatening, scary, or at least unpredictable, because although we set the direction for learning, we can't predict what the outcome is going to be.Another big class of technologies that started becoming popular around the late 1960s through the mid-1980s are what are calledknowledge-based systems.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003938032314181328,
+                    "sentence": "One particular type was called the expert system, where the knowledge was extracted from experts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00288265198469162,
+                    "sentence": "So it could be knowledge about the components of a jet engine and how they fit together and what kinds of things go wrong with them and so on.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0038958233781158924,
+                    "sentence": "And then you could use that to fix a jet engine when it goes wrong.And in the mid-1980s, expert systems became a very promising technology with lots of startup companies and lots of investment.But it turned out that the technology was not sufficiently robust to work in many of these applications.From the late 1980s onward, there were actually two important developments that happened.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008275307714939117,
+                    "sentence": "One was a new technology for reasoning under uncertainty using probability theory, which assigns potential outcomes a number from 0 to 1 based on how likely they are.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1706780195236206,
+                    "sentence": "And there have been many developments and improvements on those ideas since then.Then the other direction was a revival of neural networks - a particular kind of learning algorithm first explored in the 1950s and 1960s that drew inspiration from the network of neurons in the human brain.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.2453218698501587,
+                    "sentence": "But they were extremely limited in what they could do.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.17348557710647583,
+                    "sentence": "In the late 1980s, we developed methods that would allow the training of largerneural networks(large language models like ChatGPT are a type of neural network).So again, coming back to this picture of a chain-link fence where every link is adjustable.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1849031299352646,
+                    "sentence": "As you tune all those connection strengths, that changes the output of the network.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.24152323603630066,
+                    "sentence": "And we developed algorithms that allowed us to tune the connection strengths of all the links, even if the fence was very large.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.14346180856227875,
+                    "sentence": "And that was a big step forward, meaning that we could now train networks that could recognize objects in images, that could recognize words from a speech signal and so on.There are a few other big areas of work in AI.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.18075242638587952,
+                    "sentence": "There's robotics, which is both how do you make a physical robot that can actually do something useful in the world and then how do you program it?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1990152895450592,
+                    "sentence": "There's computer vision, which enables machines to perceive the visual world through algorithms that analyze images and video.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.18649470806121826,
+                    "sentence": "There are more specific application areas such as medical diagnosis, game playing, and so on.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05614218860864639,
+                    "sentence": "The variety is endless, because the human mind is so varied in what it can do.Russell:I think it's really difficult to say.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0419921949505806,
+                    "sentence": "I've been mostly skeptical of the large language models as a route to real intelligence.But having said that, if you read the paper from Microsoft called\"Sparks of Artificial General Intelligence,\"there are two members of the US National Academies in the author list andseveral other people who made a lot of contributions to AI.They spent several weeks working with GPT-4, the latest version of ChatGPT, trying to figure out what it can and can't do.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.061816174536943436,
+                    "sentence": "The researchers wrote, \"We demonstrate that, beyond its mastery of language, GPT-4 can solve novel and difficult tasks that span mathematics, coding, vision, medicine, law, psychology and more, without needing any special prompting.\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1067291870713234,
+                    "sentence": "So, they've had a lot more experience with it than almost anybody.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002817834261804819,
+                    "sentence": "And for them to say that it shows sparks of artificial general intelligence - that is a pretty shocking development.So I think it is a turning point - definitely it's a turning point in public perception, because there are lots of kinds of AI that are very much in the background.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003991491161286831,
+                    "sentence": "When you make any kind of credit card purchase, often there's an AI system trying to figure out if it's a fraudulent transaction, for example.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0041887518018484116,
+                    "sentence": "So there are lots of places like that where AI is kind of invisible.And then there were things that became more visible for short periods, likeDeep Bluebeating Garry Kasparov at chess in 1997, which was a bigfront page headlinemoment that was on the nightly news.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00251209968701005,
+                    "sentence": "But what tends to happen is that people say, \"Okay, well that's impressive.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0037767780013382435,
+                    "sentence": "But this is just one narrow application and it doesn't mean that real AI is around the corner.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0023888929281383753,
+                    "sentence": "\"So those events, they come and go like fireworks.This ChatGPT - it's in your face.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0029806967359036207,
+                    "sentence": "It is not general purpose AI, but it's giving people a taste of what it would be like.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0023733293637633324,
+                    "sentence": "General purpose AI will be completely transformative when it does happen.Russell:I think that that's a very reasonable question to ask, but there's sort of two problems in answering it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0023254442494362593,
+                    "sentence": "So one is we haven't the faintest idea, right?Yeah.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0024486477486789227,
+                    "sentence": "And one end of the spectrum is still hypothetical at this moment in time.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0023478353396058083,
+                    "sentence": "So I should add that as a caveat.Russell:Yeah.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00410202331840992,
+                    "sentence": "Since we don't know what's going on inside the large language models, it's very hard to say.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0031477464362978935,
+                    "sentence": "Do we really have pieces of the puzzle?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002417064504697919,
+                    "sentence": "There's a phrase \"stochastic parrot,\" which some of the critics have used.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018120005261152983,
+                    "sentence": "So stochastic means that it's slightly random and unpredictable, which is correct.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002671619411557913,
+                    "sentence": "Because if you ask it the same thing twice, it might give you a slightly different output, and parrot just meaning that it's really just repeating things that it's read without understanding.So, I'd say it's more than just a parrot.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001722775399684906,
+                    "sentence": "Think about a piece of paper.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019576936028897762,
+                    "sentence": "So here's a piece of paper, and I could read a paragraph.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002272062236443162,
+                    "sentence": "But anyone who thinks this piece of paper is intelligent - they're just confused, right?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0026416252367198467,
+                    "sentence": "The piece of paper sounds intelligent because the piece of paper is carrying information from someone who is intelligent.And so where are the large language models between a piece of paper and a human?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.032109335064888,
+                    "sentence": "We don't know.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03600490465760231,
+                    "sentence": "Are they really just very clever pieces of paper because of this training process?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06025417149066925,
+                    "sentence": "And I think we also have to factor in the tendency of humans to assume that anything that can produce coherent, grammatical, sophisticated text is intelligent.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03939636051654816,
+                    "sentence": "When we see this stuff coming out of ChatGPT, you can't help but think that there's intelligence behind it.If you strip out all the effect of the coherent, grammatically correct, elegant, sophisticated prose and look underneath, how much intelligence is left?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02826644666492939,
+                    "sentence": "We just can't do that because we can't inoculate ourselves against this effect of perceiving intelligence.It has thousands or millions of games of chess in its training data.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05632831156253815,
+                    "sentence": "But every so often, maybe by the time you get to move 18, your sequence of moves is sufficiently different from anything in its training data that it'll just output a move that makes no sense at all.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04289042204618454,
+                    "sentence": "And we call it hallucination.But it might actually be that they're hallucinating all the time and that most of the time they happen to agree with the training data, and so they sound plausible.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03939129412174225,
+                    "sentence": "But perhaps in reality it doesn't have any internal world model.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03611946478486061,
+                    "sentence": "And it's not answering questions relative to its understanding of the world the way we do.But I think there's enough evidence that something is going on to convince me that it's a piece of the puzzle of general purpose intelligence.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03284217417240143,
+                    "sentence": "We just don't know exactly which piece.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04617214947938919,
+                    "sentence": "We don't know how to fit it into the puzzle.Russell:Why do things cost money?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05190228670835495,
+                    "sentence": "It's largely because to produce them requires the time of other human beings.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05379047989845276,
+                    "sentence": "And so if all that time is free because it's now an AI system, or its robotic extension, then we can deliver a high quality of life to everybody on earth.I think most people would say that would be a good thing.If we really had general purpose AI, we could have much better health care, much better education, amazing new forms of entertainment and literature and new forms of art that don't exist yet.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1256912350654602,
+                    "sentence": "Even if it turns out that we need trillions of dollars to build the next generations of these systems, I think we will see those trillion-dollar investments happening.There are also many upsides from the intermediate points on the way toward general purpose intelligence.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.2598472833633423,
+                    "sentence": "Self-driving cars - if they work and they're widespread, you might save, I think there are1.35 million lives lostin car crashes every year.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008058941457420588,
+                    "sentence": "So you could save those 1.35 million lives if we get it right.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008449835004284978,
+                    "sentence": "So there are many, many, many examples like that of potential benefits.Russell:Let me start with the present and the risk of systems that are already out there in the world.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011133513180539012,
+                    "sentence": "I think the biggest risk or the biggest downsides that we've already seen probably come from the social media algorithms.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012664904352277517,
+                    "sentence": "Generically they're called recommender systems, and what they do is they choose what you read and what you see.So they have more control over human cognitive intake than any empire or any dictator in history, and yet are completely unregulated,which is a strange situation that we find ourselves in.These algorithms, I think, have learned to manipulate people progressively over time into more predictable versions of themselves.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015285860281437635,
+                    "sentence": "That would then lead to a sort of polarization - that people would be starting out in the middle and ending up somewhere at the extremes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012229107087478042,
+                    "sentence": "And then you have people living in different universes from each other because of disinformation - until recently it's mostly been humans supplying the disinformation with the algorithms amplifying it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017314485739916563,
+                    "sentence": "With AI, there can be automated generation of disinformation tailored specifically for individuals.I think there are many examples of systems learning to function in discriminatory ways.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010981411905959249,
+                    "sentence": "Whether it's by race or by gender, those systems are getting used in important areas like resume filtering.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013773479731753469,
+                    "sentence": "So you might apply for 100 jobs and not get a single interview, and there's just something on your resume that causes the systems to spit it out.There's also a lot of misuse.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009692212333902717,
+                    "sentence": "There's already automated blackmail - systems that read your emails, figure out that you're doing something you shouldn't be doing and then start blackmailing you with that information on a mass customized basis.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006845821626484394,
+                    "sentence": "That's a real problem.The impact on employment is another thing that people are very worried about.I think right now the technology's not reliable enough because of things like hallucination.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004840536857955158,
+                    "sentence": "CEOs ask me, \"Well where can I use this in my organization?\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007153055048547685,
+                    "sentence": "I say, \"Anywhere you currently use a psychotic 6 year old who lives in a fantasy world, sure go ahead and replace that 6 year old with a large language model.\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009722160757519305,
+                    "sentence": "If I'm an insurance company, if it's going to talk to my customers, it can't promise to insure a house on Pluto.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0022588588763028383,
+                    "sentence": "So how do you make them reliable and truthful?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.020098872482776642,
+                    "sentence": "And that's what people are working on.Once you do that, then you really can start to replace a lot of human workers.Another big concern is in education, right?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05343005061149597,
+                    "sentence": "How on earth do you motivate students to learn, to think and to learn to write arguments and essays and so on when ChatGPT can already do it in two seconds?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.22678646445274353,
+                    "sentence": "It's as if a tsunami just arrived in pretty much every sector of our society.Then there is this general phenomenon of what we call misalignment, which is that the objectives that the systems are pursuing are not aligned with the interests of human beings.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.2594156861305237,
+                    "sentence": "So as you make systems that are more and more capable, if they're misaligned, then you're basically creating a chess match between humanity and a machine that's pursuing this misaligned objective.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1876705437898636,
+                    "sentence": "So this is the big question that many researchers, including myself, have been focused on.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.015333968214690685,
+                    "sentence": "I've been thinking about this for about a decade now: If you make systems that are more powerful than human beings, how do human beings maintain power over those systems forever?Russell:Yeah, so it's a good question.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00566081190481782,
+                    "sentence": "I think the work that has been done along these lines has moved ahead quite slowly.What do we, the human race, want the future to be?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005434780847281218,
+                    "sentence": "It's really hard to figure that out.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004756005015224218,
+                    "sentence": "And of course, there are 8 billion of us, and we all want somewhat different things.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003040443640202284,
+                    "sentence": "So maybe the right approach is not to put in fixed objectives, but to say that the AI system is supposed to help us with the future that we want, but it starts out not knowing what that is.And so it turns out that you can actually build AI systems that have those properties, but they're very different from the kinds of AI systems that we know how to build.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008383789099752903,
+                    "sentence": "All the technology that we've built so far is based on this idea of putting in a fixed objective, and then the machinery figures out how to achieve the objective.So we have to develop AI all over again on this different foundation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018903904128819704,
+                    "sentence": "And we have a long way to go to redevelop all of the theory, all of the algorithms, and then start producing practical systems that will then have to compete in the marketplace.I think there are estimates saying there are fewer than 100 people in the world working on this.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.056003961712121964,
+                    "sentence": "Meanwhile, you've got tens of billions of dollars going into the old-fashioned approach to AI - the one that doesn't work right in the long run, that produces misaligned and eventually perhaps catastrophic consequences.So I think it's difficult, but governments around the world are waking up to this.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.050904396921396255,
+                    "sentence": "When there's legislation, I think there will have to be a very serious engagement with what it means to make these systems safe.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06281240284442902,
+                    "sentence": "And as far as I can see, given that we don't know how they work, there's no way to show that large language models and their descendants are safe.Russell:Well, it wouldn't matter if they were transparent about it because they don't understand how it works.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04346968233585358,
+                    "sentence": "It's not that we don't understand.They don't understand.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.037953369319438934,
+                    "sentence": "So they could surely say, here are the trillion parameters in our network.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05994075909256935,
+                    "sentence": "And in fact, there are several systems that are already public.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.052331361919641495,
+                    "sentence": "But that doesn't help if we can't understand their internal principles of operation.Russell:When I mentioned a failure of regulation, the failure is to simply not do anything about it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06083894520998001,
+                    "sentence": "It's not enough to subscribe toa set of principles- they have no teeth until they're turned into regulation.So I think what's probably going to happen is that all the major countries are going to need regulatory agencies, just like theFederal Aviation Administrationfor aviation, or theNuclear Regulatory Commissionfor nuclear power.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05700484290719032,
+                    "sentence": "Those agencies have devolved powers, so Congress is not debating the details of large language models and exactly what kind of safety criteria should be applied.I think most countries are going to set up agencies like that for AI, and then there will need to be some kind of coordination mechanism for all of those agencies.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1118725836277008,
+                    "sentence": "Because the last thing you want is for all of the developers to move to whichever country has the most lax regulation, right?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07560243457555771,
+                    "sentence": "We have this problem with taxes and people go to Luxembourg and Cayman Islands and so on.I'd say at the moment, the United States is the most lax in terms of regulation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.045687973499298096,
+                    "sentence": "There's a bit of a patchwork - California hasa lawsaying AI systemscan't impersonate humansfor the purpose of convincing them to vote for a particular candidate in an election.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0522107258439064,
+                    "sentence": "Great.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03226843476295471,
+                    "sentence": "Okay.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.038269467651844025,
+                    "sentence": "There's a lot more that needs to be done, and you can't do this on a piecemeal, state-by-state approach.So I think this is what's going to happen, but all of this takes time.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0026594253722578287,
+                    "sentence": "I wasn't involved in writing theopen lettercalling for an immediate pause on training AI systems more powerful than GPT-4, but I think that was the concern underlying it - that we need things to move faster, to make sure that the regulatory environment is in place before uncontrollable general purpose AI emerges.Russell:Well, the goal is not to stop it from becoming more intelligent than humans.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017981932032853365,
+                    "sentence": "The goal is that as it becomes more powerful, we enforce certain design constraints that result in it being controllable and it being safe.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0029605566523969173,
+                    "sentence": "Airplanes go faster than people, but they have to be safe in order for you to be carrying passengers in them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004460772965103388,
+                    "sentence": "And you can make them as fast as you want.I think there are other reasons to be concerned about making systems more intelligent than humans, mostly to do with our own self-conception.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0026679544243961573,
+                    "sentence": "Even if they are safe and beneficial and so on, what does it do to our conception of ourselves and our motivation and the structure of our society when everything that we're benefiting from is being produced by the machines and no longer by us?I don't know if you've seen the film \"Wall-E\" - because we've destroyed our own planet, humanity is left on these giant spaceships run by robots.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003445007372647524,
+                    "sentence": "And since the robots have taken over the management of civilization, there's no incentive for humans to learn how to run our civilization.And so it shows humans becoming infantilized and enfeebled.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004433388356119394,
+                    "sentence": "It's showing a tendency in our civilization, I think, which would massively accelerate if we have general purpose AI, which is to become dependent on the technology and then lose the incentive to learn and to be capable of anything.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0027856570668518543,
+                    "sentence": "And that, I think, would be another form of catastrophe.Russell:So I hope that we get enough regulation in place that the developers of these systems take seriously their responsibility to understand how they work and ensure that they work in safe and predictable ways.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0038512097671628,
+                    "sentence": "And that the further development of those systems goes hand in hand with more understanding and much more rigorous regulation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006108022760599852,
+                    "sentence": "In the long run, the next problem we're going to face is that even though we may understand how to build perfectly safe general purpose AI, what's to stop Dr.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007088049780577421,
+                    "sentence": "Evil building general purpose AI that's going to destroy the world?And you might first think, okay, well we'll have very strict laws about that, but we have very strict laws about malware and cybercrime, and yet malware and cybercrime are hardly extinct.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.014399450272321701,
+                    "sentence": "So the only way to do it actually is to change our whole digital infrastructure.What the digital infrastructure does now is it runs anything unless it recognizes it is dangerous.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.017478974536061287,
+                    "sentence": "If you have anti-virus software on your laptop and a known virus gets downloaded, the system will detect it and remove it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02046826109290123,
+                    "sentence": "But what we need, actually, is for systems to work the other way around - we need to ensure that the hardware and the operating system won't run anything unless it knows that it's safe.That's a big change in the whole global digital ecosystem, but I think it's the only solution.By Jessica Chia and Bethany Cianciolo, CNNTM & © 2023 Cable News Network, Inc., a Time Warner Company.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.017609111964702606,
+                    "sentence": "All rights reserved.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 152,
+                    "completely_generated_prob": 4.9999999947744995e-145
+                }
+            ],
+            "completely_generated_prob": 0.026098759003974407,
+            "class_probabilities": {
+                "human": 0.9730010893857934,
+                "ai": 0.026098759003974407,
+                "mixed": 0.0009001516102321237
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9730010893857934,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.026098759003974407,
+                    "human": 0.9730010893857934,
+                    "mixed": 0.0009001516102321237
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "(CNN) &#8212; Ever since ChatGPT was released last November, artificial intelligence has been thrust into the spotlight, sparking enormous excitement anddebateover the possibilities.ChatGPT, along with other AI tools like DALL-E, Midjourney, Stable Diffusion and Bard,racked up millions of users, who utilized them to write emails, plan their vacations,impersonate musicians, producecampaign adsand evendesign buildings.While tech giants like Bill Gates have touted the possibility that artificial intelligence canreduce global inequality or fight climate change, the technology has also prompted a lot of fear and anxiety: Will AI replace millions of jobs?Will disinformation become even more widespread? Will general purpose AI - AI that is as capable as humans - eventually take over the world?We talked to Stuart Russell, a computer science professor at the University of California, Berkeley who co-authored the textbook, \"Artificial Intelligence: A Modern Approach,\" about the promises and risks of AI, and whether it's possible to ensure it remains safe and within our control.Russell said large language models like ChatGPT, which are trained on massive amounts of data and can summarize, process and generate language, could move us one step closer to general purpose intelligence.\"If we really had general purpose AI, we could have much better health care, much better education, amazing new forms of entertainment and literature and new forms of art that don't exist yet,\" Russell said.But it's impossible to tell if the large language models are safe because no one truly understands how they work: \"We don't know if they reason; we don't know if they have their own internal goals that they've learned or what they might be.\"Russell has called for rebuilding AI on a different foundation to ensure our control over the technology - but that doesn't solve the potential issue of AI systems falling into the hands of malign forces.Russell also worries about humans becoming too dependent on the technology, and then losing \"the incentive to learn and to be capable of anything. And that, I think, would be another form of catastrophe,\" he said.Read our conversation below, which has been edited and condensed for clarity.STUART RUSSELL:AI has been around as a discipline since 1956. And there's always been a confusion between the discipline, which is the problem of making machines intelligent, and the artifacts that it produces.Right now, what a lot of people are excited about are large language models. They are a product of AI, but they are not AI. It's sort of like confusing physics with cell phones, right? Cell phones are a product of physics - they're not the same thing as physics.And as a researcher inside the field, when I read things, I want to say, \"No, no, you're getting it completely wrong.\" Probably the biggest confusion that we see is that a lot of writers talk about the big question as being: Are these things conscious? Nobody in the field actually has any answers to those kinds of questions and they are irrelevant to the issue of whether AI systems pose a risk to humanity.Within the field, what we think about is, for example, does this particular technology constitute part of a solution to the longstanding problem of creating general purpose intelligent systems, which roughly means systems that are capable of quickly learning high-performance behavior in any kind of task environment where the human intellect is relevant.And I think most people within the field believe that the large language models are part of the solution. One metaphor that I find helpful is to think about a jigsaw puzzle. And, if we can fit it all together, we'll have general purpose intelligent systems. And we think that these large language models are one piece of that jigsaw puzzle, but we haven't yet figured out what shape that piece is, and so we don't know how to fit it together with the other pieces. And the reason we haven't figured out what shape the piece is, is because we have really no idea what's going on inside.Russell:To a first approximation? No. That sounds weird, but I can tell you how to make one. So first of all, what is a large language model from the outside? It's a system that is given a sequence of words as input, and it basically predicts what the next word is going to be, and will then output that next word if you ask it to.And to make that prediction, it starts out with - think of it as a chain-link fence. And every little link in that circuit is tunable. And as you tune those connection strengths in the circuit, the output of the circuit will change. And say that circuit has about a trillion links - a chain-link fence covering 500 square miles. And then you are training it with 20 or 30 trillion words, and you're just tweaking all those links to get it to be good at predicting the next word. And then you hope for the best.If you train on all that, all those trillions of words of text, you get a system that behaves very badly. It'll give you advice on how to make chemical weapons - it has no constraints on its behavior.Then there's another phase, which is a relatively new thing called reinforcement learning from human feedback. But that's just a technical term for saying, \"Good dog!\" and \"Bad dog!\" So whenever it says something it's not supposed to, you say, \"Bad dog!\" and then that causes more tweaks to happen to all those connections in that huge network. And you hope that next time it won't do that.How they work, we don't know. We don't know if they know things. We don't know if they reason; we don't know if they have their own internal goals that they've learned or what they might be.Because they're being trained to imitate the behavior of human beings, all that text is human linguistic behavior, and the humans who generated that text had purposes. The natural place you're going to end up is an entity with similar kinds of goals.Russell:Artificial intelligence is the problem of how we make machines intelligent. What is intelligence? For most of the history of the field, the meaning of intelligence has been that the system's actions can be expected to achieve the system's objectives. So for example, if you have a navigation app on your phone and you say, \"Get me to the airport,\" then you would hope that the directions that it gives you will tend to lead you to the airport, right?So it's this notion of systems that have objectives, and then how well do they achieve those objectives through the actions that they choose? That's the core notion of intelligence that we've been using in the field since the beginning.Russell:Since the 1950s, AI as a field has produced a number of different technologies that are useful for building intelligent systems. And roughly speaking, the biggest division is between what we call machine learning - which are systems that learn through their own experience to improve their achievement of objectives - and other kinds of approaches that don't involve learning.So, for example, the navigation app doesn't do any learning and it wasn't created by learning. It was created by computer scientists figuring out good algorithms for finding short paths to an objective on a map.In the 1950s, the first significant machine learning program was developed by a gentleman called Arthur Samuel. And that system learned to play checkers by itself - when it won against itself, it would tweak various parameters in the program to reward whatever it was that it did. And if it lost, it would tweak them to avoid doing that again.It actually became much better at playing checkers than Samuel was. It didn't reach a world champion level, but it still became a pretty impressive checkers-playing program. And it was actually shown on television in 1956 and caused an uproar comparable, I would say, to what's going on now with ChatGPT.And in fact, people later wrote about the possibility that if thistechnologycontinued along these directions, that it would present a threat.So learning technologies in particular have always seemed to be particularly threatening, scary, or at least unpredictable, because although we set the direction for learning, we can't predict what the outcome is going to be.Another big class of technologies that started becoming popular around the late 1960s through the mid-1980s are what are calledknowledge-based systems. One particular type was called the expert system, where the knowledge was extracted from experts. So it could be knowledge about the components of a jet engine and how they fit together and what kinds of things go wrong with them and so on. And then you could use that to fix a jet engine when it goes wrong.And in the mid-1980s, expert systems became a very promising technology with lots of startup companies and lots of investment.But it turned out that the technology was not sufficiently robust to work in many of these applications.From the late 1980s onward, there were actually two important developments that happened. One was a new technology for reasoning under uncertainty using probability theory, which assigns potential outcomes a number from 0 to 1 based on how likely they are. And there have been many developments and improvements on those ideas since then.Then the other direction was a revival of neural networks - a particular kind of learning algorithm first explored in the 1950s and 1960s that drew inspiration from the network of neurons in the human brain. But they were extremely limited in what they could do. In the late 1980s, we developed methods that would allow the training of largerneural networks(large language models like ChatGPT are a type of neural network).So again, coming back to this picture of a chain-link fence where every link is adjustable. As you tune all those connection strengths, that changes the output of the network. And we developed algorithms that allowed us to tune the connection strengths of all the links, even if the fence was very large. And that was a big step forward, meaning that we could now train networks that could recognize objects in images, that could recognize words from a speech signal and so on.There are a few other big areas of work in AI. There's robotics, which is both how do you make a physical robot that can actually do something useful in the world and then how do you program it? There's computer vision, which enables machines to perceive the visual world through algorithms that analyze images and video. There are more specific application areas such as medical diagnosis, game playing, and so on. The variety is endless, because the human mind is so varied in what it can do.Russell:I think it's really difficult to say. I've been mostly skeptical of the large language models as a route to real intelligence.But having said that, if you read the paper from Microsoft called\"Sparks of Artificial General Intelligence,\"there are two members of the US National Academies in the author list andseveral other people who made a lot of contributions to AI.They spent several weeks working with GPT-4, the latest version of ChatGPT, trying to figure out what it can and can't do. The researchers wrote, \"We demonstrate that, beyond its mastery of language, GPT-4 can solve novel and difficult tasks that span mathematics, coding, vision, medicine, law, psychology and more, without needing any special prompting.\" So, they've had a lot more experience with it than almost anybody. And for them to say that it shows sparks of artificial general intelligence - that is a pretty shocking development.So I think it is a turning point - definitely it's a turning point in public perception, because there are lots of kinds of AI that are very much in the background. When you make any kind of credit card purchase, often there's an AI system trying to figure out if it's a fraudulent transaction, for example. So there are lots of places like that where AI is kind of invisible.And then there were things that became more visible for short periods, likeDeep Bluebeating Garry Kasparov at chess in 1997, which was a bigfront page headlinemoment that was on the nightly news. But what tends to happen is that people say, \"Okay, well that's impressive. But this is just one narrow application and it doesn't mean that real AI is around the corner.\"So those events, they come and go like fireworks.This ChatGPT - it's in your face. It is not general purpose AI, but it's giving people a taste of what it would be like. General purpose AI will be completely transformative when it does happen.Russell:I think that that's a very reasonable question to ask, but there's sort of two problems in answering it. So one is we haven't the faintest idea, right?Yeah. And one end of the spectrum is still hypothetical at this moment in time. So I should add that as a caveat.Russell:Yeah. Since we don't know what's going on inside the large language models, it's very hard to say. Do we really have pieces of the puzzle? There's a phrase \"stochastic parrot,\" which some of the critics have used. So stochastic means that it's slightly random and unpredictable, which is correct. Because if you ask it the same thing twice, it might give you a slightly different output, and parrot just meaning that it's really just repeating things that it's read without understanding.So, I'd say it's more than just a parrot. Think about a piece of paper. So here's a piece of paper, and I could read a paragraph. But anyone who thinks this piece of paper is intelligent - they're just confused, right? The piece of paper sounds intelligent because the piece of paper is carrying information from someone who is intelligent.And so where are the large language models between a piece of paper and a human? We don't know. Are they really just very clever pieces of paper because of this training process? And I think we also have to factor in the tendency of humans to assume that anything that can produce coherent, grammatical, sophisticated text is intelligent. When we see this stuff coming out of ChatGPT, you can't help but think that there's intelligence behind it.If you strip out all the effect of the coherent, grammatically correct, elegant, sophisticated prose and look underneath, how much intelligence is left? We just can't do that because we can't inoculate ourselves against this effect of perceiving intelligence.It has thousands or millions of games of chess in its training data. But every so often, maybe by the time you get to move 18, your sequence of moves is sufficiently different from anything in its training data that it'll just output a move that makes no sense at all. And we call it hallucination.But it might actually be that they're hallucinating all the time and that most of the time they happen to agree with the training data, and so they sound plausible. But perhaps in reality it doesn't have any internal world model. And it's not answering questions relative to its understanding of the world the way we do.But I think there's enough evidence that something is going on to convince me that it's a piece of the puzzle of general purpose intelligence. We just don't know exactly which piece. We don't know how to fit it into the puzzle.Russell:Why do things cost money? It's largely because to produce them requires the time of other human beings. And so if all that time is free because it's now an AI system, or its robotic extension, then we can deliver a high quality of life to everybody on earth.I think most people would say that would be a good thing.If we really had general purpose AI, we could have much better health care, much better education, amazing new forms of entertainment and literature and new forms of art that don't exist yet. Even if it turns out that we need trillions of dollars to build the next generations of these systems, I think we will see those trillion-dollar investments happening.There are also many upsides from the intermediate points on the way toward general purpose intelligence. Self-driving cars - if they work and they're widespread, you might save, I think there are1.35 million lives lostin car crashes every year. So you could save those 1.35 million lives if we get it right. So there are many, many, many examples like that of potential benefits.Russell:Let me start with the present and the risk of systems that are already out there in the world. I think the biggest risk or the biggest downsides that we've already seen probably come from the social media algorithms. Generically they're called recommender systems, and what they do is they choose what you read and what you see.So they have more control over human cognitive intake than any empire or any dictator in history, and yet are completely unregulated,which is a strange situation that we find ourselves in.These algorithms, I think, have learned to manipulate people progressively over time into more predictable versions of themselves. That would then lead to a sort of polarization - that people would be starting out in the middle and ending up somewhere at the extremes. And then you have people living in different universes from each other because of disinformation - until recently it's mostly been humans supplying the disinformation with the algorithms amplifying it. With AI, there can be automated generation of disinformation tailored specifically for individuals.I think there are many examples of systems learning to function in discriminatory ways. Whether it's by race or by gender, those systems are getting used in important areas like resume filtering. So you might apply for 100 jobs and not get a single interview, and there's just something on your resume that causes the systems to spit it out.There's also a lot of misuse. There's already automated blackmail - systems that read your emails, figure out that you're doing something you shouldn't be doing and then start blackmailing you with that information on a mass customized basis. That's a real problem.The impact on employment is another thing that people are very worried about.I think right now the technology's not reliable enough because of things like hallucination. CEOs ask me, \"Well where can I use this in my organization?\" I say, \"Anywhere you currently use a psychotic 6 year old who lives in a fantasy world, sure go ahead and replace that 6 year old with a large language model.\" If I'm an insurance company, if it's going to talk to my customers, it can't promise to insure a house on Pluto. So how do you make them reliable and truthful? And that's what people are working on.Once you do that, then you really can start to replace a lot of human workers.Another big concern is in education, right? How on earth do you motivate students to learn, to think and to learn to write arguments and essays and so on when ChatGPT can already do it in two seconds? It's as if a tsunami just arrived in pretty much every sector of our society.Then there is this general phenomenon of what we call misalignment, which is that the objectives that the systems are pursuing are not aligned with the interests of human beings. So as you make systems that are more and more capable, if they're misaligned, then you're basically creating a chess match between humanity and a machine that's pursuing this misaligned objective. So this is the big question that many researchers, including myself, have been focused on. I've been thinking about this for about a decade now: If you make systems that are more powerful than human beings, how do human beings maintain power over those systems forever?Russell:Yeah, so it's a good question. I think the work that has been done along these lines has moved ahead quite slowly.What do we, the human race, want the future to be? It's really hard to figure that out. And of course, there are 8 billion of us, and we all want somewhat different things. So maybe the right approach is not to put in fixed objectives, but to say that the AI system is supposed to help us with the future that we want, but it starts out not knowing what that is.And so it turns out that you can actually build AI systems that have those properties, but they're very different from the kinds of AI systems that we know how to build. All the technology that we've built so far is based on this idea of putting in a fixed objective, and then the machinery figures out how to achieve the objective.So we have to develop AI all over again on this different foundation. And we have a long way to go to redevelop all of the theory, all of the algorithms, and then start producing practical systems that will then have to compete in the marketplace.I think there are estimates saying there are fewer than 100 people in the world working on this. Meanwhile, you've got tens of billions of dollars going into the old-fashioned approach to AI - the one that doesn't work right in the long run, that produces misaligned and eventually perhaps catastrophic consequences.So I think it's difficult, but governments around the world are waking up to this. When there's legislation, I think there will have to be a very serious engagement with what it means to make these systems safe. And as far as I can see, given that we don't know how they work, there's no way to show that large language models and their descendants are safe.Russell:Well, it wouldn't matter if they were transparent about it because they don't understand how it works. It's not that we don't understand.They don't understand. So they could surely say, here are the trillion parameters in our network. And in fact, there are several systems that are already public. But that doesn't help if we can't understand their internal principles of operation.Russell:When I mentioned a failure of regulation, the failure is to simply not do anything about it. It's not enough to subscribe toa set of principles- they have no teeth until they're turned into regulation.So I think what's probably going to happen is that all the major countries are going to need regulatory agencies, just like theFederal Aviation Administrationfor aviation, or theNuclear Regulatory Commissionfor nuclear power. Those agencies have devolved powers, so Congress is not debating the details of large language models and exactly what kind of safety criteria should be applied.I think most countries are going to set up agencies like that for AI, and then there will need to be some kind of coordination mechanism for all of those agencies. Because the last thing you want is for all of the developers to move to whichever country has the most lax regulation, right? We have this problem with taxes and people go to Luxembourg and Cayman Islands and so on.I'd say at the moment, the United States is the most lax in terms of regulation. There's a bit of a patchwork - California hasa lawsaying AI systemscan't impersonate humansfor the purpose of convincing them to vote for a particular candidate in an election. Great. Okay. There's a lot more that needs to be done, and you can't do this on a piecemeal, state-by-state approach.So I think this is what's going to happen, but all of this takes time. I wasn't involved in writing theopen lettercalling for an immediate pause on training AI systems more powerful than GPT-4, but I think that was the concern underlying it - that we need things to move faster, to make sure that the regulatory environment is in place before uncontrollable general purpose AI emerges.Russell:Well, the goal is not to stop it from becoming more intelligent than humans. The goal is that as it becomes more powerful, we enforce certain design constraints that result in it being controllable and it being safe. Airplanes go faster than people, but they have to be safe in order for you to be carrying passengers in them. And you can make them as fast as you want.I think there are other reasons to be concerned about making systems more intelligent than humans, mostly to do with our own self-conception. Even if they are safe and beneficial and so on, what does it do to our conception of ourselves and our motivation and the structure of our society when everything that we're benefiting from is being produced by the machines and no longer by us?I don't know if you've seen the film \"Wall-E\" - because we've destroyed our own planet, humanity is left on these giant spaceships run by robots. And since the robots have taken over the management of civilization, there's no incentive for humans to learn how to run our civilization.And so it shows humans becoming infantilized and enfeebled. It's showing a tendency in our civilization, I think, which would massively accelerate if we have general purpose AI, which is to become dependent on the technology and then lose the incentive to learn and to be capable of anything. And that, I think, would be another form of catastrophe.Russell:So I hope that we get enough regulation in place that the developers of these systems take seriously their responsibility to understand how they work and ensure that they work in safe and predictable ways. And that the further development of those systems goes hand in hand with more understanding and much more rigorous regulation. In the long run, the next problem we're going to face is that even though we may understand how to build perfectly safe general purpose AI, what's to stop Dr. Evil building general purpose AI that's going to destroy the world?And you might first think, okay, well we'll have very strict laws about that, but we have very strict laws about malware and cybercrime, and yet malware and cybercrime are hardly extinct. So the only way to do it actually is to change our whole digital infrastructure.What the digital infrastructure does now is it runs anything unless it recognizes it is dangerous. If you have anti-virus software on your laptop and a known virus gets downloaded, the system will detect it and remove it. But what we need, actually, is for systems to work the other way around - we need to ensure that the hardware and the operating system won't run anything unless it knows that it's safe.That's a big change in the whole global digital ecosystem, but I think it's the only solution.By Jessica Chia and Bethany Cianciolo, CNNTM & © 2023 Cable News Network, Inc., a Time Warner Company. All rights reserved."
+        }
+    ]
+}

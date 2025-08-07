@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0019880724139511585,
+                    "sentence": "'Fox &amp; Friends' co-host whips up a post-Thanksgiving treat with the 'Leftover Pumpkin Pie Grown-Up Smoothie.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015687219565734267,
+                    "sentence": "'I'd bet most of America's refrigerators have leftoverpumpkin pieon the Saturday after Thanksgiving.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011010529706254601,
+                    "sentence": "It's delicious the first couple of times you eat it, but then what?It gets a littleboringon Day Two.STEVE DOOCY: A DELICIOUS DAY-AFTER-THANKSGIVING RECIPE -- TRY OUR 'LEFTOVER TURKEY GALETTE'My daughter Mary, the smoothie maker, and I came up with thisrecipeone morning when we didn't have fruit for a smoothie, but we had pie!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00096895731985569,
+                    "sentence": "Since then it's become a holiday highlight after brunch or dinner.Why do we call it a'grown-up smoothie'?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001375895575620234,
+                    "sentence": "Because if you're of legal age, you can add a hint of hooch with a splash of bourbon.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009406725293956697,
+                    "sentence": "Obviously, kids can't drink bourbon, first of all it's illegal, and second, they're kids and will find the taste revolting.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004688401706516743,
+                    "sentence": "As a six-year-old, I sipped my dad's Coors and gagged, until college, when I made a miraculous recovery.Not only does this take less than two minutes to make, it also tastes crazy delicious -- like something Starbucks would dream up in their pumpkin spice latte lab.This is just one of 100+ quick and easy recipes you'll find in the \"holidays\" chapter of our \"The Happy in a Hurry Cookbook.\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005882324650883675,
+                    "sentence": "And because this is the biggest shopping weekend of the year, may we suggest you consider it as a wonderful gift for the person on your holiday list... who loves to cook!Click here to get your copy!FROM STEVE DOOCYSteve Doocy currently serves as co-host of FOX News Channel's (FNC)FOX & Friends(weekdays 6-9AM/ET) alongside Ainsley Earhardt and Brian Kilmeade.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.017486769031531738,
+            "class_probabilities": {
+                "human": 0.9825132309684682,
+                "ai": 0.017486769031531738,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9825132309684682,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.017486769031531738,
+                    "human": 0.9825132309684682,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       'Fox &amp; Friends' co-host whips up a post-Thanksgiving treat with the 'Leftover Pumpkin Pie Grown-Up Smoothie.'I’d bet most of America’s refrigerators have leftoverpumpkin pieon the Saturday after Thanksgiving. It’s delicious the first couple of times you eat it, but then what?It gets a littleboringon Day Two.STEVE DOOCY: A DELICIOUS DAY-AFTER-THANKSGIVING RECIPE -- TRY OUR 'LEFTOVER TURKEY GALETTE'My daughter Mary, the smoothie maker, and I came up with thisrecipeone morning when we didn’t have fruit for a smoothie, but we had pie!  Since then it’s become a holiday highlight after brunch or dinner.Why do we call it a‘grown-up smoothie’? Because if you’re of legal age, you can add a hint of hooch with a splash of bourbon. Obviously, kids can’t drink bourbon, first of all it’s illegal, and second, they’re kids and will find the taste revolting. As a six-year-old, I sipped my dad’s Coors and gagged, until college, when I made a miraculous recovery.Not only does this take less than two minutes to make, it also tastes crazy delicious -- like something Starbucks would dream up in their pumpkin spice latte lab.This is just one of 100+ quick and easy recipes you’ll find in the \"holidays\" chapter of our \"The Happy in a Hurry Cookbook.\" And because this is the biggest shopping weekend of the year, may we suggest you consider it as a wonderful gift for the person on your holiday list ... who loves to cook!Click here to get your copy!FROM STEVE DOOCYSteve Doocy currently serves as co-host of FOX News Channel's (FNC)FOX & Friends(weekdays 6-9AM/ET) alongside Ainsley Earhardt and Brian Kilmeade.   "
+        }
+    ]
+}

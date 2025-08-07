@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 2.6466528652235866e-05,
+                    "sentence": "The credit rating agency Moody's on Nov. 10 lowered its outlook on the United States from “stable” to “negative” in the latest knock to the country's fiscal stewardship.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.415652670606505e-05,
+                    "sentence": "Though the White House and other federal leaders decried the change, is it any wonder investors have soured on the country's long-term prospects?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.5349641873617657e-05,
+                    "sentence": "The federal government spent weeks careening toward a shutdown ᅳ again.Federal employees, including members of our armed forces, faced the prospect of going without pay for an indeterminate period ᅳ again.Lawmakers in Congress bickered incessantly before approving a bill on Tuesday to fund essential operations ᅳ again.Washington's continued dysfunction has real-world consequences, affecting millions of people and tarnishing the nation's hard-won reputation for economic responsibility.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.3920183593872935e-05,
+                    "sentence": "But so long as voters elevate reckless extremists to influential positions and fail to dismiss those unfit to serve, the United States will see this movie play out time and time and time again ᅳ to our lasting detriment.As recently as 2011, the various firms and companies which evaluate the country's fiscal outlook were bullish on America's future.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.688835229491815e-05,
+                    "sentence": "Markets viewed the United States as a sound investment because they could be confident the federal government would pay its debts.Republicans assumed control of Congress in January 2011 and sought to use the debt ceiling, which is the total amount of debt the U.S. Treasury can accommodate, as leverage to exact cuts in spending.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.222086525056511e-05,
+                    "sentence": "That led to an agreement that narrowly avoided default, but the irresponsible brinkmanship rattled investors.Days after the deal, Standard &Poor's lowered the nation's credit rating from AAA (outstanding) to AA+ (excellent), citing “America's governance and policymaking becoming less stable, less effective, and less predictable” along with the escalating national debt.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005145781906321645,
+                    "sentence": "Officials from both parties pushed back, but failed to heed the agency's rebuke of how Washington conducts the people's business.The other two major rating firms, Fitch and Moody's, expressed a negative outlook but maintained the country's AAA rating until August, when Fitch announced its downgrade to AA+.“In Fitch's view, there has been a steady deterioration in standards of governance over the last 20 years, including on fiscal and debt matters, notwithstanding the June bipartisan agreement to suspend the debt limit until January 2025,” the agency said.Again, the rating firm criticized the behavior of officials who express comfort with allowing the government to default on its obligations.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004010100965388119,
+                    "sentence": "But those concerns fell on deaf ears as a small group of extremist House Republicans ousted Speaker Kevin McCarthy after he struck a deal to avoid a government shutdown through a 47-day continuing resolution.House Republicans squandered 21 of those days trying to elect McCarthy's replacement.But rather than knuckle down to address this crisis with appropriate urgency, House Republicans held a series of votes last week on unserious proposals made by unserious people such as cutting the White House press secretary's salary to $1 and defunding the office of the vice president.Only voters can solve this problem by rebuking those who insist on putting partisan politics ahead of the nation's best interests.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007766305934637785,
+                    "sentence": "Sending extremists to Washington only exacerbates the problem and ensures future turmoil.ᅳ The Virginian-Pilot",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.006576924694833349,
+            "class_probabilities": {
+                "human": 0.9934230753051666,
+                "ai": 0.006576924694833349,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9934230753051666,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006576924694833349,
+                    "human": 0.9934230753051666,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "The credit rating agency Moody’s on Nov. 10 lowered its outlook on the United States from “stable” to “negative” in the latest knock to the country’s fiscal stewardship. Though the White House and other federal leaders decried the change, is it any wonder investors have soured on the country’s long-term prospects? The federal government spent weeks careening toward a shutdown — again.Federal employees, including members of our armed forces, faced the prospect of going without pay for an indeterminate period — again.Lawmakers in Congress bickered incessantly before approving a bill on Tuesday to fund essential operations — again.Washington’s continued dysfunction has real-world consequences, affecting millions of people and tarnishing the nation’s hard-won reputation for economic responsibility. But so long as voters elevate reckless extremists to influential positions and fail to dismiss those unfit to serve, the United States will see this movie play out time and time and time again — to our lasting detriment.As recently as 2011, the various firms and companies which evaluate the country’s fiscal outlook were bullish on America’s future. Markets viewed the United States as a sound investment because they could be confident the federal government would pay its debts.Republicans assumed control of Congress in January 2011 and sought to use the debt ceiling, which is the total amount of debt the U.S. Treasury can accommodate, as leverage to exact cuts in spending. That led to an agreement that narrowly avoided default, but the irresponsible brinkmanship rattled investors.Days after the deal, Standard &Poor’s lowered the nation’s credit rating from AAA (outstanding) to AA+ (excellent), citing “America’s governance and policymaking becoming less stable, less effective, and less predictable” along with the escalating national debt. Officials from both parties pushed back, but failed to heed the agency’s rebuke of how Washington conducts the people’s business.The other two major rating firms, Fitch and Moody’s, expressed a negative outlook but maintained the country’s AAA rating until August, when Fitch announced its downgrade to AA+.“In Fitch’s view, there has been a steady deterioration in standards of governance over the last 20 years, including on fiscal and debt matters, notwithstanding the June bipartisan agreement to suspend the debt limit until January 2025,” the agency said.Again, the rating firm criticized the behavior of officials who express comfort with allowing the government to default on its obligations. But those concerns fell on deaf ears as a small group of extremist House Republicans ousted Speaker Kevin McCarthy after he struck a deal to avoid a government shutdown through a 47-day continuing resolution.House Republicans squandered 21 of those days trying to elect McCarthy’s replacement.But rather than knuckle down to address this crisis with appropriate urgency, House Republicans held a series of votes last week on unserious proposals made by unserious people such as cutting the White House press secretary’s salary to $1 and defunding the office of the vice president.Only voters can solve this problem by rebuking those who insist on putting partisan politics ahead of the nation’s best interests. Sending extremists to Washington only exacerbates the problem and ensures future turmoil.— The Virginian-Pilot"
+        }
+    ]
+}

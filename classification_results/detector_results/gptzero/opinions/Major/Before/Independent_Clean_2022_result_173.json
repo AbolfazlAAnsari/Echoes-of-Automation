@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0010365336202085018,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011214071419090033,
+                    "sentence": "Please send your letters toletters@independent.co.ukThere's no artist who deserves a resurgence in their career and introduction to a new generation more thanKate Bush.In a pop industry now quite bland in terms of flamboyant artistry and originality, Kate Bush's return is a reminder of a better age in popular music.With her haunting melodies, heart-wrenching lyrics and sensual dance routines, Kate Bush was an icon and still is.Congratulations to Kate on her No 1 with the classic 'Running up that Hill'.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011951782507821918,
+                    "sentence": "I'm so very pleased for her.Diane SilvaBournemouthOur PM is a slackerRather than address his own MPs who represent some of the most disadvantaged places in the UK, Mr Johnson scuttled off for a photo op in Ukraine.Shameless shirker who has no respect for those who are struggling.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016388543881475925,
+                    "sentence": "Our PM is a slacker.Perry GardnerWolsingham, County DurhamWe are still in the Dark AgesHow nice for the chaps at Ascot to be allowed to remove their jackets and ties due to the extreme heat.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012665360700339079,
+                    "sentence": "Jolly decent of the racing authorities!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000696350762154907,
+                    "sentence": "Such a shame that the tools of their highly lucrative trade, the horses, were given no such consideration, and were forced to run to the extreme edge of endurance - something that in my opinion constitutes actual torture inflicted upon them in temperatures of over 32C.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001586351078003645,
+                    "sentence": "What a spectacle.Animals used and abused to entertain and enrich thoughtless people wearing hideous clothing, while inane commentators bray idiotically and the spectators drink lots of booze.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.5503223342821e-05,
+                    "sentence": "We are still in the Dark Ages.Penny LittleOxfordshireWhy strike action is necessaryTory politicians criticise the rail workers for causing chaos by striking for an inflation-matching pay rise.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.397991481004283e-05,
+                    "sentence": "In time, after disruption and negotiation, they will probably succeed in their aim.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.302099791355431e-05,
+                    "sentence": "On the other hand, no less-deserving nurses are being offered a third of the 9 per cent they claim is needed to stand still.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.379480717238039e-05,
+                    "sentence": "But knowing the latter are unlikely to completely withdraw their labour, it is clear who will win and demonstrate why strike action is necessary.Geoff ForwardStirlingI admire Lord GeidtI readAndrew Woodcock's columnwith interest and I should imagine Lord Geidt is in a more conducive headspace now, than in the untenable position of countenancing the irregular breaking of international law.This was indeed a poison chalice, and we now have had two decent and moral holders of ethics advisers placed in this invidious position resign.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.054524419596419e-05,
+                    "sentence": "Because they felt their reservations were falling on deaf ears of the prime minister and his cabinet.We are indeed residing in a political parallel universe where traditional norms and ethics are being subverted on an industrial scale, and his decision is the latest in this political saga.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.65654180618003e-05,
+                    "sentence": "So I admire Lord Geidt for resigning; he can at least look himself in the mirror and state, “Enough is enough”, and walk away with his head held high.Judith DanielsGreat Yarmouth",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.017486769031531738,
+            "class_probabilities": {
+                "human": 0.9825132309684682,
+                "ai": 0.017486769031531738,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9825132309684682,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.017486769031531738,
+                    "human": 0.9825132309684682,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThere’s no artist who deserves a resurgence in their career and introduction to a new generation more thanKate Bush.In a pop industry now quite bland in terms of flamboyant artistry and originality, Kate Bush’s return is a reminder of a better age in popular music.With her haunting melodies, heart-wrenching lyrics and sensual dance routines, Kate Bush was an icon and still is.Congratulations to Kate on her No 1 with the classic ‘Running up that Hill’. I’m so very pleased for her.Diane SilvaBournemouthOur PM is a slackerRather than address his own MPs who represent some of the most disadvantaged places in the UK, Mr Johnson scuttled off for a photo op in Ukraine.Shameless shirker who has no respect for those who are struggling. Our PM is a slacker.Perry GardnerWolsingham, County DurhamWe are still in the Dark AgesHow nice for the chaps at Ascot to be allowed to remove their jackets and ties due to the extreme heat. Jolly decent of the racing authorities! Such a shame that the tools of their highly lucrative trade, the horses, were given no such consideration, and were forced to run to the extreme edge of endurance – something that in my opinion constitutes actual torture inflicted upon them in temperatures of over 32C. What a spectacle.Animals used and abused to entertain and enrich thoughtless people wearing hideous clothing, while inane commentators bray idiotically and the spectators drink lots of booze. We are still in the Dark Ages.Penny LittleOxfordshireWhy strike action is necessaryTory politicians criticise the rail workers for causing chaos by striking for an inflation-matching pay rise. In time, after disruption and negotiation, they will probably succeed in their aim. On the other hand, no less-deserving nurses are being offered a third of the 9 per cent they claim is needed to stand still. But knowing the latter are unlikely to completely withdraw their labour, it is clear who will win and demonstrate why strike action is necessary.Geoff ForwardStirlingI admire Lord GeidtI readAndrew Woodcock’s columnwith interest and I should imagine Lord Geidt is in a more conducive headspace now, than in the untenable position of countenancing the irregular breaking of international law.This was indeed a poison chalice, and we now have had two decent and moral holders of ethics advisers placed in this invidious position resign. Because they felt their reservations were falling on deaf ears of the prime minister and his cabinet.We are indeed residing in a political parallel universe where traditional norms and ethics are being subverted on an industrial scale, and his decision is the latest in this political saga. So I admire Lord Geidt for resigning; he can at least look himself in the mirror and state, “Enough is enough”, and walk away with his head held high.Judith DanielsGreat Yarmouth"
+        }
+    ]
+}

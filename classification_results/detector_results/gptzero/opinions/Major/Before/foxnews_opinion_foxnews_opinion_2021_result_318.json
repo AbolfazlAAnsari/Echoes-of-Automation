@@ -1,0 +1,154 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00013224873691797256,
+                    "sentence": "Mutual Fund and ETF data provided byRefinitiv Lipper.Author of 'Irreversible Damage' Abigail Shrier joins 'Tucker Carlson Tonight' to discuss the impact of H.R.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.721335037378594e-05,
+                    "sentence": "5 on US womenAuthor of \"Irreversible Damage\" Abigail Shrier told \"Tucker Carlson Tonight\" Thursday that Democrats have snuck in a \"really radical gender ideology\" into the Equality Act, claiming the bill, whichpassed through the House of Representativesin late February, has a \"level of misogyny behind it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.008728425716981e-05,
+                    "sentence": "\"SHRIER: I have a daughter and I want to raise her in an America that's safe and fair for women and girls.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.252494833664969e-05,
+                    "sentence": "Democrats just wanted to talk about the fact that the bill includes rights for inemployment [sic] and housing for transgender and gay Americans.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.171475201379508e-05,
+                    "sentence": "And that's wonderful.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.808061491232365e-05,
+                    "sentence": "And I would have supported the bill if that's all it was.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006306520663201809,
+                    "sentence": "But actually, the Democrats sneaked in this really radical gender ideology, which states that if you're a biological man and decide at any point, for any reason that you would like to declare that you're a woman, you now would have a legal entitlement to enter all of women's protective spaces, compete in women's sports, and you'd be eligible for all women's scholarships.We're already seeing rapes in women's prisons where opportunistic men self-identify as women.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007486920803785324,
+                    "sentence": "Remember, all they have to do is announce their women.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006481608375906944,
+                    "sentence": "They don't need to change anything.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005883196834474802,
+                    "sentence": "So they get transferred into women's prison.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004647288005799055,
+                    "sentence": "And then some of these men are sex offenders and they can harm women and they're already doing so.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007124194409698248,
+                    "sentence": "And we can expect opportunistic men to continue on this path.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0035710905212908983,
+                    "sentence": "This has nothing to do with transgender Americans and everything to do with self-identification.It's a really hard left radical position, gender ideology.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003933508414775133,
+                    "sentence": "And I think there is a degree of misogyny behind it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007138003711588681,
+                    "sentence": "It's very much like critical race theory tells white people that they're not entitled to be part of any conversation or gender ideology tells women they are never allowed to speak up if they feel unsafe or if they feel threatened or if they feel their competitions aren't fair because they're competing and competing against biological men.WATCH THE FULL CLIP HEREThis article was written by Fox News staff.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 15,
+                    "completely_generated_prob": 2.5938383721896624e-13
+                }
+            ],
+            "completely_generated_prob": 0.02446263556356353,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.02446263556356353,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.02446263556356353,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Mutual Fund and ETF data provided byRefinitiv Lipper.Author of 'Irreversible Damage' Abigail Shrier joins 'Tucker Carlson Tonight' to discuss the impact of H.R. 5 on US womenAuthor of \"Irreversible Damage\" Abigail Shrier told \"Tucker Carlson Tonight\" Thursday that Democrats have snuck in a \"really radical gender ideology\" into the Equality Act, claiming the bill, whichpassed through the House of Representativesin late February, has a \"level of misogyny behind it.\"SHRIER: I have a daughter and I want to raise her in an America that's safe and fair for women and girls. Democrats just wanted to talk about the fact that the bill includes rights for inemployment [sic] and housing for transgender and gay Americans. And that's wonderful. And I would have supported the bill if that's all it was. But actually, the Democrats sneaked in this really radical gender ideology, which states that if you're a biological man and decide at any point, for any reason that you would like to declare that you're a woman, you now would have a legal entitlement to enter all of women's protective spaces, compete in women's sports, and you'd be eligible for all women's scholarships.We're already seeing rapes in women's prisons where opportunistic men self-identify as women. Remember, all they have to do is announce their women. They don't need to change anything. So they get transferred into women's prison. And then some of these men are sex offenders and they can harm women and they're already doing so. And we can expect opportunistic men to continue on this path. This has nothing to do with transgender Americans and everything to do with self-identification.It's a really hard left radical position, gender ideology. And I think there is a degree of misogyny behind it. It's very much like critical race theory tells white people that they're not entitled to be part of any conversation or gender ideology tells women they are never allowed to speak up if they feel unsafe or if they feel threatened or if they feel their competitions aren't fair because they're competing and competing against biological men.WATCH THE FULL CLIP HEREThis article was written by Fox News staff."
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0001320556184509769,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018791310139931738,
+                    "sentence": "Please send your letters toletters@independent.co.ukOmicron cases are rising exponentially, but in the last week the number of people with the disease both in hospital and inintensive carehas declined.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001794222480384633,
+                    "sentence": "This isn't the usual pattern for a disease that we have learned to know and dislike.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014096396625973284,
+                    "sentence": "Yet it is for this that festivities are being closed down, effectively, and businesses are having their existence threatened.At what point do we conclude that we have to learn to live - and live to the full - with some form of Covid?Jill StephensonEdinburghBoris Johnson'snon-announcement yesterdayabout Covid precautions over Christmas shows that he is unable to govern his cabinet or his parliamentary party and therefore he is not governing the country.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016838980081956834,
+                    "sentence": "He is desperately weak and is drifting and so allowing the country and the NHS to drift into ever greater danger.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00024755223421379924,
+                    "sentence": "Have we ever had such a useless prime minister?John E HarrisonChorley, LancashireNo restrictions before Christmas?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000136233662487939,
+                    "sentence": "How much damage must be done by not imposing timely restrictions in accordance with professional advice, so as to avoid \"Boris cancels Christmas\" headlines?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019925493688788265,
+                    "sentence": "All to assist one incompetent man's vanity and political survival.John LewisAddress suppliedCase not closedDoesn't the fact that Simon Case accepted the job of chairing the investigation into parties at No 10 whileclearly being awarethat such parties took place indicate that those in and close to government know that lying is endemic and that cover-ups can always be used to successfully deceive the public?The arrogance and sense of entitlement of those in power under Boris Johnson means that they feel they can get away with anything.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00033053330844268203,
+                    "sentence": "Maybe that's because they know that the bulk of the electorate aren't paying attention.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003112016711384058,
+                    "sentence": "As one non-voter in North Shropshire said when interviewed on the Today programme recently, \"I don't have an opinion, really.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00031498854514211416,
+                    "sentence": "\"Graham PowellCirencesterWhen will they learn?Why do politicians not realise that the truth always eventually comes out?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002560224384069443,
+                    "sentence": "After \"partygate\" and thelatest photo of cheese and wine in the gardenor back office of Downing Street, Matt Hancock and his close friends rushed out a statement very carefully laying out that he did not attend and even provided timings to back this up.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03132320195436478,
+                    "sentence": "I guess the camera never lies?OK, images can be manipulated just like the truth uttered by a politician or civil servant, but in this case the camera doesn't lie and Boris Johnson and Hancock's reputations are only tarnished further.Gordon RonaldHertsRead MoreCovid omicron news: Booster vaccine queues reach six hoursOmicron symptoms: What to look out for from new Covid variantWill there be a new UK lockdown before Christmas as part of Plan B?Letters: Why is Boris Johnson so afraid of the right wing of the Tories?Letters: Our politicians certainly seem to enjoy drinking on the jobLetters: Lord Frost resigned over Covid measures - yeah, right",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.058471088130131146,
+            "class_probabilities": {
+                "human": 0.9415289118698688,
+                "ai": 0.058471088130131146,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9415289118698688,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.058471088130131146,
+                    "human": 0.9415289118698688,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukOmicron cases are rising exponentially, but in the last week the number of people with the disease both in hospital and inintensive carehas declined. This isn't the usual pattern for a disease that we have learned to know and dislike. Yet it is for this that festivities are being closed down, effectively, and businesses are having their existence threatened.At what point do we conclude that we have to learn to live - and live to the full - with some form of Covid?Jill StephensonEdinburghBoris Johnson'snon-announcement yesterdayabout Covid precautions over Christmas shows that he is unable to govern his cabinet or his parliamentary party and therefore he is not governing the country. He is desperately weak and is drifting and so allowing the country and the NHS to drift into ever greater danger. Have we ever had such a useless prime minister?John E HarrisonChorley, LancashireNo restrictions before Christmas? How much damage must be done by not imposing timely restrictions in accordance with professional advice, so as to avoid \"Boris cancels Christmas\" headlines? All to assist one incompetent man's vanity and political survival.John LewisAddress suppliedCase not closedDoesn't the fact that Simon Case accepted the job of chairing the investigation into parties at No 10 whileclearly being awarethat such parties took place indicate that those in and close to government know that lying is endemic and that cover-ups can always be used to successfully deceive the public?The arrogance and sense of entitlement of those in power under Boris Johnson means that they feel they can get away with anything. Maybe that's because they know that the bulk of the electorate aren't paying attention. As one non-voter in North Shropshire said when interviewed on the Today programme recently, \"I don't have an opinion, really.\"Graham PowellCirencesterWhen will they learn?Why do politicians not realise that the truth always eventually comes out? After \"partygate\" and thelatest photo of cheese and wine in the gardenor back office of Downing Street, Matt Hancock and his close friends rushed out a statement very carefully laying out that he did not attend and even provided timings to back this up. I guess the camera never lies?OK, images can be manipulated just like the truth uttered by a politician or civil servant, but in this case the camera doesn't lie and Boris Johnson and Hancock's reputations are only tarnished further.Gordon RonaldHertsRead MoreCovid omicron news: Booster vaccine queues reach six hoursOmicron symptoms: What to look out for from new Covid variantWill there be a new UK lockdown before Christmas as part of Plan B?Letters: Why is Boris Johnson so afraid of the right wing of the Tories?Letters: Our politicians certainly seem to enjoy drinking on the jobLetters: Lord Frost resigned over Covid measures - yeah, right"
+        }
+    ]
+}

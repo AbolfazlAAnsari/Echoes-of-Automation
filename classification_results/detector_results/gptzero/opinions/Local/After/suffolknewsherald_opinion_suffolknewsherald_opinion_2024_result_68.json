@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.9863782525062561,
+                    "sentence": "Published 6:19 pm Tuesday, March 5, 2024BySuffolk News-Herald Editorial BoardThe completion of the Western Tidewater Free Clinic Dental expansion represents a significant milestone in providing essential healthcare services to the community.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9968226552009583,
+                    "sentence": "The expansion not only signifies growth but also underscores the dedication of the clinic and its supporters to improving healthcare accessibility for the underinsured and uninsured.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9983145594596863,
+                    "sentence": "The increased capacity, thanks to the expansion, will undoubtedly benefit the community by accommodating more patients in need of dental care.Moreover, the collaboration between various stakeholders, including supporters, volunteers, and donors, showcases the collective effort and commitment towards the betterment of healthcare services.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9989537000656128,
+                    "sentence": "It is heartening to see the community coming together to support such a noble cause, emphasizing the importance of solidarity in addressing healthcare disparities.The enthusiasm expressed by Executive Director Ashley Greene reflects the passion and dedication of the clinic's team towards serving their patients.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9984909892082214,
+                    "sentence": "Their excitement for the completion of the project signifies not only the culmination of hard work but also the anticipation of making a positive impact on the lives of individuals in need of dental care.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.8364956378936768,
+                    "sentence": "Overall, the Western Tidewater Free Clinic Dental Expansion stands as a testament to the community's resilience and commitment to ensuring equitable access to healthcare services for all.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.01441238634288311,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020034059416502714,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 0.5167174234325569
+                }
+            ],
+            "completely_generated_prob": 0.38430117969664945,
+            "class_probabilities": {
+                "human": 0,
+                "ai": 0.38430117969664945,
+                "mixed": 0.6156988203033504
+            },
+            "average_generated_prob": 0.75,
+            "predicted_class": "mixed",
+            "confidence_score": 0.6156988203033504,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.38430117969664945,
+                    "human": 0,
+                    "mixed": 0.6156988203033504
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "MIXED",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 6:19 pm Tuesday, March 5, 2024BySuffolk News-Herald Editorial BoardThe completion of the Western Tidewater Free Clinic Dental expansion represents a significant milestone in providing essential healthcare services to the community. The expansion not only signifies growth but also underscores the dedication of the clinic and its supporters to improving healthcare accessibility for the underinsured and uninsured. The increased capacity, thanks to the expansion, will undoubtedly benefit the community by accommodating more patients in need of dental care.Moreover, the collaboration between various stakeholders, including supporters, volunteers, and donors, showcases the collective effort and commitment towards the betterment of healthcare services. It is heartening to see the community coming together to support such a noble cause, emphasizing the importance of solidarity in addressing healthcare disparities.The enthusiasm expressed by Executive Director Ashley Greene reflects the passion and dedication of the clinic’s team towards serving their patients. Their excitement for the completion of the project signifies not only the culmination of hard work but also the anticipation of making a positive impact on the lives of individuals in need of dental care. Overall, the Western Tidewater Free Clinic Dental Expansion stands as a testament to the community’s resilience and commitment to ensuring equitable access to healthcare services for all.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 2.1995778297423385e-05,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°While under oath this week Donald Trump was instructed to answer questions about his financial documents as part of New York Attorney General Tish James' civil fraud trial over allegations that he illegally altered the value of his assets.Unsurprisingly, the former president and would-be coup leader tried to answer very little, instead turning Manhattan state Supreme Court Justice Arthur Engoron's courtroom into yet another venue for his never-ending campaign and crusade against his enemies real and perceived.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.663084160303697e-05,
+                    "sentence": "In a representative exchange, he called the federal and state prosecutors looking into him “all haters.”It's easy to snicker at Trump's sophomoric attitude, his inability to keep calm even when his business ᅳ the source of his very identity and mythology ᅳ are on the line, his pettiness, his casual disregard for legal process.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.5057272068806924e-05,
+                    "sentence": "It all feeds into the image of Trump as buffoon, a kind of petulant and malignant forever child who's always good for a laugh, an image that certainly provides comfort to his many liberal and moderate detractors.Yet that's not necessarily the right way to view the theatrics on display in the courtroom downtown.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.54453370871488e-05,
+                    "sentence": "To regard them as farce or entertainment ignores just how dangerous the underlying motivations are.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.40183526329929e-05,
+                    "sentence": "Trump's deepest and perhaps sole true belief is that he is beyond any reproach or accountability, owed nothing but devotion and subservience, and incapable of error.It might strike us as funny that he seems so intent on attacking the very judge that has the power to impose huge fines, hollow out his fraud-riddled real estate operation and remove him from the business via a prohibition on serving as a corporate officer.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.3474345653085038e-05,
+                    "sentence": "Really, though, it's a display of power.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.0692335965577513e-05,
+                    "sentence": "Trump is indicating that he doesn't care or doesn't have to care what the judge rules, either because he's already posturing for an appeal or, more likely, because he believes he's simply untouchable by the law.This was driven home not just by Trump but his lawyers, particularly the similarly unpleasant Chris Kise, who among other things told the judge, when asked if he could control his client, that they should just allow the “former and future chief executive of the United States” answer how he pleased.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010197801515460014,
+                    "sentence": "The implication was clear: Trump is practically preordained to retake the executive reins of the country (note that Kise didn't simply say “president” but used the term more commonly associated with the generally unconstrained leader of a corporation) and he has the absolute right to answer or not answer questions as he likes, something a lowly judge shouldn't be able to constrain.From the start, Trump and his team has treated this and every other inquiry into his wrongdoing as a politically-motivated overreach, which would already be concerning if they were not also drawing up plans to exact supposed revenge via taking political control of the federal law enforcement apparatus the second he gets back in the White House.In that light, turning Engoron's courtroom into a circus is much more sinister than it is amusing.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009550800547003746,
+                    "sentence": "Trump is sure that he just has to wait out the clock until he can get elected again and then will finally free himself from any remnants of legal inhibitions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03372253105044365,
+                    "sentence": "For that reason alone, he can never be allowed back.ᅳ New York Daily NewsRecord-setting University of Hawaii quarterback and 2007 Heisman Trophy finalist Colt Brennan has died, his father Terry Brennan told the Honolulu Star-Advertiser.Hilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03722413256764412,
+                    "sentence": "Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.025041194076269924,
+            "class_probabilities": {
+                "human": 0.974671313226954,
+                "ai": 0.025041194076269924,
+                "mixed": 0.00028749269677611
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.974671313226954,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.025041194076269924,
+                    "human": 0.974671313226954,
+                    "mixed": 0.00028749269677611
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°While under oath this week Donald Trump was instructed to answer questions about his financial documents as part of New York Attorney General Tish James’ civil fraud trial over allegations that he illegally altered the value of his assets.Unsurprisingly, the former president and would-be coup leader tried to answer very little, instead turning Manhattan state Supreme Court Justice Arthur Engoron’s courtroom into yet another venue for his never-ending campaign and crusade against his enemies real and perceived. In a representative exchange, he called the federal and state prosecutors looking into him “all haters.”It’s easy to snicker at Trump’s sophomoric attitude, his inability to keep calm even when his business — the source of his very identity and mythology — are on the line, his pettiness, his casual disregard for legal process. It all feeds into the image of Trump as buffoon, a kind of petulant and malignant forever child who’s always good for a laugh, an image that certainly provides comfort to his many liberal and moderate detractors.Yet that’s not necessarily the right way to view the theatrics on display in the courtroom downtown. To regard them as farce or entertainment ignores just how dangerous the underlying motivations are. Trump’s deepest and perhaps sole true belief is that he is beyond any reproach or accountability, owed nothing but devotion and subservience, and incapable of error.It might strike us as funny that he seems so intent on attacking the very judge that has the power to impose huge fines, hollow out his fraud-riddled real estate operation and remove him from the business via a prohibition on serving as a corporate officer. Really, though, it’s a display of power. Trump is indicating that he doesn’t care or doesn’t have to care what the judge rules, either because he’s already posturing for an appeal or, more likely, because he believes he’s simply untouchable by the law.This was driven home not just by Trump but his lawyers, particularly the similarly unpleasant Chris Kise, who among other things told the judge, when asked if he could control his client, that they should just allow the “former and future chief executive of the United States” answer how he pleased. The implication was clear: Trump is practically preordained to retake the executive reins of the country (note that Kise didn’t simply say “president” but used the term more commonly associated with the generally unconstrained leader of a corporation) and he has the absolute right to answer or not answer questions as he likes, something a lowly judge shouldn’t be able to constrain.From the start, Trump and his team has treated this and every other inquiry into his wrongdoing as a politically-motivated overreach, which would already be concerning if they were not also drawing up plans to exact supposed revenge via taking political control of the federal law enforcement apparatus the second he gets back in the White House.In that light, turning Engoron’s courtroom into a circus is much more sinister than it is amusing. Trump is sure that he just has to wait out the clock until he can get elected again and then will finally free himself from any remnants of legal inhibitions. For that reason alone, he can never be allowed back.— New York Daily NewsRecord-setting University of Hawaii quarterback and 2007 Heisman Trophy finalist Colt Brennan has died, his father Terry Brennan told the Honolulu Star-Advertiser.Hilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track. Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017."
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0012322934344410896,
+                    "sentence": "Published 5:23 pm Friday, February 17, 2023ByLetters to the EditorEditor:Mr. John Fitzgerald Riddick and I seem to share the same despair of our hometown along East Washington Street to Norfolk Road.As my husband and I traveled along this route last week to attend a wake for one of our classmates at Crocker Funeral Home, I was appalled to see the condition on that side of the railroad as it was lively and in great condition back in the day.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013614360941573977,
+                    "sentence": "We as youth loved that area with the Carver Theater, Old Horse Shoe, etc.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011315697338432074,
+                    "sentence": "My father used to get dressed on Saturdays just to go to the old pool room to meet his fellow friends.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011411589803174138,
+                    "sentence": "I would have to go get him and walk him home as he was feeling mighty good!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014172075316309929,
+                    "sentence": "Walking by Planters on Culloden St. with “Mr.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010805517667904496,
+                    "sentence": "Harvey” was a joy back then.As there are not many of us ''old timers left, something must be done to refurbish this area!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015890534268692136,
+                    "sentence": "The other side of the railroad doesn't look like this.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001059262198396027,
+                    "sentence": "What a shame the East Washington Street area is deliberately being left to fall down.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009920516749843955,
+                    "sentence": "Although I am handicapped, I will help in any way I can.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007907493971288204,
+                    "sentence": "City Council please pay attention!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005516908597201109,
+                    "sentence": "We “all” must heed this call.Hattie Council LyonsCarrolltonCorbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006640168838202953,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:23 pm Friday, February 17, 2023ByLetters to the EditorEditor:Mr. John Fitzgerald Riddick and I seem to share the same despair of our hometown along East Washington Street to Norfolk Road.As my husband and I traveled along this route last week to attend a wake for one of our classmates at Crocker Funeral Home, I was appalled to see the condition on that side of the railroad as it was lively and in great condition back in the day. We as youth loved that area with the Carver Theater, Old Horse Shoe, etc. My father used to get dressed on Saturdays just to go to the old pool room to meet his fellow friends. I would have to go get him and walk him home as he was feeling mighty good! Walking by Planters on Culloden St. with “Mr. Harvey” was a joy back then.As there are not many of us ‘’old timers left, something must be done to refurbish this area! The other side of the railroad doesn’t look like this. What a shame the East Washington Street area is deliberately being left to fall down. Although I am handicapped, I will help in any way I can. City Council please pay attention! We “all” must heed this call.Hattie Council LyonsCarrolltonCorbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…"
+        }
+    ]
+}

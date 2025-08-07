@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.005446826107800007,
+                    "sentence": "Please send your letters toletters@independent.co.ukI would like to see the health secretary,Sajid Javid, spend a week in a GP practice to experience what actually is going on in primary care before he makes any more sweeping statements.I am a receptionist and have worked throughout the pandemic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020883651450276375,
+                    "sentence": "Ourdoctorshave seen patients, face to face, when clinically needed, since the first lockdown in March 2020.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000847401621285826,
+                    "sentence": "I spend a large proportion of my week defending our doctors (who are frequently working 15/16 hour days) and being abused by patients who are struggling to see/speak to a GP.As far as I am aware, no one from the government, or the media, have any idea what it is like to work in primary care.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005926292506046593,
+                    "sentence": "You all need to do your homework and find out personally what it is like working in a GP surgery.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00664341077208519,
+                    "sentence": "You are very welcome to come and visit mine, we are looking for a new receptionist at the moment.M BarrettSurreyThanks so much to Rupert Hawksley for his article about reading and finishing books.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010551312007009983,
+                    "sentence": "Some of my favourite reads have been difficult to get into: The Name of the Rose, A Place of Greater Safety, The Luminaries, Crime and Punishment, Buddenbrooks - but worth the effort.It's good to be challenged by a different style or an unfamiliar genre.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00291376537643373,
+                    "sentence": "It can take a while to get used to the style and the rhythm but then you are enriched by the experience.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004806607961654663,
+                    "sentence": "I'm sometimes tempted to give up, so thanks for the encouragement to persevere.Philippa BonorinoStockportClear positionSally Rooneyhas no problem with her work being translated into Hebrew.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.020434552803635597,
+                    "sentence": "It's an Israeli-based publisher she rejects.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005637065973132849,
+                    "sentence": "What's all the fuss about!Keith NolanCo LeitrimA bright ideaI see that the latest \"bright idea\" to handle shortages, which were not created by Brexit of course, is to bring in butchers to process our pork.Next month or even next week our government can then roll out such logic to other sectors, which remember were not damaged through Brexit, by bringing in European workers who contributed to our economy pre-Brexit and when they fail to show in sufficient numbers we can blame them for our plight.Robert BostonKentTransformerSince 10 mins was enough for a transformative experience in space according to William Shatner, can we send the PM?Mike BorLondonRead MoreLetters: Since Boris Johnson came to power, it's embarrassing to be BritishLetters: Is it time for Northern Ireland to be an independent state?Letters: The litmus test for the Covid report is how the government reacts to itLetters: How many politicians are benefitting from offshore arrangements?Letters: Brexit is taking us backwards faster than we could have ever imaginedLetters: Is it time for fuel coupons and a reduced speed limit to curb usage?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.037526171686261885,
+            "class_probabilities": {
+                "human": 0.9624738283137382,
+                "ai": 0.037526171686261885,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9624738283137382,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.037526171686261885,
+                    "human": 0.9624738283137382,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukI would like to see the health secretary,Sajid Javid, spend a week in a GP practice to experience what actually is going on in primary care before he makes any more sweeping statements.I am a receptionist and have worked throughout the pandemic. Ourdoctorshave seen patients, face to face, when clinically needed, since the first lockdown in March 2020. I spend a large proportion of my week defending our doctors (who are frequently working 15/16 hour days) and being abused by patients who are struggling to see/speak to a GP.As far as I am aware, no one from the government, or the media, have any idea what it is like to work in primary care. You all need to do your homework and find out personally what it is like working in a GP surgery. You are very welcome to come and visit mine, we are looking for a new receptionist at the moment.M BarrettSurreyThanks so much to Rupert Hawksley for his article about reading and finishing books. Some of my favourite reads have been difficult to get into: The Name of the Rose, A Place of Greater Safety, The Luminaries, Crime and Punishment, Buddenbrooks - but worth the effort.It's good to be challenged by a different style or an unfamiliar genre. It can take a while to get used to the style and the rhythm but then you are enriched by the experience. I'm sometimes tempted to give up, so thanks for the encouragement to persevere.Philippa BonorinoStockportClear positionSally Rooneyhas no problem with her work being translated into Hebrew. It's an Israeli-based publisher she rejects. What's all the fuss about!Keith NolanCo LeitrimA bright ideaI see that the latest \"bright idea\" to handle shortages, which were not created by Brexit of course, is to bring in butchers to process our pork.Next month or even next week our government can then roll out such logic to other sectors, which remember were not damaged through Brexit, by bringing in European workers who contributed to our economy pre-Brexit and when they fail to show in sufficient numbers we can blame them for our plight.Robert BostonKentTransformerSince 10 mins was enough for a transformative experience in space according to William Shatner, can we send the PM?Mike BorLondonRead MoreLetters: Since Boris Johnson came to power, it's embarrassing to be BritishLetters: Is it time for Northern Ireland to be an independent state?Letters: The litmus test for the Covid report is how the government reacts to itLetters: How many politicians are benefitting from offshore arrangements?Letters: Brexit is taking us backwards faster than we could have ever imaginedLetters: Is it time for fuel coupons and a reduced speed limit to curb usage?"
+        }
+    ]
+}

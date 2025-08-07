@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0009740707464516163,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Erratic numbersErratic numbersA Nov. 28 article reported that COVID-19 infection numbers are likely to be erratic in the near future because fewer people get tested during holidays.This can cause confusion for interpreting the state of the epidemic as testing and identified cases go up and down.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008191504166461527,
+                    "sentence": "As smaller or larger numbers of people are tested, the number of positive cases will be correspondingly smaller or larger.In the early days of testing in the United States, President Trump played a statistical shell game, arguing that we should not do a lot of testing, because testing results in high numbers of cases.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006151415291242301,
+                    "sentence": "He said he did not want to see high case numbers.Although reporting numbers of positive cases is important, it is incomplete information.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00048167307977564633,
+                    "sentence": "The important statistic for tracking the epidemic is, for a recent period of say two weeks, the ratio of positive cases to the total number of people tested.This ratio as a percent should be less than 3% to avoid an upward exponential rise (spike up) of infection.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007785841007716954,
+                    "sentence": "A good or bad infection percentage reflects the level of mask-wearing and social distancing in a local community, county or state from which the data are collected.Unfortunately, the most publicly accessible numbers reported are simply recent positive case numbers without the percentage or the total numbers of recent tests for the same period by which one could calculate the percentage.William MautzKurtistownDeprivation of optionsAs the COVID-19 pandemic continues to rise in the United States, we find ourselves living with many uncertainties.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001320879440754652,
+                    "sentence": "A few weeks ago, a dear friend of mine announced that she was having a baby.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001199768390506506,
+                    "sentence": "While everyone gathered around her with great surprise and joy, she stood there with a blank expression on her face.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0029094265773892403,
+                    "sentence": "As her family members left the room, she told me that she felt selfish for not being happy about her situation.There is a stigma attached to pregnancies: Women should be ecstatic, glowing with this new life they've created, and looking forward to the arrival of their newborn.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0030055020470172167,
+                    "sentence": "This isn't always the case, and society needs to recognize that women are allowed to feel however they need/want to feel.With the stress of not having a job due to the pandemic, and her partner being furloughed, the thought of bringing a child into the world at this time has caused her stress and anxiety.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003842688165605068,
+                    "sentence": "To make a difficult situation even more upsetting, when she arrived at her doctor's for a confirmation of the pregnancy, she was met with disbelief.She asked her primary physician what her options may be in the event that she was not able to have the baby.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004570509772747755,
+                    "sentence": "Her doctor simply stated that “not having your baby is not an option,” and not to worry because “women always feel better knowing that they've kept their baby.”Depriving women from being allowed to have options and making them feel guilty for a choice that should be theirs is unacceptable.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0046975682489573956,
+                    "sentence": "Women need access to vital health care, and everyone deserves comprehensive sex education.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007019578479230404,
+                    "sentence": "It is a basic human right.Jessica ConnerKailua-Kona",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.020660391318316405,
+            "class_probabilities": {
+                "human": 0.9793396086816837,
+                "ai": 0.020660391318316405,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9793396086816837,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020660391318316405,
+                    "human": 0.9793396086816837,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Erratic numbersErratic numbersA Nov. 28 article reported that COVID-19 infection numbers are likely to be erratic in the near future because fewer people get tested during holidays.This can cause confusion for interpreting the state of the epidemic as testing and identified cases go up and down. As smaller or larger numbers of people are tested, the number of positive cases will be correspondingly smaller or larger.In the early days of testing in the United States, President Trump played a statistical shell game, arguing that we should not do a lot of testing, because testing results in high numbers of cases. He said he did not want to see high case numbers.Although reporting numbers of positive cases is important, it is incomplete information. The important statistic for tracking the epidemic is, for a recent period of say two weeks, the ratio of positive cases to the total number of people tested.This ratio as a percent should be less than 3% to avoid an upward exponential rise (spike up) of infection. A good or bad infection percentage reflects the level of mask-wearing and social distancing in a local community, county or state from which the data are collected.Unfortunately, the most publicly accessible numbers reported are simply recent positive case numbers without the percentage or the total numbers of recent tests for the same period by which one could calculate the percentage.William MautzKurtistownDeprivation of optionsAs the COVID-19 pandemic continues to rise in the United States, we find ourselves living with many uncertainties. A few weeks ago, a dear friend of mine announced that she was having a baby. While everyone gathered around her with great surprise and joy, she stood there with a blank expression on her face. As her family members left the room, she told me that she felt selfish for not being happy about her situation.There is a stigma attached to pregnancies: Women should be ecstatic, glowing with this new life they’ve created, and looking forward to the arrival of their newborn. This isn’t always the case, and society needs to recognize that women are allowed to feel however they need/want to feel.With the stress of not having a job due to the pandemic, and her partner being furloughed, the thought of bringing a child into the world at this time has caused her stress and anxiety. To make a difficult situation even more upsetting, when she arrived at her doctor’s for a confirmation of the pregnancy, she was met with disbelief.She asked her primary physician what her options may be in the event that she was not able to have the baby. Her doctor simply stated that “not having your baby is not an option,” and not to worry because “women always feel better knowing that they’ve kept their baby.”Depriving women from being allowed to have options and making them feel guilty for a choice that should be theirs is unacceptable. Women need access to vital health care, and everyone deserves comprehensive sex education. It is a basic human right.Jessica ConnerKailua-Kona"
+        }
+    ]
+}

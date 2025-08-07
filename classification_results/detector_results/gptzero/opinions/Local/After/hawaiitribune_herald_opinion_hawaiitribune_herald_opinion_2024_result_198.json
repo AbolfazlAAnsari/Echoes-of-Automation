@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0003038452414330095,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|78.62°Insurance co-opcould be a solutionInsurance co-opcould be a solutionThis is in response to Don Carroll's letter on April 17 about Puna's homeowner insurance nightmare.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004074498428963125,
+                    "sentence": "He's right.If nothing is done, this insurance crisis in Lava Zones 1 and 2 is only going to get worse.Insurance premiums have skyrocketed from $1,500 per year to over $5,000 per year.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005132734659127891,
+                    "sentence": "This is unsustainable for most homeowners, and the situation puts those with mortgages really in a hard spot.What is the community doing?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005618984578177333,
+                    "sentence": "A small group was formed in Puna to study the reasons for all this and to work on legislative efforts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000532223260961473,
+                    "sentence": "We have now formed an Exploratory Committee to see if an insurance cooperative is the right solution for us.We envision a member-owned, nonprofit co-op.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006445023464038968,
+                    "sentence": "Our goal is to provide affordable insurance for those in Lava Zones 1 and 2.You can go to www.mutualmemberinsurance.org if you would like to know more about us.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002905465371441096,
+                    "sentence": "No obligation at all, this is simply a feasibility study to see if there is enough interest in this concept before we move further.Andrea RosanoffPahoaPay the homelessto collect chickensYes, I am tired of all the clucking by Hawaii County and the state Department of Agriculture about invasive species control.Considering the last effort to control feral fowl on Oahu spent $100,000 to trap only 150 chickens ᅳ or about $333 per chicken ᅳ how about instead we pay Hawaii Island's homeless folks a bounty of $50 per chicken?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00027340915403328836,
+                    "sentence": "Then the so-called “tight” funds would go much further and help the homeless at the same time.Just print up a few “wanted dead or alive” posters to announce the chicken bounty and set-up a collection and incineration center at the dump.Nonprofit organizations can cash-in, too, with chicken-hunt fundraisers!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00037180393701419234,
+                    "sentence": "Hey, maybe even sell the dead chickens to Honua Ola Bioenergy as biofuel for a sustainable waste-to-energy system?Or better yet, hire a professional animal trainer to teach or even breed specialty chickens to eat those coconut rhinoceros beetles before they get out of control.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.560533463722095e-05,
+                    "sentence": "The chickens would likely do a better job of managing yet another invasive species than DOA's current “plan” of wrapping trees in nets.In the meantime, I'm doing my part to keep the chicken population down by hunting for free eggs in my backyard.Cluck-a-doodle-do.Sylvia DahlbyHiloPolice are investigating a two-vehicle traffic collision Thursday afternoon in Pahoa that sent a motorcyclist to the hospital with critical injuries.BOULDER, Colo. ᅳ Minutes earlier, Deion Sanders' Colorado team had survived a frantic final drive from a proud North Dakota State team.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.824496762827039e-05,
+                    "sentence": "The Buffaloes snapped a six-game losing streak and avoided a disastrous opener with the 31-26 win Thursday night.Not a single hat hit the ice to celebrate Jason Robertson's first career playoff hat trick that paced the Dallas Stars to a 5-3 road win over the Edmonton Oilers on Monday night in Game 3 of the Western Conference final.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.006608679833334143,
+            "class_probabilities": {
+                "human": 0.9933913201666659,
+                "ai": 0.006608679833334143,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933913201666659,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006608679833334143,
+                    "human": 0.9933913201666659,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|78.62°Insurance co-opcould be a solutionInsurance co-opcould be a solutionThis is in response to Don Carroll’s letter on April 17 about Puna’s homeowner insurance nightmare. He’s right.If nothing is done, this insurance crisis in Lava Zones 1 and 2 is only going to get worse.Insurance premiums have skyrocketed from $1,500 per year to over $5,000 per year. This is unsustainable for most homeowners, and the situation puts those with mortgages really in a hard spot.What is the community doing? A small group was formed in Puna to study the reasons for all this and to work on legislative efforts. We have now formed an Exploratory Committee to see if an insurance cooperative is the right solution for us.We envision a member-owned, nonprofit co-op. Our goal is to provide affordable insurance for those in Lava Zones 1 and 2.You can go to www.mutualmemberinsurance.org if you would like to know more about us. No obligation at all, this is simply a feasibility study to see if there is enough interest in this concept before we move further.Andrea RosanoffPahoaPay the homelessto collect chickensYes, I am tired of all the clucking by Hawaii County and the state Department of Agriculture about invasive species control.Considering the last effort to control feral fowl on Oahu spent $100,000 to trap only 150 chickens — or about $333 per chicken — how about instead we pay Hawaii Island’s homeless folks a bounty of $50 per chicken? Then the so-called “tight” funds would go much further and help the homeless at the same time.Just print up a few “wanted dead or alive” posters to announce the chicken bounty and set-up a collection and incineration center at the dump.Nonprofit organizations can cash-in, too, with chicken-hunt fundraisers! Hey, maybe even sell the dead chickens to Honua Ola Bioenergy as biofuel for a sustainable waste-to-energy system?Or better yet, hire a professional animal trainer to teach or even breed specialty chickens to eat those coconut rhinoceros beetles before they get out of control. The chickens would likely do a better job of managing yet another invasive species than DOA’s current “plan” of wrapping trees in nets.In the meantime, I’m doing my part to keep the chicken population down by hunting for free eggs in my backyard.Cluck-a-doodle-do.Sylvia DahlbyHiloPolice are investigating a two-vehicle traffic collision Thursday afternoon in Pahoa that sent a motorcyclist to the hospital with critical injuries.BOULDER, Colo. — Minutes earlier, Deion Sanders’ Colorado team had survived a frantic final drive from a proud North Dakota State team. The Buffaloes snapped a six-game losing streak and avoided a disastrous opener with the 31-26 win Thursday night.Not a single hat hit the ice to celebrate Jason Robertson’s first career playoff hat trick that paced the Dallas Stars to a 5-3 road win over the Edmonton Oilers on Monday night in Game 3 of the Western Conference final."
+        }
+    ]
+}

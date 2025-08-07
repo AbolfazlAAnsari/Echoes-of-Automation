@@ -1,0 +1,94 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 3.0701055948156863e-05,
+                    "sentence": "From the archives As part of our Platinum 70 Year, we take a look back at opinions and reports from The Australian Financial Review on significant domestic and international events over the past seven decades.On January 14, 1960, the Reserve Bank of Australia officially came into being and took control of central bank functions from the government-owned Commonwealth Bank.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.9062550058588386e-05,
+                    "sentence": "The Australian Financial Review marked the occasion by questioning the \"empire\" over which the Reserve Bank's first governor, Dr H.C. \"Nugget\" Coombs, presided.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.4871878849808127e-05,
+                    "sentence": "As our editorial explained, government-controls on private bank lending combined with the expansion of hire purchase credit had reduced the new institution's \"leverage on the money supply\".OVERSEER TO A WANING EMPIRE?Today, January 14, what one of its official architects has described as \"perhaps one of the nicest pieces of Labour banking legislation\" will come into being in Australia.The colossus of the Commonwealth Banking Corporation will now present the private trading banks with what could turn out to be their most serious competitive threat since government banking gotunder way.If the legislative changes affecting central banking controls do anything to moderate the pathological fear of private bankers about the intentions of the governor and his merry men, something may have been achieved.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.3886213966761716e-05,
+                    "sentence": "But the banks by now probably realise that any concessions to their fears have not been bought cheaply.Ironically, the reforms come at a time when the importance of banking as it is practised by banks is declining sharply.Only the Commonwealth Trading Bank has shown anything that looks like an energetic expansion of its advance business in recent years.Since 1954-55 advances of the private banks have expanded by little more than 4 per cent, while the advances of the Commonwealth Trading Bank have grown by 38 per cent.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00028265651781111956,
+                    "sentence": "Over the last three years there has been virtually no change in private trading bank advances.Meanwhile, there has been the expansion of other forms of finance, notably hire purchase, tending incessantly to reducethe government's leverage on themoney supply.This already declining power of official monetary control may deteriorate so far that in some future emergency the issue will simply have to be faced.Already the Constitutional Review Committee has recommended wider Commonwealth powers over hire purchase and capital issues.The natural reply of the financiers to such suggestions is, of course, that the Commonwealth largely brought these troubles onto its own head by excessively conservative interest rate policies.While there is a good deal of truth in this allegation, it is of little help now that the harm has been done.The lack of any federal control over hire purchase, for example, denies the government the use of a weapon which has proved of tremendous help to the Conservative government of Britain in recent years.It may well be that, failing any such moves in future years, the erection of Dr Coombs' new building to house the Reserve Bank may be proof of that part of Parkinson's Law which states that institutions only move into permanent and properly designed buildings when they are in a state of incipient decline.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                }
+            ],
+            "completely_generated_prob": 0.008764888981516596,
+            "class_probabilities": {
+                "human": 0.9912351110184834,
+                "ai": 0.008764888981516596,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9912351110184834,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.008764888981516596,
+                    "human": 0.9912351110184834,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "From the archives As part of our Platinum 70 Year, we take a look back at opinions and reports from The Australian Financial Review on significant domestic and international events over the past seven decades.On January 14, 1960, the Reserve Bank of Australia officially came into being and took control of central bank functions from the government-owned Commonwealth Bank. The Australian Financial Review marked the occasion by questioning the \"empire\" over which the Reserve Bank's first governor, Dr H.C. \"Nugget\" Coombs, presided. As our editorial explained, government-controls on private bank lending combined with the expansion of hire purchase credit had reduced the new institution's \"leverage on the money supply\".OVERSEER TO A WANING EMPIRE?Today, January 14, what one of its official architects has described as \"perhaps one of the nicest pieces of Labour banking legislation\" will come into being in Australia.The colossus of the Commonwealth Banking Corporation will now present the private trading banks with what could turn out to be their most serious competitive threat since government banking gotunder way.If the legislative changes affecting central banking controls do anything to moderate the pathological fear of private bankers about the intentions of the governor and his merry men, something may have been achieved. But the banks by now probably realise that any concessions to their fears have not been bought cheaply.Ironically, the reforms come at a time when the importance of banking as it is practised by banks is declining sharply.Only the Commonwealth Trading Bank has shown anything that looks like an energetic expansion of its advance business in recent years.Since 1954-55 advances of the private banks have expanded by little more than 4 per cent, while the advances of the Commonwealth Trading Bank have grown by 38 per cent. Over the last three years there has been virtually no change in private trading bank advances.Meanwhile, there has been the expansion of other forms of finance, notably hire purchase, tending incessantly to reducethe government's leverage on themoney supply.This already declining power of official monetary control may deteriorate so far that in some future emergency the issue will simply have to be faced.Already the Constitutional Review Committee has recommended wider Commonwealth powers over hire purchase and capital issues.The natural reply of the financiers to such suggestions is, of course, that the Commonwealth largely brought these troubles onto its own head by excessively conservative interest rate policies.While there is a good deal of truth in this allegation, it is of little help now that the harm has been done.The lack of any federal control over hire purchase, for example, denies the government the use of a weapon which has proved of tremendous help to the Conservative government of Britain in recent years.It may well be that, failing any such moves in future years, the erection of Dr Coombs' new building to house the Reserve Bank may be proof of that part of Parkinson's Law which states that institutions only move into permanent and properly designed buildings when they are in a state of incipient decline."
+        }
+    ]
+}

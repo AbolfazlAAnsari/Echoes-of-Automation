@@ -1,0 +1,70 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0020096285734325647,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|78.854°The world as seen by cartoonist Steve Breen, The San Diego Union-Tribune.The world as seen by cartoonist Steve Breen, The San Diego Union-Tribune.In presidential fundraising these days, the donors who matter most are the very small and the very, very big.A former Waiakea High School basketball coach and onetime University of Hawaii at Manoa hoops standout is facing two criminal charges for allegedly pocketing funds intended to finance hotel arrangements for a basketball team trip.KAILUA-KONA ᅳ Under beautiful sunny skies, cyclists gathered at the bottom of Kaloko Drive on August 18 for the annual Pedal Til Ya Puke 6.5-Mile Hill Climb, an event that has become synonymous with grit, endurance and sheer determination.The Miami Dolphins have stamped their approval of coach Mike McDaniel for the long haul.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                }
+            ],
+            "completely_generated_prob": 0.02446263556356353,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.02446263556356353,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.02446263556356353,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|78.854°The world as seen by cartoonist Steve Breen, The San Diego Union-Tribune.The world as seen by cartoonist Steve Breen, The San Diego Union-Tribune.In presidential fundraising these days, the donors who matter most are the very small and the very, very big.A former Waiakea High School basketball coach and onetime University of Hawaii at Manoa hoops standout is facing two criminal charges for allegedly pocketing funds intended to finance hotel arrangements for a basketball team trip.KAILUA-KONA — Under beautiful sunny skies, cyclists gathered at the bottom of Kaloko Drive on August 18 for the annual Pedal Til Ya Puke 6.5-Mile Hill Climb, an event that has become synonymous with grit, endurance and sheer determination.The Miami Dolphins have stamped their approval of coach Mike McDaniel for the long haul."
+        }
+    ]
+}

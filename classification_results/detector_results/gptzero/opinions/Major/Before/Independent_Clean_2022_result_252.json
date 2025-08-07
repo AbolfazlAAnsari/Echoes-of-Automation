@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 9.330951434094459e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.357333717867732e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukThankfully the farcical process of selecting a new leader has now ended.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.089460268616676e-05,
+                    "sentence": "The two candidates proposed various strategies that they would enact for tackling the cost of living crisis.I may have missed it, of course, but did either of the candidates categorically state their preferred intention was to firstly reclaim the millions in unpaid UK taxes?If there really was a so-called “levelling up” agenda, then stating a desire to enthusiastically investigate and mine these often unethical reserves for the benefit of all would be a huge red wall vote winner.Nigel PlevinIlminsterCampaign for honest journalismI would like to thank and commendSean O'Grady's articlefor rational thought, honesty, and bravery.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010254877270199358,
+                    "sentence": "Our government has a responsibility to inform us truthfully and protect us reasonably, both of which they are completely failing in, leaving the job to journalists like Mr O'Grady.But most other newspapers are replicating the lies and misinformation from Mr Johnson's government, which is leading Britain into the worst public health disaster and the worst economic recession since the Second World War, because they refuse to acknowledge the truth and consider the plight of the ordinary people.God bless you in your campaign for honest journalism, and may you win out in the end.David ChurchWalesThe interminable road of declineNow that Boris Johnson's premiership is passing into history, we have to face the reality that the last three prime ministers have also been the worst three since Lord North.Tragically, I feel that the next No 10 key-holder - tipped to be Liz Truss - will only achieve the dubious distinction of being amongst the four worst of our leaders since 1782.Since 2016, we have sleep-walked down the interminable road of decline which will eventually create a banana republic without any bananas.Robert BostonKingshillSir Keir Starmer is right to discourage his front bench from attending picket lines during industrial disputes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001038180707837455,
+                    "sentence": "I can well remember the 1979 Winter of Discontent when British trade unions went to “war” against a democratically elected Labour government that was striving to weather a global energy crisis, exacerbated by the tax cutting policies of the previous (Tory) government.Politicians that had shamelessly exploited union grievances to get elected had no moral defence against outrageous demands when attempting to govern in their turn.The allegation of betrayal of “working people” had resonance and ushered in what proved to be one of the most repressive governments of modern times.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.379000402987003e-05,
+                    "sentence": "We have had our fill of populist politicians that spin policy according to the audience with little prospect of fulfilment.What is required is measured states persons' who put the needs of all above the self-interest of the permanently powerful.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010572915198281407,
+                    "sentence": "There should be no place for opportunist politicians who aspire to govern that would “run with the fox and hunt with the hounds”.David SmithTaunton",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.0051780533755591265,
+            "class_probabilities": {
+                "human": 0.9948219466244408,
+                "ai": 0.0051780533755591265,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9948219466244408,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0051780533755591265,
+                    "human": 0.9948219466244408,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThankfully the farcical process of selecting a new leader has now ended. The two candidates proposed various strategies that they would enact for tackling the cost of living crisis.I may have missed it, of course, but did either of the candidates categorically state their preferred intention was to firstly reclaim the millions in unpaid UK taxes?If there really was a so-called “levelling up” agenda, then stating a desire to enthusiastically investigate and mine these often unethical reserves for the benefit of all would be a huge red wall vote winner.Nigel PlevinIlminsterCampaign for honest journalismI would like to thank and commendSean O’Grady’s articlefor rational thought, honesty, and bravery. Our government has a responsibility to inform us truthfully and protect us reasonably, both of which they are completely failing in, leaving the job to journalists like Mr O’Grady.But most other newspapers are replicating the lies and misinformation from Mr Johnson’s government, which is leading Britain into the worst public health disaster and the worst economic recession since the Second World War, because they refuse to acknowledge the truth and consider the plight of the ordinary people.God bless you in your campaign for honest journalism, and may you win out in the end.David ChurchWalesThe interminable road of declineNow that Boris Johnson’s premiership is passing into history, we have to face the reality that the last three prime ministers have also been the worst three since Lord North.Tragically, I feel that the next No 10 key-holder – tipped to be Liz Truss – will only achieve the dubious distinction of being amongst the four worst of our leaders since 1782.Since 2016, we have sleep-walked down the interminable road of decline which will eventually create a banana republic without any bananas.Robert BostonKingshillSir Keir Starmer is right to discourage his front bench from attending picket lines during industrial disputes. I can well remember the 1979 Winter of Discontent when British trade unions went to “war” against a democratically elected Labour government that was striving to weather a global energy crisis, exacerbated by the tax cutting policies of the previous (Tory) government.Politicians that had shamelessly exploited union grievances to get elected had no moral defence against outrageous demands when attempting to govern in their turn.The allegation of betrayal of “working people” had resonance and ushered in what proved to be one of the most repressive governments of modern times. We have had our fill of populist politicians that spin policy according to the audience with little prospect of fulfilment.What is required is measured states persons’ who put the needs of all above the self-interest of the permanently powerful. There should be no place for opportunist politicians who aspire to govern that would “run with the fox and hunt with the hounds”.David SmithTaunton"
+        }
+    ]
+}

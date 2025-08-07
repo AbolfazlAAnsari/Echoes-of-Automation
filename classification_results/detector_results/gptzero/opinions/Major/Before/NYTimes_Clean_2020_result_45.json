@@ -1,0 +1,94 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0004925561952404678,
+                    "sentence": "Farhad Manjoo, Elizabeth Bruenig, Charles Blow and other Opinion columnists and writers will be chatting every day at 1 p.m. Eastern.Farhad Manjoo, Elizabeth Bruenig, Charles Blow and other Opinion columnists and writers will be chatting every day at 1 p.m. Eastern.These are strange and scary times.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001110031153075397,
+                    "sentence": "So many people are stuck at home, escaping only for walks during which we wave at people from a safe distance.To provide some company, our Opinion columnists and writers will be going live on Twitter every weekday at 1 p.m. Eastern to chat with viewers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013708184706047177,
+                    "sentence": "Farhad Manjoo (@fmanjoo) is going today, and we'll have Elizabeth Bruenig, Charles Blow, and Jennifer Finney Boylan in the days to come.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016016336157917976,
+                    "sentence": "You can watch conversations with Frank Bruni, Nicholas Kristof, Elizabeth Bruenig, Jennifer Senior, Jamelle Bouie, Kara Swisher, and Michelle Cottle below.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002311627147719264,
+                    "sentence": "We'll be adding their videos to this page every day, so you can check back here or watch it live on Twitter.We'd (@NYTopinion)andInstagram.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                }
+            ],
+            "completely_generated_prob": 0.009782813243742876,
+            "class_probabilities": {
+                "human": 0.9902171867562571,
+                "ai": 0.009782813243742876,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9902171867562571,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.009782813243742876,
+                    "human": 0.9902171867562571,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Farhad Manjoo, Elizabeth Bruenig, Charles Blow and other Opinion columnists and writers will be chatting every day at 1 p.m. Eastern.Farhad Manjoo, Elizabeth Bruenig, Charles Blow and other Opinion columnists and writers will be chatting every day at 1 p.m. Eastern.These are strange and scary times. So many people are stuck at home, escaping only for walks during which we wave at people from a safe distance.To provide some company, our Opinion columnists and writers will be going live on Twitter every weekday at 1 p.m. Eastern to chat with viewers. Farhad Manjoo (@fmanjoo) is going today, and we’ll have Elizabeth Bruenig, Charles Blow, and Jennifer Finney Boylan in the days to come. You can watch conversations with Frank Bruni, Nicholas Kristof, Elizabeth Bruenig, Jennifer Senior, Jamelle Bouie, Kara Swisher, and Michelle Cottle below. We’ll be adding their videos to this page every day, so you can check back here or watch it live on Twitter.We’d (@NYTopinion)andInstagram."
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0028867069631814957,
+                    "sentence": "Send your letters toletters@independent.co.ukBecause I am elderly and have a number of underlying health issues, I decided to err on the side of caution and began self-isolating on 20 March.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0031155848409980536,
+                    "sentence": "A couple of days ago the government suggested that I can now move around more freely.Today I learn that the government is considering introducing full lockdown for all of us over the age of 50.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004505222663283348,
+                    "sentence": "This is apparently necessary because there is a substantial section of the population - I believe many under 30 - who feel free to ignore the regulations and a government which lacks the political will to introduce clear and effective measures that the authorities can enforce.If I do now move about and get the virus, it will be because of a virulent strain of selfishness.I shall continue to self-isolate.Ian HurdleyFerndownThe blame gameBame people are not to blame for this crisis.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008772251196205616,
+                    "sentence": "Meanwhile migrants - or the children and grandchildren of migrants - have to listen to those clapping their NHS work while being told there's no place for immigration in this country.I think frankly, Boris Johnson and his downplaying, his aversion to masks, and extreme spin, has a lot to answer for.Clare MacgregorAddress suppliedYoung peopleHas it not occurred to our government that after they and the many others calling for lockdown retire there will be very few young people left to fill the jobs?This will be due to inadequate education and the plight of the 2020 graduates who paid and studied in good faith, only to have their lives and futures ripped away from them - and then be handed the latest blame for the spread of the virus.What do you expect them to do?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010467800311744213,
+                    "sentence": "Young people learn by example, need I say more?Sandra GardenerSaxmundhamSense of perspectiveTom Peck,in his pieceabout Chris Whitty, asks us to note how the lectern England's chief medical officer is standing at reads \"control the virus\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011728460900485516,
+                    "sentence": "Rather, if you read the message from left to right, top to bottom, the lectern message ends with these prescient words: \"The virus lives\".Talk about mixed messages.Chris MaynardAddress suppliedCourt spaceWith regards to Gunter Straub's otherwise veryuseful letter, in which he suggested camera technology for pedestrians.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00611028540879488,
+                    "sentence": "While we may expect more police officers to process reports of two-wheeled pavement abuse, the availability of courts is much less likely.Magistrates are apparently in short supply and thanks to Covid-19 interviews for new recruits appear to be on the back burner.Cole DavisNorwichMore harm than goodI am a mother of six of whom five need to get back to school.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010275611653923988,
+                    "sentence": "I have done my best to home school the youngest two, while helping my autistic son and older two.Boris Johnson says he wants all children back in school but is doing nothing to help the matter.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.014064515940845013,
+                    "sentence": "He wants people to lose weight when slimming clubs are still shut but pubs are open.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010518249124288559,
+                    "sentence": "Someone needs to take a look at his decisions before more harm is done.Lucy JohnsonAddress supplied",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.037526171686261885,
+            "class_probabilities": {
+                "human": 0.9624738283137382,
+                "ai": 0.037526171686261885,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9624738283137382,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.037526171686261885,
+                    "human": 0.9624738283137382,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Send your letters toletters@independent.co.ukBecause I am elderly and have a number of underlying health issues, I decided to err on the side of caution and began self-isolating on 20 March. A couple of days ago the government suggested that I can now move around more freely.Today I learn that the government is considering introducing full lockdown for all of us over the age of 50. This is apparently necessary because there is a substantial section of the population - I believe many under 30 - who feel free to ignore the regulations and a government which lacks the political will to introduce clear and effective measures that the authorities can enforce.If I do now move about and get the virus, it will be because of a virulent strain of selfishness.I shall continue to self-isolate.Ian HurdleyFerndownThe blame gameBame people are not to blame for this crisis. Meanwhile migrants - or the children and grandchildren of migrants - have to listen to those clapping their NHS work while being told there's no place for immigration in this country.I think frankly, Boris Johnson and his downplaying, his aversion to masks, and extreme spin, has a lot to answer for.Clare MacgregorAddress suppliedYoung peopleHas it not occurred to our government that after they and the many others calling for lockdown retire there will be very few young people left to fill the jobs?This will be due to inadequate education and the plight of the 2020 graduates who paid and studied in good faith, only to have their lives and futures ripped away from them - and then be handed the latest blame for the spread of the virus.What do you expect them to do? Young people learn by example, need I say more?Sandra GardenerSaxmundhamSense of perspectiveTom Peck,in his pieceabout Chris Whitty, asks us to note how the lectern England's chief medical officer is standing at reads \"control the virus\". Rather, if you read the message from left to right, top to bottom, the lectern message ends with these prescient words: \"The virus lives\".Talk about mixed messages.Chris MaynardAddress suppliedCourt spaceWith regards to Gunter Straub's otherwise veryuseful letter, in which he suggested camera technology for pedestrians. While we may expect more police officers to process reports of two-wheeled pavement abuse, the availability of courts is much less likely.Magistrates are apparently in short supply and thanks to Covid-19 interviews for new recruits appear to be on the back burner.Cole DavisNorwichMore harm than goodI am a mother of six of whom five need to get back to school. I have done my best to home school the youngest two, while helping my autistic son and older two.Boris Johnson says he wants all children back in school but is doing nothing to help the matter. He wants people to lose weight when slimming clubs are still shut but pubs are open. Someone needs to take a look at his decisions before more harm is done.Lucy JohnsonAddress supplied"
+        }
+    ]
+}

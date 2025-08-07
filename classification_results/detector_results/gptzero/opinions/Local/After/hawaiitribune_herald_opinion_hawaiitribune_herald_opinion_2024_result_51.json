@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0027147491928189993,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°U.S.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013805865310132504,
+                    "sentence": "Treasury Secretary Janet Yellen testifies before the Senate Banking, Housing, and Urban Affairs Committee at the Dirksen Senate Office Building on Feb. 8, 2024, in Washington, D.C. (Kevin Dietsch/Getty Images/TNS)Perhaps, like many other Americans, you're finding it harder and harder to deal with high food bills.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00035770851536653936,
+                    "sentence": "Well, don't look to Treasury Secretary Janet Yellen for any sympathy.Asked recently by a Yahoo Finance reporter if she gets sticker shock at the grocery store, she twice responded with an unequivocal “no.” Even though she says she does her own food shopping “every week,” she apparently finds it quite affordable.If one even believes the dubious claim that the multi-millionaire Yellen does her own grocery shopping, the fact that she doesn't have sticker shock only illustrates her privileged position.For many Americans today, watching a cashier scan their groceries is an anxiety-ridden experience.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00037981232162564993,
+                    "sentence": "One can imagine Yellen in the checkout line paging through the tabloids, blissfully unaware of how much she'll pay for food.This kind of “let-them-eat-cake” mentality from Yellen adds insult to injury because she was a key player in causing today's stratospheric food price inflation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000304695509839803,
+                    "sentence": "And while average food prices are up over 21 percent since January 2021, many common consumer staples have seen significantly larger price hikes.Cereal, chicken, and vegetables: up over 25%.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002977894037030637,
+                    "sentence": "Flour, bread, and butter: up over 35%.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00034225787385366857,
+                    "sentence": "Eggs and peanut butter: up over 40%.Unable to keep up with the breakneck pace of price hikes, millions of American families have been putting their grocery purchases on credit cards, contributing to today's $1.1 trillion of credit-card debt.What was Yellen's role in this disaster for the American middle class?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003709841112140566,
+                    "sentence": "She advocated for, and then oversaw, the Treasury's spending and borrowing spree of the last three years.When the federal government spent trillions of dollars it didn't have, and much more than it was able to borrow, the Treasury turned to the Federal Reserve.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005078475223854184,
+                    "sentence": "The latter simply created money for the former to borrow.The government spent and borrowed so much money that about one-third of all the dollars in existence were created by the Fed in just the last few years to finance it all.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.43029534816741943,
+                    "sentence": "That was like taking a sledgehammer to the dollar's purchasing power, which reduced the value of the currency.While the magnitude of today's spending binge is unparalleled, the inflationary effect is nothing new.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.4221512973308563,
+                    "sentence": "When Yellen was Chair of the Fed Board of Governors, she followed the same playbook then as well.Between her time as Fed Chair and now her tenure as Treasury Secretary, few people in modern times have done more to destroy the American middle class than Yellen.Since January 2021, the typical American family's weekly paycheck has risen about $150.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.30080971121788025,
+                    "sentence": "Unfortunately, prices have risen so much faster over the last three and a half years that those larger paychecks buy almost $50 less.Worse, Yellen's runaway borrowing spree has caused not only inflation to rise, but interest rates too.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.29572832584381104,
+                    "sentence": "That has pushed up borrowing costs for families on everything from mortgages to auto loans to credit cards.Between the lost purchasing power of families' incomes and higher interest expenses, it's as if the typical American family lost about $7,800 in annual income, compared to January 2021.It's bad enough that Yellen played a key role in causing this disaster, but it's rubbing salt in the wound when she gaslights Americans and tries to convince them that unaffordable food prices are all in their heads.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.07524007412815185,
+            "class_probabilities": {
+                "human": 0.9247599258718482,
+                "ai": 0.07524007412815185,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9247599258718482,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.07524007412815185,
+                    "human": 0.9247599258718482,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°U.S. Treasury Secretary Janet Yellen testifies before the Senate Banking, Housing, and Urban Affairs Committee at the Dirksen Senate Office Building on Feb. 8, 2024, in Washington, D.C. (Kevin Dietsch/Getty Images/TNS)Perhaps, like many other Americans, you’re finding it harder and harder to deal with high food bills. Well, don’t look to Treasury Secretary Janet Yellen for any sympathy.Asked recently by a Yahoo Finance reporter if she gets sticker shock at the grocery store, she twice responded with an unequivocal “no.” Even though she says she does her own food shopping “every week,” she apparently finds it quite affordable.If one even believes the dubious claim that the multi-millionaire Yellen does her own grocery shopping, the fact that she doesn’t have sticker shock only illustrates her privileged position.For many Americans today, watching a cashier scan their groceries is an anxiety-ridden experience. One can imagine Yellen in the checkout line paging through the tabloids, blissfully unaware of how much she’ll pay for food.This kind of “let-them-eat-cake” mentality from Yellen adds insult to injury because she was a key player in causing today’s stratospheric food price inflation. And while average food prices are up over 21 percent since January 2021, many common consumer staples have seen significantly larger price hikes.Cereal, chicken, and vegetables: up over 25%. Flour, bread, and butter: up over 35%. Eggs and peanut butter: up over 40%.Unable to keep up with the breakneck pace of price hikes, millions of American families have been putting their grocery purchases on credit cards, contributing to today’s $1.1 trillion of credit-card debt.What was Yellen’s role in this disaster for the American middle class? She advocated for, and then oversaw, the Treasury’s spending and borrowing spree of the last three years.When the federal government spent trillions of dollars it didn’t have, and much more than it was able to borrow, the Treasury turned to the Federal Reserve. The latter simply created money for the former to borrow.The government spent and borrowed so much money that about one-third of all the dollars in existence were created by the Fed in just the last few years to finance it all. That was like taking a sledgehammer to the dollar’s purchasing power, which reduced the value of the currency.While the magnitude of today’s spending binge is unparalleled, the inflationary effect is nothing new. When Yellen was Chair of the Fed Board of Governors, she followed the same playbook then as well.Between her time as Fed Chair and now her tenure as Treasury Secretary, few people in modern times have done more to destroy the American middle class than Yellen.Since January 2021, the typical American family’s weekly paycheck has risen about $150. Unfortunately, prices have risen so much faster over the last three and a half years that those larger paychecks buy almost $50 less.Worse, Yellen’s runaway borrowing spree has caused not only inflation to rise, but interest rates too. That has pushed up borrowing costs for families on everything from mortgages to auto loans to credit cards.Between the lost purchasing power of families’ incomes and higher interest expenses, it’s as if the typical American family lost about $7,800 in annual income, compared to January 2021.It’s bad enough that Yellen played a key role in causing this disaster, but it’s rubbing salt in the wound when she gaslights Americans and tries to convince them that unaffordable food prices are all in their heads."
+        }
+    ]
+}

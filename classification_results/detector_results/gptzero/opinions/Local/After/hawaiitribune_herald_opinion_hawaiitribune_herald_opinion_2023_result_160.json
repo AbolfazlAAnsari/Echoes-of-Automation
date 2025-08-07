@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 5.299969052430242e-05,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°In a federal indictment this week, Manhattan U.S. Attorney Damian Williams unveiled an indictment against Nikhil Gupta, an alleged Indian narcotics trafficker who prosecutors say had attempted to hire a hitmanᅳ who turned out to be an undercover federal agent ᅳ to assassinate Sikh separatist leader Gurpatwant Singh Pannun, a U.S. citizen.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.2143572247587144e-05,
+                    "sentence": "The feds say Gupta, who was arrested in the Czech Republic, was directed by a senior Indian government official.The details sound like something out of a spy novel, but in the real world there are no suave super-spies in tailored suits always ready to save the day.Just a couple of months ago, Sikh activist Hardeep Singh Nijjar was assassinated in British Columbia, after which Prime Minister Justin Trudeau announced that the Canadian government was investigating potential ties between the killing and the government of Indian Prime Minister Narendra Modi.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.9763380957301706e-05,
+                    "sentence": "That accusation and the subsequent diplomatic turmoil shocked the world, but now twice is a pattern.In this case, while the specific Indian official who is alleged to have ordered the assassination is not identified, the U.S. intelligence services apparently have direct communications between Mr. X and Gupta, including the directive that Pannun's murder was “a priority now.” Gupta also allegedly told the undercover that Nijjar's murder was part of the same operation and that “we have so many targets.” The international community should ensure that Nijjar is the last.The long tendrils of right-wing authoritarianism are spreading across the world, far outside the borders of the strongmen themselves.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.179207801120356e-05,
+                    "sentence": "It's certainly not the first time in modern history that despots have directed killings and abductions well beyond their putative jurisdictions, but the brazenness is only getting worse, an indication of the extent to which these figures feel unconstrained by international consequences.Vladimir Putin, whose disastrous and fortunately unsuccessful invasion of Ukraine has dragged on for almost two years now, has become known for taking out his critics in absurd pseudo-accidents or outright gruesome executions no matter where they are.Not that dictators killing their opposition domestically is acceptable; the general project of political violence and demonization that seems to be progressing around the globe, including in the United States, portends dark days ahead.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.026419227942824364,
+                    "sentence": "Still, it is especially galling for these antidemocratic factions to reach around the globe to the places where democracy is holding on and assert their authoritarian power.These operations don't just target one person or group, they target the whole of the liberal project and the the very principles of freedom of expression and political organization, sending the message that no matter where you are, you should be looking over your shoulder if you have too stringently criticized a certain regime.The only way this stops is if it becomes clear to those regimes that they also won't be safe from the blowback.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.027271267026662827,
+                    "sentence": "The Biden administration is right to have impressed on India that this would not be tolerated, dispatching the CIA director to deliver the message.Hopefully, the president will make this a consistent policy, and outline heavy consequences for all governments that would cross this line, including our pals the Saudis.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01216200739145279,
+                    "sentence": "The commitments we make will always ring hollow if we forget about travesties like the killing of Jamal Khashoggi.ᅳNew York Daily News Editorial BoardNestled between lush community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round.Mahalo for quick response by HECO",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°In a federal indictment this week, Manhattan U.S. Attorney Damian Williams unveiled an indictment against Nikhil Gupta, an alleged Indian narcotics trafficker who prosecutors say had attempted to hire a hitman— who turned out to be an undercover federal agent — to assassinate Sikh separatist leader Gurpatwant Singh Pannun, a U.S. citizen. The feds say Gupta, who was arrested in the Czech Republic, was directed by a senior Indian government official.The details sound like something out of a spy novel, but in the real world there are no suave super-spies in tailored suits always ready to save the day.Just a couple of months ago, Sikh activist Hardeep Singh Nijjar was assassinated in British Columbia, after which Prime Minister Justin Trudeau announced that the Canadian government was investigating potential ties between the killing and the government of Indian Prime Minister Narendra Modi. That accusation and the subsequent diplomatic turmoil shocked the world, but now twice is a pattern.In this case, while the specific Indian official who is alleged to have ordered the assassination is not identified, the U.S. intelligence services apparently have direct communications between Mr. X and Gupta, including the directive that Pannun’s murder was “a priority now.” Gupta also allegedly told the undercover that Nijjar’s murder was part of the same operation and that “we have so many targets.” The international community should ensure that Nijjar is the last.The long tendrils of right-wing authoritarianism are spreading across the world, far outside the borders of the strongmen themselves. It’s certainly not the first time in modern history that despots have directed killings and abductions well beyond their putative jurisdictions, but the brazenness is only getting worse, an indication of the extent to which these figures feel unconstrained by international consequences.Vladimir Putin, whose disastrous and fortunately unsuccessful invasion of Ukraine has dragged on for almost two years now, has become known for taking out his critics in absurd pseudo-accidents or outright gruesome executions no matter where they are.Not that dictators killing their opposition domestically is acceptable; the general project of political violence and demonization that seems to be progressing around the globe, including in the United States, portends dark days ahead. Still, it is especially galling for these antidemocratic factions to reach around the globe to the places where democracy is holding on and assert their authoritarian power.These operations don’t just target one person or group, they target the whole of the liberal project and the the very principles of freedom of expression and political organization, sending the message that no matter where you are, you should be looking over your shoulder if you have too stringently criticized a certain regime.The only way this stops is if it becomes clear to those regimes that they also won’t be safe from the blowback. The Biden administration is right to have impressed on India that this would not be tolerated, dispatching the CIA director to deliver the message.Hopefully, the president will make this a consistent policy, and outline heavy consequences for all governments that would cross this line, including our pals the Saudis. The commitments we make will always ring hollow if we forget about travesties like the killing of Jamal Khashoggi.—New York Daily News Editorial BoardNestled between lush  community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round.Mahalo for quick response by HECO"
+        }
+    ]
+}

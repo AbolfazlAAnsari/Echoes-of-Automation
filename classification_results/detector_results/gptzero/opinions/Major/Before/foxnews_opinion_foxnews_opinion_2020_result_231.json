@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.2129422277212143,
+                    "sentence": "San Francisco puts focus on being woke instead of reopening schools; Reaction from 'The Five.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3228738605976105,
+                    "sentence": "'While parents worry about getting their kids back toschool, what do school officials worry about more?TheSan Francisco School Names Advisory Committeehas named 44 schools that need their names changed due to troubling links to the past.This, as kids still takeremote lessons-- which may harm minorities more than others.How does devoting resources to changing names ofschoolsthey can't attend, help them?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1896238476037979,
+                    "sentence": "It doesn't.SAN DIEGO SCHOOL DISTRICTS OVERHAULS GRADING SYSTEM TO COMBAT RACISMIt's just more radical destruction by delusional scolds who have as much interest in helping kids as COVID itself.Schools include Abraham Lincoln High School, George Washington high, Roosevelt Middle School.But also, Dianne Feinstein Elementary School.Why?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.29196667671203613,
+                    "sentence": "Because she once replaced a vandalized Confederate flag.Why isn't she on death row?So all these schools must come up with new names, while they deal with COVID.Which is like trying to iron your socks, during a house fire.So why not help them -- with names the San Francisco School Board might love.How about Mao?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.19137972593307495,
+                    "sentence": "He's no dead white male and how about that Great Leap Forward.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.16808953881263733,
+                    "sentence": "-- He cleared a mountain of bodies.Or Stalin.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.15044854581356049,
+                    "sentence": "He never owned a single slave.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012772386893630028,
+                    "sentence": "Instead he enslaved millions… and killed 'em.Or replace Feinstein with Sir John Harrington.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009766491129994392,
+                    "sentence": "He invented the first flushable toilet.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.014910109341144562,
+                    "sentence": "And the city is drowning in crap.But, given the success of “The Five,” isn't it time, for our names to grace schools?I've come up with some.The Emily Compagno School for Wayward Cheerleaders.The Dana Perino Candyland Academy and My Little Pony Equestrian School.The Jesse Watters Military College in the fight against the War on Christmas.And...It's a bird!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01983286626636982,
+                    "sentence": "It's a plane!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.017845094203948975,
+                    "sentence": "It's the Juan Williams University of Guess What… Juan Williams!Adapted from Greg Gutfeld's monologue on “The Five” on October 19, 2020.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0066398209892213345,
+                    "sentence": "GREG GUTFELDGreg Gutfeld currently serves as host ofGutfeld!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00424679322168231,
+                    "sentence": "(weeknights, 11PM-12AM/ET) and co-host of cable news' highest-rated programThe Five(weekdays, 5-6PM/ET).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 1.9423489116273474e-12
+                }
+            ],
+            "completely_generated_prob": 0.059261636754220776,
+            "class_probabilities": {
+                "human": 0.9406968808522652,
+                "ai": 0.059261636754220776,
+                "mixed": 4.148239351388549e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9406968808522652,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.059261636754220776,
+                    "human": 0.9406968808522652,
+                    "mixed": 4.148239351388549e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       San Francisco puts focus on being woke instead of reopening schools; Reaction from 'The Five.'While parents worry about getting their kids back toschool, what do school officials worry about more?TheSan Francisco School Names Advisory Committeehas named 44 schools that need their names changed due to troubling links to the past.This, as kids still takeremote lessons-- which may harm minorities more than others.How does devoting resources to changing names ofschoolsthey can't attend, help them? It doesn’t.SAN DIEGO SCHOOL DISTRICTS OVERHAULS GRADING SYSTEM TO COMBAT RACISMIt's just more radical destruction by delusional scolds who have as much interest in helping kids as COVID itself.Schools include Abraham Lincoln High School, George Washington high, Roosevelt Middle School.But also, Dianne Feinstein Elementary School.Why? Because she once replaced a vandalized Confederate flag.Why isn't she on death row?So all these schools must come up with new names, while they deal with COVID.Which is like trying to iron your socks, during a house fire.So why not help them -- with names the San Francisco School Board might love.How about Mao? He's no dead white male and how about that Great Leap Forward. -- He cleared a mountain of bodies.Or Stalin. He never owned a single slave. Instead he enslaved millions… and killed ‘em.Or replace Feinstein with Sir John Harrington. He invented the first flushable toilet. And the city is drowning in crap.But, given the success of “The Five,” isn't it time, for our names to grace schools?I've come up with some.The Emily Compagno School for Wayward Cheerleaders.The Dana Perino Candyland Academy and My Little Pony Equestrian School.The Jesse Watters Military College in the fight against the War on Christmas.And...It’s a bird! It’s a plane! It’s the Juan Williams University of Guess What… Juan Williams!Adapted from Greg Gutfeld’s monologue on “The Five” on October 19, 2020. GREG GUTFELDGreg Gutfeld currently serves as host ofGutfeld!(weeknights, 11PM-12AM/ET) and co-host of cable news’ highest-rated programThe Five(weekdays, 5-6PM/ET).   "
+        }
+    ]
+}

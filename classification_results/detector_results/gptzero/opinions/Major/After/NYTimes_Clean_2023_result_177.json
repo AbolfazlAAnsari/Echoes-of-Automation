@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 8.162418816937134e-05,
+                    "sentence": "Does Ron DeSantis stand a chance?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.436429197899997e-05,
+                    "sentence": "Does Joe Biden?Listen to and follow 'Matter of Opinion'Apple Podcasts|Spotify|Amazon MusicDonald Trump was impeached twice.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010972369636874646,
+                    "sentence": "He has been indicted three times.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011515754886204377,
+                    "sentence": "He lost the 2020 election.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002487068122718483,
+                    "sentence": "And yet he's the clear Republican front-runner for 2024.Today on “Matter of Opinion,” Michelle Cottle, Ross Douthat and Carlos Lozada explore how Trump has created a winning political strategy and what his potential nomination could mean for Joe Biden, the Republican Party and the future of the country.Mentioned in this episode:·“The Normal Paths to Beating Trump Are Closing,” by Ross Douthat for The New York Times·“The Right Way to Resist Trump,” by Luigi Zingales in The New York Times·“Rules for Resistance: Advice From Around the Globe for the Age of Trump,” by David Cole and Melanie Wachtell Stinnett·“Trump and Allies Forge Plans to Increase Presidential Power in 2025,” by Jonathan Swan, Charlie Savage and Maggie Haberman for The New York Times·“So Help Me God,” by Mike Pence·“The Imperial Presidency,” by Arthur M. Schlesinger Jr.“The Normal Paths to Beating Trump Are Closing,” by Ross Douthat for The New York Times“The Right Way to Resist Trump,” by Luigi Zingales in The New York Times“Rules for Resistance: Advice From Around the Globe for the Age of Trump,” by David Cole and Melanie Wachtell Stinnett“Trump and Allies Forge Plans to Increase Presidential Power in 2025,” by Jonathan Swan, Charlie Savage and Maggie Haberman for The New York Times“So Help Me God,” by Mike Pence“The Imperial Presidency,” by Arthur M. Schlesinger Jr.Thoughts?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015929131768643856,
+                    "sentence": "Email us atmatterofopinion@nytimes.com.Follow our hosts on X: Michelle Cottle (@mcottle), Ross Douthat (@DouthatNYT) and Carlos Lozada (@CarlosNYT).“Matter of Opinion” is produced by Phoebe Lett, Sophia Alvarez Boyd and Derek Arthur.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002110470668412745,
+                    "sentence": "Edited by Stephanie Joyce.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022722769062966108,
+                    "sentence": "Mixing by Pat McCusker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00026639504358172417,
+                    "sentence": "Original music by Isaac Jones, Efim Shapiro, Carole Sabouraud, Sonia Herrero and Pat McCusker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005225328728556633,
+                    "sentence": "Our fact-checking team is Kate Sinclair, Mary Marge Locker and Michelle Harris.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005093073938041925,
+                    "sentence": "Audience strategy by Shannon Busta and Kristina Samulewski.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005372244864702225,
+                    "sentence": "Our executive producer is Annie-Rose Strasser.PHOTO: (PHOTOGRAPH BY Illustration by The New York Times; photograph by Scott Eisen/Getty Images FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.024461651786716186,
+            "class_probabilities": {
+                "human": 0.9754981327244504,
+                "ai": 0.024461651786716186,
+                "mixed": 4.0215488833363626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9754981327244504,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024461651786716186,
+                    "human": 0.9754981327244504,
+                    "mixed": 4.0215488833363626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Does Ron DeSantis stand a chance? Does Joe Biden?Listen to and follow ‘Matter of Opinion’Apple Podcasts|Spotify|Amazon MusicDonald Trump was impeached twice. He has been indicted three times. He lost the 2020 election. And yet he’s the clear Republican front-runner for 2024.Today on “Matter of Opinion,” Michelle Cottle, Ross Douthat and Carlos Lozada explore how Trump has created a winning political strategy and what his potential nomination could mean for Joe Biden, the Republican Party and the future of the country.Mentioned in this episode:•“The Normal Paths to Beating Trump Are Closing,” by Ross Douthat for The New York Times•“The Right Way to Resist Trump,” by Luigi Zingales in The New York Times•“Rules for Resistance: Advice From Around the Globe for the Age of Trump,” by David Cole and Melanie Wachtell Stinnett•“Trump and Allies Forge Plans to Increase Presidential Power in 2025,” by Jonathan Swan, Charlie Savage and Maggie Haberman for The New York Times•“So Help Me God,” by Mike Pence•“The Imperial Presidency,” by Arthur M. Schlesinger Jr.“The Normal Paths to Beating Trump Are Closing,” by Ross Douthat for The New York Times“The Right Way to Resist Trump,” by Luigi Zingales in The New York Times“Rules for Resistance: Advice From Around the Globe for the Age of Trump,” by David Cole and Melanie Wachtell Stinnett“Trump and Allies Forge Plans to Increase Presidential Power in 2025,” by Jonathan Swan, Charlie Savage and Maggie Haberman for The New York Times“So Help Me God,” by Mike Pence“The Imperial Presidency,” by Arthur M. Schlesinger Jr.Thoughts? Email us atmatterofopinion@nytimes.com.Follow our hosts on X: Michelle Cottle (@mcottle), Ross Douthat (@DouthatNYT) and Carlos Lozada (@CarlosNYT).“Matter of Opinion” is produced by Phoebe Lett, Sophia Alvarez Boyd and Derek Arthur. Edited by Stephanie Joyce. Mixing by Pat McCusker. Original music by Isaac Jones, Efim Shapiro, Carole Sabouraud, Sonia Herrero and Pat McCusker. Our fact-checking team is Kate Sinclair, Mary Marge Locker and Michelle Harris. Audience strategy by Shannon Busta and Kristina Samulewski. Our executive producer is Annie-Rose Strasser.PHOTO:  (PHOTOGRAPH BY Illustration by The New York Times; photograph by Scott Eisen/Getty Images FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

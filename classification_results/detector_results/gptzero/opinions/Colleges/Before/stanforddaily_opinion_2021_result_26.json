@@ -1,0 +1,171 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00016427499940618873,
+                    "sentence": "Dear Stanford community,",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017788255354389548,
+                    "sentence": "In the fall of 2020, the Associated Students of Stanford University (ASSU) Undergraduate Senate voted to passa resolutionsupporting the dehousing of IFC/ISC Greek organizations on campus.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012413572403602302,
+                    "sentence": "As a result of the resolution passing, the ASSU Executive at the time created a Special Greek Life Committeetasked withdeveloping a survey that would assess overall undergraduate student opinions and attitudes towards Greek life.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015761886606924236,
+                    "sentence": "The Greek Life Committee was composed of two ASSU Senators Co-Chairs, 2 members from Abolish Stanford Greek Life, 1 IFC representative, 1 ISC representative, and consulting members from the Stanford administration.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013541660155169666,
+                    "sentence": "Together, over the course of several months, the committee worked diligently to produce a comprehensive, unbiased, forward-looking survey to capture students' feelings of both existing concerns within the Greek system and areas of potential growth.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017833623860497028,
+                    "sentence": "The Greek Life Committee launched the survey on Tuesday, April 6 and received 2,538 (~35%) responses.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012739934027194977,
+                    "sentence": "The respondents were diverse and broadly mirrored the demographics of the Stanford community.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015984955825842917,
+                    "sentence": "At a high level, the key takeaways from the results are:",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001302082819165662,
+                    "sentence": "We appreciate you taking the time to understand the results of the survey and welcome any feedback and comments you may have.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012750645691994578,
+                    "sentence": "You can find a more comprehensive breakdown of responseshere.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022892760171089321,
+                    "sentence": "Best,",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002130330540239811,
+                    "sentence": "Jonathan and Lenny",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 1,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 3,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 5,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 7,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 8,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 10,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 11,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                }
+            ],
+            "completely_generated_prob": 0.0051780533755591265,
+            "class_probabilities": {
+                "human": 0.9948219466244408,
+                "ai": 0.0051780533755591265,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9948219466244408,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0051780533755591265,
+                    "human": 0.9948219466244408,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Dear Stanford community,\nIn the fall of 2020, the Associated Students of Stanford University (ASSU) Undergraduate Senate voted to passa resolutionsupporting the dehousing of IFC/ISC Greek organizations on campus. As a result of the resolution passing, the ASSU Executive at the time created a Special Greek Life Committeetasked withdeveloping a survey that would assess overall undergraduate student opinions and attitudes towards Greek life.\nThe Greek Life Committee was composed of two ASSU Senators Co-Chairs, 2 members from Abolish Stanford Greek Life, 1 IFC representative, 1 ISC representative, and consulting members from the Stanford administration. Together, over the course of several months, the committee worked diligently to produce a comprehensive, unbiased, forward-looking survey to capture students’ feelings of both existing concerns within the Greek system and areas of potential growth.\nThe Greek Life Committee launched the survey on Tuesday, April 6 and received 2,538 (~35%) responses. The respondents were diverse and broadly mirrored the demographics of the Stanford community.\nAt a high level, the key takeaways from the results are:\nWe appreciate you taking the time to understand the results of the survey and welcome any feedback and comments you may have. You can find a more comprehensive breakdown of responseshere.\nBest,\nJonathan and Lenny\n\n"
+        }
+    ]
+}

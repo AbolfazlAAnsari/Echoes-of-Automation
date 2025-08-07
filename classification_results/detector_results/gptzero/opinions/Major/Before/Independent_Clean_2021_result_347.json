@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.002948692999780178,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003542677965015173,
+                    "sentence": "Please send your letters toletters@independent.co.ukA study by theRefugee Councilhas found that 91 per cent of people desperate enough to cross the Channel in small boats come from just 10 countries where war,human rights abusesand oppression are common.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00434629712253809,
+                    "sentence": "The countries include Afghanistan, Syria, Iran and Eritrea.They should be welcomed and given a chance to rebuild their lives here.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006277553737163544,
+                    "sentence": "Any government that has squandered £36bn on a coronavirus track and trace app that didn't work has the resources to treat asylum seekers as human beings and not as political footballs.Sasha SimicLondon N16Time to wake upAs Boris Johnson sees a slight dip in popularity in the country he has so wronged, and vicious anger from the party he has demeaned, is it possible that both voters and politicians are waking up to the realisation that you can't get stuff done by electing a bunch of people who just make stuff up and gurn?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00517624756321311,
+                    "sentence": "Weirdly, it has surprised some that lying and smirking ain't working.Amanda BakerEdinburghFull steam aheadThe cancellation of the HS2 Leeds leg is a matter of regret.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002076277742162347,
+                    "sentence": "Leadership and character involves taking decisions to sustain the future.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0024621007032692432,
+                    "sentence": "HS2 construction should begin at both south and north points and then \"race\" to meet at a pace the Chinese would be proud of.In fact there is a prima facie case for HS2 to be extended beyond Leeds and Manchester to Glasgow, Edinburgh and Belfast via a northern channel tunnel.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003900633892044425,
+                    "sentence": "The biggest selling point of HS2 is the extra room on the existing network for the lucrative rail freight sector: a productive economy in its own right.John BarstowWest SussexA path to victory for LabourAn attractive manifesto for the Labour Party should include:1.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0035996283404529095,
+                    "sentence": "Political reform: this to include PR, thoroughgoing federalism and an anti-corruption court2.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002923963824287057,
+                    "sentence": "A stakeholder economy on the lines suggested by economist Will Hutton3.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004517977125942707,
+                    "sentence": "A real green new dealIt would help, of course, if this could be offered as part of a progressive alliance agreement with the Greens and Lib Dems.The Rev Andrew McLuskeyMiddlesexMask reminderI work for the NHS and have continued to wear a mask whenever outside my house since the first lockdown.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00531429098919034,
+                    "sentence": "I cannot stress enough the importance of this to minimise the risk to yourself and others.If you can put pressure on the government or start a national campaign to change public opinion we may have a safer few months ahead and fewer people criticising Tesco for supporting vaccines and mask-wearing in stores.Josie SmithAddress suppliedRead MoreLetters: We must invent new antibiotics - or it will be worse than CovidLetters: MPs have teams doing tasks for them - no wonder they have second jobsLetters: Well done Priti Patel - great job avoiding an anti-immigrant backlashLetters: We must invent new antibiotics - or it will be worse than CovidLetters: MPs have teams doing tasks for them - no wonder they have second jobsLetters: Well done Priti Patel - great job avoiding an anti-immigrant backlash",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukA study by theRefugee Councilhas found that 91 per cent of people desperate enough to cross the Channel in small boats come from just 10 countries where war,human rights abusesand oppression are common. The countries include Afghanistan, Syria, Iran and Eritrea.They should be welcomed and given a chance to rebuild their lives here. Any government that has squandered £36bn on a coronavirus track and trace app that didn't work has the resources to treat asylum seekers as human beings and not as political footballs.Sasha SimicLondon N16Time to wake upAs Boris Johnson sees a slight dip in popularity in the country he has so wronged, and vicious anger from the party he has demeaned, is it possible that both voters and politicians are waking up to the realisation that you can't get stuff done by electing a bunch of people who just make stuff up and gurn? Weirdly, it has surprised some that lying and smirking ain't working.Amanda BakerEdinburghFull steam aheadThe cancellation of the HS2 Leeds leg is a matter of regret. Leadership and character involves taking decisions to sustain the future. HS2 construction should begin at both south and north points and then \"race\" to meet at a pace the Chinese would be proud of.In fact there is a prima facie case for HS2 to be extended beyond Leeds and Manchester to Glasgow, Edinburgh and Belfast via a northern channel tunnel. The biggest selling point of HS2 is the extra room on the existing network for the lucrative rail freight sector: a productive economy in its own right.John BarstowWest SussexA path to victory for LabourAn attractive manifesto for the Labour Party should include:1. Political reform: this to include PR, thoroughgoing federalism and an anti-corruption court2. A stakeholder economy on the lines suggested by economist Will Hutton3. A real green new dealIt would help, of course, if this could be offered as part of a progressive alliance agreement with the Greens and Lib Dems.The Rev Andrew McLuskeyMiddlesexMask reminderI work for the NHS and have continued to wear a mask whenever outside my house since the first lockdown. I cannot stress enough the importance of this to minimise the risk to yourself and others.If you can put pressure on the government or start a national campaign to change public opinion we may have a safer few months ahead and fewer people criticising Tesco for supporting vaccines and mask-wearing in stores.Josie SmithAddress suppliedRead MoreLetters: We must invent new antibiotics - or it will be worse than CovidLetters: MPs have teams doing tasks for them - no wonder they have second jobsLetters: Well done Priti Patel - great job avoiding an anti-immigrant backlashLetters: We must invent new antibiotics - or it will be worse than CovidLetters: MPs have teams doing tasks for them - no wonder they have second jobsLetters: Well done Priti Patel - great job avoiding an anti-immigrant backlash"
+        }
+    ]
+}

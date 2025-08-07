@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0019026226364076138,
+                    "sentence": "What is it with some in the Conservative Party or their advisors and their obsession with slogans?Control is all well and good but if they stopped to think, they may have realised that slogans are not a substitute for policy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002836426720023155,
+                    "sentence": "And policy without a clear grasp of the implications will take us nowhere but the cliff edge.Recent history should teach us of the danger of accepting slogans such as \"Brexit means Brexit\" without looking beyond the words to see what plans are in place and what resources are available and committed to it.We mustn't let the government hide behind the oft repeated slogan \"follow the science\" to distance themselves from responsibility to draw up and implement plans.Nor should we accept that changing the slogan \"stay home, protect the NHS, save lives\" is a substitute for a detailed plan clearly communicated.John Simpson Ross-on-Wye\"Stay alert, control the virus, save lives.\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0036929023917764425,
+                    "sentence": "Define alert and how do we control the virus, thereby saving lives?This unhelpful and nebulous advice will encourage more people to go out and sends the wrong message to youngsters about social distancing.Relaxing the current lockdown rules will likely see infection rates rise and put the UK to the rear of the queue when foreign nations decide which counties to allow back in to visit.Christopher Learmont-Hughes WirralAlastair Campbell (\"Grow up Boris - the time for snappy slogans has long gone\") is spot on.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0030830022878944874,
+                    "sentence": "Trouble is, we the Great British public are now so used to soundbites, headlines, tweets, etc, our attention span can't take anything longer that.Paul Keeble ManchesterWheel of fortuneThe government has been consistently behind the curve during this pandemic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0026864290703088045,
+                    "sentence": "Therefore it was no surprise thatGrant Shapps- after three months or more - has just realised that fear of infection will drive commuters into their cars, promoting more congestion and pollution.But, while the secretary of state hopes people will \"get on their bikes\", I'll wager he hasn't thought of practical issues such as: where will hundreds of thousands - maybe millions - of cyclists chain up their bikes whilst at work?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005229640286415815,
+                    "sentence": "What work is going on to ensure commuters don't find their bikes nicked and, consequently, decide to get back in the car?We've seen how inept government has been in organising practical issues such as medical PPE.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007804112043231726,
+                    "sentence": "Are practical issues in hand such as ensuring commuters find their cycles where they left them in the thousands of cycle racks that should be being ordered and installed now?Ian Reid Kilnwick, YorkshireCoronavirus and familiesMy mother and father have worked for British Airways for 32 years.And we have have been lucky enough to fly to many fantastic places, everywhere from Hong Kong to New York.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009512021206319332,
+                    "sentence": "But beyond the travel perks, there have been difficult times too - my parents missed Christmas, birthdays and exams.As children of airline staff we feel they work very hard.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005805191583931446,
+                    "sentence": "I am proud of how long they have worked at British Airways - now their jobs could be taken away.Please think of them - and all those facing hardship - as people with families to care for, rather than statistics.Please support us.Amelia and Sam Thompson Address suppliedTravel restrictionsFor arrivals to this country, a Covid-19 test can be done on arrival.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005680064205080271,
+                    "sentence": "If negative, a second test should be performed 36 hours later.During that time, the person could be quarantined, self isolated or contact traceable.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007674394641071558,
+                    "sentence": "If the test remains negative, the person can be free to move around.Phil Harvey Nottingham",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "What is it with some in the Conservative Party or their advisors and their obsession with slogans?Control is all well and good but if they stopped to think, they may have realised that slogans are not a substitute for policy. And policy without a clear grasp of the implications will take us nowhere but the cliff edge.Recent history should teach us of the danger of accepting slogans such as \"Brexit means Brexit\" without looking beyond the words to see what plans are in place and what resources are available and committed to it.We mustn't let the government hide behind the oft repeated slogan \"follow the science\" to distance themselves from responsibility to draw up and implement plans.Nor should we accept that changing the slogan \"stay home, protect the NHS, save lives\" is a substitute for a detailed plan clearly communicated.John Simpson                                          Ross-on-Wye\"Stay alert, control the virus, save lives.\" Define alert and how do we control the virus, thereby saving lives?This unhelpful and nebulous advice will encourage more people to go out and sends the wrong message to youngsters about social distancing.Relaxing the current lockdown rules will likely see infection rates rise and put the UK to the rear of the queue when foreign nations decide which counties to allow back in to visit.Christopher Learmont-Hughes                                           WirralAlastair Campbell (\"Grow up Boris - the time for snappy slogans has long gone\") is spot on. Trouble is, we the Great British public are now so used to soundbites, headlines, tweets, etc, our attention span can't take anything longer that.​Paul Keeble                                          ManchesterWheel of fortuneThe government has been consistently behind the curve during this pandemic. Therefore it was no surprise thatGrant Shapps- after three months or more - has just realised that fear of infection will drive commuters into their cars, promoting more congestion and pollution.But, while the secretary of state hopes people will \"get on their bikes\", I'll wager he hasn't thought of practical issues such as: where will hundreds of thousands - maybe millions - of cyclists chain up their bikes whilst at work? What work is going on to ensure commuters don't find their bikes nicked and, consequently, decide to get back in the car?We've seen how inept government has been in organising practical issues such as medical PPE. Are practical issues in hand such as ensuring commuters find their cycles where they left them in the thousands of cycle racks that should be being ordered and installed now?Ian Reid                                          Kilnwick, YorkshireCoronavirus and familiesMy mother and father have worked for British Airways for 32 years.And we have have been lucky enough to fly to many fantastic places, everywhere from Hong Kong to New York. But beyond the travel perks, there have been difficult times too - my parents missed Christmas, birthdays and exams.As children of airline staff we feel they work very hard. I am proud of how long they have worked at British Airways - now their jobs could be taken away.Please think of them - and all those facing hardship - as people with families to care for, rather than statistics.Please support us.Amelia and Sam Thompson                                          Address suppliedTravel restrictionsFor arrivals to this country, a Covid-19 test can be done on arrival. If negative, a second test should be performed 36 hours later.During that time, the person could be quarantined, self isolated or contact traceable. If the test remains negative, the person can be free to move around.Phil Harvey                                          Nottingham"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0006567590171471238,
+                    "sentence": "Elizabeth Bruenig, Nicholas Kristof, Jennifer Senior, Charles M. Blow and other Opinion columnists and writers will be chatting every day at 1 p.m. Eastern.Elizabeth Bruenig, Nicholas Kristof, Jennifer Senior, Charles M. Blow and other Opinion columnists and writers will be chatting every day at 1 p.m. Eastern.Stay-in-place orders remain in effect across thecountry because of the coronavirus crisis, which means our writers are also housebound.To provide some company, our Opinion columnists and writers will be going live on Twitter every weekday at 1 p.m. Eastern to chat with viewers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010782635072246194,
+                    "sentence": "Farhad Manjoo is hosting today's chat.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018707357812672853,
+                    "sentence": "You can also watch Jennifer Finney Boylan, Kara Swisher (on Twitter), Jamelle Bouie (on Twitter), Michelle Cottle, Elizabeth Bruenig, Nicholas Kristof, Frank Bruni, Charles Blow and Jennifer Senior's chats.We'd (@NYTopinion)andInstagram.PHOTO: (PHOTOGRAPH BY FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                }
+            ],
+            "completely_generated_prob": 0.009821925071449819,
+            "class_probabilities": {
+                "human": 0.9901780749285501,
+                "ai": 0.009821925071449819,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9901780749285501,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.009821925071449819,
+                    "human": 0.9901780749285501,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Elizabeth Bruenig, Nicholas Kristof, Jennifer Senior, Charles M. Blow and other Opinion columnists and writers will be chatting every day at 1 p.m. Eastern.Elizabeth Bruenig, Nicholas Kristof, Jennifer Senior, Charles M. Blow and other Opinion columnists and writers will be chatting every day at 1 p.m. Eastern.Stay-in-place orders remain in effect across thecountry because of the coronavirus crisis, which means our writers are also housebound.To provide some company, our Opinion columnists and writers will be going live on Twitter every weekday at 1 p.m. Eastern to chat with viewers. Farhad Manjoo is hosting today’s chat. You can also watch Jennifer Finney Boylan, Kara Swisher (on Twitter), Jamelle Bouie (on Twitter), Michelle Cottle, Elizabeth Bruenig, Nicholas Kristof, Frank Bruni, Charles Blow and Jennifer Senior’s chats.We’d (@NYTopinion)andInstagram.PHOTO:  (PHOTOGRAPH BY  FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

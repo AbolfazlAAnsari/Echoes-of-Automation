@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0002917040837928653,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00024292970192618668,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe denial I am seeing over the analogy that theRwandabill is theToriesnewBrexitis quite frankly risible.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002090066991513595,
+                    "sentence": "Think about it: The Rwanda project isfar too expensivewith little to no benefit.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021732742607127875,
+                    "sentence": "So exactly like Brexit.Robert BostonKentHow the (not so) mighty have fallenIt looks like the finances ofRudy Giulianiare going to take a cut to the value of $148 million.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022227747831493616,
+                    "sentence": "Google tells me he was worth about $45 million last year, so unless he has won a mega sweep that he hasn't told us of he is going to come up short by a long way.It is difficult for an observer to understand the fines imposed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00024617993040010333,
+                    "sentence": "I would certainly sell my reputation to the highest bidder if it was over $70 million (and, being the cheapskate I am, $10 million will do).His reputation never recovered from the Four Seasons debacle.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009699537185952067,
+                    "sentence": "With all due respect, who would hold a press conference at a landscaping business between a sex shop and a crematorium and expect to be seen in a positive light?Dennis FitzgeraldMelbourne, AustraliaThe hacking scandal is a lose-lose scenario for Piers Morgan's reputationPiers Morgancan't have it both ways.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011824620887637138,
+                    "sentence": "Either he knew about the phone hacking and is therefore telling porkies, or he didn't know and is therefore a very bad editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013230886543169618,
+                    "sentence": "Either way he loses.D LeddySurreyOrban needs to face facts - the EU doesn't need HungaryIt is ironic that Viktor Orban should be resisting Ukraine membership of the EU, while he is rapidly turning Hungary into the sort of country the EU could do well without.I am old enough to remember when Hungary was part of the USSR and how the people suffered under Russian control, and the tanks on the streets, and now their country is openly supporting Putin.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002378336153924465,
+                    "sentence": "Maybe the EU should consider removing Hungary from membership and let them join the Russian federation.G ForwardStirling",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.017486769031531738,
+            "class_probabilities": {
+                "human": 0.9825132309684682,
+                "ai": 0.017486769031531738,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9825132309684682,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.017486769031531738,
+                    "human": 0.9825132309684682,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThe denial I am seeing over the analogy that theRwandabill is theToriesnewBrexitis quite frankly risible. Think about it: The Rwanda project isfar too expensivewith little to no benefit. So exactly like Brexit.Robert BostonKentHow the (not so) mighty have fallenIt looks like the finances ofRudy Giulianiare going to take a cut to the value of $148 million. Google tells me he was worth about $45 million last year, so unless he has won a mega sweep that he hasn’t told us of he is going to come up short by a long way.It is difficult for an observer to understand the fines imposed. I would certainly sell my reputation to the highest bidder if it was over $70 million (and, being the cheapskate I am, $10 million will do).His reputation never recovered from the Four Seasons debacle. With all due respect, who would hold a press conference at a landscaping business between a sex shop and a crematorium and expect to be seen in a positive light?Dennis FitzgeraldMelbourne, AustraliaThe hacking scandal is a lose-lose scenario for Piers Morgan’s reputationPiers Morgancan’t have it both ways.  Either he knew about the phone hacking and is therefore telling porkies, or he didn’t know and is therefore a very bad editor. Either way he loses.D LeddySurreyOrban needs to face facts – the EU doesn’t need HungaryIt is ironic that Viktor Orban should be resisting Ukraine membership of the EU, while he is rapidly turning Hungary into the sort of country the EU could do well without.I am old enough to remember when Hungary was part of the USSR and how the people suffered under Russian control, and the tanks on the streets, and now their country is openly supporting Putin. Maybe the EU should consider removing Hungary from membership and let them join the Russian federation.G ForwardStirling"
+        }
+    ]
+}

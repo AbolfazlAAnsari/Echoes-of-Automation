@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.006297786254435778,
+                    "sentence": "A new podcast about power: who has it, who's been denied it and who dares to defy it.Premiering Sep. 21Times Opinion is teaming up with Kara Swisher on a new podcast about power and influence.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009072843007743359,
+                    "sentence": "She's taking on C.E.O.s, senators, actors and activists ᅳ plus upstarts and gatekeepers you might not yet know but need to hear from.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020403144881129265,
+                    "sentence": "How did these people get power?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002134562935680151,
+                    "sentence": "How do they actually use it?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003755885874852538,
+                    "sentence": "And how does their power shape your life?Every Monday and Thursday, from New York Times Opinion.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002952700713649392,
+                    "sentence": "[You can listen to this episode of “Sway” onApple,Spotify,Stitcher,Amazon Music,Googleorwherever you get your podcasts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019247570307925344,
+                    "sentence": "]Meet the HostKara Swisheris a contributing Opinion writer.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001290439860895276,
+                    "sentence": "She rose to prominence as an early reporter in technology on the dawn of the internet age, having co-founded The Wall Street Journal's “All Things Digital” and, later, “Recode,” which was sold to Vox Media in 2015.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010044352384284139,
+                    "sentence": "Her journalism focuses on change and changemakers, and some of her hits in The Times includeJeff Bezos' exposure(literally),Fox News' liberal relationship with the truthand thedeath of a 90210 star.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013561297673732042,
+                    "sentence": "She is an editor at large of New York Media, executive producer of the Code Conference and, by her own description, a “sparkly vampire.”Thoughts?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0031119505874812603,
+                    "sentence": "Email us atsway@nytimes.com.“Sway” is produced by Nayeema Raza, Heba Elorbany, Matt Kwong and Vishakha Darbha and edited by Adam Teicholz and Paula Szuchman; fact-checking by Kate Sinclair; music and sound design by Isaac Jones.PHOTO: (PHOTOGRAPH BY FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.021033675306985546,
+            "class_probabilities": {
+                "human": 0.9789663246930144,
+                "ai": 0.021033675306985546,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9789663246930144,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.021033675306985546,
+                    "human": 0.9789663246930144,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "A new podcast about power: who has it, who’s been denied it and who dares to defy it.Premiering Sep. 21Times Opinion is teaming up with Kara Swisher on a new podcast about power and influence. She’s taking on C.E.O.s, senators, actors and activists — plus upstarts and gatekeepers you might not yet know but need to hear from. How did these people get power? How do they actually use it? And how does their power shape your life?Every Monday and Thursday, from New York Times Opinion.[You can listen to this episode of “Sway” onApple,Spotify,Stitcher,Amazon Music,Googleorwherever you get your podcasts.]Meet the HostKara Swisheris a contributing Opinion writer. She rose to prominence as an early reporter in technology on the dawn of the internet age, having co-founded The Wall Street Journal’s “All Things Digital” and, later, “Recode,” which was sold to Vox Media in 2015. Her journalism focuses on change and changemakers, and some of her hits in The Times includeJeff Bezos’ exposure(literally),Fox News’ liberal relationship with the truthand thedeath of a 90210 star. She is an editor at large of New York Media, executive producer of the Code Conference and, by her own description, a “sparkly vampire.”Thoughts? Email us atsway@nytimes.com.“Sway” is produced by Nayeema Raza, Heba Elorbany, Matt Kwong and Vishakha Darbha and edited by Adam Teicholz and Paula Szuchman; fact-checking by Kate Sinclair; music and sound design by Isaac Jones.PHOTO:  (PHOTOGRAPH BY  FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

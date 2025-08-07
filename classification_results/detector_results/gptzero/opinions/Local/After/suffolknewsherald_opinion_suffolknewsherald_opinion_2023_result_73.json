@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0002496313536539674,
+                    "sentence": "Published 6:00 pm Friday, April 7, 2023BySuffolk News-Herald Editorial BoardOne of nature's jewels, the Great Dismal Swamp, is getting a much-deserved turn in the local and state spotlights.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00027371683972887695,
+                    "sentence": "And if the Virginia Tourism Corp. has its way, that exposure will extend well beyond the commonwealth.The first installment of a new video series, titled “My Home Virginia,” launched this week on the agency's website and YouTube channel, and it features the Dismal Swamp prominently.The video series follows prominent Virginia-based personalities to the beautiful places they love and are inspired to call home, no matter how far across the world their travels may take them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018811621703207493,
+                    "sentence": "In the first episode, photographer and filmmaker Trevor Frost takes viewers through some of his favorite Virginia destinations, including False Cape State Park, Grayson Highlands State Park and the James River.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00020048776059411466,
+                    "sentence": "But some of the most impressive footage is from our own Dismal Swamp.Frost and partner Melissa Lesh of Emerging Earth Films have impressive credentials, including the critically acclaimed, award-winning Amazon Studios documentary “WILDCAT,” which is currently available to stream on Prime Video.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00025858578737825155,
+                    "sentence": "Frost has traveled the world as a nature and wildlife photographer, but he's quick to note that there's no place like home.“As a photographer who works for publications like National Geographic and spends more than half the year out of the country, I am often asked where I want to go next,” he said in VTC's 2023 Virginia Travel Guide.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00031616768683306873,
+                    "sentence": "“People are often shocked by that answer, which comes as no surprise.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002550777862779796,
+                    "sentence": "But they shouldn't be, because Virginia is where I grew up - and places, like music, have an extraordinary ability to help us recall memories and relive experiences.”Here at home, the Suffolk Center for Cultural Arts' newest exhibit, “Walk on The Wild Side,” will showcase artwork inspired by the Great Dismal Swamp National Wildlife Refuge April 13 through May 11.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002677233424037695,
+                    "sentence": "A free opening reception is planned for 5:30 p.m. Thursday.The exhibit features Suffolk artists Edward Higinbotham and Wayne Martin.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00030971982050687075,
+                    "sentence": "Higinbotham is a wood carver specializing in wooden and cork decoys and sculptures.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.26827895641326904,
+                    "sentence": "Martin is a watercolorist whose love of nature can be seen in his paintings of birds relevant to the Great Dismal Swamp.The exhibit will be open for free viewing from 10 a.m. to 4 p.m. every day but Sunday and Monday at the arts center, 110 W. Finney Ave.The tourism video and SCCA exhibit are opportunities for locals to rediscover a gem we too often take for granted.“It's easy to forget the beauty and wonder that exists right in one's own backyard,” said Lesh, the documentarian.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.31502726674079895,
+                    "sentence": "“Whether we were exploring a place I had never been before or one that I was very familiar with, filming this series was a great reminder of the incredible array of wild places and unique ecosystems that set Virginia apart, and why I like to call it home.”Watch the video at virginia.org/MyHomeVirginia.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.48477333784103394,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3352852165699005,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.059261636754220776,
+            "class_probabilities": {
+                "human": 0.9406968808522652,
+                "ai": 0.059261636754220776,
+                "mixed": 4.148239351388549e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9406968808522652,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.059261636754220776,
+                    "human": 0.9406968808522652,
+                    "mixed": 4.148239351388549e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 6:00 pm Friday, April 7, 2023BySuffolk News-Herald Editorial BoardOne of nature’s jewels, the Great Dismal Swamp, is getting a much-deserved turn in the local and state spotlights. And if the Virginia Tourism Corp. has its way, that exposure will extend well beyond the commonwealth.The first installment of a new video series, titled “My Home Virginia,” launched this week on the agency’s website and YouTube channel, and it features the Dismal Swamp prominently.The video series follows prominent Virginia-based personalities to the beautiful places they love and are inspired to call home, no matter how far across the world their travels may take them. In the first episode, photographer and filmmaker Trevor Frost takes viewers through some of his favorite Virginia destinations, including False Cape State Park, Grayson Highlands State Park and the James River. But some of the most impressive footage is from our own Dismal Swamp.Frost and partner Melissa Lesh of Emerging Earth Films have impressive credentials, including the critically acclaimed, award-winning Amazon Studios documentary “WILDCAT,” which is currently available to stream on Prime Video. Frost has traveled the world as a nature and wildlife photographer, but he’s quick to note that there’s no place like home.“As a photographer who works for publications like National Geographic and spends more than half the year out of the country, I am often asked where I want to go next,” he said in VTC’s 2023 Virginia Travel Guide. “People are often shocked by that answer, which comes as no surprise. But they shouldn’t be, because Virginia is where I grew up – and places, like music, have an extraordinary ability to help us recall memories and relive experiences.”Here at home, the Suffolk Center for Cultural Arts’ newest exhibit, “Walk on The Wild Side,” will showcase artwork inspired by the Great Dismal Swamp National Wildlife Refuge April 13 through May 11. A free opening reception is planned for 5:30 p.m. Thursday.The exhibit features Suffolk artists Edward Higinbotham and Wayne Martin. Higinbotham is a wood carver specializing in wooden and cork decoys and sculptures. Martin is a watercolorist whose love of nature can be seen in his paintings of birds relevant to the Great Dismal Swamp.The exhibit will be open for free viewing from 10 a.m. to 4 p.m. every day but Sunday and Monday at the arts center, 110 W. Finney Ave.The tourism video and SCCA exhibit are opportunities for locals to rediscover a gem we too often take for granted.“It’s easy to forget the beauty and wonder that exists right in one’s own backyard,” said Lesh, the documentarian. “Whether we were exploring a place I had never been before or one that I was very familiar with, filming this series was a great reminder of the incredible array of wild places and unique ecosystems that set Virginia apart, and why I like to call it home.”Watch the video at virginia.org/MyHomeVirginia.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

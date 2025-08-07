@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0005972171202301979,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008271750994026661,
+                    "sentence": "Please send your letters toletters@independent.co.ukI see thatDominic Raabhasaccused striking barristers of “holding justice to ransom”.He might care to reflect that it's a decade and counting of the Conservative Party's dogma-drivenausteritycuts that have actually left the UK's criminal justice system teetering on the brink of collapse.As anyone can see, the people who are actually holding the country to ransom at present are the privatised utility companies.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006393606890924275,
+                    "sentence": "What a shame that certain past governments weren't able to anticipate the risk of selling off all the country's precious resources.Julian SelfWolvertonMedical experiments on animals have had their dayIf the UK is to become a global leader in the life sciences,our next prime minister must support biomedical researchthat focuses on human biology, harnessing cutting-edge science.New approach methodologies (NAMs) such asartificial intelligenceand human organ-on-a-chip technology can unlock breakthroughs by providing results that are much more relevant to humans than experiments on animals.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006947777583263814,
+                    "sentence": "Unlike animal-based methods, they are not hampered by the pitfalls of translating results from one species to another, which often proves impossible.NAMs also have major economic potential.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005456507788039744,
+                    "sentence": "Last year,a report from the Centre for Economics and Business Research, commissioned by Animal Free Research UK, predicted that the UK NAMs industry would contribute £2.5bn to UK GDP by 2026 - an increase of 700 per cent since 2017.There is strong public support for modernising medical research in this way.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006498451111838222,
+                    "sentence": "In fact,a recent YouGov survey, commissioned by Animal Free Research UK, found that 77 per cent of Conservative Party members would support the government helping UK scientists replace animal experiments in medical research with new technologies such as computer modelling and organ-on-a-chip.Bold action is needed, such as appointing a dedicated minister to drive progress.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001692452933639288,
+                    "sentence": "I hope both leadership candidates will commit to making the UK a global leader in human-relevant innovation, transforming the lives of patients and their families.Dr Jarrod BaileyScience director, Animal Free Research UKA question of ethicsSo,Liz Truss says she doesn't need an ethics adviserbecause she knows the difference between right and wrong.But it's not the knowing that is crucial - it's the choosing.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.020779388025403023,
+                    "sentence": "Or to put it another way, “to know what you ought to do, and then not do it, is a sin” (James 4:17).Paul KeebleManchesterRegulation over renationalisationThe privatisation of public utilities may have led to short-term investment that initially enhanced provision but this has been squandered in the longer term.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.020098906010389328,
+                    "sentence": "The remunerations paid to thechief executives of the water companiesare disproportionate to the impact they have on the service they provide to anyone other than their shareholders.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereThe clamour for the renationalising of the industry is understandable but is a knee-jerk reaction that would be extremely costly and unlikely to have any immediate impact.Far better toimprove regulatory controlsand learn from existing practices.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013930073007941246,
+                    "sentence": "It would appear that three of the water companies - Northumbrian Water, Severn Trent and United Utilities - have consistently performed well, according to last year's Environmental Performance Report by the government.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.015966219827532768,
+                    "sentence": "One of their successful features has been the engagement of consumers in the framing of policies and practices.Perhaps the immediate solution is to put regulations in place that replicate best practice, cap executive pay and limit shareholder dividends to ensure that profits are invested more effectively in the supply of cleaner and plentiful water to the consumer.Graham PowellCirencester",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.024461651786716186,
+            "class_probabilities": {
+                "human": 0.9754981327244504,
+                "ai": 0.024461651786716186,
+                "mixed": 4.0215488833363626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9754981327244504,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024461651786716186,
+                    "human": 0.9754981327244504,
+                    "mixed": 4.0215488833363626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI see thatDominic Raabhasaccused striking barristers of “holding justice to ransom”.He might care to reflect that it’s a decade and counting of the Conservative Party’s dogma-drivenausteritycuts that have actually left the UK’s criminal justice system teetering on the brink of collapse.As anyone can see, the people who are actually holding the country to ransom at present are the privatised utility companies. What a shame that certain past governments weren’t able to anticipate the risk of selling off all the country’s precious resources.Julian SelfWolvertonMedical experiments on animals have had their dayIf the UK is to become a global leader in the life sciences,our next prime minister must support biomedical researchthat focuses on human biology, harnessing cutting-edge science.New approach methodologies (NAMs) such asartificial intelligenceand human organ-on-a-chip technology can unlock breakthroughs by providing results that are much more relevant to humans than experiments on animals. Unlike animal-based methods, they are not hampered by the pitfalls of translating results from one species to another, which often proves impossible.NAMs also have major economic potential. Last year,a report from the Centre for Economics and Business Research, commissioned by Animal Free Research UK, predicted that the UK NAMs industry would contribute £2.5bn to UK GDP by 2026 – an increase of 700 per cent since 2017.There is strong public support for modernising medical research in this way. In fact,a recent YouGov survey, commissioned by Animal Free Research UK, found that 77 per cent of Conservative Party members would support the government helping UK scientists replace animal experiments in medical research with new technologies such as computer modelling and organ-on-a-chip.Bold action is needed, such as appointing a dedicated minister to drive progress. I hope both leadership candidates will commit to making the UK a global leader in human-relevant innovation, transforming the lives of patients and their families.Dr Jarrod BaileyScience director, Animal Free Research UKA question of ethicsSo,Liz Truss says she doesn’t need an ethics adviserbecause she knows the difference between right and wrong.But it’s not the knowing that is crucial – it’s the choosing. Or to put it another way, “to know what you ought to do, and then not do it, is a sin” (James 4:17).Paul KeebleManchesterRegulation over renationalisationThe privatisation of public utilities may have led to short-term investment that initially enhanced provision but this has been squandered in the longer term. The remunerations paid to thechief executives of the water companiesare disproportionate to the impact they have on the service they provide to anyone other than their shareholders.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereThe clamour for the renationalising of the industry is understandable but is a knee-jerk reaction that would be extremely costly and unlikely to have any immediate impact.Far better toimprove regulatory controlsand learn from existing practices. It would appear that three of the water companies – Northumbrian Water, Severn Trent and United Utilities – have consistently performed well, according to last year’s Environmental Performance Report by the government. One of their successful features has been the engagement of consumers in the framing of policies and practices.Perhaps the immediate solution is to put regulations in place that replicate best practice, cap executive pay and limit shareholder dividends to ensure that profits are invested more effectively in the supply of cleaner and plentiful water to the consumer.Graham PowellCirencester"
+        }
+    ]
+}

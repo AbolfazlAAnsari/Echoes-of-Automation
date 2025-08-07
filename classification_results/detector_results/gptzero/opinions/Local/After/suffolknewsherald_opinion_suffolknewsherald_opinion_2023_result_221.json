@@ -1,0 +1,94 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0028551598079502583,
+                    "sentence": "Published 5:27 pm Tuesday, August 15, 2023BySuffolk News-HeraldTo the surprise of no one looking for a home to buy, Tidewater residential real estate remains a seller's market.The median sales price (MSP) of homes sold across the region for July was $340,000, the second-highest monthly MSP on record, according to the Real Estate Information Network, which tracks sales data throughout the region.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0021264120005071163,
+                    "sentence": "While selling prices remain strong and inventory is slowly creeping up, pending sales and settled sales were down both month-over-month and year-over-year.“Despite pending sales and settled sales being lower than we might like them to be, it's still a good time to sell a home and sellers are still in control,” said Jon McAchran of AtCoastal Realty and REIN board president.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09550945460796356,
+                    "sentence": "“Most homes are still selling for the list price, and most homes are still selling quickly.”McAchran said that at just 12 days, the median days on market (DOM) for homes sold last month was the same as it was in July 2022, and just one day higher than the DOM for July 2021, when the “pandemic” market was in full swing.Rising interest rates don't seem to be a deterrent.“The buyers are still out there and regardless of prices or mortgage rates or inflation, when they find a home they want they're willing to move, and to move quickly,” he said.Other numbers of interest from REIN:As builders answer the call, it's sure to add to the already-tense debate over residential development in growing communities like Suffolk, where many believe that road infrastructure is failing to keep pace with rooftops.The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.26678338646888733,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.13754960894584656,
+                    "sentence": "Among those contests is the Los Angeles…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                }
+            ],
+            "completely_generated_prob": 0.059261636754220776,
+            "class_probabilities": {
+                "human": 0.9406968808522652,
+                "ai": 0.059261636754220776,
+                "mixed": 4.148239351388549e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9406968808522652,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.059261636754220776,
+                    "human": 0.9406968808522652,
+                    "mixed": 4.148239351388549e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:27 pm Tuesday, August 15, 2023BySuffolk News-HeraldTo the surprise of no one looking for a home to buy, Tidewater residential real estate remains a seller’s market.The median sales price (MSP) of homes sold across the region for July was $340,000, the second-highest monthly MSP on record, according to the Real Estate Information Network, which tracks sales data throughout the region. While selling prices remain strong and inventory is slowly creeping up, pending sales and settled sales were down both month-over-month and year-over-year.“Despite pending sales and settled sales being lower than we might like them to be, it’s still a good time to sell a home and sellers are still in control,” said Jon McAchran of AtCoastal Realty and REIN board president. “Most homes are still selling for the list price, and most homes are still selling quickly.”McAchran said that at just 12 days, the median days on market (DOM) for homes sold last month was the same as it was in July 2022, and just one day higher than the DOM for July 2021, when the “pandemic” market was in full swing.Rising interest rates don’t seem to be a deterrent.“The buyers are still out there and regardless of prices or mortgage rates or inflation, when they find a home they want they’re willing to move, and to move quickly,” he said.Other numbers of interest from REIN:As builders answer the call, it’s sure to add to the already-tense debate over residential development in growing communities like Suffolk, where many believe that road infrastructure is failing to keep pace with rooftops.The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…"
+        }
+    ]
+}

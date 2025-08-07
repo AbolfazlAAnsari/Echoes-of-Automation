@@ -1,0 +1,154 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.07830633223056793,
+                    "sentence": "Published 5:47 pm Tuesday, November 21, 2023ByStaff ReportsNov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05212263762950897,
+                    "sentence": "23, this year, is Thanksgiving Day.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0665992721915245,
+                    "sentence": "It's a national holiday, traditionally celebrated in the United States, on the fourth Thursday of November each year.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.08559902012348175,
+                    "sentence": "It commemorates the get-together by the Plymouth colonists from England and the Native American Wampanoag people in 1621, sharing the autumn harvest feast.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1322816163301468,
+                    "sentence": "(To native Americans who may have suffered “injustices” (oppression, racism, genocide), Thanksgiving Day is a day to commemorate their “National Day of Mourning since 1970.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.12214616686105728,
+                    "sentence": ")It's a special day for people in America to celebrate their life, their blessings, sharing food (like turkey and other prepared dishes), friendship, faith, and fellowship with their family members, neighbors, guests, and friends while enjoying their freedom and togetherness, with entertainment like watching football games on TV.I remember my first Thanksgiving Day in America happened at my sister's house in California four decades ago.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0724632665514946,
+                    "sentence": "I couldn't believe I saw (and tasted or eaten) the biggest turkey in my life for the first time!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07636594772338867,
+                    "sentence": "I didn't know then why America celebrates Thanksgiving Day in November.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06925082951784134,
+                    "sentence": "I just thought it was a day to give thanks for all our blessings and enjoyᅳlife, liberty, freedom, faith and democracy.On this Thanksgiving Day, I offer my prayer of gratitude to our Almighty God for the opportunity of being here in America, having served honorably for 20 years in the United States Navy and retired (but with service-connected disabilities).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3583798408508301,
+                    "sentence": "I give thanks to America, my adoptive country, for the freedom and liberty my family and I and friends enjoy.I'm grateful to our Almighty God for my family and friends near and far, for having good neighbors, dedicated and dependable military armed forces, local officials and public servants (like law enforcement officials, police officers, teachers, school and hospital employees) who do their job every day.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.45525649189949036,
+                    "sentence": "Likewise, I thank our doctors and nurses, our bakers, barbers, farmers, office and store workers, writers, journalists, other professionals, and career men and women who contribute to our community and nation-building.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5446811318397522,
+                    "sentence": "Furthermore, I thank our religious leaders who do their best to help us deepen and grow in our faith.Dear God, on this Thanksgiving Day, I pray for peace in troubled places, for all casualties and victims of war, conflicts and other crises, and for all refugees and displaced families, with the hope that they are protected and find comfort and safe shelters.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.4230090379714966,
+                    "sentence": "Amen.Have a blessed Thanksgiving!On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6018037796020508,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.4632430970668793,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 15,
+                    "completely_generated_prob": 2.5938383721896624e-13
+                }
+            ],
+            "completely_generated_prob": 0.09353082711899116,
+            "class_probabilities": {
+                "human": 0.9064691728810088,
+                "ai": 0.09353082711899116,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9064691728810088,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.09353082711899116,
+                    "human": 0.9064691728810088,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:47 pm Tuesday, November 21, 2023ByStaff ReportsNov. 23, this year, is Thanksgiving Day. It’s a national holiday, traditionally celebrated in the United States, on the fourth Thursday of November each year. It commemorates the get-together by the Plymouth colonists from England and the Native American Wampanoag people in 1621, sharing the autumn harvest feast.(To native Americans who may have suffered “injustices” (oppression, racism, genocide), Thanksgiving Day is a day to commemorate their “National Day of Mourning since 1970.)It’s a special day for people in America to celebrate their life, their blessings, sharing food (like turkey and other prepared dishes), friendship, faith, and fellowship with their family members, neighbors, guests, and friends while enjoying their freedom and togetherness, with entertainment like watching football games on TV.I remember my first Thanksgiving Day in America happened at my sister’s house in California four decades ago. I couldn’t believe I saw (and tasted or eaten) the biggest turkey in my life for the first time! I didn’t know then why America celebrates Thanksgiving Day in November. I just thought it was a day to give thanks for all our blessings and enjoy—life, liberty, freedom, faith and democracy.On this Thanksgiving Day, I offer my prayer of gratitude to our Almighty God for the opportunity of being here in America, having served honorably for 20 years in the United States Navy and retired (but with service-connected disabilities). I give thanks to America, my adoptive country, for the freedom and liberty my family and I and friends enjoy.I’m grateful to our Almighty God for my family and friends near and far, for having good neighbors, dedicated and dependable military armed forces, local officials and public servants (like law enforcement officials, police officers, teachers, school and hospital employees) who do their job every day. Likewise, I thank our doctors and nurses, our bakers, barbers, farmers, office and store workers, writers, journalists, other professionals, and career men and women who contribute to our community and nation-building. Furthermore, I thank our religious leaders who do their best to help us deepen and grow in our faith.Dear God, on this Thanksgiving Day, I pray for peace in troubled places, for all casualties and victims of war, conflicts and other crises, and for all refugees and displaced families, with the hope that they are protected and find comfort and safe shelters. Amen.Have a blessed Thanksgiving!On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

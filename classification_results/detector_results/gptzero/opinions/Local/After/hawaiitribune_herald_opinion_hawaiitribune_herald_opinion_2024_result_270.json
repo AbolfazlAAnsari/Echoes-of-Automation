@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.11605177819728851,
+                    "sentence": "Monday, Sept. 02, 2024|Today's Paper|79.151°Mahalo for the helpat downtown KTAMahalo for the helpat downtown KTAPlease help me thank a very special wahine who helped me earlier this month at the downtown KTA.She saved me with her kokua at the store.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1497182995080948,
+                    "sentence": "I didn't get the time to thank her.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.14887751638889313,
+                    "sentence": "I am very grateful for her helping me, and I wish to thank her with all me heart.I wish her many blessings for helping me.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.18736234307289124,
+                    "sentence": "I hope to meet her.Lynise TarringHiloPlease restore view at complex for seniorsTo Mayor Mitch Roth: Four years ago, my prayers were answered and I was moving back to Hilo, in the Mohouli Heights Senior Residences, Phase III.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.26837149262428284,
+                    "sentence": "I had been in St. Louis helping to raise my two granddaughters.The Mohouli complex was brand new, and I felt I truly belonged here after working many years for Dr. Ed Gutteling in the building with the huge clock on it on Mohouli Street.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.34119611978530884,
+                    "sentence": "It was meant to be!The view from my new apartment was awesome!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.30421268939971924,
+                    "sentence": "To the left, a wonderful ocean view.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.33067744970321655,
+                    "sentence": "Then straight ahead, you could see down into downtown Hilo town rimmed by more ocean view.I felt like I had died and gone to heaven!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001144574605859816,
+                    "sentence": "After working from age 18 through 75 years of age, I feltrewardedfor my hard work through all those years.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008697259472683072,
+                    "sentence": "I would live and die in my beautiful new apartment.Today, my beautiful apartment faces Komohana Street, and the view isgone.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009040066506713629,
+                    "sentence": "The view is nothing but what I call “weed trees” that were not kept trimmed by the county.Could you please make some kupuna very happy by having these weed trees removed and replace our awesome view?This issue not only affect me but some of my neighbors.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009412647923454642,
+                    "sentence": "Mahalo for your attention to this matter.Mary Kay ValenzuelaHiloNestled between lush community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round.DENVER ᅳ The Colorado athletics department informed The Denver Post that head coach Deion Sanders and anyone else within the Buffs football program will no longer take questions from columnist Sean Keeler.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.06633669730667867,
+            "class_probabilities": {
+                "human": 0.9336633026933213,
+                "ai": 0.06633669730667867,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9336633026933213,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.06633669730667867,
+                    "human": 0.9336633026933213,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Monday, Sept. 02, 2024|Today's Paper|79.151°Mahalo for the helpat downtown KTAMahalo for the helpat downtown KTAPlease help me thank a very special wahine who helped me earlier this month at the downtown KTA.She saved me with her kokua at the store. I didn’t get the time to thank her. I am very grateful for her helping me, and I wish to thank her with all me heart.I wish her many blessings for helping me. I hope to meet her.Lynise TarringHiloPlease restore view at complex for seniorsTo Mayor Mitch Roth: Four years ago, my prayers were answered and I was moving back to Hilo, in the Mohouli Heights Senior Residences, Phase III. I had been in St. Louis helping to raise my two granddaughters.The Mohouli complex was brand new, and I felt I truly belonged here after working many years for Dr. Ed Gutteling in the building with the huge clock on it on Mohouli Street. It was meant to be!The view from my new apartment was awesome! To the left, a wonderful ocean view. Then straight ahead, you could see down into downtown Hilo town rimmed by more ocean view.I felt like I had died and gone to heaven! After working from age 18 through 75 years of age, I feltrewardedfor my hard work through all those years. I would live and die in my beautiful new apartment.Today, my beautiful apartment faces Komohana Street, and the view isgone. The view is nothing but what I call “weed trees” that were not kept trimmed by the county.Could you please make some kupuna very happy by having these weed trees removed and replace our awesome view?This issue not only affect me but some of my neighbors. Mahalo for your attention to this matter.Mary Kay ValenzuelaHiloNestled between lush  community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round.DENVER — The Colorado athletics department informed The Denver Post that head coach Deion Sanders and anyone else within the Buffs football program will no longer take questions from columnist Sean Keeler."
+        }
+    ]
+}

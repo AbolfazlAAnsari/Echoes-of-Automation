@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0031615865882486105,
+                    "sentence": "Published 4:13 pm Tuesday, May 7, 2024ByLetters to the EditorDear Editor,Vote in the primary on June 18, 2024 (early voting started on May 3), And during the General Election of November 2024, vote to honor the memory of civil rights activist Jimmie Lee Jackson.Jackson's grandparents, his parents, and Jackson never voted because, despite all their efforts, they were never allowed to register to vote.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020537551026791334,
+                    "sentence": "His grandparents owned a farm in Marion, Alabama.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0031309460755437613,
+                    "sentence": "His father was a Deacon at St. James Baptist Church.Jackson served in the US Army, and when he returned home from Vietnam, he attempted, on numerous occasions, to register to vote and was always denied.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0027593562845140696,
+                    "sentence": "According to his relatives, he was really angry that a person had to be a registered voter in order to serve on a jury, become a police officer, state trooper, fireman, or work for the city.On Feb.18, 1965, while unarmed and in the company of his grandmother and his parents, Jackson participated in a “Voting Rights” march with his church in Marion, where Jackson was shot and killed by an Alabama State Trooper.On Feb. 26, 1965, Jimmie Lee Jackson died in the hospital, which sparked the infamousIn 2007, State Trooper James B. Fowler pleaded guilty to killing Jackson and was sentenced to six months in prison and was released after serving 5 months.I never met Jimmie Lee Jackson.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0028511625714600086,
+                    "sentence": "During my 52-year career in the government, I met some of his relatives and people who knew him.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004122154787182808,
+                    "sentence": "He died trying to register to vote.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003685163566842675,
+                    "sentence": "During the past 69 years, every time I walk into a voting booth, I always say: “Jimmie Lee, I'm voting for you.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09409956634044647,
+                    "sentence": "To honor your sacrifice”When Barack Obama raised his right hand to take the oath of office as President of the United States, I said, “Jimmie Lee, I wish you were here.”In 2024, let us do something that Jimmie Lee Jackson tried but was never able to do.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09902722388505936,
+                    "sentence": "Let's vote to honor him because he could never do it himself.Jimmie Lee Jackson died fighting for the right to vote.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.054257556796073914,
+                    "sentence": "Let's not take that right for granted.Ray LoraSuffolkOn Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09685902297496796,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07311160117387772,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.060423759254479424,
+            "class_probabilities": {
+                "human": 0.9395348095964596,
+                "ai": 0.060423759254479424,
+                "mixed": 4.1431149060857404e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9395348095964596,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.060423759254479424,
+                    "human": 0.9395348095964596,
+                    "mixed": 4.1431149060857404e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 4:13 pm Tuesday, May 7, 2024ByLetters to the EditorDear Editor,Vote in the primary on June 18, 2024 (early voting started on May 3), And during the General Election of November 2024, vote to honor the memory of civil rights activist Jimmie Lee Jackson.Jackson’s grandparents, his parents, and Jackson never voted because, despite all their efforts, they were never allowed to register to vote. His grandparents owned a farm in Marion, Alabama. His father was a Deacon at St. James Baptist Church.Jackson served in the US Army, and when he returned home from Vietnam, he attempted, on numerous occasions, to register to vote and was always denied. According to his relatives, he was really angry that a person had to be a registered voter in order to serve on a jury, become a police officer, state trooper, fireman, or work for the city.On Feb.18, 1965, while unarmed and in the company of his grandmother and his parents, Jackson participated in a “Voting Rights” march with his church in Marion, where Jackson was shot and killed by an Alabama State Trooper.On Feb. 26, 1965, Jimmie Lee Jackson died in the hospital, which sparked the infamousIn 2007, State Trooper James B. Fowler pleaded guilty to killing Jackson and was sentenced to six months in prison and was released after serving 5 months.I never met Jimmie Lee Jackson. During my 52-year career in the government, I met some of his relatives and people who knew him. He died trying to register to vote. During the past 69 years, every time I walk into a voting booth, I always say: “Jimmie Lee, I’m voting for you. To honor your sacrifice”When Barack Obama raised his right hand to take the oath of office as President of the United States, I said, “Jimmie Lee, I wish you were here.”In 2024, let us do something that Jimmie Lee Jackson tried but was never able to do. Let’s vote to honor him because he could never do it himself.Jimmie Lee Jackson died fighting for the right to vote. Let’s not take that right for granted.Ray LoraSuffolkOn Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0015829511685296893,
+                    "sentence": "Published 7:14 pm Friday, August 18, 2023ByStaff ReportsPart one of twoThe Catholic Church, considered the largest religion in the world, with around 1.36 billion members (about 17% plus of the world's population), per Vatican statistics, has just finished celebrating her 37th World Youth Day, 2023, Aug. 2-6, in Lisbon, Portugal.Out of an estimated 1.5 million people worldwide who participated in this year's WYD, about 60 pilgrims were from the Diocese of Richmond.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018992240075021982,
+                    "sentence": "The participants came from various parishes to experience the joy of encountering God and/with others.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013955539325252175,
+                    "sentence": "As expected, they were thankful and happy to see for themselves for the first time His Holiness, Pope Francis, who leads the Catholic Church.By the way, Guinness World Records recognized the 1995 World Youth Day event at the Luneta Park in Manila, Philippines as the largest crowd, with attendance of 5 million.Organized by the Catholic Church, World Youth Day is an event for young people around the world and was initiated by Pope John Paul II in 1985.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014805544633418322,
+                    "sentence": "It's open to all young people (Catholics and non-Catholics), who desire to participate in a festive but spiritual encounter centered on Jesus Christ together with their peers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014482825063169003,
+                    "sentence": "The traditional theme is usually unity among the presence of different cultures.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010258718393743038,
+                    "sentence": "WYD is celebrated annually at the diocesan level.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020541460253298283,
+                    "sentence": "Internationally, it is held every three years.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014091837219893932,
+                    "sentence": "Widely anticipated tradition in WYD is the public appearance of the Pope or Holy Father or Supreme Pontiff in a “Popemobile.” He, along with Cardinals, Bishops and other priests, leads the pilgrims in prayers and Eucharistic adoration (of the Blessed Sacrament).At the World Youth Day, pilgrims from around the world gather together to attend to and participate in church traditions of prayers, praying the Holy Rosary, attending Masses, singing Catholic-theme songs, and listening to inspiring testimonies, messages and talks.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001583583652973175,
+                    "sentence": "There are also side trips, i.e.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09266062080860138,
+                    "sentence": "visiting churches and historical sites.The first World Youth Day was held in Rome, Italy, in 1986, and moved around the world through the years.At the closing Mass of WYD 2023 Aug. 6, Sunday (which the Catholic Church observed the Feast of the Transfiguration of the Lord), Pope Francis, in his homily, told the young people to shine and radiate light when they have or welcome Jesus into their lives; to listen to the Gospel, “to listen to what Jesus tells you,” and to “be not afraid,” to be fearless to change the world, when they go out and serve and share Jesus Christ to others.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3283648192882538,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.22554929554462433,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.06633669730667867,
+            "class_probabilities": {
+                "human": 0.9336633026933213,
+                "ai": 0.06633669730667867,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9336633026933213,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.06633669730667867,
+                    "human": 0.9336633026933213,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 7:14 pm Friday, August 18, 2023ByStaff ReportsPart one of twoThe Catholic Church, considered the largest religion in the world, with around 1.36 billion members (about 17% plus of the world’s population), per Vatican statistics, has just finished celebrating her 37th World Youth Day, 2023, Aug. 2-6, in Lisbon, Portugal.Out of an estimated 1.5 million people worldwide who participated in this year’s WYD, about 60 pilgrims were from the Diocese of Richmond. The participants came from various parishes to experience the joy of encountering God and/with others. As expected, they were thankful and happy to see for themselves for the first time His Holiness, Pope Francis, who leads the Catholic Church.By the way, Guinness World Records recognized the 1995 World Youth Day event at the Luneta Park in Manila, Philippines as the largest crowd, with attendance of 5 million.Organized by the Catholic Church, World Youth Day is an event for young people around the world and was initiated by Pope John Paul II in 1985. It’s open to all young people (Catholics and non-Catholics), who desire to participate in a festive but spiritual encounter centered on Jesus Christ together with their peers. The traditional theme is usually unity among the presence of different cultures. WYD is celebrated annually at the diocesan level. Internationally, it is held every three years. Widely anticipated tradition in WYD is the public appearance of the Pope or Holy Father or Supreme Pontiff in a “Popemobile.” He, along with Cardinals, Bishops and other priests, leads the pilgrims in prayers and Eucharistic adoration (of the Blessed Sacrament).At the World Youth Day, pilgrims from around the world gather together to attend to and participate in church traditions of prayers, praying the Holy Rosary, attending Masses, singing Catholic-theme songs, and listening to inspiring testimonies, messages and talks. There are also side trips, i.e. visiting churches and historical sites.The first World Youth Day was held in Rome, Italy, in 1986, and moved around the world through the years.At the closing Mass of WYD 2023 Aug. 6, Sunday (which the Catholic Church observed the Feast of the Transfiguration of the Lord), Pope Francis, in his homily, told the young people to shine and radiate light when they have or welcome Jesus into their lives; to listen to the Gospel, “to listen to what Jesus tells you,” and to “be not afraid,” to be fearless to change the world, when they go out and serve and share Jesus Christ to others.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

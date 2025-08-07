@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0004125752311665565,
+                    "sentence": "Published 6:03 pm Tuesday, July 30, 2024ByLetters to the EditorDear Editor:A recent Suffolk News-Herald article about the 2045 Comprehensive Plan update presented to City Council on July 17th mentioned that there was a petition against this plan.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004793933767359704,
+                    "sentence": "I'd like to highlight a main reason why many residents think the 2045 Plan should not be approved.Page six of the 2045 Comprehensive Plan draft states that “Different kinds of development have different impacts on the fiscal health of the City.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005801055231131613,
+                    "sentence": "Development that is not supported by existing infrastructure (roadways, water, sewer) and that is more consumptive of land can be a greater drain on the City's finances.” This is a pretty intuitive concept!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000530340475961566,
+                    "sentence": "When the initial draft came out in February with recommendations to expand Growth Areas by a shocking 23%, many people assumed it would be backed up by some solid data.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004866956442128867,
+                    "sentence": "(For context, our current 2035 Comprehensive Plan only increased the growth area by 5% back in 2015.)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000334745564032346,
+                    "sentence": "Planners did reduce the recommendation to a 17% increase and have since reduced it again, but it is still roughly a 12% expansion.While looking for the justifications for this kind of growth (that flies in the face of the public feedback the City received), we realized that it is a norm to have a Fiscal Impact Analysis (FIA) done during the comp plan update process.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000409310101531446,
+                    "sentence": "Originally, there were plans to do one: it was a requirement in the City's Request for Proposal seeking a consultant to review and update the 2035 Comp Plan; it was part of the Scope of Work and timeline in the selected consultant's proposal; Tischler Bise was the consulting firm scheduled to do the FIA and in 2022 their representative attended a workshop here with city staff.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03239880129694939,
+                    "sentence": "However, in August 2023, city staff decided to postpone the FIA until after plan approval.At a joint Planning Commission/City Council work session on May 1 of this year, Planning explained that an FIA is not really needed now because the City will continue using the same growth strategy it's already been using.This assumes that the current strategy is a good one!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.028387874364852905,
+                    "sentence": "The FIA can help determine probable long-term fiscal effects of different growth scenarios.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03585333377122879,
+                    "sentence": "Why would we want to move forward without this information?Citizens of Suffolk deserve data-driven reasons as to why our Planners want to double down on a strategy that is negatively impacting our ability to move around the City and increasingly straining our infrastructure.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.033042147755622864,
+                    "sentence": "You can find the petition and more information athttps://care4suffolk.org/2045-comprehensive-plan/.Ann HarrisSuffolkOn Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05819331482052803,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.057157743722200394,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.039837804045504216,
+            "class_probabilities": {
+                "human": 0.9601216422360306,
+                "ai": 0.039837804045504216,
+                "mixed": 4.055371846526579e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601216422360306,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039837804045504216,
+                    "human": 0.9601216422360306,
+                    "mixed": 4.055371846526579e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 6:03 pm Tuesday, July 30, 2024ByLetters to the EditorDear Editor:A recent Suffolk News-Herald article about the 2045 Comprehensive Plan update presented to City Council on July 17th mentioned that there was a petition against this plan. I’d like to highlight a main reason why many residents think the 2045 Plan should not be approved.Page six of the 2045 Comprehensive Plan draft states that “Different kinds of development have different impacts on the fiscal health of the City. Development that is not supported by existing infrastructure (roadways, water, sewer) and that is more consumptive of land can be a greater drain on the City’s finances.” This is a pretty intuitive concept! When the initial draft came out in February with recommendations to expand Growth Areas by a shocking 23%, many people assumed it would be backed up by some solid data. (For context, our current 2035 Comprehensive Plan only increased the growth area by 5% back in 2015.) Planners did reduce the recommendation to a 17% increase and have since reduced it again, but it is still roughly a 12% expansion.While looking for the justifications for this kind of growth (that flies in the face of the public feedback the City received), we realized that it is a norm to have a Fiscal Impact Analysis (FIA) done during the comp plan update process. Originally, there were plans to do one: it was a requirement in the City’s Request for Proposal seeking a consultant to review and update the 2035 Comp Plan; it was part of the Scope of Work and timeline in the selected consultant’s proposal; Tischler Bise was the consulting firm scheduled to do the FIA and in 2022 their representative attended a workshop here with city staff. However, in August 2023, city staff decided to postpone the FIA until after plan approval.At a joint Planning Commission/City Council work session on May 1 of this year, Planning explained that an FIA is not really needed now because the City will continue using the same growth strategy it’s already been using.This assumes that the current strategy is a good one! The FIA can help determine probable long-term fiscal effects of different growth scenarios. Why would we want to move forward without this information?Citizens of Suffolk deserve data-driven reasons as to why our Planners want to double down on a strategy that is negatively impacting our ability to move around the City and increasingly straining our infrastructure. You can find the petition and more information athttps://care4suffolk.org/2045-comprehensive-plan/.Ann HarrisSuffolkOn Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

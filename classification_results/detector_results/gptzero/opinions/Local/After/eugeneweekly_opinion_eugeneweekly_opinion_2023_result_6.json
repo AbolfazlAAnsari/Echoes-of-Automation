@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 4.560990782920271e-05,
+                    "sentence": "We've got issues.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.4324439184274524e-05,
+                    "sentence": "Since Hamas' terror attacks in Israel on Oct. 7, we've seen bigots and extremists exploit the crisis to spread hate, disinformation and extremism.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.785238393698819e-05,
+                    "sentence": "This is a moment of deep Jewish pain, mourning the lives taken and praying for the safe release of the hostages in Gaza ᅳ and this pain and fear is compounded by a horrific rise in antisemitism here in the United States and around the globe.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.252853664685972e-05,
+                    "sentence": "We also know that we are not the only ones being targeted in this moment.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.370592457940802e-05,
+                    "sentence": "Our Muslim, Arab and Palestinian American neighbors are facing bigotry, threats and violence ᅳ including the despicable murder of a six year old boy this weekend outside Chicago, by a man who reportedly espoused anti-Muslim hate.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.5215431125834584e-05,
+                    "sentence": "Let us be unequivocally clear: The Jewish community rejects Islamophobia, anti-Arab hate, antisemitism and all forms of bigotry.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.811039277934469e-05,
+                    "sentence": "Particularly as extremists continue to exploit this moment, we are reminded that all of our communities' safety and futures are inextricably linked ᅳ and recommit ourselves to fighting hate in all its forms.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.649677329231054e-05,
+                    "sentence": "Local journalism delivered directly via email each Thursday.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.163348734844476e-05,
+                    "sentence": "We stand in solidarity with all our neighbors under threat, and urge our elected and civic leaders, law enforcement, schools and universities, and employers to make clear there will be zero tolerance for any act of hate.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 1,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 2,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 3,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 5,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 7,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 8,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                }
+            ],
+            "completely_generated_prob": 0.004922978367096123,
+            "class_probabilities": {
+                "human": 0.9950770216329039,
+                "ai": 0.004922978367096123,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9950770216329039,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.004922978367096123,
+                    "human": 0.9950770216329039,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "We've got issues.\nSince Hamas’ terror attacks in Israel on Oct. 7, we’ve seen bigots and extremists exploit the crisis to spread hate, disinformation and extremism.\nThis is a moment of deep Jewish pain, mourning the lives taken and praying for the safe release of the hostages in Gaza — and this pain and fear is compounded by a horrific rise in antisemitism here in the United States and around the globe.\nWe also know that we are not the only ones being targeted in this moment. Our Muslim, Arab and Palestinian American neighbors are facing bigotry, threats and violence — including the despicable murder of a six year old boy this weekend outside Chicago, by a man who reportedly espoused anti-Muslim hate.\nLet us be unequivocally clear: The Jewish community rejects Islamophobia, anti-Arab hate, antisemitism and all forms of bigotry. Particularly as extremists continue to exploit this moment, we are reminded that all of our communities’ safety and futures are inextricably linked — and recommit ourselves to fighting hate in all its forms.\nLocal journalism delivered directly via email each Thursday.\nWe stand in solidarity with all our neighbors under threat, and urge our elected and civic leaders, law enforcement, schools and universities, and employers to make clear there will be zero tolerance for any act of hate.\n"
+        }
+    ]
+}

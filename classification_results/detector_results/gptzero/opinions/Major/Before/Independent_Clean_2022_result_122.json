@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0006238018395379186,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008546147728338838,
+                    "sentence": "Please send your letters toletters@independent.co.ukNeil Parishdid indeed do the right thing, asSean O'Grady writes.However, it's a sad day when we are so feebly grateful for his actions because they are set against the obfuscation, deviation and brass neck ofBoris Johnson's typical delay tactics.Iain BoydBristolWhich is the greater sin?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008645802736282349,
+                    "sentence": "Is it watching pornography in the House of Commons followed by honourable resignation?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010120777878910303,
+                    "sentence": "Or is it lying to the house but refusing to resign?The first dishonours the house.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001210281508974731,
+                    "sentence": "The second dishonours the country.David LeeKingston upon ThamesWestminster drinking cultureEx-MP Mark Oaten spoke on Stephen Nolan's Radio 5 Live show on Friday.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002009936608374119,
+                    "sentence": "He left Westminster in disgrace, something he fully accepted in the conversation.He spoke about thedrinking culture, which has been repeated ad nauseam, plus the ridiculously long hours.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00289893033914268,
+                    "sentence": "He suggested removing alcohol and creating a 9am till 6pm working day.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0047675566747784615,
+                    "sentence": "Doesn't it sound simple?MPs have to live in London for the week, travel up on a Monday morning and return home on Thursday, but the baffling part of this arrangement is that the taxpayer pays for a week's accommodation, which is only used for three nights.The government likes to talk about regional hubs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0038008063565939665,
+                    "sentence": "This might be the answer to the present nonsense.Martin SpittleNorfolkTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereLoud vehiclesI am pleased that the government may be waking up to thenuisance caused by noisy vehicles.I have never understood why steps have not long ago been taken to limit the noisiness of the vehicles on our roads.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0031558996997773647,
+                    "sentence": "If this can be done at the roadside, which would necessarily be serendipitous, why not make it a part of the MOT and the initial design requirements?There are some motorcyclists who actually seem to enjoy making a lot of noise, and I have never understood why we accept that a vehicle capable of carrying up to two people may be noisier than one that can carry up to five.Dennis LeachmanKingston upon Thames",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.020796750353547094,
+            "class_probabilities": {
+                "human": 0.9792032496464529,
+                "ai": 0.020796750353547094,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9792032496464529,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020796750353547094,
+                    "human": 0.9792032496464529,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukNeil Parishdid indeed do the right thing, asSean O'Grady writes.However, it's a sad day when we are so feebly grateful for his actions because they are set against the obfuscation, deviation and brass neck ofBoris Johnson's typical delay tactics.Iain BoydBristolWhich is the greater sin? Is it watching pornography in the House of Commons followed by honourable resignation? Or is it lying to the house but refusing to resign?The first dishonours the house. The second dishonours the country.David LeeKingston upon ThamesWestminster drinking cultureEx-MP Mark Oaten spoke on Stephen Nolan's Radio 5 Live show on Friday. He left Westminster in disgrace, something he fully accepted in the conversation.He spoke about thedrinking culture, which has been repeated ad nauseam, plus the ridiculously long hours. He suggested removing alcohol and creating a 9am till 6pm working day. Doesn't it sound simple?MPs have to live in London for the week, travel up on a Monday morning and return home on Thursday, but the baffling part of this arrangement is that the taxpayer pays for a week's accommodation, which is only used for three nights.The government likes to talk about regional hubs. This might be the answer to the present nonsense.Martin SpittleNorfolkTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereLoud vehiclesI am pleased that the government may be waking up to thenuisance caused by noisy vehicles.I have never understood why steps have not long ago been taken to limit the noisiness of the vehicles on our roads. If this can be done at the roadside, which would necessarily be serendipitous, why not make it a part of the MOT and the initial design requirements?There are some motorcyclists who actually seem to enjoy making a lot of noise, and I have never understood why we accept that a vehicle capable of carrying up to two people may be noisier than one that can carry up to five.Dennis LeachmanKingston upon Thames"
+        }
+    ]
+}

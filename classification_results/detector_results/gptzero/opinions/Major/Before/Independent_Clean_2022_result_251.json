@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 5.530401904252358e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.314820034778677e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe “Festival ofBrexit”(aka Unboxed) falls calamitously short of expectations.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.174864832544699e-05,
+                    "sentence": "Hardly surprising since there is nothing to celebrate.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.8789905374869704e-05,
+                    "sentence": "More taxpayers' money spaffed on pointless vanity projects which could have been put into a hardship fund for the tough winter ahead.Colin HaywardFarehamPensioned offMy wife should have received her UK pension in April but was told there was a backlog.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.178979022777639e-05,
+                    "sentence": "She has been telephoning from our home in Spain every week since, but keeps getting the same reply: “There is a backlog and we don't know when it will be paid.”Her cousin and a friend of the same age have received their pensions on time.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.312014425522648e-05,
+                    "sentence": "It may be something to do with living in Europe, but quite frankly, it is a disgrace to leave someone penniless from April to September whilst spending money advertising more and more pension benefits in every newspaper when she cannot even receive her basic pension.Tony and Gill GreenwoodSpainSelection headacheWhilst we suffer the excruciating process of the selection of our next prime minister - a bizarre situation permitted by an increasingly outdated constitution - we should bear in mind that there is ample opportunity in the life of this government for a contest or two more.David NelmesNewportGorbachev's greatnessRory Stewart's remarks on yesterday's The Rest is Politics podcast about his experience of the deeply flawed workings of the parliamentary system in the UK particularly resonated with me, as I had just finished reading one of the many praiseworthy articles in the wake ofMikhail Gorbachev's death.Even if total collapse of the Soviet Union was not part of his plan, this extraordinary man's actions did ultimately release many of the former Eastern bloc countries from decades of an oppressive and opaque regime.It might be for different reasons, but I would argue that decent helpings of perestroika and glasnost are exactly what the UK's democracy needs right now.If the country were to introduce a fairer electoral system, formulate a written constitution, reform parliamentary process and generally drag the country out of the cloying mists of its albeit questionable greatness, then we may be brought to the promised land or sunlit uplands, to coin an overused phrase.The only problem is we need people with strength, vision and, above all, integrity to make it happen.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001401685003656894,
+                    "sentence": "We need a Gorbachev.J WellsAlresfordTiresome farewellBoris Johnson - now back from his multiple jaunts - has embarked on a post-junket operation with our understaffed and underpaid police.What is the next port of call in this lazy and tiresome farewell?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00025621161330491304,
+                    "sentence": "The photo opportunity of a surprise visit to an increasingly under-resourced food bank perhaps?David NelmesNewport",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.004992955483599872,
+            "class_probabilities": {
+                "human": 0.9950070445164001,
+                "ai": 0.004992955483599872,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9950070445164001,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.004992955483599872,
+                    "human": 0.9950070445164001,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThe “Festival ofBrexit”(aka Unboxed) falls calamitously short of expectations. Hardly surprising since there is nothing to celebrate. More taxpayers’ money spaffed on pointless vanity projects which could have been put into a hardship fund for the tough winter ahead.Colin HaywardFarehamPensioned offMy wife should have received her UK pension in April but was told there was a backlog. She has been telephoning from our home in Spain every week since, but keeps getting the same reply: “There is a backlog and we don’t know when it will be paid.”Her cousin and a friend of the same age have received their pensions on time. It may be something to do with living in Europe, but quite frankly, it is a disgrace to leave someone penniless from April to September whilst spending money advertising more and more pension benefits in every newspaper when she cannot even receive her basic pension.Tony and Gill GreenwoodSpainSelection headacheWhilst we suffer the excruciating process of the selection of our next prime minister – a bizarre situation permitted by an increasingly outdated constitution – we should bear in mind that there is ample opportunity in the life of this government for a contest or two more.David NelmesNewportGorbachev’s greatnessRory Stewart’s remarks on yesterday’s The Rest is Politics podcast about his experience of the deeply flawed workings of the parliamentary system in the UK particularly resonated with me, as I had just finished reading one of the many praiseworthy articles in the wake ofMikhail Gorbachev’s death.Even if total collapse of the Soviet Union was not part of his plan, this extraordinary man’s actions did ultimately release many of the former Eastern bloc countries from decades of an oppressive and opaque regime.It might be for different reasons, but I would argue that decent helpings of perestroika and glasnost are exactly what the UK’s democracy needs right now.If the country were to introduce a fairer electoral system, formulate a written constitution, reform parliamentary process and generally drag the country out of the cloying mists of its albeit questionable greatness, then we may be brought to the promised land or sunlit uplands, to coin an overused phrase.The only problem is we need people with strength, vision and, above all, integrity to make it happen. We need a Gorbachev.J WellsAlresfordTiresome farewellBoris Johnson – now back from his multiple jaunts – has embarked on a post-junket operation with our understaffed and underpaid police.What is the next port of call in this lazy and tiresome farewell? The photo opportunity of a surprise visit to an increasingly under-resourced food bank perhaps?David NelmesNewport"
+        }
+    ]
+}

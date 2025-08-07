@@ -1,0 +1,82 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.000298659986583516,
+                    "sentence": "The Big Island as seen by Hawaii Tribune-Herald cartoonist Gary Hoff.The Big Island as seen by Hawaii Tribune-Herald cartoonist Gary Hoff.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00026280255406163633,
+                    "sentence": "Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneThe Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00024124645278789103,
+                    "sentence": "The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.Record-setting University of Hawaii quarterback and 2007 Heisman Trophy finalist Colt Brennan has died, his father Terry Brennan told the Honolulu Star-Advertiser.A 45-year-old Hilo man was sentenced Aug. 22 to 10 years for a domestic assault last Christmas Eve on his estranged girlfriend.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                }
+            ],
+            "completely_generated_prob": 0.0065769246948333485,
+            "class_probabilities": {
+                "human": 0.9934230753051666,
+                "ai": 0.0065769246948333485,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9934230753051666,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0065769246948333485,
+                    "human": 0.9934230753051666,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "The Big Island as seen by Hawaii Tribune-Herald cartoonist Gary Hoff.The Big Island as seen by Hawaii Tribune-Herald cartoonist Gary Hoff.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph. Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneThe Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today. The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.Record-setting University of Hawaii quarterback and 2007 Heisman Trophy finalist Colt Brennan has died, his father Terry Brennan told the Honolulu Star-Advertiser.A 45-year-old Hilo man was sentenced Aug. 22 to 10 years for a domestic assault last Christmas Eve on his estranged girlfriend."
+        }
+    ]
+}

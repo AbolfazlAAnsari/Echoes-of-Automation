@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0004027666582260281,
+                    "sentence": "From local coverage to the presidential race,.Cityscape| Twin Cities urban geographer Bill Lindeke weighs in on city life, transportation, planning and more in his column delivered to your inbox weekly.As we enter into the summer home buying season, consumers navigating the real estate landscape are facing unprecedented complexity and competition.They need a trusted guide now more than ever to help them as they wind their way through the maze of legal and financial hurdles to make arguably the most important purchase in their lives.If you've been following the headlines lately, you know that the National Association of Realtors recently forged a settlement to resolve litigation that will impact how agents interact with clients and how they do their jobs in two important ways:These rules will go into effect in mid-August.I get asked a lot of questions from friends, family and clients about what these changes mean.In a nutshell, what this settlement will do is foster more upfront communication between agents and their clients.In my view, that's a net positive.It will provide me and my colleagues an opportunity to explain how well-versed we are in the many financial and legal complexities of a real estate transaction.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005558095290325582,
+                    "sentence": "It'll help us explain how we negotiate on a buyer's behalf so they can rest assured they get the right home at a good price.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006139937788248062,
+                    "sentence": "We can share how we guide them through the stressful twists and turns of home inspections and offer suggestions and solutions when deals look like they might fall apart.Sharing with clients all the services I provide over the course of searching for a home will only reinforce the value realtors bring to the transaction.Change is inevitable, particularly in real estate.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00882290955632925,
+                    "sentence": "Markets go up.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0075633106753230095,
+                    "sentence": "Then, they slide downward.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008750942535698414,
+                    "sentence": "Interest rates balloon and later fall back to earth.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008077137172222137,
+                    "sentence": "Through it all, the constant is having someone on your side who will help you fulfill your dream of owning a home.John Smaby, a broker at Edina Realty and an Edina resident, was the 2019 president of the National Association of Realtors.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.01565789170260218,
+            "class_probabilities": {
+                "human": 0.9843421082973979,
+                "ai": 0.01565789170260218,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9843421082973979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01565789170260218,
+                    "human": 0.9843421082973979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "From local coverage to the presidential race, .Cityscape| Twin Cities urban geographer Bill Lindeke weighs in on city life, transportation, planning and more in his column delivered to your inbox weekly.As we enter into the summer home buying season, consumers navigating the real estate landscape are facing unprecedented complexity and competition.They need a trusted guide now more than ever to help them as they wind their way through the maze of legal and financial hurdles to make arguably the most important purchase in their lives.If you’ve been following the headlines lately, you know that the National Association of Realtors recently forged a settlement to resolve litigation that will impact how agents interact with clients and how they do their jobs in two important ways:These rules will go into effect in mid-August.I get asked a lot of questions from friends, family and clients about what these changes mean.In a nutshell, what this settlement will do is foster more upfront communication between agents and their clients.In my view, that’s a net positive.It will provide me and my colleagues an opportunity to explain how well-versed we are in the many financial and legal complexities of a real estate transaction. It’ll help us explain how we negotiate on a buyer’s behalf so they can rest assured they get the right home at a good price. We can share how we guide them through the stressful twists and turns of home inspections and offer suggestions and solutions when deals look like they might fall apart.Sharing with clients all the services I provide over the course of searching for a home will only reinforce the value realtors bring to the transaction.Change is inevitable, particularly in real estate. Markets go up. Then, they slide downward. Interest rates balloon and later fall back to earth. Through it all, the constant is having someone on your side who will help you fulfill your dream of owning a home.John Smaby, a broker at Edina Realty and an Edina resident, was the 2019 president of the National Association of Realtors."
+        }
+    ]
+}

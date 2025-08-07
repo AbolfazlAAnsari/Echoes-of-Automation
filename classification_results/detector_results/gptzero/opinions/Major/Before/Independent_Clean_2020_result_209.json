@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 1.9425368009251542e-05,
+                    "sentence": "Send your letters toletters@independent.co.ukA tiny cheer is due to Boris Johnson for his latest wheeze to encourage us to follow him in his efforts to lose the lockdown lard.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.5125307072594296e-05,
+                    "sentence": "It is indeed a step in the right direction.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.4863939213682897e-05,
+                    "sentence": "However, it is a pity that step is halfway up the ladder, rather than starting on the first rung.Johnson thinks that cycling should do the trick.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.6345149560947903e-05,
+                    "sentence": "On Boris bikes, maybe?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.2052707461407408e-05,
+                    "sentence": "If he ever bothered to spend unpublicised time in areas such as Bolton or indeed Tower Hamlets, he would learn that access to cycling is not easy.He clearly knows nothing about the viewing habits of most young people today, who have no concept of a 9pm \"watershed\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.0879954970732797e-05,
+                    "sentence": "They are unlikely to be influenced by adverts, which they don't watch anyway, on TV channels, which they don't watch either.Eating healthily is not so easy when you live in deprived areas, with little income and limited opportunities to buy healthy food.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.2861184586654417e-05,
+                    "sentence": "How much better it would have been for the chancellor to distribute the dining-out voucher money to charities working with the poor and dispossessed, to provide healthy food and education in nutrition.So, back to the foot of the ladder please, prime minister.Sue Breadner Isle of ManThe announcement that GPs are to be asked by the prime minister to prescribe cycling (\"PM to ask GPs to prescribe cycling in obesity campaign\") was heartening as presumably my GP will now be able to prescribe me a new bike on which to do it.Paul Draper WinchesterRelegation heartbreakCommiserations to Norwich, Bournemouth and Watford on being relegated from the Premier League.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.480783147504553e-05,
+                    "sentence": "It won't be long before we all feel down like them as - thanks to the own goal of Brexit - the UK too drops into a lower league.Unlike them we can't console ourselves with the prospect of coming straight back up or of replacing key players likely to be permanently lost from a once united team to a bigger European club.Roger Hinds SurreyBridge too farComing hard on the heels of a winter and spring of uncertainty, it's not too much of a shock to learn that this state of affairs will continue through summer (\"Dominic Raab warns of 'summer of uncertainty' after air bridge to Spain pulled with hours notice\").I would have liked Raab C Brexit to also come clean about the coming autumn and winter, with special reference to 31 December.Eddie Dougall Bury St EdmundsAid shameI see that the UK government is to cut £2.9bn from the overseas aid programme.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.8266480007441714e-05,
+                    "sentence": "The damage this will inevitably cause to vulnerable peoples in many countries who rely on our assistance is bad enough.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.4617579735349864e-05,
+                    "sentence": "More concerning is the fact that the official \"letter\" was published last Wednesday as MPs returned home for the summer recess.Consequently, our elected representatives will have no opportunity to scrutinise the cut.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.61527956253849e-05,
+                    "sentence": "If we are to have faith in the leadership of the government this sort of behaviour must stop.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.533436630386859e-05,
+                    "sentence": "Quite frankly it is pathetic and it has been noted.Steve Edmondson Cambridge",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.004992955483599872,
+            "class_probabilities": {
+                "human": 0.9950070445164001,
+                "ai": 0.004992955483599872,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9950070445164001,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.004992955483599872,
+                    "human": 0.9950070445164001,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Send your letters toletters@independent.co.ukA tiny cheer is due to Boris Johnson for his latest wheeze to encourage us to follow him in his efforts to lose the lockdown lard. It is indeed a step in the right direction. However, it is a pity that step is halfway up the ladder, rather than starting on the first rung.Johnson thinks that cycling should do the trick. On Boris bikes, maybe? If he ever bothered to spend unpublicised time in areas such as Bolton or indeed Tower Hamlets, he would learn that access to cycling is not easy.He clearly knows nothing about the viewing habits of most young people today, who have no concept of a 9pm \"watershed\". They are unlikely to be influenced by adverts, which they don't watch anyway, on TV channels, which they don't watch either.Eating healthily is not so easy when you live in deprived areas, with little income and limited opportunities to buy healthy food. How much better it would have been for the chancellor to distribute the dining-out voucher money to charities working with the poor and dispossessed, to provide healthy food and education in nutrition.So, back to the foot of the ladder please, prime minister.Sue Breadner                                          Isle of ManThe announcement that GPs are to be asked by the prime minister to prescribe cycling (\"PM to ask GPs to prescribe cycling in obesity campaign\") was heartening as presumably my GP will now be able to prescribe me a new bike on which to do it.Paul Draper                                          WinchesterRelegation heartbreakCommiserations to Norwich, Bournemouth and Watford on being relegated from the Premier League. It won't be long before we all feel down like them as - thanks to the own goal of Brexit - the UK too drops into a lower league.Unlike them we can't console ourselves with the prospect of coming straight back up or of replacing key players likely to be permanently lost from a once united team to a bigger European club.Roger Hinds                                          SurreyBridge too farComing hard on the heels of a winter and spring of uncertainty, it's not too much of a shock to learn that this state of affairs will continue through summer (\"Dominic Raab warns of 'summer of uncertainty' after air bridge to Spain pulled with hours notice\").I would have liked Raab C Brexit to also come clean about the coming autumn and winter, with special reference to 31 December.Eddie Dougall                                          Bury St EdmundsAid shameI see that the UK government is to cut £2.9bn from the overseas aid programme. The damage this will inevitably cause to vulnerable peoples in many countries who rely on our assistance is bad enough. More concerning is the fact that the official \"letter\" was published last Wednesday as MPs returned home for the summer recess.Consequently, our elected representatives will have no opportunity to scrutinise the cut. If we are to have faith in the leadership of the government this sort of behaviour must stop. Quite frankly it is pathetic and it has been noted.Steve Edmondson                                          Cambridge"
+        }
+    ]
+}

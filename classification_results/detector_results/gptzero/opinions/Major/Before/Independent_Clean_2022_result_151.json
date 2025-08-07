@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0002032837364822626,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019024591892957687,
+                    "sentence": "Please send your letters toletters@independent.co.ukMaybe we are being too hard on Boris Johnson.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001289388892473653,
+                    "sentence": "Perhaps when he read the job description for prime minister he misunderstood the phrase \"party leader\"?Geoff ForwardStirlingWho would have believed that even Boris Johnson, contemptible reflection of the modern Conservative Party that he is, would have the gall to change the ministerial code to save his own skin with such effrontery?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018998878658749163,
+                    "sentence": "Perhaps, contrary to public perception, he thinks that some rules might possibly apply to him after all.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00025454096612520516,
+                    "sentence": "But that won't be a problem as long as he can use his position to get rid of any rules that might prove inconvenient.David Maughan BrownYorkArmed policeThe cowardice the Texas police showed during the massacre of 19 children and two teachers by a gunman at the Robb Elementary School in Uvalde, Texas, is a stark contrast to the \"courage\" heavily armed US police officers show when they confront, in numbers, innocent, unarmed Black people.Sasha SimicLondonMan the lifeboatsIf the Tory party is the ship, Boris its captain and the Tory MPs its crew, then the crew seems unwilling to mutiny and stop the captain scuttling the ship.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00030365664861164987,
+                    "sentence": "Better man the lifeboats then, boys and girls!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00036720852949656546,
+                    "sentence": "Sad that you're willing to sacrifice both party and country to keep Boris in Clowning Street.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003893754619639367,
+                    "sentence": "Shame on you.Ian HendersonNorwichThis is doing untold damageI read Andrew Woodcock's column (Banana Republic Move) with so much dismay that the ministerial code is being subjugated to yet more \"get out of jail free\" clauses, by being watered down and diminished by the prime minister and government who are running scared of continuing scandals and unedifying shenanigans in Downing Street.This is no example for our children and young people, that rules are being watered down to suit particular circumstances of rule breaking.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000312078685965389,
+                    "sentence": "I agree that this is fast turning into a \"Banana Republic\", and it is so dispiriting.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002898610255215317,
+                    "sentence": "This is doing untold damage and reinforcing the public's opinion that politicians are all the same and none are worth voting for.Political cynicism is being rooted into our once decent country and it is entirely shameful.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03305768594145775,
+                    "sentence": "I want to feel a sense of pride again, even if I disagree with the government on mostly everything.But this modus operandi is fast becoming untenable, whilst many Conservative MPs are too scared to place their heads above the parapet and declare that this isn't the way to run a government.I applaud the brave and stalwart ones and sincerely hope their constituents are justifiably proud of them for standingup and being counted.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011693836189806461,
+                    "sentence": "Because I am.Judith DanielsCobholmRishi Sunak's short-terms fix won't resolve the \"eat or heat\" crisisEscalating inflation, higher borrowing costs and global supply problems mean the chancellor's latest short-term fix won't resolve the \"eat or heat\" crisis.Funds are, however, available long-term if our richest citizens act in the same generous spirit as Captain Tom and other heroes during the pandemic, as well as those who opened their homes to Ukrainian refugees.If in this spirit our top 1 per cent donate 5 per cent of their assets, it won't change their lifestyles, but it will provide a long-term solution to the most devastating domestic humanitarian crisis of our times - and do more to level up our country than any government can achieve.Trevor LyttletonLondon",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.039839419682113825,
+            "class_probabilities": {
+                "human": 0.9601605803178862,
+                "ai": 0.039839419682113825,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601605803178862,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039839419682113825,
+                    "human": 0.9601605803178862,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukMaybe we are being too hard on Boris Johnson. Perhaps when he read the job description for prime minister he misunderstood the phrase \"party leader\"?Geoff ForwardStirlingWho would have believed that even Boris Johnson, contemptible reflection of the modern Conservative Party that he is, would have the gall to change the ministerial code to save his own skin with such effrontery? Perhaps, contrary to public perception, he thinks that some rules might possibly apply to him after all. But that won't be a problem as long as he can use his position to get rid of any rules that might prove inconvenient.David Maughan BrownYorkArmed policeThe cowardice the Texas police showed during the massacre of 19 children and two teachers by a gunman at the Robb Elementary School in Uvalde, Texas, is a stark contrast to the \"courage\" heavily armed US police officers show when they confront, in numbers, innocent, unarmed Black people.Sasha SimicLondonMan the lifeboatsIf the Tory party is the ship, Boris its captain and the Tory MPs its crew, then the crew seems unwilling to mutiny and stop the captain scuttling the ship. Better man the lifeboats then, boys and girls! Sad that you're willing to sacrifice both party and country to keep Boris in Clowning Street. Shame on you.Ian HendersonNorwichThis is doing untold damageI read Andrew Woodcock's column (Banana Republic Move) with so much dismay that the ministerial code is being subjugated to yet more \"get out of jail free\" clauses, by being watered down and diminished by the prime minister and government who are running scared of continuing scandals and unedifying shenanigans in Downing Street.This is no example for our children and young people, that rules are being watered down to suit particular circumstances of rule breaking. I agree that this is fast turning into a \"Banana Republic\", and it is so dispiriting. This is doing untold damage and reinforcing the public's opinion that politicians are all the same and none are worth voting for.Political cynicism is being rooted into our once decent country and it is entirely shameful. I want to feel a sense of pride again, even if I disagree with the government on mostly everything.But this modus operandi is fast becoming untenable, whilst many Conservative MPs are too scared to place their heads above the parapet and declare that this isn't the way to run a government.I applaud the brave and stalwart ones and sincerely hope their constituents are justifiably proud of them for standingup and being counted. Because I am.Judith DanielsCobholmRishi Sunak's short-terms fix won't resolve the \"eat or heat\" crisisEscalating inflation, higher borrowing costs and global supply problems mean the chancellor's latest short-term fix won't resolve the \"eat or heat\" crisis.Funds are, however, available long-term if our richest citizens act in the same generous spirit as Captain Tom and other heroes during the pandemic, as well as those who opened their homes to Ukrainian refugees.If in this spirit our top 1 per cent donate 5 per cent of their assets, it won't change their lifestyles, but it will provide a long-term solution to the most devastating domestic humanitarian crisis of our times - and do more to level up our country than any government can achieve.Trevor LyttletonLondon"
+        }
+    ]
+}

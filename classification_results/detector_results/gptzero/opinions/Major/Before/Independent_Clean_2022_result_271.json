@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.022507835179567337,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06115485355257988,
+                    "sentence": "Please send your letters toletters@independent.co.ukI presume Nato has wargamed how Putin's sham referenda might progress events inUkraineand more widely?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04487751051783562,
+                    "sentence": "I presume China has wargamed howprogression to thermonuclear warmight adversely affect their environment and economy?Desperation; bluff, or pretext for general mobilisation with the risk of nuclear escalation.It is time to seek a mediated peace, one that is acceptable to both Ukraine and Russia, however lengthy and difficult a process that is.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.025137782096862793,
+                    "sentence": "But it is also time for Nato to go all in; supplying offensive capability to Ukraine, preparing its own economic mobilisation ready for war and signalling clear red lines to Putin.Most of all, it is time for those with the most influence over Putin's mind to convince him to sue for peace.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.050285324454307556,
+                    "sentence": "The alternative risks all - including the lives of Putin's own daughters and the lives of millions of Russian families.There is no victory here, only death.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0603378489613533,
+                    "sentence": "But Putin's imperial ambition is now nakedly shown to threaten the lives and livelihoods of everyone in the world.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.044013455510139465,
+                    "sentence": "The stakes are becoming so great, all must now make the greatest efforts to wind this down without rewarding Putin's illegal aggression,war crimesand crimes against humanity - otherwise this will never truly be over.Ian HendersonNorwichFuneral viewing figuresThe BBC have been crowing about how they achieved the lion's share of the 28 million viewers for the Queen's funeral, saying also that 95 per cent of all TV viewers were watching.However, they are choosing the wrong figures for comparison.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.058830760419368744,
+                    "sentence": "Perhaps we should be told what the other 40 million people were doing - something useful, maybe?Sam BooteNottinghamNHS bureaucracyMy late father, who was with the NHS from its start, would say over many decades that each governmentwould talk about sorting the NHSand all they did was add another layer of expensive management.He would complain that, as a charge nurse, when cleaning was privatised, he could not ask a cleaner to clean something because they had the contracted requirements and anything else had to be passed through several layers of management to determine whether it was within the contract or an additional charge could be made by the company.Therese Coffeyneeds to slim down the expensive senior management, releasing funds for the front line.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.020611103624105453,
+                    "sentence": "There seems no problem with the ambulance service, it is their inability to discharge patients into the hospital system, tying up crews waiting in line.Governments have sold off accommodation for trainee nurses, charged them degree fees to learn, and wonder why their aren't enough people training.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010239208117127419,
+                    "sentence": "Now they want to attract NHS staff from abroad, which runs counter to Brexit promises of controlling immigration.One way to retain newly trained nurses would be to reduce the degree fees by, say, 20 per cent for every year worked in the NHS after qualifying.Alan HutchinsonAddress suppliedSir Paddington BearWould it now be a suitable time to propose Paddington Bear for a knighthood?To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereBearing in mind the service he gave our late Majesty Queen Elizabeth, one feels he is more deserving of that honour than some recipients.Den LystorAddress suppliedA tainted clubPerhapsDavid Beckhamdoesn't have a knighthood because he declined an offer of one.Maybe he did not want to join a club which has Gavin Williamson as a member.Alan PackCanterbury",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.039839419682113825,
+            "class_probabilities": {
+                "human": 0.9601605803178862,
+                "ai": 0.039839419682113825,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601605803178862,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039839419682113825,
+                    "human": 0.9601605803178862,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI presume Nato has wargamed how Putin’s sham referenda might progress events inUkraineand more widely? I presume China has wargamed howprogression to thermonuclear warmight adversely affect their environment and economy?Desperation; bluff, or pretext for general mobilisation with the risk of nuclear escalation.It is time to seek a mediated peace, one that is acceptable to both Ukraine and Russia, however lengthy and difficult a process that is. But it is also time for Nato to go all in; supplying offensive capability to Ukraine, preparing its own economic mobilisation ready for war and signalling clear red lines to Putin.Most of all, it is time for those with the most influence over Putin’s mind to convince him to sue for peace. The alternative risks all – including the lives of Putin’s own daughters and the lives of millions of Russian families.There is no victory here, only death. But Putin’s imperial ambition is now nakedly shown to threaten the lives and livelihoods of everyone in the world. The stakes are becoming so great, all must now make the greatest efforts to wind this down without rewarding Putin’s illegal aggression,war crimesand crimes against humanity – otherwise this will never truly be over.Ian HendersonNorwichFuneral viewing figuresThe BBC have been crowing about how they achieved the lion’s share of the 28 million viewers for the Queen’s funeral, saying also that 95 per cent of all TV viewers were watching.However, they are choosing the wrong figures for comparison. Perhaps we should be told what the other 40 million people were doing – something useful, maybe?Sam BooteNottinghamNHS bureaucracyMy late father, who was with the NHS from its start, would say over many decades that each governmentwould talk about sorting the NHSand all they did was add another layer of expensive management.He would complain that, as a charge nurse, when cleaning was privatised, he could not ask a cleaner to clean something because they had the contracted requirements and anything else had to be passed through several layers of management to determine whether it was within the contract or an additional charge could be made by the company.Therese Coffeyneeds to slim down the expensive senior management, releasing funds for the front line. There seems no problem with the ambulance service, it is their inability to discharge patients into the hospital system, tying up crews waiting in line.Governments have sold off accommodation for trainee nurses, charged them degree fees to learn, and wonder why their aren’t enough people training. Now they want to attract NHS staff from abroad, which runs counter to Brexit promises of controlling immigration.One way to retain newly trained nurses would be to reduce the degree fees by, say, 20 per cent for every year worked in the NHS after qualifying.Alan HutchinsonAddress suppliedSir Paddington BearWould it now be a suitable time to propose Paddington Bear for a knighthood?To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereBearing in mind the service he gave our late Majesty Queen Elizabeth, one feels he is more deserving of that honour than some recipients.Den LystorAddress suppliedA tainted clubPerhapsDavid Beckhamdoesn’t have a knighthood because he declined an offer of one.Maybe he did not want to join a club which has Gavin Williamson as a member.Alan PackCanterbury"
+        }
+    ]
+}

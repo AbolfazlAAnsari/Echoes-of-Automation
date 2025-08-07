@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00045034795766696334,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°When President-elect Joe Biden takes office on Jan. 20, he will have a unique opportunity to rebuild our battered economy and create the long-lasting change that eluded his predecessors: closing the wealth gap that has left Black and brown Americans, and women of all races, behind.When President-elect Joe Biden takes office on Jan. 20, he will have a unique opportunity to rebuild our battered economy and create the long-lasting change that eluded his predecessors: closing the wealth gap that has left Black and brown Americans, and women of all races, behind.While what the Biden-Harris administration can accomplish legislatively will largely be decided by the Senate runoff elections in Georgia on Jan. 5, the new administration should begin thinking about how the economy can be brought back after the pandemic in ways that help right historical wrongs.Biden has already made one excellent decision by nominating former Federal Reserve Chair Janet Yellen as treasury secretary.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00020544725703075528,
+                    "sentence": "Yellen, throughout her career, has been committed to making the economy work for all Americans.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019629322923719883,
+                    "sentence": "In 2014, she said in a speech that “inequality has risen to the point that it seems to me worthwhile for the U.S. to seriously consider taking the risk of making our economy more rewarding for more of the people.” More recently, she specifically called for closing the U.S. wealth gap.Following Biden's mandate to “Build Back Better,” Yellen should target the wealth gaps for people of color and women.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00032360348268412054,
+                    "sentence": "She and her senior staff can start by improving the next iteration of the Paycheck Protection Program.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008523003198206425,
+                    "sentence": "Only about 12% of Black and Latinx businesses who applied say they received the relief they requested.It has also been encouraging to see President-elect Biden propose sweeping yet pragmatic measures to stabilize and grow our economy, with a particular focus on communities of color.Biden has already committed to extending unemployment insurance as well as a new package of support for small businesses.This is important for communities of color, particularly women of color, since unemployment rates and business failures are significantly higher for those already marginalized in our current economy.The Biden-Harris administration can also help close the racial wealth gap by using the tools the vast majority of white Americans have used to build wealth: home ownership and small business.Today, for every dollar of wealth held by a white family, Latinx families have only about four cents and Black families just two cents.President-elect Biden has released plans to increase down-payment assistance for first-time homebuyers, incentivize production of 1.5 million new affordable housing units and leverage more than $150 billion for small businesses.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013453756691887975,
+                    "sentence": "Biden has also committed to strengthening the Federal Reserve's focus on racial inequality.For too long, monetary policy either neglected the needs of communities of color or, as during the run-up to the 2008 mortgage meltdown, actually harmed Black and brown communities.The Federal Reserve can ensure that the Community Reinvestment Act explicitly addresses racial inequality.It is also time for the Fed's dual mandate to evolve.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001113194739446044,
+                    "sentence": "Today, the Fed is tasked to promote full employment as well as contain inflation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014249632367864251,
+                    "sentence": "This should be updated to include eliminating the racial and gender wealth gaps.Our president-elect seems to genuinely see racism and racial inequality as the moral and economic threat it is.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002463686279952526,
+                    "sentence": "As we rebuild our economy and national sense of trust, he must continue to face that threat head-on.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.006922837844142335,
+            "class_probabilities": {
+                "human": 0.99303778363816,
+                "ai": 0.006922837844142335,
+                "mixed": 3.937851769764606e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.99303778363816,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006922837844142335,
+                    "human": 0.99303778363816,
+                    "mixed": 3.937851769764606e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°When President-elect Joe Biden takes office on Jan. 20, he will have a unique opportunity to rebuild our battered economy and create the long-lasting change that eluded his predecessors: closing the wealth gap that has left Black and brown Americans, and women of all races, behind.When President-elect Joe Biden takes office on Jan. 20, he will have a unique opportunity to rebuild our battered economy and create the long-lasting change that eluded his predecessors: closing the wealth gap that has left Black and brown Americans, and women of all races, behind.While what the Biden-Harris administration can accomplish legislatively will largely be decided by the Senate runoff elections in Georgia on Jan. 5, the new administration should begin thinking about how the economy can be brought back after the pandemic in ways that help right historical wrongs.Biden has already made one excellent decision by nominating former Federal Reserve Chair Janet Yellen as treasury secretary. Yellen, throughout her career, has been committed to making the economy work for all Americans. In 2014, she said in a speech that “inequality has risen to the point that it seems to me worthwhile for the U.S. to seriously consider taking the risk of making our economy more rewarding for more of the people.” More recently, she specifically called for closing the U.S. wealth gap.Following Biden’s mandate to “Build Back Better,” Yellen should target the wealth gaps for people of color and women. She and her senior staff can start by improving the next iteration of the Paycheck Protection Program. Only about 12% of Black and Latinx businesses who applied say they received the relief they requested.It has also been encouraging to see President-elect Biden propose sweeping yet pragmatic measures to stabilize and grow our economy, with a particular focus on communities of color.Biden has already committed to extending unemployment insurance as well as a new package of support for small businesses.This is important for communities of color, particularly women of color, since unemployment rates and business failures are significantly higher for those already marginalized in our current economy.The Biden-Harris administration can also help close the racial wealth gap by using the tools the vast majority of white Americans have used to build wealth: home ownership and small business.Today, for every dollar of wealth held by a white family, Latinx families have only about four cents and Black families just two cents.President-elect Biden has released plans to increase down-payment assistance for first-time homebuyers, incentivize production of 1.5 million new affordable housing units and leverage more than $150 billion for small businesses. Biden has also committed to strengthening the Federal Reserve’s focus on racial inequality.For too long, monetary policy either neglected the needs of communities of color or, as during the run-up to the 2008 mortgage meltdown, actually harmed Black and brown communities.The Federal Reserve can ensure that the Community Reinvestment Act explicitly addresses racial inequality.It is also time for the Fed’s dual mandate to evolve. Today, the Fed is tasked to promote full employment as well as contain inflation. This should be updated to include eliminating the racial and gender wealth gaps.Our president-elect seems to genuinely see racism and racial inequality as the moral and economic threat it is. As we rebuild our economy and national sense of trust, he must continue to face that threat head-on."
+        }
+    ]
+}

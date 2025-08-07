@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.029013775289058685,
+                    "sentence": "He was never just a presidential candidate.Donald Trump's popularity has long confounded those opposed to him ᅳ he lost after his first presidential term, has been accused of sexual harassment and assault multiple times and faces 91 felony counts in four criminal cases.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.043841246515512466,
+                    "sentence": "Despite this, he continues to captivate millions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04502541944384575,
+                    "sentence": "In this audio essay, Anna Marks, an Opinion staff editor, argues that we have it all wrong ᅳ to understand Trump's appeal, we need to see him not as a politician, but as a pop star.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06316131353378296,
+                    "sentence": "(A full transcript of this audio essay will be available within 24 hours of publication, and can be found in the audio player above.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.029214300215244293,
+                    "sentence": ")The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.047347161918878555,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06379667669534683,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05138302966952324,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,X (@NYTOpinion)andInstagram.This episode of “The Opinions” was produced by Vishakha Darbha.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.031967975199222565,
+                    "sentence": "It was edited by Alison Bruzek, Kaari Pitkin and Annie-Rose Strasser.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03643389418721199,
+                    "sentence": "Engineering by Isaac Jones with mixing by Carole Sabouraud.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.023850074037909508,
+                    "sentence": "Original music by Isaac Jones, Pat McCusker and Carole Sabouraud.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05866459384560585,
+                    "sentence": "Fact-checking by Mary Marge Locker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.040866363793611526,
+                    "sentence": "Audience strategy by Shannon Busta and Kristina Samulewski.PHOTO: (PHOTOGRAPH BY Illustration by Akshita Chandra/The New York Times; Photograph by Carlos Barria/Reuters FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.05926163675422077,
+            "class_probabilities": {
+                "human": 0.9406968808522652,
+                "ai": 0.05926163675422077,
+                "mixed": 4.148239351388549e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9406968808522652,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.05926163675422077,
+                    "human": 0.9406968808522652,
+                    "mixed": 4.148239351388549e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "He was never just a presidential candidate.Donald Trump’s popularity has long confounded those opposed to him — he lost after his first presidential term, has been accused of sexual harassment and assault multiple times and faces 91 felony counts in four criminal cases. Despite this, he continues to captivate millions. In this audio essay, Anna Marks, an Opinion staff editor, argues that we have it all wrong — to understand Trump’s appeal, we need to see him not as a politician, but as a pop star.(A full transcript of this audio essay will be available within 24 hours of publication, and can be found in the audio player above.)The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,X (@NYTOpinion)andInstagram.This episode of “The Opinions” was produced by Vishakha Darbha. It was edited by Alison Bruzek, Kaari Pitkin and Annie-Rose Strasser. Engineering by Isaac Jones with mixing by Carole Sabouraud. Original music by Isaac Jones, Pat McCusker and Carole Sabouraud. Fact-checking by Mary Marge Locker. Audience strategy by Shannon Busta and Kristina Samulewski.PHOTO:  (PHOTOGRAPH BY Illustration by Akshita Chandra/The New York Times; Photograph by Carlos Barria/Reuters FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

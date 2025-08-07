@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 1.7248679796466604e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.5418561815749854e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukIan McNicholas'letterprovides a variation of the gossamer-thin excuse that has been proffered by many supporters of Mr Johnson over the last few years - a bogus moral equivalence.It goes like this: Boris has lied; Boris is a politician; therefore, all politicians lie - there's nothing to see here.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.5822977729840204e-05,
+                    "sentence": "Shoplifters are criminals; murderers are criminals, but this does not make them in any way equivalent.Nick DonnellyDorsetA government of farceSir Keir Starmer is right to say that Boris Johnson must resign in the national interest.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.3818832485412713e-05,
+                    "sentence": "But, if he goes, I shall miss watching the spectacle of government ministers tying themselves into knots trying to defend him every time one of his many shenanigans comes to light.Older readers have probably seen nothing like it since the series of farces staged by Brian Rix at the Whitehall Theatre - appropriately, just down the road from Downing Street.Roger HindsSurreyPrivileged white menJohnson has never considered himself subject to the rules of ordinary mortals.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.5030389477033168e-05,
+                    "sentence": "However, we can add a significant number to the list of privileged white men who agree with that generality and have harmed the UK because of it.Prince Andrew, Duke of York, Tony Blair, Nigel Farage, Nick Clegg,Matt Hancockand David Cameron also come to mind.Will we ever stop giving privileged white men a free pass especially when it is so detrimental to the rest of us?Amanda BakerEdinburghDowning Street recyclingI have to put my empties in a blue bin at the front of my house ready for collection and recycling.How are all of the empties from the gatherings at No 10 dealt with - or are they secreted out by the same method that they are brought in?Colin WasherWorthingBoris Johnson's wallpaperConcerning that gold wallpaper, Gunter Straub suggests a museum.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.773491021594964e-05,
+                    "sentence": "Susan Alexander suggests magnolia emulsion.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.2963733499636874e-05,
+                    "sentence": "Surely it has to be whitewash?David WatsonHenley-on-ThamesBBC licence feeI can imagine we shall hear some bleating from theBBCon the decision to freeze the licence fee.I could save them some money, by suggesting they stop paying ridiculously inflated salaries to so-called stars and \"celebrity\" newsreaders.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06525102257728577,
+                    "sentence": "Many are mediocre, and if they threaten to defect to ITV or Channel 4, then let them go.Dr Anthony IngletonSheffieldTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereKatherine MerchantAs someone who has strived to keep fit his entire life and as a follower of Rugby Union I can state emphatically that I am proud of and in awe ofthe achievements of Katherine Merchant.I say this as someone born in the early 1960s, when many sporting opportunities were not really open to women and also as a man who would be happily eclipsed if she ever graced my gym with an appearance.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0945168063044548,
+                    "sentence": "Good luck to you and your contemporaries.Robert BostonKingshill, KentRead MoreMatt Hancock becomes unlikely TikTok star after District line mobbingGovernment rules out search of Matt Hancock's private emailsHancock promised care home testing against advice, officials claimThe markets don't really care what happens to Boris Johnson | Hamish McRaeLetters: If Johnson must resign, so must StarmerBoris Johnson won by defying the rules - and that is how he has lost | John Rentoul",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.039839419682113825,
+            "class_probabilities": {
+                "human": 0.9601605803178862,
+                "ai": 0.039839419682113825,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601605803178862,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039839419682113825,
+                    "human": 0.9601605803178862,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukIan McNicholas'letterprovides a variation of the gossamer-thin excuse that has been proffered by many supporters of Mr Johnson over the last few years - a bogus moral equivalence.It goes like this: Boris has lied; Boris is a politician; therefore, all politicians lie - there's nothing to see here. Shoplifters are criminals; murderers are criminals, but this does not make them in any way equivalent.Nick DonnellyDorsetA government of farceSir Keir Starmer is right to say that Boris Johnson must resign in the national interest. But, if he goes, I shall miss watching the spectacle of government ministers tying themselves into knots trying to defend him every time one of his many shenanigans comes to light.Older readers have probably seen nothing like it since the series of farces staged by Brian Rix at the Whitehall Theatre - appropriately, just down the road from Downing Street.Roger HindsSurreyPrivileged white menJohnson has never considered himself subject to the rules of ordinary mortals. However, we can add a significant number to the list of privileged white men who agree with that generality and have harmed the UK because of it.Prince Andrew, Duke of York, Tony Blair, Nigel Farage, Nick Clegg,Matt Hancockand David Cameron also come to mind.Will we ever stop giving privileged white men a free pass especially when it is so detrimental to the rest of us?Amanda BakerEdinburghDowning Street recyclingI have to put my empties in a blue bin at the front of my house ready for collection and recycling.How are all of the empties from the gatherings at No 10 dealt with - or are they secreted out by the same method that they are brought in?Colin WasherWorthingBoris Johnson's wallpaperConcerning that gold wallpaper, Gunter Straub suggests a museum. Susan Alexander suggests magnolia emulsion. Surely it has to be whitewash?David WatsonHenley-on-ThamesBBC licence feeI can imagine we shall hear some bleating from theBBCon the decision to freeze the licence fee.I could save them some money, by suggesting they stop paying ridiculously inflated salaries to so-called stars and \"celebrity\" newsreaders. Many are mediocre, and if they threaten to defect to ITV or Channel 4, then let them go.Dr Anthony IngletonSheffieldTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereKatherine MerchantAs someone who has strived to keep fit his entire life and as a follower of Rugby Union I can state emphatically that I am proud of and in awe ofthe achievements of Katherine Merchant.I say this as someone born in the early 1960s, when many sporting opportunities were not really open to women and also as a man who would be happily eclipsed if she ever graced my gym with an appearance. Good luck to you and your contemporaries.Robert BostonKingshill, KentRead MoreMatt Hancock becomes unlikely TikTok star after District line mobbingGovernment rules out search of Matt Hancock's private emailsHancock promised care home testing against advice, officials claimThe markets don't really care what happens to Boris Johnson | Hamish McRaeLetters: If Johnson must resign, so must StarmerBoris Johnson won by defying the rules - and that is how he has lost | John Rentoul"
+        }
+    ]
+}

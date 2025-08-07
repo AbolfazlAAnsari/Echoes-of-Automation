@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 8.451475878246129e-05,
+                    "sentence": "Published 5:32 pm Tuesday, April 25, 2023BySuffolk News-Herald Editorial BoardEditor's note:State Del.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.536832708865404e-05,
+                    "sentence": "Emily Brewer, in a telephone interview on Wednesday, April 26, said she supports an abortion ban exception to protect the life and health of a mother.Popular Virginia Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014004934928379953,
+                    "sentence": "Glenn Youngkin gave terrific advice to the Republican faithful at a Richmond gathering last week, but it may have come a week too late for Emily Brewer and Hermie Sadler.“This is a big tent; let's go fill it,” Youngkin implored at the annual Republican Advance, where GOP loyalists were fired up about their prospects this fall of flipping control of the state Senate and keeping their edge in the House of Delegates.Youngkin's advice from personal experience: Toss out conventional wisdom that you win by firing up your base and go find new supporters.Eight days prior, the Republican tent instead got smaller in Senate District 17, where Brewer and Sadler are sprinting to the far right to win the GOP nomination.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013394092093221843,
+                    "sentence": "The two candidates, in proving their conservative bona fides at a Franklin forum, just might have cost the party a critical victory in the decidedly moderate 17th, which analysts say will be one of the handful of districts statewide that determine control of the Senate ᅳ and, in turn, Youngkin's success in the final two years of his term.In the forum's defining moments, Brewer and Sadler:The last one drew audible gasps even in a roomful of Republicans.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010942091466858983,
+                    "sentence": "For good reason.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015969405649229884,
+                    "sentence": "A Penn Program on Opinion Research and Election Studies survey released in October found that 91% of Americans support abortion when the woman's life is in danger and 86% support exceptions in the case of rape or incest.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.956941357813776e-05,
+                    "sentence": "Even among Republicans, the PORES poll found 76% and 86% support exceptions for rape and incest and when the mother's life is at risk, respectively.Likewise, red-flag laws are wildly popular.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011598740820772946,
+                    "sentence": "Some 73% of Virginians expressed support in a Christopher Newport University poll a few months before lawmakers enacted one in 2020.Youngkin himself showed Republican candidates how to win in “purple” places with his masterful upset of Terry McAuliffe in 2021: Dodge the Trump question, resist the red-meat topics adored by the base, and attract independents and moderate Democrats.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.027183689177036285,
+                    "sentence": "Of note, Youngkin is the only Republican to win the new Senate District 17 in a statewide election going all the way back to 2016.It's possible, of course, that both Brewer and Sadler simply spoke from the heart and are philosophically in the 10%-15% bracket on the far right of the electorate.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.030051330104470253,
+                    "sentence": "There's something to be said, even admired, in today's poll-driven politics about staying true to your convictions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008639446459710598,
+                    "sentence": "Just don't expect to win come November in Senate District 17.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008598332293331623,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:32 pm Tuesday, April 25, 2023BySuffolk News-Herald Editorial BoardEditor’s note:State Del. Emily Brewer, in a telephone interview on Wednesday, April 26, said she supports an abortion ban exception to protect the life and health of a mother.Popular Virginia Gov. Glenn Youngkin gave terrific advice to the Republican faithful at a Richmond gathering last week, but it may have come a week too late for Emily Brewer and Hermie Sadler.“This is a big tent; let’s go fill it,” Youngkin implored at the annual Republican Advance, where GOP loyalists were fired up about their prospects this fall of flipping control of the state Senate and keeping their edge in the House of Delegates.Youngkin’s advice from personal experience: Toss out conventional wisdom that you win by firing up your base and go find new supporters.Eight days prior, the Republican tent instead got smaller in Senate District 17, where Brewer and Sadler are sprinting to the far right to win the GOP nomination. The two candidates, in proving their conservative bona fides at a Franklin forum, just might have cost the party a critical victory in the decidedly moderate 17th, which analysts say will be one of the handful of districts statewide that determine control of the Senate — and, in turn, Youngkin’s success in the final two years of his term.In the forum’s defining moments, Brewer and Sadler:The last one drew audible gasps even in a roomful of Republicans. For good reason. A Penn Program on Opinion Research and Election Studies survey released in October found that 91% of Americans support abortion when the woman’s life is in danger and 86% support exceptions in the case of rape or incest. Even among Republicans, the PORES poll found 76% and 86% support exceptions for rape and incest and when the mother’s life is at risk, respectively.Likewise, red-flag laws are wildly popular. Some 73% of Virginians expressed support in a Christopher Newport University poll a few months before lawmakers enacted one in 2020.Youngkin himself showed Republican candidates how to win in “purple” places with his masterful upset of Terry McAuliffe in 2021: Dodge the Trump question, resist the red-meat topics adored by the base, and attract independents and moderate Democrats. Of note, Youngkin is the only Republican to win the new Senate District 17 in a statewide election going all the way back to 2016.It’s possible, of course, that both Brewer and Sadler simply spoke from the heart and are philosophically in the 10%-15% bracket on the far right of the electorate. There’s something to be said, even admired, in today’s poll-driven politics about staying true to your convictions. Just don’t expect to win come November in Senate District 17.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…"
+        }
+    ]
+}

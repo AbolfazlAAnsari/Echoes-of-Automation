@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.007125065196305513,
+                    "sentence": "Published 4:38 pm Tuesday, January 3, 2023BySuffolk News-Herald Editorial BoardWhile the staggering inflation of 2022 has begun to subside, Virginia's working families are still feeling the pinch of strained household budgets.Two changes this week will help at least a little.Effective Sunday, the state's 1.5% sales tax on groceries was eliminated and the minimum wage for workers rose a dollar, or 9%, to $12 per hour.The grocery tax cut, which also applies to some essential personal hygiene products, was the result of compromise during the 2022 General Assembly session between Senate Democrats and Republican Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00966104306280613,
+                    "sentence": "Glenn Youngkin, who wanted to eliminate all grocery taxes, including a 1% tax that goes to localities.The local tax remains intact.Cutting the state's portion of the grocery tax, originally proposed by former Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010321824811398983,
+                    "sentence": "Ralph Northam, will mean roughly $7 million less for state government's coffers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007482427172362804,
+                    "sentence": "That's a small price to pay for needed relief for low-income Virginians.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007305576931685209,
+                    "sentence": "The state might not even miss the money, as other tax collections continue to comfortably exceed projections.The $12 minimum wage is another notch in a law passed by legislative Democrats and Northam in 2020, when Virginia joined 29 other states setting minimum wages above the federal minimum wage of $7.25.The minimum wage could continue rising to $13.50 on Jan 1.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012626202777028084,
+                    "sentence": "2025, and $15 on Jan. 1, 2026, but that would require approval by this year's General Assembly and Youngkin..The U.S. Census Bureau estimates that 329,000 to 364,000 Virginians with full-time, full-year jobs had wages less than $12 an hour prior to this week's change.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0032259649597108364,
+                    "sentence": "Many workers making more than $12 will see increases as wage scales are adjusted in the private sector.While a 1.5% grocery tax reduction and $1 increase in the minimum wage might seem like small gestures, every little bit helps.The fundamental responsibility of feeding one's family has pushed many people to the breaking point.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0026034328620880842,
+                    "sentence": "Those who live paycheck to paycheck even in “good” times find themselves on the verge of food insecurity.The grocery tax is a rare, and welcomed, product of bipartisan consensus in polarized Richmond.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0021674036979675293,
+                    "sentence": "We hope to see more compromise in 2023.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0036020916886627674,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003240749007090926,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.024461651786716186,
+            "class_probabilities": {
+                "human": 0.9754981327244504,
+                "ai": 0.024461651786716186,
+                "mixed": 4.0215488833363626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9754981327244504,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024461651786716186,
+                    "human": 0.9754981327244504,
+                    "mixed": 4.0215488833363626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 4:38 pm Tuesday, January 3, 2023BySuffolk News-Herald Editorial BoardWhile the staggering inflation of 2022 has begun to subside, Virginia’s working families are still feeling the pinch of strained household budgets.Two changes this week will help at least a little.Effective Sunday, the state’s 1.5% sales tax on groceries was eliminated and the minimum wage for workers rose a dollar, or 9%, to $12 per hour.The grocery tax cut, which also applies to some essential personal hygiene products, was the result of compromise during the 2022 General Assembly session between Senate Democrats and Republican Gov. Glenn Youngkin, who wanted to eliminate all grocery taxes, including a 1% tax that goes to localities.The local tax remains intact.Cutting the state’s portion of the grocery tax, originally proposed by former Gov. Ralph Northam, will mean roughly $7 million less for state government’s coffers. That’s a small price to pay for needed relief for low-income Virginians. The state might not even miss the money, as other tax collections continue to comfortably exceed projections.The $12 minimum wage is another notch in a law passed by legislative Democrats and Northam in 2020, when Virginia joined 29 other states setting minimum wages above the federal minimum wage of $7.25.The minimum wage could continue rising to $13.50 on Jan 1. 2025, and $15 on Jan. 1, 2026, but that would require approval by this year’s General Assembly and Youngkin..The U.S. Census Bureau estimates that 329,000 to 364,000 Virginians with full-time, full-year jobs had wages less than $12 an hour prior to this week’s change. Many workers making more than $12 will see increases as wage scales are adjusted in the private sector.While a 1.5% grocery tax reduction and $1 increase in the minimum wage might seem like small gestures, every little bit helps.The fundamental responsibility of feeding one’s family has pushed many people to the breaking point. Those who live paycheck to paycheck even in “good” times find themselves on the verge of food insecurity.The grocery tax is a rare, and welcomed, product of bipartisan consensus in polarized Richmond. We hope to see more compromise in 2023.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

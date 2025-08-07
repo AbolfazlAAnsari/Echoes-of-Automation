@@ -1,0 +1,88 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0005700874608010054,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°Downtown Hilo not a suitable hostDowntown Hilo not a suitable hostLet's get real here for a moment as to the reason why the KWXX Ho'olaule'a was cancelled.It was cancelled because the homeless have taken over the Hilo downtown area, making it a complete mess, where tourists as well as local shoppers avoid going to because of all the filth and rubbish strewn all over the sidewalks.Also, the Hawaii Police Department cites further that this musical event, after being hosted in the Hilo downtown area for the past 30 years, has grown too large, claiming that the alternative venues are no longer suitable, which is a smokescreen excuse at best.This beloved concert event was cancelled because the Hilo downtown is currently a safety and health hazard because of the homeless, and until some sort of enforcement and clean up is initiated, Hilo town will remain unsuitable to host any kind of events in the foreseeable future.Prentiss MorenoHilo'Ugly reality' forUH football teamContingency plans should be made to preserve the “Bruddahood” at the University of Hawaii football program.While lofty goals are great at the beginning of the season, extremely ugly reality is rearing its head.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006520507158711553,
+                    "sentence": "The coaching staff should make contingency plans for a 2-11 season and very, very ugly losses to Fresno State and Air Force.The problem is that the anger and disappointment ofnotmeeting or falling very far short of previous goals will weigh very heavily on the players and staff.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001903065829537809,
+                    "sentence": "Air Force devastatingly ended Norm Chow's career.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005273474962450564,
+                    "sentence": "The UH football team disintegrated at the end of Todd Graham's tenure.We do not want to see the same this season in which the “Bruddahood” breaks down into finger-pointing and despair.New, smaller reachable goals should be established for the team and staff so that even though a lopsided loss occurs, they can still say that they accomplished something ᅳ especially that they were still brothers through hard times.Leighton LooMililani, Oahu",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 4,
+                    "completely_generated_prob": 0.0006564766595293492
+                }
+            ],
+            "completely_generated_prob": 0.00982192507144982,
+            "class_probabilities": {
+                "human": 0.9901780749285501,
+                "ai": 0.00982192507144982,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9901780749285501,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.00982192507144982,
+                    "human": 0.9901780749285501,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°Downtown Hilo not a suitable hostDowntown Hilo not a suitable hostLet’s get real here for a moment as to the reason why the KWXX Ho‘olaule‘a was cancelled.It was cancelled because the homeless have taken over the Hilo downtown area, making it a complete mess, where tourists as well as local shoppers avoid going to because of all the filth and rubbish strewn all over the sidewalks.Also, the Hawaii Police Department cites further that this musical event, after being hosted in the Hilo downtown area for the past 30 years, has grown too large, claiming that the alternative venues are no longer suitable, which is a smokescreen excuse at best.This beloved concert event was cancelled because the Hilo downtown is currently a safety and health hazard because of the homeless, and until some sort of enforcement and clean up is initiated, Hilo town will remain unsuitable to host any kind of events in the foreseeable future.Prentiss MorenoHilo‘Ugly reality’ forUH football teamContingency plans should be made to preserve the “Bruddahood” at the University of Hawaii football program.While lofty goals are great at the beginning of the season, extremely ugly reality is rearing its head. The coaching staff should make contingency plans for a 2-11 season and very, very ugly losses to Fresno State and Air Force.The problem is that the anger and disappointment ofnotmeeting or falling very far short of previous goals will weigh very heavily on the players and staff. Air Force devastatingly ended Norm Chow’s career. The UH football team disintegrated at the end of Todd Graham’s tenure.We do not want to see the same this season in which the “Bruddahood” breaks down into finger-pointing and despair.New, smaller reachable goals should be established for the team and staff so that even though a lopsided loss occurs, they can still say that they accomplished something — especially that they were still brothers through hard times.Leighton LooMililani, Oahu"
+        }
+    ]
+}

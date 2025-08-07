@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 7.544261461589485e-05,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Cartoon nailed itCartoon nailed itRecently, our local newspaper, the Hawaii Tribune-Herald, has been spot on providing cartoons depicting the failures of our local government to the County of Hawaii and its citizens.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010117291094502434,
+                    "sentence": "The paper on Sunday, Nov. 21, was no exception.As the old saying goes, “A picture is worth a thousand words.”The cartoon presented a demonstration of what is wrong with the permit-processing system in the county.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.8046832641121e-05,
+                    "sentence": "It referenced one of the quotes by William Shakespeare, “All the world's a stage, and all the men and women merely players; they have their exits and their entrances, and one man in his time plays many parts ….”When are the players in the county systems, those who are responsible for making important decisions, going to play their part and correct the problems that exist?After all, these players made their entrances into the county workforce, and up until now have been unsuccessful in completing their mission.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.589707092847675e-05,
+                    "sentence": "Perhaps it is time for them to make their exit.My opinion is based on my interpretation of what represents the best and brightest, as promised, but failed as indicated by the cartoon.Floyd EaglinHilo'In decline'In the book “The Changing World Order” by Ray Dalio, he describes the experiences of nations throughout history whose economic activity of advances/peaks/declines are commonly repeated.He also shows that the United States is in decline, while China is advancing once again, as China has centuries of older history than the U.S.It is worth saying that all the world's deficiencies can be resolved at and by the World Economic Forum, which convenes annually in Davos, Switzerland.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010890120756812394,
+                    "sentence": "The who's who of world economic and political leaders who attend have the wealth and power to pay for it, and maybe they would miss just one joyride to space!Where there's a will, there is a way!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.60356555879116e-05,
+                    "sentence": "And don't hold your breath for them to do the right thing for the greater good.John P. BeggPahoaYear of the TigerAloha!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.038449183106422424,
+                    "sentence": "We've all been through a tough year, month or life, and now are about to enter 2022, the Year of the Tiger.Please, let's celebrate the differences, as they enrich all of our lives.With great respect to all, and may we find thejoyand humor again in our lives.Eve de MolinVolcanoThe Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02453981153666973,
+                    "sentence": "The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.020835360512137413,
+                    "sentence": "Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneNestled between lush community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round.A new website launched recently helps Hawaii residents and visitors easily find recreational services available across the state.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Cartoon nailed itCartoon nailed itRecently, our local newspaper, the Hawaii Tribune-Herald, has been spot on providing cartoons depicting the failures of our local government to the County of Hawaii and its citizens. The paper on Sunday, Nov. 21, was no exception.As the old saying goes, “A picture is worth a thousand words.”The cartoon presented a demonstration of what is wrong with the permit-processing system in the county. It referenced one of the quotes by William Shakespeare, “All the world’s a stage, and all the men and women merely players; they have their exits and their entrances, and one man in his time plays many parts … .”When are the players in the county systems, those who are responsible for making important decisions, going to play their part and correct the problems that exist?After all, these players made their entrances into the county workforce, and up until now have been unsuccessful in completing their mission. Perhaps it is time for them to make their exit.My opinion is based on my interpretation of what represents the best and brightest, as promised, but failed as indicated by the cartoon.Floyd EaglinHilo‘In decline’In the book “The Changing World Order” by Ray Dalio, he describes the experiences of nations throughout history whose economic activity of advances/peaks/declines are commonly repeated.He also shows that the United States is in decline, while China is advancing once again, as China has centuries of older history than the U.S.It is worth saying that all the world’s deficiencies can be resolved at and by the World Economic Forum, which convenes annually in Davos, Switzerland. The who’s who of world economic and political leaders who attend have the wealth and power to pay for it, and maybe they would miss just one joyride to space!Where there’s a will, there is a way! And don’t hold your breath for them to do the right thing for the greater good.John P. BeggPahoaYear of the TigerAloha! We’ve all been through a tough year, month or life, and now are about to enter 2022, the Year of the Tiger.Please, let’s celebrate the differences, as they enrich all of our lives.With great respect to all, and may we find thejoyand humor again in our lives.Eve de MolinVolcanoThe Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today. The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph. Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneNestled between lush  community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round.A new website launched recently helps Hawaii residents and visitors easily find recreational services available across the state."
+        }
+    ]
+}

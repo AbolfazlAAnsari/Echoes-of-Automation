@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 1.1848809663206339e-05,
+                    "sentence": "The first night of the Republican National Convention reminds us that America isn't the country Democrats were describing last week.The opening night of theRepublican National Convention\"stood in sharp contrast to the doom and gloom, 'America is racist' nightmare\" put on by the Democrats last week,\" Laura Ingraham argued Monday.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.3203470189182553e-05,
+                    "sentence": "\"It felt like millions of patriotic hardworking Americans were exhaling a sigh of relief after a very difficult last six months,\" added \"The Ingraham Angle\" host.Monday night's remarks by a variety of speakers drove home the point that President Trump \"is a man who cares deeply about the present and future of Americans of all races, all backgrounds, all creeds.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.1795491193188354e-05,
+                    "sentence": "\"One of the speeches that Ingraham singled out came from retired NFL running back Herschel Walker, who told viewers that \"growing up in the Deep South, I've seen racism up close.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.6457372112199664e-05,
+                    "sentence": "I know what it is, and it isn't Donald Trump.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.6369398508686572e-05,
+                    "sentence": "\"Another speech highlighted by Ingraham was given by Andrew Pollack, whose daughter Meadow was killed in the 2018 shooting at Marjory Stoneman Douglas High School in Parkland, Fla.\"At the White House, my family and I sat with the president and told him about Meadow,\" Pollock said in his remarks.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.2666918337345123e-05,
+                    "sentence": "\"I got to see who President Trump really is.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.910243008751422e-05,
+                    "sentence": "He's a good man a great listener.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.3026851775066461e-05,
+                    "sentence": "\"\"For four years, President Trump and the Republicans have proven that their policies work better than anything the Democrats have to offer.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.6245970982708968e-05,
+                    "sentence": "Their faith in freedom and the rule of law works better than the chaos that we see tonight in certain blue cities...\" Ingraham concluded.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.004205271077808e-05,
+                    "sentence": "\"The Democrats didn't talk about policies last week... because they don't have any ideas that would make life better for the average American.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.0148310795775615e-05,
+                    "sentence": "It's just rhetoric and rhetoric and more rhetoric.\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.003132712630293538,
+            "class_probabilities": {
+                "human": 0.9968672873697065,
+                "ai": 0.003132712630293538,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9968672873697065,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.003132712630293538,
+                    "human": 0.9968672873697065,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       The first night of the Republican National Convention reminds us that America isn't the country Democrats were describing last week.The opening night of theRepublican National Convention\"stood in sharp contrast to the doom and gloom, 'America is racist' nightmare\" put on by the Democrats last week,\" Laura Ingraham argued Monday.\"It felt like millions of patriotic hardworking Americans were exhaling a sigh of relief after a very difficult last six months,\" added \"The Ingraham Angle\" host.Monday night's remarks by a variety of speakers drove home the point that President Trump \"is a man who cares deeply about the present and future of Americans of all races, all backgrounds, all creeds.\"One of the speeches that Ingraham singled out came from retired NFL running back Herschel Walker, who told viewers that \"growing up in the Deep South, I've seen racism up close. I know what it is, and it isn't Donald Trump.\"Another speech highlighted by Ingraham was given by Andrew Pollack, whose daughter Meadow was killed in the 2018 shooting at Marjory Stoneman Douglas High School in Parkland, Fla.\"At the White House, my family and I sat with the president and told him about Meadow,\" Pollock said in his remarks. \"I got to see who President Trump really is. He's a good man a great listener.\"\"For four years, President Trump and the Republicans have proven that their policies work better than anything the Democrats have to offer. Their faith in freedom and the rule of law works better than the chaos that we see tonight in certain blue cities ...\" Ingraham concluded. \"The Democrats didn't talk about policies last week ... because they don't have any ideas that would make life better for the average American. It's just rhetoric and rhetoric and more rhetoric.\"   "
+        }
+    ]
+}

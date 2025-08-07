@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 3.3852247725008056e-05,
+                    "sentence": "The columnist Pamela Paul argues that the conservative contender is “superficial” and “incoherent.”All eyes are on Donald Trump's top rivals ahead of Wednesday night's second G.O.P.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.789754454279318e-05,
+                    "sentence": "primary debate.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.146462742937729e-05,
+                    "sentence": "And according to the Opinion columnist Pamela Paul, it is a disappointing lineup ᅳ Nikki Haley especially.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.7867579269222915e-05,
+                    "sentence": "Paul argues that Haley is not the moderate anti-Trump alternative she is touted to be but rather is an opportunist, pandering to both sides and lacking “a core philosophy and a commitment.” As a candidate, she promises to bring back the old Reaganesque Republican values, but Paul believes that Haley is a hypocrite whose loyalty resides exclusively with her personal agenda.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.5619232474127784e-05,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.8395505069056526e-05,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.8459100576583296e-05,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.This Opinion short was produced by Vishakha Darbha.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.537167478702031e-05,
+                    "sentence": "It was edited by Alison Bruzek and Kaari Pitkin.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.207439244259149e-05,
+                    "sentence": "Mixing by Sonia Herrero.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.1642822654685006e-05,
+                    "sentence": "Original music by Pat McCusker and Carole Sabouraud.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.992394340457395e-05,
+                    "sentence": "Fact-checking by Michelle Harris.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.844461338710971e-05,
+                    "sentence": "Audience strategy by Shannon Busta and Kristina Samulewski.PHOTO: (PHOTOGRAPH BY Illustration by Akshita Chandra/The New York Times; photograph by Scott Eisen/Getty Images FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.004922978367096123,
+            "class_probabilities": {
+                "human": 0.9950770216329039,
+                "ai": 0.004922978367096123,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9950770216329039,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.004922978367096123,
+                    "human": 0.9950770216329039,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "The columnist Pamela Paul argues that the conservative contender is “superficial” and “incoherent.”All eyes are on Donald Trump’s top rivals ahead of Wednesday night’s second G.O.P. primary debate. And according to the Opinion columnist Pamela Paul, it is a disappointing lineup — Nikki Haley especially. Paul argues that Haley is not the moderate anti-Trump alternative she is touted to be but rather is an opportunist, pandering to both sides and lacking “a core philosophy and a commitment.” As a candidate, she promises to bring back the old Reaganesque Republican values, but Paul believes that Haley is a hypocrite whose loyalty resides exclusively with her personal agenda.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.This Opinion short was produced by Vishakha Darbha. It was edited by Alison Bruzek and Kaari Pitkin. Mixing by Sonia Herrero. Original music by Pat McCusker and Carole Sabouraud. Fact-checking by Michelle Harris. Audience strategy by Shannon Busta and Kristina Samulewski.PHOTO:  (PHOTOGRAPH BY Illustration by Akshita Chandra/The New York Times; photograph by Scott Eisen/Getty Images FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

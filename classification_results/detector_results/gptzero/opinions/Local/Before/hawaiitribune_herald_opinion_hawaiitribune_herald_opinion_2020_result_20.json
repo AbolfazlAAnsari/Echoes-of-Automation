@@ -1,0 +1,100 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.01026386208832264,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°If you're wondering when American politics hit its low point in civility, I'd nominate Aug. 6, 2020.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0044889384880661964,
+                    "sentence": "That was the day when President Trump had this to say about his rival for the presidency, lifelong Catholic Joe Biden: “He's against God.”If you're wondering when American politics hit its low point in civility, I'd nominate Aug. 6, 2020.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013565679546445608,
+                    "sentence": "That was the day when President Trump had this to say about his rival for the presidency, lifelong Catholic Joe Biden: “He's against God.”Partisan polarization has been part of American politics for decades, but in 2020 our national fault line expanded into dangerous new territory: demonization and delegitimization.In his reelection campaign, Trump didn't merely denounce Biden and other Democrats as misguided; he accused them of being enemies of the nation ᅳ and being evil.“They're vicious, horrible people,” he said at one campaign rally.“They hate our country,” he said at another.That isn't normal political language in the United States, not even in the heat of an election campaign.And when a president abandons all norms of civility, the problem is bigger than a mere lapse in etiquette; his words and actions encourage others to behave badly, too.Democracy rests on a principle of mutual tolerance: We may hate our opponents' ideas, but we accept their legitimacy and their right to compete just as they accept ours.Think, for example, of what Republican presidential nominee John McCain said of Democratic nominee Barack Obama during their 2008 campaign: “He's a decent family man [and] citizen that I just happen to have disagreements with on fundamental issues.” That's the norm we once expected our politicians to maintain.Now imagine Trump saying anything close to that.When protests erupted after Minneapolis police killed George Floyd, an unarmed Black man, most presidents would have called for calm and national unity; Trump seized the moment to attack Democratic governors and mayors.His norm-busting campaign of division extended even to the COVID-19 pandemic.“If you take the blue states out … we're really at a very low level,” he claimed in September.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002609121147543192,
+                    "sentence": "(The assertion was not merely false; it was wildly false.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004806439857929945,
+                    "sentence": ")Polarizing language has consequences.A Pew Research Center poll in October found that about 9 in 10 voters in both parties said they believed an election victory by the other side would result in “lasting harm” to the country.That's a dangerous trend.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0059194415807724,
+                    "sentence": "The belief that each party poses an existential threat to the other also makes it more difficult for politicians to negotiate with each other after elections are over ᅳ if only because many of their voters loathe the idea of compromising with the other side.In one of his last acts as president, Trump broke one more political norm, perhaps the most basic of all: the principle that a losing candidate accepts the outcome of an election.Even after Republican-controlled state legislatures certified Biden's victory in swing states such as Pennsylvania and Wisconsin, he refused to concede.The next four years will tell us whether 2020 will be remembered as the modern era's low point in American civility, or whether we have further to fall.Nestled between lush community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 6,
+                    "completely_generated_prob": 1.474742012248794e-05
+                }
+            ],
+            "completely_generated_prob": 0.020894975255950358,
+            "class_probabilities": {
+                "human": 0.9790657484747716,
+                "ai": 0.020894975255950358,
+                "mixed": 3.927626927810217e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9790657484747716,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020894975255950358,
+                    "human": 0.9790657484747716,
+                    "mixed": 3.927626927810217e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°If you’re wondering when American politics hit its low point in civility, I’d nominate Aug. 6, 2020. That was the day when President Trump had this to say about his rival for the presidency, lifelong Catholic Joe Biden: “He’s against God.”If you’re wondering when American politics hit its low point in civility, I’d nominate Aug. 6, 2020. That was the day when President Trump had this to say about his rival for the presidency, lifelong Catholic Joe Biden: “He’s against God.”Partisan polarization has been part of American politics for decades, but in 2020 our national fault line expanded into dangerous new territory: demonization and delegitimization.In his reelection campaign, Trump didn’t merely denounce Biden and other Democrats as misguided; he accused them of being enemies of the nation — and being evil.“They’re vicious, horrible people,” he said at one campaign rally.“They hate our country,” he said at another.That isn’t normal political language in the United States, not even in the heat of an election campaign.And when a president abandons all norms of civility, the problem is bigger than a mere lapse in etiquette; his words and actions encourage others to behave badly, too.Democracy rests on a principle of mutual tolerance: We may hate our opponents’ ideas, but we accept their legitimacy and their right to compete just as they accept ours.Think, for example, of what Republican presidential nominee John McCain said of Democratic nominee Barack Obama during their 2008 campaign: “He’s a decent family man [and] citizen that I just happen to have disagreements with on fundamental issues.” That’s the norm we once expected our politicians to maintain.Now imagine Trump saying anything close to that.When protests erupted after Minneapolis police killed George Floyd, an unarmed Black man, most presidents would have called for calm and national unity; Trump seized the moment to attack Democratic governors and mayors.His norm-busting campaign of division extended even to the COVID-19 pandemic.“If you take the blue states out … we’re really at a very low level,” he claimed in September. (The assertion was not merely false; it was wildly false.)Polarizing language has consequences.A Pew Research Center poll in October found that about 9 in 10 voters in both parties said they believed an election victory by the other side would result in “lasting harm” to the country.That’s a dangerous trend. The belief that each party poses an existential threat to the other also makes it more difficult for politicians to negotiate with each other after elections are over — if only because many of their voters loathe the idea of compromising with the other side.In one of his last acts as president, Trump broke one more political norm, perhaps the most basic of all: the principle that a losing candidate accepts the outcome of an election.Even after Republican-controlled state legislatures certified Biden’s victory in swing states such as Pennsylvania and Wisconsin, he refused to concede.The next four years will tell us whether 2020 will be remembered as the modern era’s low point in American civility, or whether we have further to fall.Nestled between lush  community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round."
+        }
+    ]
+}

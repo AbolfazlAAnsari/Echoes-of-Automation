@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0009764714632183313,
+                    "sentence": "Proof of vaccinationProof of vaccinationI am delighted that the county will be opening public facilities this week (“County gyms, community centers to reopen Monday,” Tribune-Herald, Oct. 31).I hope that the county will realize this is a golden opportunity to help end the COVID-19 pandemic by requiring that all those admitted to county facilities or to sports events will need to show proof of vaccination.My wife and I are fully vaccinated, but we do not wish to mingle with the anti-vaxxers among us.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010873234132304788,
+                    "sentence": "Although we might be protected ourselves, we know that we could be contaminated by others and could transmit the virus to others.Governments impose many requirements to protect public health (smoking and driver's license age requirements, attendance at schools, etc).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011274528224021196,
+                    "sentence": "Requiring vaccinations, as is being done on Oahu, will protect us all.If some do not wish to be vaccinated, that is their right ᅳ but they do not have the right to infect others.John LockwoodHiloDistasteful cartoonWow.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006379128899425268,
+                    "sentence": "Just wow!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010475326562300324,
+                    "sentence": "Your political cartoon with “KKK Youngkin” (Commentary, Nov. 4) is distasteful and not even truth!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013122345553711057,
+                    "sentence": "There's always two sides to every issue.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010142188984900713,
+                    "sentence": "Why not research some more on the integrity of the other candidate!Julie IngmanHawaiian Paradise ParkCartoon 'dishonest'Thursday's cartoon (Commentary, Nov. 4) is a dishonest slander against the majority of Virginia voters who chose a Republican governor, Republican lieutenant governor and a Republican attorney general.When Atlantic writer Jamele Hill tweeted a sentiment similar to your cartoonist's about Virginia voters, saying, “It's not the messaging, folks.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0034896936267614365,
+                    "sentence": "This country simply loves white supremacy,” Lieutenant Governor-elect Winsome Sears' team replied, “We beg to differ,” along with a picture of her, which puts the lie to both Hill's and your cartoonist's racist blood libel.Jim O'KeefeHiloA 45-year-old Hilo man was sentenced Aug. 22 to 10 years for a domestic assault last Christmas Eve on his estranged girlfriend.A 64-year-old Ocean View man accused of killing one of his dogs has been freed from custody on supervised release, a form of cashless bail.Record-setting University of Hawaii quarterback and 2007 Heisman Trophy finalist Colt Brennan has died, his father Terry Brennan told the Honolulu Star-Advertiser.Hilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007421084679663181,
+                    "sentence": "Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.021460459540434646,
+            "class_probabilities": {
+                "human": 0.9784992012499029,
+                "ai": 0.021460459540434646,
+                "mixed": 4.0339209662471135e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9784992012499029,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.021460459540434646,
+                    "human": 0.9784992012499029,
+                    "mixed": 4.0339209662471135e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Proof of vaccinationProof of vaccinationI am delighted that the county will be opening public facilities this week (“County gyms, community centers to reopen Monday,” Tribune-Herald, Oct. 31).I hope that the county will realize this is a golden opportunity to help end the COVID-19 pandemic by requiring that all those admitted to county facilities or to sports events will need to show proof of vaccination.My wife and I are fully vaccinated, but we do not wish to mingle with the anti-vaxxers among us. Although we might be protected ourselves, we know that we could be contaminated by others and could transmit the virus to others.Governments impose many requirements to protect public health (smoking and driver’s license age requirements, attendance at schools, etc). Requiring vaccinations, as is being done on Oahu, will protect us all.If some do not wish to be vaccinated, that is their right — but they do not have the right to infect others.John LockwoodHiloDistasteful cartoonWow. Just wow! Your political cartoon with “KKK Youngkin” (Commentary, Nov. 4) is distasteful and not even truth! There’s always two sides to every issue. Why not research some more on the integrity of the other candidate!Julie IngmanHawaiian Paradise ParkCartoon ‘dishonest’Thursday’s cartoon (Commentary, Nov. 4) is a dishonest slander against the majority of Virginia voters who chose a Republican governor, Republican lieutenant governor and a Republican attorney general.When Atlantic writer Jamele Hill tweeted a sentiment similar to your cartoonist’s about Virginia voters, saying, “It’s not the messaging, folks. This country simply loves white supremacy,” Lieutenant Governor-elect Winsome Sears’ team replied, “We beg to differ,” along with a picture of her, which puts the lie to both Hill’s and your cartoonist’s racist blood libel.Jim O’KeefeHiloA 45-year-old Hilo man was sentenced Aug. 22 to 10 years for a domestic assault last Christmas Eve on his estranged girlfriend.A 64-year-old Ocean View man accused of killing one of his dogs has been freed from custody on supervised release, a form of cashless bail.Record-setting University of Hawaii quarterback and 2007 Heisman Trophy finalist Colt Brennan has died, his father Terry Brennan told the Honolulu Star-Advertiser.Hilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track. Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017."
+        }
+    ]
+}

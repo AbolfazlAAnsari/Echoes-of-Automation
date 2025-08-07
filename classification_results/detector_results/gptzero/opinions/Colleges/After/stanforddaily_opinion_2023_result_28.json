@@ -1,0 +1,129 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0001517635100753978,
+                    "sentence": "Hello,",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001878063048934564,
+                    "sentence": "My name is Jasmin Palmer.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.580831101629883e-05,
+                    "sentence": "I am a fourth-year Ph.D. student in the mechanical engineering department.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.086597517831251e-05,
+                    "sentence": "I live in EVGR B, where I have a clear view of the EVGR B/C courtyard (if you excuse the windows that have not been cleaned in two plus years).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.751983942696825e-05,
+                    "sentence": "Like many graduate students, I am appalled by Stanford's lack of action concerning affordability.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.489746814011596e-05,
+                    "sentence": "I have attached a picture I took from my apartment of students lined up for the food pantry.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.5045012080227025e-05,
+                    "sentence": "Every time the food pantry occurs I feel the line gets longer as a result of how unsustainably expensive it has become to be a graduate student-employee of Stanford.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.0614468667190522e-05,
+                    "sentence": "Though I appreciate that the food pantry is an option for students in need, I can't help but feel disgusted that it is needed at all at an institution that possesses more wealth and resources than most of us can imagine and then still has the gall to increase tuition for its students who are clearly not seeing that benefit pass down.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.6690806155093014e-05,
+                    "sentence": "I hope that some administrator sees these images and that it inspires them to actually act on Stanford's supposed interest in prioritizing student well-being.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.3430471376050264e-05,
+                    "sentence": "Because as our employer and landlord, setting wages and housing prices such that an increasing number of students need food assistance is certainly not doing that.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 1,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.0051780533755591265,
+            "class_probabilities": {
+                "human": 0.9948219466244408,
+                "ai": 0.0051780533755591265,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9948219466244408,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0051780533755591265,
+                    "human": 0.9948219466244408,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Hello,\nMy name is Jasmin Palmer. I am a fourth-year Ph.D. student in the mechanical engineering department. I live in EVGR B, where I have a clear view of the EVGR B/C courtyard (if you excuse the windows that have not been cleaned in two plus years). Like many graduate students, I am appalled by Stanford’s lack of action concerning affordability. I have attached a picture I took from my apartment of students lined up for the food pantry. Every time the food pantry occurs I feel the line gets longer as a result of how unsustainably expensive it has become to be a graduate student-employee of Stanford. Though I appreciate that the food pantry is an option for students in need, I can’t help but feel disgusted that it is needed at all at an institution that possesses more wealth and resources than most of us can imagine and then still has the gall to increase tuition for its students who are clearly not seeing that benefit pass down. I hope that some administrator sees these images and that it inspires them to actually act on Stanford’s supposed interest in prioritizing student well-being. Because as our employer and landlord, setting wages and housing prices such that an increasing number of students need food assistance is certainly not doing that.\n\n"
+        }
+    ]
+}

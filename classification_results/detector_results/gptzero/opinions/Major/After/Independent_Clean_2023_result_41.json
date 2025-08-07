@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0005268717650324106,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008316001039929688,
+                    "sentence": "Please send your letters toletters@independent.co.ukRichard Sharp isreceiving much criticismfollowing claims his appointment as BBC chair may have been influenced by his alleged involvement in securing a loan for Boris Jonson.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008227231446653605,
+                    "sentence": "Sharp denies any conflict of interest.It may well be that he wasmore guilty of naivety than wrongdoing.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011828421847894788,
+                    "sentence": "But it seems that the lesson to be learnt is that any association with the former PM could result in trouble.Susan AlexanderSouth GloucestershireWhere exactly does the buck stop?In recent years, we have seen precious little of the stuff that leaders are supposed to be made of from our recent crop of Tory prime ministers.Johnson wasnot aware of parties going on in his own house, Truss didn't know about the pensions “tinderbox”, Sunak never asked whether there was anything he should know about Nadhim Zahawi's tax affairs, or whether there were anycomplaints against Dominic Raab.It was president Harry Truman who had a sign on his desk reading “The Buck Stops Here”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012948766816407442,
+                    "sentence": "Not knowing, or worse, not inquiring, when you are surrounded by knowledgeable advisers in every aspect of government is simply unacceptable as an excuse.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001674526953138411,
+                    "sentence": "We deserve so much better from our leaders.Anne WolffMaidenheadYou know what they say: you can't go home againDespite the burgeoning calls for some kind of “reunification” with thecomparative safety of the European Union, I fear the elephant in the room must be whether they'd want us back.We generated so much bad feeling at our protracted departure, and now that Liz Truss (with help from many others) has rendered our economy a veritable basket case I wonder if they'd have us?I think we've made our bed and may be forced to lie in it now; no matter how much we might wish it were otherwise.Steve MackinderDenverCooperation is needed to secure a bright future for our childrenThe report of a cross-party meeting to discuss how “to make Brexit work better with our European neighbours” is an encouraging sign that some of those who work within our broken political system are prepared to adopt a less adversarial approach when addressing areas of major national importance.Mature forms of government elsewhere benefit from such approaches; arising from electoral systems that allow for a coalition of the best minds who are not influenced by narrow self-interest, but by a desire to work together in the interests of the nations that they serve.Eventually, our politicians will come to realise that our “first past the post” electoral system has had its day and needs to be replaced with something fairer and more representative of the electorate.At the moment, our nation is sleepwalking towards a precipice, with no coherent and agreed response to the pressing issues of our times: climate change, the mass movement of displaced people and arms control.Politicians who measure their success in terms of expediency and short-term party gains are doing nothing to safeguard our children's future.Graham PowellCirencesterWe need more teachersIn his recent article,Ed Dorrell asks the question: “Why would the group (parents) most affected by strikes (teachers) be the most supportive of them?”He then proceeds to speculate that younger parents were most likely left-leaning or probably feel a sense of bonding with teachers as a legacy of the pandemic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001957057975232601,
+                    "sentence": "Yet he ignores the most obvious fact: that parents with school-age children have the most direct experience and evidence of what is currently going on in schools, ie shortage of teachers!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010646313894540071,
+                    "sentence": "A brief at time of writing revealed 89 vacancies for secondary geography teachers in London alone.As Dorrell gently encourages government ministers to “hold the line and wait for the strikes to get more and more arduous”, though he may want to reflect on his own words in anarticle he wrote a month earlier, in which he observes that “more and more teachers will quit and the future generations will see their educational opportunities cut off at the knees”.I have to say though, he did get it right when in the same article he stated that it's relatively easy to become inured to stories about the collapse of the fabric of British society.Ivan O'Brien-CokerSidcup",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.00879996730024586,
+            "class_probabilities": {
+                "human": 0.9912000326997541,
+                "ai": 0.00879996730024586,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9912000326997541,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.00879996730024586,
+                    "human": 0.9912000326997541,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukRichard Sharp isreceiving much criticismfollowing claims his appointment as BBC chair may have been influenced by his alleged involvement in securing a loan for Boris Jonson. Sharp denies any conflict of interest.It may well be that he wasmore guilty of naivety than wrongdoing.  But it seems that the lesson to be learnt is that any association with the former PM could result in trouble.Susan AlexanderSouth GloucestershireWhere exactly does the buck stop?In recent years, we have seen precious little of the stuff that leaders are supposed to be made of from our recent crop of Tory prime ministers.Johnson wasnot aware of parties going on in his own house, Truss didn’t know about the pensions “tinderbox”, Sunak never asked whether there was anything he should know about Nadhim Zahawi’s tax affairs, or whether there were anycomplaints against Dominic Raab.It was president Harry Truman who had a sign on his desk reading “The Buck Stops Here”. Not knowing, or worse, not inquiring, when you are surrounded by knowledgeable advisers in every aspect of government is simply unacceptable as an excuse. We deserve so much better from our leaders.Anne WolffMaidenheadYou know what they say: you can’t go home againDespite the burgeoning calls for some kind of “reunification” with thecomparative safety of the European Union, I fear the elephant in the room must be whether they'd want us back.We generated so much bad feeling at our protracted departure, and now that Liz Truss (with help from many others) has rendered our economy a veritable basket case I wonder if they’d have us?I think we've made our bed and may be forced to lie in it now; no matter how much we might wish it were otherwise.Steve MackinderDenverCooperation is needed to secure a bright future for our childrenThe report of a cross-party meeting to discuss how “to make Brexit work better with our European neighbours” is an encouraging sign that some of those who work within our broken political system are prepared to adopt a less adversarial approach when addressing areas of major national importance.Mature forms of government elsewhere benefit from such approaches; arising from electoral systems that allow for a coalition of the best minds who are not influenced by narrow self-interest, but by a desire to work together in the interests of the nations that they serve.Eventually, our politicians will come to realise that our “first past the post” electoral system has had its day and needs to be replaced with something fairer and more representative of the electorate.At the moment, our nation is sleepwalking towards a precipice, with no coherent and agreed response to the pressing issues of our times: climate change, the mass movement of displaced people and arms control.Politicians who measure their success in terms of expediency and short-term party gains are doing nothing to safeguard our children’s future.Graham PowellCirencesterWe need more teachersIn his recent article,Ed Dorrell asks the question: “Why would the group (parents) most affected by strikes (teachers) be the most supportive of them?”He then proceeds to speculate that younger parents were most likely left-leaning or probably feel a sense of bonding with teachers as a legacy of the pandemic. Yet he ignores the most obvious fact: that parents with school-age children have the most direct experience and evidence of what is currently going on in schools, ie shortage of teachers! A brief at time of writing revealed 89 vacancies for secondary geography teachers in London alone.As Dorrell gently encourages government ministers to “hold the line and wait for the strikes to get more and more arduous”, though he may want to reflect on his own words in anarticle he wrote a month earlier, in which he observes that “more and more teachers will quit and the future generations will see their educational opportunities cut off at the knees”.I have to say though, he did get it right when in the same article he stated that it’s relatively easy to become inured to stories about the collapse of the fabric of British society.Ivan O’Brien-CokerSidcup"
+        }
+    ]
+}

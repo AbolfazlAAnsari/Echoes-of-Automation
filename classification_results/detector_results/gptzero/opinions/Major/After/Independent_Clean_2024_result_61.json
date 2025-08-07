@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.005047295708209276,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010749266482889652,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe prospect oftax cutsin this Wednesday'sBudgetis nomore than gesture politics: short-term, shallow electioneering from a government that has no commitment to the long-term interests of the nation.Without a doubt, those who willbenefit from such tax cutswill be those on middle and higher incomes, while those who have been impoverished by 14 years of austerity measures will continue to struggle, as the essential services upon which they depend buckle through continuous underinvestment.All this is designed by a cynical government togarner a few votesfrom the electorate and make it more difficult for an incoming Labour government to stimulate economic growth.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00032115119392983615,
+                    "sentence": "As most economists have been telling us for some time: increased productivity depends upon investment that should be encouraged by a government that has a strategic plan for the nation's finances, rather than one that uses short-term gestures with no other purpose than to con the credulous.Graham PowellCirencesterGalloway wins, Rochdale losesThe people of Rochdale might be filled with dread and despair at the prospect ofGeorge Galloway's by-election victory speechpromising to build an alliance against the town's councillors.Presumably his target will be the Labour controlled council, which he will no doubtdepict as part of an “establishment”working against local communities, conveniently ignoring the 14 years of Tory-led austerity that have deeply scarred Northern towns like Rochdale.Populist promises to reopen the town's maternity and A&E hospital services without acknowledging its close proximity to three major hospitals and the safety and staffing implications, or saving the town's football team without saying where the money will come from, are simply unfounded and opportunistic.These and otherdivisive promiseswill sadly only serve to undermine cohesion in a town that had built a reputation for good community relations, avoiding the riots that had erupted in neighbouring towns in the early 2000s and helped by the tireless work of the late Sir Tony Lloyd MP to promote communal unity in Rochdale.Paul DolanCheshireViolence against women must stopI applaud The Independent for illuminating the salient truth that much work remains to be done to tackle the abhorrent and life-shattering issue ofviolence towards women and girls, particularly after theshocking revelations around Wayne Couzens.Bullying, harassment, wage inequality, violence remains a problem globally and domestically.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014101015403866768,
+                    "sentence": "It is time we stop trivialising this issue and revolutionise a dramatic change of mindset across the whole of society toaddress abuse against women.Dr Munjed Farid Al QutobLondonInhumanity costsI am appalled at both the abject lack of humanity shown towards often desperate people, as well as thehuge waste of taxpayer's moneyat a time when so many public services are desperate for funding just to survive (let alone provide a decent level of service).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001123511348851025,
+                    "sentence": "Many local authorities are on the brink of bankruptcy, the NHS is in meltdown, schools are struggling if not physically in danger of collapse and provision for the homeless is almost non-existent.Even in the unlikely event of any migrants actually being sent to Rwanda, any chance that the scheme will act as a disincentive to migrants attempting the dangerous Channel crossing would seem to bedelusional to say the least.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004663696978241205,
+                    "sentence": "Once again we are seeing a desperate policy in a desperate attempt to attract right-wing Tories to save the party from electoral armageddon.David FeltonCheshireEd Davey is right about Sunak's speechFor the record, I agree with Ed Davey about theprime minister's impromptu press conferencethis past Friday.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009924770332872868,
+                    "sentence": "Given the government's track record, I found Sunak's words hypocritical and opportunistic.Joanna PallisterAddress supplied",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.020796750353547094,
+            "class_probabilities": {
+                "human": 0.9792032496464529,
+                "ai": 0.020796750353547094,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9792032496464529,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020796750353547094,
+                    "human": 0.9792032496464529,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThe prospect oftax cutsin this Wednesday’sBudgetis nomore than gesture politics: short-term, shallow electioneering from a government that has no commitment to the long-term interests of the nation.Without a doubt, those who willbenefit from such tax cutswill be those on middle and higher incomes, while those who have been impoverished by 14 years of austerity measures will continue to struggle, as the essential services upon which they depend buckle through continuous underinvestment.All this is designed by a cynical government togarner a few votesfrom the electorate and make it more difficult for an incoming Labour government to stimulate economic growth. As most economists have been telling us for some time: increased productivity depends upon investment that should be encouraged by a government that has a strategic plan for the nation’s finances, rather than one that uses short-term gestures with no other purpose than to con the credulous.Graham PowellCirencesterGalloway wins, Rochdale losesThe people of Rochdale might be filled with dread and despair at the prospect ofGeorge Galloway’s by-election victory speechpromising to build an alliance against the town’s councillors.Presumably his target will be the Labour controlled council, which he will no doubtdepict as part of an “establishment”working against local communities, conveniently ignoring the 14 years of Tory-led austerity that have deeply scarred Northern towns like Rochdale.Populist promises to reopen the town’s maternity and A&E hospital services without acknowledging its close proximity to three major hospitals and the safety and staffing implications, or saving the town’s football team without saying where the money will come from, are simply unfounded and opportunistic.These and otherdivisive promiseswill sadly only serve to undermine cohesion in a town that had built a reputation for good community relations, avoiding the riots that had erupted in neighbouring towns in the early 2000s and helped by the tireless work of the late Sir Tony Lloyd MP to promote communal unity in Rochdale.Paul DolanCheshireViolence against women must stopI applaud The Independent for illuminating the salient truth that much work remains to be done to tackle the abhorrent and life-shattering issue ofviolence towards women and girls, particularly after theshocking revelations around Wayne Couzens.Bullying, harassment, wage inequality, violence remains a problem globally and domestically. It is time we stop trivialising this issue and revolutionise a dramatic change of mindset across the whole of society toaddress abuse against women.Dr Munjed Farid Al QutobLondonInhumanity costsI am appalled at both the abject lack of humanity shown towards often desperate people, as well as thehuge waste of taxpayer’s moneyat a time when so many public services are desperate for funding just to survive (let alone provide a decent level of service). Many local authorities are on the brink of bankruptcy, the NHS is in meltdown, schools are struggling if not physically in danger of collapse and provision for the homeless is almost non-existent.Even in the unlikely event of any migrants actually being sent to Rwanda, any chance that the scheme will act as a disincentive to migrants attempting the dangerous Channel crossing would seem to bedelusional to say the least.  Once again we are seeing a desperate policy in a desperate attempt to attract right-wing Tories to save the party from electoral armageddon.David FeltonCheshireEd Davey is right about Sunak’s speechFor the record, I agree with Ed Davey about theprime minister’s impromptu press conferencethis past Friday. Given the government’s track record, I found Sunak’s words hypocritical and opportunistic.Joanna PallisterAddress supplied"
+        }
+    ]
+}

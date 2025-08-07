@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0004560072557069361,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°The New York Times is not content to let OpenAI and Microsoft get rich using the newspaper's web content for artificial intelligence like ChatGPT without paying and sued this week in Manhattan federal court.We don't know if the pun on the word “content” is particularly funny or if an AI robot would be inclined to such wordplay, but we do know it was written by humans, us, the people behind the words and pictures of the Daily News.And having people, not machines, tell the human stories of the city and the world for other humans to read should stay that way.We could have asked ChatGPT to write an editorial about how it is bad that ChatGPT lifted wholesale without paying from a newspaper to teach itself how to replace newspapers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007049136329442263,
+                    "sentence": "However, while AI doesn't get tired of gimmicks, real people do.The Times alleges in its lawsuit that ChatGPT was fed huge numbers of articles produced by the paper's website to allow the program to learn using the “large language model.” As the complaint states, “an LLM works by predicting words that are likely to follow a given string of text based on the potentially billions of examples used to train it.”For teaching material, “the training set was comprised of 45 terabytes of data ᅳ the equivalent of a Microsoft Word document that is over 3.7 billion pages long.” Not all of that was from the Times, but the work of that newspaper and website, like the works of this newspaper and website, are copyrighted and can't just be lifted.When OpenAI began it was a nonprofit, sharing with all its creations for the betterment of humankind.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010450877016410232,
+                    "sentence": "But the humans in charge didn't need AI to learn about the profit motive and they changed to a proprietary system to sell.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009644214296713471,
+                    "sentence": "No more sharing from them and customers have to pay.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001271632150746882,
+                    "sentence": "But they get to borrow and not pay?They could have used non-copyrighted works for their classroom, like the collected plays, poems and sonnets of Shakespeare.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001290004001930356,
+                    "sentence": "That would be perfectly legal, but ChatGPT would then write and speak like an Englishman of 400 years ago.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017101936973631382,
+                    "sentence": "Such sterner stuff is Greek to me in this brave new world and not a wild-goose chase melted into thin air.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00036292977165430784,
+                    "sentence": "Would star-crossed lovers be a tower of strength or get short shrift?Or they could have borrowed without any limits from Mark Twain, who during his lifetime fought furiously for laws for copyright protections.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00036111543886363506,
+                    "sentence": "But Twain died in 1910 and all his creations are now free to use for everyone.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003483609762042761,
+                    "sentence": "Under U.S. law, current copyright protection lasts for the life of the author plus 70 more years.Other works have a 95-year shield, like Walt Disney's 1928 “Steamboat Willie,” the first appearance of Mickey Mouse, which will enter the public domain on Monday, Jan. 1.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003450320800766349,
+                    "sentence": "Sound recordings are protected for 100 years.Craigslist, Google and Facebook vacuumed up revenue from the press, devouring classifieds, display ads and circulation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00028467137599363923,
+                    "sentence": "Now another internet invention, AI, is threatening the press itself.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003459610743448138,
+                    "sentence": "As the lawsuit says, “if the Times and other news organizations cannot produce and protect their independent journalism, there will be a vacuum that no computer or artificial intelligence can fill.” And yes, we meant to play on the word “vacuum.”ᅳ New York Daily News",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.015281828032010496,
+            "class_probabilities": {
+                "human": 0.9847181719679895,
+                "ai": 0.015281828032010496,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9847181719679895,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.015281828032010496,
+                    "human": 0.9847181719679895,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°The New York Times is not content to let OpenAI and Microsoft get rich using the newspaper’s web content for artificial intelligence like ChatGPT without paying and sued this week in Manhattan federal court.We don’t know if the pun on the word “content” is particularly funny or if an AI robot would be inclined to such wordplay, but we do know it was written by humans, us, the people behind the words and pictures of the Daily News.And having people, not machines, tell the human stories of the city and the world for other humans to read should stay that way.We could have asked ChatGPT to write an editorial about how it is bad that ChatGPT lifted wholesale without paying from a newspaper to teach itself how to replace newspapers. However, while AI doesn’t get tired of gimmicks, real people do.The Times alleges in its lawsuit that ChatGPT was fed huge numbers of articles produced by the paper’s website to allow the program to learn using the “large language model.” As the complaint states, “an LLM works by predicting words that are likely to follow a given string of text based on the potentially billions of examples used to train it.”For teaching material, “the training set was comprised of 45 terabytes of data — the equivalent of a Microsoft Word document that is over 3.7 billion pages long.” Not all of that was from the Times, but the work of that newspaper and website, like the works of this newspaper and website, are copyrighted and can’t just be lifted.When OpenAI began it was a nonprofit, sharing with all its creations for the betterment of humankind. But the humans in charge didn’t need AI to learn about the profit motive and they changed to a proprietary system to sell. No more sharing from them and customers have to pay. But they get to borrow and not pay?They could have used non-copyrighted works for their classroom, like the collected plays, poems and sonnets of Shakespeare. That would be perfectly legal, but ChatGPT would then write and speak like an Englishman of 400 years ago. Such sterner stuff is Greek to me in this brave new world and not a wild-goose chase melted into thin air. Would star-crossed lovers be a tower of strength or get short shrift?Or they could have borrowed without any limits from Mark Twain, who during his lifetime fought furiously for laws for copyright protections. But Twain died in 1910 and all his creations are now free to use for everyone. Under U.S. law, current copyright protection lasts for the life of the author plus 70 more years.Other works have a 95-year shield, like Walt Disney’s 1928 “Steamboat Willie,” the first appearance of Mickey Mouse, which will enter the public domain on Monday, Jan. 1. Sound recordings are protected for 100 years.Craigslist, Google and Facebook vacuumed up revenue from the press, devouring classifieds, display ads and circulation. Now another internet invention, AI, is threatening the press itself. As the lawsuit says, “if the Times and other news organizations cannot produce and protect their independent journalism, there will be a vacuum that no computer or artificial intelligence can fill.” And yes, we meant to play on the word “vacuum.”— New York Daily News"
+        }
+    ]
+}

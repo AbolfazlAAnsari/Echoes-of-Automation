@@ -1,0 +1,154 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.11089477688074112,
+                    "sentence": "Published 3:11 pm Friday, June 9, 2023BySuffolk News-HeraldMost folks think of Memorial Day as the beginning of summer.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1088031753897667,
+                    "sentence": "A few take a more literal approach to the calendar, ascribing that honor to June 21.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.11807668954133987,
+                    "sentence": "But for many of us here in Suffolk, summer doesn't really start until the city kicks off its TGIF concert series each year.The first event of the 2023 season will be held on Friday at Constant's Wharf Park behind the Hilton Garden Inn downtown.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.12517021596431732,
+                    "sentence": "Each Friday through July 14, bands will entertain and food and beverage vendors will provide refreshments for people looking for an inexpensive, close-to-home way to kick off the weekend.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.23935671150684357,
+                    "sentence": "Beginning July 28 and running Fridays through Aug. 18, the event will move to Bennett's Creek Park in North Suffolk.Festivities begin at 6 p.m., and the bands will perform from 6:30 to 9:30 p.m.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.183844193816185,
+                    "sentence": "Admission is free for all ages.TGIF is great fun for the whole family.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.13950099050998688,
+                    "sentence": "It helps build community by bringing people together in an informal setting to forge new friendships and new ties.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.16796213388442993,
+                    "sentence": "And it showcases two of Suffolk's jewels, Constant's Wharf and Bennett's Creek parks.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09028012305498123,
+                    "sentence": "Without these events, many people in and around the city might not know about these wonderful civic resources.In future years, the downtown version of TGIF is expected to move to the new Festival Park at Saratoga and Washington streets, bringing big crowds to the core of the central business district.We commend the Suffolk Parks and Recreation Department for its work planning and organizing the concert series each summer.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.025867659598588943,
+                    "sentence": "Most of us just show up for the fun, but months of hard work precede the festivities.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04157361015677452,
+                    "sentence": "We also give a tip of the hat to this year's sponsor, Sentara Healthcare, whose generosity alleviates any need to charge admission.There are plenty of things to do this summer, and it can be easy to find excuses not to add to the list.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05506197735667229,
+                    "sentence": "But TGIF is worth an occasional change of plans from the normal Friday night dinner-and-a-movie fare.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05297424644231796,
+                    "sentence": "Bring a lawn chair or a blanket, grab a bite to eat and something cool to drink, listen to the music and get to know a few of your neighbors.You'll be glad you did.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.060904234647750854,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05998672917485237,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 15,
+                    "completely_generated_prob": 2.5938383721896624e-13
+                }
+            ],
+            "completely_generated_prob": 0.059261636754220776,
+            "class_probabilities": {
+                "human": 0.9406968808522652,
+                "ai": 0.059261636754220776,
+                "mixed": 4.148239351388549e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9406968808522652,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.059261636754220776,
+                    "human": 0.9406968808522652,
+                    "mixed": 4.148239351388549e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 3:11 pm Friday, June 9, 2023BySuffolk News-HeraldMost folks think of Memorial Day as the beginning of summer. A few take a more literal approach to the calendar, ascribing that honor to June 21. But for many of us here in Suffolk, summer doesn’t really start until the city kicks off its TGIF concert series each year.The first event of the 2023 season will be held on Friday at Constant’s Wharf Park behind the Hilton Garden Inn downtown. Each Friday through July 14, bands will entertain and food and beverage vendors will provide refreshments for people looking for an inexpensive, close-to-home way to kick off the weekend. Beginning July 28 and running Fridays through Aug. 18, the event will move to Bennett’s Creek Park in North Suffolk.Festivities begin at 6 p.m., and the bands will perform from 6:30 to 9:30 p.m. Admission is free for all ages.TGIF is great fun for the whole family. It helps build community by bringing people together in an informal setting to forge new friendships and new ties. And it showcases two of Suffolk’s jewels, Constant’s Wharf and Bennett’s Creek parks. Without these events, many people in and around the city might not know about these wonderful civic resources.In future years, the downtown version of TGIF is expected to move to the new Festival Park at Saratoga and Washington streets, bringing big crowds to the core of the central business district.We commend the Suffolk Parks and Recreation Department for its work planning and organizing the concert series each summer. Most of us just show up for the fun, but months of hard work precede the festivities. We also give a tip of the hat to this year’s sponsor, Sentara Healthcare, whose generosity alleviates any need to charge admission.There are plenty of things to do this summer, and it can be easy to find excuses not to add to the list. But TGIF is worth an occasional change of plans from the normal Friday night dinner-and-a-movie fare. Bring a lawn chair or a blanket, grab a bite to eat and something cool to drink, listen to the music and get to know a few of your neighbors.You’ll be glad you did.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

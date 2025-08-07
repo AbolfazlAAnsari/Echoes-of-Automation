@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0003774534852709621,
+                    "sentence": "Mutual Fund and ETF data provided byRefinitiv Lipper.Wall Street Journal editorial board member discusses media coverage of President Biden.The \"unity\" lasted all of a couple of minutes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00023581937421113253,
+                    "sentence": "Then, hours afterPresident Bidenpledged in his inaugural address to show \"tolerance and humility,\" the brass knuckles came out.One duster was aimed at Peter Robb, general counsel of the National Labor Relations Board.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00028229219606146216,
+                    "sentence": "Within minutes of Mr. Biden's swearing-in, and as the newpresidenttold the nation it needed to \"be better,\" the new White House delivered Mr. Robb an ultimatum: resign by 5 p.m., or be fired.The general-counsel position is a Senate-confirmed four-year appointment at an independent agency; Mr. Robb had 10 months left in his term.The Robb firing is an early indicator of Biden's top priorities.No NLRB general counsel had ever been fired, and theBiden White Houseprovided no cause for the action.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00041255689575336874,
+                    "sentence": "Mr. Robb pointed all this out in a return letter and respectfully declined to step down.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002914419455919415,
+                    "sentence": "So Mr. Biden (\"we must end this uncivil war\") canned him.For four years, the media and Democrats cast every action of the Trump administration as something law-breaking or verging on a constitutional crisis.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003857245610561222,
+                    "sentence": "This week's headlines, by contrast, were a mass media celebration of the return to \"normalcy.\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009941260796040297,
+                    "sentence": "Mr. Biden ran on, and won on, a promise to restore norms to Washington.CLICK HERE TO CONTINUE READING KIMBERLEY STRASSEL'S COLUMN IN THE WALL STREET JOURNALCLICK HERE TO READ MORE FROM KIMBERLEY STRASSEL",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563522,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563522,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563522,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Mutual Fund and ETF data provided byRefinitiv Lipper.Wall Street Journal editorial board member discusses media coverage of President Biden.The \"unity\" lasted all of a couple of minutes. Then, hours afterPresident Bidenpledged in his inaugural address to show \"tolerance and humility,\" the brass knuckles came out.One duster was aimed at Peter Robb, general counsel of the National Labor Relations Board. Within minutes of Mr. Biden’s swearing-in, and as the newpresidenttold the nation it needed to \"be better,\" the new White House delivered Mr. Robb an ultimatum: resign by 5 p.m., or be fired.The general-counsel position is a Senate-confirmed four-year appointment at an independent agency; Mr. Robb had 10 months left in his term.The Robb firing is an early indicator of Biden’s top priorities.No NLRB general counsel had ever been fired, and theBiden White Houseprovided no cause for the action. Mr. Robb pointed all this out in a return letter and respectfully declined to step down. So Mr. Biden (\"we must end this uncivil war\") canned him.For four years, the media and Democrats cast every action of the Trump administration as something law-breaking or verging on a constitutional crisis. This week’s headlines, by contrast, were a mass media celebration of the return to \"normalcy.\" Mr. Biden ran on, and won on, a promise to restore norms to Washington.CLICK HERE TO CONTINUE READING KIMBERLEY STRASSEL'S COLUMN IN THE WALL STREET JOURNALCLICK HERE TO READ MORE FROM KIMBERLEY STRASSEL"
+        }
+    ]
+}

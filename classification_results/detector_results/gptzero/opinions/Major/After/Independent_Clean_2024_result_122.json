@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 2.270365075673908e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.7914117051986977e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukFor once, we wake up this morning to good news!It is hugely gratifying to hear that theTories have been thrashedin the local elections.I was further cheered by seeing two mayoralcandidates, Ben Houchenand Sadiq Khan, taking their very nicedogsto the polling booths, presumably to show the public they are decent humans.And then the cherry on the cake was the report thatBoris Johnson, who actually introduced the controversial rule that personal ID must be shown when voting,forgot his own - and was turned awayfrom the polling station!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.0672217942774296e-05,
+                    "sentence": "This was priceless.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.1651358110830188e-05,
+                    "sentence": "Irony is not dead after all.There is something very British about this morning's news - and I imagine there will be much smiling over the cornflakes.Penny LittleOxfordshireBan the need for voter IDHow sickening (yet humorously ironic) that Boris Johnson, the Etonian who introduced voter ID - thusundermining free and fair elections- for all elections had to be turned away.Did he not take advantage of the opportunity to read the advice on the government website or even the back of his polling card?Come on!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.1690020730602555e-05,
+                    "sentence": "It's time to ban the need for photo ID.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.2279065888142213e-05,
+                    "sentence": "Justbring your polling card.Ask yourself how mature democracies in mainland Europe deal with this issue.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.7365806090529077e-05,
+                    "sentence": "After all,voter fraud in this countryaccounts for a very minuscule percentage of all votes cast.Chris JacksonMerseysideTories hammeredThe hammering the Tories have received in recent elections is hardly surprising.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.4575609131716192e-05,
+                    "sentence": "Fourteen years of misgovernancehave clearly worn awayat their support.WhileRishi Sunakmay try to hang on to Downing Street, the eventual outcome - a Labour government - is hardly in doubt.That, in itself (of course) will not solve our deep-seated problems.For real change - and particularly in light of recent events - we need:Compared with the rather thin policy offeringswe have had from Labourat the moment, the Lib Dems seem to have stronger and more fully considered policies on all these points.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.4382784366607666,
+                    "sentence": "Let's hope they are listened to!Andrew McLuskeyMiddlesexThe poisoned chaliceSo the SNP's ranks - or about half of them - are closing inaround John Swinney.The day before yesterday's man is on course to succeedHumza Yousaf, which raises two questions.Firstly, how could the largest party in Scotland not attract morecandidates of genuine ability?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3500930666923523,
+                    "sentence": "The SNP cabinet is, in my opinion, a talent-free zone, with none of its members feeling up to the challenges that theNicola Sturgeon-Yousaf era hasbequeathed to the nation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.45227792859077454,
+                    "sentence": "The poisoned chalice Yousaf gladly grasped last year is even more toxic now.Secondly, the image yesterday of a smilingMichael Matheson in the Holyroodchamber made me wonder whether this entire episode had not been concocted in order to deflect from the unfinished business that is his conduct over iPadgate.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.4600174129009247,
+                    "sentence": "Holyrood's corporate body reported in March 2024 that he had breached the MSPs' Code of Conduct and his case was passed to the Standards, Procedures and Public Appointments Committee.Perhaps there will be a new first minister before that committee makes its decision, or perhaps the decision has already been kicked into very long grass.Jill StephensonGlenlockhart Valley",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.2425855513307985,
+            "class_probabilities": {
+                "human": 0.7574144486692015,
+                "ai": 0.2425855513307985,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.7574144486692015,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.2425855513307985,
+                    "human": 0.7574144486692015,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW : Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukFor once, we wake up this morning to good news!It is hugely gratifying to hear that theTories have been thrashedin the local elections.I was further cheered by seeing two mayoralcandidates, Ben Houchenand Sadiq Khan, taking their very nicedogsto the polling booths, presumably to show the public they are decent humans.And then the cherry on the cake was the report thatBoris Johnson, who actually introduced the controversial rule that personal ID must be shown when voting,forgot his own – and was turned awayfrom the polling station! This was priceless. Irony is not dead after all.There is something very British about this morning’s news – and I imagine there will be much smiling over the cornflakes.Penny LittleOxfordshireBan the need for voter IDHow sickening (yet humorously ironic) that Boris Johnson, the Etonian who introduced voter ID – thusundermining free and fair elections– for all elections had to be turned away.Did he not take advantage of the opportunity to read the advice on the government website or even the back of his polling card?Come on! It’s time to ban the need for photo ID. Justbring your polling card.Ask yourself how mature democracies in mainland Europe deal with this issue. After all,voter fraud in this countryaccounts for a very minuscule percentage of all votes cast.Chris JacksonMerseysideTories hammeredThe hammering the Tories have received in recent elections is hardly surprising. Fourteen years of misgovernancehave clearly worn awayat their support.WhileRishi Sunakmay try to hang on to Downing Street, the eventual outcome – a Labour government – is hardly in doubt.That, in itself (of course) will not solve our deep-seated problems.For real change – and particularly in light of recent events – we need:Compared with the rather thin policy offeringswe have had from Labourat the moment, the Lib Dems seem to have stronger and more fully considered policies on all these points. Let’s hope they are listened to!Andrew McLuskeyMiddlesexThe poisoned chaliceSo the SNP’s ranks – or about half of them – are closing inaround John Swinney.The day before yesterday’s man is on course to succeedHumza Yousaf, which raises two questions.Firstly, how could the largest party in Scotland not attract morecandidates of genuine ability? The SNP cabinet is, in my opinion, a talent-free zone, with none of its members feeling up to the challenges that theNicola Sturgeon-Yousaf era hasbequeathed to the nation.  The poisoned chalice Yousaf gladly grasped last year is even more toxic now.Secondly, the image yesterday of a smilingMichael Matheson in the Holyroodchamber made me wonder whether this entire episode had not been concocted in order to deflect from the unfinished business that is his conduct over iPadgate. Holyrood’s corporate body reported in March 2024 that he had breached the MSPs’ Code of Conduct and his case was passed to the Standards, Procedures and Public Appointments Committee.Perhaps there will be a new first minister before that committee makes its decision, or perhaps the decision has already been kicked into very long grass.Jill StephensonGlenlockhart Valley"
+        }
+    ]
+}

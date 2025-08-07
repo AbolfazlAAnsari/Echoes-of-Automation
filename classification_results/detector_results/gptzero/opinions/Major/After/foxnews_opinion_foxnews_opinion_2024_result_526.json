@@ -1,0 +1,76 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0005871548200957477,
+                    "sentence": "Mutual Fund and ETF data provided byRefinitiv Lipper.Fox News host Sean Hannity reacts to the Biden White House shifting blame for the border crisis to Republicans and more in Wednesday's opening monologue.HANNITY- Fox News host reacts to the Biden White House shifting blame for the border crisis to Republicans.Continue reading…HUGH HEWITT- Why Donald Trump should select Tom Cotton as his running mate.Continue reading…BEST ECONOMY EVER?- Biden's economy only working for these elite few.Continue reading…GUTFELD- It's not just Biden's age that's the issue, it's the neglect of our basic systems.Continue reading…PIPELINE PROTESTS- Team Obama appeased climate extremists in North Dakota, and now they're finally going on trial for it.Continue reading…RAYMOND ARROYO- Biden's condition is 'greatly diminished,' this is not credible diplomacy.Continue watching…NEWT- The Senate's contempt for America is on full display once again.Continue reading…DRIVE AWAY- America should ban Chinese EVs.Continue reading…SHOW US THE TAPES!- Biden's team insists president is fit to serve.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.037429772317409515,
+                    "sentence": "So let's see the Hur transcripts and recordings.Continue reading…CARTOON OF THE DAY -Check out all of our political cartoons…02.15.24This article was written by Fox News staff.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Mutual Fund and ETF data provided byRefinitiv Lipper.Fox News host Sean Hannity reacts to the Biden White House shifting blame for the border crisis to Republicans and more in Wednesday's opening monologue.HANNITY– Fox News host reacts to the Biden White House shifting blame for the border crisis to Republicans.Continue reading…HUGH HEWITT– Why Donald Trump should select Tom Cotton as his running mate.Continue reading…BEST ECONOMY EVER?– Biden's economy only working for these elite few.Continue reading…GUTFELD– It's not just Biden's age that's the issue, it's the neglect of our basic systems.Continue reading…PIPELINE PROTESTS– Team Obama appeased climate extremists in North Dakota, and now they’re finally going on trial for it.Continue reading…RAYMOND ARROYO– Biden's condition is 'greatly diminished,' this is not credible diplomacy.Continue watching…NEWT– The Senate's contempt for America is on full display once again.Continue reading…DRIVE AWAY– America should ban Chinese EVs.Continue reading…SHOW US THE TAPES!– Biden's team insists president is fit to serve. So let's see the Hur transcripts and recordings.Continue reading…CARTOON OF THE DAY –Check out all of our political cartoons…02.15.24This article was written by Fox News staff."
+        }
+    ]
+}

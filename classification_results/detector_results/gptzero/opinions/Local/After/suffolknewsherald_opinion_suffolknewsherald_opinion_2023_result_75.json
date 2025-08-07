@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0010801992611959577,
+                    "sentence": "Published 5:57 pm Friday, April 7, 2023ByLetters to the EditorEditor:The Lake Kilby Road rezoning hearing drew a large crowd to the March 21 Planning Commission meeting.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001464539091102779,
+                    "sentence": "The rezoning would allow for more than 200 homes, tripling traffic while keeping only ten-foot-wide, ditch-lined road lanes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018677744083106518,
+                    "sentence": "The commission voted 5-3 to recommend approval, despite no one stating any specific benefits it would bring to Suffolk.The main beneficiaries would be the developer, a builder and a few realtors.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008470621542073786,
+                    "sentence": "A regional realtors association put out frantic messages beforehand trying to gather support for the rezoning.One letter stated that CARE4Suffolk doesn't “want any more communities built in Suffolk,” which is untrue.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006993007846176624,
+                    "sentence": "It also said that this “means that you and I would not have homes to sell” and it would make homes “unaffordable for our young families.”There are several problems with these messages:They were an overdramatic attempt to rally realtors from the entire region against concerned local residents.They were misleading.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018331666942685843,
+                    "sentence": "The author didn't share that the Fiscal Impact Study for the proposed development shows the homes selling for $500,000.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020351603161543608,
+                    "sentence": "Is that truly affordable?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013636836083605886,
+                    "sentence": "She also mentioned “development zones” that include “farmland where there is already water and sewer,” despite Lake Kilby Road not having these utilities.They implied that it is the city's responsibility to create inventory for realtors to sell.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0023653570096939802,
+                    "sentence": "One letter states they need “rezoning of these parcels in order to have homes to sell in our city” and another says they are “in danger of losing out on valuable housing growth in Suffolk.”The realtor association's chairman spoke on the developer's behalf, touting a concept called “Smart Growth,” but failed to describe how rezoning on Lake Kilby Road would actually fulfill any of the principles (see CARE4Suffolk.org).Along with the realtor organization, the developer brought another supporter who bizarrely accused those opposed to the rezoning of “xenophobia.” I hope the realtors and developer don't truly support this baseless accusation.I understand why a realtors' group might favor a rezoning, but it should do so in a more thoughtful manner.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6543238759040833,
+                    "sentence": "Getting people involved in the civic process is great, but no one should engage in fear mongering to do so  Public hearings should be for substantive comments, not just generalities and name-calling.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5752691030502319,
+                    "sentence": "Suffolk deserves better.Ann HarrisSuffolkOn Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.7269172668457031,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.7627850770950317,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.24258555133079857,
+            "class_probabilities": {
+                "human": 0.7574144486692015,
+                "ai": 0.24258555133079857,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.7574144486692015,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.24258555133079857,
+                    "human": 0.7574144486692015,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:57 pm Friday, April 7, 2023ByLetters to the EditorEditor:The Lake Kilby Road rezoning hearing drew a large crowd to the March 21 Planning Commission meeting.  The rezoning would allow for more than 200 homes, tripling traffic while keeping only ten-foot-wide, ditch-lined road lanes.  The commission voted 5-3 to recommend approval, despite no one stating any specific benefits it would bring to Suffolk.The main beneficiaries would be the developer, a builder and a few realtors. A regional realtors association put out frantic messages beforehand trying to gather support for the rezoning.One letter stated that CARE4Suffolk doesn’t “want any more communities built in Suffolk,” which is untrue. It also said that this “means that you and I would not have homes to sell” and it would make homes “unaffordable for our young families.”There are several problems with these messages:They were an overdramatic attempt to rally realtors from the entire region against concerned local residents.They were misleading. The author didn’t share that the Fiscal Impact Study for the proposed development shows the homes selling for $500,000. Is that truly affordable? She also mentioned “development zones” that include “farmland where there is already water and sewer,” despite Lake Kilby Road not having these utilities.They implied that it is the city’s responsibility to create inventory for realtors to sell. One letter states they need “rezoning of these parcels in order to have homes to sell in our city” and another says they are “in danger of losing out on valuable housing growth in Suffolk.”The realtor association’s chairman spoke on the developer’s behalf, touting a concept called “Smart Growth,” but failed to describe how rezoning on Lake Kilby Road would actually fulfill any of the principles (see CARE4Suffolk.org).Along with the realtor organization, the developer brought another supporter who bizarrely accused those opposed to the rezoning of “xenophobia.” I hope the realtors and developer don’t truly support this baseless accusation.I understand why a realtors’ group might favor a rezoning, but it should do so in a more thoughtful manner. Getting people involved in the civic process is great, but no one should engage in fear mongering to do so  Public hearings should be for substantive comments, not just generalities and name-calling. Suffolk deserves better.Ann HarrisSuffolkOn Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 9.382688585901633e-05,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°President Joe Biden is reportedly pondering support for a legislative package that would enact ethics rules with the force of law on the Supreme Court, as well as some sort of term limits.He should throw his weight behind such a proposal, which would be broadly popular with the American public and take aim at an out-of-control top court.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010696277604438365,
+                    "sentence": "Congress should pass it on the basis of self-preservation alone; the justices lately have seemed all too happy to take over increasing shares of the other branches' powers.The need for such policies was already apparent two-and-a-half years ago, when a bipartisan presidential commission explored them in a 300-page report meant to be advisory.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001250602217623964,
+                    "sentence": "It has only become far more apparent as the Supreme Court has worked to reshape American policy and jurisprudence to its often right-wing whims.In the past few years the court has thrown out the right to abortion; tossed century-old gun restrictions because they did not sufficiently jibe with perceived historical norms, while upholding an ahistorical opening of the campaign finance spigot; signed off on politically-motivated gerrymandering; whittled down almost all consequences for public corruption; vested itself with the power to determine how administrative agency experts should interpret their mandates; and declared the president a king, immune from prosecution for a huge array of “official acts.”If a lot of this sounds geared towards anti-democratic governance and public corruption, that's because the court is not only on board but has several justices directly benefiting.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014696836296934634,
+                    "sentence": "Sam Alito and Clarence Thomas both personally received undisclosed gifts from wealthy benefactors, with Thomas raking in millions while he just so happens to rule along patrons' ideological preferences, and failing to recuse from cases involving 2020 attempted election theft, in which his wife had a direct hand.The process by which the conservative majority was created in the first place went against historical norms, twice.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00024205910449381918,
+                    "sentence": "Senate Republicans refused to adhere to their constitutionally-mandated role in considering Merrick Garland's nomination after the February 2016 death of Antonin Scalia, arguing that it was too close to the November election.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.643247691798024e-05,
+                    "sentence": "Four years later, these Republicans sped through the nomination of Amy Coney Barrett after Trump nominated her less than two months before that year's election.Neither was the normal process of how Supreme Court nominations were intended to work, and the upshot is that the right wing has given itself a largely bulletproof majority, even if the court occasionally fails to support its more extreme efforts.This doesn't mean that Democrats should get into a court-packing arms race with Republicans, but some basic moves to have the other branches reassert their own authority and sap some of the dizzying power we've placed into this small handful of people is more than appropriate.At the very least, term limits could prevent these nakedly political mad scrambles to replace justices while one party holds the presidency or the Senate.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.967377026332542e-05,
+                    "sentence": "And if we expect all of our elected officials to be bound by some standards of ethics and propriety, there's sub-zero reason not to expect the same from some unelected ones, among the most powerful in the nation.ᅳ New York Daily NewsWASHINGTON ᅳ The gunman who tried to kill Donald Trump mounted a “sustained, detailed effort” to attack a major gathering of some sort before deciding to target the Republican presidential candidate at a Pennsylvania rally in July, FBI officials said on Wednesday.Record-setting University of Hawaii quarterback and 2007 Heisman Trophy finalist Colt Brennan has died, his father Terry Brennan told the Honolulu Star-Advertiser.In presidential fundraising these days, the donors who matter most are the very small and the very, very big.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.005030853279880518,
+            "class_probabilities": {
+                "human": 0.9949691467201195,
+                "ai": 0.005030853279880518,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9949691467201195,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.005030853279880518,
+                    "human": 0.9949691467201195,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°President Joe Biden is reportedly pondering support for a legislative package that would enact ethics rules with the force of law on the Supreme Court, as well as some sort of term limits.He should throw his weight behind such a proposal, which would be broadly popular with the American public and take aim at an out-of-control top court. Congress should pass it on the basis of self-preservation alone; the justices lately have seemed all too happy to take over increasing shares of the other branches’ powers.The need for such policies was already apparent two-and-a-half years ago, when a bipartisan presidential commission explored them in a 300-page report meant to be advisory. It has only become far more apparent as the Supreme Court has worked to reshape American policy and jurisprudence to its often right-wing whims.In the past few years the court has thrown out the right to abortion; tossed century-old gun restrictions because they did not sufficiently jibe with perceived historical norms, while upholding an ahistorical opening of the campaign finance spigot; signed off on politically-motivated gerrymandering; whittled down almost all consequences for public corruption; vested itself with the power to determine how administrative agency experts should interpret their mandates; and declared the president a king, immune from prosecution for a huge array of “official acts.”If a lot of this sounds geared towards anti-democratic governance and public corruption, that’s because the court is not only on board but has several justices directly benefiting. Sam Alito and Clarence Thomas both personally received undisclosed gifts from wealthy benefactors, with Thomas raking in millions while he just so happens to rule along patrons’ ideological preferences, and failing to recuse from cases involving 2020 attempted election theft, in which his wife had a direct hand.The process by which the conservative majority was created in the first place went against historical norms, twice. Senate Republicans refused to adhere to their constitutionally-mandated role in considering Merrick Garland’s nomination after the February 2016 death of Antonin Scalia, arguing that it was too close to the November election. Four years later, these Republicans sped through the nomination of Amy Coney Barrett after Trump nominated her less than two months before that year’s election.Neither was the normal process of how Supreme Court nominations were intended to work, and the upshot is that the right wing has given itself a largely bulletproof majority, even if the court occasionally fails to support its more extreme efforts.This doesn’t mean that Democrats should get into a court-packing arms race with Republicans, but some basic moves to have the other branches reassert their own authority and sap some of the dizzying power we’ve placed into this small handful of people is more than appropriate.At the very least, term limits could prevent these nakedly political mad scrambles to replace justices while one party holds the presidency or the Senate. And if we expect all of our elected officials to be bound by some standards of ethics and propriety, there’s sub-zero reason not to expect the same from some unelected ones, among the most powerful in the nation.— New York Daily NewsWASHINGTON — The gunman who tried to kill Donald Trump mounted a “sustained, detailed effort” to attack a major gathering of some sort before deciding to target the Republican presidential candidate at a Pennsylvania rally in July, FBI officials said on Wednesday.Record-setting University of Hawaii quarterback and 2007 Heisman Trophy finalist Colt Brennan has died, his father Terry Brennan told the Honolulu Star-Advertiser.In presidential fundraising these days, the donors who matter most are the very small and the very, very big."
+        }
+    ]
+}

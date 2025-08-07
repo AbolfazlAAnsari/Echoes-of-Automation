@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0008903385023586452,
+                    "sentence": "Published 4:53 pm Tuesday, September 12, 2023ByLetters to the EditorEditor:I think the city has done an amazing job with the new addition of the traffic cameras.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008831591112539172,
+                    "sentence": "Over the years there have been numerous deaths caused by speeding and drivers running red lights.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008727592066861689,
+                    "sentence": "Speeding has always been a major issue on the highways, residential areas, and school zones.Among the several locations where these cameras have been installed, the best choice to put them were in the school zone areas especially with the outstanding number of children deaths.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006236506160348654,
+                    "sentence": "It is important for drivers to be aware of speed limits within the school zone and stopping when a bus is stopped.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00040551350684836507,
+                    "sentence": "Thinking back to when the young lady was hit on her way to school in Norfolk should be another reason these cameras should have some impact on drivers to let them know they cannot get away with running a red light.As a mother with small children, not only do I have concerns about highway safety, but in our neighborhoods as well.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002649546368047595,
+                    "sentence": "Children are not safe when they play outside due to those who speed through these small neighborhoods.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09716224670410156,
+                    "sentence": "It was an excellent choice for the city to review highway safety and do something about it.Since warning citations are being mailed out, I hope drivers will open their eyes and realize that speeding will not only hurt drivers but their pockets as well with the violation fees.I am thankful the city has decided to do something to help reduce the number of deaths caused by those who speed.Natasha NorfleetSuffolkOn Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.22887302935123444,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.18411767482757568,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.06633669730667867,
+            "class_probabilities": {
+                "human": 0.9336633026933213,
+                "ai": 0.06633669730667867,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9336633026933213,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.06633669730667867,
+                    "human": 0.9336633026933213,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 4:53 pm Tuesday, September 12, 2023ByLetters to the EditorEditor:I think the city has done an amazing job with the new addition of the traffic cameras. Over the years there have been numerous deaths caused by speeding and drivers running red lights. Speeding has always been a major issue on the highways, residential areas, and school zones.Among the several locations where these cameras have been installed, the best choice to put them were in the school zone areas especially with the outstanding number of children deaths. It is important for drivers to be aware of speed limits within the school zone and stopping when a bus is stopped. Thinking back to when the young lady was hit on her way to school in Norfolk should be another reason these cameras should have some impact on drivers to let them know they cannot get away with running a red light.As a mother with small children, not only do I have concerns about highway safety, but in our neighborhoods as well. Children are not safe when they play outside due to those who speed through these small neighborhoods. It was an excellent choice for the city to review highway safety and do something about it.Since warning citations are being mailed out, I hope drivers will open their eyes and realize that speeding will not only hurt drivers but their pockets as well with the violation fees.I am thankful the city has decided to do something to help reduce the number of deaths caused by those who speed.Natasha NorfleetSuffolkOn Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

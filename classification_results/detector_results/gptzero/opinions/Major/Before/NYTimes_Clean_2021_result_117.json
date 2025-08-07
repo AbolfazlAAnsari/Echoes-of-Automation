@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.000530766963493079,
+                    "sentence": "Tom Coughlin, a former head coach of the New York Giants, on caring for his wife, Judy.This article also appears in the Opinion Today newsletter.You can sign up hereto receive it in your inbox each weekday morning.Tom Coughlin is best known as the head coach of the New York Giants, whose discipline and attention to detail led the team to two Super Bowl victories.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009227621485479176,
+                    "sentence": "Coughlinwrites today for Times Opinionabout a very different challenge ᅳ caring for his ailing wife, Judy, who hasprogressive supranuclear palsy, a brain disorder with no known cure.P.S.P.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001383014372549951,
+                    "sentence": "is rare ᅳ when I tried to find out how many Americans die from it each year, I couldn't track the number down.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013344504404813051,
+                    "sentence": "In 2019, however, it included my father-in-law, Walid Hindo.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009273242321796715,
+                    "sentence": "Dr. Hindo, who was born in Baghdad, moved his young family in the 1960s to the United States, where he became a well-regarded radiologist and an active member of his Syriac Catholic church.If you've ever cared for a seriously ill or grieving loved one, you'll understand how illness and death remake the world.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016596982022747397,
+                    "sentence": "P.S.P.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011569365160539746,
+                    "sentence": "is a disease that, as Coughlin details, steals your loved one from you, even before death.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011745929950848222,
+                    "sentence": "In his final years, Dr. Hindo's large extended family and church community pitched in to care for him ᅳ as well as numerous physicians, home health aides, specialists, therapists, nurses and social workers ᅳ but the majority of the work of coordinating his care still fell to his daughters and wife.As my colleague Michelle Cottle recently wrote, such caregiving can be an isolating journey for family members.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0026114042848348618,
+                    "sentence": "But,according to the latest figures, more than 53 million Americans report providing unpaid care to another adult or child over the past 12 months.In publishing Coughlin's essay, we hoped readers who are among those 53 million might find connection and a little bit of solace.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008662061882205307,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018821136327460408,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0038216286338865757,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.PHOTO: (PHOTOGRAPH BY A.J.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009993573650717735,
+                    "sentence": "Mast for The New York Times FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.020796750353547094,
+            "class_probabilities": {
+                "human": 0.9792032496464529,
+                "ai": 0.020796750353547094,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9792032496464529,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020796750353547094,
+                    "human": 0.9792032496464529,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tom Coughlin, a former head coach of the New York Giants, on caring for his wife, Judy.This article also appears in the Opinion Today newsletter.You can sign up hereto receive it in your inbox each weekday morning.Tom Coughlin is best known as the head coach of the New York Giants, whose discipline and attention to detail led the team to two Super Bowl victories. Coughlinwrites today for Times Opinionabout a very different challenge — caring for his ailing wife, Judy, who hasprogressive supranuclear palsy, a brain disorder with no known cure.P.S.P. is rare — when I tried to find out how many Americans die from it each year, I couldn’t track the number down. In 2019, however, it included my father-in-law, Walid Hindo. Dr. Hindo, who was born in Baghdad, moved his young family in the 1960s to the United States, where he became a well-regarded radiologist and an active member of his Syriac Catholic church.If you’ve ever cared for a seriously ill or grieving loved one, you’ll understand how illness and death remake the world. P.S.P. is a disease that, as Coughlin details, steals your loved one from you, even before death. In his final years, Dr. Hindo’s large extended family and church community pitched in to care for him — as well as numerous physicians, home health aides, specialists, therapists, nurses and social workers — but the majority of the work of coordinating his care still fell to his daughters and wife.As my colleague Michelle Cottle recently wrote, such caregiving can be an isolating journey for family members. But,according to the latest figures, more than 53 million Americans report providing unpaid care to another adult or child over the past 12 months.In publishing Coughlin’s essay, we hoped readers who are among those 53 million might find connection and a little bit of solace.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.PHOTO:  (PHOTOGRAPH BY A.J. Mast for The New York Times FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

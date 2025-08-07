@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.08880849927663803,
+                    "sentence": "Published 8:00 pm Friday, January 13, 2023BySuffolk News-Herald Editorial BoardIn times of division and uncertainty we often yearn for the kind of transformative leadership that was taken nearly 55 years ago when the Rev.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09587427973747253,
+                    "sentence": "Martin Luther King Jr. was murdered in Memphis.We need someone like him at the moment.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09170755743980408,
+                    "sentence": "Sadly, we seem more estranged as a people than we ever have.There are some glimpses of the world King envisioned and the message he carried with him in his tireless fight for racial equality.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.08803252130746841,
+                    "sentence": "The S. Delois Mayes Scholarship Foundation's annual Martin Luther King Jr. Day event Monday morning at River Stone Chophouse in North Suffolk will surely radiate the love for humanity the former minister preached and practiced.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.11382948607206345,
+                    "sentence": "He'd be proud of the Mayes Foundation's commitment to college scholarships to help young people achieve their dreams.Yet still, King's legacy of ᅳ to name a small sampling ᅳ bravery, principle, sacrifice, grace and peaceful activism is sorely lacking in so many of our influential public figures today.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.12670917809009552,
+                    "sentence": "On this, his birthday weekend, it becomes particularly striking that we have been bereft of King's massive presence for such a long time.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.15099279582500458,
+                    "sentence": "Generations of Americans know him only from the choppy, black-and-white reels of his awe-inspiring oratory.King's birthday is a unique national holiday in that it is devoted primarily to a person and the ideals he represented.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.7512577772140503,
+                    "sentence": "It is a day off that at the very least forces us to recognize the significance of the man.We would be better off as a country if we also took the opportunity to not only recognize King's accomplishments but honor his legacy by considering how we can improve our country and world by making it a more unified place.As we do every year, many of us gather to pay tribute, but hopefully to also take stock of what we can to forge solidarity and advance the causes of equality.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.7154587507247925,
+                    "sentence": "In the days and years ahead, we should consider King's lessons and strive toward the kind of country he died pursuing.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6710753440856934,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6338725090026855,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.30865340120314666,
+            "class_probabilities": {
+                "human": 0.6913465987968532,
+                "ai": 0.30865340120314666,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.6913465987968532,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.30865340120314666,
+                    "human": 0.6913465987968532,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 8:00 pm Friday, January 13, 2023BySuffolk News-Herald Editorial BoardIn times of division and uncertainty we often yearn for the kind of transformative leadership that was taken nearly 55 years ago when the Rev. Martin Luther King Jr. was murdered in Memphis.We need someone like him at the moment. Sadly, we seem more estranged as a people than we ever have.There are some glimpses of the world King envisioned and the message he carried with him in his tireless fight for racial equality. The S. Delois Mayes Scholarship Foundation’s annual Martin Luther King Jr. Day event Monday morning at River Stone Chophouse in North Suffolk will surely radiate the love for humanity the former minister preached and practiced. He’d be proud of the Mayes Foundation’s commitment to college scholarships to help young people achieve their dreams.Yet still, King’s legacy of — to name a small sampling — bravery, principle, sacrifice, grace and peaceful activism is sorely lacking in so many of our influential public figures today. On this, his birthday weekend, it becomes particularly striking that we have been bereft of King’s massive presence for such a long time. Generations of Americans know him only from the choppy, black-and-white reels of his awe-inspiring oratory.King’s birthday is a unique national holiday in that it is devoted primarily to a person and the ideals he represented. It is a day off that at the very least forces us to recognize the significance of the man.We would be better off as a country if we also took the opportunity to not only recognize King’s accomplishments but honor his legacy by considering how we can improve our country and world by making it a more unified place.As we do every year, many of us gather to pay tribute, but hopefully to also take stock of what we can to forge solidarity and advance the causes of equality. In the days and years ahead, we should consider King’s lessons and strive toward the kind of country he died pursuing.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

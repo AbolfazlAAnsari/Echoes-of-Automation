@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 1.801480357244145e-05,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°One of the things that makes the United States Senate what some call “the world's greatest deliberative body” is a rule structure that ensures even members of the minority party have a voice.That is generally to the good ᅳ unless one of those voices is ideologically obsessed with one topic to the point of holding the country hostage over it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.3337987184058875e-05,
+                    "sentence": "That's what Alabama Sen. Tommy Tuberville has been doing for months now, by blocking hundreds of senior military promotions in protest of the Pentagon's abortion access policy.But there were promising signs last week that that dam is near the breaking point, with several of Tuberville's frustrated fellow Republicans publicly demanding that he end it for the sake of military readiness.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.5676785551477224e-05,
+                    "sentence": "Some Democrats are now floating the idea of a temporary rule change that would effectively remove Tuberville's power to block the promotions.For passage, it would require a handful of Republicans to sign on.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.5517936592223123e-05,
+                    "sentence": "If they do, that would not only solve the dangerous problem at hand, but would demonstrate to the nation that, when it comes to national security, something resembling bipartisanship is still possible in Washington.Because the senior military promotions in question number more than 350, it's not feasible for the Senate to debate and vote upon them one by one, especially because there is virtually no opposition from either party to any of them.So such rounds of promotion are generally passed all at once, by what is called unanimous consent.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.8606656996998936e-05,
+                    "sentence": "Simply put, they all win passage automatically, unless some senator objects.For nine months now, Tuberville has been using that objection power to block unanimous consent of the promotions ᅳ not for any particular concerns about the military officials themselves, but over the unrelated issue of the Pentagon's abortion access policy.Following the U.S. Supreme Court's overturn last year of Roe v. Wade, numerous red states have outlawed abortion within their borders.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.9013866626191884e-05,
+                    "sentence": "This presents a dilemma for military personnel, who don't always have a choice as to where they are stationed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.4508415663149208e-05,
+                    "sentence": "A female soldier posted in, say, Missouri, where abortion has been outlawed, would be effectively denied the same biological rights as soldiers stationed next door in Illinois, where abortion remains legal.The Pentagon has addressed that dilemma with a new policy that gives female soldiers leaves of absence and transportation reimbursement if they need to travel out of the state where they are stationed in order to legally obtain abortion services.Tuberville argues that this amounts to illegal government funding of abortion.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006286862189881504,
+                    "sentence": "We would argue that travel reimbursement isn't abortion funding per se, and that the Pentagon's policy merely ensures that all women in the military have access to the same level of health care.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002755858295131475,
+                    "sentence": "The issue is certainly debatable ᅳ but Tuberville's strategy of hobbling the military in a time of global strife isn't the way to debate it.“No matter whether you believe it or not, Senator Tuberville, this is doing great damage to our military,” South Carolina Republican Sen. Lindsey Graham ᅳ no liberal slouch ᅳ said in a floor speech last week.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005785009125247598,
+                    "sentence": "“If this gets to be normal, God help the military, because every one of us could find some reason to object to policy.”The cooler heads in his party have an obligation to help Democrats break this dam.ᅳ St. Louis Post-DispatchA former Waiakea High School basketball coach and onetime University of Hawaii at Manoa hoops standout is facing two criminal charges for allegedly pocketing funds intended to finance hotel arrangements for a basketball team trip.KAILUA-KONA ᅳ After a seven-year hiatus, Ke Kula 'O 'Ehunuikaimalino girls volleyball is back in business.The Miami Dolphins have stamped their approval of coach Mike McDaniel for the long haul.HONOLULU ᅳ Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009868231136351824,
+                    "sentence": "Josh Green today announced the appointment of Matthias Kusch to fill the House District seat left vacant by the death of Rep. Mark Nakashima, who was unopposed in the recent primary election.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.005203089766913354,
+            "class_probabilities": {
+                "human": 0.9947969102330866,
+                "ai": 0.005203089766913354,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9947969102330866,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.005203089766913354,
+                    "human": 0.9947969102330866,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°One of the things that makes the United States Senate what some call “the world’s greatest deliberative body” is a rule structure that ensures even members of the minority party have a voice.That is generally to the good — unless one of those voices is ideologically obsessed with one topic to the point of holding the country hostage over it. That’s what Alabama Sen. Tommy Tuberville has been doing for months now, by blocking hundreds of senior military promotions in protest of the Pentagon’s abortion access policy.But there were promising signs last week that that dam is near the breaking point, with several of Tuberville’s frustrated fellow Republicans publicly demanding that he end it for the sake of military readiness. Some Democrats are now floating the idea of a temporary rule change that would effectively remove Tuberville’s power to block the promotions.For passage, it would require a handful of Republicans to sign on. If they do, that would not only solve the dangerous problem at hand, but would demonstrate to the nation that, when it comes to national security, something resembling bipartisanship is still possible in Washington.Because the senior military promotions in question number more than 350, it’s not feasible for the Senate to debate and vote upon them one by one, especially because there is virtually no opposition from either party to any of them.So such rounds of promotion are generally passed all at once, by what is called unanimous consent. Simply put, they all win passage automatically, unless some senator objects.For nine months now, Tuberville has been using that objection power to block unanimous consent of the promotions — not for any particular concerns about the military officials themselves, but over the unrelated issue of the Pentagon’s abortion access policy.Following the U.S. Supreme Court’s overturn last year of Roe v. Wade, numerous red states have outlawed abortion within their borders. This presents a dilemma for military personnel, who don’t always have a choice as to where they are stationed. A female soldier posted in, say, Missouri, where abortion has been outlawed, would be effectively denied the same biological rights as soldiers stationed next door in Illinois, where abortion remains legal.The Pentagon has addressed that dilemma with a new policy that gives female soldiers leaves of absence and transportation reimbursement if they need to travel out of the state where they are stationed in order to legally obtain abortion services.Tuberville argues that this amounts to illegal government funding of abortion. We would argue that travel reimbursement isn’t abortion funding per se, and that the Pentagon’s policy merely ensures that all women in the military have access to the same level of health care. The issue is certainly debatable — but Tuberville’s strategy of hobbling the military in a time of global strife isn’t the way to debate it.“No matter whether you believe it or not, Senator Tuberville, this is doing great damage to our military,” South Carolina Republican Sen. Lindsey Graham — no liberal slouch — said in a floor speech last week. “If this gets to be normal, God help the military, because every one of us could find some reason to object to policy.”The cooler heads in his party have an obligation to help Democrats break this dam.— St. Louis Post-DispatchA former Waiakea High School basketball coach and onetime University of Hawaii at Manoa hoops standout is facing two criminal charges for allegedly pocketing funds intended to finance hotel arrangements for a basketball team trip.KAILUA-KONA — After a seven-year hiatus, Ke Kula ‘O ‘Ehunuikaimalino girls volleyball is back in business.The Miami Dolphins have stamped their approval of coach Mike McDaniel for the long haul.HONOLULU — Gov. Josh Green today announced the appointment of Matthias Kusch to fill the House District seat left vacant by the death of Rep. Mark Nakashima, who was unopposed in the recent primary election."
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00018944276962429285,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002492889470886439,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe government should not beoffsetting the cost of food and energyfor middle and upper income earners.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00027027304167859256,
+                    "sentence": "The costs of both have been artificially held down for decades, by ignoring externalities such as climate change and soil degradation, and by outsourcing other costs to developing countries, primary producers in our own country, and future generations.These subsidies in turn encourage thoughtless and wasteful use of limited resources.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00034931430127471685,
+                    "sentence": "It is right that we should pay more - the moment of truth has been coming for years, and now it has finally arrived.But we absolutely should protect the poorest in society, so that they do not have to choose between heating and eating.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00026026475825347006,
+                    "sentence": "Another uplift to universal credit is urgently required.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00026616515242494643,
+                    "sentence": "The rest of us need to change our ways.Rachael PadmanNewmarket, SuffolkPrivatisationI see thatBoris Johnson, whose government is attempting to drive through an Elections Bill which will make it mandatory for voters to carry official identification, is now threatening to \"privatise the arse\" out of the Passport Office and the DVLA.Am I alone in envisaging a future in which obtaining a passport or a driving licence has become considerably more expensive than the procedures are at present?With his failure to follow proper parliamentary process and our unwritten constitution, his attempt to prorogue parliament itself, his packing of the House of Lords with stooges, his repeated smirking lies to MPs and the electorate, and now this threat to privatise access to voting, it can be no exaggeration to state that Johnson truly represents an existential threat to democracy in this country.How much longer will Conservative ministers tolerate him besmirching the good name of their party while undermining our country's institutions?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011618421413004398,
+                    "sentence": "No wonder he wants to outlaw protest.Julian SelfWolvertonUnfairly distractedComing back with my husband on the Tube this evening after a lovely meal to celebrate our wedding anniversary, I realised, to my horror, that I had been unconsciously crossing and uncrossing my legs for some time.I don't know what I was thinking and apologise unreservedly to anyone on the District line train to Ealing around 11pm who found themselves unfairly distracted - although most of you were effortlessly asleep.Beryl WallLondonRemarks about Angela RaynerOn the face of it, it would appear that the remarks quoted in The Mail on Sunday aboutAngela Rayner's legs were merely misogynistic.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereBut, on further reflection, could we not infer that this is an unwitting confession about the unnamed Tory MP's own focus of attention, and a revelation of what they see as the priorities of the prime minister?Susan AlexanderSouth GloucestershireWorking from homeJohn Murray suggests inLettersthat the prime minister buys Jacob Rees-Mogg a one-way ticket to Rwanda to prevent him continuing his back to work crusade.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019170981831848621,
+                    "sentence": "This is a wonderful fantasy.I have an alternative fantasy suggestion.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014064930146560073,
+                    "sentence": "The PM should put Rees-Mogg in a hotel in a commuter town for a month and require him to be at his desk in Westminster by 8.30am each day, having used rush hour public transport to get there.If he manages this, only then would he be allowed to make any more public comments about working from home.Alan PackCanterbury",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.009998674697021016,
+            "class_probabilities": {
+                "human": 0.990001325302979,
+                "ai": 0.009998674697021016,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.990001325302979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.009998674697021016,
+                    "human": 0.990001325302979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThe government should not beoffsetting the cost of food and energyfor middle and upper income earners. The costs of both have been artificially held down for decades, by ignoring externalities such as climate change and soil degradation, and by outsourcing other costs to developing countries, primary producers in our own country, and future generations.These subsidies in turn encourage thoughtless and wasteful use of limited resources. It is right that we should pay more - the moment of truth has been coming for years, and now it has finally arrived.But we absolutely should protect the poorest in society, so that they do not have to choose between heating and eating. Another uplift to universal credit is urgently required. The rest of us need to change our ways.Rachael PadmanNewmarket, SuffolkPrivatisationI see thatBoris Johnson, whose government is attempting to drive through an Elections Bill which will make it mandatory for voters to carry official identification, is now threatening to \"privatise the arse\" out of the Passport Office and the DVLA.Am I alone in envisaging a future in which obtaining a passport or a driving licence has become considerably more expensive than the procedures are at present?With his failure to follow proper parliamentary process and our unwritten constitution, his attempt to prorogue parliament itself, his packing of the House of Lords with stooges, his repeated smirking lies to MPs and the electorate, and now this threat to privatise access to voting, it can be no exaggeration to state that Johnson truly represents an existential threat to democracy in this country.How much longer will Conservative ministers tolerate him besmirching the good name of their party while undermining our country's institutions? No wonder he wants to outlaw protest.Julian SelfWolvertonUnfairly distractedComing back with my husband on the Tube this evening after a lovely meal to celebrate our wedding anniversary, I realised, to my horror, that I had been unconsciously crossing and uncrossing my legs for some time.I don't know what I was thinking and apologise unreservedly to anyone on the District line train to Ealing around 11pm who found themselves unfairly distracted - although most of you were effortlessly asleep.Beryl WallLondonRemarks about Angela RaynerOn the face of it, it would appear that the remarks quoted in The Mail on Sunday aboutAngela Rayner's legs were merely misogynistic.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereBut, on further reflection, could we not infer that this is an unwitting confession about the unnamed Tory MP's own focus of attention, and a revelation of what they see as the priorities of the prime minister?Susan AlexanderSouth GloucestershireWorking from homeJohn Murray suggests inLettersthat the prime minister buys Jacob Rees-Mogg a one-way ticket to Rwanda to prevent him continuing his back to work crusade. This is a wonderful fantasy.I have an alternative fantasy suggestion. The PM should put Rees-Mogg in a hotel in a commuter town for a month and require him to be at his desk in Westminster by 8.30am each day, having used rush hour public transport to get there.If he manages this, only then would he be allowed to make any more public comments about working from home.Alan PackCanterbury"
+        }
+    ]
+}

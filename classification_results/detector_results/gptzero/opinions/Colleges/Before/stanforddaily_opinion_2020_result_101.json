@@ -1,0 +1,184 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 7.51641855458729e-05,
+                    "sentence": "Frankly Speaking is aimed at extending discourse and debate on important subjects beyond The Daily's staffers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.494785288348794e-05,
+                    "sentence": "We want to hear the Stanford community's takes on the controversial topics and vital realities we confront.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.6440992921125144e-05,
+                    "sentence": "This week's topic:Should Stanford be reopening in the Fall?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.954861939651892e-05,
+                    "sentence": "In late June, the Universityannouncedits plans for a return to campus in the fall.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.727649062871933e-05,
+                    "sentence": "First-years and sophomores would be invited back to campus for the fall and summer quarters, while juniors and seniors would be allowed back for the winter and spring quarters.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.952534310286865e-05,
+                    "sentence": "Now, with Covid-19 cases seeing aresurgenceacross California and in the Bay Area, that original plan has come into question.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.056313137989491e-05,
+                    "sentence": "In itsRe-Approaching Stanfordnewsletter, the University announced on Wednesday, July 22 that it mightreconsiderits plan for a return to campus, with a final decision coming in “mid- to late-August.”",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.814529817551374e-05,
+                    "sentence": "Other universities have reversed reopening plans or are reopening to a comparatively limited extent.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.0174668760737404e-05,
+                    "sentence": "The University of Southern California hasreversedits reopening plans since a coronavirus surge in Los Angeles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.067256228765473e-05,
+                    "sentence": "And Harvard University isonly invitingfirst-year students and “select upperclassmen” back to campus.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.8256937336409464e-05,
+                    "sentence": "As Stanford awaits guidance from California Governor's Office for higher education and conditions continue to worsen, the community faces an uncertain future.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.805422162869945e-05,
+                    "sentence": "We want to know what you make of Stanford's fall plans.Should Stanford be re-opening this fall?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.420785889029503e-05,
+                    "sentence": "Why or why not?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012922583846375346,
+                    "sentence": "Here's the link for submissions:https://forms.gle/ZYd4gWt9B2hiTP9N6.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001346934150205925,
+                    "sentence": "If you have any questions, please email opinions 'at' stanforddaily.com.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 2,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 3,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 5,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 7,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 10,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 13,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                }
+            ],
+            "completely_generated_prob": 0.004992955483599872,
+            "class_probabilities": {
+                "human": 0.9950070445164001,
+                "ai": 0.004992955483599872,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9950070445164001,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.004992955483599872,
+                    "human": 0.9950070445164001,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Frankly Speaking is aimed at extending discourse and debate on important subjects beyond The Daily’s staffers. We want to hear the Stanford community’s takes on the controversial topics and vital realities we confront.\nThis week’s topic:Should Stanford be reopening in the Fall?\nIn late June, the Universityannouncedits plans for a return to campus in the fall. First-years and sophomores would be invited back to campus for the fall and summer quarters, while juniors and seniors would be allowed back for the winter and spring quarters.\nNow, with Covid-19 cases seeing aresurgenceacross California and in the Bay Area, that original plan has come into question. In itsRe-Approaching Stanfordnewsletter, the University announced on Wednesday, July 22 that it mightreconsiderits plan for a return to campus, with a final decision coming in “mid- to late-August.”\nOther universities have reversed reopening plans or are reopening to a comparatively limited extent. The University of Southern California hasreversedits reopening plans since a coronavirus surge in Los Angeles. And Harvard University isonly invitingfirst-year students and “select upperclassmen” back to campus.\nAs Stanford awaits guidance from California Governor’s Office for higher education and conditions continue to worsen, the community faces an uncertain future. We want to know what you make of Stanford’s fall plans.Should Stanford be re-opening this fall? Why or why not?\nHere’s the link for submissions :https://forms.gle/ZYd4gWt9B2hiTP9N6. If you have any questions, please email opinions ‘at’ stanforddaily.com.\n\n"
+        }
+    ]
+}

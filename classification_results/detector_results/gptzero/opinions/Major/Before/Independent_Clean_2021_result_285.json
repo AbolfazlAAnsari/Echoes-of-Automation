@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00016361448797397316,
+                    "sentence": "Please send your letters toletters@independent.co.ukIsn't it time forBoris Johnsonto stop using so much figurative speech?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016392735415138304,
+                    "sentence": "He has the temerity to tell the world's leaders at theUNto be \"awesome\" at November's climate change summit in Glasgow, speaks of Kermit the Frog, and states, \"It is time for humanity to grow up.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017968281463254243,
+                    "sentence": "\"Surely it is time for Johnson to \"grow up\"?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022778744460083544,
+                    "sentence": "He has much to address in the UK which needs a \"grown-up\" approach and action, including the NHS, social care, HGV driver shortages, universal credit, gas supplies, inhumane treatment of refugees, and many more.Come on Mr Johnson, \"grow up\" yourself and get these issues resolved before telling other leaders how to behave.Paul R DraperWinchesterSo George \"useless\" Eustice, head of Defra (Department for Environment, Food and Rural Affairs) has declared that he is \"comfortable\" with theuniversal creditcut, as has Therese Coffey, secretary for work and pensions.Eustice is, of course, the person responsible forGeronimo the alpacabeing killed as a result of his stubborn, point blank refusal to allow the animal's owner Helen Macdonald to do a third BTB (bovine tuberculosis test) to prove that he did not have the disease.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022278024698607624,
+                    "sentence": "He's a man who, in many people's opinion, should resign as a result of his bloody-minded and cruelly inflexible decision.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002795024774968624,
+                    "sentence": "Moreover, he's a man who even refused to let Ms Macdonald have her beloved pet's ashes to bury.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003930452512577176,
+                    "sentence": "The way the whole thing was handled was beyond disgraceful.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00036201695911586285,
+                    "sentence": "It was callous, cold-hearted and spiteful from beginning to harrowing end.While Therese Coffey hasdeclared herself to be \"happy\"with the universal credit cut plan, which will affect millions of children.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005656104069203138,
+                    "sentence": "How anybody could condone the removal of the paltry £20 a week universal credit payment for the poorest families in society is quite simply monstrous, especially now that energy prices are going to rise significantly.Both of these ministers come across as completely ruthless individuals with zero conscience, determined to push ahead with their personal agendas regardless of the consequences.Linda EvansLondonIf the 2008 financial crunch was Labour's fault, as repeatedly claimed by the Tories, then by the same criteria it follows that the energy crisis is the fault of the Conservatives.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005596413277089596,
+                    "sentence": "At least during the financial crisis, Gordon Brown showed global leadership.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005160692147910595,
+                    "sentence": "Sadly the same cannot be said for Boris Johnson.Arthur StreatfieldBathWhile abuse is always unacceptable, doGPsever reflect on why their patients are becoming so agitated?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005505370441824198,
+                    "sentence": "Maybe because most practices have had their doors slammed shut for months is part of the problem.I accept that vaccination programmes have presented problems, but wonder if this work is administrative and organisational.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006695304531604052,
+                    "sentence": "Practices now seem to have armies of admin staff who might deal with this.Dr Anthony IngletonSheffieldRead MoreReshuffle in full: Who is out and who has been promoted?Boris Johnson flexes muscles with cabinet shake-up for post-Covid eraPM won't say how Universal Credit claimants can recoup lost £20-a-week",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukIsn't it time forBoris Johnsonto stop using so much figurative speech? He has the temerity to tell the world's leaders at theUNto be \"awesome\" at November's climate change summit in Glasgow, speaks of Kermit the Frog, and states, \"It is time for humanity to grow up.\"Surely it is time for Johnson to \"grow up\"? He has much to address in the UK which needs a \"grown-up\" approach and action, including the NHS, social care, HGV driver shortages, universal credit, gas supplies, inhumane treatment of refugees, and many more.Come on Mr Johnson, \"grow up\" yourself and get these issues resolved before telling other leaders how to behave.Paul R DraperWinchesterSo George \"useless\" Eustice, head of Defra (Department for Environment, Food and Rural Affairs) has declared that he is \"comfortable\" with theuniversal creditcut, as has Therese Coffey, secretary for work and pensions.Eustice is, of course, the person responsible forGeronimo the alpacabeing killed as a result of his stubborn, point blank refusal to allow the animal's owner Helen Macdonald to do a third BTB (bovine tuberculosis test) to prove that he did not have the disease. He's a man who, in many people's opinion, should resign as a result of his bloody-minded and cruelly inflexible decision. Moreover, he's a man who even refused to let Ms Macdonald have her beloved pet's ashes to bury. The way the whole thing was handled was beyond disgraceful. It was callous, cold-hearted and spiteful from beginning to harrowing end.While Therese Coffey hasdeclared herself to be \"happy\"with the universal credit cut plan, which will affect millions of children. How anybody could condone the removal of the paltry £20 a week universal credit payment for the poorest families in society is quite simply monstrous, especially now that energy prices are going to rise significantly.Both of these ministers come across as completely ruthless individuals with zero conscience, determined to push ahead with their personal agendas regardless of the consequences.Linda EvansLondonIf the 2008 financial crunch was Labour's fault, as repeatedly claimed by the Tories, then by the same criteria it follows that the energy crisis is the fault of the Conservatives. At least during the financial crisis, Gordon Brown showed global leadership. Sadly the same cannot be said for Boris Johnson.Arthur StreatfieldBathWhile abuse is always unacceptable, doGPsever reflect on why their patients are becoming so agitated? Maybe because most practices have had their doors slammed shut for months is part of the problem.I accept that vaccination programmes have presented problems, but wonder if this work is administrative and organisational. Practices now seem to have armies of admin staff who might deal with this.Dr Anthony IngletonSheffieldRead MoreReshuffle in full: Who is out and who has been promoted?Boris Johnson flexes muscles with cabinet shake-up for post-Covid eraPM won't say how Universal Credit claimants can recoup lost £20-a-week"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 4.479094423004426e-05,
+                    "sentence": "Professor Rory Medcalf's incisive opinion piece (\"Five dangerous myths in Australia's relations with China\", September 12) lays bare China's recent aggressive, alienating and coercive tactics in the context of a long strategy of internal and external control, driven by the unquestioned power of President Xi Jinping.Medcalf rightly characterises these tactics not as an issue of Australia-China relations but as a matter of much more global proportions.The starting point for a more robust Australian response is to shape policy and actions driven by our own long strategy, not just in managing our relations with China, but in better crafting our long-term goals and role in the world.Foreign policy cannot be sustainably managed just by protecting an economy overreliant on one trade partner.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.306939445086755e-05,
+                    "sentence": "We need a much more \"whole of government\" policy framework that allows nuanced responses to current challenges, like China's recent aggression, but, like China's \"long march\", is focused on longer term goals that, in Australia's case, are shaped by emerging trends, opportunities and challenges.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.22129342041444e-05,
+                    "sentence": "A strategy that has diversity at its heart (markets, trading partners, foreign relations) allowing for rapid and robust responses to shocks and tactical challenges, while keeping an eye on our sovereign aspirations.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.8921716117765754e-05,
+                    "sentence": "It can be a hard road but one with Australia's broader strategic interests clearly in focus.Andrew RussellCarrickalinga, SA",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 4,
+                    "completely_generated_prob": 0.0006564766595293492
+                }
+            ],
+            "completely_generated_prob": 0.006576924694833349,
+            "class_probabilities": {
+                "human": 0.9934230753051666,
+                "ai": 0.006576924694833349,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9934230753051666,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006576924694833349,
+                    "human": 0.9934230753051666,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Professor Rory Medcalf's incisive opinion piece (\"Five dangerous myths in Australia's relations with China\", September 12) lays bare China's recent aggressive, alienating and coercive tactics in the context of a long strategy of internal and external control, driven by the unquestioned power of President Xi Jinping.Medcalf rightly characterises these tactics not as an issue of Australia-China relations but as a matter of much more global proportions.The starting point for a more robust Australian response is to shape policy and actions driven by our own long strategy, not just in managing our relations with China, but in better crafting our long-term goals and role in the world.Foreign policy cannot be sustainably managed just by protecting an economy overreliant on one trade partner. We need a much more \"whole of government\" policy framework that allows nuanced responses to current challenges, like China's recent aggression, but, like China's \"long march\", is focused on longer term goals that, in Australia's case, are shaped by emerging trends, opportunities and challenges. A strategy that has diversity at its heart (markets, trading partners, foreign relations) allowing for rapid and robust responses to shocks and tactical challenges, while keeping an eye on our sovereign aspirations. It can be a hard road but one with Australia's broader strategic interests clearly in focus.Andrew RussellCarrickalinga, SA"
+        }
+    ]
+}

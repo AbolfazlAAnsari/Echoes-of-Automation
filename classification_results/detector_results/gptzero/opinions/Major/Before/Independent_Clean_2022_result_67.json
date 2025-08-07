@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0001290102954953909,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016717295511625707,
+                    "sentence": "Please send your letters toletters@independent.co.ukAgain today my inbox was filled with \"charitable\" invitations to classical concerts, theatre performances, poetry readings, street collections, you name it - all ending with words along the lines of: \"We stand with the people ofUkraine, do you?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002035866491496563,
+                    "sentence": "\"I am Dutch, I was just seven years old when the Second World War started, and I can tell you a thing or two about what it feels like.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016299185517709702,
+                    "sentence": "Of course I stand with the people of Ukraine, how could I not?But tell me, when I stand with victims of war inSyria, Yemen, Somalia and more, why do I so often weep for them alone?Jenny BackwellHoveAs somebody who has lived in Russia, Ukraine and Belarus, the current crisis perturbs me greatly.However, I notice a difference in public opinion between taking in Ukrainians as opposed to their Syrian and Libyan predecessors.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012459672871045768,
+                    "sentence": "Is it because the former are white?Cole DavisNorwichBoycotting Shell productsThe disgraceful news that Royal Dutch Shell is still buying Russian oil, despite the appalling atrocities being committed by Russia in Ukraine, is an outrage to all right-thinking people.Their statement claiming that they will set up a charity to benefit Ukraine with the profits is little more than window dressing.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015426894242409617,
+                    "sentence": "Russia will still profit from their sales to Shell.We must show this company that their actions are unacceptable, by boycotting all Shell products until Ukraine is free again.I will be avoiding Shell petrol stations and other products until then, and checking whether my local supermarkets use Shell as their fuel supplier.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00023177317052613944,
+                    "sentence": "If so, I will be avoiding their petrol stations too.Ian McnicholasEbbw ValeIncompetence and BrexitThe accusation against the UK for \"lack of humanity\" is unfair.The British people are as humane as any other race.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004640765837393701,
+                    "sentence": "The problem in this case is a blend of ministerial incompetence, a dearth of leadership, and a sentiment that the Brexit \"victory\" allows a return to the odious nationalism that is indistinguishable from overt racism.Matt MinshallBrittany, FranceTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereConcessionsNo one now has the slightest doubt that Russia could destroy Ukraine.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003881638403981924,
+                    "sentence": "President Putin has demonstrated that he is able, if he chooses, to inflict nuclear disaster on Ukraine, Europe and the world.He needs to be assured that he needs go no further.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005644490011036396,
+                    "sentence": "And now, he can demonstrate his statesmanship and withdraw, having made his point.It might well be that in order to convince him of this, concessions have to be made.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009190404089167714,
+                    "sentence": "\"Appeasement\" is regarded as a dirty word; strong leaders do not wish to appear to be indulging in it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007136548520065844,
+                    "sentence": "But unless Putin is allowed to claim that he has achieved something in Ukraine, the alternative could be unthinkable.And it can be hoped that his presidency may not be for very much longer and that his successor, in the light of economic sanctions, may take a more measured view.Susan AlexanderSouth Gloucestershire",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.015281828032010496,
+            "class_probabilities": {
+                "human": 0.9847181719679895,
+                "ai": 0.015281828032010496,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9847181719679895,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.015281828032010496,
+                    "human": 0.9847181719679895,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukAgain today my inbox was filled with \"charitable\" invitations to classical concerts, theatre performances, poetry readings, street collections, you name it - all ending with words along the lines of: \"We stand with the people ofUkraine, do you?\"I am Dutch, I was just seven years old when the Second World War started, and I can tell you a thing or two about what it feels like. Of course I stand with the people of Ukraine, how could I not?But tell me, when I stand with victims of war inSyria, Yemen, Somalia and more, why do I so often weep for them alone?Jenny BackwellHoveAs somebody who has lived in Russia, Ukraine and Belarus, the current crisis perturbs me greatly.However, I notice a difference in public opinion between taking in Ukrainians as opposed to their Syrian and Libyan predecessors. Is it because the former are white?Cole DavisNorwichBoycotting Shell productsThe disgraceful news that Royal Dutch Shell is still buying Russian oil, despite the appalling atrocities being committed by Russia in Ukraine, is an outrage to all right-thinking people.Their statement claiming that they will set up a charity to benefit Ukraine with the profits is little more than window dressing. Russia will still profit from their sales to Shell.We must show this company that their actions are unacceptable, by boycotting all Shell products until Ukraine is free again.I will be avoiding Shell petrol stations and other products until then, and checking whether my local supermarkets use Shell as their fuel supplier. If so, I will be avoiding their petrol stations too.Ian McnicholasEbbw ValeIncompetence and BrexitThe accusation against the UK for \"lack of humanity\" is unfair.The British people are as humane as any other race. The problem in this case is a blend of ministerial incompetence, a dearth of leadership, and a sentiment that the Brexit \"victory\" allows a return to the odious nationalism that is indistinguishable from overt racism.Matt MinshallBrittany, FranceTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereConcessionsNo one now has the slightest doubt that Russia could destroy Ukraine. President Putin has demonstrated that he is able, if he chooses, to inflict nuclear disaster on Ukraine, Europe and the world.He needs to be assured that he needs go no further. And now, he can demonstrate his statesmanship and withdraw, having made his point.It might well be that in order to convince him of this, concessions have to be made.\"Appeasement\" is regarded as a dirty word; strong leaders do not wish to appear to be indulging in it. But unless Putin is allowed to claim that he has achieved something in Ukraine, the alternative could be unthinkable.And it can be hoped that his presidency may not be for very much longer and that his successor, in the light of economic sanctions, may take a more measured view.Susan AlexanderSouth Gloucestershire"
+        }
+    ]
+}

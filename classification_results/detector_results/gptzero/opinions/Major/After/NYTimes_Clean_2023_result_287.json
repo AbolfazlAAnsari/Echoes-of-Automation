@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 3.015205220435746e-05,
+                    "sentence": "Rachel Goldberg's adult son is still being held hostage by Hamas.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.842377216438763e-05,
+                    "sentence": "“I have no clue how I am able to function,” she says.Rachel Goldberg's 23-year-old son, Hersh, was abducted by Hamas at a music festival in southern Israel on Oct. 7.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.79584237432573e-05,
+                    "sentence": "In this interview with the Opinion editor Sarah Wildman, Ms. Goldberg reflects on the past two months of the crisis, the recent pause in fighting and the brief moments of “delicious, thankful respite” she felt as hostages returned home ᅳ even as her son remains captive.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.561111432441976e-05,
+                    "sentence": "And she argues the hostage plight should be treated as a humanitarian crisis, not a political one.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.0031707865418866e-05,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.389931589481421e-05,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.5402874598512426e-05,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,Instagram,TikTok,XandThreads.This episode of “The Opinions” was produced by Jillian Weinberger.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.5439242967404425e-05,
+                    "sentence": "It was edited by Kaari Pitkin, Annie-Rose Strasser and Alison Bruzek.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.355450412025675e-05,
+                    "sentence": "Mixing by Isaac Jones.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.514271131483838e-05,
+                    "sentence": "Original music by Isaac Jones and Pat McCusker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.543533527292311e-05,
+                    "sentence": "Fact-checking by Mary Marge Locker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.258748180698603e-05,
+                    "sentence": "Audience strategy by Kristina Samulewski and Shannon Busta.PHOTO: (PHOTOGRAPH BY Illustration by The New York Times; Photograph by Ohad Zwigenberg/Associated Press FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.004992955483599872,
+            "class_probabilities": {
+                "human": 0.9950070445164001,
+                "ai": 0.004992955483599872,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9950070445164001,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.004992955483599872,
+                    "human": 0.9950070445164001,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Rachel Goldberg’s adult son is still being held hostage by Hamas. “I have no clue how I am able to function,” she says.Rachel Goldberg’s 23-year-old son, Hersh, was abducted by Hamas at a music festival in southern Israel on Oct. 7. In this interview with the Opinion editor Sarah Wildman, Ms. Goldberg reflects on the past two months of the crisis, the recent pause in fighting and the brief moments of “delicious, thankful respite” she felt as hostages returned home — even as her son remains captive. And she argues the hostage plight should be treated as a humanitarian crisis, not a political one.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,Instagram,TikTok,XandThreads.This episode of “The Opinions” was produced by Jillian Weinberger. It was edited by Kaari Pitkin, Annie-Rose Strasser and Alison Bruzek. Mixing by Isaac Jones. Original music by Isaac Jones and Pat McCusker. Fact-checking by Mary Marge Locker. Audience strategy by Kristina Samulewski and Shannon Busta.PHOTO:  (PHOTOGRAPH BY Illustration by The New York Times; Photograph by Ohad Zwigenberg/Associated Press FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

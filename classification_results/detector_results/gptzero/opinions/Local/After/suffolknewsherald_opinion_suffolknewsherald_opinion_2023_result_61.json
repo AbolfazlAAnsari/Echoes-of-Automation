@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.000707001076079905,
+                    "sentence": "Published 5:34 pm Tuesday, April 25, 2023ByLetters to the EditorDear Editor,Once again, it is time for citizens to take action to ensure that a true Republican gets the nomination to the 17thDistrict for state Senate.Emily Brewer has been a Republican for many years and worked to get other Republicans, including President Trump, elected long before she first became a candidate in 2017 for the 64thdistrict of the state house.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005441632820293307,
+                    "sentence": "I endorsed her then and she has more than earned my endorsement to be the Republican nominee in the 17thSenatorial District.Emily has served us well and worked very hard to ensure that we are well represented as she completes her sixth year of proven service to our 64thdistrict in the state house.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005294084548950195,
+                    "sentence": "Six years of proven and successful service to the citizens.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003964920178987086,
+                    "sentence": "I don't know of anyone else running for the nomination that has that kind of proven record.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004541772068478167,
+                    "sentence": "It is very easy to appear at big gatherings of supporters; flash a big smile, use a well used list of “things I'm going to do,” and then go on about what a great job you are going to do.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004666088498197496,
+                    "sentence": "It is entirely another thing to have a proven record of service that includes considerable accomplishments; often in a politically difficult environment with the other party in the majority.How hard is it to choose between someone with a proven record; with a reputation of simply outworking her opponents and other candidates that seem to be all hat and no cattle?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04425903782248497,
+                    "sentence": "I, as a proud Virginian, know this ain't Texas but we do know the difference between a proven workhorse and a bunch of hot air.Please join me in honoring Emily Brewer with our votes not just for her but for our great state of Virginia June 3.Al CasteenSmithfieldCorbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.027432270348072052,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.06633669730667867,
+            "class_probabilities": {
+                "human": 0.9336633026933213,
+                "ai": 0.06633669730667867,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9336633026933213,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.06633669730667867,
+                    "human": 0.9336633026933213,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:34 pm Tuesday, April 25, 2023ByLetters to the EditorDear Editor,Once again, it is time for citizens to take action to ensure that a true Republican gets the nomination to the 17thDistrict for state Senate.Emily Brewer has been a Republican for many years and worked to get other Republicans, including President Trump, elected long before she first became a candidate in 2017 for the 64thdistrict of the state house. I endorsed her then and she has more than earned my endorsement to be the Republican nominee in the 17thSenatorial District.Emily has served us well and worked very hard to ensure that we are well represented as she completes her sixth year of proven service to our 64thdistrict in the state house. Six years of proven and successful service to the citizens. I don’t know of anyone else running for the nomination that has that kind of proven record. It is very easy to appear at big gatherings of supporters; flash a big smile, use a well used list of “things I’m going to do,” and then go on about what a great job you are going to do. It is entirely another thing to have a proven record of service that includes considerable accomplishments; often in a politically difficult environment with the other party in the majority.How hard is it to choose between someone with a proven record; with a reputation of simply outworking her opponents and other candidates that seem to be all hat and no cattle? I, as a proud Virginian, know this ain’t Texas but we do know the difference between a proven workhorse and a bunch of hot air.Please join me in honoring Emily Brewer with our votes not just for her but for our great state of Virginia June 3.Al CasteenSmithfieldCorbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…"
+        }
+    ]
+}

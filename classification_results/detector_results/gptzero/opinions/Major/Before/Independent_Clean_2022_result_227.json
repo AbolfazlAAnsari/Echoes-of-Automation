@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0003611691063269973,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002929511829279363,
+                    "sentence": "Please send your letters toletters@independent.co.ukGiven the magnitude of the economic crisis facing the UK it seems likely that we will soon be in need of a national government.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003085053467657417,
+                    "sentence": "In that case, who better to lead it thanGordon Brown- the man who palpably saved our country (and indeed the world) from the worst effects of the 2008 crash.Neither Truss or Sunak would seem to have the breadth of vision or political weight to carry us through what looks like a very choppy voyage.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002115181996487081,
+                    "sentence": "Many will feel that Brown would.Rev Andrew McLuskeyAshfordChild Q was the tip of the icebergWhen the \"Child Q\" scandal broke in Marchthis year, people were outraged that a 15-year-old Hackney schoolgirl had been subjected to a “traumatic” intimate strip-search by two femaleMetropolitan Policeofficers without another adult being present.Hundreds of us protested outside Hackney Town Hall to demand the sacking of the officers involved, including those that sanctioned it, and for police to be taken out of schools.But we now knowChild Q was just the tip of the iceberg.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003421748988330364,
+                    "sentence": "This constitutes child abuse on a mass scale.Small wonder that the profoundly dysfunctional Metropolitan Police is now in “special measures” because it “is not succeeding in managing, mitigating, or eradicating” causes for concern.The full horror of the strip-searching of children by the Met comes after a series of scandals involving the force which include theabuse of power at the vigil for Sarah Everard, thedisrespect shown to the bodies of Nicole Smallman and Bibba Henry, the dissemination ofracist and misogynist messages between police officers, and their failure to properly investigate Partygate.How long do Londoners have to wait for the Met Police to clean up their act?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005698632448911667,
+                    "sentence": "Never mind special measures - it is clear that the Metropolitan Police force is incapable of reform.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001416740007698536,
+                    "sentence": "It must be disbanded.Sasha SimicLondonTaking responsibilityI hear that the latest health secretary, Steve Barclay,has recognised that there is a manpower crisisand, as an eminently sensible measure, will look to boost recruitment from overseas before winter exacerbates the situation.How strange that this secretary of state has exactly the same name as the man who, between November 2018 and January 2020, held the post of secretary of state for exiting the European Union, and who must bear part of the responsibility for the disastrous Brexit agreement that played a significant part in causing the crisis.Phil WhitneyDerbyshireThe tragic loss of Archie BattersbeeThe case ofArchie Battersbeehastouched the hearts of many peopleand exercised legal minds about the rights of parents to control a sick child's medical care.The concept of the “best interests of the child” has been used by the medical team who have been caring for this little boy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015912437811493874,
+                    "sentence": "That concept is enshrined in UK law under the Children Act 1989 which is used mostly in day to day decisions by social workers who have a legal duty to protect children from harm.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereBut it does raise the issue of how much control parents actually have once the child becomes a client of public services.In my 40-year experience in social work I've encountered parents who are culturally averse to challenging authority figures, as well as those who will fight any and every decision.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0023119193501770496,
+                    "sentence": "Beneath the legal arguments and heartfelt wishes of the parents is a fundamental human process of grief which involves a process of shock, denial, anger, guilt and finally acceptance.In a sense, this case is not about Archie but his parents' feelings and how they want to experience his final moments.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002497649984434247,
+                    "sentence": "I hope they will feel able to accept support offered to them in the coming months as they process what has been a painful journey.Steven WalkerEssex",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.006635186464044889,
+            "class_probabilities": {
+                "human": 0.9933648135359551,
+                "ai": 0.006635186464044889,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933648135359551,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006635186464044889,
+                    "human": 0.9933648135359551,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukGiven the magnitude of the economic crisis facing the UK it seems likely that we will soon be in need of a national government. In that case, who better to lead it thanGordon Brown– the man who palpably saved our country (and indeed the world) from the worst effects of the 2008 crash.Neither Truss or Sunak would seem to have the breadth of vision or political weight to carry us through what looks like a very choppy voyage. Many will feel that Brown would.Rev Andrew McLuskeyAshfordChild Q was the tip of the icebergWhen the \"Child Q\" scandal broke in Marchthis year, people were outraged that a 15-year-old Hackney schoolgirl had been subjected to a “traumatic” intimate strip-search by two femaleMetropolitan Policeofficers without another adult being present.Hundreds of us protested outside Hackney Town Hall to demand the sacking of the officers involved, including those that sanctioned it, and for police to be taken out of schools.But we now knowChild Q was just the tip of the iceberg.  This constitutes child abuse on a mass scale.Small wonder that the profoundly dysfunctional Metropolitan Police is now in “special measures” because it “is not succeeding in managing, mitigating, or eradicating” causes for concern.The full horror of the strip-searching of children by the Met comes after a series of scandals involving the force which include theabuse of power at the vigil for Sarah Everard, thedisrespect shown to the bodies of Nicole Smallman and Bibba Henry, the dissemination ofracist and misogynist messages between police officers, and their failure to properly investigate Partygate.How long do Londoners have to wait for the Met Police to clean up their act? Never mind special measures – it is clear that the Metropolitan Police force is incapable of reform. It must be disbanded.Sasha SimicLondonTaking responsibilityI hear that the latest health secretary, Steve Barclay,has recognised that there is a manpower crisisand, as an eminently sensible measure, will look to boost recruitment from overseas before winter exacerbates the situation.How strange that this secretary of state has exactly the same name as the man who, between November 2018 and January 2020, held the post of secretary of state for exiting the European Union, and who must bear part of the responsibility for the disastrous Brexit agreement that played a significant part in causing the crisis.Phil WhitneyDerbyshireThe tragic loss of Archie BattersbeeThe case ofArchie Battersbeehastouched the hearts of many peopleand exercised legal minds about the rights of parents to control a sick child’s medical care.The concept of the “best interests of the child” has been used by the medical team who have been caring for this little boy. That concept is enshrined in UK law under the Children Act 1989 which is used mostly in day to day decisions by social workers who have a legal duty to protect children from harm.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereBut it does raise the issue of how much control parents actually have once the child becomes a client of public services.In my 40-year experience in social work I’ve encountered parents who are culturally averse to challenging authority figures, as well as those who will fight any and every decision. Beneath the legal arguments and heartfelt wishes of the parents is a fundamental human process of grief which involves a process of shock, denial, anger, guilt and finally acceptance.In a sense, this case is not about Archie but his parents’ feelings and how they want to experience his final moments. I hope they will feel able to accept support offered to them in the coming months as they process what has been a painful journey.Steven WalkerEssex"
+        }
+    ]
+}

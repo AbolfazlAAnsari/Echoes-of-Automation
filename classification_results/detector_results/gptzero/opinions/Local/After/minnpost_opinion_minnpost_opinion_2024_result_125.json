@@ -1,0 +1,100 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0074964663945138454,
+                    "sentence": "From local coverage to the presidential race,.Cityscape| Twin Cities urban geographer Bill Lindeke weighs in on city life, transportation, planning and more in his column delivered to your inbox weekly.When you have as much rain in a short period of time as southern Minnesota has had in recent days, flooding is almost inevitable.Austin dealt with the most impactful flooding it's seen since 2004 when the Cedar River in Austin reached 25 feet and Turtle Creek reached 14.8 feet.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005736463237553835,
+                    "sentence": "Levels came close to that this time around at 20.70 feet and 12.64, respectively.The difference, however, was flood mitigation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0067853922955691814,
+                    "sentence": "After 2004's flood, the city and Mower County agencies took aggressive action over successive years in order to stem any further events in the future.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005264066159725189,
+                    "sentence": "Property buy-outs and the construction of berms and flood walls played a role in stemming the damage and effects of this latest event, and it was clear enough that flood mitigation efforts on both the city and county levels played a big part.City and county officials voiced confidence in how well the mitigation efforts worked and spoke to how things might have looked different if those measures were not in place.We can't take lightly that there were still people directly affected by this weekend's rising water.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1356278359889984,
+                    "sentence": "Austin businesses like Stuttgart's Travel & Tan, the Hardy Geranium and more will be looking at lengthy clean-ups in the near future, which will have an expanded impact.Several homes found water in basements and those people will have plenty of clean-up ahead of them, but considering where we are now and where we've been before, those of us living in this community long term can see the differences and benefits flood mitigation has meant for the area.Austin and many of our surrounding communities will always have to cope with the idea of flooding.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1337980180978775,
+                    "sentence": "And there's not much you can do when you get so much rain, but the fact that the city has taken measures to limit the effects these natural disasters have means that we now have an area that is much more adept at coping with whatever Mother Nature has in store for us.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 6,
+                    "completely_generated_prob": 1.474742012248794e-05
+                }
+            ],
+            "completely_generated_prob": 0.037526171686261885,
+            "class_probabilities": {
+                "human": 0.9624738283137382,
+                "ai": 0.037526171686261885,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9624738283137382,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.037526171686261885,
+                    "human": 0.9624738283137382,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "From local coverage to the presidential race, .Cityscape| Twin Cities urban geographer Bill Lindeke weighs in on city life, transportation, planning and more in his column delivered to your inbox weekly.When you have as much rain in a short period of time as southern Minnesota has had in recent days, flooding is almost inevitable.Austin dealt with the most impactful flooding it’s seen since 2004 when the Cedar River in Austin reached 25 feet and Turtle Creek reached 14.8 feet. Levels came close to that this time around at 20.70 feet and 12.64, respectively.The difference, however, was flood mitigation. After 2004’s flood, the city and Mower County agencies took aggressive action over successive years in order to stem any further events in the future. Property buy-outs and the construction of berms and flood walls played a role in stemming the damage and effects of this latest event, and it was clear enough that flood mitigation efforts on both the city and county levels played a big part.City and county officials voiced confidence in how well the mitigation efforts worked and spoke to how things might have looked different if those measures were not in place.We can’t take lightly that there were still people directly affected by this weekend’s rising water. Austin businesses like Stuttgart’s Travel & Tan, the Hardy Geranium and more will be looking at lengthy clean-ups in the near future, which will have an expanded impact.Several homes found water in basements and those people will have plenty of clean-up ahead of them, but considering where we are now and where we’ve been before, those of us living in this community long term can see the differences and benefits flood mitigation has meant for the area.Austin and many of our surrounding communities will always have to cope with the idea of flooding. And there’s not much you can do when you get so much rain, but the fact that the city has taken measures to limit the effects these natural disasters have means that we now have an area that is much more adept at coping with whatever Mother Nature has in store for us."
+        }
+    ]
+}

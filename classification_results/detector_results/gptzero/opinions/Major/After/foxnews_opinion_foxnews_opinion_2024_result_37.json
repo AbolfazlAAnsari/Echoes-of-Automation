@@ -1,0 +1,76 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.005096902139484882,
+                    "sentence": "Mutual Fund and ETF data provided byRefinitiv Lipper.Fox News host Laura Ingraham breaks down the fallout from President Biden's 'disastrous open border policies' on 'The Ingraham Angle.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00390948262065649,
+                    "sentence": "'LAURA INGRAHAM- Fox News host breaks down the fallout from President Biden's 'disastrous open border policies'.Continue watching…HUGH HEWITT- No Border Wall, no deal on Israel and Ukraine.Continue reading…BOONDOGGLE BUST- Biden's trillion dollar climate agenda is blowing up and John Kerry has a lot to answer for.Continue reading…GUTFELD- The Feds asked US banks to spy on Republicans using search terms like 'Trump' and 'MAGA'.Continue watching…TAMMY BRUCE- The fraud and death of feminism will be complete in 2024.Continue reading…RAYMOND ARROYO- Hunter Biden gets dusted in federal court.Continue watching…TURN UP THE HEAT- Don't ignore the health benefits of being warm.Continue reading…KAROL- I'm here to defend Gen Alpha tweens and their skincare routines.Continue reading…OH, STANLEY- This mom is using the Stanley Tumbler trend to teach my kids to be rebels.Continue reading…CARTOON OF THE DAY -Check out all of our political cartoons…01.18.24This article was written by Fox News staff.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Mutual Fund and ETF data provided byRefinitiv Lipper.Fox News host Laura Ingraham breaks down the fallout from President Biden's 'disastrous open border policies' on 'The Ingraham Angle.'LAURA INGRAHAM– Fox News host breaks down the fallout from President Biden's 'disastrous open border policies'.Continue watching…HUGH HEWITT– No Border Wall, no deal on Israel and Ukraine.Continue reading…BOONDOGGLE BUST– Biden's trillion dollar climate agenda is blowing up and John Kerry has a lot to answer for.Continue reading…GUTFELD– The Feds asked US banks to spy on Republicans using search terms like 'Trump' and 'MAGA'.Continue watching…TAMMY BRUCE– The fraud and death of feminism will be complete in 2024.Continue reading…RAYMOND ARROYO– Hunter Biden gets dusted in federal court.Continue watching…TURN UP THE HEAT– Don't ignore the health benefits of being warm.Continue reading…KAROL– I'm here to defend Gen Alpha tweens and their skincare routines.Continue reading…OH, STANLEY– This mom is using the Stanley Tumbler trend to teach my kids to be rebels.Continue reading…CARTOON OF THE DAY –Check out all of our political cartoons…01.18.24This article was written by Fox News staff."
+        }
+    ]
+}

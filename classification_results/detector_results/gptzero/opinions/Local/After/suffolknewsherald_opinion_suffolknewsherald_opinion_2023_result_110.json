@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.023894701153039932,
+                    "sentence": "Published 5:26 pm Tuesday, February 28, 2023BySuffolk News-Herald Editorial BoardMarch will come in like a lion for many Americans, with a snowstorm to our north and tornadic activity to the south, the remnants (hopefully just rain) passing through Suffolk late Thursday into Friday.Coincidentally, the system will occur just ahead of Virginia Severe Weather Awareness Week, which starts Monday and runs through March 10.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0049834707751870155,
+                    "sentence": "Not only does the approaching severe weather outbreak serve as a reminder to us all of Mother Nature's temperament this time of year but also about the importance of preparedness.Virginia's annual Statewide Tornado Drill occurs at 9:45 a.m. Tuesday.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006828909274190664,
+                    "sentence": "The long-range forecast for that day looks clear at this writing, but should widespread severe weather occur, the drill will be rescheduled for the same time, Thursday, March 9.The Statewide Tornado Drill is an opportunity to prepare Virginians for tornado threats and to test public warning systems.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011251354590058327,
+                    "sentence": "The drill starts with a test tornado warning sent to National Oceanographic and Atmospheric Administration weather radios and area broadcasters.Those participating in the drill, including schools and businesses, are encouraged to turn on their NOAA Weather Radio by 9:40 a.m., listening to the voice broadcast.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.12774881720542908,
+                    "sentence": "Those with their NOAA Weather Radio on and listening to the broadcast will hear the audible test alert broadcast at 9:45 a.m. Local radio stations, TV stations and cable outlets also broadcast the test message via the Emergency Alert System.Jeff Orrock of the National Weather Service in Wakefield said that while tornadoes can occur, and indeed have, any time of the year, April through September is the most active, thus the timing of awareness week in March.Virginia Severe Weather Awareness Week focuses on a different topic each day, including tornadoes, severe thunderstorms, flash flooding and lightning.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.2851587235927582,
+                    "sentence": "For more information, visit bit.ly/3ZmFvzA.Emergency management officials urge residents to make a plan in advance of inclement weather and offer the following advice:As we look forward to pleasant weather ahead, let us not forget how quickly spring weather in Virginia can change.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.12487976253032684,
+                    "sentence": "Have a plan in place at work, school and home and be prepared when severe weather strikes.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.10968367755413055,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.19419320497224074,
+            "class_probabilities": {
+                "human": 0.8058067950277592,
+                "ai": 0.19419320497224074,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8058067950277592,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.19419320497224074,
+                    "human": 0.8058067950277592,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:26 pm Tuesday, February 28, 2023BySuffolk News-Herald Editorial BoardMarch will come in like a lion for many Americans, with a snowstorm to our north and tornadic activity to the south, the remnants (hopefully just rain) passing through Suffolk late Thursday into Friday.Coincidentally, the system will occur just ahead of Virginia Severe Weather Awareness Week, which starts Monday and runs through March 10. Not only does the approaching severe weather outbreak serve as a reminder to us all of Mother Nature’s temperament this time of year but also about the importance of preparedness.Virginia’s annual Statewide Tornado Drill occurs at 9:45 a.m. Tuesday. The long-range forecast for that day looks clear at this writing, but should widespread severe weather occur, the drill will be rescheduled for the same time, Thursday, March 9.The Statewide Tornado Drill is an opportunity to prepare Virginians for tornado threats and to test public warning systems. The drill starts with a test tornado warning sent to National Oceanographic and Atmospheric Administration weather radios and area broadcasters.Those participating in the drill, including schools and businesses, are encouraged to turn on their NOAA Weather Radio by 9:40 a.m., listening to the voice broadcast. Those with their NOAA Weather Radio on and listening to the broadcast will hear the audible test alert broadcast at 9:45 a.m. Local radio stations, TV stations and cable outlets also broadcast the test message via the Emergency Alert System.Jeff Orrock of the National Weather Service in Wakefield said that while tornadoes can occur, and indeed have, any time of the year, April through September is the most active, thus the timing of awareness week in March.Virginia Severe Weather Awareness Week focuses on a different topic each day, including tornadoes, severe thunderstorms, flash flooding and lightning. For more information, visit bit.ly/3ZmFvzA.Emergency management officials urge residents to make a plan in advance of inclement weather and offer the following advice:As we look forward to pleasant weather ahead, let us not forget how quickly spring weather in Virginia can change. Have a plan in place at work, school and home and be prepared when severe weather strikes.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…"
+        }
+    ]
+}

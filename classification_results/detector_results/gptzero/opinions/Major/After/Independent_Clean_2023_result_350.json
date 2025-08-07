@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0008339598425664008,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010972253512591124,
+                    "sentence": "Please send your letters toletters@independent.co.ukWhat an insult for Lincolnshire MP and health secretaryVictoria Atkinsto refer to protestingdoctors as \"in training\".These doctors are the lifeblood of our belovedNHS.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006932051619514823,
+                    "sentence": "These doctors are working tirelessly saving lives all the time.I write this letter from my own hospital bed where I am being treated for COPD.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007097989437170327,
+                    "sentence": "These doctors saved my life last Friday after toxic gases built up in my bloods and I had to go on to a ventilator.And these same doctors just days later are making me fit to go home for Christmas.Nobody should ever undermine the work of any doctor or member of the NHS.The staff here, and every part of the NHS are nothing short of awesome.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007245809538289905,
+                    "sentence": "They deserve better.Geoffrey BrookingHavantAn early Christmas presentI see the good people of North West Leicestershire have just received an early Christmas present; they no longer have the ignominy of being the only constituency represented bythe Reclaim Party.They are still stuck withAndrew Bridgen, of course, but at least now as an independent and not part of Laurence Fox's, hodgepodge of conspiracy theorists and malcontents.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006729561137035489,
+                    "sentence": "Further, if the ex-Tory MP seriously thinks that by becoming an independent hewill secure his re-electionthen he must be even more deluded than he is about the Covid pandemic and vaccines!Robert BostonKentTake the credit, avoid the blameJeremy Hunt and Rishi Sunak are very quick to try to claim thatinflation coming downis some linked to their handling of the economy, whereas a major factor is the recent drop in oil prices.Those claiming for a commensuratereduction in interestrates seem to be unaware of what is happening in the Middle East withthe re-routing of tankersand cargo ships.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009357752278447151,
+                    "sentence": "The price of oil and magnitude commodities will surely rise again soon.When that happens will the government take a share of the blame?Geoff ForwardStirlingA little light on substanceAm I alone in finding the description of whatMichelle Moneand her husband Doug Barrowman did as \"following the advice of their advisors\" just little light on substance?Her husband'sgroup of companieson the Isle of Man specialises in gathering up funding from investors and high-net-worth individuals to do just such deals as this one.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005008638836443424,
+                    "sentence": "And there will inevitably be a heavy-duty legal team in that mix too.Is this how they normally behave, and if so maybe a wee bit more scrutiny of how these funding structures work is in order?In any event they had all the advisors they needed on speed dial and wecan all see how wellthat went...John SinclairPocklingtonWe cannot let misplaced blame lead to hateFollowing the the 7 October attack on Israel I have been surprised by thelevel of antisemitic attacksin the West, notably the US and Canada.Jewish people must not be collectively vilified, let alone physically attacked, for the acts of Israel's government and its military; however one feels about the latter's currentbrutality in Gaza.And it should be needless to say that diaspora Palestinians and Western Muslims similarly must not be collectively blamed and attacked for the acts of Hamas violence in Israel or Islamic extremist attacks outside the Middle East.What would young Jewish, or Palestinian, children think and feel if/when they hear such misdirected vile hatred towards their fundamental identity?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009182969806715846,
+                    "sentence": "Scary is the real possibility that such public outpour of blind hatred may lead some young children to feel very misplaced shame in their heritage.Frank Sterle JrAddress Supplied",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.020660391318316405,
+            "class_probabilities": {
+                "human": 0.9793396086816837,
+                "ai": 0.020660391318316405,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9793396086816837,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020660391318316405,
+                    "human": 0.9793396086816837,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW : Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukWhat an insult for Lincolnshire MP and health secretaryVictoria Atkinsto refer to protestingdoctors as \"in training\".These doctors are the lifeblood of our belovedNHS.  These doctors are working tirelessly saving lives all the time.I write this letter from my own hospital bed where I am being treated for COPD. These doctors saved my life last Friday after toxic gases built up in my bloods and I had to go on to a ventilator.And these same doctors just days later are making me fit to go home for Christmas.Nobody should ever undermine the work of any doctor or member of the NHS.The staff here, and every part of the NHS are nothing short of awesome. They deserve better.Geoffrey BrookingHavantAn early Christmas presentI see the good people of North West Leicestershire have just received an early Christmas present; they no longer have the ignominy of being the only constituency represented bythe Reclaim Party.They are still stuck withAndrew Bridgen, of course, but at least now as an independent and not part of Laurence Fox’s, hodgepodge of conspiracy theorists and malcontents. Further, if the ex-Tory MP seriously thinks that by becoming an independent hewill secure his re-electionthen he must be even more deluded than he is about the Covid pandemic and vaccines!Robert BostonKentTake the credit, avoid the blameJeremy Hunt and Rishi Sunak are very quick to try to claim thatinflation coming downis some linked to their handling of the economy, whereas a major factor is the recent drop in oil prices.Those claiming for a commensuratereduction in interestrates seem to be unaware of what is happening in the Middle East withthe re-routing of tankersand cargo ships. The price of oil and magnitude commodities will surely rise again soon.When that happens will the government take a share of the blame?Geoff ForwardStirlingA little light on substanceAm I alone in finding the description of whatMichelle Moneand her husband Doug Barrowman did as \"following the advice of their advisors\" just little light on substance?Her husband’sgroup of companieson the Isle of Man specialises in gathering up funding from investors and high-net-worth individuals to do just such deals as this one. And there will inevitably be a heavy-duty legal team in that mix too.Is this how they normally behave, and if so maybe a wee bit more scrutiny of how these funding structures work is in order?In any event they had all the advisors they needed on speed dial and wecan all see how wellthat went...John SinclairPocklingtonWe cannot let misplaced blame lead to hateFollowing the the 7 October attack on Israel I have been surprised by thelevel of antisemitic attacksin the West, notably the US and Canada.Jewish people must not be collectively vilified, let alone physically attacked, for the acts of Israel’s government and its military; however one feels about the latter’s currentbrutality in Gaza.And it should be needless to say that diaspora Palestinians and Western Muslims similarly must not be collectively blamed and attacked for the acts of Hamas violence in Israel or Islamic extremist attacks outside the Middle East.What would young Jewish, or Palestinian, children think and feel if/when they hear such misdirected vile hatred towards their fundamental identity? Scary is the real possibility that such public outpour of blind hatred may lead some young children to feel very misplaced shame in their heritage.Frank Sterle JrAddress Supplied"
+        }
+    ]
+}

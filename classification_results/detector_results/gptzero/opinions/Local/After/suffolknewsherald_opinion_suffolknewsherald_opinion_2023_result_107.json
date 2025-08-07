@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0051030307076871395,
+                    "sentence": "Published 6:23 pm Friday, March 3, 2023BySuffolk News-Herald Editorial BoardThe recent abrupt closure of Bennett's Creek Farm Market ᅳ a decision that owners Jim and Martha Shirley say is final ᅳ is sad not just for the customers of the family-owned store but for North Suffolk as a whole.Since it was built in 1963, the store has provided residents of the area ᅳ then mostly farmland, now a bustling suburb ᅳ with an option for fresh produce, meats, eggs and milk, with a hot case, deli, fine wines and seafood added at various points along the way.We might be a little biased, but the store's meat department beat the socks off the national supermarket chains that sprang up around it over the past three decades.But, in the end, the customer base isn't what it once was, the cost of doing business has soared and, after a quarter-century in the business, the Shirleys are ready to move on.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002374152187258005,
+                    "sentence": "To their credit, they squelched false hopes about a possible reopening, clarifying in a Friday news release that the social media campaign, including a GoFundMe account, was unauthorized.“I have turned down multiple offers from land developers because I wanted to continue this nostalgic, local market in an area where a piece of the past is so important,” Jim Shirley said in the news release.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0023646634072065353,
+                    "sentence": "“Over 25 years I have invested a great deal of money into the business including renovations, upgrades and increased payroll.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004292668309062719,
+                    "sentence": "Unfortunately, I have been unsuccessful in finding a tenant with the commitment and funds to keep the market going as it is.“As a businessman, I had to make a hard decision.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011170350946485996,
+                    "sentence": "It is never easy or pleasant to close a business.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010083735920488834,
+                    "sentence": "I know all too well how it affects employees and the community.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00605827197432518,
+                    "sentence": "It is the very reason I have put this off for so many years.”We respect the Shirleys' decision and wish them good health and prosperity in retirement.For its regular customers and loyal employees, the absence of Bennett's Creek Farm Market will leave a gaping hole in the community.Compared to other store closures, this one feels personal ᅳ probably because, unlike the chain grocery stores, Bennett's Creek customers were made to feel like part of the family.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01313219778239727,
+                    "sentence": "Walking through its doors and seeing the smiling faces of the staff was as welcoming as a warm embrace.The store was a throwback to a bygone era.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.8336790800094604,
+                    "sentence": "There were no self-checkout lanes or online orders with curbside pickup.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9361956715583801,
+                    "sentence": "Doing business face to face was part of the market's charm and homey feel.It is truly difficult to imagine Bridge Road without its heartbeat.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9647849202156067,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.974423885345459,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 3.122979482305895e-05
+                }
+            ],
+            "completely_generated_prob": 0.30862404391972925,
+            "class_probabilities": {
+                "human": 0.6912808420031116,
+                "ai": 0.30862404391972925,
+                "mixed": 9.511407715911251e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.6912808420031116,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.30862404391972925,
+                    "human": 0.6912808420031116,
+                    "mixed": 9.511407715911251e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 6:23 pm Friday, March 3, 2023BySuffolk News-Herald Editorial BoardThe recent abrupt closure of Bennett’s Creek Farm Market — a decision that owners Jim and Martha Shirley say is final — is sad not just for the customers of the family-owned store but for North Suffolk as a whole.Since it was built in 1963, the store has provided residents of the area — then mostly farmland, now a bustling suburb — with an option for fresh produce, meats, eggs and milk, with a hot case, deli, fine wines and seafood added at various points along the way.We might be a little biased, but the store’s meat department beat the socks off the national supermarket chains that sprang up around it over the past three decades.But, in the end, the customer base isn’t what it once was, the cost of doing business has soared and, after a quarter-century in the business, the Shirleys are ready to move on. To their credit, they squelched false hopes about a possible reopening, clarifying in a Friday news release that the social media campaign, including a GoFundMe account, was unauthorized.“I have turned down multiple offers from land developers because I wanted to continue this nostalgic, local market in an area where a piece of the past is so important,” Jim Shirley said in the news release. “Over 25 years I have invested a great deal of money into the business including renovations, upgrades and increased payroll. Unfortunately, I have been unsuccessful in finding a tenant with the commitment and funds to keep the market going as it is.“As a businessman, I had to make a hard decision. It is never easy or pleasant to close a business. I know all too well how it affects employees and the community. It is the very reason I have put this off for so many years.”We respect the Shirleys’ decision and wish them good health and prosperity in retirement.For its regular customers and loyal employees, the absence of Bennett’s Creek Farm Market will leave a gaping hole in the community.Compared to other store closures, this one feels personal — probably because, unlike the chain grocery stores, Bennett’s Creek customers were made to feel like part of the family. Walking through its doors and seeing the smiling faces of the staff was as welcoming as a warm embrace.The store was a throwback to a bygone era. There were no self-checkout lanes or online orders with curbside pickup. Doing business face to face was part of the market’s charm and homey feel.It is truly difficult to imagine Bridge Road without its heartbeat.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

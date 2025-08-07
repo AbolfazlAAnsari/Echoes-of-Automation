@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0004647407913580537,
+                    "sentence": "Please send your letters toletters@independent.co.ukSomething obviously has to be done to protectMPs(or anyone, for that matter) from abuse onsocial media, but to ban anonymity (\"Piti Patel considers social media anonymity ban to stop 'relentless' MP abuse\") is a direct assault on freedom of expression.A better idea would be to require social media account holders to pay a nominal fee, as little as £1, for the privilege of posting online, paid from a UK bank account.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005395666230469942,
+                    "sentence": "They would then be traceable and therefore prosecutable if breaking the law, even if posting under a pseudonym.Posting anonymously for good reason, such as fear of political or economic retribution or of social ostracisation, would not be jeopardised.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00047632475616410375,
+                    "sentence": "Accounts to read content would remain free.Technically, I'm sure this would be feasible.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007301876321434975,
+                    "sentence": "It would not deter senders of abusive messages from other countries, but would make UK-based posters of abusive and illegal content think twice.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00028011586982756853,
+                    "sentence": "If successful it might catch on internationally.Patrick CosgroveShropshireLanguage mattersI was moved byJess Phillips's accountof the impact that David Amess's tragic death has had on her.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019223467097617686,
+                    "sentence": "She is absolutely right when she talks about how she should not be demonised for her views and should be treated as a human being.However, it is a painful truth that not everyone in her party shares this view.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021395506337285042,
+                    "sentence": "Surely it is now high time for Labour's deputy leader,Angela Rayner, to apologise for referring to some of her political colleagues as \"scum\".Tony BeckNottinghamBirthday wishesCongratulations on 35 years of excellent journalism.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019195581262465566,
+                    "sentence": "We started married life as you started your paper.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00024402666895184666,
+                    "sentence": "My husband had always read The Telegraph and I The Guardian, as this was unlikely to contribute to peace and harmony in our household we agreed to try The Independent.What a splendid time to start a new newspaper, we have taken it ever since.Margaret MountfordWilmslowMissed opportunitiesWhile the government have been lauded and applauded for theCovid-19vaccine roll out, who is actually responsible for it?Johnson and Co, of course, were quick to cynically take credit for it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.10448779910802841,
+                    "sentence": "Indeed according to the recently published MP's report its acknowledged success is cited as a mitigating factor which somehow counterbalances their initially appallingly shambolic response to the pandemic.The fact that Oxford University in collaboration with AstraZeneca happened to be the first people to develop a vaccine was a remarkable stroke of luck as far as the British Tory government were concerned - taking every possible opportunity to remind the general public of it with tedious regularity.Linda EvansLondonThe government has been shown to have been too slow to act at every stage of the Covid-19 pandemic and they fail to learn lessons from either British or international experience.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.14863410592079163,
+                    "sentence": "Daily cases of Covid have passed 40,000.John E HarrisonChorleyRead MoreLetters: Here's to another 35 years of The IndependentLetters: Sajid Javid should spend a week working in a GP practiceLetters: Since Boris Johnson came to power, it's embarrassing to be British",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.06633669730667867,
+            "class_probabilities": {
+                "human": 0.9336633026933213,
+                "ai": 0.06633669730667867,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9336633026933213,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.06633669730667867,
+                    "human": 0.9336633026933213,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukSomething obviously has to be done to protectMPs(or anyone, for that matter) from abuse onsocial media, but to ban anonymity (\"Piti Patel considers social media anonymity ban to stop 'relentless' MP abuse\") is a direct assault on freedom of expression.A better idea would be to require social media account holders to pay a nominal fee, as little as £1, for the privilege of posting online, paid from a UK bank account. They would then be traceable and therefore prosecutable if breaking the law, even if posting under a pseudonym.Posting anonymously for good reason, such as fear of political or economic retribution or of social ostracisation, would not be jeopardised. Accounts to read content would remain free.Technically, I'm sure this would be feasible. It would not deter senders of abusive messages from other countries, but would make UK-based posters of abusive and illegal content think twice. If successful it might catch on internationally.Patrick CosgroveShropshireLanguage mattersI was moved byJess Phillips's accountof the impact that David Amess's tragic death has had on her. She is absolutely right when she talks about how she should not be demonised for her views and should be treated as a human being.However, it is a painful truth that not everyone in her party shares this view. Surely it is now high time for Labour's deputy leader,Angela Rayner, to apologise for referring to some of her political colleagues as \"scum\".Tony BeckNottinghamBirthday wishesCongratulations on 35 years of excellent journalism. We started married life as you started your paper. My husband had always read The Telegraph and I The Guardian, as this was unlikely to contribute to peace and harmony in our household we agreed to try The Independent.What a splendid time to start a new newspaper, we have taken it ever since.Margaret MountfordWilmslowMissed opportunitiesWhile the government have been lauded and applauded for theCovid-19vaccine roll out, who is actually responsible for it?Johnson and Co, of course, were quick to cynically take credit for it. Indeed according to the recently published MP's report its acknowledged success is cited as a mitigating factor which somehow counterbalances their initially appallingly shambolic response to the pandemic.The fact that Oxford University in collaboration with AstraZeneca happened to be the first people to develop a vaccine was a remarkable stroke of luck as far as the British Tory government were concerned - taking every possible opportunity to remind the general public of it with tedious regularity.Linda EvansLondonThe government has been shown to have been too slow to act at every stage of the Covid-19 pandemic and they fail to learn lessons from either British or international experience. Daily cases of Covid have passed 40,000.John E HarrisonChorleyRead MoreLetters: Here's to another 35 years of The IndependentLetters: Sajid Javid should spend a week working in a GP practiceLetters: Since Boris Johnson came to power, it's embarrassing to be British"
+        }
+    ]
+}

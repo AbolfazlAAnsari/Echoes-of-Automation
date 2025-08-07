@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0072457147762179375,
+                    "sentence": "Published 5:39 pm Tuesday, March 14, 2023BySuffolk News-Herald Editorial BoardHow do you build a recreational trail from Suffolk to the Atlantic Ocean?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006483863573521376,
+                    "sentence": "A little at a time.Suffolk is gearing up for the next phase of the Seaboard Coastline Trail, which ultimately will be part of a 41-mile-long walking and cycling trail linking the cities of Suffolk, Chesapeake, Portsmouth, Norfolk and Virginia Beach.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01413845643401146,
+                    "sentence": "Yes, one day you'll be able to ride your bike to the Oceanfront at Virginia Beach.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012049168348312378,
+                    "sentence": "And we're pretty excited about it.In 2021, Segment II of the Seaboard Coastline Trail was officially opened with a ceremony off Suburban Drive behind the Food Lion shopping center.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009959544986486435,
+                    "sentence": "The 1.5-mile stretch has been a hit with fitness buffs.Now, city officials want your input on the next phase.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007854552939534187,
+                    "sentence": "The Suffolk Parks & Recreation Department will conduct an open house-style public hearing on the project segments dubbed 3C and West.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012026624754071236,
+                    "sentence": "The meeting will be 5-7 p.m. Tuesday, April 4, at the East Suffolk Recreation Center, 138 S. 6th St.Segment 3C is a 2.7-mile segment from Nansemond River High School to the northern end of Segment 3B, about 1.3 miles east of the Route 58 overpass at Nansemond Parkway.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013280224055051804,
+                    "sentence": "Segment West will extend the existing trail 3.3 miles from the end of Prentis Street to Kenyon Road.Suffolk is steadily becoming a more walkable, bike-able community.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.21973080933094025,
+                    "sentence": "In a region that has unfortunately been designed to make heavy vehicular travel a necessary part of life, trails are an important way for people to be able to recreate and exercise safely and, eventually, perhaps even get around between home, school, work, shopping opportunities and more without using the roads or turning the keys in a vehicle.Eventually, bikers ᅳ and even committed joggers and walkers ᅳ will be able to take a paved trail from Suffolk to the oceanfront, with minimal time spent on potentially dangerous roads.Federal grants, along with some local matches, are funding most of the work.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.2700335681438446,
+                    "sentence": "In the long run ᅳ pardon the pun ᅳ this kind of quality-of-life project will generate far more value for the people who use it than it ever cost taxpayers.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.28670546412467957,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.29448333382606506,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.06633396618935229,
+            "class_probabilities": {
+                "human": 0.9336248632755252,
+                "ai": 0.06633396618935229,
+                "mixed": 4.117053512248776e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9336248632755252,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.06633396618935229,
+                    "human": 0.9336248632755252,
+                    "mixed": 4.117053512248776e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:39 pm Tuesday, March 14, 2023BySuffolk News-Herald Editorial BoardHow do you build a recreational trail from Suffolk to the Atlantic Ocean? A little at a time.Suffolk is gearing up for the next phase of the Seaboard Coastline Trail, which ultimately will be part of a 41-mile-long walking and cycling trail linking the cities of Suffolk, Chesapeake, Portsmouth, Norfolk and Virginia Beach. Yes, one day you’ll be able to ride your bike to the Oceanfront at Virginia Beach. And we’re pretty excited about it.In 2021, Segment II of the Seaboard Coastline Trail was officially opened with a ceremony off Suburban Drive behind the Food Lion shopping center. The 1.5-mile stretch has been a hit with fitness buffs.Now, city officials want your input on the next phase. The Suffolk Parks & Recreation Department will conduct an open house-style public hearing on the project segments dubbed 3C and West. The meeting will be 5-7 p.m. Tuesday, April 4, at the East Suffolk Recreation Center, 138 S. 6th St.Segment 3C is a 2.7-mile segment from Nansemond River High School to the northern end of Segment 3B, about 1.3 miles east of the Route 58 overpass at Nansemond Parkway. Segment West will extend the existing trail 3.3 miles from the end of Prentis Street to Kenyon Road.Suffolk is steadily becoming a more walkable, bike-able community. In a region that has unfortunately been designed to make heavy vehicular travel a necessary part of life, trails are an important way for people to be able to recreate and exercise safely and, eventually, perhaps even get around between home, school, work, shopping opportunities and more without using the roads or turning the keys in a vehicle.Eventually, bikers — and even committed joggers and walkers — will be able to take a paved trail from Suffolk to the oceanfront, with minimal time spent on potentially dangerous roads.Federal grants, along with some local matches, are funding most of the work. In the long run — pardon the pun — this kind of quality-of-life project will generate far more value for the people who use it than it ever cost taxpayers.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

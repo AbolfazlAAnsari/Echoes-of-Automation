@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0011742209317162633,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017356175230816007,
+                    "sentence": "Please send your letters toletters@independent.co.ukSunak will always be remembered as an unelectedleader, responsible for losing ministers their jobs in thenext election.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002267202129587531,
+                    "sentence": "How can he give a job to an ex-prime minister who turned his back on the country when he didn't get his way in Europe?If theTorieswant to win the next election, get rid of them both quickly and put someone in charge who is not afraid to say it as it is.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010616211220622063,
+                    "sentence": "With the current leadership, they have already lost the election.Harry MarshallSheffieldWe need a freeze on duty for all alcoholThe chancellor's apparent willingness tosupport business in his autumn statementis very welcome.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010717242257669568,
+                    "sentence": "If this is the case, then he must include a freeze on alcohol duty to support not only producers, but a hospitality industry employing hundreds of thousands, if not millions of people.However, Mr Hunt will fail in supporting hospitality if the limit of his ambition is trying to keep the price of a pint down.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012560724280774593,
+                    "sentence": "Pubs, bars and restaurants are about so much more than warm ale.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012697094352915883,
+                    "sentence": "Scotch whisky and other spirits generate a third of hospitality sales, and yet for every measure poured, publicans and restaurateurs get nothing from the Brexit Pubs Guarantee.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018154169665649533,
+                    "sentence": "Supporting business must include hospitality, and that must include a freeze on duty for all alcohol.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00031590822618454695,
+                    "sentence": "Not just warm ale.Mark Kent CMGChief Executive, Scotch Whisky AssociationThe real spirit of ChristmasWell done Iceland on spending themillions a Christmas ad would have coston “supporting their customers during the cost of living crisis”.Would that some more companies would have made this “no-brainer” decision and spare us the annual Christmas ad bingo: snow - check, groaning board - check, jolly Santa - check, happy families (featuring grandad in paper hat asleep in a chair) - check.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004397743323352188,
+                    "sentence": "And so on.Original creative imagination is in short supply - except at Iceland, who are far closer to the real spirit of the season.Paul KeebleManchesterLabour dissenters are causing more harm than goodThe massive rift developing within Labour over Sir Kier Starmer's currentrefusal to call for a ceasefirein Gaza does not bode well for a Labour government.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00036106305196881294,
+                    "sentence": "Clearly, they are shooting at an open election goal, but somehow the importance of maintaining some semblance of unity seems totally unimportant to many in his party.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00044660584535449743,
+                    "sentence": "Those declaring their support for the people of Gaza by defying their Leader may well be congratulating themselves as they imagine themselves standing on the high moral ground - but what has actually been achieved?Standing by your principles is laudable and something the Tories would do well to consider, but to really make some changes here and in the Middle East, Labour has got to stand as one right down to election day.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006685129483230412,
+                    "sentence": "The Tories are revelling in the division in the Labour ranks, and while they may be a vile unprincipled self-seeking mob they aren't stupid.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010415548458695412,
+                    "sentence": "Insurrection and discord at this time is making a Labour landslide increasingly unlikely.Steve MackinderDenver",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 1.9423489116273474e-12
+                }
+            ],
+            "completely_generated_prob": 0.015281828032010496,
+            "class_probabilities": {
+                "human": 0.9847181719679895,
+                "ai": 0.015281828032010496,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9847181719679895,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.015281828032010496,
+                    "human": 0.9847181719679895,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukSunak will always be remembered as an unelectedleader, responsible for losing ministers their jobs in thenext election.  How can he give a job to an ex-prime minister who turned his back on the country when he didn’t get his way in Europe?If theTorieswant to win the next election, get rid of them both quickly and put someone in charge who is not afraid to say it as it is. With the current leadership, they have already lost the election.Harry MarshallSheffieldWe need a freeze on duty for all alcoholThe chancellor’s apparent willingness tosupport business in his autumn statementis very welcome. If this is the case, then he must include a freeze on alcohol duty to support not only producers, but a hospitality industry employing hundreds of thousands, if not millions of people.However, Mr Hunt will fail in supporting hospitality if the limit of his ambition is trying to keep the price of a pint down. Pubs, bars and restaurants are about so much more than warm ale. Scotch whisky and other spirits generate a third of hospitality sales, and yet for every measure poured, publicans and restaurateurs get nothing from the Brexit Pubs Guarantee. Supporting business must include hospitality, and that must include a freeze on duty for all alcohol. Not just warm ale.Mark Kent CMGChief Executive, Scotch Whisky AssociationThe real spirit of ChristmasWell done Iceland on spending themillions a Christmas ad would have coston “supporting their customers during the cost of living crisis”.Would that some more companies would have made this “no-brainer” decision and spare us the annual Christmas ad bingo: snow – check, groaning board – check, jolly Santa – check, happy families (featuring grandad in paper hat asleep in a chair) – check. And so on.Original creative imagination is in short supply – except at Iceland, who are far closer to the real spirit of the season.Paul KeebleManchesterLabour dissenters are causing more harm than goodThe massive rift developing within Labour over Sir Kier Starmer’s currentrefusal to call for a ceasefirein Gaza does not bode well for a Labour government. Clearly, they are shooting at an open election goal, but somehow the importance of maintaining some semblance of unity seems totally unimportant to many in his party. Those declaring their support for the people of Gaza by defying their Leader may well be congratulating themselves as they imagine themselves standing on the high moral ground – but what has actually been achieved?Standing by your principles is laudable and something the Tories would do well to consider, but to really make some changes here and in the Middle East, Labour has got to stand as one right down to election day. The Tories are revelling in the division in the Labour ranks, and while they may be a vile unprincipled self-seeking mob they aren’t stupid. Insurrection and discord at this time is making a Labour landslide increasingly unlikely.Steve MackinderDenver"
+        }
+    ]
+}

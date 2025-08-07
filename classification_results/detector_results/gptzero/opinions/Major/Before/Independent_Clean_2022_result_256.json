@@ -1,0 +1,154 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 3.51683993358165e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.0236997190513648e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukA worried and weary British public has just endured weeks of yet another Tory party leadership election.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.2899221221450716e-05,
+                    "sentence": "Amongst all the dross that has been churned out by the two deeply depressing candidates this time round, those who could bear to listen have heard persistent party political propaganda and little else.What happened to politicians caring for all of the people of the country?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.140951983164996e-05,
+                    "sentence": "When did it all become rigidly focussed on whether they would lose their seats next time round?To hear Liz Truss yesterday feeding the ego of the party that had just elected her with the grotesquely untrue claim that the Tory party is the finest in the world, when it is sunk - yet again - in sleaze, incompetence and nastiness, was the most ludicrous piece of hubris I have heard in a long time.Badger cull-instigating, fox hunt-supporting Truss is a ghastly choice asprime minister.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.0348121324786916e-05,
+                    "sentence": "I am ashamed of my country.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.7006413802155294e-05,
+                    "sentence": "The British public's entitlement to a general election will be ignored while the Tories continue to drag us down even further.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.892887277994305e-05,
+                    "sentence": "Wait and see.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.556786759872921e-05,
+                    "sentence": "What a mess.Penny LittleGreat HaseleyLiz Trusstells us “what you see is what you get”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.3522356059402227e-05,
+                    "sentence": "What a pity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.5547353288857266e-05,
+                    "sentence": "I think we were all hoping, based on what we have seen so far, that we might get something better.Geoff ForwardStirlingWhy can't we get our priorities right?Why all this fuss about a 10-year loan of £100bn to energy companies, by means of which the cost of fuel bills can be reduced to the benefit of everyone?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.731788456207141e-05,
+                    "sentence": "HS2 at an estimated cost of £108bn has desecrated our lovely countryside.Very few will benefit when rail passengers can get from London to Manchester 20 minutes sooner.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.132477523759007e-05,
+                    "sentence": "Why can't we get our priorities right?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005097623448818922,
+                    "sentence": "These should be healing the sick, caring for the vulnerable, educating the young and protecting our natural environment.Heather OpenshawBlandfordTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereDeluded to the very endDeluded to the very end,Boris Johnson's last speechas prime minister had him argue: “I am like one of those booster rockets that has fulfilled its function.... splashing down invisibly in some remote and obscure corner of the Pacific.”Johnson may see himself as an Apollo spaceship, but he's more like the boastful, patrician and ultimately useless firework from Oscar Wilde's fairytale “The Remarkable Rocket”, a parable about patrician pomposity, arrogance and misplaced self-confidence which substitutes for talent.Wilde's worthless rocket is a near-perfect fit for Johnson, especially when it declares: “I like hearing myself talk.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004544077906757593,
+                    "sentence": "It is one of my greatest pleasures.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005136040039360523,
+                    "sentence": "I often have long conversations all by myself and I am so clever that sometimes I don't understand a single word of what I'm saying.”Sasha SimicLondon",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 15,
+                    "completely_generated_prob": 2.5938383721896624e-13
+                }
+            ],
+            "completely_generated_prob": 0.017486769031531738,
+            "class_probabilities": {
+                "human": 0.9825132309684682,
+                "ai": 0.017486769031531738,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9825132309684682,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.017486769031531738,
+                    "human": 0.9825132309684682,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukA worried and weary British public has just endured weeks of yet another Tory party leadership election. Amongst all the dross that has been churned out by the two deeply depressing candidates this time round, those who could bear to listen have heard persistent party political propaganda and little else.What happened to politicians caring for all of the people of the country? When did it all become rigidly focussed on whether they would lose their seats next time round?To hear Liz Truss yesterday feeding the ego of the party that had just elected her with the grotesquely untrue claim that the Tory party is the finest in the world, when it is sunk – yet again – in sleaze, incompetence and nastiness, was the most ludicrous piece of hubris I have heard in a long time.Badger cull-instigating, fox hunt-supporting Truss is a ghastly choice asprime minister.  I am ashamed of my country. The British public’s entitlement to a general election will be ignored while the Tories continue to drag us down even further. Wait and see. What a mess.Penny LittleGreat HaseleyLiz Trusstells us “what you see is what you get”. What a pity. I think we were all hoping, based on what we have seen so far, that we might get something better.Geoff ForwardStirlingWhy can’t we get our priorities right?Why all this fuss about a 10-year loan of £100bn to energy companies, by means of which the cost of fuel bills can be reduced to the benefit of everyone? HS2 at an estimated cost of £108bn has desecrated our lovely countryside.Very few will benefit when rail passengers can get from London to Manchester 20 minutes sooner. Why can’t we get our priorities right? These should be healing the sick, caring for the vulnerable, educating the young and protecting our natural environment.Heather OpenshawBlandfordTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereDeluded to the very endDeluded to the very end,Boris Johnson’s last speechas prime minister had him argue: “I am like one of those booster rockets that has fulfilled its function.... splashing down invisibly in some remote and obscure corner of the Pacific.”Johnson may see himself as an Apollo spaceship, but he’s more like the boastful, patrician and ultimately useless firework from Oscar Wilde’s fairytale “The Remarkable Rocket”, a parable about patrician pomposity, arrogance and misplaced self-confidence which substitutes for talent.Wilde’s worthless rocket is a near-perfect fit for Johnson, especially when it declares: “I like hearing myself talk. It is one of my greatest pleasures. I often have long conversations all by myself and I am so clever that sometimes I don’t understand a single word of what I’m saying.”Sasha SimicLondon"
+        }
+    ]
+}

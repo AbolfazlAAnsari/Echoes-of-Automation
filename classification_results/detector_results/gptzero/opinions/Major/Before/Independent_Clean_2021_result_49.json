@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0004961416125297546,
+                    "sentence": "Please send your letters toletters@independent.co.ukI fear theanti-lockdown brigade is peddling a false equivalence between the annual death rate from fluand what they think would be an acceptable death rate fromCovid-19that would allow for a return to \"normal\".The twodiseasesare different.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005080851842649281,
+                    "sentence": "Covid-19 brings with it the possibility of long-term or permanenthealthproblems even for younger people apparently in good health beforehand.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00038293012767098844,
+                    "sentence": "It is also extremely transmissible and mutating at a rate that will be difficult to manage the more cases we allow.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003933918778784573,
+                    "sentence": "A lot is still being learned about the treatment of the disease, but we are not yet in a safe position.It might also be worth bearing in mind that backbenchMPs are able to work from home, isolate without losing their jobs or their homes and generally in a much better position to weather the storm than those who have to be out in public to keep a roof over their heads.So let's go gently, please, and not risk the necessity of another lockdown.Helen WatsonHenley on ThamesFree speechI do thinkGavin Williamson should be dealing with security at universities during \"controversial\" debates rather than free speech.Individuals and groups with objectionable views should be heard so these views can be confronted.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00046995043521746993,
+                    "sentence": "Otherwise, they may fester on the Internet.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00043352454667910933,
+                    "sentence": "Individuals and groups who try to de-platform these views are in real danger of driving the problem underground and alienating supporters of free speech.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012549652019515634,
+                    "sentence": "There is no such thing as free speech with clauses.Kartar UppalSutton ColdfieldGreen housesWhy is it that withall the new housesbeing built, the government cannot make it compulsory for every new house to have photovoltaic panels fitted?Rodney FreemanAddress suppliedCovid trialsCall me a cynic, but doesn't Boris Johnson's desire to be world-beating seem to be going rather too far when he's infecting people with adangerous virus to achieve it?Sarah PeggSeafordMissing princessWe all owe a debt of gratitude to the BBC for raising the deeply concerning case ofPrincess Latifa.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00124482496175915,
+                    "sentence": "Surely her father's assets in this country should be frozen until the case is resolved?One must hope too that the UN will include in its work on this matter issues relating to the Uyghurs in China, Mr Navalny in Russia and any other people who are unjustly imprisoned.The Rev Andrew McLuskeySurreyR.I.P.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013355078408494592,
+                    "sentence": "Pop SmokeThomas Hobbs's article was fantastic and he really did highlight the potential that Pop Smoke had.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001071364153176546,
+                    "sentence": "I was fortunate enough to find his music before he was killed and I instantly knew he would be the next big thing.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001598598901182413,
+                    "sentence": "It's unfortunate that so many people haven't been made aware of his potential to reshape the modern music industry all because many people outside of Generation Z/ younger Millennials wouldn't call this \"proper\" music.Jack DarleyAddress suppliedRead More'Covid is no worse than flu' - seven coronavirus myths bustedPrincess Latifa: Dubai princess reveals she is being held 'hostage' in harrowing videoPop Smoke: Two adults and two teenagers charged with murder of 20-year-old rapperLabour accuses government of 'manufacturing' free speech culture war to distract from failures",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.015658231964968537,
+            "class_probabilities": {
+                "human": 0.9843027359021719,
+                "ai": 0.015658231964968537,
+                "mixed": 3.903213285959771e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9843027359021719,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.015658231964968537,
+                    "human": 0.9843027359021719,
+                    "mixed": 3.903213285959771e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukI fear theanti-lockdown brigade is peddling a false equivalence between the annual death rate from fluand what they think would be an acceptable death rate fromCovid-19that would allow for a return to \"normal\".The twodiseasesare different. Covid-19 brings with it the possibility of long-term or permanenthealthproblems even for younger people apparently in good health beforehand. It is also extremely transmissible and mutating at a rate that will be difficult to manage the more cases we allow. A lot is still being learned about the treatment of the disease, but we are not yet in a safe position.It might also be worth bearing in mind that backbenchMPs are able to work from home, isolate without losing their jobs or their homes and generally in a much better position to weather the storm than those who have to be out in public to keep a roof over their heads.So let's go gently, please, and not risk the necessity of another lockdown.Helen WatsonHenley on ThamesFree speechI do thinkGavin Williamson should be dealing with security at universities during \"controversial\" debates rather than free speech.Individuals and groups with objectionable views should be heard so these views can be confronted. Otherwise, they may fester on the Internet. Individuals and groups who try to de-platform these views are in real danger of driving the problem underground and alienating supporters of free speech. There is no such thing as free speech with clauses.Kartar UppalSutton ColdfieldGreen housesWhy is it that withall the new housesbeing built, the government cannot make it compulsory for every new house to have photovoltaic panels fitted?Rodney FreemanAddress suppliedCovid trialsCall me a cynic, but doesn't Boris Johnson's desire to be world-beating seem to be going rather too far when he's infecting people with adangerous virus to achieve it?Sarah PeggSeafordMissing princessWe all owe a debt of gratitude to the BBC for raising the deeply concerning case ofPrincess Latifa.  Surely her father's assets in this country should be frozen until the case is resolved?One must hope too that the UN will include in its work on this matter issues relating to the Uyghurs in China, Mr Navalny in Russia and any other people who are unjustly imprisoned.The Rev Andrew McLuskeySurreyR.I.P. Pop SmokeThomas Hobbs's article was fantastic and he really did highlight the potential that Pop Smoke had. I was fortunate enough to find his music before he was killed and I instantly knew he would be the next big thing. It's unfortunate that so many people haven't been made aware of his potential to reshape the modern music industry all because many people outside of Generation Z/ younger Millennials wouldn't call this \"proper\" music.Jack DarleyAddress suppliedRead More'Covid is no worse than flu' - seven coronavirus myths bustedPrincess Latifa: Dubai princess reveals she is being held 'hostage' in harrowing videoPop Smoke: Two adults and two teenagers charged with murder of 20-year-old rapperLabour accuses government of 'manufacturing' free speech culture war to distract from failures"
+        }
+    ]
+}

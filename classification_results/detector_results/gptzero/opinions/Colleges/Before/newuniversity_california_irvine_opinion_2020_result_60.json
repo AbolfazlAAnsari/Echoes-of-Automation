@@ -1,0 +1,161 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.005364695563912392,
+                    "sentence": "Recently, the California High Speed Rail Authority released its new plan for the construction of the long-awaited bullet train, putting the cost at$80 billionfor a line running from Burbank to Merced.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004572289530187845,
+                    "sentence": "Voters approved the project in 2008 with a projected completion date of 2020.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006901628337800503,
+                    "sentence": "Now, the business plan projects that the rail line will be fully operational by 2033.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006940767168998718,
+                    "sentence": "The high speed rail proposed in 2008 responded to the environmental and transportation concerns of California citizens.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004209080711007118,
+                    "sentence": "It promisedclean transportation for travelers and construction jobs for thousands of Californians.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008650938980281353,
+                    "sentence": "But now, representatives voice concerns about the increasing budget and lengthening time frame.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011361960787326097,
+                    "sentence": "“Once again, it seems the High-Speed Rail Authority has released in the 2020 draft business plan a proposal for its future that it can't afford and that won't deliver what is promised,”Jim Frazier, Assembly Transportation Committee Chairman, said.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00046365009620785713,
+                    "sentence": "In light of this development, or more accurately, the underdevelopment of the bullet train, here are five things that are a better use of $80 billion that would help the environment and would be better than a bullet train from Burbank to Merced.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00042681104969233274,
+                    "sentence": "The idea for the bullet train has California's well-being in mind, but more practical environmental measures would be a better use of state funds.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004012352437712252,
+                    "sentence": "Unfortunately, voters only approved these bonds to build the high speed rail, so we'll all be able to easily travel from Burbank to Merced after another decade of patience.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00029649207135662436,
+                    "sentence": "Emily Anderson is a Staff Writer.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005001253448426723,
+                    "sentence": "She can be reached atenander1@uci.edu.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 3,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 6,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 7,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 8,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 10,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                }
+            ],
+            "completely_generated_prob": 0.01706651222792227,
+            "class_probabilities": {
+                "human": 0.982643643526932,
+                "ai": 0.01706651222792227,
+                "mixed": 0.00028984424514572624
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.982643643526932,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01706651222792227,
+                    "human": 0.982643643526932,
+                    "mixed": 0.00028984424514572624
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Recently, the California High Speed Rail Authority released its new plan for the construction of the long-awaited bullet train, putting the cost at$80 billionfor a line running from Burbank to Merced. Voters approved the project in 2008 with a projected completion date of 2020. Now, the business plan projects that the rail line will be fully operational by 2033.\nThe high speed rail proposed in 2008 responded to the environmental and transportation concerns of California citizens. It promisedclean transportation for travelers and construction jobs for thousands of Californians. But now, representatives voice concerns about the increasing budget and lengthening time frame.\n“Once again, it seems the High-Speed Rail Authority has released in the 2020 draft business plan a proposal for its future that it can’t afford and that won’t deliver what is promised,”Jim Frazier, Assembly Transportation Committee Chairman, said.\nIn light of this development, or more accurately, the underdevelopment of the bullet train, here are five things that are a better use of $80 billion that would help the environment and would be better than a bullet train from Burbank to Merced.\nThe idea for the bullet train has California’s well-being in mind, but more practical environmental measures would be a better use of state funds. Unfortunately, voters only approved these bonds to build the high speed rail, so we’ll all be able to easily travel from Burbank to Merced after another decade of patience.\nEmily Anderson is a Staff Writer. She can be reached atenander1@uci.edu.\n"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 9.2178066552151e-05,
+                    "sentence": "Mutual Fund and ETF data provided byRefinitiv Lipper.Wall Street Journal editor-at large explains why conservatives should stop 'whataboutism' on 'America's Newsroom'The best argument forDonald Trump's presidency was never about the man himself.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.201344124041498e-05,
+                    "sentence": "It was about the people who voted for him.It wasn't really about what he would do for taxes, immigration or thefederal judiciary.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011212335812160745,
+                    "sentence": "He did many needed things on those fronts for sure, but any clever Republican politician with a good pollster could have come up with that agenda.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.171517790993676e-05,
+                    "sentence": "It wasn't about his vaunted business experience and how he might inject a little necessary private-sector sense into a stultified bureaucracy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011797437764471397,
+                    "sentence": "It certainly wasn't about his penchant for conversation-dominating social-media expostulationsᅳpolls have indicated a consistent popular distaste for them.President Trump's greatest achievement will have been the elevation of the legitimate concerns of perhaps half the U.S. population, an improbable, physics-defying reversal of the political tides that had eroded much American self-confidence in the preceding generation.MIRANDA DEVINE: WHY DEMOCRATS DEMONIZE GOOD REPUBLICANS, TOOThe best argument forDonald Trumpwas that he led and gave voice to millions of Americans who had been leaderless and voiceless for decades.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.0459610065445304e-05,
+                    "sentence": "The secret people, as a British poet once described his similarly disdained countrymenᅳsmiled at, paid, passed over.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.485037349397317e-05,
+                    "sentence": "The deplorables.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.9897133572376333e-05,
+                    "sentence": "The men and women whom the media, entertainment and corporate human resources types never meet in their local Whole Foods but deride as bigots and brutish neanderthals.People who had voted for Republicans and Democrats and had an increasingly hard time telling the difference.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.784468961181119e-05,
+                    "sentence": "People who had voted for a \"compassionate conservative,\" who led the nation into a catastrophic and futile war.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.969170110300183e-05,
+                    "sentence": "People who had voted for the nation's firstAfrican-American president, a man promising hope and change but delivering hope mostly for those who had plenty of it already and change for few of those who really needed it.CLICK HERE TO CONTINUE READING GERARD BAKER'S COLUMN IN THE WALL STREET JOURNALCLICK HERE TO READ MORE FROM GERARD BAKER",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.006608679833334143,
+            "class_probabilities": {
+                "human": 0.9933913201666659,
+                "ai": 0.006608679833334143,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933913201666659,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006608679833334143,
+                    "human": 0.9933913201666659,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Mutual Fund and ETF data provided byRefinitiv Lipper.Wall Street Journal editor-at large explains why conservatives should stop 'whataboutism' on 'America's Newsroom'The best argument forDonald Trump’s presidency was never about the man himself. It was about the people who voted for him.It wasn’t really about what he would do for taxes, immigration or thefederal judiciary. He did many needed things on those fronts for sure, but any clever Republican politician with a good pollster could have come up with that agenda. It wasn’t about his vaunted business experience and how he might inject a little necessary private-sector sense into a stultified bureaucracy. It certainly wasn’t about his penchant for conversation-dominating social-media expostulations—polls have indicated a consistent popular distaste for them.President Trump’s greatest achievement will have been the elevation of the legitimate concerns of perhaps half the U.S. population, an improbable, physics-defying reversal of the political tides that had eroded much American self-confidence in the preceding generation.MIRANDA DEVINE: WHY DEMOCRATS DEMONIZE GOOD REPUBLICANS, TOOThe best argument forDonald Trumpwas that he led and gave voice to millions of Americans who had been leaderless and voiceless for decades. The secret people, as a British poet once described his similarly disdained countrymen—smiled at, paid, passed over. The deplorables. The men and women whom the media, entertainment and corporate human resources types never meet in their local Whole Foods but deride as bigots and brutish neanderthals.People who had voted for Republicans and Democrats and had an increasingly hard time telling the difference. People who had voted for a \"compassionate conservative,\" who led the nation into a catastrophic and futile war. People who had voted for the nation’s firstAfrican-American president, a man promising hope and change but delivering hope mostly for those who had plenty of it already and change for few of those who really needed it.CLICK HERE TO CONTINUE READING GERARD BAKER'S COLUMN IN THE WALL STREET JOURNALCLICK HERE TO READ MORE FROM GERARD BAKER"
+        }
+    ]
+}

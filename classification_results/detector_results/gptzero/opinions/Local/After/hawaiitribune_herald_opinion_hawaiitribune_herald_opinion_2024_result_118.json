@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00036885158624500036,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°Some thoughts onpolitics in AmericaSome thoughts onpolitics in AmericaI remember when junior high school student body politics was a joke and national politics could be taken seriously, but that was a long time ago.Political attack ads exist because someone's political party has nothing to offer the public except rancid rhetoric about how bad they believe their opponents are, because their benefactors don't want someone in power who will stand up to them.The worse the negativity, the harder one should question the attacker's motives.One tiny, but influential country has a super PAC ready to drop $4 million to attack a congressman from an East Coast state.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003267568245064467,
+                    "sentence": "They are desperate to control the U.S. and consider us their lapdog.Some political analysts believe the electorate is stupid and can be easily swayed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003146888629999012,
+                    "sentence": "Fortunately or unfortunately, they may be half right, but which half is difficult to tell.For many years, it was said the United States of America had the best government money could buy, but now quality has been replaced with what a former classmate called flamboyant mediocrity.Foreign nations are trying to buy their way into our federal government.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00038504431722685695,
+                    "sentence": "One nation doesn't want anybody saying anything bad about them, so they drafted legislation which, if passed, Americans could be arrested for “defaming” that country.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00033819390228018165,
+                    "sentence": "It's a circus, but don't call them clowns, as clowning is an honorable profession.Speaking of honor, have you ever noticed the amount of questionable characters in office who would probably never be called “The Honorable” unless it was a part of their job title?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00028061389457434416,
+                    "sentence": "Then there are those who should be addressed as “The Horrible.”American politics has become more more akin to an explosion in a sewage treatment plant.Dave KisorPahoaBill arrives monthsafter hospital visitHow is it acceptable that Hilo Medical Center send out an additional bill almost 18 months after the date of service, without explanation, for a cash-paying customer who paid, without question, the full amount requested at the time?I sincerely hope other large businesses don't follow suit, or where will we all be!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.15287736058235168,
+                    "sentence": "?Leona HompsteadHiloQuestioning theuse of herbicideI went to World Bee Day recently, and there was a brief comment about the use of Roundup by our state and local government on crops and roadsides still continuing despite the fact that Bayer Company has just been sued for $10 billion for causing specific kinds of cancer with Roundup.This German company has also acquired Monsanto and ships like 750,000 tons of this stuff per year around the world.I have asked OpenSecrets to tell me how much money Hawaii is accepting to resist the repeated requests from citizens to stop this spraying.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.17344222962856293,
+                    "sentence": "Hopefully, they will give an island-by-island accounting.Toby S HazelHiloRecord-setting University of Hawaii quarterback and 2007 Heisman Trophy finalist Colt Brennan has died, his father Terry Brennan told the Honolulu Star-Advertiser.A 64-year-old Ocean View man accused of killing one of his dogs has been freed from custody on supervised release, a form of cashless bail.Hilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.08150004595518112,
+                    "sentence": "Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.07524007412815185,
+            "class_probabilities": {
+                "human": 0.9247599258718482,
+                "ai": 0.07524007412815185,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9247599258718482,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.07524007412815185,
+                    "human": 0.9247599258718482,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°Some thoughts onpolitics in AmericaSome thoughts onpolitics in AmericaI remember when junior high school student body politics was a joke and national politics could be taken seriously, but that was a long time ago.Political attack ads exist because someone’s political party has nothing to offer the public except rancid rhetoric about how bad they believe their opponents are, because their benefactors don’t want someone in power who will stand up to them.The worse the negativity, the harder one should question the attacker’s motives.One tiny, but influential country has a super PAC ready to drop $4 million to attack a congressman from an East Coast state. They are desperate to control the U.S. and consider us their lapdog.Some political analysts believe the electorate is stupid and can be easily swayed. Fortunately or unfortunately, they may be half right, but which half is difficult to tell.For many years, it was said the United States of America had the best government money could buy, but now quality has been replaced with what a former classmate called flamboyant mediocrity.Foreign nations are trying to buy their way into our federal government. One nation doesn’t want anybody saying anything bad about them, so they drafted legislation which, if passed, Americans could be arrested for “defaming” that country. It’s a circus, but don’t call them clowns, as clowning is an honorable profession.Speaking of honor, have you ever noticed the amount of questionable characters in office who would probably never be called “The Honorable” unless it was a part of their job title? Then there are those who should be addressed as “The Horrible.”American politics has become more more akin to an explosion in a sewage treatment plant.Dave KisorPahoaBill arrives monthsafter hospital visitHow is it acceptable that Hilo Medical Center send out an additional bill almost 18 months after the date of service, without explanation, for a cash-paying customer who paid, without question, the full amount requested at the time?I sincerely hope other large businesses don’t follow suit, or where will we all be!?Leona HompsteadHiloQuestioning theuse of herbicideI went to World Bee Day recently, and there was a brief comment about the use of Roundup by our state and local government on crops and roadsides still continuing despite the fact that Bayer Company has just been sued for $10 billion for causing specific kinds of cancer with Roundup.This German company has also acquired Monsanto and ships like 750,000 tons of this stuff per year around the world.I have asked OpenSecrets to tell me how much money Hawaii is accepting to resist the repeated requests from citizens to stop this spraying. Hopefully, they will give an island-by-island accounting.Toby S HazelHiloRecord-setting University of Hawaii quarterback and 2007 Heisman Trophy finalist Colt Brennan has died, his father Terry Brennan told the Honolulu Star-Advertiser.A 64-year-old Ocean View man accused of killing one of his dogs has been freed from custody on supervised release, a form of cashless bail.Hilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track. Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017."
+        }
+    ]
+}

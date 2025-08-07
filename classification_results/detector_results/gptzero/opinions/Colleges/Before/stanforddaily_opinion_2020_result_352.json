@@ -1,0 +1,132 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00019261408306192607,
+                    "sentence": "Provost Drell and Senior Associate Vice Provost of Institutional Equity & Access Lauren Schoenthaler recentlyreleaseda 27-page PDF with responses to over 90 questions submitted by undergraduate and graduate students during the Sexual Violence Town Hall in December.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00024202611530199647,
+                    "sentence": "Compiled below are four key takeaways.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015995274588931352,
+                    "sentence": "Resources for survivors of sexual violence and relationship abuse can be foundhereandhere.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010261296120006591,
+                    "sentence": "LastOctober, the provost publicly committed to “end[ing] sexual violence on our campus” on behalf of the University.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010660332918632776,
+                    "sentence": "Her statement runs contradictory to the current conditions, where survivors cannot request legal representation when bringing a complaint against a faculty member and are forced to receive treatment in the same facilities as their perpetrator.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.120370668824762e-05,
+                    "sentence": "As students and survivors, we look forward to seeing the University put an end to the archaic practices that silence and re-victimize us.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.896645886125043e-05,
+                    "sentence": "An external review team will be visiting campus from March 9-12, 2020, to conduct an in-depth review of the University's “prevention, support and response efforts to sexual harassment and sexual violence.” They will be receiving student feedback through the ASSU.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018244759121444076,
+                    "sentence": "Contact Elizabeth “Betsy” Kim at ebkim 'at' stanford.edu.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 2,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 3,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 6,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 7,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                }
+            ],
+            "completely_generated_prob": 0.0051780533755591265,
+            "class_probabilities": {
+                "human": 0.9948219466244408,
+                "ai": 0.0051780533755591265,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9948219466244408,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0051780533755591265,
+                    "human": 0.9948219466244408,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Provost Drell and Senior Associate Vice Provost of Institutional Equity & Access Lauren Schoenthaler recentlyreleaseda 27-page PDF with responses to over 90 questions submitted by undergraduate and graduate students during the Sexual Violence Town Hall in December. Compiled below are four key takeaways.\nResources for survivors of sexual violence and relationship abuse can be foundhereandhere.\nLastOctober, the provost publicly committed to “end[ing] sexual violence on our campus” on behalf of the University. Her statement runs contradictory to the current conditions, where survivors cannot request legal representation when bringing a complaint against a faculty member and are forced to receive treatment in the same facilities as their perpetrator. As students and survivors, we look forward to seeing the University put an end to the archaic practices that silence and re-victimize us.\nAn external review team will be visiting campus from March 9-12, 2020, to conduct an in-depth review of the University’s “prevention, support and response efforts to sexual harassment and sexual violence.” They will be receiving student feedback through the ASSU.\nContact Elizabeth “Betsy” Kim at ebkim ‘at’ stanford.edu.\n\n"
+        }
+    ]
+}

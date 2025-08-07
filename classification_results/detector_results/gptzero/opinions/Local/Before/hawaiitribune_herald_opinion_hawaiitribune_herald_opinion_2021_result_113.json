@@ -1,0 +1,88 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0008025105344131589,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°One of the reasons Minority Leader Kevin McCarthy withdrew GOP participation from the House committee investigating the Jan. 6 insurrection was Democrats' refusal to let Trumpian firebrand Jim Jordan be seated on the committee.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06279365718364716,
+                    "sentence": "Now Democrats' stance regarding the Ohio Republican has been validated, in spades.The committee has revealed that Jordan forwarded a text to Donald Trump's chief of staff, Mark Meadows, on Jan. 5 outlining the bogus theory that Vice President Mike Pence could invalidate the 2020 election results in key battleground states, subverting the will of the people in order to keep Trump in office.Jordan wanted to be part of an investigation that he knew would ultimately examine his own behavior, in other words.The question now (in addition to whether Jordan even deserves to be seated in Congress, given this clear evidence of his contempt of democracy) is how many other prominent Republicans were active participants in this attempted coup against the voters.It looks increasingly like a partywide effort ᅳ and one that's still underway with an eye toward future elections.The committee has already revealed a different text, from an as-yet-unidentified member of Congress, suggesting immediately after the election that Republican-controlled states could ignore the voters and approve Trump electors so the election would be disputed and kicked to a Republican-controlled Supreme Court.This was before the results were even fully counted, and long before any credible case of mass voter fraud could even theoretically have been made.It's a virtual acknowledgment that Trump's big lie was locked and loaded before the first vote was cast.A recent Associated Press investigation illustrates just how big a lie it is.The AP's review of records turned up just 475 cases of alleged fraud (on behalf of all the candidates) out of the millions of votes cast in the six battleground states where Trump alleged the election was stolen from him.Yet, citing this thing that almost never happens, GOP legislatures around the country have passed laws to restrict the voting rights of people most likely to vote Democratic.The effort has been aided by organs like Fox News, which spread the myth that voting fraud swayed the 2020 outcome.Emails in a lawsuit by Smartmatic and Dominion Voting Systems Corp. suggest that Fox's top executives, Rupert and Lachlan Murdoch, knew they were spreading false allegations but did it anyway.Again and again, evidence emerges that the real fraud has been perpetrated by these and other Trump allies ᅳ in Congress, in state legislatures and in the right-wing media.The fact that only two House Republicans voted to hold Meadows accountable for his cut-and-dried contempt in refusing to cooperate with the committee is the latest (but by no means only) indication that the GOP as a party is also complicit in this continuing assault on democracy.ᅳ St. Louis Post-DispatchThe Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01644841581583023,
+                    "sentence": "The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009351532906293869,
+                    "sentence": "Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneA 45-year-old Hilo man was sentenced Aug. 22 to 10 years for a domestic assault last Christmas Eve on his estranged girlfriend.WASHINGTON ᅳ The gunman who tried to kill Donald Trump mounted a “sustained, detailed effort” to attack a major gathering of some sort before deciding to target the Republican presidential candidate at a Pennsylvania rally in July, FBI officials said on Wednesday.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 4,
+                    "completely_generated_prob": 0.0006564766595293492
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°One of the reasons Minority Leader Kevin McCarthy withdrew GOP participation from the House committee investigating the Jan. 6 insurrection was Democrats’ refusal to let Trumpian firebrand Jim Jordan be seated on the committee. Now Democrats’ stance regarding the Ohio Republican has been validated, in spades.The committee has revealed that Jordan forwarded a text to Donald Trump’s chief of staff, Mark Meadows, on Jan. 5 outlining the bogus theory that Vice President Mike Pence could invalidate the 2020 election results in key battleground states, subverting the will of the people in order to keep Trump in office.Jordan wanted to be part of an investigation that he knew would ultimately examine his own behavior, in other words.The question now (in addition to whether Jordan even deserves to be seated in Congress, given this clear evidence of his contempt of democracy) is how many other prominent Republicans were active participants in this attempted coup against the voters.It looks increasingly like a partywide effort — and one that’s still underway with an eye toward future elections.The committee has already revealed a different text, from an as-yet-unidentified member of Congress, suggesting immediately after the election that Republican-controlled states could ignore the voters and approve Trump electors so the election would be disputed and kicked to a Republican-controlled Supreme Court.This was before the results were even fully counted, and long before any credible case of mass voter fraud could even theoretically have been made.It’s a virtual acknowledgment that Trump’s big lie was locked and loaded before the first vote was cast.A recent Associated Press investigation illustrates just how big a lie it is.The AP’s review of records turned up just 475 cases of alleged fraud (on behalf of all the candidates) out of the millions of votes cast in the six battleground states where Trump alleged the election was stolen from him.Yet, citing this thing that almost never happens, GOP legislatures around the country have passed laws to restrict the voting rights of people most likely to vote Democratic.The effort has been aided by organs like Fox News, which spread the myth that voting fraud swayed the 2020 outcome.Emails in a lawsuit by Smartmatic and Dominion Voting Systems Corp. suggest that Fox’s top executives, Rupert and Lachlan Murdoch, knew they were spreading false allegations but did it anyway.Again and again, evidence emerges that the real fraud has been perpetrated by these and other Trump allies — in Congress, in state legislatures and in the right-wing media.The fact that only two House Republicans voted to hold Meadows accountable for his cut-and-dried contempt in refusing to cooperate with the committee is the latest (but by no means only) indication that the GOP as a party is also complicit in this continuing assault on democracy.— St. Louis Post-DispatchThe Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today. The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph. Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneA 45-year-old Hilo man was sentenced Aug. 22 to 10 years for a domestic assault last Christmas Eve on his estranged girlfriend.WASHINGTON — The gunman who tried to kill Donald Trump mounted a “sustained, detailed effort” to attack a major gathering of some sort before deciding to target the Republican presidential candidate at a Pennsylvania rally in July, FBI officials said on Wednesday."
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0005775290774181485,
+                    "sentence": "Mutual Fund and ETF data provided byRefinitiv Lipper.Fox News host Tucker Carlson reacts to reports that the Energy Department has concluded COVID-19 most likely came from a Chinese lab on 'Tucker Carlson Tonight.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002859859960153699,
+                    "sentence": "'TUCKER CARLSON- Fox News host reacts to reports that the Energy Department has concluded COVID-19 most likely came from a Chinese lab.Continue reading…THE WOKE 51- These big businesses target conservatives.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0049863592721521854,
+                    "sentence": "Here's what you can do to stop them.Continue reading…RESIGN- Buttigieg is a transportation disaster.Continue reading…GOING NUCLEAR?- Putin issues nuclear warning, as Russia's assault on Ukraine hits second year.Continue reading…PRICE TO PAY- This is the price China must pay for unleashing COVID on the world.Continue reading…RAYMOND ARROYO- Long-distance kissing is now a reality.Continue watching…WAR ON MERIT -Stop punishing gifted students.Continue reading…FLEETING FUTURE- If you think Gavin Newsom has a political future, just ask these folks fleeing California.Continue reading…HOW OFFENSIVE- Virginia Dems claim that teaching about evils of communism will offend Asian Americans.Continue reading…CARTOON OF THE DAY -Check out all of our political cartoons…02.28.23This article was written by Fox News staff.Get the recap of top opinion commentary and original content throughout the week.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003778910031542182,
+                    "sentence": "SubscribedYou've successfully subscribed to this newsletter!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007808022201061249,
+                    "sentence": "Mutual Fund and ETF data provided byRefinitiv Lipper.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                }
+            ],
+            "completely_generated_prob": 0.01565789170260218,
+            "class_probabilities": {
+                "human": 0.9843421082973979,
+                "ai": 0.01565789170260218,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9843421082973979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01565789170260218,
+                    "human": 0.9843421082973979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Mutual Fund and ETF data provided byRefinitiv Lipper.Fox News host Tucker Carlson reacts to reports that the Energy Department has concluded COVID-19 most likely came from a Chinese lab on 'Tucker Carlson Tonight.'TUCKER CARLSON– Fox News host reacts to reports that the Energy Department has concluded COVID-19 most likely came from a Chinese lab.Continue reading…THE WOKE 51– These big businesses target conservatives. Here’s what you can do to stop them.Continue reading…RESIGN– Buttigieg is a transportation disaster.Continue reading…GOING NUCLEAR?– Putin issues nuclear warning, as Russia's assault on Ukraine hits second year.Continue reading…PRICE TO PAY– This is the price China must pay for unleashing COVID on the world.Continue reading…RAYMOND ARROYO– Long-distance kissing is now a reality.Continue watching…WAR ON MERIT –Stop punishing gifted students.Continue reading…FLEETING FUTURE– If you think Gavin Newsom has a political future, just ask these folks fleeing California.Continue reading…HOW OFFENSIVE– Virginia Dems claim that teaching about evils of communism will offend Asian Americans.Continue reading…CARTOON OF THE DAY –Check out all of our political cartoons…02.28.23This article was written by Fox News staff.Get the recap of top opinion commentary and original content throughout the week. SubscribedYou've successfully subscribed to this newsletter!  Mutual Fund and ETF data provided byRefinitiv Lipper."
+        }
+    ]
+}

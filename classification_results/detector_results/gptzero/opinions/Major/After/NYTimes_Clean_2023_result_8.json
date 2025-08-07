@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0005695725558325648,
+                    "sentence": "Times Opinion asks readers to share their college choice regrets.If you have the opportunity to attend college, the school that you pick can end up influencing where you live, how much money you earn and whom you share your life with.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00048243769560940564,
+                    "sentence": "It's a weighty decision for teenagers to make, just as they're figuring out who they are and what they care about.Did you make the right choice?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005907189333811402,
+                    "sentence": "Times Opinion wants to hear from readers who have regrets about their college experience.Maybe you attended a big state school, only to get lost in the crowd.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006158117321319878,
+                    "sentence": "Or your school was so focused on academics that you never had time to explore the city it was in.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006498023285530508,
+                    "sentence": "Did you choose a small liberal arts college that left you with tens of thousands of dollars in student loan debt?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005709562683477998,
+                    "sentence": "Or do you wish you had gone to a well-known school that offered you less financial aid?As college decision season approaches, this year's high school seniors probably have plenty of ideas about what they want from a school.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000591331219766289,
+                    "sentence": "If you have been in their shoes, what advice would you give them?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007911293068900704,
+                    "sentence": "If you could do it over, what qualities in a college would you have prioritized?Share your experience by answering the questions in the form below.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003182442160323262,
+                    "sentence": "We hope to publish some of your stories in a project aimed at helping high school students consider different paths forward.We will contact you before publishing your submission.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00023635246907360852,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005890493048354983,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000603186315856874,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.PHOTO: (PHOTOGRAPH BY Damon Winter/The New York Times FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.009998674697021018,
+            "class_probabilities": {
+                "human": 0.990001325302979,
+                "ai": 0.009998674697021018,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.990001325302979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.009998674697021018,
+                    "human": 0.990001325302979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Times Opinion asks readers to share their college choice regrets.If you have the opportunity to attend college, the school that you pick can end up influencing where you live, how much money you earn and whom you share your life with. It’s a weighty decision for teenagers to make, just as they’re figuring out who they are and what they care about.Did you make the right choice? Times Opinion wants to hear from readers who have regrets about their college experience.Maybe you attended a big state school, only to get lost in the crowd. Or your school was so focused on academics that you never had time to explore the city it was in. Did you choose a small liberal arts college that left you with tens of thousands of dollars in student loan debt? Or do you wish you had gone to a well-known school that offered you less financial aid?As college decision season approaches, this year’s high school seniors probably have plenty of ideas about what they want from a school. If you have been in their shoes, what advice would you give them? If you could do it over, what qualities in a college would you have prioritized?Share your experience by answering the questions in the form below. We hope to publish some of your stories in a project aimed at helping high school students consider different paths forward.We will contact you before publishing your submission.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.PHOTO:  (PHOTOGRAPH BY Damon Winter/The New York Times FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

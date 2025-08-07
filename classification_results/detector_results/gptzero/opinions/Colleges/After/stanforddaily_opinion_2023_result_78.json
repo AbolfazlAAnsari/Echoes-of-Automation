@@ -1,0 +1,151 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00011491403711261228,
+                    "sentence": "Our Union, SEIU 2007, has represented more than 1200 Stanford workers since 1970.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001502899976912886,
+                    "sentence": "We proudly support theStanford Graduate Workers Union campaignto unionize graduate student workers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013167268480174243,
+                    "sentence": "The ongoing issues they face, including lower-than-living wages, spiraling healthcare costs and extremely high housing prices, are the same issues that confront all of our SEIU 2007 members.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012937624705955386,
+                    "sentence": "Graduate student workers should not have to rely on food banks to make ends meet.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011212295066798106,
+                    "sentence": "Only through collective bargaining on the graduate level will these essential workers achieve the level of dignity and financial security they need and deserve.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014825660036876798,
+                    "sentence": "Nearly 30,000 graduate students have alreadyunionizedthroughout the United States, and after beginning their Union organizing efforts here at Stanford, their Chapter's internal officer elections are on Wednesday and Thursday.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010239333641948178,
+                    "sentence": "It is ultimately in Stanford University's interest to recognize the Stanford Graduate Workers Union and bargain with them in good faith.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010305586329195648,
+                    "sentence": "SEIU 2007 calls upon University leadership to quickly recognize the Union and promptly engage in bargaining to resolve these crucial issues.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002035460202023387,
+                    "sentence": "Paul RegaladoPresident Local 2007SEIU HEW",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012400427658576518,
+                    "sentence": "The Daily is committed to publishing a diversity of op-eds and letters to the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001644450967432931,
+                    "sentence": "We'd love to hear your thoughts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021829969773534685,
+                    "sentence": "Email letters to the editor to eic 'at' stanforddaily.com and op-ed submissions to opinions 'at' stanforddaily.com.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 6,
+                    "completely_generated_prob": 1.474742012248794e-05
+                },
+                {
+                    "start_sentence_index": 6,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 8,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 9,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                }
+            ],
+            "completely_generated_prob": 0.005178053375559126,
+            "class_probabilities": {
+                "human": 0.9948219466244408,
+                "ai": 0.005178053375559126,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9948219466244408,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.005178053375559126,
+                    "human": 0.9948219466244408,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Our Union, SEIU 2007, has represented more than 1200 Stanford workers since 1970. We proudly support theStanford Graduate Workers Union campaignto unionize graduate student workers. The ongoing issues they face, including lower-than-living wages, spiraling healthcare costs and extremely high housing prices, are the same issues that confront all of our SEIU 2007 members. Graduate student workers should not have to rely on food banks to make ends meet. Only through collective bargaining on the graduate level will these essential workers achieve the level of dignity and financial security they need and deserve. Nearly 30,000 graduate students have alreadyunionizedthroughout the United States, and after beginning their Union organizing efforts here at Stanford, their Chapter’s internal officer elections are on Wednesday and Thursday.\nIt is ultimately in Stanford University’s interest to recognize the Stanford Graduate Workers Union and bargain with them in good faith. SEIU 2007 calls upon University leadership to quickly recognize the Union and promptly engage in bargaining to resolve these crucial issues.\nPaul RegaladoPresident Local 2007SEIU HEW\nThe Daily is committed to publishing a diversity of op-eds and  letters to the editor. We’d love to hear your thoughts. Email letters to the editor to eic ‘at’ stanforddaily.com and op-ed submissions to opinions ‘at’ stanforddaily.com.\n"
+        }
+    ]
+}

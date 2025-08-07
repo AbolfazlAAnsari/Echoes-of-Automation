@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 6.888595089549199e-05,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|78.854°A few days ago Donald Trump floated a truly terrible, indeed unworkable economic proposal.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.311577453743666e-05,
+                    "sentence": "I'm aware that many readers will say, “So what else is new?” But in so doing, you're letting Trump benefit from the soft bigotry of rock-bottom expectations, not holding him to the standards that should apply to any presidential candidate.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.9515903810970485e-05,
+                    "sentence": "A politician shouldn't be given a pass on nonsense because he talks nonsense all the time.But in a way the most interesting thing about Trump's latest awful policy idea is the way his party responded, with the kind of obsequiousness and paranoia you normally expect in places like North Korea.What Trump reportedly proposed was an “all tariff policy” in which taxes on imports replace income taxes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.527659257291816e-05,
+                    "sentence": "Why is that a bad idea?First, the math doesn't work.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.5701206545345485e-05,
+                    "sentence": "Annual income tax receipts are around $2.4 trillion; imports are around $3.9 trillion.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.1667954064905643e-05,
+                    "sentence": "On the face of it, this might seem to suggest that Trump's idea would require an average tariff rate of around 60%.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.2086717914789915e-05,
+                    "sentence": "But high tariffs would reduce imports, so tariff rates would have to go even higher to realize the same amount of revenue, which would reduce imports even more and so on.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.490305193234235e-05,
+                    "sentence": "How high would tariffs have to go in the end?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.118045737617649e-05,
+                    "sentence": "I did a back-of-the-envelope calculation using highly Trump-favorable assumptions and came up with a tariff rate of 133%; in reality, there's probably no tariff rate high enough to replace the income tax.And to the extent that we did replace income taxes with tariffs, we'd in effect sharply raise taxes on working-class Americans while giving the rich a big tax cut ᅳ because the income tax is fairly progressive, falling most heavily on affluent taxpayers, while tariffs are de facto a kind of sales tax that falls most heavily on the working class.So this is a really bad idea that would be highly unpopular if voters knew about it.But here's the kicker: How did the Republican National Committee respond when asked about it?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.658291724510491e-05,
+                    "sentence": "By having its representative declare, “The notion that tariffs are a tax on U.S. consumers is a lie pushed by outsourcers and the Chinese Communist Party.”Now, economists have been saying that tariffs are a tax on domestic consumers for the past two centuries or so; I guess they've been working for China all along.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012043693102896214,
+                    "sentence": "Yes, there are exceptions and qualifications, but if you imagine that Trump is thinking about optimal tariff theory, I have a degree from Trump University you might want to buy.Anyway, look at how the RNC responded to a substantive policy question: by insisting not just that Dear Leader's nonsense is true but that anyone who disagrees is part of a sinister conspiracy.Don't brush this off.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005079884547740221,
+                    "sentence": "It's one more piece of evidence that MAGA has become a dangerous cult.© 2024 The New York Times CompanyNestled between lush community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round.Forecasters say Tropical Storm Gilma is rapidly weakening.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|78.854°A few days ago Donald Trump floated a truly terrible, indeed unworkable economic proposal. I’m aware that many readers will say, “So what else is new?” But in so doing, you’re letting Trump benefit from the soft bigotry of rock-bottom expectations, not holding him to the standards that should apply to any presidential candidate. A politician shouldn’t be given a pass on nonsense because he talks nonsense all the time.But in a way the most interesting thing about Trump’s latest awful policy idea is the way his party responded, with the kind of obsequiousness and paranoia you normally expect in places like North Korea.What Trump reportedly proposed was an “all tariff policy” in which taxes on imports replace income taxes. Why is that a bad idea?First, the math doesn’t work. Annual income tax receipts are around $2.4 trillion; imports are around $3.9 trillion. On the face of it, this might seem to suggest that Trump’s idea would require an average tariff rate of around 60%. But high tariffs would reduce imports, so tariff rates would have to go even higher to realize the same amount of revenue, which would reduce imports even more and so on. How high would tariffs have to go in the end? I did a back-of-the-envelope calculation using highly Trump-favorable assumptions and came up with a tariff rate of 133%; in reality, there’s probably no tariff rate high enough to replace the income tax.And to the extent that we did replace income taxes with tariffs, we’d in effect sharply raise taxes on working-class Americans while giving the rich a big tax cut — because the income tax is fairly progressive, falling most heavily on affluent taxpayers, while tariffs are de facto a kind of sales tax that falls most heavily on the working class.So this is a really bad idea that would be highly unpopular if voters knew about it.But here’s the kicker: How did the Republican National Committee respond when asked about it? By having its representative declare, “The notion that tariffs are a tax on U.S. consumers is a lie pushed by outsourcers and the Chinese Communist Party.”Now, economists have been saying that tariffs are a tax on domestic consumers for the past two centuries or so; I guess they’ve been working for China all along. Yes, there are exceptions and qualifications, but if you imagine that Trump is thinking about optimal tariff theory, I have a degree from Trump University you might want to buy.Anyway, look at how the RNC responded to a substantive policy question: by insisting not just that Dear Leader’s nonsense is true but that anyone who disagrees is part of a sinister conspiracy.Don’t brush this off. It’s one more piece of evidence that MAGA has become a dangerous cult.© 2024 The New York Times CompanyNestled between lush  community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round.Forecasters say Tropical Storm Gilma is rapidly weakening."
+        }
+    ]
+}

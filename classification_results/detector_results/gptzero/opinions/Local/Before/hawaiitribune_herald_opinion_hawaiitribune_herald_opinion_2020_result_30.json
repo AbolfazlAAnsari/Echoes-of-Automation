@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0024906012695282698,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°From this year on, Dec. 14 will be known as the day in which the nation's efforts to stop a deadly scourge bore fruit, as the first COVID-19 vaccine doses were administered to health care workers throughout the country, giving a downcast nation hope that the end of the pandemic is finally in sight.From this year on, Dec. 14 will be known as the day in which the nation's efforts to stop a deadly scourge bore fruit, as the first COVID-19 vaccine doses were administered to health care workers throughout the country, giving a downcast nation hope that the end of the pandemic is finally in sight.Hours after the U.S. Food and Drug Administration approved emergency use of the Pfizer-BioNTech COVID-19 vaccine on Friday, 3 million doses were on trucks and planes headed to the nation's hospitals.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010220396798104048,
+                    "sentence": "The first immunizations were administered to health care workers soon after.By the end of the week, a second vaccine candidate that uses the same mRNA technology, this one from Moderna, is expected to get FDA approval.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009367405436933041,
+                    "sentence": "By early next year, there are likely to be even more vaccines.It's not the end of the COVID-19 pandemic by a long shot.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001616357360035181,
+                    "sentence": "But barring unforeseen problems with production, distribution or safety, vaccines will be available to the general public in late spring or summer.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009176461608149111,
+                    "sentence": "Until then, we still have months to go during which social distancing, face masks and restrictions on gatherings and businesses will be necessary.That we have reached this point just a year after SARS-CoV-2 was first identified is a remarkable feat.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010653225472196937,
+                    "sentence": "And for this we are profoundly grateful to the many people whose hard work, vision and personal sacrifice made it possible.Thank you to the scientists who started working on the vaccine in February, even before it was clear how widespread the pandemic would become.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012097994331270456,
+                    "sentence": "Thank you to the thousands of clinical trial volunteers who risked their health to take an experimental vaccine for the benefit of others.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013306833570823073,
+                    "sentence": "Thank you to the government officials who worked to limit the bureaucratic red tape that typically makes vaccine development a years-long process, and for doing it without compromising safety controls.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00089956761803478,
+                    "sentence": "And thanks, too, to President Trump.That's right.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.1902385419234633e-05,
+                    "sentence": "Though the Trump administration bungled so much about the COVID-19 response, making the U.S. a global embarrassment and the world's leader in cases, hospitalizations and deaths, its Operation Warp Speed delivered.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.580765041988343e-05,
+                    "sentence": "Launched in May, the private-public initiative marshaled the resources of government, science, the military and the pharmaceutical industry to rapidly develop, produce and distribute a COVID-19 vaccine.Of course, Trump's narrow focus on getting a vaccine to the exclusion of other initiatives came with a cost.Dec.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.879869134631008e-05,
+                    "sentence": "14 also is the day that the U.S. reached 300,000 COVID-19 deaths.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.0057126423344016e-05,
+                    "sentence": "And no matter how much credit Trump gets for helping to usher in a COVID-19 vaccine, it doesn't absolve him of all the other ways in which his leadership failed spectacularly.That Trump simultaneously accelerated the deadliness of this pandemic and its potential cure will be one of the many enduring contradictions of his presidency.For now, the takeaway is that the federal government ᅳ supporting scientists and experts, free of interference ᅳ can still do great things.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.488199920160696e-05,
+                    "sentence": "We hope that underlying insight can now be applied to the many other massive problems our nation faces.ᅳ Los Angeles Times",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 1.9423489116273474e-12
+                }
+            ],
+            "completely_generated_prob": 0.020796750353547094,
+            "class_probabilities": {
+                "human": 0.9792032496464529,
+                "ai": 0.020796750353547094,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9792032496464529,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020796750353547094,
+                    "human": 0.9792032496464529,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°From this year on, Dec. 14 will be known as the day in which the nation’s efforts to stop a deadly scourge bore fruit, as the first COVID-19 vaccine doses were administered to health care workers throughout the country, giving a downcast nation hope that the end of the pandemic is finally in sight.From this year on, Dec. 14 will be known as the day in which the nation’s efforts to stop a deadly scourge bore fruit, as the first COVID-19 vaccine doses were administered to health care workers throughout the country, giving a downcast nation hope that the end of the pandemic is finally in sight.Hours after the U.S. Food and Drug Administration approved emergency use of the Pfizer-BioNTech COVID-19 vaccine on Friday, 3 million doses were on trucks and planes headed to the nation’s hospitals. The first immunizations were administered to health care workers soon after.By the end of the week, a second vaccine candidate that uses the same mRNA technology, this one from Moderna, is expected to get FDA approval. By early next year, there are likely to be even more vaccines.It’s not the end of the COVID-19 pandemic by a long shot. But barring unforeseen problems with production, distribution or safety, vaccines will be available to the general public in late spring or summer. Until then, we still have months to go during which social distancing, face masks and restrictions on gatherings and businesses will be necessary.That we have reached this point just a year after SARS-CoV-2 was first identified is a remarkable feat. And for this we are profoundly grateful to the many people whose hard work, vision and personal sacrifice made it possible.Thank you to the scientists who started working on the vaccine in February, even before it was clear how widespread the pandemic would become. Thank you to the thousands of clinical trial volunteers who risked their health to take an experimental vaccine for the benefit of others. Thank you to the government officials who worked to limit the bureaucratic red tape that typically makes vaccine development a years-long process, and for doing it without compromising safety controls. And thanks, too, to President Trump.That’s right. Though the Trump administration bungled so much about the COVID-19 response, making the U.S. a global embarrassment and the world’s leader in cases, hospitalizations and deaths, its Operation Warp Speed delivered. Launched in May, the private-public initiative marshaled the resources of government, science, the military and the pharmaceutical industry to rapidly develop, produce and distribute a COVID-19 vaccine.Of course, Trump’s narrow focus on getting a vaccine to the exclusion of other initiatives came with a cost.Dec. 14 also is the day that the U.S. reached 300,000 COVID-19 deaths. And no matter how much credit Trump gets for helping to usher in a COVID-19 vaccine, it doesn’t absolve him of all the other ways in which his leadership failed spectacularly.That Trump simultaneously accelerated the deadliness of this pandemic and its potential cure will be one of the many enduring contradictions of his presidency.For now, the takeaway is that the federal government — supporting scientists and experts, free of interference — can still do great things. We hope that underlying insight can now be applied to the many other massive problems our nation faces.— Los Angeles Times"
+        }
+    ]
+}

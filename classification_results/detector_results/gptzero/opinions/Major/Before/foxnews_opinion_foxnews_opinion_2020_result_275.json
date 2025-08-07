@@ -1,0 +1,100 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.001895410125143826,
+                    "sentence": "'Fox &amp; Friends' host Steve Doocy shares a special recipe from his new 'Happy in a Hurry' cookbookThe signatureholidaydish from our new “Happy in a Hurry” cookbook comes to us from the family of an absolute American hero, Marcus Luttrell, the Lone Survivor.I don't know about your family, but the Doocys have always had prime rib atChristmasand for the rest of our lives we will make this one because it is that good.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001388924429193139,
+                    "sentence": "And because 2020 has been such a challenging time, why not try to make that special meal,reallyspecial.This recipe is called Marcus Luttrell's Mama's Prime Rib and his mom Holly's recipe is so easy and so flavorful, it's going to be your2020 holidaygame-changer.Holly always made this prime rib onmajor holidaysand the Luttrell twins, Marcus and Morgan, both grew up big and strong and eventually both became Navy SEALs.STEVE DOOCY: GET 'HAPPY IN A HURRY' WITH GRANDMA BERNDT'S HASH BROWN-CRUST QUICHETo this day, Marcus will request it “every time Mama whips up a big meal.”How good is this prime rib recipe?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013269237242639065,
+                    "sentence": "One time a professional photographer was at the Luttrell home taking pictures while a prime rib was in the oven and he announced that while he was a vegetarian, the smell was driving himcrazy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013702316209673882,
+                    "sentence": "Eventually, he asked for a tiny taste.“Wow, that's good!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.18407991528511047,
+                    "sentence": "Would you have enough to send me home with a plate?” he asked (and they did).Holly brags, “I turned a vegetarian into a carnivore with this prime rib…”I know exactly what the photographer was talking about, because when my wife Kathy makes this and the roast is in the oven, the perfect combination of garlic and onion and beef fills the house with delicious aromas and memories of wonderful family meals when we all used to be able to sit together at the table.This is just one of 100 quick and easy recipes you'll find in the \"holidays\" chapter of \"The Happy in a Hurry Cookbook.\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.2897602915763855,
+                    "sentence": "And… since people are still looking online for stocking stuffers, we should remind you that this book is a thoughtful gift for the person on your holiday list who loves to cook!Click here to order our new cookbook.Adapted from \"THE HAPPY IN A HURRY COOKBOOK,\" by Steve & Kathy DoocySteve Doocy currently serves as co-host of FOX News Channel's (FNC)FOX & Friends(weekdays 6-9AM/ET) alongside Ainsley Earhardt and Brian Kilmeade.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 6,
+                    "completely_generated_prob": 1.474742012248794e-05
+                }
+            ],
+            "completely_generated_prob": 0.15197956577266925,
+            "class_probabilities": {
+                "human": 0.8480204342273308,
+                "ai": 0.15197956577266925,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8480204342273308,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.15197956577266925,
+                    "human": 0.8480204342273308,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       'Fox &amp; Friends' host Steve Doocy shares a special recipe from his new ‘Happy in a Hurry’ cookbookThe signatureholidaydish from our new “Happy in a Hurry” cookbook comes to us from the family of an absolute American hero, Marcus Luttrell, the Lone Survivor.I don’t know about your family, but the Doocys have always had prime rib atChristmasand for the rest of our lives we will make this one because it is that good. And because 2020 has been such a challenging time, why not try to make that special meal,reallyspecial.This recipe is called Marcus Luttrell’s Mama’s Prime Rib and his mom Holly’s recipe is so easy and so flavorful, it’s going to be your2020 holidaygame-changer.Holly always made this prime rib onmajor holidaysand the Luttrell twins, Marcus and Morgan, both grew up big and strong and eventually both became Navy SEALs.STEVE DOOCY: GET 'HAPPY IN A HURRY' WITH GRANDMA BERNDT'S HASH BROWN-CRUST QUICHETo this day, Marcus will request it “every time Mama whips up a big meal.”How good is this prime rib recipe? One time a professional photographer was at the Luttrell home taking pictures while a prime rib was in the oven and he announced that while he was a vegetarian, the smell was driving himcrazy. Eventually, he asked for a tiny taste.“Wow, that’s good! Would you have enough to send me home with a plate?” he asked (and they did).Holly brags, “I turned a vegetarian into a carnivore with this prime rib…”I know exactly what the photographer was talking about, because when my wife Kathy makes this and the roast is in the oven, the perfect combination of garlic and onion and beef fills the house with delicious aromas and memories of wonderful family meals when we all used to be able to sit together at the table.This is just one of 100 quick and easy recipes you’ll find in the \"holidays\" chapter of \"The Happy in a Hurry Cookbook.\" And… since people are still looking online for stocking stuffers, we should remind you that this book is a thoughtful gift for the person on your holiday list who loves to cook!Click here to order our new cookbook.Adapted from \"THE HAPPY IN A HURRY COOKBOOK,\" by Steve & Kathy DoocySteve Doocy currently serves as co-host of FOX News Channel's (FNC)FOX & Friends(weekdays 6-9AM/ET) alongside Ainsley Earhardt and Brian Kilmeade.   "
+        }
+    ]
+}

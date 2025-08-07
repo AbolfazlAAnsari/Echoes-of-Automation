@@ -1,0 +1,94 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.03522813320159912,
+                    "sentence": "A panel of law enforcement officers open up on 'Fox &amp; Friends' on how their jobs have changed during the pandemic.Few people may realize that theDepartment of Homeland Securityis the nation's largest law enforcement organization, with about one-third of our 240,000 employees serving as peace officers and nearly 70 percent performing law enforcement functions.As the leader of this department, I have a special admiration and appreciationfor thosewho put their lives on the line every day to protect our communities and our nation.Every year, DHS joins each of the over 18,000 other law enforcement organizations from across the country for Police Week, which concluded Saturday.WOLF CALLS OUT CHINA FOR TRYING TO STEAL US CORONAVIRUS VACCINE RESEARCH: 'WE NEED TO STAY ON IT'Over the course of seven days, we honor and reflect upon the men and women of law enforcement who lost their lives in the line of duty the year before.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.015611235052347183,
+                    "sentence": "We not only reflect upon their heroic sacrifice - we commemorate their remarkable lives as well.This year, as the deadly COVID-19 pandemic continues to sweep through our country, Police Week went virtual in order to mitigate the risk of further spread.The fact that we couldn't be together physically was an important reminder for Americans to pay thanks to the men and women who wear the uniform each day, risking their own health and safety to protect our communities.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03372243791818619,
+                    "sentence": "Due to the very nature of police work, social distancing isn't always an option for our nation's law enforcement heroes.This fact makes me even more proud of our own officers and agents from Customs and Border Protection, the Secret Service, the Federal Protective Service, Immigration and Customs Enforcement, the Coast Guard, and the Transportation Security Administration.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006041910382919014,
+                    "sentence": "They are still on the frontlines to protect our borders, waterways, skyways, facilities, currency, cyberspace, and so much more.Each of these components has law enforcement officers working around the clock to support the Trump administration's Whole of America response to the COVID-19 pandemic.For example, CBP officers and agents are standing watch at our ports of entry - and along the often unforgiving terrain between them - to stop the travel-related spread of the coronavirus and keep non-citizens from impacted areas from entering the country.ICE Homeland Security Investigations agents are carrying out Operation Stolen Promise, targeting unscrupulous criminals attempting to exploit the pandemic to peddle counterfeit - and often dangerous - medical supplies.And the Secret Service is leading the charge to combat cyber-enabled financial crimes related to the coronavirus, disrupting criminals and helping protect the vulnerable.I want to thank all of these brave men and women who continue to fight on the frontlines of this pandemic and all of our other law enforcement personnel who continue to serve each and every day.Sadly, there are inherent risks associated with the job of a law enforcement officer, and some make the ultimate sacrifice each year.During this year's police week, DHS memorialized three of these outstanding officers: Border Patrol Agent Donna Doss, whose watch ended on Feb. 2, 2019; Border Patrol Agent Robert Hotten, whose watch ended on Oct. 6 last year; and Federal Air Marshal Michele Paul, whose watch ended Nov. 7, 2018.The names of these three will join the more than 22,000 other law enforcement officers included on the National Law Enforcement Officers' Memorial Wall in Washington.Agents Doss and Hotten and Air Marshal Paul exhibited the dedication, selfless service and integrity that has come to define who we are as a department and a nation.While their loss is tragic, it is also a reminder and an opportunity for us to celebrate and appreciate the law enforcement officials who serve us every day.“In valor there is hope” is inscribed on the marble walls of the police memorial in Washington.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9318433403968811,
+                    "sentence": "By reflecting upon the valor displayed by each of those lost in the line of duty, we can certainly find hope as a nation, especially in these trying times.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.0022792978668507114
+                }
+            ],
+            "completely_generated_prob": 0.1519714707116977,
+            "class_probabilities": {
+                "human": 0.847975265147624,
+                "ai": 0.1519714707116977,
+                "mixed": 5.326414067820469e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.847975265147624,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.1519714707116977,
+                    "human": 0.847975265147624,
+                    "mixed": 5.326414067820469e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       A panel of law enforcement officers open up on 'Fox &amp; Friends' on how their jobs have changed during the pandemic.Few people may realize that theDepartment of Homeland Securityis the nation’s largest law enforcement organization, with about one-third of our 240,000 employees serving as peace officers and nearly 70 percent performing law enforcement functions.As the leader of this department, I have a special admiration and appreciationfor thosewho put their lives on the line every day to protect our communities and our nation.Every year, DHS joins each of the over 18,000 other law enforcement organizations from across the country for Police Week, which concluded Saturday.WOLF CALLS OUT CHINA FOR TRYING TO STEAL US CORONAVIRUS VACCINE RESEARCH: 'WE NEED TO STAY ON IT'Over the course of seven days, we honor and reflect upon the men and women of law enforcement who lost their lives in the line of duty the year before. We not only reflect upon their heroic sacrifice – we commemorate their remarkable lives as well.This year, as the deadly COVID-19 pandemic continues to sweep through our country, Police Week went virtual in order to mitigate the risk of further spread.The fact that we couldn’t be together physically was an important reminder for Americans to pay thanks to the men and women who wear the uniform each day, risking their own health and safety to protect our communities. Due to the very nature of police work, social distancing isn’t always an option for our nation’s law enforcement heroes.This fact makes me even more proud of our own officers and agents from Customs and Border Protection, the Secret Service, the Federal Protective Service, Immigration and Customs Enforcement, the Coast Guard, and the Transportation Security Administration. They are still on the frontlines to protect our borders, waterways, skyways, facilities, currency, cyberspace, and so much more.Each of these components has law enforcement officers working around the clock to support the Trump administration’s Whole of America response to the COVID-19 pandemic.For example, CBP officers and agents are standing watch at our ports of entry – and along the often unforgiving terrain between them – to stop the travel-related spread of the coronavirus and keep non-citizens from impacted areas from entering the country.ICE Homeland Security Investigations agents are carrying out Operation Stolen Promise, targeting unscrupulous criminals attempting to exploit the pandemic to peddle counterfeit – and often dangerous – medical supplies.And the Secret Service is leading the charge to combat cyber-enabled financial crimes related to the coronavirus, disrupting criminals and helping protect the vulnerable.I want to thank all of these brave men and women who continue to fight on the frontlines of this pandemic and all of our other law enforcement personnel who continue to serve each and every day.Sadly, there are inherent risks associated with the job of a law enforcement officer, and some make the ultimate sacrifice each year.During this year’s police week, DHS memorialized three of these outstanding officers: Border Patrol Agent Donna Doss, whose watch ended on Feb. 2, 2019; Border Patrol Agent Robert Hotten, whose watch ended on Oct. 6 last year; and Federal Air Marshal Michele Paul, whose watch ended Nov. 7, 2018.The names of these three will join the more than 22,000 other law enforcement officers included on the National Law Enforcement Officers’ Memorial Wall in Washington.Agents Doss and Hotten and Air Marshal Paul exhibited the dedication, selfless service and integrity that has come to define who we are as a department and a nation.While their loss is tragic, it is also a reminder and an opportunity for us to celebrate and appreciate the law enforcement officials who serve us every day.“In valor there is hope” is inscribed on the marble walls of the police memorial in Washington. By reflecting upon the valor displayed by each of those lost in the line of duty, we can certainly find hope as a nation, especially in these trying times.   "
+        }
+    ]
+}

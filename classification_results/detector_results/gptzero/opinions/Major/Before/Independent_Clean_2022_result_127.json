@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0010614547645673156,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001446255948394537,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe results of the local elections would seem to confirm that Boris Johnson is not trusted and is, therefore, an electoral liability, whileLabourunder Keir Starmer is not seen by many as an assured alternative.Given a change of Toryleadershipfrom the venal Johnson to a more rational and measured politician, the party may yet secure a majority in the next general election despite 12 years of ill-directed chaos and confusion that has left the nation more divided than before it came to office.Graham PowellCirencesterJeremy Hunt ignored his own alarm callThe High Court ruling that the Covid care home discharge policy was unlawful would not have arisen if hospitals could have discharged patients to the safety of their homes with proper social care.This could have happened if Jeremy Hunt had acted on his own alarm call, describing the neglect of the elderly as \"a source of national shame\" on 18 October 2013.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005048647872172296,
+                    "sentence": "Instead, during his six-year watch as health secretary, millions of isolated elderly people died unsupported by social care, including a million isolated older people \"left to starve through loneliness\" (Independent 22.1.18).Despite Boris Johnson's promise on the steps of No 10 to fix social care, and Rishi Sunak's spring statement confirmation that \"every penny raised from national insurance... would go to fix the NHS and social care\" Sunak has yet to explain how much will be allocated, and when, to fix social care so that the neglect of the elderly will no longer remain, in Hunt's words, \"a source of national shame\".Trevor LyttletonLondonTime for a windfall tax on energy companiesWith energy giant Shell revealing record profits of more than £7bn in the first three months of the year, along with BP profits of £5bn over the same period, this amounts to a staggering profit of £1,500 a second.Household bills are soaring on the back of these profits, renewing calls for a windfall tax.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008438018849119544,
+                    "sentence": "While the UK government is claiming that this will impact on investment by these companies, the irony is that BP boss Bernard Looney has said that such a tax would not affect its proposals.Other countries also do not seem averse to imposing such a tax.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0022815826814621687,
+                    "sentence": "Italy has imposed a windfall tax, to cushion the impact of energy price rises, with the levy on energy industry profits rising to 25 per cent from 10 per cent.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006819228176027536,
+                    "sentence": "Spain has also agreed to remove taxes from home energy bills, which would instead be paid by enforcing a windfall tax on companies profiting from the surge in energy prices.It is highly immoral that oil companies are benefiting from excess profits, while households struggle, and yet the UK government is unwilling to act to impose a one-off windfall tax to cushion the blow.Alex OrrEdinburghAnyone who disagrees with the government is a 'traitor'It would seem that anyone who disagrees with what must surely be the most right-wing of governments we have had is described as either a traitor or a left-wing radical.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005569838918745518,
+                    "sentence": "Whether they be the BBC, Channel 4 or indeed honourable members of the legal profession, where the term honourable member actually means something.What I cannot understand is why so many people who would previously have been described as on the left, the side of the political spectrum that stands up for ordinary people, still pledge their support to the current crop of extreme right-wingers who are only in it for themselves and their ilk, and are determined to remove all means of criticism of its actions and policies from legitimate protests to the use of the law.G ForwardStirlingWhy is Boris Becker in prison?While it is only right that people should pay for their crimes, why spend a small fortune on keeping Becker in prison?There must be plenty of community service he could do which could well include coaching young tennis players.Now we read he may be deported... yet more public expense and bureaucracy.Dr Anthony IngletonSheffield",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.017486769031531738,
+            "class_probabilities": {
+                "human": 0.9825132309684682,
+                "ai": 0.017486769031531738,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9825132309684682,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.017486769031531738,
+                    "human": 0.9825132309684682,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThe results of the local elections would seem to confirm that Boris Johnson is not trusted and is, therefore, an electoral liability, whileLabourunder Keir Starmer is not seen by many as an assured alternative.Given a change of Toryleadershipfrom the venal Johnson to a more rational and measured politician, the party may yet secure a majority in the next general election despite 12 years of ill-directed chaos and confusion that has left the nation more divided than before it came to office.Graham PowellCirencesterJeremy Hunt ignored his own alarm callThe High Court ruling that the Covid care home discharge policy was unlawful would not have arisen if hospitals could have discharged patients to the safety of their homes with proper social care.This could have happened if Jeremy Hunt had acted on his own alarm call, describing the neglect of the elderly as \"a source of national shame\" on 18 October 2013. Instead, during his six-year watch as health secretary, millions of isolated elderly people died unsupported by social care, including a million isolated older people \"left to starve through loneliness\" (Independent 22.1.18).Despite Boris Johnson's promise on the steps of No 10 to fix social care, and Rishi Sunak's spring statement confirmation that \"every penny raised from national insurance ... would go to fix the NHS and social care\" Sunak has yet to explain how much will be allocated, and when, to fix social care so that the neglect of the elderly will no longer remain, in Hunt's words, \"a source of national shame\".Trevor LyttletonLondonTime for a windfall tax on energy companiesWith energy giant Shell revealing record profits of more than £7bn in the first three months of the year, along with BP profits of £5bn over the same period, this amounts to a staggering profit of £1,500 a second.Household bills are soaring on the back of these profits, renewing calls for a windfall tax. While the UK government is claiming that this will impact on investment by these companies, the irony is that BP boss Bernard Looney has said that such a tax would not affect its proposals.Other countries also do not seem averse to imposing such a tax. Italy has imposed a windfall tax, to cushion the impact of energy price rises, with the levy on energy industry profits rising to 25 per cent from 10 per cent. Spain has also agreed to remove taxes from home energy bills, which would instead be paid by enforcing a windfall tax on companies profiting from the surge in energy prices.It is highly immoral that oil companies are benefiting from excess profits, while households struggle, and yet the UK government is unwilling to act to impose a one-off windfall tax to cushion the blow.Alex OrrEdinburghAnyone who disagrees with the government is a 'traitor'It would seem that anyone who disagrees with what must surely be the most right-wing of governments we have had is described as either a traitor or a left-wing radical. Whether they be the BBC, Channel 4 or indeed honourable members of the legal profession, where the term honourable member actually means something.What I cannot understand is why so many people who would previously have been described as on the left, the side of the political spectrum that stands up for ordinary people, still pledge their support to the current crop of extreme right-wingers who are only in it for themselves and their ilk, and are determined to remove all means of criticism of its actions and policies from legitimate protests to the use of the law.G ForwardStirlingWhy is Boris Becker in prison?While it is only right that people should pay for their crimes, why spend a small fortune on keeping Becker in prison?There must be plenty of community service he could do which could well include coaching young tennis players.Now we read he may be deported... yet more public expense and bureaucracy.Dr Anthony IngletonSheffield"
+        }
+    ]
+}

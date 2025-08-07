@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00019473792053759098,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°It's bad enough that Congress and the White House are making no serious effort to cut spending these days - something we all wind up paying for, whether we realize it or not.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019857754523400217,
+                    "sentence": "But to keep adding to the deficit?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015478930436074734,
+                    "sentence": "That's worse.In recent weeks, the Biden administration has submitted two supplemental spending requests to Congress.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022306533355731517,
+                    "sentence": "The first is $106 billion for “security” items, and the second is $56 billion for “domestic” programs.That's a $162 billion wish list of spending increases.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00030546128982678056,
+                    "sentence": "The budgetary approach taken by the administration and many members of Congress is, to put it mildly, profoundly irresponsible.Yes, some aspects of the requests, such as helping Israel in its fight against terrorism, addressing the crisis at the southern border, and the ongoing debate about aid for Ukraine, are important matters for Congress to discuss.However, by seeking to place all $162 billion of requests in the “emergency” category, the administration hopes to dodge the bipartisan spending limits agreed to this spring.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022349717619363219,
+                    "sentence": "That means the entire amount would be financed through deficit spending.This would be problematic under normal circumstances.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00035407638642936945,
+                    "sentence": "Today it's downright dangerous.That's because America is still suffering the economic consequences of the $7.5 trillion spending spree that Congress went on from 2020 to 2022, using the pandemic as an excuse to throw money at a variety of special interests.The incredible volume of deficit spending helped drive inflation to multi-decade highs, reducing purchasing power by thousands of dollars per household.In response, the Federal Reserve has dramatically increased interest rates, disrupting financial markets and making home mortgages unaffordable for millions of families.That means it's vital to reserve the “emergency” label for situations of national importance that were unforeseen at the start of the annual spending process.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00039485777961090207,
+                    "sentence": "Responding to the barbaric attacks by Hamas on innocent Israelis is an example of a genuine emergency.In contrast, the administration's spending requests are loaded with provisions that were well-established at the start of the year, such as the war in Ukraine.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016165178385563195,
+                    "sentence": "But claiming that items such as broadband internet subsidies, communications infrastructure and child care benefits - however important they may be - warrant “crisis” funding strains credulity to the breaking point.The reason for such requests is that the administration and its allies are addicted to deficit spending.Thus, they'll take every opportunity possible to exploit budget loopholes and deliver your hard-earned tax dollars to special interests.It's increasingly clear that Washington is allergic to responsible budgeting.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022533556330017745,
+                    "sentence": "Rather than responding to genuine emergencies by reducing or eliminating spending on corporate welfare schemes and boondoggle projects, too many legislators behave as if all existing programs and bureaucracies are sacred.A step in the right direction would be for Congress to limit “emergency” spending to real emergencies.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002675845753401518,
+                    "sentence": "Our leaders should have the common sense to separate what's truly urgent, such as supporting Israel, from items that can go through normal appropriations, like broadband subsidies.Otherwise, we're all going to wind up paying the price - literally.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.004960347667224892,
+            "class_probabilities": {
+                "human": 0.9950396523327751,
+                "ai": 0.004960347667224892,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9950396523327751,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.004960347667224892,
+                    "human": 0.9950396523327751,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°It’s bad enough that Congress and the White House are making no serious effort to cut spending these days – something we all wind up paying for, whether we realize it or not. But to keep adding to the deficit? That’s worse.In recent weeks, the Biden administration has submitted two supplemental spending requests to Congress. The first is $106 billion for “security” items, and the second is $56 billion for “domestic” programs.That’s a $162 billion wish list of spending increases. The budgetary approach taken by the administration and many members of Congress is, to put it mildly, profoundly irresponsible.Yes, some aspects of the requests, such as helping Israel in its fight against terrorism, addressing the crisis at the southern border, and the ongoing debate about aid for Ukraine, are important matters for Congress to discuss.However, by seeking to place all $162 billion of requests in the “emergency” category, the administration hopes to dodge the bipartisan spending limits agreed to this spring. That means the entire amount would be financed through deficit spending.This would be problematic under normal circumstances. Today it’s downright dangerous.That’s because America is still suffering the economic consequences of the $7.5 trillion spending spree that Congress went on from 2020 to 2022, using the pandemic as an excuse to throw money at a variety of special interests.The incredible volume of deficit spending helped drive inflation to multi-decade highs, reducing purchasing power by thousands of dollars per household.In response, the Federal Reserve has dramatically increased interest rates, disrupting financial markets and making home mortgages unaffordable for millions of families.That means it’s vital to reserve the “emergency” label for situations of national importance that were unforeseen at the start of the annual spending process. Responding to the barbaric attacks by Hamas on innocent Israelis is an example of a genuine emergency.In contrast, the administration’s spending requests are loaded with provisions that were well-established at the start of the year, such as the war in Ukraine. But claiming that items such as broadband internet subsidies, communications infrastructure and child care benefits – however important they may be – warrant “crisis” funding strains credulity to the breaking point.The reason for such requests is that the administration and its allies are addicted to deficit spending.Thus, they’ll take every opportunity possible to exploit budget loopholes and deliver your hard-earned tax dollars to special interests.It’s increasingly clear that Washington is allergic to responsible budgeting. Rather than responding to genuine emergencies by reducing or eliminating spending on corporate welfare schemes and boondoggle projects, too many legislators behave as if all existing programs and bureaucracies are sacred.A step in the right direction would be for Congress to limit “emergency” spending to real emergencies. Our leaders should have the common sense to separate what’s truly urgent, such as supporting Israel, from items that can go through normal appropriations, like broadband subsidies.Otherwise, we’re all going to wind up paying the price – literally."
+        }
+    ]
+}

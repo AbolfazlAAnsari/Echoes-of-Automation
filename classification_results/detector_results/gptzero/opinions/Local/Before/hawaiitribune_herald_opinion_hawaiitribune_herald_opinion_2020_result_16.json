@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00011169356730533764,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°The $900 billion fiscal stimulus approved by congressional leaders late Sunday, and now headed for speedy enactment, is, like the accompanying funding deal to avert a government shutdown, more than a little underwhelming.Not just because it's a shadow of the multi-trillion-dollar CARES Act approved last spring.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.854818199528381e-05,
+                    "sentence": "Not just because Democrats and President Donald Trump wanted to spend substantially more.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.368557948619127e-05,
+                    "sentence": "Or even that Federal Reserve Chairman Jerome Powell counseled against a too-small second stimulus causing a “weak” recovery.But simply because in this almost unparalleled circumstance of a pandemic, “throwing money” at the problem is exactly the right thing to do.And what did these weeks and months of bickering between congressional factions accomplish?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001581154647283256,
+                    "sentence": "If this was supposed to be a Dickensian Christmas drama, it appears Ebenezer Scrooge only learned his lesson partially from the holiday spirits.No turkey for the Cratchits, but maybe a plate of reheated mac and cheese.It is a moment less reminiscent of “A Christmas Carol” and more like “Oliver Twist” ᅳ “Please, sir, I want some more.” The only thing missing is the resulting swing of a ladle to the head.Here's what all that wasted energy wrought: $600 checks for people making up to $75,000 a year, $300 per week in added unemployment benefits through mid-March, more Paycheck Protection Program loans to small businesses (at more than one-third the cost of the package) and some direct aid for struggling transportation systems, food stamp benefits, coronavirus vaccines, testing and tracing, rental aid and a one-month extension of the federal eviction ban, education aid, a small pay boost for the military and some other small odds and ends.Senate Republicans held the line on aid to “Democrat-run” states and cities, but not really.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012275447079446167,
+                    "sentence": "Many other forms of direct aid ᅳ health care and education costs, for example ᅳ will indirectly soften the blow of reduced tax collections on local government budgets.Democrats are vowing that this isn't the last economic relief package of the pandemic and that things will be different once Joe Biden takes the oath of office.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013488138210959733,
+                    "sentence": "But will they?It seems like Republicans had plenty of incentive to get this done before the Georgia runoff elections.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011569880734896287,
+                    "sentence": "Then what?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012818507384508848,
+                    "sentence": "If Democrats take both those Senate seats in what would surely be the political upset of the year, then yes, a change of heart is possible.But aside from that, why should anyone expect Senate Majority Leader Mitch McConnell to lift a finger to accomplish anything other than block Democratic initiatives?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010880642803385854,
+                    "sentence": "Wasn't that his stated purpose when Barack Obama was president?These are trying times.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013750022044405341,
+                    "sentence": "Many Americans will soon be celebrating Christmas and New Year's after that.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001528883003629744,
+                    "sentence": "It's a time for good will toward all, for charity, for generosity, for inspiration, thankfulness and faith.They might not all be miserly curmudgeons on Capitol Hill, but one overdue relief measure doesn't mean they are keeping Christmas in their hearts either.ᅳ The Baltimore Sun",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.00982192507144982,
+            "class_probabilities": {
+                "human": 0.9901780749285501,
+                "ai": 0.00982192507144982,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9901780749285501,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.00982192507144982,
+                    "human": 0.9901780749285501,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°The $900 billion fiscal stimulus approved by congressional leaders late Sunday, and now headed for speedy enactment, is, like the accompanying funding deal to avert a government shutdown, more than a little underwhelming.Not just because it’s a shadow of the multi-trillion-dollar CARES Act approved last spring. Not just because Democrats and President Donald Trump wanted to spend substantially more. Or even that Federal Reserve Chairman Jerome Powell counseled against a too-small second stimulus causing a “weak” recovery.But simply because in this almost unparalleled circumstance of a pandemic, “throwing money” at the problem is exactly the right thing to do.And what did these weeks and months of bickering between congressional factions accomplish? If this was supposed to be a Dickensian Christmas drama, it appears Ebenezer Scrooge only learned his lesson partially from the holiday spirits.No turkey for the Cratchits, but maybe a plate of reheated mac and cheese.It is a moment less reminiscent of “A Christmas Carol” and more like “Oliver Twist” — “Please, sir, I want some more.” The only thing missing is the resulting swing of a ladle to the head.Here’s what all that wasted energy wrought: $600 checks for people making up to $75,000 a year, $300 per week in added unemployment benefits through mid-March, more Paycheck Protection Program loans to small businesses (at more than one-third the cost of the package) and some direct aid for struggling transportation systems, food stamp benefits, coronavirus vaccines, testing and tracing, rental aid and a one-month extension of the federal eviction ban, education aid, a small pay boost for the military and some other small odds and ends.Senate Republicans held the line on aid to “Democrat-run” states and cities, but not really. Many other forms of direct aid — health care and education costs, for example — will indirectly soften the blow of reduced tax collections on local government budgets.Democrats are vowing that this isn’t the last economic relief package of the pandemic and that things will be different once Joe Biden takes the oath of office. But will they?It seems like Republicans had plenty of incentive to get this done before the Georgia runoff elections. Then what? If Democrats take both those Senate seats in what would surely be the political upset of the year, then yes, a change of heart is possible.But aside from that, why should anyone expect Senate Majority Leader Mitch McConnell to lift a finger to accomplish anything other than block Democratic initiatives? Wasn’t that his stated purpose when Barack Obama was president?These are trying times. Many Americans will soon be celebrating Christmas and New Year’s after that. It’s a time for good will toward all, for charity, for generosity, for inspiration, thankfulness and faith.They might not all be miserly curmudgeons on Capitol Hill, but one overdue relief measure doesn’t mean they are keeping Christmas in their hearts either.— The Baltimore Sun"
+        }
+    ]
+}

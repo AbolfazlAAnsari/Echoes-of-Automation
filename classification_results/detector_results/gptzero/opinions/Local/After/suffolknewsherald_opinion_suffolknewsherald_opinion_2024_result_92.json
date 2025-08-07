@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.5947948694229126,
+                    "sentence": "Published 5:42 pm Tuesday, January 16, 2024BySuffolk News-Herald Editorial BoardIn October, the Virginia Department of Transportation announced the dates for its planned extended closure of the James River Bridge to complete a rope replacement project.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5374642610549927,
+                    "sentence": "Initially, it was thought the first closure would take place in November.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.8905770778656006,
+                    "sentence": "However, VDOT Special Structures Project Administrator Mark Grass said publicly the November start time was unrealistic.With that being said, no matter when the closure happened, it should not have come as a surprise to anyone, although, judging from comments on our social media pages, it did.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.7929967045783997,
+                    "sentence": "Some were angry about the traffic issues a closure of this sort created - contrary to some reports, traffic on Friday was a mess - some were questioning the overall safety of the structure, and some defended the closure.The 4.5-mile James River Bridge is Virginia's longest state-maintained bridge.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.551044762134552,
+                    "sentence": "It was opened in 1928 as the first connector between the Peninsula and South Hampton Roads.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.4441128075122833,
+                    "sentence": "The bridge carries Routes 17/258/32 between Newport News and Isle of Wight County.The original two-lane bridge was replaced in 1982 with a wider four-lane lift-span bridge designed to handle increased traffic volumes.Given the bridge's age, regular maintenance is critical and sometimes inconvenient.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002442464465275407,
+                    "sentence": "With nearly one million vehicles using the JRB monthly, ignoring the structure or taking shortcuts to make necessary repairs or upgrades can jeopardize the structure's integrity and pave the way for potential disaster.Routine maintenance can also save time and money in the long run by addressing issues before they escalate.A brief inconvenience trumps a devastating, potentially life-altering catastrophe any day.Whether you are a frequent traveler of the JRB or only occasionally cross the structure, don't let the next extended closure catch you by surprise.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007797164143994451,
+                    "sentence": "It is scheduled for 1 a.m. on Friday, Feb. 2, through 5 a.m. on Tuesday, Feb. 6.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00044939195504412055,
+                    "sentence": "Bridge lift restrictions may extend up to 24 hours through 5 a.m. Wednesday, Feb. 7.Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00041203724686056376,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…In one of five compelling matchups on the WNBA slate today, the Seattle Storm and Connecticut Sun will…Wondering how you should bet on today's WNBA games?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012531894026324153,
+                    "sentence": "Look no further.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011551716597750783,
+                    "sentence": "Below you'll find computer predictions on…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 3.0857991148692655e-09
+                }
+            ],
+            "completely_generated_prob": 0.2425855513307985,
+            "class_probabilities": {
+                "human": 0.7574144486692015,
+                "ai": 0.2425855513307985,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.7574144486692015,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.2425855513307985,
+                    "human": 0.7574144486692015,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:42 pm Tuesday, January 16, 2024BySuffolk News-Herald Editorial BoardIn October, the Virginia Department of Transportation announced the dates for its planned extended closure of the James River Bridge to complete a rope replacement project. Initially, it was thought the first closure would take place in November. However, VDOT Special Structures Project Administrator Mark Grass said publicly the November start time was unrealistic.With that being said, no matter when the closure happened, it should not have come as a surprise to anyone, although, judging from comments on our social media pages, it did. Some were angry about the traffic issues a closure of this sort created – contrary to some reports, traffic on Friday was a mess – some were questioning the overall safety of the structure, and some defended the closure.The 4.5-mile James River Bridge is Virginia’s longest state-maintained bridge. It was opened in 1928 as the first connector between the Peninsula and South Hampton Roads. The bridge carries Routes 17/258/32 between Newport News and Isle of Wight County.The original two-lane bridge was replaced in 1982 with a wider four-lane lift-span bridge designed to handle increased traffic volumes.Given the bridge’s age, regular maintenance is critical and sometimes inconvenient. With nearly one million vehicles using the JRB monthly, ignoring the structure or taking shortcuts to make necessary repairs or upgrades can jeopardize the structure’s integrity and pave the way for potential disaster.Routine maintenance can also save time and money in the long run by addressing issues before they escalate.A brief inconvenience trumps a devastating, potentially life-altering catastrophe any day.Whether you are a frequent traveler of the JRB or only occasionally cross the structure, don’t let the next extended closure catch you by surprise. It is scheduled for 1 a.m. on Friday, Feb. 2, through 5 a.m. on Tuesday, Feb. 6. Bridge lift restrictions may extend up to 24 hours through 5 a.m. Wednesday, Feb. 7.Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…In one of five compelling matchups on the WNBA slate today, the Seattle Storm and Connecticut Sun will…Wondering how you should bet on today’s WNBA games? Look no further. Below you’ll find computer predictions on…"
+        }
+    ]
+}

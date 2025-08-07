@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.07439851015806198,
+                    "sentence": "The mezzo-soprano's fears over the future of British musicians also mirrors the general concerns of our readers, writes Chris StevensonBrexitis a constant topic for those readers sending letters to The Independent, or commenting on articles - whether they are for or against.Five years after the original vote, it is still one of the issues that we receive the most correspondence about.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06809355318546295,
+                    "sentence": "So I'd be interested to see what readers make of the comments by Dame Sarah Connolly about the future for British musicians, and specifically operasingers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09178762137889862,
+                    "sentence": "\"I'm very worried that without some kind of situation where Britishmusicianscan spend a significant amount of time inEuropeestablishing their careers,\" she told BBC Radio 4's Desert Island Discs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09161156415939331,
+                    "sentence": "\"I'm very concerned that what we have at the moment - which is roughly 20 per cent of the global excellence, some of the greatest singers in the world are British - where's that next generation going to come from if they can't get known?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1153903603553772,
+                    "sentence": "\"Not just through the Cardiff Singer of the World competition and these occasional competitions where people are thrust into the limelight.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9925816655158997,
+                    "sentence": "\"The mezzo-soprano, who has performed at top venues in the world, including the Royal Opera House in London and the Metropolitan Opera in New York, as well as Glyndebourne, Vienna and Bayreuth added that \"networking\" and \"going to work for months on end\" were part of being able to hone the craft.Granted, opera isn't the largest part of the UK economy compared to some other sectors - but many readers have written to us about what they believe is - or will become - a fall in the UK's \"soft power\", whatever is said by Boris Johnson and his government about \"Global Britain\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9962300062179565,
+                    "sentence": "Others will disagree and that the adjustment of life in Britain (and beyond) will take some time and is on track.Whatever your position, I look forward to hearing your opinion.Yours,Chris StevensonEditor, VoicesRead MoreChristmas shoppers warned about post-Brexit charges on orders from EUTravel to Europe: the post-Brexit passport rulesGovernment delays key Brexit border checks",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 0.0010573188656143365
+                }
+            ],
+            "completely_generated_prob": 0.3178082191780822,
+            "class_probabilities": {
+                "human": 0.6821917808219177,
+                "ai": 0.3178082191780822,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.6821917808219177,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.3178082191780822,
+                    "human": 0.6821917808219177,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "The mezzo-soprano's fears over the future of British musicians also mirrors the general concerns of our readers, writes Chris StevensonBrexitis a constant topic for those readers sending letters to The Independent, or commenting on articles - whether they are for or against.Five years after the original vote, it is still one of the issues that we receive the most correspondence about. So I'd be interested to see what readers make of the comments by Dame Sarah Connolly about the future for British musicians, and specifically operasingers.\"I'm very worried that without some kind of situation where Britishmusicianscan spend a significant amount of time inEuropeestablishing their careers,\" she told BBC Radio 4's Desert Island Discs. \"I'm very concerned that what we have at the moment - which is roughly 20 per cent of the global excellence, some of the greatest singers in the world are British - where's that next generation going to come from if they can't get known?\"Not just through the Cardiff Singer of the World competition and these occasional competitions where people are thrust into the limelight.\"The mezzo-soprano, who has performed at top venues in the world, including the Royal Opera House in London and the Metropolitan Opera in New York, as well as Glyndebourne, Vienna and Bayreuth added that \"networking\" and \"going to work for months on end\" were part of being able to hone the craft.Granted, opera isn't the largest part of the UK economy compared to some other sectors - but many readers have written to us about what they believe is - or will become - a fall in the UK's \"soft power\", whatever is said by Boris Johnson and his government about \"Global Britain\". Others will disagree and that the adjustment of life in Britain (and beyond) will take some time and is on track.Whatever your position, I look forward to hearing your opinion.Yours,Chris StevensonEditor, VoicesRead MoreChristmas shoppers warned about post-Brexit charges on orders from EUTravel to Europe: the post-Brexit passport rulesGovernment delays key Brexit border checks"
+        }
+    ]
+}

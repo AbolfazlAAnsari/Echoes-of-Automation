@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 5.978101398795843e-05,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°China's aggressiondefinitely a threatChina's aggressiondefinitely a threatHonolulu Civil Beat has an excellent record of journalistic achievement.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.4617638448253274e-05,
+                    "sentence": "Its investigative reporters are among Hawaii's best.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.964143979828805e-05,
+                    "sentence": "That said, it also publishes commentaries which I sometimes disagree with.Naka Nathaniel's (Dec. 13) bit on the U.S. military not paying their fair share to Hawaii is one.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.465928552439436e-05,
+                    "sentence": "He writes the threat of Chinese aggression is no justification for any Pearl Harbor expansion.He goes on to point out David Daokui Li's claim, “China simply does not appear to have the global ambition, institutional capacity, historical tradition or ideological clarity to replace and behave like the United States of today.” Li is a Chinese economist and a professor at Tsinghua University in Beijing.Daily threats against Taiwan and the Philippines and extending their territorial claims to nearly the entire South China Sea tells a different story.While this behavior may not be a direct danger to the U.S., industrial espionage and the clandestine export of fentanyl precursors to the U.S. definitely are.China's Belt and Road Initiative's purpose is more than just facilitating trade.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001423056237399578,
+                    "sentence": "There are also military implications.China now has naval bases in Cambodia and Djibouti.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021654774900525808,
+                    "sentence": "The Chinese-built commercial seaport of Gwandar in Pakistan will also be made available to the Chinese navy.Chinese hacking of U.S. infrastructure is on the rise, with reports of a Hawaii utility company being a recent target.So, to imply Chinese aggression is not a threat to Hawaii is bogus.Don BakerVolcanoGreat medical careat Hilo facilitiesI recently broke my right hip and had emergency surgery at Hilo Medical Center, with follow-up rehab at Hale Anuenue.At both facilities, I was cared for like I was family, and I felt like everyone had my back.I can't thank Hilo Medical Center and Hale Anuenue rehab enough.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019170550513081253,
+                    "sentence": "We are lucky in East Hawaii that this level of care is available!Gretchen KlungnessMountain View",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.008764888981516596,
+            "class_probabilities": {
+                "human": 0.9912351110184834,
+                "ai": 0.008764888981516596,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9912351110184834,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.008764888981516596,
+                    "human": 0.9912351110184834,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°China’s aggressiondefinitely a threatChina’s aggressiondefinitely a threatHonolulu Civil Beat has an excellent record of journalistic achievement. Its investigative reporters are among Hawaii’s best. That said, it also publishes commentaries which I sometimes disagree with.Naka Nathaniel’s (Dec. 13) bit on the U.S. military not paying their fair share to Hawaii is one. He writes the threat of Chinese aggression is no justification for any Pearl Harbor expansion.He goes on to point out David Daokui Li’s claim, “China simply does not appear to have the global ambition, institutional capacity, historical tradition or ideological clarity to replace and behave like the United States of today.” Li is a Chinese economist and a professor at Tsinghua University in Beijing.Daily threats against Taiwan and the Philippines and extending their territorial claims to nearly the entire South China Sea tells a different story.While this behavior may not be a direct danger to the U.S., industrial espionage and the clandestine export of fentanyl precursors to the U.S. definitely are.China’s Belt and Road Initiative’s purpose is more than just facilitating trade. There are also military implications.China now has naval bases in Cambodia and Djibouti. The Chinese-built commercial seaport of Gwandar in Pakistan will also be made available to the Chinese navy.Chinese hacking of U.S. infrastructure is on the rise, with reports of a Hawaii utility company being a recent target.So, to imply Chinese aggression is not a threat to Hawaii is bogus.Don BakerVolcanoGreat medical careat Hilo facilitiesI recently broke my right hip and had emergency surgery at Hilo Medical Center, with follow-up rehab at Hale Anuenue.At both facilities, I was cared for like I was family, and I felt like everyone had my back.I can’t thank Hilo Medical Center and Hale Anuenue rehab enough. We are lucky in East Hawaii that this level of care is available!Gretchen KlungnessMountain View"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00011319581244606525,
+                    "sentence": "Do details really matter to Professor James Allan?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012524962949100882,
+                    "sentence": "In his opinion column, \"This is a terrible way to change Australia's Constitution\" (January 30), he criticises the government for providing too little \"detail\" on the proposed Indigenous Voice.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.582892380421981e-05,
+                    "sentence": "He points to The Federalist Papers as the exemplar of political communication for justifying and explaining, in detail, proposed constitutional amendments.Professor Allan begins his piece by incorrectly asserting that Alexander Hamilton was an abolitionist (the jury is still out on Hamilton's record on slavery, but it is clear he was not an abolitionist, even if he held anti-slavery views).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001096060877898708,
+                    "sentence": "He then proceeds to laud the authors of The Federalist Papers for providing \"details\".Perhaps Professor Allan's collection is missing Paper No.84 in the series, where Hamilton argued against the inclusion of a bill of rights because it was \"unnecessary\":\"I go further, and affirm that bills of rights, in the sense and to the extent in which they are contended for, are not only unnecessary in the proposed Constitution, but would even be dangerous.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010463816579431295,
+                    "sentence": "They would contain various exceptions to powers not granted; and, on this very account, would afford a colorable pretext to claim more than were granted.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013216312800068408,
+                    "sentence": "For why declare that things shall not be done which there is no power to do?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012816574599128217,
+                    "sentence": "Why, for instance, should it be said that the liberty of the press shall not be restrained, when no power is given by which restrictions may be imposed?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011837807687697932,
+                    "sentence": "\"Hamilton makes a clear argument that providing too much detail can later be employed by those with dishonourable designs to undermine the noble intentions of the constitutional drafters.An interesting conclusion, to say the least, and certainly at odds with the argument Professor Allan attempts to advance.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013003913045395166,
+                    "sentence": "His piece may have been more persuasive had he been across the details.Riley GrayNorth Perth, WA",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.008764888981516596,
+            "class_probabilities": {
+                "human": 0.9912351110184834,
+                "ai": 0.008764888981516596,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9912351110184834,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.008764888981516596,
+                    "human": 0.9912351110184834,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Do details really matter to Professor James Allan? In his opinion column, \"This is a terrible way to change Australia's Constitution\" (January 30), he criticises the government for providing too little \"detail\" on the proposed Indigenous Voice. He points to The Federalist Papers as the exemplar of political communication for justifying and explaining, in detail, proposed constitutional amendments.Professor Allan begins his piece by incorrectly asserting that Alexander Hamilton was an abolitionist (the jury is still out on Hamilton's record on slavery, but it is clear he was not an abolitionist, even if he held anti-slavery views). He then proceeds to laud the authors of The Federalist Papers for providing \"details\".Perhaps Professor Allan's collection is missing Paper No.84 in the series, where Hamilton argued against the inclusion of a bill of rights because it was \"unnecessary\":\"I go further, and affirm that bills of rights, in the sense and to the extent in which they are contended for, are not only unnecessary in the proposed Constitution, but would even be dangerous. They would contain various exceptions to powers not granted; and, on this very account, would afford a colorable pretext to claim more than were granted. For why declare that things shall not be done which there is no power to do? Why, for instance, should it be said that the liberty of the press shall not be restrained, when no power is given by which restrictions may be imposed?\"Hamilton makes a clear argument that providing too much detail can later be employed by those with dishonourable designs to undermine the noble intentions of the constitutional drafters.An interesting conclusion, to say the least, and certainly at odds with the argument Professor Allan attempts to advance. His piece may have been more persuasive had he been across the details.Riley GrayNorth Perth, WA"
+        }
+    ]
+}

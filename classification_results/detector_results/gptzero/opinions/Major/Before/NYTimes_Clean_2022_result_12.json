@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0005595595575869083,
+                    "sentence": "Times Opinion puts the events of Jan. 6 in context.This article also appears in the Opinion Today newsletter.You can sign up hereto receive it in your inbox each weekday morning.An easy mistake to make when analyzing the ramifications of an event as viscerally disorienting as the one that occurred on Jan. 6, 2021, is to focus too much on the details of the event itself, rather than the broader lessons to be drawn from it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00040809338679537177,
+                    "sentence": "In planning our coverage for the anniversary of the storming of the Capitol, I felt that what Times Opinion could bring to bear was sharp arguments about the confluence of factors that created the environment in which the 6th was possible and about what it augured.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005121862050145864,
+                    "sentence": "Which is to say, we wanted to place Jan. 6 in context.If the storming of the Capitol was a symptom, then what is the diagnosis of and prognosis for the underlying disorder?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005681390757672489,
+                    "sentence": "No piece in this collection of essays aims to be entirely comprehensive; they represent a range of perspectives on Jan. 6 that sometimes overlap with and contradict one another.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0035752514377236366,
+                    "sentence": "Guest essays fromJedediah Britton-Purdy,a historian, andOsita Nwanevu, a writer and a contributing editor at The New Republic, discuss the ways in which the events of the 6th can be interpreted as attacks on America's democratic institutions but were ultimately produced by the same institutions.The essayistRebecca Solnitsituates the problem in an electorate increasingly willing to believe lies and politicians eager to tell them.Sohrab Ahmari, a contributing editor at The American Conservative, argues that the storming of the Capitol was an impotent and misguided expression of well-founded populist anger.Francis Fukuyama, a political scientist, places the disruption of the peaceful transfer of power against a backdrop of global democratic erosion.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002453274792060256,
+                    "sentence": "Andformer President Jimmy Carterwarns that America is not immune to this international trend and outlines how to back away from the precipice.I hope these and the other articles we're publishing about the lessons we can learn from Jan. 6 help you think about what brought us to that moment ᅳ and what will happen next.Ezekiel Kweku is the Opinion politics editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0025312062352895737,
+                    "sentence": "He joined the Times in 2020 from New York magazine.PHOTO: (PHOTOGRAPH BY Ashley Gilbertson/VII/Redux FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.01861304959480408,
+            "class_probabilities": {
+                "human": 0.9813464938142095,
+                "ai": 0.01861304959480408,
+                "mixed": 4.045659098641626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9813464938142095,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01861304959480408,
+                    "human": 0.9813464938142095,
+                    "mixed": 4.045659098641626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Times Opinion puts the events of Jan. 6 in context.This article also appears in the Opinion Today newsletter.You can sign up hereto receive it in your inbox each weekday morning.An easy mistake to make when analyzing the ramifications of an event as viscerally disorienting as the one that occurred on Jan. 6, 2021, is to focus too much on the details of the event itself, rather than the broader lessons to be drawn from it. In planning our coverage for the anniversary of the storming of the Capitol, I felt that what Times Opinion could bring to bear was sharp arguments about the confluence of factors that created the environment in which the 6th was possible and about what it augured. Which is to say, we wanted to place Jan. 6 in context.If the storming of the Capitol was a symptom, then what is the diagnosis of and prognosis for the underlying disorder? No piece in this collection of essays aims to be entirely comprehensive; they represent a range of perspectives on Jan. 6 that sometimes overlap with and contradict one another. Guest essays fromJedediah Britton-Purdy,a historian, andOsita Nwanevu, a writer and a contributing editor at The New Republic, discuss the ways in which the events of the 6th can be interpreted as attacks on America’s democratic institutions but were ultimately produced by the same institutions.The essayistRebecca Solnitsituates the problem in an electorate increasingly willing to believe lies and politicians eager to tell them.Sohrab Ahmari, a contributing editor at The American Conservative, argues that the storming of the Capitol was an impotent and misguided expression of well-founded populist anger.Francis Fukuyama, a political scientist, places the disruption of the peaceful transfer of power against a backdrop of global democratic erosion. Andformer President Jimmy Carterwarns that America is not immune to this international trend and outlines how to back away from the precipice.I hope these and the other articles we’re publishing about the lessons we can learn from Jan. 6 help you think about what brought us to that moment — and what will happen next.Ezekiel Kweku is the Opinion politics editor. He joined the Times in 2020 from New York magazine.PHOTO:  (PHOTOGRAPH BY Ashley Gilbertson/VII/Redux FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

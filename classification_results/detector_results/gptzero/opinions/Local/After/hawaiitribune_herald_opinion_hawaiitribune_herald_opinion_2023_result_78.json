@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00014186697080731392,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|78.62°The trickle-down strategies of the last several decades ᅳ defined by tax cuts for the wealthy ᅳ didn't work and, in fact, led to stagnating incomes for everyone else.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012752952170558274,
+                    "sentence": "However, the Biden administration's vision for growth is clear: The Inflation Reduction Act, Bipartisan Infrastructure Law and CHIPS and Science Act chart a new path based on the philosophy that the economy is strongest when it grows from the “middle out and bottom up.”These sweeping economic laws build out public investment in 21st century infrastructure and support domestic competitiveness in key sectors, all while strengthening protections to ensure new public investment benefits working people from all walks of life.At times, pundits portrayed Bidenomics as a gamble, but key elements of the laws' middle-class protections ᅳ such as prevailing-wage standards ᅳ are proven strategies that raise standards for workers, support law-abiding contractors and ensure the public receives good value for the investments paid for by tax dollars.The overwhelming majority of the Bipartisan Infrastructure Law, CHIPS and Science Act funds, and the IRA's tax credit programs are protected by the Davis-Bacon Act ᅳ a 90-year-old law that requires corporations receiving federal funds to pay construction workers market ᅳ or “prevailing” ᅳ wages and benefits.Prevailing-wage standards, also frequently adopted by state and local policymakers, prevent the government from driving down standards when it acts as a purchaser of goods and services.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03786519169807434,
+                    "sentence": "Private-sector recipients are required to provide workers with wages and fringe benefits comparable to those paid to other similarly placed workers in the region.Research shows that prevailing-wage laws improve workers' lives by supporting middle-class pay, ensuring union wage rates are not undercut, expanding health insurance and retirement coverage, and closing the income gap between white and Black construction workers.Prevailing-wage laws also benefit responsible contractors and the public by boosting worker productivity, reducing injury rates and increasing apprenticeship training.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06143642216920853,
+                    "sentence": "This helps address the shortage of skilled labor in construction and ensures that projects are completed on time and within budget.Despite significant evidence of prevailing-wage laws benefiting workers, business owners and the public, some lawmakers attempt to undermine these pro-worker laws in favor of trickle-down policies.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00401677330955863,
+                    "sentence": "This has been done through perennial campaigns to roll back federal standards and a handful of actions overturning state-level prevailing-wage laws in recent years.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0029127439484000206,
+                    "sentence": "However, studies show that prevailing-wage bans reduce workers' wages and decrease competition for government projects since contractors that pay decent wages are discouraged from bidding due to concerns of being undercut by low-road contractors that pay rock-bottom wages.Ultimately, the question is not whether prevailing-wage standards work but whether they and other job-quality protections will be adopted broadly enough to make a difference to working people nationwide.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018015006789937615,
+                    "sentence": "While Bidenomics extends prevailing-wage standards for construction workers, similar standards do not automatically apply to all workers whose jobs are funded by federal spending.To ensure that all federal government investments live up to President Joe Biden's “middle-out” commitments, prevailing-wage standards must be paired with the administration's other efforts to expand high-quality training for new generations to access publicly supported jobs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01324097067117691,
+                    "sentence": "Doing so will ensure that the administration can deliver on a vision of growing the middle classᅳ Insidesources.comHilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011202218942344189,
+                    "sentence": "Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017.NEW YORK ᅳ Lou Piniella was back in uniform Saturday, wearing pinstripes and the number 14 for Old-Timers' Day at Yankee Stadium.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007978074252605438,
+                    "sentence": "Piniella, who turns 81 next week, earned his fame in the Bronx as a two-time World Series champion but spent much of his managing career in a feisty rivalry with the Y",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.021596770642208406,
+            "class_probabilities": {
+                "human": 0.9781216349765232,
+                "ai": 0.021596770642208406,
+                "mixed": 0.00028159438126836863
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9781216349765232,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.021596770642208406,
+                    "human": 0.9781216349765232,
+                    "mixed": 0.00028159438126836863
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|78.62°The trickle-down strategies of the last several decades — defined by tax cuts for the wealthy — didn’t work and, in fact, led to stagnating incomes for everyone else. However, the Biden administration’s vision for growth is clear: The Inflation Reduction Act, Bipartisan Infrastructure Law and CHIPS and Science Act chart a new path based on the philosophy that the economy is strongest when it grows from the “middle out and bottom up.”These sweeping economic laws build out public investment in 21st century infrastructure and support domestic competitiveness in key sectors, all while strengthening protections to ensure new public investment benefits working people from all walks of life.At times, pundits portrayed Bidenomics as a gamble, but key elements of the laws’ middle-class protections — such as prevailing-wage standards — are proven strategies that raise standards for workers, support law-abiding contractors and ensure the public receives good value for the investments paid for by tax dollars.The overwhelming majority of the Bipartisan Infrastructure Law, CHIPS and Science Act funds, and the IRA’s tax credit programs are protected by the Davis-Bacon Act — a 90-year-old law that requires corporations receiving federal funds to pay construction workers market — or “prevailing” — wages and benefits.Prevailing-wage standards, also frequently adopted by state and local policymakers, prevent the government from driving down standards when it acts as a purchaser of goods and services. Private-sector recipients are required to provide workers with wages and fringe benefits comparable to those paid to other similarly placed workers in the region.Research shows that prevailing-wage laws improve workers’ lives by supporting middle-class pay, ensuring union wage rates are not undercut, expanding health insurance and retirement coverage, and closing the income gap between white and Black construction workers.Prevailing-wage laws also benefit responsible contractors and the public by boosting worker productivity, reducing injury rates and increasing apprenticeship training. This helps address the shortage of skilled labor in construction and ensures that projects are completed on time and within budget.Despite significant evidence of prevailing-wage laws benefiting workers, business owners and the public, some lawmakers attempt to undermine these pro-worker laws in favor of trickle-down policies. This has been done through perennial campaigns to roll back federal standards and a handful of actions overturning state-level prevailing-wage laws in recent years. However, studies show that prevailing-wage bans reduce workers’ wages and decrease competition for government projects since contractors that pay decent wages are discouraged from bidding due to concerns of being undercut by low-road contractors that pay rock-bottom wages.Ultimately, the question is not whether prevailing-wage standards work but whether they and other job-quality protections will be adopted broadly enough to make a difference to working people nationwide. While Bidenomics extends prevailing-wage standards for construction workers, similar standards do not automatically apply to all workers whose jobs are funded by federal spending.To ensure that all federal government investments live up to President Joe Biden’s “middle-out” commitments, prevailing-wage standards must be paired with the administration’s other efforts to expand high-quality training for new generations to access publicly supported jobs. Doing so will ensure that the administration can deliver on a vision of growing the middle class— Insidesources.comHilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track. Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017.NEW YORK — Lou Piniella was back in uniform Saturday, wearing pinstripes and the number 14 for Old-Timers’ Day at Yankee Stadium. Piniella, who turns 81 next week, earned his fame in the Bronx as a two-time World Series champion but spent much of his managing career in a feisty rivalry with the Y"
+        }
+    ]
+}

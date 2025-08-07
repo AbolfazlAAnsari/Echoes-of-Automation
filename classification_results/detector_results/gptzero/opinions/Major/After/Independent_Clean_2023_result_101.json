@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.002041308442130685,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0025049757678061724,
+                    "sentence": "Please send your letters toletters@independent.co.ukI don't believe for one minute thatSir Keir Starmerdeliberatelytargeted Rishi Sunak's wifeover her former non-dom tax status.What I believe Sir Keir Starmer has been and is doing is highlighting the issues withnon-dom tax status.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003209966525901109,
+                    "sentence": "Let's not forget that non-dom tax status protects some of the top 1 per cent of earners in the UK.However, what the non-dom tax status does more than anything else is prevent funding for frontline public services designed to protect the most vulnerable in society.People like those onNHSwaiting lists who will ultimatelybenefit from Labour using fundsmade up from scrapping the non-dom tax status, in order totrain a new generationof doctors and nurses.Geoffrey BrookingHampshireYears of Tory waste have left us hopelessJeremy Hunt's farcical budget nonsenseis now unraveling.Inflation has gone up, the economy flatlined and we have zero growth.Hopeless, they've just heaped more pressure on working families asadditional taxesand costs kick in as a consequence ofcontinued Tory policyfailure.More than a decade of Tory waste!Dale HughesAddress SuppliedThe pay of junior doctors is simply not fairLord Bethel and others who have failed to look at relevant facts claim that juniordoctors “earn a fortune”.Not till they get much higher up the tree, they don't!Saddling junior doctors with university debt and then paying themas little as £14 per hour(which is how £29,000 works out, assuming an unlikely 40 hours per week) is simply not fair.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013648781459778547,
+                    "sentence": "No wondermany decide it's not tenable, whatever ideals they had to begin with.Helen WatsonHenley on ThamesHaven't we had enough chaos already?Steve Mackinder, in his recentletter to The Independent, is wondering which “nasty party”, Labour or Conservative, to vote for.In general elections, we voters have been stitched up by those two parties for over a century now.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011801065411418676,
+                    "sentence": "They have, in effect, colludedin their supportof our undemocraticfirst-past-the-post voting system, so that it's highly likely that one or other of the parties will have a parliamentary majority despite not having anything close to amajority of votes.Perhaps they would both learn a lesson if we all voted for anyone but a Labour or Conservative candidate - there are alwaysother reasonable options.The commonly expressed fear is that a hung parliament would result in chaos.But don't we have chaos already?Susan AlexanderSouth GloucestershireKnee-jerk legislation is no way to run a countrySunshine has many positive aspects,but Daniel Green hasfailed to shine the light as clearly as he should.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0092027448117733,
+                    "sentence": "Tenants slapping solar all over our commercial roofsis not the way to go.Firstly, who takes responsibility for the roof structure and waterproofing?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0096726780757308,
+                    "sentence": "Who pays when roof repairs are needed?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006738770753145218,
+                    "sentence": "Most buildings have multiple tenants, and I can tell you that very few wish to pay for solar that they must leave in place when they depart.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005026776809245348,
+                    "sentence": "The landlord is likely to bill them for dilapidations too.Theanswer is legislation, yes, but not empowering tenants who have no liability for their actions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013178016990423203,
+                    "sentence": "A roof needs repair and refurbishment before it is covered with solar PV or PV-T.Insulationshould be broughtup to standard before too- and that is carbon-zero standard, not current regulations.This is another area where ourgovernment is decades behindin its legislation and policies.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013371217995882034,
+                    "sentence": "Knee-jerk legislation is no way to run a country.Michael MannShrewsbury",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI don’t believe for one minute thatSir Keir Starmerdeliberatelytargeted Rishi Sunak’s wifeover her former non-dom tax status.What I believe Sir Keir Starmer has been and is doing is highlighting the issues withnon-dom tax status.  Let’s not forget that non-dom tax status protects some of the top 1 per cent of earners in the UK.However, what the non-dom tax status does more than anything else is prevent funding for frontline public services designed to protect the most vulnerable in society.People like those onNHSwaiting lists who will ultimatelybenefit from Labour using fundsmade up from scrapping the non-dom tax status, in order totrain a new generationof doctors and nurses.Geoffrey BrookingHampshireYears of Tory waste have left us hopelessJeremy Hunt’s farcical budget nonsenseis now unraveling.Inflation has gone up, the economy flatlined and we have zero growth.Hopeless, they’ve just heaped more pressure on working families asadditional taxesand costs kick in as a consequence ofcontinued Tory policyfailure.More than a decade of Tory waste!Dale HughesAddress SuppliedThe pay of junior doctors is simply not fairLord Bethel and others who have failed to look at relevant facts claim that juniordoctors “earn a fortune”.Not till they get much higher up the tree, they don’t!Saddling junior doctors with university debt and then paying themas little as £14 per hour(which is how £29,000 works out, assuming an unlikely 40 hours per week) is simply not fair. No wondermany decide it’s not tenable, whatever ideals they had to begin with.Helen WatsonHenley on ThamesHaven’t we had enough chaos already?Steve Mackinder, in his recentletter to The Independent, is wondering which “nasty party”, Labour or Conservative, to vote for.In general elections, we voters have been stitched up by those two parties for over a century now. They have, in effect, colludedin their supportof our undemocraticfirst-past-the-post voting system, so that it’s highly likely that one or other of the parties will have a parliamentary majority despite not having anything close to amajority of votes.Perhaps they would both learn a lesson if we all voted for anyone but a Labour or Conservative candidate – there are alwaysother reasonable options.The commonly expressed fear is that a hung parliament would result in chaos.But don’t we have chaos already?Susan AlexanderSouth GloucestershireKnee-jerk legislation is no way to run a countrySunshine has many positive aspects,but Daniel Green hasfailed to shine the light as clearly as he should. Tenants slapping solar all over our commercial roofsis not the way to go.Firstly, who takes responsibility for the roof structure and waterproofing? Who pays when roof repairs are needed? Most buildings have multiple tenants, and I can tell you that very few wish to pay for solar that they must leave in place when they depart. The landlord is likely to bill them for dilapidations too.Theanswer is legislation, yes, but not empowering tenants who have no liability for their actions. A roof needs repair and refurbishment before it is covered with solar PV or PV-T.Insulationshould be broughtup to standard before too– and that is carbon-zero standard, not current regulations.This is another area where ourgovernment is decades behindin its legislation and policies. Knee-jerk legislation is no way to run a country.Michael MannShrewsbury"
+        }
+    ]
+}

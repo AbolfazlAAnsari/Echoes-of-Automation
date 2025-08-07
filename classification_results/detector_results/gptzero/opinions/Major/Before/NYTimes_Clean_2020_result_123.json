@@ -1,0 +1,88 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0001388365199090913,
+                    "sentence": "Opinion wants to hear the international perspective.Opinion wants to hear the international perspective.President Trump “appears determined to use his final 10 weeks in office to pursue a scorched-earth foreign policy that will only make Mr. Biden's job harder,” write Robert Malley and Philip Gordon in “Trump Still Has 70 Days to Wreak Havoc Around the World.”Do people around the world agree?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012989205424673855,
+                    "sentence": "We'd like to hear from readers living outside of the United States.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010945416579488665,
+                    "sentence": "What is your reaction to the results, and what do you think the impact could be on other countries, including your own?You can submit your thoughts in the form below.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010980564547935501,
+                    "sentence": "We may use your response in an upcoming article.We'd (@NYTopinion)andInstagram.PHOTO: (PHOTOGRAPH BY Amr Alfiky/The New York Times FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 4,
+                    "completely_generated_prob": 0.0006564766595293492
+                }
+            ],
+            "completely_generated_prob": 0.0051780533755591265,
+            "class_probabilities": {
+                "human": 0.9948219466244408,
+                "ai": 0.0051780533755591265,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9948219466244408,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0051780533755591265,
+                    "human": 0.9948219466244408,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Opinion wants to hear the international perspective.Opinion wants to hear the international perspective.President Trump “appears determined to use his final 10 weeks in office to pursue a scorched-earth foreign policy that will only make Mr. Biden’s job harder,” write Robert Malley and Philip Gordon in “Trump Still Has 70 Days to Wreak Havoc Around the World.”Do people around the world agree? We’d like to hear from readers living outside of the United States. What is your reaction to the results, and what do you think the impact could be on other countries, including your own?You can submit your thoughts in the form below. We may use your response in an upcoming article.We’d (@NYTopinion)andInstagram.PHOTO:  (PHOTOGRAPH BY Amr Alfiky/The New York Times FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

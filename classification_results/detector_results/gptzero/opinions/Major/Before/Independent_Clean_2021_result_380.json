@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0002757224137894809,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021852858480997384,
+                    "sentence": "Please send your letters toletters@independent.co.ukChristmascomes at a critical juncture when theCovid-19pandemic continues to have a heavy toll.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001718735438771546,
+                    "sentence": "We seem to be in danger of sliding down a slippery slope unless we wear face coverings, wash our hands regularly, maintain hygiene and keep social distancing in all enclosed venues.The festive season bestows upon us an atmosphere of mutual respect, fellowship, solidarity and conviviality to push us through these delicate and vulnerable times.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001782126200851053,
+                    "sentence": "This is reflected in the indomitable spirit of health workers, postal workers, social workers, fire brigades among others who rose courageously to the challenge.Dr Munjed Farid Al QutobLondonThanks, BorisYet againBoris Johnson's \"get boosted\" campaign and patient approach to the pandemic science has proved what an outstanding leader he really is.Who would have thought even a month ago that 25 million of us would have the extra protection we have from Covid-19?While Europe and the world rush to close up their economies, Boris Johnson has saved our country from a miserable lockdown Christmas by acting as fast as he did.Instead of attacking the prime minister on a near-daily basis, people should be praising Boris and our magnificent NHS staff and volunteers for working as hard as they have to get Britain boosted and ultimately save lives.God bless you Boris and have a very Happy Christmas!Geoffrey BrookingHampshireSurfing and sewageYour article onsurfers and sewageyet again debunks the benefits of Tory privatisation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0021645608358085155,
+                    "sentence": "At the time of the great sell-off of the nation's silverware, we were often told it would result in large investments from the private sector, something that the UK government was somehow not able to do.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015573562122881413,
+                    "sentence": "This led to the poor state of many of our nationalised industries.The other myth put out by proponents of privatisation was that of offering choice to customers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001214224612340331,
+                    "sentence": "The current state of our power suppliers shows how well this worked out.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014146307948976755,
+                    "sentence": "As for water and sewerage, how is it that I can choose my supplier?The only winners from privatisation are those who earn over the top salaries and the shareholders.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011076510418206453,
+                    "sentence": "It is time for a rethink.G ForwardStirlingJade Bremner writes: \"Surfing is my greatest joy but the sewage is making me sick.\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010026334784924984,
+                    "sentence": "Change the first word to \"Serving\" and that's how decent MPs must be feeling about the shenanigans that have been going on in No 10 and elsewhere in government.Roger HindsSurreyNational shameThe implication of the Nationality and Borders Bill is that those of us who are now seemingly second class citizens could lose our nationality without notice, or indeed without being notified.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.2083543986082077,
+                    "sentence": "It is a further coffin in the reputation of the UK as a liberal country.I am a refugee; I fled in 1934 when my government deprived me of my German nationality and I arrived in England designated as an enemy alien.In time I was naturalised, called up for service in the royal army medical corps, then took part in a prestigious polar expedition the Commonwealth Transantarctic expedition, the first to cross that continent by land, was awarded the polar medal by the Queen, appointed to a chair at the University of London and then to another at Loughborough University before retiring as an emeritus professor of both these distinguished seats of learningNow if I offend Priti Patel or seemingly any of her cohorts, I could lose my British nationality and revert to the status of a stateless alien.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.13535404205322266,
+                    "sentence": "Shame on the politicians if they pass this bill.Rainer GoldsmithAddress suppliedRead MoreBeauty advent calendars 2021: Our guide to this year's top treats13 best tech gifts to spoil a gadget geek this Christmas10 best luxury Christmas crackers for dressing up your dining tableEditor's letter: One of the strangest pandemic attitudes is over masks at WestminsterNo prime minister has ever avoided questions quite like Boris Johnson | Andrew GriceEditorial: The way the government communicates is corroding trust in politics",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.039837804045504216,
+            "class_probabilities": {
+                "human": 0.9601216422360306,
+                "ai": 0.039837804045504216,
+                "mixed": 4.055371846526579e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601216422360306,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039837804045504216,
+                    "human": 0.9601216422360306,
+                    "mixed": 4.055371846526579e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukChristmascomes at a critical juncture when theCovid-19pandemic continues to have a heavy toll. We seem to be in danger of sliding down a slippery slope unless we wear face coverings, wash our hands regularly, maintain hygiene and keep social distancing in all enclosed venues.The festive season bestows upon us an atmosphere of mutual respect, fellowship, solidarity and conviviality to push us through these delicate and vulnerable times. This is reflected in the indomitable spirit of health workers, postal workers, social workers, fire brigades among others who rose courageously to the challenge.Dr Munjed Farid Al QutobLondonThanks, BorisYet againBoris Johnson's \"get boosted\" campaign and patient approach to the pandemic science has proved what an outstanding leader he really is.Who would have thought even a month ago that 25 million of us would have the extra protection we have from Covid-19?While Europe and the world rush to close up their economies, Boris Johnson has saved our country from a miserable lockdown Christmas by acting as fast as he did.Instead of attacking the prime minister on a near-daily basis, people should be praising Boris and our magnificent NHS staff and volunteers for working as hard as they have to get Britain boosted and ultimately save lives.God bless you Boris and have a very Happy Christmas!Geoffrey BrookingHampshireSurfing and sewageYour article onsurfers and sewageyet again debunks the benefits of Tory privatisation. At the time of the great sell-off of the nation's silverware, we were often told it would result in large investments from the private sector, something that the UK government was somehow not able to do. This led to the poor state of many of our nationalised industries.The other myth put out by proponents of privatisation was that of offering choice to customers. The current state of our power suppliers shows how well this worked out. As for water and sewerage, how is it that I can choose my supplier?The only winners from privatisation are those who earn over the top salaries and the shareholders. It is time for a rethink.G ForwardStirlingJade Bremner writes: \"Surfing is my greatest joy but the sewage is making me sick.\" Change the first word to \"Serving\" and that's how decent MPs must be feeling about the shenanigans that have been going on in No 10 and elsewhere in government.Roger HindsSurreyNational shameThe implication of the Nationality and Borders Bill is that those of us who are now seemingly second class citizens could lose our nationality without notice, or indeed without being notified. It is a further coffin in the reputation of the UK as a liberal country.I am a refugee; I fled in 1934 when my government deprived me of my German nationality and I arrived in England designated as an enemy alien.In time I was naturalised, called up for service in the royal army medical corps, then took part in a prestigious polar expedition the Commonwealth Transantarctic expedition, the first to cross that continent by land, was awarded the polar medal by the Queen, appointed to a chair at the University of London and then to another at Loughborough University before retiring as an emeritus professor of both these distinguished seats of learningNow if I offend Priti Patel or seemingly any of her cohorts, I could lose my British nationality and revert to the status of a stateless alien. Shame on the politicians if they pass this bill.Rainer GoldsmithAddress suppliedRead MoreBeauty advent calendars 2021: Our guide to this year's top treats13 best tech gifts to spoil a gadget geek this Christmas10 best luxury Christmas crackers for dressing up your dining tableEditor's letter: One of the strangest pandemic attitudes is over masks at WestminsterNo prime minister has ever avoided questions quite like Boris Johnson | Andrew GriceEditorial: The way the government communicates is corroding trust in politics"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0008030439494177699,
+                    "sentence": "They're actually hotbeds for civil debate.The war in Gaza has fueled debate about free speech on campuses, leading to protests, a congressional hearing and high-profile resignations.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001464454340748489,
+                    "sentence": "But in her class on free speech and censorship at the University of Pennsylvania, Sophia Rosenfeld has found students with strong opinions who are eager to disagree with one another without doing harm.In this audio essay, she shares a model for engaging in tough conversations for anyone looking to have thoughtful discussions about some of the most fraught issues of our era.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008371553849428892,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001168548595160246,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015011039795354009,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,X (@NYTOpinion)andInstagram.This episode of “The Opinions” was produced by Phoebe Lett.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001427344628609717,
+                    "sentence": "It was edited by Kaari Pitkin.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006602912326343358,
+                    "sentence": "Mixing by Pat McCusker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011067789746448398,
+                    "sentence": "Original music by Sonia Herrero, Isaac Jones, Pat McCusker and Carole Sabouraud.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014997243415564299,
+                    "sentence": "Fact-checking by Mary Marge Locker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010161562822759151,
+                    "sentence": "Audience strategy by Kristina Samulewski and Shannon Busta.PHOTO: (PHOTOGRAPH BY Illustration by Akshita Chandra/The New York Times; Photograph by aoldman/Getty Images FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.020796750353547094,
+            "class_probabilities": {
+                "human": 0.9792032496464529,
+                "ai": 0.020796750353547094,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9792032496464529,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020796750353547094,
+                    "human": 0.9792032496464529,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "They’re actually hotbeds for civil debate.The war in Gaza has fueled debate about free speech on campuses, leading to protests, a congressional hearing and high-profile resignations. But in her class on free speech and censorship at the University of Pennsylvania, Sophia Rosenfeld has found students with strong opinions who are eager to disagree with one another without doing harm.In this audio essay, she shares a model for engaging in tough conversations for anyone looking to have thoughtful discussions about some of the most fraught issues of our era.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,X (@NYTOpinion)andInstagram.This episode of “The Opinions” was produced by Phoebe Lett. It was edited by Kaari Pitkin. Mixing by Pat McCusker. Original music by Sonia Herrero, Isaac Jones, Pat McCusker and Carole Sabouraud. Fact-checking by Mary Marge Locker. Audience strategy by Kristina Samulewski and Shannon Busta.PHOTO:  (PHOTOGRAPH BY Illustration by Akshita Chandra/The New York Times; Photograph by aoldman/Getty Images FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

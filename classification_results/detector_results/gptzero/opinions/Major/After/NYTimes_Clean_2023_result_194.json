@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 8.461555262329057e-05,
+                    "sentence": "As kids head back to school, Nicholas Kristof wants America to learn from the Magnolia State.For decades, Mississippi had some of the worst reading and math scores in the country.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.993851563194767e-05,
+                    "sentence": "That's no longer true.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001147611765190959,
+                    "sentence": "Recently, the state's third and fourth graders have improved significantly, and they're now on par with the rest of the country.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.470925291068852e-05,
+                    "sentence": "As kids head back to school, the New York Times Opinion columnist Nicholas Kristof explains what's been called the Mississippi miracle and what other states can learn.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.9835696700029075e-05,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.176719373092055e-05,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.718772106571123e-05,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.This Opinion short was produced by Jillian Weinberger.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.825687185279094e-05,
+                    "sentence": "It was edited by Kaari Pitkin, Stephanie Joyce and Annie-Rose Strasser.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.231639417819679e-05,
+                    "sentence": "Mixing by Isaac Jones.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.7155593822244555e-05,
+                    "sentence": "Original music by Isaac Jones, Carole Sabouraud and Pat McCusker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.953972817631438e-05,
+                    "sentence": "Fact-checking by Mary Marge Locker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.434622916160151e-05,
+                    "sentence": "Special thanks to Kristina Samulewski.PHOTO: (PHOTOGRAPH BY Illustration by The New York Times; Photograph by Nanci Santos/Getty Images FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.006608679833334143,
+            "class_probabilities": {
+                "human": 0.9933913201666659,
+                "ai": 0.006608679833334143,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933913201666659,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006608679833334143,
+                    "human": 0.9933913201666659,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "As kids head back to school, Nicholas Kristof wants America to learn from the Magnolia State.For decades, Mississippi had some of the worst reading and math scores in the country. That’s no longer true. Recently, the state’s third and fourth graders have improved significantly, and they’re now on par with the rest of the country. As kids head back to school, the New York Times Opinion columnist Nicholas Kristof explains what’s been called the Mississippi miracle and what other states can learn.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.This Opinion short was produced by Jillian Weinberger. It was edited by Kaari Pitkin, Stephanie Joyce and Annie-Rose Strasser. Mixing by Isaac Jones. Original music by Isaac Jones, Carole Sabouraud and Pat McCusker. Fact-checking by Mary Marge Locker. Special thanks to Kristina Samulewski.PHOTO:  (PHOTOGRAPH BY Illustration by The New York Times; Photograph by Nanci Santos/Getty Images FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

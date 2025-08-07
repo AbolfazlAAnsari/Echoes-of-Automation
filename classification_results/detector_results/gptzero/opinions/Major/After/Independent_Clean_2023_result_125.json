@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 5.180663356441073e-05,
+                    "sentence": "LETTERS: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.306421058368869e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukI read Sunday'seditorial with complete agreement, because as you rightly state our system of monarchy does work; if people are willing to congregate in the rain to reinforce that fact, theroyalsmust be doing something right.I am so bored with the stridentrepublicansin the media and on the ground, who state they would rather “watch paint dry” than view thecoronation.Why do they have to be so churlish and curmudgeonly?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.601357093430124e-05,
+                    "sentence": "Likewise, when they are asked how a monarch-less system would work in the UK they don't have an answer, because they don't themselves know.The coronation service was a triumph, with wonderful stirring music and religious mysticism.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.2692350689321756e-05,
+                    "sentence": "I particularly loved the gospel choir Ascension, who sang “Alleluia”.A great success for our new monarchs, who must be so relieved as to how it all went.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.123629696550779e-05,
+                    "sentence": "And certainly give it upfor Penny Mordaunt, who looked wonderful and undertook her sword carrying duties with such aplomb.The service had King Charles's royal signature all over it, reflecting his love of the cultural arts.Well done to all concerned, and I do hope that the republicans' newly painted walls have dried to their complete satisfaction!Judith A DanielsNorfolkIndependent candidates should remain soAs we're now likely to be seeing the early stages of back room political machinations to wrest the last vestiges of control from Conservative councils (where possible)by means of tactical voting, coalitions, and agreements to cooperatewith the other factions, I'm wondering at the role of independent, ostensibly non-party political candidates.Sadly, once again I fear that those who declared themselves to be “independents” on the ballot paper will now once again be feeling it's okay to act and behave as a group with other independents, despite pretending otherwise on election literature and ballot papers.Those among us who are sick and tired of the appallingly ineffectual political party system found themselves voting in great numbers for the independent candidate in their wards.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008019099477678537,
+                    "sentence": "I just hope these individuals are going to honour and respect the wishes of those who voted for them, instead of taking the same discredited road and act with their mates as just another pseudo-party.Those who voted for an independent person will have assumed those men and women are operating under their own banners making their own individual decisions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014303610660135746,
+                    "sentence": "If we find these individuals are operating as a cohesive political group then I'd suggest they really do have to stop hiding their true colours, stop this dishonesty and declare it openly.Independents who have disingenuously canvassed votes with the intentions of using those votes to work with others to act as a “back door” independent party need to come clean now.Steve MackinderDenverThe blame gameWhy are commentators and fellow Conservatives trying to lay blame for theConservative election fiascoat the door of Rishi Sunak?I suspect that, like me, many voters can't trust the Conservatives because of the extreme right and the pro-Boris factions - the very factions that are trying to blame Sunak.David WatsonHenley-on-ThamesProtest is a fundamental rightWhether your views are for or against the monarchy, we should all be very seriously worried to see thepolice arresting peaceful protestors during the coronation, simply because those people wished to express a different (and entirely legal) view.That was disgraceful, and what happens when you restrict the right to protest because it may cause “nuisance”!Arthur StreatfieldBath",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.00879996730024586,
+            "class_probabilities": {
+                "human": 0.9912000326997541,
+                "ai": 0.00879996730024586,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9912000326997541,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.00879996730024586,
+                    "human": 0.9912000326997541,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "LETTERS: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI read Sunday’seditorial with complete agreement, because as you rightly state our system of monarchy does work; if people are willing to congregate in the rain to reinforce that fact, theroyalsmust be doing something right.I am so bored with the stridentrepublicansin the media and on the ground, who state they would rather “watch paint dry” than view thecoronation.Why do they have to be so churlish and curmudgeonly? Likewise, when they are asked how a monarch-less system would work in the UK they don’t have an answer, because they don’t themselves know.The coronation service was a triumph, with wonderful stirring music and religious mysticism. I particularly loved the gospel choir Ascension, who sang “Alleluia”.A great success for our new monarchs, who must be so relieved as to how it all went. And certainly give it upfor Penny Mordaunt, who looked wonderful and undertook her sword carrying duties with such aplomb.The service had King Charles’s royal signature all over it, reflecting his love of the cultural arts.Well done to all concerned, and I do hope that the republicans’ newly painted walls have dried to their complete satisfaction!Judith A DanielsNorfolkIndependent candidates should remain soAs we’re now likely to be seeing the early stages of back room political machinations to wrest the last vestiges of control from Conservative councils (where possible)by means of tactical voting, coalitions, and agreements to cooperatewith the other factions, I’m wondering at the role of independent, ostensibly non-party political candidates.Sadly, once again I fear that those who declared themselves to be “independents” on the ballot paper will now once again be feeling it’s okay to act and behave as a group with other independents, despite pretending otherwise on election literature and ballot papers.Those among us who are sick and tired of the appallingly ineffectual political party system found themselves voting in great numbers for the independent candidate in their wards. I just hope these individuals are going to honour and respect the wishes of those who voted for them, instead of taking the same discredited road and act with their mates as just another pseudo-party.Those who voted for an independent person will have assumed those men and women are operating under their own banners making their own individual decisions. If we find these individuals are operating as a cohesive political group then I’d suggest they really do have to stop hiding their true colours, stop this dishonesty and declare it openly.Independents who have disingenuously canvassed votes with the intentions of using those votes to work with others to act as a “back door” independent party need to come clean now.Steve MackinderDenverThe blame gameWhy are commentators and fellow Conservatives trying to lay blame for theConservative election fiascoat the door of Rishi Sunak?I suspect that, like me, many voters can’t trust the Conservatives because of the extreme right and the pro-Boris factions – the very factions that are trying to blame Sunak.David WatsonHenley-on-ThamesProtest is a fundamental rightWhether your views are for or against the monarchy, we should all be very seriously worried to see thepolice arresting peaceful protestors during the coronation, simply because those people wished to express a different (and entirely legal) view.That was disgraceful, and what happens when you restrict the right to protest because it may cause “nuisance”!Arthur StreatfieldBath"
+        }
+    ]
+}

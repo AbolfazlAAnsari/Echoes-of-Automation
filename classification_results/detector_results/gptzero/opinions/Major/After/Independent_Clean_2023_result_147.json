@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0009833459043875337,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003393870429135859,
+                    "sentence": "Please send your letters toletters@independent.co.ukI read your editorial (History, like Heseltine, will judge Johnson harshly, 27 May) and LordHeseltine's relevant piece about the parlous state of his party in general and the latest furore surroundingBoris Johnsonin particular, with interest and agreement.It appears to be political Groundhog Day all over again: theformer prime minister is taking centre stageand everything else is grinding to a complete halt, as we all watch with bated and exhausted breath as to how this saga of Chequersgate will all play out and how his ever-present collegial cheerleaders will cry foul at the top of their strident voices whatever the conclusions and outcome.I could not agree more with Lord Heseltine about the dire impact of Brexit on this impoverished country.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003562036727089435,
+                    "sentence": "Although the present administration is trying to be more ameliorative, this mistake of leaving the EU on the hardest and most intractable terms ever will always be the all-consuming, pervasive elephant in the room.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00043573163566179574,
+                    "sentence": "TheConservative Party, with grandees such as Lord Heseltine, always had their share of problems, but those appear to be as nothing compared to the divided, fractious and uncontrolled entity it has disastrously morphed into.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014252450782805681,
+                    "sentence": "Naturally the effect on this poor, beleaguered country is the disgraceful and unwanted collateral damage.Judith A DanielsCobholm, NorfolkWho sticks a driving fine on expenses?For anyone, in any walk of life, claiming for a fine imposed at government level on expenses, as a Tory minister who served under Suella Braverman at the Home Office isalleged to have done with driving fines, is no different to claiming mileage for business travel that didn't take place - both are fraudulent and criminal and anywhere else would likely result in dismissalIan WingfieldDerbyshireOn a dramatic week in politics...Suella Braverman may be persona grata to a group of like-minded people.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001489795045927167,
+                    "sentence": "She and Rishi Sunak sit well together on the benches in the House of Commons.But the dramatis personae needs thinking through carefully.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001201353152282536,
+                    "sentence": "Typically, off-stage characters are not considered part of the dramatis personae.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016261950368061662,
+                    "sentence": "When characters move through continuing revolving doors, Braverman comes under increasing pressure to answer fresh questions.Standards in public life, honesty, integrity and leadership, may not be what they once were.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017651146044954658,
+                    "sentence": "Nevertheless one simply cannot countenance Braverman's attitude to breaching the ministerial code.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0025376651901751757,
+                    "sentence": "There's no coming back.“Foolery, Sir, does walk about the orb; like the sun; it shines everywhere.”(Twelfth Night).Emeritus Professor Kit ThompsonClare Hall, CambridgeI can't afford Boris's legal feesWhy is it that I, and many like me (pensioners and those on low incomes) have to pay the legal fees for a selfish, self-entitled buffoon who is making a fortune by Ignoring his day job (He is meant to be serving his constituents, isn't he?)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0025783721357584,
+                    "sentence": "and swanning round the world giving talks to those stupid and rich enough to think he is worth listening to?Looked at from my point of view, Johnson is guilty of offences against the British people by his breaking ofCovidrules (rules his government laid down and which most of us adhered to).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001896564499475062,
+                    "sentence": "It is not just wrong, it is a disgrace that he should be allowed to get away with this!L RobertsonOrkney",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.021033675306985546,
+            "class_probabilities": {
+                "human": 0.9789663246930144,
+                "ai": 0.021033675306985546,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9789663246930144,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.021033675306985546,
+                    "human": 0.9789663246930144,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI read your editorial (History, like Heseltine, will judge Johnson harshly, 27 May) and LordHeseltine’s relevant piece about the parlous state of his party in general and the latest furore surroundingBoris Johnsonin particular, with interest and agreement.It appears to be political Groundhog Day all over again: theformer prime minister is taking centre stageand everything else is grinding to a complete halt, as we all watch with bated and exhausted breath as to how this saga of Chequersgate will all play out and how his ever-present collegial cheerleaders will cry foul at the top of their strident voices whatever the conclusions and outcome.I could not agree more with Lord Heseltine about the dire impact of Brexit on this impoverished country. Although the present administration is trying to be more ameliorative, this mistake of leaving the EU on the hardest and most intractable terms ever will always be the all-consuming, pervasive elephant in the room. TheConservative Party, with grandees such as Lord Heseltine, always had their share of problems, but those appear to be as nothing compared to the divided, fractious and uncontrolled entity it has disastrously morphed into. Naturally the effect on this poor, beleaguered country is the disgraceful and unwanted collateral damage.Judith A DanielsCobholm, NorfolkWho sticks a driving fine on expenses?For anyone, in any walk of life, claiming for a fine imposed at government level on expenses, as a Tory minister who served under Suella Braverman at the Home Office isalleged to have done with driving fines, is no different to claiming mileage for business travel that didn’t take place – both are fraudulent and criminal and anywhere else would likely result in dismissalIan WingfieldDerbyshireOn a dramatic week in politics ...Suella Braverman may be persona grata to a group of like-minded people. She and Rishi Sunak sit well together on the benches in the House of Commons.But the dramatis personae needs thinking through carefully. Typically, off-stage characters are not considered part of the dramatis personae. When characters move through continuing revolving doors, Braverman comes under increasing pressure to answer fresh questions.Standards in public life, honesty, integrity and leadership, may not be what they once were. Nevertheless one simply cannot countenance Braverman’s attitude to breaching the ministerial code. There’s no coming back.“Foolery, Sir, does walk about the orb; like the sun; it shines everywhere.”(Twelfth Night).Emeritus Professor Kit ThompsonClare Hall, CambridgeI can’t afford Boris’s legal feesWhy is it that I, and many like me (pensioners and those on low incomes) have to pay the legal fees for a selfish, self-entitled buffoon who is making a fortune by Ignoring his day job (He is meant to be serving his constituents, isn’t he?) and swanning round the world giving talks to those stupid and rich enough to think he is worth listening to?Looked at from my point of view, Johnson is guilty of offences against the British people by his breaking ofCovidrules (rules his government laid down and which most of us adhered to). It is not just wrong, it is a disgrace that he should be allowed to get away with this!L RobertsonOrkney"
+        }
+    ]
+}

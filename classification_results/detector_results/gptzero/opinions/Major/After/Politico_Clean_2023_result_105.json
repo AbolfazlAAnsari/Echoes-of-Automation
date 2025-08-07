@@ -1,0 +1,850 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.012830628082156181,
+                    "sentence": "AI's infinite potential - and infinite risk - requires federal ownership.Nine years ago, in a commercial AI lab affiliated with Caltech, I witnessed something extraordinary.My colleague Andrej Szenasy was wrapping up a long day's work training NeuralEye, an AI initially developed for the Mars Rover program, and I was a few cubicles away, plowing through NeuralEye's test data.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005424686707556248,
+                    "sentence": "\"Hey, check this out!\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009219269268214703,
+                    "sentence": "he shouted.Our lab's mission was to train NeuralEye to see as humans do, with the ability to recognize things, not just record them as a camera does.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013990046456456184,
+                    "sentence": "NeuralEye was built originally to discern different soil types on Mars, but we were teaching it to identify Earth's inhabitants: animals, plants and individual humans.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01151373889297247,
+                    "sentence": "We believed AI could greatly improve face recognition, so that it could be used in cybersecurity, replacing passwords.The first step in teaching NeuralEye to identify people was to get it to match various photos of a single person's face.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01180995348840952,
+                    "sentence": "Typically, one photo would reside in NeuralEye's training dataset of 14,000 faces; another - a different photo of the same person - would serve as the \"prompt.\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01583104394376278,
+                    "sentence": "When NeuralEye successfully matched these two photos out of the thousands in its dataset, it got the digital equivalent of a doggie treat.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00868114922195673,
+                    "sentence": "In AI, this method is known as reinforcement learning, and with NeuralEye, it was working.That night in the lab, for fun, Szenasy had prompted NeuralEye with a photo of his son, Zachie.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009009281173348427,
+                    "sentence": "Szenasy's face was in NeuralEye's dataset; Zachie's wasn't.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012400839477777481,
+                    "sentence": "Zachie, who has Down Syndrome, was a sweet 8-year-old.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008255360648036003,
+                    "sentence": "Round face, thick glasses, mop of black hair.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010136667639017105,
+                    "sentence": "Dad was tall and thin, no glasses, blonde with a receding hairline.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006695806980133057,
+                    "sentence": "If there was a physical resemblance between them, I couldn't see it.Szenasy sat me in front of his computer and again prompted NeuralEye with a photo of Zachie's face.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00524789048358798,
+                    "sentence": "NeuralEye spun through its cache of stored faces looking for Zachie -and up popped a photo of Szenasy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006034333258867264,
+                    "sentence": "Without any specific instruction, NeuralEye had somehow picked up a faint family resemblance.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.016369469463825226,
+                    "sentence": "Out of those 14,000 faces, it selected Szenasy's face as the third closest match with Zachie's.The next morning I phoned the AI engineer who'd written NeuralEye's algorithm while at the Jet Propulsion Lab, home of the Mars Rover program.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04284050688147545,
+                    "sentence": "I asked him how NeuralEye could have seen a connection between Zachie and his father.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03866320848464966,
+                    "sentence": "He waxed philosophical for a few minutes, and then, when pressed, admitted he had no clue.That's the thing about AI: Not even the engineers who build this stuff know exactly how it works.This Zachie episode took place in 2014, a time in AI that now seems prehistoric.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.018945975229144096,
+                    "sentence": "Training datasets then had records in the thousands, not hundreds of millions, and large language models like GPT were just a gleam in Sam Altman's eye.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01935388706624508,
+                    "sentence": "Today, AIs are writing novels, passing the bar exam, piloting warfighter drones.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007194375153630972,
+                    "sentence": "According to a recent University of Texas study widely reported on cable news, an AI in Austin is effectively reading minds: After an in-depth CAT-scan and 16 hours of one-on-one training with someone, it can read neural brain patterns and suggest what the subject is thinking with surprising accuracy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01669221557676792,
+                    "sentence": "But in those halcyon AI days nearly a decade ago, we in our small lab were amazed that NeuralEye could do something as basic as spot a link between Szenasy and his son.While the best AI scientists obviously know a great deal about AI, certain aspects of today's thinking machines are beyond anyone's understanding.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012197409756481647,
+                    "sentence": "Scientists cleverly invented the term \"black box\" to describe the core of an AI's brain, to avoid having to explain what's going on inside it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007860179990530014,
+                    "sentence": "There's an element of uncertainty - even unknowability - in AI's most powerful applications.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008439350873231888,
+                    "sentence": "This uncertainty grows as AIs get faster, smarter and more interconnected.The AI threat is not Hollywood-style killer robots; it's AIs so fast, smart and efficient that their behavior becomes dangerously unpredictable.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01207925658673048,
+                    "sentence": "As I used to tell potential tech investors, \"The one thing we know for certain about AIs is that they will surprise us.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003917110152542591,
+                    "sentence": "\"When an AI pulls a rabbit out of its hat unexpectedly, as NeuralEye did on a small scale with Zachie, it raises the specter of runaway AI - the notion that AI will move beyond human control.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005003506084904075,
+                    "sentence": "Runaway AIs could cause sudden changes in power generation, food and water supply, world financial markets, public health and geopolitics.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00034617361961863935,
+                    "sentence": "There is no end to the damage AIs could do if they were to leap ahead of us and start making their own arbitrary decisions - perhaps with nudges from bad actors trying to use AI against us.Yet AI risk is only half the story.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00032930614543147385,
+                    "sentence": "My years of work in AI have convinced me a huge AI dividend awaits if we can somehow muster the political will to align AI with humanity's best interests.With so much at stake, it's time we in the United States got serious about AI policy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004620826512109488,
+                    "sentence": "We need garden variety federal regulation, sure, but also new models of AI leadership and governance.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00038849638076499104,
+                    "sentence": "And we need to consider an idea that would have been unthinkable a year ago.We need to nationalize key parts of AI.As anyone who's worked with them knows, AIs make stupid mistakes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004611659678630531,
+                    "sentence": "They lack common sense, come up with weird \"hallucinations\" (false, random claims) and are prone to \"overlearning\" - seeing everything as a nail because they were trained as a hammer.But AIs also see patterns we don't.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010028367396444082,
+                    "sentence": "They draw inferences from Himalayan mountains of data while our brains crawl around in molehills.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001204171683639288,
+                    "sentence": "Generative AI (notably ChatGPT) is all the rage, but if you want to better understand how AI evolves - and appreciate the rise of AI beneath all the current hype - check out the past decade in AI vision.Since 2014, image-recognition rates have climbed faster than AI stock prices.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018132824916392565,
+                    "sentence": "When a computer identifies your face, it's AI.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014178421115502715,
+                    "sentence": "When self-driving cars navigate roadways, they \"see\" with AI.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0023275671992450953,
+                    "sentence": "AIs now read x-rays with greater precision than a radiologist and spot cancer growths no human doctor can detect: In one clinical trial, AI helped detect 20 percent more cases of breast cancer than flesh-and-blood radiologists.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.22753186523914337,
+                    "sentence": "If you had told me in 2014 that AI vision would be doing such things within a decade, I'd have suggested you stop watching so much Spielberg.AI of all kinds is now advancing on a trajectory similar to AI vision.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.23593470454216003,
+                    "sentence": "From agriculture to education, medicine to transportation, entertainment to finance - AI is penetrating every nook and cranny of American life.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.24231992661952972,
+                    "sentence": "We live in the era of mass AI electrification, except this time the electricity itself keeps evolving.There is much about AI we don't know, but AI experts do agree on one thing: The pace of AI's disruption of society will never be this slow again.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.16890452802181244,
+                    "sentence": "Unfortunately, one branch of AI is lagging: the field known as AI safety.AI safety addresses a wide variety of potential AI risks: accidents, questions of ethics, cybersecurity, military security, misinformation, election disruption and more.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.24388639628887177,
+                    "sentence": "Despite the efforts of a growing number of prominent researchers and considerable investment by AI companies, AI safety proceeds far more slowly than AI itself.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.311437726020813,
+                    "sentence": "It's a rowboat chasing a jet ski.If there is one thing that everyone should know about AIs, it's this: They move fast.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.49694395065307617,
+                    "sentence": "Microsoft's ChatGPT app signed up 100+ million users in about 20 minutes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3426998555660248,
+                    "sentence": "AIs run on a stack of hardware and software resources whose processing speed is constantly accelerating.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.37890440225601196,
+                    "sentence": "The datasets used to train AIs are growing and improving.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.37129145860671997,
+                    "sentence": "As a result, AIs today process information in volumes and at rates no human brain can comprehend.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.44820523262023926,
+                    "sentence": "And they are about to get a potent steroidal injection called quantum computing, which will fuel a major new round of AI acceleration.The rise of AI cannot be attributed solely to better computing resources.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.44277000427246094,
+                    "sentence": "AIs are competent in unsupervised learning - no humans needed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5042652487754822,
+                    "sentence": "Their learning curve is like a weird M.C.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.28727391362190247,
+                    "sentence": "Escher staircase that continually goes up.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5018356442451477,
+                    "sentence": "They solve problems in ways that boggle human experts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5988882780075073,
+                    "sentence": "They don't yet have the unique adaptability of the human mind, nor our signature cultural and social skills.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.42297565937042236,
+                    "sentence": "But to think that AIs will not quickly evolve specialized forms of intelligence far superior to our own strikes me as incredibly naive.Still, resistance is not futile.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017326008528470993,
+                    "sentence": "Not yet.In 2018, I wrote a book on the new \"lightspeed learners,\" as I called them: the world's smartest, fastest-evolving AIs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0035156607627868652,
+                    "sentence": "My thesis: AI is going to be huge - and the U.S. needs a new national AI plan to harness it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002742245327681303,
+                    "sentence": "The final chapters of the book presented an urgent set of AI policy recommendations for America.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002485005185008049,
+                    "sentence": "The book sold well to libraries and universities, and Rowman & Littlefield, the publisher, just issued a new 2023 paperback edition.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002479477785527706,
+                    "sentence": "But in terms of impacting AmericanAI policy, it was a pebble in the ocean.I then logged three years as a senior fellow at the Atlantic Council, a venerable D.C. think tank, where I consulted on U.S.AI policy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0028754868544638157,
+                    "sentence": "My takeaway: To call our current AI policy a can of worms would be an insult to annelids.Webster's should issue a new definition of futility: attempting to explain AI to politicians.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006712403846904635,
+                    "sentence": "I've tried.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012660524807870388,
+                    "sentence": "Members of Congress would conflate AI with social media - and those were the tech-savvy ones.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018226520624011755,
+                    "sentence": "More than one politician asked me why we couldn't just unplug wayward AIs, and a red-state congressperson suggested AI was a fad.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001424394198693335,
+                    "sentence": "He also insisted that despite testimony given to the House Transportation Committee, \"those pointy-headed SOBs will never back an 18-wheeler into a loading dock.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008152300724759698,
+                    "sentence": "No way.\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004969146684743464,
+                    "sentence": "To be fair, this was six years ago.But Washington is finally waking up to the importance of AI, with a growing bipartisan movement advocating regulation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005810136790387332,
+                    "sentence": "The meme in Congress is that we need \"transparency and safeguards\" to channel the best of AI while thwarting its most dangerous threats.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006893033860251307,
+                    "sentence": "If Congress simply requires all AIs to be transparent and have safeguards, the thinking goes, everything will be fine.But transparency in AI is overrated.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008502849377691746,
+                    "sentence": "Enact whatever laws you like, throw tons of money at AI transparency regulation - and we still won't have any idea how a specific AI works.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010115229524672031,
+                    "sentence": "I had unfettered access to every element of the NeuralEye system - algorithm, application code, training data, test data, 70-page patents, expert analyses - but to this day I have no concept of how NeuralEye matched Zachie with his father.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009689531289041042,
+                    "sentence": "I'm sure there's a logical explanation somewhere in the cosmos, but the calculus is simply too big for my puny human brain.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01358059886842966,
+                    "sentence": "I'm all for corporations disclosing data collection and AI-use practices, but technical AI transparency is a mirage.The issue of congressionally mandated AI safeguards is more nuanced.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010195082984864712,
+                    "sentence": "Ideally, each AI would come with guardrails to protect humans against its potential excesses.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006424088962376118,
+                    "sentence": "But given that no one understands precisely how AI works, that AIs often surprise us and that AI grows and evolves at lightspeed - what guardrails could a bickering Congress construct to protect us?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0049329595640301704,
+                    "sentence": "How could its laws and regulations change fast enough to keep up with AI?The U.S. is the world's AI leader, by a lightyear or two.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002428406151011586,
+                    "sentence": "Most of our AI is controlled by Big Tech: Microsoft/Open AI, Alphabet/Google, Meta, Amazon, Nvidia, Tesla.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011455168714746833,
+                    "sentence": "Each is a hypercompetitive business with tremendous resources, including the highest concentration of AI talent on the planet.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016240158583968878,
+                    "sentence": "These companies have grown rich and powerful by building tech largely free of U.S. regulatory constraints, in a marketplace we American citizens constructed for them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019337182166054845,
+                    "sentence": "They have all benefited greatly from seven decades of world-class AI research funded by American taxpayers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002696747425943613,
+                    "sentence": "Big Tech itself has skin in the AI game.But so do we.AI is not the kind of tech that can be invented in a Harvard dorm or a startup garage in Silicon Valley.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001869069878011942,
+                    "sentence": "Open AI spends half a billion dollars on Nvidia infrastructure for each new AI model it launches.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0030804278794676065,
+                    "sentence": "It has taken years of scientific study, lab research and application development - not to mention a massive investment of government dollars - to construct the AI foundation Big Tech now controls.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0033071839716285467,
+                    "sentence": "Big Tech has leveraged this foundation to achieve company valuations in the trillions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007559211808256805,
+                    "sentence": "Keep this in mind as I offer a modest proposal:We need a new governing body for AI in America - one that could wield the powers of the state to steer the technology toward a human mitzvah, rather than a human disaster.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00038444652454927564,
+                    "sentence": "Call it the \"Humane AI Commission.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00034038187004625797,
+                    "sentence": "\"Luckily, history offers a model.In 1947, President Harry Truman yanked control of nuclear weapons away from the military and handed it to five American civilians - the newly formed Atomic Energy Commission (AEC).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00043171955621801317,
+                    "sentence": "The AEC operated inside government, but well removed from politics.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00044300343142822385,
+                    "sentence": "As Christopher Nolan's Oppenheimer made clear, the AEC was not without its flaws.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00037570620770566165,
+                    "sentence": "But it kept the world free of nuclear bombs during the most dangerous decades of the Cold War.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003444866742938757,
+                    "sentence": "Nolan himself has likened AI to the nuclear threat in recent interviews, while cautioning that AI might be even harder to control.The AEC model is not a perfect fit for AI - it was too slow and static, for one thing - but it is instructive.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005878672818653286,
+                    "sentence": "AEC took ownership of all nuclear reactors, putting it in a position of ultimate control.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007584064733237028,
+                    "sentence": "The federal government's role in nationalizing nuclear weapons was that of owner, not operator - it outsourced most of the work.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005660590250045061,
+                    "sentence": "The military possessed finished bombs, Westinghouse built and operated nuclear energy plants, but the AEC controlled the core and had all the leverage.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007588552543893456,
+                    "sentence": "The AEC also owned and operated the best nuclear research labs on the planet, including Los Alamos, Oak Ridge and Livermore.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005205273628234863,
+                    "sentence": "Historically, and legally, the Atomic Energy Commission provides a useful precedent for when America creates technology that could potentially end life as we know it - a category into which AI clearly falls.The case to nationalize the \"nuclear reactors\" of AI - the world's most advanced AI models - hinges on this question: Who do we want to control AI's nuclear codes?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008684879285283387,
+                    "sentence": "Big Tech CEOs answering to a few billionaire shareholders, or the government of the United States, answering to its citizens?Let me be the first to acknowledge that a federal program wresting control of AI's \"nuclear reactors\" from Microsoft, Google, et al., would be a monumental - and painful - undertaking.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003313578199595213,
+                    "sentence": "But all our other options are worse.Let's start with the AI pause option, a position advanced recently by hundreds of first-class AI experts in a signed open letter.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00040131231071427464,
+                    "sentence": "Their idea is to halt major AI development temporarily so we can all take a deep breath.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00039157638093456626,
+                    "sentence": "Get our arms around AI, so to speak.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00041134312050417066,
+                    "sentence": "The letter was good theater, little else.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00030853599309921265,
+                    "sentence": "If the U.S. were to freeze AI development (assuming that's even possible), China would be the main beneficiary.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004872451536357403,
+                    "sentence": "The Chinese Communist Party has already used AI to spy on Uyghurs and dissenters, and the Red Army is all-in on AI.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00046392681542783976,
+                    "sentence": "But China is a perhaps the world leader in AI education, starting with early age students, and an AI called CityBrain runs all traffic and emergency response systems in Hangzhou, a city of 8 million.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003377810353413224,
+                    "sentence": "A US/China treaty on AI could be a major step toward a world with safer, more humane AI.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00044781429460272193,
+                    "sentence": "But as someone who lived in China a few years, I fear the only thing worse than a world controlled by runaway AI would be a global AI infrastructure run by President Xi Jinping.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00038881340879015625,
+                    "sentence": "(Xi has stated publicly, more than once, that world AI dominance is one of his personal goals for China).Next, we have the let-the-free-market-decide option.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004960261285305023,
+                    "sentence": "To be clear, this is what propelled America into its position as the world's AI leader.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00041935720946639776,
+                    "sentence": "What our Big Tech companies have done with AI is astounding to other nations.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018228523549623787,
+                    "sentence": "But as experts warn of potential societal threats like runaway AI, allowing Big Tech to operate AI unfettered would be like Truman entrusting nuclear bombs to Westinghouse.A third option is regulation of AI by current agencies of the U.S. government.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003008643980138004,
+                    "sentence": "As a West Coast techie who has worked extensively in D.C., my first thought is: Good luck with that.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003269825247116387,
+                    "sentence": "There are practical federal regulatory actions that should be taken immediately: stronger AI export controls; new AI development reporting requirements for corporations; deepfake watermarking rules.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000508671801071614,
+                    "sentence": "But run-of-the-mill federal regulation is no match for runaway AI, nor the bad actors who will try to use AI against us.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005849391454830766,
+                    "sentence": "Many types of AI regulation - including the complex FDA-style approval models often advocated by Big Tech - would make it much harder for small companies to put AI to work.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007314655231311917,
+                    "sentence": "Except for very specific \"rifle shots,\" as they call narrow regulatory bills in Congress, federal AI regulation won't work.What remains is the Truman option - a bold stroke of executive leadership.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000931759481318295,
+                    "sentence": "Here's one scenario:Within the first 100 days after the 2024 inauguration, the president announces a new, national AI emergency plan.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007193119381554425,
+                    "sentence": "The president explains that the goal of this plan is global AI leadership for generations to come.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006247507408261299,
+                    "sentence": "Benevolent, peaceful leadership.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007435541483573616,
+                    "sentence": "Leadership that guides AI's rise as a boon to humanity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005147905903868377,
+                    "sentence": "Leadership that defends the U.S. against bad actors using AI, and that installs human controls in the DNA of the most powerful AIs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005567202460952103,
+                    "sentence": "Yes, that will require the federal government to take control of certain critical domestic AI resources, just as FDR temporarily nationalized parts of General Motors, Kaiser Shipyards and other manufacturing giants to fuel America's victory in WWII.The new Humane AI Commission would be run by a diverse team of AI experts, and strive to be as apolitical as possible.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008028139127418399,
+                    "sentence": "Fortunately, AI policy in America has not yet been hyper-politicized.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008560853311792016,
+                    "sentence": "Republicans want a strong U.S.AI policy vis a vis China, and Democrats want racially unbiased AIs that fight climate change and create new jobs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012588155223056674,
+                    "sentence": "Both agendas can be served, without contradiction, by an aggressive, capable new national AI plan - with the HAIC at the center.Our best hope is not to suppress AI, but to harness it in ways that align with humanity's interests.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015249772695824504,
+                    "sentence": "The only entity on earth with both the resources and values necessary to harness AI effectively and humanely is the government of the United States.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001061944174580276,
+                    "sentence": "Managing AI on a global scale could well be America's greatest scientific and diplomatic challenge, ever.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011497722007334232,
+                    "sentence": "The Manhattan Project, cubed.An undertaking this important should be subject to the democratic process, flawed though it may be.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016794319963082671,
+                    "sentence": "An HAIC would place the future of AI - and with it, the future of humanity - into the hands of the public.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002411460445728153,
+                    "sentence": "But whatever happens, every concerned citizen should learn more about AI, because we American voters are about to have some crucial decisions to make.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00031650756136514246,
+                    "sentence": "As Bette Davis said in All About Eve, working from a subtle, Oscar-winning script I believe not even a future AI could write: \"Fasten your seat belts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002772816806100309,
+                    "sentence": "It's going to be a bumpy night.\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 131,
+                    "completely_generated_prob": 4.999999343110114e-124
+                }
+            ],
+            "completely_generated_prob": 0.039828139852797,
+            "class_probabilities": {
+                "human": 0.9598887277771326,
+                "ai": 0.039828139852797,
+                "mixed": 0.0002831323700704621
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9598887277771326,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039828139852797,
+                    "human": 0.9598887277771326,
+                    "mixed": 0.0002831323700704621
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "AI's infinite potential - and infinite risk - requires federal ownership.Nine years ago, in a commercial AI lab affiliated with Caltech, I witnessed something extraordinary.My colleague Andrej Szenasy was wrapping up a long day's work training NeuralEye, an AI initially developed for the Mars Rover program, and I was a few cubicles away, plowing through NeuralEye's test data. \"Hey, check this out!\" he shouted.Our lab's mission was to train NeuralEye to see as humans do, with the ability to recognize things, not just record them as a camera does. NeuralEye was built originally to discern different soil types on Mars, but we were teaching it to identify Earth's inhabitants: animals, plants and individual humans. We believed AI could greatly improve face recognition, so that it could be used in cybersecurity, replacing passwords.The first step in teaching NeuralEye to identify people was to get it to match various photos of a single person's face. Typically, one photo would reside in NeuralEye's training dataset of 14,000 faces; another - a different photo of the same person - would serve as the \"prompt.\" When NeuralEye successfully matched these two photos out of the thousands in its dataset, it got the digital equivalent of a doggie treat. In AI, this method is known as reinforcement learning, and with NeuralEye, it was working.That night in the lab, for fun, Szenasy had prompted NeuralEye with a photo of his son, Zachie. Szenasy's face was in NeuralEye's dataset; Zachie's wasn't. Zachie, who has Down Syndrome, was a sweet 8-year-old. Round face, thick glasses, mop of black hair. Dad was tall and thin, no glasses, blonde with a receding hairline. If there was a physical resemblance between them, I couldn't see it.Szenasy sat me in front of his computer and again prompted NeuralEye with a photo of Zachie's face. NeuralEye spun through its cache of stored faces looking for Zachie -and up popped a photo of Szenasy. Without any specific instruction, NeuralEye had somehow picked up a faint family resemblance. Out of those 14,000 faces, it selected Szenasy's face as the third closest match with Zachie's.The next morning I phoned the AI engineer who'd written NeuralEye's algorithm while at the Jet Propulsion Lab, home of the Mars Rover program. I asked him how NeuralEye could have seen a connection between Zachie and his father. He waxed philosophical for a few minutes, and then, when pressed, admitted he had no clue.That's the thing about AI: Not even the engineers who build this stuff know exactly how it works.This Zachie episode took place in 2014, a time in AI that now seems prehistoric. Training datasets then had records in the thousands, not hundreds of millions, and large language models like GPT were just a gleam in Sam Altman's eye. Today, AIs are writing novels, passing the bar exam, piloting warfighter drones. According to a recent University of Texas study widely reported on cable news, an AI in Austin is effectively reading minds: After an in-depth CAT-scan and 16 hours of one-on-one training with someone, it can read neural brain patterns and suggest what the subject is thinking with surprising accuracy. But in those halcyon AI days nearly a decade ago, we in our small lab were amazed that NeuralEye could do something as basic as spot a link between Szenasy and his son.While the best AI scientists obviously know a great deal about AI, certain aspects of today's thinking machines are beyond anyone's understanding. Scientists cleverly invented the term \"black box\" to describe the core of an AI's brain, to avoid having to explain what's going on inside it. There's an element of uncertainty - even unknowability - in AI's most powerful applications. This uncertainty grows as AIs get faster, smarter and more interconnected.The AI threat is not Hollywood-style killer robots; it's AIs so fast, smart and efficient that their behavior becomes dangerously unpredictable. As I used to tell potential tech investors, \"The one thing we know for certain about AIs is that they will surprise us.\"When an AI pulls a rabbit out of its hat unexpectedly, as NeuralEye did on a small scale with Zachie, it raises the specter of runaway AI - the notion that AI will move beyond human control. Runaway AIs could cause sudden changes in power generation, food and water supply, world financial markets, public health and geopolitics. There is no end to the damage AIs could do if they were to leap ahead of us and start making their own arbitrary decisions - perhaps with nudges from bad actors trying to use AI against us.Yet AI risk is only half the story. My years of work in AI have convinced me a huge AI dividend awaits if we can somehow muster the political will to align AI with humanity's best interests.With so much at stake, it's time we in the United States got serious about AI policy. We need garden variety federal regulation, sure, but also new models of AI leadership and governance. And we need to consider an idea that would have been unthinkable a year ago.We need to nationalize key parts of AI.As anyone who's worked with them knows, AIs make stupid mistakes. They lack common sense, come up with weird \"hallucinations\" (false, random claims) and are prone to \"overlearning\" - seeing everything as a nail because they were trained as a hammer.But AIs also see patterns we don't. They draw inferences from Himalayan mountains of data while our brains crawl around in molehills. Generative AI (notably ChatGPT) is all the rage, but if you want to better understand how AI evolves - and appreciate the rise of AI beneath all the current hype - check out the past decade in AI vision.Since 2014, image-recognition rates have climbed faster than AI stock prices. When a computer identifies your face, it's AI. When self-driving cars navigate roadways, they \"see\" with AI. AIs now read x-rays with greater precision than a radiologist and spot cancer growths no human doctor can detect: In one clinical trial, AI helped detect 20 percent more cases of breast cancer than flesh-and-blood radiologists. If you had told me in 2014 that AI vision would be doing such things within a decade, I'd have suggested you stop watching so much Spielberg.AI of all kinds is now advancing on a trajectory similar to AI vision. From agriculture to education, medicine to transportation, entertainment to finance - AI is penetrating every nook and cranny of American life. We live in the era of mass AI electrification, except this time the electricity itself keeps evolving.There is much about AI we don't know, but AI experts do agree on one thing: The pace of AI's disruption of society will never be this slow again. Unfortunately, one branch of AI is lagging: the field known as AI safety.AI safety addresses a wide variety of potential AI risks: accidents, questions of ethics, cybersecurity, military security, misinformation, election disruption and more. Despite the efforts of a growing number of prominent researchers and considerable investment by AI companies, AI safety proceeds far more slowly than AI itself. It's a rowboat chasing a jet ski.If there is one thing that everyone should know about AIs, it's this: They move fast. Microsoft's ChatGPT app signed up 100+ million users in about 20 minutes. AIs run on a stack of hardware and software resources whose processing speed is constantly accelerating. The datasets used to train AIs are growing and improving. As a result, AIs today process information in volumes and at rates no human brain can comprehend. And they are about to get a potent steroidal injection called quantum computing, which will fuel a major new round of AI acceleration.The rise of AI cannot be attributed solely to better computing resources. AIs are competent in unsupervised learning - no humans needed. Their learning curve is like a weird M.C. Escher staircase that continually goes up. They solve problems in ways that boggle human experts. They don't yet have the unique adaptability of the human mind, nor our signature cultural and social skills. But to think that AIs will not quickly evolve specialized forms of intelligence far superior to our own strikes me as incredibly naive.Still, resistance is not futile. Not yet.In 2018, I wrote a book on the new \"lightspeed learners,\" as I called them: the world's smartest, fastest-evolving AIs. My thesis: AI is going to be huge - and the U.S. needs a new national AI plan to harness it. The final chapters of the book presented an urgent set of AI policy recommendations for America. The book sold well to libraries and universities, and Rowman & Littlefield, the publisher, just issued a new 2023 paperback edition. But in terms of impacting AmericanAI policy, it was a pebble in the ocean.I then logged three years as a senior fellow at the Atlantic Council, a venerable D.C. think tank, where I consulted on U.S.AI policy. My takeaway: To call our current AI policy a can of worms would be an insult to annelids.Webster's should issue a new definition of futility: attempting to explain AI to politicians. I've tried. Members of Congress would conflate AI with social media - and those were the tech-savvy ones. More than one politician asked me why we couldn't just unplug wayward AIs, and a red-state congressperson suggested AI was a fad. He also insisted that despite testimony given to the House Transportation Committee, \"those pointy-headed SOBs will never back an 18-wheeler into a loading dock. No way.\" To be fair, this was six years ago.But Washington is finally waking up to the importance of AI, with a growing bipartisan movement advocating regulation. The meme in Congress is that we need \"transparency and safeguards\" to channel the best of AI while thwarting its most dangerous threats. If Congress simply requires all AIs to be transparent and have safeguards, the thinking goes, everything will be fine.But transparency in AI is overrated. Enact whatever laws you like, throw tons of money at AI transparency regulation - and we still won't have any idea how a specific AI works. I had unfettered access to every element of the NeuralEye system - algorithm, application code, training data, test data, 70-page patents, expert analyses - but to this day I have no concept of how NeuralEye matched Zachie with his father. I'm sure there's a logical explanation somewhere in the cosmos, but the calculus is simply too big for my puny human brain. I'm all for corporations disclosing data collection and AI-use practices, but technical AI transparency is a mirage.The issue of congressionally mandated AI safeguards is more nuanced. Ideally, each AI would come with guardrails to protect humans against its potential excesses. But given that no one understands precisely how AI works, that AIs often surprise us and that AI grows and evolves at lightspeed - what guardrails could a bickering Congress construct to protect us? How could its laws and regulations change fast enough to keep up with AI?The U.S. is the world's AI leader, by a lightyear or two. Most of our AI is controlled by Big Tech: Microsoft/Open AI, Alphabet/Google, Meta, Amazon, Nvidia, Tesla. Each is a hypercompetitive business with tremendous resources, including the highest concentration of AI talent on the planet. These companies have grown rich and powerful by building tech largely free of U.S. regulatory constraints, in a marketplace we American citizens constructed for them. They have all benefited greatly from seven decades of world-class AI research funded by American taxpayers. Big Tech itself has skin in the AI game.But so do we.AI is not the kind of tech that can be invented in a Harvard dorm or a startup garage in Silicon Valley. Open AI spends half a billion dollars on Nvidia infrastructure for each new AI model it launches. It has taken years of scientific study, lab research and application development - not to mention a massive investment of government dollars - to construct the AI foundation Big Tech now controls. Big Tech has leveraged this foundation to achieve company valuations in the trillions. Keep this in mind as I offer a modest proposal:We need a new governing body for AI in America - one that could wield the powers of the state to steer the technology toward a human mitzvah, rather than a human disaster. Call it the \"Humane AI Commission.\"Luckily, history offers a model.In 1947, President Harry Truman yanked control of nuclear weapons away from the military and handed it to five American civilians - the newly formed Atomic Energy Commission (AEC). The AEC operated inside government, but well removed from politics. As Christopher Nolan's Oppenheimer made clear, the AEC was not without its flaws. But it kept the world free of nuclear bombs during the most dangerous decades of the Cold War. Nolan himself has likened AI to the nuclear threat in recent interviews, while cautioning that AI might be even harder to control.The AEC model is not a perfect fit for AI - it was too slow and static, for one thing - but it is instructive. AEC took ownership of all nuclear reactors, putting it in a position of ultimate control. The federal government's role in nationalizing nuclear weapons was that of owner, not operator - it outsourced most of the work. The military possessed finished bombs, Westinghouse built and operated nuclear energy plants, but the AEC controlled the core and had all the leverage. The AEC also owned and operated the best nuclear research labs on the planet, including Los Alamos, Oak Ridge and Livermore. Historically, and legally, the Atomic Energy Commission provides a useful precedent for when America creates technology that could potentially end life as we know it - a category into which AI clearly falls.The case to nationalize the \"nuclear reactors\" of AI - the world's most advanced AI models - hinges on this question: Who do we want to control AI's nuclear codes? Big Tech CEOs answering to a few billionaire shareholders, or the government of the United States, answering to its citizens?Let me be the first to acknowledge that a federal program wresting control of AI's \"nuclear reactors\" from Microsoft, Google, et al., would be a monumental - and painful - undertaking. But all our other options are worse.Let's start with the AI pause option, a position advanced recently by hundreds of first-class AI experts in a signed open letter. Their idea is to halt major AI development temporarily so we can all take a deep breath. Get our arms around AI, so to speak. The letter was good theater, little else. If the U.S. were to freeze AI development (assuming that's even possible), China would be the main beneficiary. The Chinese Communist Party has already used AI to spy on Uyghurs and dissenters, and the Red Army is all-in on AI. But China is a perhaps the world leader in AI education, starting with early age students, and an AI called CityBrain runs all traffic and emergency response systems in Hangzhou, a city of 8 million. A US/China treaty on AI could be a major step toward a world with safer, more humane AI. But as someone who lived in China a few years, I fear the only thing worse than a world controlled by runaway AI would be a global AI infrastructure run by President Xi Jinping. (Xi has stated publicly, more than once, that world AI dominance is one of his personal goals for China).Next, we have the let-the-free-market-decide option. To be clear, this is what propelled America into its position as the world's AI leader. What our Big Tech companies have done with AI is astounding to other nations. But as experts warn of potential societal threats like runaway AI, allowing Big Tech to operate AI unfettered would be like Truman entrusting nuclear bombs to Westinghouse.A third option is regulation of AI by current agencies of the U.S. government. As a West Coast techie who has worked extensively in D.C., my first thought is: Good luck with that. There are practical federal regulatory actions that should be taken immediately: stronger AI export controls; new AI development reporting requirements for corporations; deepfake watermarking rules. But run-of-the-mill federal regulation is no match for runaway AI, nor the bad actors who will try to use AI against us. Many types of AI regulation - including the complex FDA-style approval models often advocated by Big Tech - would make it much harder for small companies to put AI to work. Except for very specific \"rifle shots,\" as they call narrow regulatory bills in Congress, federal AI regulation won't work.What remains is the Truman option - a bold stroke of executive leadership. Here's one scenario:Within the first 100 days after the 2024 inauguration, the president announces a new, national AI emergency plan. The president explains that the goal of this plan is global AI leadership for generations to come. Benevolent, peaceful leadership. Leadership that guides AI's rise as a boon to humanity. Leadership that defends the U.S. against bad actors using AI, and that installs human controls in the DNA of the most powerful AIs. Yes, that will require the federal government to take control of certain critical domestic AI resources, just as FDR temporarily nationalized parts of General Motors, Kaiser Shipyards and other manufacturing giants to fuel America's victory in WWII.The new Humane AI Commission would be run by a diverse team of AI experts, and strive to be as apolitical as possible. Fortunately, AI policy in America has not yet been hyper-politicized. Republicans want a strong U.S.AI policy vis a vis China, and Democrats want racially unbiased AIs that fight climate change and create new jobs. Both agendas can be served, without contradiction, by an aggressive, capable new national AI plan - with the HAIC at the center.Our best hope is not to suppress AI, but to harness it in ways that align with humanity's interests. The only entity on earth with both the resources and values necessary to harness AI effectively and humanely is the government of the United States. Managing AI on a global scale could well be America's greatest scientific and diplomatic challenge, ever. The Manhattan Project, cubed.An undertaking this important should be subject to the democratic process, flawed though it may be. An HAIC would place the future of AI - and with it, the future of humanity - into the hands of the public. But whatever happens, every concerned citizen should learn more about AI, because we American voters are about to have some crucial decisions to make. As Bette Davis said in All About Eve, working from a subtle, Oscar-winning script I believe not even a future AI could write: \"Fasten your seat belts. It's going to be a bumpy night.\""
+        }
+    ]
+}

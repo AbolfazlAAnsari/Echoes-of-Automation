@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 7.011202251305804e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.669664824381471e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukYou report that MPs felt it acceptable to spend £100,000 on atemporary \"bonging mechanism\" for Big Ben, which was used just 10 times.Did any of them realise that a recording played over disguised speakers would have the same effect and be cheaper?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.2696730815805495e-05,
+                    "sentence": "Or was another sort of bong involved while they made this ludicrous decision?Kartar UppalSutton ColdfieldThe Sue Gray reportIfSue Grayis the paragon that we have been led to believe and is forced to withhold parts of a potentially damaging report, perhaps the honourable thing would be for her to resign and pass the unredacted report to the press.If the full report is damaging to Boris Johnson, and there is an attempt to prosecute her under the Official Secrets Act with possible loss of pension or worse, there would be a universal outcry, which would almost certainly be fatal to Johnson.This report could be of national importance and should not be withheld by bureaucratic niceties, procedures at Scotland Yard or even collusion between Downing Street and the Met.Gavin TurnerNorfolkThose with the power to do so must ensure the Sue Gray report is published in full for all to see so that our shameless prime minister is removed from office as soon as possible.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012772841146215796,
+                    "sentence": "As has been stated elsewhere, there is no reason for the report to be held back in any of its particulars - other than to save the prime minister from proper scrutiny.To spell it out: the issue is not about parties, it is about misleading parliament and breaking the ministerial code.Boris Johnsonis unfit for office and those who have the power to act in the nation's interest should play their part on our behalf by, in the first instance, pressing for the publication of the full Sue Gray report with no redactions.Graham PowellCirencesterCyclist safetyThe new Highway Code aims to make the roads safer for cyclists.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008518014219589531,
+                    "sentence": "What would help in achieving that objective is to make it mandatory for them to have lights, to indicate their intention to turn right in front of vehicles and stop at red traffic signals.And while we're complaining, keep adult cyclists off the footpaths!Pamela HibbertCrowthorneBrexit liesThe government is going to raise a one-off £39bn for theNHSby imposing a tax burden skewed to impact the poorest.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009655407629907131,
+                    "sentence": "What happened to the £350m per week we were going to get back after leaving the EU, which would have brought in a staggering £18.2bn every year for the health service?To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereEven the more realistic net figure would have dwarfed the proposed rise.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001954820938408375,
+                    "sentence": "Add to that the Brexit bonus and all those promised \"world-beating\" trade deals, and we should by now be implementing massive tax cuts for all.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005874498747289181,
+                    "sentence": "Maybe we need a senior civil servant to investigate if any lies were told pre-Brexit - preferably before the Met gets involved.G ForwardStirlingAny skills at all?Inyour editorialdiscussing the various candidates likely to put themselves forward for Conservative Party leadership and prime minister, you state that Johnson had \"the wrong skills to deal with a pandemic\".Forgive me for asking the blindingly obvious, but does he have any skills at all?Ian WingfieldBamford, DerbyshireRead MoreOpinion: Why stop wearing a mask?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015178322792053223,
+                    "sentence": "Now is the obvious time to continueLetters: Liz Truss's private jet is a kick in the teeth for us struggling with billsLetters: To threaten war as lightly as the UK is doing is highly irresponsibleLetters: Liz Truss's private jet is a kick in the teeth for us struggling with billsLetters: To threaten war as lightly as the UK is doing is highly irresponsibleLetters: Tax rises should be postponed, if not stopped altogether",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.009998674697021016,
+            "class_probabilities": {
+                "human": 0.990001325302979,
+                "ai": 0.009998674697021016,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.990001325302979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.009998674697021016,
+                    "human": 0.990001325302979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukYou report that MPs felt it acceptable to spend £100,000 on atemporary \"bonging mechanism\" for Big Ben, which was used just 10 times.Did any of them realise that a recording played over disguised speakers would have the same effect and be cheaper? Or was another sort of bong involved while they made this ludicrous decision?Kartar UppalSutton ColdfieldThe Sue Gray reportIfSue Grayis the paragon that we have been led to believe and is forced to withhold parts of a potentially damaging report, perhaps the honourable thing would be for her to resign and pass the unredacted report to the press.If the full report is damaging to Boris Johnson, and there is an attempt to prosecute her under the Official Secrets Act with possible loss of pension or worse, there would be a universal outcry, which would almost certainly be fatal to Johnson.This report could be of national importance and should not be withheld by bureaucratic niceties, procedures at Scotland Yard or even collusion between Downing Street and the Met.Gavin TurnerNorfolkThose with the power to do so must ensure the Sue Gray report is published in full for all to see so that our shameless prime minister is removed from office as soon as possible. As has been stated elsewhere, there is no reason for the report to be held back in any of its particulars - other than to save the prime minister from proper scrutiny.To spell it out: the issue is not about parties, it is about misleading parliament and breaking the ministerial code.Boris Johnsonis unfit for office and those who have the power to act in the nation's interest should play their part on our behalf by, in the first instance, pressing for the publication of the full Sue Gray report with no redactions.Graham PowellCirencesterCyclist safetyThe new Highway Code aims to make the roads safer for cyclists. What would help in achieving that objective is to make it mandatory for them to have lights, to indicate their intention to turn right in front of vehicles and stop at red traffic signals.And while we're complaining, keep adult cyclists off the footpaths!Pamela HibbertCrowthorneBrexit liesThe government is going to raise a one-off £39bn for theNHSby imposing a tax burden skewed to impact the poorest. What happened to the £350m per week we were going to get back after leaving the EU, which would have brought in a staggering £18.2bn every year for the health service?To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereEven the more realistic net figure would have dwarfed the proposed rise. Add to that the Brexit bonus and all those promised \"world-beating\" trade deals, and we should by now be implementing massive tax cuts for all. Maybe we need a senior civil servant to investigate if any lies were told pre-Brexit - preferably before the Met gets involved.G ForwardStirlingAny skills at all?Inyour editorialdiscussing the various candidates likely to put themselves forward for Conservative Party leadership and prime minister, you state that Johnson had \"the wrong skills to deal with a pandemic\".Forgive me for asking the blindingly obvious, but does he have any skills at all?Ian WingfieldBamford, DerbyshireRead MoreOpinion: Why stop wearing a mask? Now is the obvious time to continueLetters: Liz Truss's private jet is a kick in the teeth for us struggling with billsLetters: To threaten war as lightly as the UK is doing is highly irresponsibleLetters: Liz Truss's private jet is a kick in the teeth for us struggling with billsLetters: To threaten war as lightly as the UK is doing is highly irresponsibleLetters: Tax rises should be postponed, if not stopped altogether"
+        }
+    ]
+}

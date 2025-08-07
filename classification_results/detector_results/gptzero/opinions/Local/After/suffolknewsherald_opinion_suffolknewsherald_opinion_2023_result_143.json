@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0008275775471702218,
+                    "sentence": "Published 7:13 pm Friday, January 27, 2023BySuffolk News-Herald Editorial BoardVirginians feel better about their state than their country.That's a reasonable conclusion to draw from the latest survey by the Wason Center for Civic Leadership at Christopher Newport University.A plurality of respondents (45% to 37%) said Virginia is headed in the right direction, while 50% approve of the job Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000924455642234534,
+                    "sentence": "Glenn Youngkin is doing, even as they prefer he not run for president (59% to 29%).But Virginians are pessimistic about the direction of the country (19% right direction to 73% wrong direction), and that dissatisfaction is reflected in President Joe Biden's approval rating (38% approve to 57% disapprove).The Wason Center conducted 1,038 interviews of Virginia registered voters, including 231 on landlines and 807 on cellphones, Jan. 13-23.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009407945326529443,
+                    "sentence": "The poll has a margin of error of 3.8%.“Virginians are generally alright with the direction of the commonwealth, but have far more negative opinions regarding the direction of the country as a whole,” said Dr. Rebecca Bromley-Trujillo, research director of the Wason Center.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008191561209969223,
+                    "sentence": "“Virginians give Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009184021037071943,
+                    "sentence": "Youngkin solid marks as he enters his second year in office.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001031553721986711,
+                    "sentence": "Conversely, they see the nation as headed in the wrong direction and continue to be displeased with the president.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.673179030418396,
+                    "sentence": "And this same dynamic, which has been noted in prior polling, extends to education as well.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.8019003868103027,
+                    "sentence": "Virginians are far more satisfied with their own local public schools than they are with the nation's public schools in general.”Some 41% of Virginians gave their local public schools an “A” or “B” grade in the poll, while only 13% graded national public schools that high.Other interesting findings:On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.8929945230484009,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.877450704574585,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 7.3961985130678e-05
+                }
+            ],
+            "completely_generated_prob": 0.24256741654484165,
+            "class_probabilities": {
+                "human": 0.7573578272058379,
+                "ai": 0.24256741654484165,
+                "mixed": 7.475624932039773e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.7573578272058379,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.24256741654484165,
+                    "human": 0.7573578272058379,
+                    "mixed": 7.475624932039773e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 7:13 pm Friday, January 27, 2023BySuffolk News-Herald Editorial BoardVirginians feel better about their state than their country.That’s a reasonable conclusion to draw from the latest survey by the Wason Center for Civic Leadership at Christopher Newport University.A plurality of respondents (45% to 37%) said Virginia is headed in the right direction, while 50% approve of the job Gov. Glenn Youngkin is doing, even as they prefer he not run for president (59% to 29%).But Virginians are pessimistic about the direction of the country (19% right direction to 73% wrong direction), and that dissatisfaction is reflected in President Joe Biden’s approval rating (38% approve to 57% disapprove).The Wason Center conducted 1,038 interviews of Virginia registered voters, including 231 on landlines and 807 on cellphones, Jan. 13-23. The poll has a margin of error of 3.8%.“Virginians are generally alright with the direction of the commonwealth, but have far more negative opinions regarding the direction of the country as a whole,” said Dr. Rebecca Bromley-Trujillo, research director of the Wason Center. “Virginians give Gov. Youngkin solid marks as he enters his second year in office. Conversely, they see the nation as headed in the wrong direction and continue to be displeased with the president. And this same dynamic, which has been noted in prior polling, extends to education as well. Virginians are far more satisfied with their own local public schools than they are with the nation’s public schools in general.”Some 41% of Virginians gave their local public schools an “A” or “B” grade in the poll, while only 13% graded national public schools that high.Other interesting findings:On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

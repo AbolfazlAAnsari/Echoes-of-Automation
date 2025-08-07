@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0006393067305907607,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°On Friday, a bit over a week after his poor debate performance against Donald Trump, President Joe Biden sat down with ABC News anchor George Stephanopoulos for a conversation widely seen as meant to reassure allies and the American electorate that he's up to the job.The president did not dispel questions over his acuity and fitness, largely because he can't at this stage.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00051092728972435,
+                    "sentence": "No matter what he does, he will still be an 81-year-old man with a tendency towards gaffes and verbal tics that, while not exclusively related to his age, feed the perception that he's not as with it as he once was.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00041083688847720623,
+                    "sentence": "Democrats in Congress and even the White House are fretting, tumbling between the idea of pressuring Biden to step aside and defending him.But it is true that the man who appeared in that brief interview seemed comfortable, sharp ᅳ if somewhat practiced and guarded, as was typical of presidents before Trump's off-the-cuff ravings ᅳ and determined.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007651768974028528,
+                    "sentence": "It's impossible to draw too sweeping of a conclusion from a 22-minute sit-down, which is of course the problem; those who want to find evidence that Biden has one foot in the grave can find plenty of fodder, as well as those arguing for his ability to stay in the job.Biden sprung to the interview from an energetic rally in Wisconsin, where he performed well despite some verbal slip-ups of the type anyone could make ᅳ saying 2020 instead of 2024 and immediately correcting himself, for example.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009247571579180658,
+                    "sentence": "At both the rally and in the interview, the president was sure to raise what really matters in this contest: what he's done and plans to do, especially in contrast to his opponent.As we've said before, the decision to continue or not is solely up to Biden.This week, NATO leaders will meet in Washington to honor an alliance that will be closing its 75th year in a far stronger position than it was even just a few years ago, shepherded in large part by Biden.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001385831506922841,
+                    "sentence": "Trump, meanwhile, seems ready to kill the alliance, a move that will instantly make the world a far more dangerous place, and whose gravity Trump himself probably doesn't even grasp.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013931651483289897,
+                    "sentence": "Trump's own frequent verbal flubs and ramblings verging on outright incoherence have been so common as to become background noise, paradoxically making them less of a story than Biden's missteps.With the Supreme Court having now explicitly declared the president immune from all manner of “official acts” ᅳ up to the determination of judges, of course ᅳ Trump could enter office empowered to carry out the many authoritarian policies he's explicitly promised to undertake.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.744257502257824e-05,
+                    "sentence": "These range from deploying the military in city streets to sending federal agents after his political opponents, not for having committed any crimes, but for daring to oppose him, and his allies have spent the past few years developing detailed plans to put this awful project in motion immediately.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.670837996760383e-05,
+                    "sentence": "Unless, he doesn't mean it.So no, neither we nor anyone can say that Biden is in perfect shape.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.513705688528717e-05,
+                    "sentence": "Those who contend that he's far gone and can no longer focus or hold attention are clearly also wrong, as evidenced by the readily available public appearances from before and after his bad debate night.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019405223429203033,
+                    "sentence": "As Americans debate the fitness of both men to serve a second term, Biden and Trump remain, for now, the only two choices.ᅳNew York Daily News",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.009782813243742878,
+            "class_probabilities": {
+                "human": 0.9902171867562571,
+                "ai": 0.009782813243742878,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9902171867562571,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.009782813243742878,
+                    "human": 0.9902171867562571,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°On Friday, a bit over a week after his poor debate performance against Donald Trump, President Joe Biden sat down with ABC News anchor George Stephanopoulos for a conversation widely seen as meant to reassure allies and the American electorate that he’s up to the job.The president did not dispel questions over his acuity and fitness, largely because he can’t at this stage. No matter what he does, he will still be an 81-year-old man with a tendency towards gaffes and verbal tics that, while not exclusively related to his age, feed the perception that he’s not as with it as he once was. Democrats in Congress and even the White House are fretting, tumbling between the idea of pressuring Biden to step aside and defending him.But it is true that the man who appeared in that brief interview seemed comfortable, sharp — if somewhat practiced and guarded, as was typical of presidents before Trump’s off-the-cuff ravings — and determined. It’s impossible to draw too sweeping of a conclusion from a 22-minute sit-down, which is of course the problem; those who want to find evidence that Biden has one foot in the grave can find plenty of fodder, as well as those arguing for his ability to stay in the job.Biden sprung to the interview from an energetic rally in Wisconsin, where he performed well despite some verbal slip-ups of the type anyone could make — saying 2020 instead of 2024 and immediately correcting himself, for example. At both the rally and in the interview, the president was sure to raise what really matters in this contest: what he’s done and plans to do, especially in contrast to his opponent.As we’ve said before, the decision to continue or not is solely up to Biden.This week, NATO leaders will meet in Washington to honor an alliance that will be closing its 75th year in a far stronger position than it was even just a few years ago, shepherded in large part by Biden. Trump, meanwhile, seems ready to kill the alliance, a move that will instantly make the world a far more dangerous place, and whose gravity Trump himself probably doesn’t even grasp. Trump’s own frequent verbal flubs and ramblings verging on outright incoherence have been so common as to become background noise, paradoxically making them less of a story than Biden’s missteps.With the Supreme Court having now explicitly declared the president immune from all manner of “official acts” — up to the determination of judges, of course — Trump could enter office empowered to carry out the many authoritarian policies he’s explicitly promised to undertake. These range from deploying the military in city streets to sending federal agents after his political opponents, not for having committed any crimes, but for daring to oppose him, and his allies have spent the past few years developing detailed plans to put this awful project in motion immediately. Unless, he doesn’t mean it.So no, neither we nor anyone can say that Biden is in perfect shape. Those who contend that he’s far gone and can no longer focus or hold attention are clearly also wrong, as evidenced by the readily available public appearances from before and after his bad debate night. As Americans debate the fitness of both men to serve a second term, Biden and Trump remain, for now, the only two choices.—New York Daily News"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0004144086560700089,
+                    "sentence": "Katherine Miller shares her impressions after attending the nonpartisan group's first town hall.Amajority of Americansdon't want to see President Biden and former President Trump compete for the White House again in 2024.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006569279357790947,
+                    "sentence": "No Labels, a nonpartisan political group, is talking about running a third-party unity ticket next year if Joe Biden and Donald Trump are the nominees.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007261029677465558,
+                    "sentence": "The Opinion writer and editor Katherine Miller has been reporting on a potential third option, and attended the first No Labels town hall in New Hampshire.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00046003886382095516,
+                    "sentence": "In this audio short, Miller argues the group has failed to make the case that it holds a viable solution to voter unease.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004529861325863749,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007572597824037075,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00042372706229798496,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.This Times Opinion piece was produced by Jillian Weinberger.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00059132045134902,
+                    "sentence": "It was edited by Kaari Pitkin and Annie-Rose Strasser.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005577382980845869,
+                    "sentence": "Mixing by Carole Sabouraud.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006219576462171972,
+                    "sentence": "Original music by Pat McCusker and Carole Sabouraud.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007021926576271653,
+                    "sentence": "Fact-checking by Mary Marge Locker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000827344018034637,
+                    "sentence": "Special thanks to Shannon Busta and Kristina Samulewski.PHOTO: The political organization No Labels was created to support centrism and bipartisanship in American politics.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014917398802936077,
+                    "sentence": "(PHOTOGRAPH BY Tom Williams/CQ Roll Call, via Associated Press FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.017486769031531738,
+            "class_probabilities": {
+                "human": 0.9825132309684682,
+                "ai": 0.017486769031531738,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9825132309684682,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.017486769031531738,
+                    "human": 0.9825132309684682,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Katherine Miller shares her impressions after attending the nonpartisan group’s first town hall.Amajority of Americansdon’t want to see President Biden and former President Trump compete for the White House again in 2024. No Labels, a nonpartisan political group, is talking about running a third-party unity ticket next year if Joe Biden and Donald Trump are the nominees. The Opinion writer and editor Katherine Miller has been reporting on a potential third option, and attended the first No Labels town hall in New Hampshire. In this audio short, Miller argues the group has failed to make the case that it holds a viable solution to voter unease.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.This Times Opinion piece was produced by Jillian Weinberger. It was edited by Kaari Pitkin and Annie-Rose Strasser. Mixing by Carole Sabouraud. Original music by Pat McCusker and Carole Sabouraud. Fact-checking by Mary Marge Locker. Special thanks to Shannon Busta and Kristina Samulewski.PHOTO: The political organization No Labels was created to support centrism and bipartisanship in American politics. (PHOTOGRAPH BY Tom Williams/CQ Roll Call, via Associated Press FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

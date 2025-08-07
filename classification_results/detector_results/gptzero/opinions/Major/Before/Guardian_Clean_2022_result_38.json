@@ -1,0 +1,154 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0023542609997093678,
+                    "sentence": "Sitting on mountains of cash doesn't appear enough to keep these billionaires happy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020256065763533115,
+                    "sentence": "They want to be worshipped for their benevolence, tooBillionairesshouldn't exist.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012002350995317101,
+                    "sentence": "I am firmly of the opinion that all billionaires are policy failures and their very existence is immoral.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001158993225544691,
+                    "sentence": "That said, if I accidentally happened to become a billionaire, I think I would be pretty good at the whole being-richer-than-God thing.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010794715490192175,
+                    "sentence": "I would chill on my yacht, drink champagne and not give a damn what anybody thought about me.Real billionaires aren't terribly good at that last bit.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013490994460880756,
+                    "sentence": "Sitting on mountains of dubiously gotten gains does not appear to be enough for them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015467278426513076,
+                    "sentence": "Rather, a lot of high-profile billionaires seem desperate for us plebs to worship them as benevolent “philanthropists”; to understand that they are not avoiding taxes and hoarding wealth because they are greedy, no, it's because they are saving the world.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1797579526901245,
+                    "sentence": "Apparently, it is impossible to do this quietly or collaboratively: they are also all busy trying to outdo each other loudly when it comes to the world-saving.See as the latest example of brash billionaire “benevolence”, the row betweenElon MuskandBill Gates(who hasn't let having one of the highest carbon footprints in the world stop him from becoming amoral authority on the environment) over who is donating more money to the climate crisis.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.20513208210468292,
+                    "sentence": "The two men have been feuding for years now, with Musk accusing Gates of not being serious about fighting the climate crisis because he shorted Tesla's stock.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.23426081240177155,
+                    "sentence": "However, the conflict intensified over the weekend, after Gates informed aFrench journalistthat he gives “a lot more money to climate change than Elon or anyone else”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.291001558303833,
+                    "sentence": "So there!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.2410886287689209,
+                    "sentence": "Musk responded by tweeting “Sigh” - which was pretty restrained considering his history of vulgar tweets about Gates.Imagine having that much money and spending your spare time on silly little feuds.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.415530800819397,
+                    "sentence": "Seriously, what is wrong with these people?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.29186081886291504,
+                    "sentence": "I'm not a psychologist; I can't answer that.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.30182892084121704,
+                    "sentence": "But, I can say that if these guys really care about the climate crisis, they should stop releasing so much hot air and pay more taxes.Arwa Mahdawi is a Guardian columnist",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 15,
+                    "completely_generated_prob": 2.5938383721896624e-13
+                }
+            ],
+            "completely_generated_prob": 0.0592640951707379,
+            "class_probabilities": {
+                "human": 0.9407359048292621,
+                "ai": 0.0592640951707379,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9407359048292621,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0592640951707379,
+                    "human": 0.9407359048292621,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Sitting on mountains of cash doesn’t appear enough to keep these billionaires happy. They want to be worshipped for their benevolence, tooBillionairesshouldn’t exist.  I am firmly of the opinion that all billionaires are policy failures and their very existence is immoral. That said, if I accidentally happened to become a billionaire, I think I would be pretty good at the whole being-richer-than-God thing. I would chill on my yacht, drink champagne and not give a damn what anybody thought about me.Real billionaires aren’t terribly good at that last bit. Sitting on mountains of dubiously gotten gains does not appear to be enough for them. Rather, a lot of high-profile billionaires seem desperate for us plebs to worship them as benevolent “philanthropists”; to understand that they are not avoiding taxes and hoarding wealth because they are greedy, no, it’s because they are saving the world. Apparently, it is impossible to do this quietly or collaboratively: they are also all busy trying to outdo each other loudly when it comes to the world-saving.See as the latest example of brash billionaire “benevolence”, the row betweenElon MuskandBill Gates(who hasn’t let having one of the highest carbon footprints in the world stop him from becoming amoral authority on the environment) over who is donating more money to the climate crisis. The two men have been feuding for years now, with Musk accusing Gates of not being serious about fighting the climate crisis because he shorted Tesla’s stock. However, the conflict intensified over the weekend, after Gates informed aFrench journalistthat he gives “a lot more money to climate change than Elon or anyone else”. So there! Musk responded by tweeting “Sigh” – which was pretty restrained considering his history of vulgar tweets about Gates.Imagine having that much money and spending your spare time on silly little feuds. Seriously, what is wrong with these people? I’m not a psychologist; I can’t answer that. But, I can say that if these guys really care about the climate crisis, they should stop releasing so much hot air and pay more taxes.Arwa Mahdawi is a Guardian columnist"
+        }
+    ]
+}

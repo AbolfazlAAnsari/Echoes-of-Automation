@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 6.604644295293838e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.763232861179858e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukI readAndrew Grice's columnwith interest and agreement.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.916718535241671e-05,
+                    "sentence": "I feel that the public have more on their minds than the channel crossings by desperate people, when as always a different more humane approach could be found.It is a fact that Britain needs migrants to fill the ever-increasing labour shortages, and for Suella Braverman to state that British workers will need to be trained is not going to hack it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.084920096327551e-05,
+                    "sentence": "Every sector from care to agriculture needs men and women who are up to speed with this work, and wherever they come from should not curtail this placing of their necessary skills.I agree with Grice that Suella Braverman has become semidetached from our lived reality, and this continuing lurch to right-wing politics of the Conservative party should worry and alienate many people.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.122564082033932e-05,
+                    "sentence": "Her comment that multiculturalism “is a recipe for communal disaster” is way off the mark and does this government no favours at all.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000105137842183467,
+                    "sentence": "The Tory right think they are making a clarion call for the masses; instead I would imagine that the more savvy public have switched off from this ever increasing incendiary hyperbole.Judith A DanielsNorfolkThe Tories' attitude to sewage stinksThe party in power for 13 years literally voted for raw sewage inUKwaters (whateversong they are belatedly singing).The question is not why they did it - it's a natural outcome ofprivatisationand profit before people.The conundrum of our age is why Brits are ok with this.Amanda BakerEdinburghAsking whether the royal car chase was 'dangerous' misses the pointAll this fuss over whether “the chase by the paparazziwas dangerous or not”, and nobody, not even Harry's father has made the real points.Once the “chase” began, the taxi racing to try and get rid of the paparazzi,what must it have felt like to Harry?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0022638817317783833,
+                    "sentence": "They couldn't escape to go where they wanted, without compromising the address of their friends.It doesn't matter one bit whether there was any real danger or not, but if Harry hadn't been scared and shaken in the circumstances, he wouldn't be human.If we don't understand that, we're not human either.Dr Jenny BackwellHoveLabour isn't equipped to clean up the Tories' messThere is no doubt a significant majority of the electorate and contributors to The Independent who fervently desire political change away from the Tories.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011781698558479548,
+                    "sentence": "Mostly driven by a combination of hatred and fear of more Tory sleaze, ineptitude, and grubby morals we find ourselves in a political wilderness where “none of the above” feels like the only mark we can honestly make on our ballot papers in 18 months' time.Who knows whatLabour or Sir Kier thinks?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009929435327649117,
+                    "sentence": "Where would he take us?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009207952534779906,
+                    "sentence": "Where will the money come from to fix the NHS?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016045152442529798,
+                    "sentence": "Will the boats keep coming?There seem to be no answers or questions from Kier Starmer on any subject you care to mention, and while it's clear the Tories will lose the next election I fear Labour won't “win” but will simply get UK dumped in their lap.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003158667590469122,
+                    "sentence": "As things stand, I can't see they have a Scooby as to how to dig us out of this Tory hole.Steve MackinderDenver",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.01024630426605243,
+            "class_probabilities": {
+                "human": 0.989714449001761,
+                "ai": 0.01024630426605243,
+                "mixed": 3.924673218661023e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.989714449001761,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01024630426605243,
+                    "human": 0.989714449001761,
+                    "mixed": 3.924673218661023e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI readAndrew Grice’s columnwith interest and agreement. I feel that the public have more on their minds than the channel crossings by desperate people, when as always a different more humane approach could be found.It is a fact that Britain needs migrants to fill the ever-increasing labour shortages, and for Suella Braverman to state that British workers will need to be trained is not going to hack it. Every sector from care to agriculture needs men and women who are up to speed with this work, and wherever they come from should not curtail this placing of their necessary skills.I agree with Grice that Suella Braverman has become semidetached from our lived reality, and this continuing lurch to right-wing politics of the Conservative party should worry and alienate many people. Her comment that multiculturalism “is a recipe for communal disaster” is way off the mark and does this government no favours at all. The Tory right think they are making a clarion call for the masses; instead I would imagine that the more savvy public have switched off from this ever increasing incendiary hyperbole.Judith A DanielsNorfolkThe Tories’ attitude to sewage stinksThe party in power for 13 years literally voted for raw sewage inUKwaters (whateversong they are belatedly singing).The question is not why they did it – it’s a natural outcome ofprivatisationand profit before people.The conundrum of our age is why Brits are ok with this.Amanda BakerEdinburghAsking whether the royal car chase was ‘dangerous’ misses the pointAll this fuss over whether “the chase by the paparazziwas dangerous or not”, and nobody, not even Harry’s father has made the real points.Once the “chase” began, the taxi racing to try and get rid of the paparazzi,what must it have felt like to Harry? They couldn’t escape to go where they wanted, without compromising the address of their friends.It doesn’t matter one bit whether there was any real danger or not, but if Harry hadn’t been scared and shaken in the circumstances, he wouldn’t be human.If we don’t understand that, we’re not human either.Dr Jenny BackwellHoveLabour isn’t equipped to clean up the Tories’ messThere is no doubt a significant majority of the electorate and contributors to The Independent who fervently desire political change away from the Tories. Mostly driven by a combination of hatred and fear of more Tory sleaze, ineptitude, and grubby morals we find ourselves in a political wilderness where “none of the above” feels like the only mark we can honestly make on our ballot papers in 18 months’ time.Who knows whatLabour or Sir Kier thinks? Where would he take us? Where will the money come from to fix the NHS? Will the boats keep coming?There seem to be no answers or questions from Kier Starmer on any subject you care to mention, and while it’s clear the Tories will lose the next election I fear Labour won’t “win” but will simply get UK dumped in their lap. As things stand, I can’t see they have a Scooby as to how to dig us out of this Tory hole.Steve MackinderDenver"
+        }
+    ]
+}

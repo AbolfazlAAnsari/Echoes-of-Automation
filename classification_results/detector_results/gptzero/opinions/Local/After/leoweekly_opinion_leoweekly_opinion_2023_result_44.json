@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 2.899860919569619e-05,
+                    "sentence": "Thorn: Seriously, JCPS?Bussing Woes continue as drivers “call in sick” for a second day in a row, prompting several route cancellations and headaches for parents.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.9232778868172318e-05,
+                    "sentence": "Certainly being a bus driver is its own brand of headache because, let's face it, some of your crotch fruits are little jerks but also because the pay, hours, and expectations of drivers create an intense work environment.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.5421897842315957e-05,
+                    "sentence": "The solution?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.086701715597883e-05,
+                    "sentence": "We have no clue but we do hope for the kids and the parents that it is remedied soon.Rose: Jack Harlow loves AndyJack Harlow hit the campaign trail with Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.6263194993371144e-05,
+                    "sentence": "Andy Beshear in the days leading up to the election.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.696533763606567e-05,
+                    "sentence": "Whether or not voters are swayed by a touch of “First Class” Harlow treatment will be known to LEO readers when they get this issue.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.6022660929593258e-05,
+                    "sentence": "We are pretty firmly in Beshear's camp, ourselves, but it's good to see Harlow showing his fans that being political can be quite cool.Thorny McRose: McRib is back in Kentucky.Is that a good thing?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.6325953765772283e-05,
+                    "sentence": "Healthwise in Kentucky, probably not but folks deserve a treat and for those who lament the loss of the McRib, this is welcome news.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.014536198228597641,
+                    "sentence": "Calling it a McRib when it has no bones is baffling but this shaped pork patty has won the hearts of many over the years, and even though McDonald's has tried to kill the product several times, the people keep asking and McDonald's keeps listening.Thorn: The American Mass ShootingCincinnati is picking up the pieces after a mass shooting took the life of an 11-year-old boy and injured four other children and an adult outside of Cincinnati Preparatory Academy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01007156353443861,
+                    "sentence": "This shooting makes the 596th mass shooting in the U.S.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.016861917451024055,
+                    "sentence": "It's another reminder of the failure of both morals and action needed to put an end to these killings.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012867988087236881,
+                    "sentence": "The problem with so many mass shootings is that we're anesthetized by this loss of life.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015978317242115736,
+                    "sentence": "***.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.0375246461941804,
+            "class_probabilities": {
+                "human": 0.9624347023880775,
+                "ai": 0.0375246461941804,
+                "mixed": 4.065141774218333e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9624347023880775,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0375246461941804,
+                    "human": 0.9624347023880775,
+                    "mixed": 4.065141774218333e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Thorn: Seriously, JCPS?Bussing Woes continue as drivers “call in sick” for a second day in a row, prompting several route cancellations and headaches for parents. Certainly being a bus driver is its own brand of headache because, let’s face it, some of your crotch fruits are little jerks but also because the pay, hours, and expectations of drivers create an intense work environment. The solution? We have no clue but we do hope for the kids and the parents that it is remedied soon.Rose: Jack Harlow loves AndyJack Harlow hit the campaign trail with Gov. Andy Beshear in the days leading up to the election. Whether or not voters are swayed by a touch of “First Class” Harlow treatment will be known to LEO readers when they get this issue. We are pretty firmly in Beshear’s camp, ourselves, but it’s good to see Harlow showing his fans that being political can be quite cool.Thorny McRose: McRib is back in Kentucky.Is that a good thing? Healthwise in Kentucky, probably not but folks deserve a treat and for those who lament the loss of the McRib, this is welcome news. Calling it a McRib when it has no bones is baffling but this shaped pork patty has won the hearts of many over the years, and even though McDonald’s has tried to kill the product several times, the people keep asking and McDonald’s keeps listening.Thorn: The American Mass ShootingCincinnati is picking up the pieces after a mass shooting took the life of an 11-year-old boy and injured four other children and an adult outside of Cincinnati Preparatory Academy. This shooting makes the 596th mass shooting in the U.S. It’s another reminder of the failure of both morals and action needed to put an end to these killings. The problem with so many mass shootings is that we’re anesthetized by this loss of life.*** ."
+        }
+    ]
+}

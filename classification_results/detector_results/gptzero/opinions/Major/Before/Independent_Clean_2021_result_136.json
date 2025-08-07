@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0034471992403268814,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe protest byfootball fansatOld Traffordon Sunday came as no surprise, and is indicative of the failure of capitalism in football club ownership.Selling off these clubs to the highest bidders, many of whom have no interest in the sport is having predictable outcomes.Shareholder value is minimal, as profits go to inflated player salaries and owner investment returns.Time for the government to legislate, as in Germany, for a minimum of 51 per cent fan ownership, as exemplified here in Dunfermline.Richard LloydDunfermlineBobby off the beatMaya Oppenheim'sarticlewhich discussed measures to tackle violence against women reminded me of my first year at university in the late Sixties when I was living in an all female hall of residence.There had been several incidents of women being attacked on their way home at night and the police were asked if they would put an officer on the beat in the area.Their response was \"We tried that once before but nothing ever happened so we took them off.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006744409911334515,
+                    "sentence": "\"We felt they had somewhat missed the point.Jean FosterSelkirkCrunch electionsThe December 2019 general election was a referendum on whether the electorate wanted to getBrexitdone and move on.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006643253844231367,
+                    "sentence": "The result was emphatic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010875409469008446,
+                    "sentence": "People wanted politicians to get on with the job of running the country and focusing on what matters.The May 2021 Scottish elections are a referendum on whether the Scottish electorate want another damaging and divisive independence referendum.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009424170479178429,
+                    "sentence": "Let us hope for an equally emphatic result, rejecting pointless constitutional wrangling and focusing on rebuilding the whole UK after the pandemic.N HillSwanseaFood for thoughtMarc Abraham'sarticleabout the cruelty involved in production of factory-farmed chickens is a timely reminder that as a race we humans have to recalibrate our relationship with the animal word.It is not only about compassion to animals it is also about our own welfare and survival.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.019513359293341637,
+                    "sentence": "Our food habits are degrading the planet.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07987998425960541,
+                    "sentence": "A plant-based diet is the only solution to avert an existential crisis.Nitin MehtaAddress suppliedAny questionsI am concerned that James Cleverly has been discomforted by reporting on Boris Johnson's financial arrangements.For the life of me I can't imagine why such questioning causes Tories a problem.Eddie DougallBury St EdmundsThe British wayCan someone explain why the economy of Great Britain seems to depend on its citizens spending as much as possible on drinking alcohol and taking foreign holidays?Andrew CleverleyMorpethRead MoreWe should appreciate the dedication of teachers - not overwork themThe benefits of Brexit just keep rolling in - or is it the opposite?The UK must take full responsibility for its entire carbon footprint",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.039839419682113825,
+            "class_probabilities": {
+                "human": 0.9601605803178862,
+                "ai": 0.039839419682113825,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601605803178862,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039839419682113825,
+                    "human": 0.9601605803178862,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukThe protest byfootball fansatOld Traffordon Sunday came as no surprise, and is indicative of the failure of capitalism in football club ownership.Selling off these clubs to the highest bidders, many of whom have no interest in the sport is having predictable outcomes.Shareholder value is minimal, as profits go to inflated player salaries and owner investment returns.Time for the government to legislate, as in Germany, for a minimum of 51 per cent fan ownership, as exemplified here in Dunfermline.Richard LloydDunfermlineBobby off the beatMaya Oppenheim'sarticlewhich discussed measures to tackle violence against women reminded me of my first year at university in the late Sixties when I was living in an all female hall of residence.There had been several incidents of women being attacked on their way home at night and the police were asked if they would put an officer on the beat in the area.Their response was \"We tried that once before but nothing ever happened so we took them off.\"We felt they had somewhat missed the point.Jean FosterSelkirkCrunch electionsThe December 2019 general election was a referendum on whether the electorate wanted to getBrexitdone and move on. The result was emphatic. People wanted politicians to get on with the job of running the country and focusing on what matters.The May 2021 Scottish elections are a referendum on whether the Scottish electorate want another damaging and divisive independence referendum. Let us hope for an equally emphatic result, rejecting pointless constitutional wrangling and focusing on rebuilding the whole UK after the pandemic.N HillSwanseaFood for thoughtMarc Abraham'sarticleabout the cruelty involved in production of factory-farmed chickens is a timely reminder that as a race we humans have to recalibrate our relationship with the animal word.It is not only about compassion to animals it is also about our own welfare and survival. Our food habits are degrading the planet. A plant-based diet is the only solution to avert an existential crisis.Nitin MehtaAddress suppliedAny questionsI am concerned that James Cleverly has been discomforted by reporting on Boris Johnson's financial arrangements.For the life of me I can't imagine why such questioning causes Tories a problem.Eddie DougallBury St EdmundsThe British wayCan someone explain why the economy of Great Britain seems to depend on its citizens spending as much as possible on drinking alcohol and taking foreign holidays?Andrew CleverleyMorpethRead MoreWe should appreciate the dedication of teachers - not overwork themThe benefits of Brexit just keep rolling in - or is it the opposite?The UK must take full responsibility for its entire carbon footprint"
+        }
+    ]
+}

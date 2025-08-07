@@ -1,0 +1,82 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.001525689149275422,
+                    "sentence": "Mutual Fund and ETF data provided byRefinitiv Lipper.Fox News host Tucker Carlson shreds 'state-affiliated media' NPR on 'Tucker Carlson Tonight.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010481048375368118,
+                    "sentence": "'TUCKER CARLSON- Fox News host shreds 'state-affiliated media' NPR.Continue reading…GOOD FRIDAY- Good Friday is a search for the meaning in our pain.Continue reading…BIDEN'S GREEN WAR- The Biden administration's war on energy has already cost Americans $200 billion.Continue reading…DR.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014598749112337828,
+                    "sentence": "MAKARY- I don't recommend FDA's infinity vaccine booster strategy.Continue reading…LET ME ADOPT!- State officials rejected my application, excluding me from adoption because I refused to abandon my religious beliefs.Continue reading…RAYMOND ARROYO- Nancy Pelosi's noodle needs a reset.Continue watching…MAJOR WIN- Arkansas, one of the smallest states, is about to become a national model.Continue reading…STUDENTS WORST NIGHTMARE- Teachers union now controls Chicago's city hall, and your city might be next.Continue reading…AI DANGEROUS MYTH- Science has put the AI cart before the horse of human intelligence.Continue reading…CARTOON OF THE DAY -Check out all of our political cartoons…04.01.23This article was written by Fox News staff.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                }
+            ],
+            "completely_generated_prob": 0.020660391318316405,
+            "class_probabilities": {
+                "human": 0.9793396086816837,
+                "ai": 0.020660391318316405,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9793396086816837,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020660391318316405,
+                    "human": 0.9793396086816837,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Mutual Fund and ETF data provided byRefinitiv Lipper.Fox News host Tucker Carlson shreds 'state-affiliated media' NPR on 'Tucker Carlson Tonight.'TUCKER CARLSON– Fox News host shreds 'state-affiliated media' NPR.Continue reading…GOOD FRIDAY– Good Friday is a search for the meaning in our pain.Continue reading…BIDEN'S GREEN WAR– The Biden administration's war on energy has already cost Americans $200 billion.Continue reading…DR. MAKARY– I don't recommend FDA's infinity vaccine booster strategy.Continue reading…LET ME ADOPT!– State officials rejected my application, excluding me from adoption because I refused to abandon my religious beliefs.Continue reading…RAYMOND ARROYO– Nancy Pelosi's noodle needs a reset.Continue watching…MAJOR WIN– Arkansas, one of the smallest states, is about to become a national model.Continue reading…STUDENTS WORST NIGHTMARE– Teachers union now controls Chicago's city hall, and your city might be next.Continue reading…AI DANGEROUS MYTH– Science has put the AI cart before the horse of human intelligence.Continue reading…CARTOON OF THE DAY –Check out all of our political cartoons…04.01.23This article was written by Fox News staff."
+        }
+    ]
+}

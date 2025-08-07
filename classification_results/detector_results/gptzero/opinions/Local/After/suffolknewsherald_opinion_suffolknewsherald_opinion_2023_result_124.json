@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.13369590044021606,
+                    "sentence": "Published 5:54 pm Tuesday, November 7, 2023ByStaff ReportsNov.11 is Veterans' Day, a special day to honor all (military) veterans who have served and sacrificed for the United States of America.I'd like to pray, thank, and pay tribute to our veteransᅳliving, active, retired or deceased: Valiant Veterans.Valiant veterans of yesterday and today who fought for freedom, peace and prosperity, life and liberty.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.10353551059961319,
+                    "sentence": "Who served proudly and with dignity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.16832488775253296,
+                    "sentence": "Yet, survived and succeeded.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1579812467098236,
+                    "sentence": "To win victory for our country and the whole community.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.11681278795003891,
+                    "sentence": "We're so proud of you!/You served and sacrificed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.08930109441280365,
+                    "sentence": "To protect and defend our nation and our Constitution.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0347803495824337,
+                    "sentence": "Our people and our community with much love and life, courage and commitment, pride and patriotism, valor and vigilance.Valiant veterans of war and peace, hailed and honored/, revered and respected, recognized and remembered today, always, and forever.On this very special day, a memorable Veterans Day, we salute you and sincerely thank you, Veterans, for your courage and dedication, love of service, and devotion to our people and nation.We proudly honor you, the unsung heroes of war and peace, the past and the present, the ideal and inspiration for current and incoming generations.We pray, “Almighty Father, bless all our veterans and their families.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05080081522464752,
+                    "sentence": "Protect them, watch over them, and keep them safe from harm.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09242841601371765,
+                    "sentence": "To our injured, sick and ill veterans, O God, heal them and make them well, wherever they may be.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.417542040348053,
+                    "sentence": "Give them hope and life, and strengthen their faith in you, the Ultimate Healer.And to our beloved veterans who paid the ultimate sacrifice, we pray, Dear God, grant unto them eternal rest and let perpetual light shine upon them.All of these, we ask through Jesus Christ, your Son and our Savior, who lives and reigns with you in the unity of the Holy Spirit, one God forever and ever.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.277637243270874,
+                    "sentence": "Amen.”On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.475553035736084,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.37260201573371887,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.13640736913373483,
+            "class_probabilities": {
+                "human": 0.8577130028863629,
+                "ai": 0.13640736913373483,
+                "mixed": 0.0058796279799023625
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8577130028863629,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.13640736913373483,
+                    "human": 0.8577130028863629,
+                    "mixed": 0.0058796279799023625
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:54 pm Tuesday, November 7, 2023ByStaff ReportsNov.11 is Veterans’ Day, a special day to honor all (military) veterans who have served and sacrificed for the United States of America.I’d like to pray, thank, and pay tribute to our veterans—living, active, retired or deceased: Valiant Veterans.Valiant veterans of yesterday and today who fought for freedom, peace and prosperity, life and liberty. Who served proudly and with dignity. Yet, survived and succeeded. To win victory for our country and the whole community. We’re so proud of you!/You served and sacrificed. To protect and defend our nation and our Constitution. Our people and our community with much love and life, courage and commitment, pride and patriotism, valor and vigilance.Valiant veterans of war and peace, hailed and honored/, revered and respected, recognized and remembered today, always, and forever.On this very special day, a memorable Veterans Day, we salute you and sincerely thank you, Veterans, for your courage and dedication, love of service, and devotion to our people and nation.We proudly honor you, the unsung heroes of war and peace, the past and the present, the ideal and inspiration for current and incoming generations.We pray, “Almighty Father, bless all our veterans and their families. Protect them, watch over them, and keep them safe from harm. To our injured, sick and ill veterans, O God, heal them and make them well, wherever they may be. Give them hope and life, and strengthen their faith in you, the Ultimate Healer.And to our beloved veterans who paid the ultimate sacrifice, we pray, Dear God, grant unto them eternal rest and let perpetual light shine upon them.All of these, we ask through Jesus Christ, your Son and our Savior, who lives and reigns with you in the unity of the Holy Spirit, one God forever and ever. Amen.”On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

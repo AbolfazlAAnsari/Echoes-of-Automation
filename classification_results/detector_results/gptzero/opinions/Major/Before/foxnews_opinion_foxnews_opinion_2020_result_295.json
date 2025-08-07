@@ -1,0 +1,94 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.008110981434583664,
+                    "sentence": "Meghan Markle has returned to Canada and will not attend meeting following announcement both her and Harry will step away from senior royal roles; Kitty Logan reports from London.Prince Harryand his wife Meghan Markle - the Duke and Duchess of Sussex - have captured worldwide attention after declaring that they will be stepping back as senior members of theBritish royal familyand dividing their time between North America and the United Kingdom.The two are prioritizing family life, focusing on raising their son Archie.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004623820073902607,
+                    "sentence": "They plan to become financially independent of the crown and pursue their charitable activities without the ceremonial requirements that come with being senior royals.If the couple can manage the current fallout from the announcement, their decision could symbolize a new step in what it will mean to be a non-senior royal, and a wider need to acknowledge them as individuals on their own paths.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008147526532411575,
+                    "sentence": "This will be an important step in furthering the narrative of their own stories.QUEEN ELIZABETH ORDERS PRIVATE MEETING WITH PRINCE HARRY, PRINCE WILLIAM, PRINCE CHARLES: REPORTSThere has been a great deal of backlash in Britain following the announcement, as royal correspondents and news commentators alike have been analyzing potential ramifications of the decision for possible rifts between the couple and the rest of the royal family.Many have also expressed incredulity over the announcement, criticizing the couple as spoiled and unable to manage the responsibilities that come with their roles - despite their immense privilege.But I see the announcement much differently.As the founder of a biography-writing service, I have helped document life stories of people from all over the world.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00046546419616788626,
+                    "sentence": "I am in a position to hear many previously untold stories.I began Story Terrace to help capture the extraordinary ups and downs of everyday people -making it easy for families and loved ones to share stories today and with future generations.Since our launch, we have written over 1,000 life stories - each gripping and utterly unique.One similarity I have come across in so many of our stories is that people with a seemingly clear-cut life path laid out before them often make a decision that completely changes the course of their lives.Despite facing criticism or adversity, these individuals are taking control of their lives, forging their own paths and simply taking the next step in their personal journeys.Prince Harry is such an individual.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012706998735666275,
+                    "sentence": "Not just now but earlier in his life when he decided to do two military tours in Afghanistan and when he showed highly entrepreneurial initiative and set up the Invictus Games, an athletic competition for wounded members of the armed services and veterans.It has been difficult for many in Britain to understand and support Prince Harry and Meghan Markle's decision to step away from the limelight and change the way they carry out their duties as members of the royal family.Time will tell whether this is simply the next chapter in the royal family's rich and storied journey, adapting as society evolves, or if this will create a backlash that will make the royal family tighten its ranks and create a lasting rift similar to the one with former King Edward during the last century.What I have learned from the stories I've been privileged to hear is that people who make conscious decisions around the turning points in their lives - at times breaking with the expectations of their loved ones and taking their destinies into their own hands to carve out a path for themselves - are often the people who are happiest when reflecting during their golden years.They often have the least regrets later on in their lives and tend to be seen as revered role models by their children and grandchildren.While the decision by the royal couple is a significant one, we should not begrudge them the desire to focus on raising their son, looking after their mental health and working to improve the lives of people around the world with their charitable endeavors.However controversial their decision has been publicly, on a personal level, they are simply taking control of writing the next chapter in the book of their lives.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                }
+            ],
+            "completely_generated_prob": 0.024461651786716186,
+            "class_probabilities": {
+                "human": 0.9754981327244504,
+                "ai": 0.024461651786716186,
+                "mixed": 4.0215488833363626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9754981327244504,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024461651786716186,
+                    "human": 0.9754981327244504,
+                    "mixed": 4.0215488833363626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Meghan Markle has returned to Canada and will not attend meeting following announcement both her and Harry will step away from senior royal roles; Kitty Logan reports from London.Prince Harryand his wife Meghan Markle – the Duke and Duchess of Sussex – have captured worldwide attention after declaring that they will be stepping back as senior members of theBritish royal familyand dividing their time between North America and the United Kingdom.The two are prioritizing family life, focusing on raising their son Archie. They plan to become financially independent of the crown and pursue their charitable activities without the ceremonial requirements that come with being senior royals.If the couple can manage the current fallout from the announcement, their decision could symbolize a new step in what it will mean to be a non-senior royal, and a wider need to acknowledge them as individuals on their own paths. This will be an important step in furthering the narrative of their own stories.QUEEN ELIZABETH ORDERS PRIVATE MEETING WITH PRINCE HARRY, PRINCE WILLIAM, PRINCE CHARLES: REPORTSThere has been a great deal of backlash in Britain following the announcement, as royal correspondents and news commentators alike have been analyzing potential ramifications of the decision for possible rifts between the couple and the rest of the royal family.Many have also expressed incredulity over the announcement, criticizing the couple as spoiled and unable to manage the responsibilities that come with their roles – despite their immense privilege.But I see the announcement much differently.As the founder of a biography-writing service, I have helped document life stories of people from all over the world. I am in a position to hear many previously untold stories.I began Story Terrace to help capture the extraordinary ups and downs of everyday people –making it easy for families and loved ones to share stories today and with future generations.Since our launch, we have written over 1,000 life stories – each gripping and utterly unique.One similarity I have come across in so many of our stories is that people with a seemingly clear-cut life path laid out before them often make a decision that completely changes the course of their lives.Despite facing criticism or adversity, these individuals are taking control of their lives, forging their own paths and simply taking the next step in their personal journeys.Prince Harry is such an individual. Not just now but earlier in his life when he decided to do two military tours in Afghanistan and when he showed highly entrepreneurial initiative and set up the Invictus Games, an athletic competition for wounded members of the armed services and veterans.It has been difficult for many in Britain to understand and support Prince Harry and Meghan Markle’s decision to step away from the limelight and change the way they carry out their duties as members of the royal family.Time will tell whether this is simply the next chapter in the royal family's rich and storied journey, adapting as society evolves, or if this will create a backlash that will make the royal family tighten its ranks and create a lasting rift similar to the one with former King Edward during the last century.What I have learned from the stories I’ve been privileged to hear is that people who make conscious decisions around the turning points in their lives – at times breaking with the expectations of their loved ones and taking their destinies into their own hands to carve out a path for themselves – are often the people who are happiest when reflecting during their golden years.They often have the least regrets later on in their lives and tend to be seen as revered role models by their children and grandchildren.While the decision by the royal couple is a significant one, we should not begrudge them the desire to focus on raising their son, looking after their mental health and working to improve the lives of people around the world with their charitable endeavors.However controversial their decision has been publicly, on a personal level, they are simply taking control of writing the next chapter in the book of their lives.   "
+        }
+    ]
+}

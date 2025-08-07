@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00029162003193050623,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001994872436625883,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe choiceRishi Sunakhas madenot to attend Cop27is entirely reflective of both his priorities and the priorities of those who control his party.The more urgent problems that appear to claim his attention and override his attendance at a collective and necessary international effort onclimateare largely of the Tory party's own making.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015987621736712754,
+                    "sentence": "Sunak's non-attendance, eschewing the company of world leaders such as Biden and Macron, both of whom clearly understand its importance, panders to the needs of a Tory party who believe that those needs, the most immediate of which has become self-survival, trump all others.David NelmesNewportThough not a Conservative, I had great hopes for Rishi Sunak.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011471619654912502,
+                    "sentence": "Sorry, but no longer.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017933882190845907,
+                    "sentence": "Who would believe he could reappointSuella Bravermanand continue to have Therese Coffey in his cabinet?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012546453217510134,
+                    "sentence": "I thought he was a man of integrity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001595971843926236,
+                    "sentence": "How can he be?L RobertsonOrkneyThe current debate about attending the Cop conference on our fast deteriorating environment raises a wider question of government.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005222210311330855,
+                    "sentence": "In what situations is it correct and necessary for the prime minister to attend an event or an incident, and when should it be delegated to the person with official responsibility and presumably a better grip of the situation, in this case probably the environment secretary?To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereCole DavisNorwichAs a one-time New Town resident, I am amused at the current “pinkgate” scandal rocking dinner party conversation across the land.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007750661461614072,
+                    "sentence": "We all need cheering up right now and a brightly painted door in a drab Georgian street has a role to play in the city and the nation's mental health.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008534532971680164,
+                    "sentence": "Personally, I think it is hideous (and it's lilac anyway).Alan MackayEast LothianWe need to come up with a new way of sustainable living and thriving without scavenging our planet for minerals and resources that may soon no longer exist.Any child could have told us that there would be limits to the world's unending growth and the dangers of the accumulation of CO2 in a small planet: that it would eventually make the Earth uninhabitable.There must be a way out, for the sake of our children's children.Suheil ShahryarHarpenden",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.00982192507144982,
+            "class_probabilities": {
+                "human": 0.9901780749285501,
+                "ai": 0.00982192507144982,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9901780749285501,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.00982192507144982,
+                    "human": 0.9901780749285501,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThe choiceRishi Sunakhas madenot to attend Cop27is entirely reflective of both his priorities and the priorities of those who control his party.The more urgent problems that appear to claim his attention and override his attendance at a collective and necessary international effort onclimateare largely of the Tory party’s own making. Sunak’s non-attendance, eschewing the company of world leaders such as Biden and Macron, both of whom clearly understand its importance, panders to the needs of a Tory party who believe that those needs, the most immediate of which has become self-survival, trump all others.David NelmesNewportThough not a Conservative, I had great hopes for Rishi Sunak. Sorry, but no longer. Who would believe he could reappointSuella Bravermanand continue to have Therese Coffey in his cabinet? I thought he was a man of integrity. How can he be?L RobertsonOrkneyThe current debate about attending the Cop conference on our fast deteriorating environment raises a wider question of government. In what situations is it correct and necessary for the prime minister to attend an event or an incident, and when should it be delegated to the person with official responsibility and presumably a better grip of the situation, in this case probably the environment secretary?To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereCole DavisNorwichAs a one-time New Town resident, I am amused at the current “pinkgate” scandal rocking dinner party conversation across the land. We all need cheering up right now and a brightly painted door in a drab Georgian street has a role to play in the city and the nation’s mental health. Personally, I think it is hideous (and it’s lilac anyway).Alan MackayEast LothianWe need to come up with a new way of sustainable living and thriving without scavenging our planet for minerals and resources that may soon no longer exist.Any child could have told us that there would be limits to the world’s unending growth and the dangers of the accumulation of CO2 in a small planet: that it would eventually make the Earth uninhabitable.There must be a way out, for the sake of our children’s children.Suheil ShahryarHarpenden"
+        }
+    ]
+}

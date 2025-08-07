@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0030828877352178097,
+                    "sentence": "Yes, we have a coronavirus outbreak, perhaps a pandemic in the future, but the hysteria surrounding it is ridiculous and often racist.There are reports that people paranoid about being exposed to the virus have started to panic-buy food and virtually anything they think they might need.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002918435260653496,
+                    "sentence": "It's all becoming very silly.Some of the parents with children at the Melbourne Royal children's hospital have actually refused to let Asian doctors and nurses treat their children, despite the fact that medical professionals know much more about the virus and how to maintain a healthy regime.The local Asian restaurants inMelbourneare virtually empty, and some have closed, maybe permanently, as many of their regular customers fear the virus.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003308527171611786,
+                    "sentence": "They may not realise that most \"non-Asian\" restaurants have a wide range of employees and any health risks of eating in these establishments are the same as they are anywhere.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002261473098769784,
+                    "sentence": "Again, this is silly, economically damaging and racist.It's time to listen to the people who know what they are doing - the medical experts, not the politicians or the paranoid.Dennis Fitzgerald Melbourne, AustraliaHeathrow rulingThe Court of Appealruling against the third runway planat Heathrow will be welcomed by many.For months now it has been clear that expansion would have meant unacceptable social and environmental consequences.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003131347242742777,
+                    "sentence": "The airport would now do well to concentrate on becoming \"better\" rather than \"bigger\".The Rev Andrew McLuskey Address suppliedUntrustworthy governmentRegarding the letter from the many academics about the housing shortage(Letters, 26 February), is it any wonder that Iain Duncan Smith, architect of the discredited universal credit scheme, should also get it wrong on this issue too?Whenever I see him interviewed on TV or quoted in the press, I am reminded once again of how many narrow-minded, myopic politicians there are in the government we elected.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006083450745791197,
+                    "sentence": "With every week that passes, we learn about its latest ill-thought-out ideas to address (or fail to address) the myriad issues which abound, plus the Brexit negotiations still to come.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0021988260559737682,
+                    "sentence": "It surely can be only a matter of time before it backfires and the public comes to realise what a mistake it made.Vic Gaunt BoltonHS2 versus social careOn Wednesday, in his Voices article (The social care crisis is out of control - and Priti Patel's curb on migrant workers will push costs higher), Vince Cable quoted a Kings Fund estimate of £10bn to fully fund a free care system in line with the current free NHS, implying this would be prohibitively expensive.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0027204137295484543,
+                    "sentence": "Compare that with the estimated £100bn to shave a few minutes off the journeys times of those wanting to travel from Birmingham to London and we can easily see where this government's priorities lie.G Forward StirlingThe Jamaica 50The callous disregard for the families of the supposedly dangerous foreign criminals the Home Office is desperate to \"remove\" to Jamaica (Jamaicans whose removal was ruled unlawful by courts still detained and apart from families two weeks on, 26 February) is strongly reminiscent of the crude racism of the apartheid government of South Africa.One of these black men served two months in prison 10 years ago for an offence that is no longer an offence.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002354603260755539,
+                    "sentence": "Who does the Home Office think it is kidding?D Maughan Brown YorkNespresso and the climateGeorge Clooney is, apparently,\"surprised and saddened\"by claims that children work on coffee farms associated with Nespresso.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003913845866918564,
+                    "sentence": "Good.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003710238030180335,
+                    "sentence": "I hope he is also saddened that Nespresso is, in my opinion, ridiculously over-packaged, and is probably not very good for the planet.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00591025035828352,
+                    "sentence": "I wonder whether he's ever made coffee any other way?Beryl Wall London W4",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.020796750353547094,
+            "class_probabilities": {
+                "human": 0.9792032496464529,
+                "ai": 0.020796750353547094,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9792032496464529,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020796750353547094,
+                    "human": 0.9792032496464529,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Yes, we have a coronavirus outbreak, perhaps a pandemic in the future, but the hysteria surrounding it is ridiculous and often racist.There are reports that people paranoid about being exposed to the virus have started to panic-buy food and virtually anything they think they might need. It's all becoming very silly.Some of the parents with children at the Melbourne Royal children's hospital have actually refused to let Asian doctors and nurses treat their children, despite the fact that medical professionals know much more about the virus and how to maintain a healthy regime.The local Asian restaurants inMelbourneare virtually empty, and some have closed, maybe permanently, as many of their regular customers fear the virus. They may not realise that most \"non-Asian\" restaurants have a wide range of employees and any health risks of eating in these establishments are the same as they are anywhere. Again, this is silly, economically damaging and racist.It's time to listen to the people who know what they are doing - the medical experts, not the politicians or the paranoid.Dennis Fitzgerald                                          Melbourne, AustraliaHeathrow rulingThe Court of Appealruling against the third runway planat Heathrow will be welcomed by many.For months now it has been clear that expansion would have meant unacceptable social and environmental consequences. The airport would now do well to concentrate on becoming \"better\" rather than \"bigger\".The Rev Andrew McLuskey                                          Address suppliedUntrustworthy governmentRegarding the letter from the many academics about the housing shortage(Letters, 26 February), is it any wonder that Iain Duncan Smith, architect of the discredited universal credit scheme, should also get it wrong on this issue too?Whenever I see him interviewed on TV or quoted in the press, I am reminded once again of how many narrow-minded, myopic politicians there are in the government we elected. With every week that passes, we learn about its latest ill-thought-out ideas to address (or fail to address) the myriad issues which abound, plus the Brexit negotiations still to come. It surely can be only a matter of time before it backfires and the public comes to realise what a mistake it made.Vic Gaunt                                          BoltonHS2 versus social careOn Wednesday, in his Voices article (The social care crisis is out of control - and Priti Patel's curb on migrant workers will push costs higher), Vince Cable quoted a Kings Fund estimate of £10bn to fully fund a free care system in line with the current free NHS, implying this would be prohibitively expensive. Compare that with the estimated £100bn to shave a few minutes off the journeys times of those wanting to travel from Birmingham to London and we can easily see where this government's priorities lie.G Forward                                          StirlingThe Jamaica 50The callous disregard for the families of the supposedly dangerous foreign criminals the Home Office is desperate to \"remove\" to Jamaica (Jamaicans whose removal was ruled unlawful by courts still detained and apart from families two weeks on, 26 February) is strongly reminiscent of the crude racism of the apartheid government of South Africa.One of these black men served two months in prison 10 years ago for an offence that is no longer an offence. Who does the Home Office think it is kidding?D Maughan Brown                                          YorkNespresso and the climateGeorge Clooney is, apparently,\"surprised and saddened\"by claims that children work on coffee farms associated with Nespresso. Good. I hope he is also saddened that Nespresso is, in my opinion, ridiculously over-packaged, and is probably not very good for the planet. I wonder whether he's ever made coffee any other way?Beryl Wall                                          London W4"
+        }
+    ]
+}

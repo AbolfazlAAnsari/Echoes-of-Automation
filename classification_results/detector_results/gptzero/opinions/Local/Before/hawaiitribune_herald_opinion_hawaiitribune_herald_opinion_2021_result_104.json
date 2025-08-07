@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00024746995768509805,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°GOP machinationsGOP machinationsIn a news brief (Tribune-Herald, Dec. 16), we were told that the Republicans in Pennsylvania are still trying hard to prove that the 2020 elections were rigged in favor of the Democrats.And just a day before that, MyPilllow CEO Mike Lindell admitted in an hourlong interview on CNBC that he has spent $25 million to fight against the election results, because without a thorough change of our election system, the future of our country would be at stake.He, like many other conspiracy believers, seems a bit out of his mind and refuses to acknowledge reality.In Arizona, a huge effort to recount the votes in Maricopa County, as (illegally) initiated by the Republican senators, carried out by a highly suspect and unqualified company, Cyber Ninjas, utterly failed to prove anything; or rather, in fact, the result was that Biden had won even more votes than previously counted.In Pennsylvania, Biden won the election with more than 80,000 votes over Trump, but the Republicans do not want to give up their machinations.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021465012105181813,
+                    "sentence": "They intend to make sure across the country that nonwhite votes, women votes and other nonsympathetic votes are not counted.Do they still believe in the foundations of democracy?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019082472135778517,
+                    "sentence": "Or do they prefer an oligarchy, if not a monarchy, so they can hoist Trump on to a throne and make America white and male again?One definition of insanity (Einstein) is “doing the same thing over and over and expecting different results.” So far, virtually all U.S. judges have ruled that many Republicans are absurdly derailed in their wild claims of voter fraught.By the way, what party was in power in 2020 in many parts of the U.S. and had the best opportunities to manipulate the election?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00023055283236317337,
+                    "sentence": "Not the Democratic party, for sure.Albrecht ClassenHiloIt's a win-winIf I am safe from nonvaccinated, nonmasked persons because I am vaccinated, properly masked, keeping social distance, and washing my hands, etc., then I am content to have others be unvaccinated and unmasked.I would prefer that those who deny the value of scientific medicine not go running to the hospital after they get sick, but such is part of human nature.Let all do as they please.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0037704077549278736,
+                    "sentence": "The Republicans will be happy because they will have secured their freedom to live as they please, and the Democrats will be happy because there will be less Republicans.A win-win for American freedom and democracy!Carl F. OgussHiloThe Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0034289248287677765,
+                    "sentence": "The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003145980415865779,
+                    "sentence": "Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneNestled between lush community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round.A new website launched recently helps Hawaii residents and visitors easily find recreational services available across the state.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.017714429407461596,
+            "class_probabilities": {
+                "human": 0.9822855705925384,
+                "ai": 0.017714429407461596,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9822855705925384,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.017714429407461596,
+                    "human": 0.9822855705925384,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°GOP machinationsGOP machinationsIn a news brief (Tribune-Herald, Dec. 16), we were told that the Republicans in Pennsylvania are still trying hard to prove that the 2020 elections were rigged in favor of the Democrats.And just a day before that, MyPilllow CEO Mike Lindell admitted in an hourlong interview on CNBC that he has spent $25 million to fight against the election results, because without a thorough change of our election system, the future of our country would be at stake.He, like many other conspiracy believers, seems a bit out of his mind and refuses to acknowledge reality.In Arizona, a huge effort to recount the votes in Maricopa County, as (illegally) initiated by the Republican senators, carried out by a highly suspect and unqualified company, Cyber Ninjas, utterly failed to prove anything; or rather, in fact, the result was that Biden had won even more votes than previously counted.In Pennsylvania, Biden won the election with more than 80,000 votes over Trump, but the Republicans do not want to give up their machinations. They intend to make sure across the country that nonwhite votes, women votes and other nonsympathetic votes are not counted.Do they still believe in the foundations of democracy? Or do they prefer an oligarchy, if not a monarchy, so they can hoist Trump on to a throne and make America white and male again?One definition of insanity (Einstein) is “doing the same thing over and over and expecting different results.” So far, virtually all U.S. judges have ruled that many Republicans are absurdly derailed in their wild claims of voter fraught.By the way, what party was in power in 2020 in many parts of the U.S. and had the best opportunities to manipulate the election? Not the Democratic party, for sure.Albrecht ClassenHiloIt’s a win-winIf I am safe from nonvaccinated, nonmasked persons because I am vaccinated, properly masked, keeping social distance, and washing my hands, etc., then I am content to have others be unvaccinated and unmasked.I would prefer that those who deny the value of scientific medicine not go running to the hospital after they get sick, but such is part of human nature.Let all do as they please. The Republicans will be happy because they will have secured their freedom to live as they please, and the Democrats will be happy because there will be less Republicans.A win-win for American freedom and democracy!Carl F. OgussHiloThe Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today. The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph. Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneNestled between lush  community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round.A new website launched recently helps Hawaii residents and visitors easily find recreational services available across the state."
+        }
+    ]
+}

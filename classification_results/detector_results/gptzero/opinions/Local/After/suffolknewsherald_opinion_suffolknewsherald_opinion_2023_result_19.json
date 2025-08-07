@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0004491563595365733,
+                    "sentence": "Published 8:45 pm Friday, June 16, 2023BySuffolk News-HeraldSeveral important days are on our calendars this week, none of which we should forget.Today, Sunday, June 18, we celebrate our dads and honor them for all they do, while Monday, June 19 brings Juneteenth, a day celebrated to mark the end of slavery in the United States.Tuesday, June 20 brings another day of importance ᅳ it's primary election day across VirginiaVoters will make their choices on which candidates will represent their political party in selected House of Delegates and state Senate races.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004611221665982157,
+                    "sentence": "It's important to note that not all Democratic and Republican party contests are being decided Tuesday, as some are uncontested and others were determined through party conventions or firehouse primaries.In Suffolk, the Republican Party has two races up for grabs ᅳ nominees in the 17th District Senate and the 84th House District races.In the Senate race, Del.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005334612214937806,
+                    "sentence": "Emily Brewer from Isle of Wight faces Emporia businessman Hermie Sadler for the nomination.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00043399789137765765,
+                    "sentence": "The GOP House race is between two Suffolkians, Michael Dillender and Rod Thompson.The city's Democrats have only one contest to decide Tuesday.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004739297437481582,
+                    "sentence": "Voters will choose between Nadarius Clark and Michelle Joyce to represent their party this fall in the 84th House District.All of Suffolk is included in the 17th Senate District, while only specific precincts are included in the 84th House District races.Because Virginia holds open primaries and does not require voters to register with a political party, all voters are able to take part in Tuesday's elections.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003479871666058898,
+                    "sentence": "When going to the polls, voters simply tell election officials whether they want to vote in the Republican or Democratic primary.The polls open Tuesday at 6 a.m. and close at 7 p.m.The State Board of Elections reminds voters that “Virginia law requires all voters to provide either an acceptable form of ID or sign an ID confirmation statement at the polls.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.12650954723358154,
+                    "sentence": "Voters arriving at the polls without an acceptable form of ID will be required to either sign an ID Confirmation Statement or vote a provisional ballot.”The elections website goes on to explain that if a voter votes a provisional ballot, they will have until noon on the Friday following the election to deliver a copy of identification to their locality's electoral board or sign an ID confirmation statement in order for their provisional ballot to be counted.While many people may not see the importance of voting in a primary, it offers residents the chance to cast a ballot for a favorite candidate on either side of the political aisle in hopes they help that person secure a spot on the November general election ballot.As we have seen from previous elections, every vote does count.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5865089893341064,
+                    "sentence": "This means that a few votes here or there can often determine a candidate's fate.Mark that calendar and take the time Tuesday to participate in the primary.Suffolk Registrar Burdette Lawrence has many more details for those who are registered about voting here at her website, suffolkva.us/773/registrar.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5267179012298584,
+                    "sentence": "Sample ballots for all the races are just a click away to help voters prepare.Have questions?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.7281273603439331,
+                    "sentence": "Contact the registrar's office at 757-514-7750.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.8926699757575989,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 2.233736449252922e-08
+                }
+            ],
+            "completely_generated_prob": 0.22253760999148456,
+            "class_probabilities": {
+                "human": 0.7774623900085155,
+                "ai": 0.22253760999148456,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.7774623900085155,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.22253760999148456,
+                    "human": 0.7774623900085155,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 8:45 pm Friday, June 16, 2023BySuffolk News-HeraldSeveral important days are on our calendars this week, none of which we should forget.Today, Sunday, June 18, we celebrate our dads and honor them for all they do, while Monday, June 19 brings Juneteenth, a day celebrated to mark the end of slavery in the United States.Tuesday, June 20 brings another day of importance — it’s primary election day across VirginiaVoters will make their choices on which candidates will represent their political party in selected House of Delegates and state Senate races. It’s important to note that not all Democratic and Republican party contests are being decided Tuesday, as some are uncontested and others were determined through party conventions or firehouse primaries.In Suffolk, the Republican Party has two races up for grabs — nominees in the 17th District Senate and the 84th House District races.In the Senate race, Del. Emily Brewer from Isle of Wight faces Emporia businessman Hermie Sadler for the nomination. The GOP House race is between two Suffolkians, Michael Dillender and Rod Thompson.The city’s Democrats have only one contest to decide Tuesday. Voters will choose between Nadarius Clark and Michelle Joyce to represent their party this fall in the 84th House District.All of Suffolk is included in the 17th Senate District, while only specific precincts are included in the 84th House District races.Because Virginia holds open primaries and does not require voters to register with a political party, all voters are able to take part in Tuesday’s elections. When going to the polls, voters simply tell election officials whether they want to vote in the Republican or Democratic primary.The polls open Tuesday at 6 a.m. and close at 7 p.m.The State Board of Elections reminds voters that “Virginia law requires all voters to provide either an acceptable form of ID or sign an ID confirmation statement at the polls. Voters arriving at the polls without an acceptable form of ID will be required to either sign an ID Confirmation Statement or vote a provisional ballot.”The elections website goes on to explain that if a voter votes a provisional ballot, they will have until noon on the Friday following the election to deliver a copy of identification to their locality’s electoral board or sign an ID confirmation statement in order for their provisional ballot to be counted.While many people may not see the importance of voting in a primary, it offers residents the chance to cast a ballot for a favorite candidate on either side of the political aisle in hopes they help that person secure a spot on the November general election ballot.As we have seen from previous elections, every vote does count. This means that a few votes here or there can often determine a candidate’s fate.Mark that calendar and take the time Tuesday to participate in the primary.Suffolk Registrar Burdette Lawrence has many more details for those who are registered about voting here at her website, suffolkva.us/773/registrar. Sample ballots for all the races are just a click away to help voters prepare.Have questions? Contact the registrar’s office at 757-514-7750.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…"
+        }
+    ]
+}

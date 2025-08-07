@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.9405620098114014,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°President Joe Biden has withdrawn from the 2024 presidential election, stepping aside in the race to best Donald Trump in a contest over the basic identity of this country.Whatever one might think of the decision ᅳ whether you believe Biden was railroaded out by skittish Dems or stepped aside for the good of the country or something in between ᅳ the decision is made and will not be reversed.It took the president three weeks of public hand-wringing and is one of the most consequential decisions he has made in decades of making weighty choices.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9593424797058105,
+                    "sentence": "Now what we must look towards is the future.Biden also offered a full-throated endorsement of Vice President Kamala Harris, who won alongside him in the 2020 election, ousting Trump and Mike Pence.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9623957872390747,
+                    "sentence": "She is part of the ticket already, and runs into far fewer of the legal and logistical hurdles around ballot access and use of campaign cash as opposed to other potential candidates.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9563995003700256,
+                    "sentence": "She is also a former senator and state attorney general who's proven effective at building an electoral case against Trump.There is no official nominee until the 3,939 delegates cast their ballots at the Democratic National Convention in Chicago next month, and there will be some Democrats who want to engage in some sort of brokered mini-primary at this stage, advancing their own preferences for a candidate who can defeat the threat of Trump.Despite some naysaying, it is true that the Democrats have a bench of real talent, with rising stars like Michigan Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9598936438560486,
+                    "sentence": "Gretchen Whitmer having cracked the code of swing-state popularity and potent economic messaging.Yet everyone should keep in mind that the general election is now less than four months away.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9484499096870422,
+                    "sentence": "Primary season has come and gone.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9210554957389832,
+                    "sentence": "The successor campaign must get in full swing, and the most pressing consideration drawing the contrasts between the new Democratic candidate ᅳ who will no doubt hope to continue the Biden policies that have brought inflation under control and unemployment to historic lows, secured the strength of NATO and fought back against a wanton Supreme Court ᅳ and Trump, whose track record is well known.Maybe the Democrats will quickly coalesce behind Harris or maybe she will face a challenge.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9532800316810608,
+                    "sentence": "Either way, it will happen fast.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009288369328714907,
+                    "sentence": "The convention starts four weeks from today.But in this speed should not be forgotten the time to reflect on Joe Biden's half century in high elected office instead of the issue of his age and fitness for office and acknowledge what the man has done for this country.Like anyone in the public eye and at the levers of power for this long, Biden has made missteps, but he has spent this term in the White House pushing through the country's largest-ever infrastructure investment, combating the existential threat of climate change, advancing the cause of labor and the American worker, fighting for fairer taxation and competition by enforcing the antitrust laws.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015531736426055431,
+                    "sentence": "The nation owes him its gratitude.The Republicans have their team of Trump/Vance.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001754927565343678,
+                    "sentence": "The Democrats will now ready their own, likely leading with Harris.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015230376739054918,
+                    "sentence": "But so much has happened since that June 27 debate, which includes a failed assassination attempt and a presidential withdrawal, that predicting the future is impossible.ᅳ New York Daily News",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 0.1647601689182739
+                }
+            ],
+            "completely_generated_prob": 0.24258555133079848,
+            "class_probabilities": {
+                "human": 0.7574144486692015,
+                "ai": 0.24258555133079848,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.7574144486692015,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.24258555133079848,
+                    "human": 0.7574144486692015,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°President Joe Biden has withdrawn from the 2024 presidential election, stepping aside in the race to best Donald Trump in a contest over the basic identity of this country.Whatever one might think of the decision — whether you believe Biden was railroaded out by skittish Dems or stepped aside for the good of the country or something in between — the decision is made and will not be reversed.It took the president three weeks of public hand-wringing and is one of the most consequential decisions he has made in decades of making weighty choices. Now what we must look towards is the future.Biden also offered a full-throated endorsement of Vice President Kamala Harris, who won alongside him in the 2020 election, ousting Trump and Mike Pence. She is part of the ticket already, and runs into far fewer of the legal and logistical hurdles around ballot access and use of campaign cash as opposed to other potential candidates. She is also a former senator and state attorney general who’s proven effective at building an electoral case against Trump.There is no official nominee until the 3,939 delegates cast their ballots at the Democratic National Convention in Chicago next month, and there will be some Democrats who want to engage in some sort of brokered mini-primary at this stage, advancing their own preferences for a candidate who can defeat the threat of Trump.Despite some naysaying, it is true that the Democrats have a bench of real talent, with rising stars like Michigan Gov. Gretchen Whitmer having cracked the code of swing-state popularity and potent economic messaging.Yet everyone should keep in mind that the general election is now less than four months away. Primary season has come and gone. The successor campaign must get in full swing, and the most pressing consideration drawing the contrasts between the new Democratic candidate — who will no doubt hope to continue the Biden policies that have brought inflation under control and unemployment to historic lows, secured the strength of NATO and fought back against a wanton Supreme Court — and Trump, whose track record is well known.Maybe the Democrats will quickly coalesce behind Harris or maybe she will face a challenge. Either way, it will happen fast. The convention starts four weeks from today.But in this speed should not be forgotten the time to reflect on Joe Biden’s half century in high elected office instead of the issue of his age and fitness for office and acknowledge what the man has done for this country.Like anyone in the public eye and at the levers of power for this long, Biden has made missteps, but he has spent this term in the White House pushing through the country’s largest-ever infrastructure investment, combating the existential threat of climate change, advancing the cause of labor and the American worker, fighting for fairer taxation and competition by enforcing the antitrust laws. The nation owes him its gratitude.The Republicans have their team of Trump/Vance. The Democrats will now ready their own, likely leading with Harris. But so much has happened since that June 27 debate, which includes a failed assassination attempt and a presidential withdrawal, that predicting the future is impossible.— New York Daily News"
+        }
+    ]
+}

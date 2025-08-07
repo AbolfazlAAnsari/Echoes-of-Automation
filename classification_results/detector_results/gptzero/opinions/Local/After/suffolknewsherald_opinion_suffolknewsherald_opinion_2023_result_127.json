@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.31791624426841736,
+                    "sentence": "Published 6:04 pm Friday, February 10, 2023BySuffolk News-Herald Editorial BoardNot only is Tuesday Valentine's Day (don't worry, there's still time to snag a dozen roses or a heart-shaped box of chocolates), but Feb. 14 also marks National Donor Day, an effort to encourage more people to discuss the lifesaving importance of organ and tissue donation.Currently, there are more than 100,000 people in the United States on waiting lists for transplants.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3011920750141144,
+                    "sentence": "Unfortunately, it's estimated that each day 17 people will die before receiving a lifesaving donor organ.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.21563763916492462,
+                    "sentence": "That's more than 6,000 people per year.For perspective on this Super Bowl weekend, even the largest football stadium in the United States could not hold the number of patients on the national transplant waiting list.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.13560563325881958,
+                    "sentence": "And every 10 minutes another person is added to the national transplant waiting list.The good news is that one person willing to donate their vital organs, corneas and tissue upon their death could save up to eight lives.Signing up for the donor registry is easy, and just about anyone can do it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.19107294082641602,
+                    "sentence": "There are no health or age limitations and it can be done when renewing a driver's license or online at www.registerme.org.While it remains a personal decision and it can be difficult to discuss end-of-life preparations, it is important that loved ones know your intentions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.38354548811912537,
+                    "sentence": "We urge our readers to talk about organ donation, as it is a priceless gift that keeps on giving.Joining the Organ Donor Registry means you have made the decision to save and heal lives at the time of your death, if you are eligible.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.24916300177574158,
+                    "sentence": "It won't happen for many years, but at that time, what an amazing gift to give someone a second chance at life ᅳ a last act of love and kindness to another soul.National Donor Day is an observance dedicated to spreading awareness and education about organ, eye and tissue donation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.08957000076770782,
+                    "sentence": "National Donor Day was started in 1998 by the Saturn Corp. and its partner, the United Auto Workers, and is supported by the U.S. Department of Health and Human Services.National Donor Day is a time to focus on all types of donation ᅳ organ, eye, tissue, blood, platelets and marrow.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.4255377948284149,
+                    "sentence": "It's also a day to recognize those who have given and received the gift of life through organ, eye and tissue donation, are currently waiting for a lifesaving transplant, and those who died waiting because an organ was not donated in time.The more donors there are on the registry, the better odds those on transplant waiting lists have of getting organs they so desperately need to survive.So on this Valentine's Day, after the good chocolates have been devoured, chat with your significant other and loved ones about your intentions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1228940561413765,
+                    "sentence": "Don't wait until it's too late to make a difference.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09553377330303192,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.11122044395566234,
+            "class_probabilities": {
+                "human": 0.8887795560443376,
+                "ai": 0.11122044395566234,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8887795560443376,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.11122044395566234,
+                    "human": 0.8887795560443376,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 6:04 pm Friday, February 10, 2023BySuffolk News-Herald Editorial BoardNot only is Tuesday Valentine’s Day (don’t worry, there’s still time to snag a dozen roses or a heart-shaped box of chocolates), but Feb. 14 also marks National Donor Day, an effort to encourage more people to discuss the lifesaving importance of organ and tissue donation.Currently, there are more than 100,000 people in the United States on waiting lists for transplants. Unfortunately, it’s estimated that each day 17 people will die before receiving a lifesaving donor organ. That’s more than 6,000 people per year.For perspective on this Super Bowl weekend, even the largest football stadium in the United States could not hold the number of patients on the national transplant waiting list. And every 10 minutes another person is added to the national transplant waiting list.The good news is that one person willing to donate their vital organs, corneas and tissue upon their death could save up to eight lives.Signing up for the donor registry is easy, and just about anyone can do it. There are no health or age limitations and it can be done when renewing a driver’s license or online at www.registerme.org.While it remains a personal decision and it can be difficult to discuss end-of-life preparations, it is important that loved ones know your intentions. We urge our readers to talk about organ donation, as it is a priceless gift that keeps on giving.Joining the Organ Donor Registry means you have made the decision to save and heal lives at the time of your death, if you are eligible. It won’t happen for many years, but at that time, what an amazing gift to give someone a second chance at life — a last act of love and kindness to another soul.National Donor Day is an observance dedicated to spreading awareness and education about organ, eye and tissue donation. National Donor Day was started in 1998 by the Saturn Corp. and its partner, the United Auto Workers, and is supported by the U.S. Department of Health and Human Services.National Donor Day is a time to focus on all types of donation — organ, eye, tissue, blood, platelets and marrow. It’s also a day to recognize those who have given and received the gift of life through organ, eye and tissue donation, are currently waiting for a lifesaving transplant, and those who died waiting because an organ was not donated in time.The more donors there are on the registry, the better odds those on transplant waiting lists have of getting organs they so desperately need to survive.So on this Valentine’s Day, after the good chocolates have been devoured, chat with your significant other and loved ones about your intentions. Don’t wait until it’s too late to make a difference.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…"
+        }
+    ]
+}

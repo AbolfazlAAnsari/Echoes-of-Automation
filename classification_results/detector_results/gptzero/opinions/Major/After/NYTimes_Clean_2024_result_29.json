@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.009192387573421001,
+                    "sentence": "Instead of scapegoating social media, start regulating it.Gen Z and younger millennials are taking to apps like TikTok to express their anger about everything from the conflict in the Middle East to the cost of living.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03299614414572716,
+                    "sentence": "Some politicians are not happy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.019429689273238182,
+                    "sentence": "In this audio essay, the Opinion columnist Zeynep Tufekci argues that lawmakers should stop blaming social media platforms for corrupting people's minds and instead concentrate on oversight and demand transparency from them.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011358490213751793,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01428571529686451,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01134252455085516,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,X (@NYTOpinion)andInstagram.This episode of “The Opinions” was produced by Vishakha Darbha.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0030280682258307934,
+                    "sentence": "It was edited by Kaari Pitkin, Alison Bruzek and Annie-Rose Strasser.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0038984892889857292,
+                    "sentence": "Mixing and engineering by Sonia Herrero and Efim Shapiro.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00666570570319891,
+                    "sentence": "Original music by Carole Sabouraud and Pat McCusker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008856866508722305,
+                    "sentence": "Fact-checking by Kate Sinclair and Mary Marge Locker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008595080114901066,
+                    "sentence": "Audience strategy by Kristina Samulewski.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00584824662655592,
+                    "sentence": "Special thanks to Derek Arthur.PHOTO: (PHOTOGRAPH BY Illustration by Akshita Chandra/The New York Times, Photograph by Picture Alliance/Getty Images FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Instead of scapegoating social media, start regulating it.Gen Z and younger millennials are taking to apps like TikTok to express their anger about everything from the conflict in the Middle East to the cost of living. Some politicians are not happy. In this audio essay, the Opinion columnist Zeynep Tufekci argues that lawmakers should stop blaming social media platforms for corrupting people’s minds and instead concentrate on oversight and demand transparency from them.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,X (@NYTOpinion)andInstagram.This episode of “The Opinions” was produced by Vishakha Darbha. It was edited by Kaari Pitkin, Alison Bruzek and Annie-Rose Strasser. Mixing and engineering by Sonia Herrero and Efim Shapiro. Original music by Carole Sabouraud and Pat McCusker. Fact-checking by Kate Sinclair and Mary Marge Locker. Audience strategy by Kristina Samulewski. Special thanks to Derek Arthur.PHOTO:  (PHOTOGRAPH BY Illustration by Akshita Chandra/The New York Times, Photograph by Picture Alliance/Getty Images FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

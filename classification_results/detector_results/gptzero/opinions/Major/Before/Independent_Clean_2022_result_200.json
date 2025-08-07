@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 6.604938971577212e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.869928958825767e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukWhat a disgrace!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.278942161472514e-05,
+                    "sentence": "Having resigned but not stepped down,Boris Johnsonnow blocks the opposition vote of no confidence.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.192968380171806e-05,
+                    "sentence": "Clearly, he doesn't see the irony.Frankly, I wouldn't put it past the Poundland dictator to refuse to step aside when the time comes.This government has lost any last crumb of authority and the Tories any last fig leaf of credibility if they can't get rid of him straight away.Ian HendersonNorwichConfidence voteThey're not exactly covering themselves in glory, are they?Refusing the opposition's motionon a false claim of setting a precedent, the home secretarydodging a parliamentary committeebecause of the upheaval (after staying in her postdespite telling the PM to goso that she can “get on with the job” - probably to send the next Sir Mo Farah to Rwanda).Maybe, with all the practice they've had in the last six years, they'll eventually get good enough at leadership contests to provide us with a leader at the end of one of them?Sadly, I think it's more likely to prove Einstein's comment about doing the same thing repeatedly and expecting a different outcome.Katharine PowellNestonHome office magnanimitySo the Home Office has been magnanimous in declaring itwill not be taking further actionagainst SirMo Farah.It was no doubt cognisant of the national outcry any such action could have provoked.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009240305982530117,
+                    "sentence": "But this should merely highlight their powers to expel or allow immigrants at their whim, as demonstrated by the wrongful expulsions of hundreds ofWindrush childrenand others; and we now want to extend those powers to deport people to Rwanda.I hope Sir Mo, instead of expressing his thanks to the Home Office, can speak up on behalf of all immigrants who have spent most of their life here, however they got to Britain.Peter Smith-CullenNorfolkFantasy economicsYour editorial notes the distancebetween the Conservative Party and the wider electorate on a variety of issues.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01029229536652565,
+                    "sentence": "This ought to be a boon for the opposition parties.When campaigning starts for the next election, they will be able to throw all the candidates' words back at them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01152884028851986,
+                    "sentence": "It will be hard forSuella Bravermanto walk back on her comments on trans people, orLiz Truss her fantasy economics, in less than two years' time.They call it tacking back to the centre: I call it lying, to one part of the electorate at least.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03640161454677582,
+                    "sentence": "I hope the Labour Party headquarters is filing away the videos for the occasion.Rachael PadmanNewmarketUnisex toiletsIn caseKemi Badenoch becomes prime minister, my wife and I have started discussions about which of our house's toilets we will be designating male or female.I'm perplexed about why she might feel unisex loos are so abhorrent (irrational prejudice perhaps?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.12329559028148651,
+                    "sentence": "), since using one tends to be a solitary endeavour.Where this might leave people with disabilities is uncertain, but since this government seems to regard these people as functionally neutered and insignificant for all other purposes, it's probably moot.Alistair VincentChipping BarnetTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereThatcher-style economicsSo now we know.Sunak will emulate Margaret Thatcher's economic policies.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1810034066438675,
+                    "sentence": "She spent every windfall penny, from North Sea Oil to the sale of national assets, on day-to-day expenditure with no investment in infrastructure.Spending what you earn is all very well, but sometimes you have to forgo the fun stuff and fix the roof and the drains.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0961562842130661,
+                    "sentence": "She never understood that and it seems neither does he.Joanna PallisterDurham City",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.05924693143200553,
+            "class_probabilities": {
+                "human": 0.9404634541111649,
+                "ai": 0.05924693143200553,
+                "mixed": 0.0002896144568295141
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9404634541111649,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.05924693143200553,
+                    "human": 0.9404634541111649,
+                    "mixed": 0.0002896144568295141
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukWhat a disgrace! Having resigned but not stepped down,Boris Johnsonnow blocks the opposition vote of no confidence.  Clearly, he doesn’t see the irony.Frankly, I wouldn’t put it past the Poundland dictator to refuse to step aside when the time comes.This government has lost any last crumb of authority and the Tories any last fig leaf of credibility if they can’t get rid of him straight away.Ian HendersonNorwichConfidence voteThey’re not exactly covering themselves in glory, are they?Refusing the opposition’s motionon a false claim of setting a precedent, the home secretarydodging a parliamentary committeebecause of the upheaval (after staying in her postdespite telling the PM to goso that she can “get on with the job” – probably to send the next Sir Mo Farah to Rwanda).Maybe, with all the practice they’ve had in the last six years, they’ll eventually get good enough at leadership contests to provide us with a leader at the end of one of them?Sadly, I think it’s more likely to prove Einstein’s comment about doing the same thing repeatedly and expecting a different outcome.Katharine PowellNestonHome office magnanimitySo the Home Office has been magnanimous in declaring itwill not be taking further actionagainst SirMo Farah.It was no doubt cognisant of the national outcry any such action could have provoked. But this should merely highlight their powers to expel or allow immigrants at their whim, as demonstrated by the wrongful expulsions of hundreds ofWindrush childrenand others; and we now want to extend those powers to deport people to Rwanda.I hope Sir Mo, instead of expressing his thanks to the Home Office, can speak up on behalf of all immigrants who have spent most of their life here, however they got to Britain.Peter Smith-CullenNorfolkFantasy economicsYour editorial notes the distancebetween the Conservative Party and the wider electorate on a variety of issues. This ought to be a boon for the opposition parties.When campaigning starts for the next election, they will be able to throw all the candidates’ words back at them. It will be hard forSuella Bravermanto walk back on her comments on trans people, orLiz Truss her fantasy economics, in less than two years’ time.They call it tacking back to the centre: I call it lying, to one part of the electorate at least. I hope the Labour Party headquarters is filing away the videos for the occasion.Rachael PadmanNewmarketUnisex toiletsIn caseKemi Badenoch becomes prime minister, my wife and I have started discussions about which of our house’s toilets we will be designating male or female.I’m perplexed about why she might feel unisex loos are so abhorrent (irrational prejudice perhaps?), since using one tends to be a solitary endeavour.Where this might leave people with disabilities is uncertain, but since this government seems to regard these people as functionally neutered and insignificant for all other purposes, it’s probably moot.Alistair VincentChipping BarnetTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereThatcher-style economicsSo now we know.Sunak will emulate Margaret Thatcher’s economic policies.  She spent every windfall penny, from North Sea Oil to the sale of national assets, on day-to-day expenditure with no investment in infrastructure.Spending what you earn is all very well, but sometimes you have to forgo the fun stuff and fix the roof and the drains. She never understood that and it seems neither does he.Joanna PallisterDurham City"
+        }
+    ]
+}

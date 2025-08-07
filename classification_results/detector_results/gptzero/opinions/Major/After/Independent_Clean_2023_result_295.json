@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00010897257016040385,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.584226791048422e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukWell done to the Commons UKparliament authoritiesfor making an example of Tory bullyPeter Bone.It will take more than Mrs Bone to get himout of this one!I can't wait for the response to the recall petition in his Wellingborough constituency.It sounds to me as if this is leading to yet anothernail in the Tory coffinthat looks after the richest one per cent at the expense of the rest.Roll on the by-election and another Labour gain in Sir Keir Starmer'smarch to power.Geoffrey BrookingHavantSetting a bad exampleAnother Conservative MP arrested forindecent behaviour.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001608904276508838,
+                    "sentence": "Actually, I can't remember howmany Tory MPshave been caught behaving unacceptably.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012742019316647202,
+                    "sentence": "For someone who is supposed to represent their constituents and even be a role model for our youth, this kind of behaviour should not be taken lightly.Rita GregoryCheltenhamConsistent or cowardly?KeirStarmer's reluctanceto call for an immediateGazaceasefire, despite the unfolding humanitarian disaster, is in line with the stance ofRishi Sunak's government.As the prime minister in waiting, is Keir Starmer assuring continuity?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.758279727771878e-05,
+                    "sentence": "Ready to take over from an administration that sacrifices principles and moral values for short-term political gains?Bambos CharalambousManchesterHope for Palestine?The barbaric attack by Hamas was totally unacceptable and needs to be condemned in the strongest terms.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012320885434746742,
+                    "sentence": "Thehostagesmust be released and the perpetrators (and their sponsors) brought to justice.The conflict in Palestine has very deep roots.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010190527973463759,
+                    "sentence": "The Jewish people have endured unspeakable suffering over centuries - including the Holocaust, when 6 million Jewish men, women and children were brutally slaughtered.Creating Israel within the majority Arab state ofPalestine in 1948locked Israelis and Palestinians in a violent nightmare.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013204685819800943,
+                    "sentence": "The 1948 Arab-Israeli war forced around 700,000 Palestinian refugees to seek sanctuary in neighbouring countries.There are some 7 million Jews and 2.6 million others living in Israel.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00020566099556162953,
+                    "sentence": "The UN estimates there are some 5 million Palestinian refugees - many living in the most appalling conditions - including 2 million sufferingin the Gaza Strip.The world community created this nightmare, and we all have a responsibility tofind a solution- to create a future beyond conflict.The power brokers must get Hamas to release their hostages.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002648696769028902,
+                    "sentence": "The US, UK and others also need to persuade Israel that it is not acceptable to punish the people of Gaza.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003995276987552643,
+                    "sentence": "Find and bring the perpetrators to justice - but do notcondemn the whole populationto continued unimaginable suffering.We are all part of one human family.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004225543700158596,
+                    "sentence": "After 75 years of conflict, we need to help Israelis and Palestinians to find a way forward.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014949656324461102,
+                    "sentence": "Both communities need the space, resources and support they deserve so they can develop, prosper and live as neighbours in peace.Malcolm Munro-FaureLondonCopy-cat consequencesIt is truly depressing to hear thatRachel Reeveshas been accused ofplagiarism... wasn't the topic covered at Oxford?How is the voting public expected to put their trust in someone who supposedly behaves like this and may be the nextchancellor of the Exchequer?Combined with Keir Starmer's weasel words on a Gaza ceasefire one wonders whether opposition is trying to getits poll leaderoded.Dr Anthony IngletonSheffield",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.015281828032010496,
+            "class_probabilities": {
+                "human": 0.9847181719679895,
+                "ai": 0.015281828032010496,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9847181719679895,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.015281828032010496,
+                    "human": 0.9847181719679895,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW : Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukWell done to the Commons UKparliament authoritiesfor making an example of Tory bullyPeter Bone.It will take more than Mrs Bone to get himout of this one!I can’t wait for the response to the recall petition in his Wellingborough constituency.It sounds to me as if this is leading to yet anothernail in the Tory coffinthat looks after the richest one per cent at the expense of the rest.Roll on the by-election and another Labour gain in Sir Keir Starmer’smarch to power.Geoffrey BrookingHavantSetting a bad exampleAnother Conservative MP arrested forindecent behaviour.  Actually, I can’t remember howmany Tory MPshave been caught behaving unacceptably. For someone who is supposed to represent their constituents and even be a role model for our youth, this kind of behaviour should not be taken lightly.Rita GregoryCheltenhamConsistent or cowardly?KeirStarmer’s reluctanceto call for an immediateGazaceasefire, despite the unfolding humanitarian disaster, is in line with the stance ofRishi Sunak’s government.As the prime minister in waiting, is Keir Starmer assuring continuity? Ready to take over from an administration that sacrifices principles and moral values for short-term political gains?Bambos CharalambousManchesterHope for Palestine?The barbaric attack by Hamas was totally unacceptable and needs to be condemned in the strongest terms. Thehostagesmust be released and the perpetrators (and their sponsors) brought to justice.The conflict in Palestine has very deep roots. The Jewish people have endured unspeakable suffering over centuries – including the Holocaust, when 6 million Jewish men, women and children were brutally slaughtered.Creating Israel within the majority Arab state ofPalestine in 1948locked Israelis and Palestinians in a violent nightmare. The 1948 Arab-Israeli war forced around 700,000 Palestinian refugees to seek sanctuary in neighbouring countries.There are some 7 million Jews and 2.6 million others living in Israel. The UN estimates there are some 5 million Palestinian refugees – many living in the most appalling conditions – including 2 million sufferingin the Gaza Strip.The world community created this nightmare, and we all have a responsibility tofind a solution– to create a future beyond conflict.The power brokers must get Hamas to release their hostages. The US, UK and others also need to persuade Israel that it is not acceptable to punish the people of Gaza. Find and bring the perpetrators to justice – but do notcondemn the whole populationto continued unimaginable suffering.We are all part of one human family. After 75 years of conflict, we need to help Israelis and Palestinians to find a way forward. Both communities need the space, resources and support they deserve so they can develop, prosper and live as neighbours in peace.Malcolm Munro-FaureLondonCopy-cat consequencesIt is truly depressing to hear thatRachel Reeveshas been accused ofplagiarism. .. wasn’t the topic covered at Oxford?How is the voting public expected to put their trust in someone who supposedly behaves like this and may be the nextchancellor of the Exchequer?Combined with Keir Starmer’s weasel words on a Gaza ceasefire one wonders whether opposition is trying to getits poll leaderoded.Dr Anthony IngletonSheffield"
+        }
+    ]
+}

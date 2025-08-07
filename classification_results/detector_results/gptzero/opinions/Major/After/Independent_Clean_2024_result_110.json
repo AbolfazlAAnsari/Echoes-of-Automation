@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00013013942225370556,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011278581951046363,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe Labour leader is in danger of alienating morevotersthan he is trying to gain in his cautious and careful approach to all contentious issues, in particular over our future relationship with theEU.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010389454837422818,
+                    "sentence": "I agree that Keir Starmerhad an opportunity to show that he is prepared to take a leadover reviewing and reforming our relationship with the EU.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.577106589451432e-05,
+                    "sentence": "In trying to appear firm and intransigent, he is showing the limitations and potential weakness of his leadership.At some point, he is going to have to spell out some clear and radical differences between Labour and the Conservatives.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.874536433722824e-05,
+                    "sentence": "Even though he has to be careful not to make promises on which he cannot deliver, it is clear that the electorate are desperate for a vision of the future that will put an end to the directionless and damaging leadership of the last 14 years.You are right in asserting that “Labour must stop being so afraid of its Brexit shadow”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010448040120536461,
+                    "sentence": "In towing the Tory party's line, Starmer missed an opportunity to show that there is a mature and sensible way forward to remedy the damage caused by Brexit.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001089524885173887,
+                    "sentence": "It is to be hoped that he doesn't lose more votes than he gains by his current approach and that, if elected, he has the courage to take the bold steps - not just over the EU - that we all so desperately need.Graham PowellCirencesterPoliticians keeping police too busy to catch criminalsIt appears to me that our police force, as undermanned as it is, is so busyinvestigating our political elite, they have no time to deal with any of the mundane matters concerning ordinary people.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.021197505295276642,
+                    "sentence": "Burglaries, car break-ins, thefts, and the like.Is this the life which we have voted for?Gunter StraubLondonWe must end the triple lock on pensionsThere are nearly 13 million people drawing the state pension in the UK.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02901637554168701,
+                    "sentence": "Many of ourkey public services are in dire need of investmentand yet, in its infinite wisdom, the government has maintained its triple-lock protection for this benefit (not a right) which is costing the taxpayer billions and reducing critical funding elsewhere.There are many in retirement who need this protection, but a significant number do not - and should not have it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.024263277649879456,
+                    "sentence": "I watch, aghast, as this generous increase is awarded across the board whilepublic services suffer, and more pressing priorities are sidelined by what amounts to reckless electoral bribery.It is time to overhaul the state pension and come up with a long-term alternative solution.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02796616032719612,
+                    "sentence": "Means-testing, a two-tiered system, or scrapping it altogether for higher-earning retirees should all be considered.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.019533824175596237,
+                    "sentence": "Funding must be more realistic, dedicated, and auditable.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.039370134472846985,
+                    "sentence": "National insurance payments simply disappear into the general taxation pot for chancellors to grab and spend at will.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.030356673523783684,
+                    "sentence": "It is today's younger working generation who fund our state pension, and it is costing them dearly.The question is, what kind of government will have the backbone and moral courage to take this issue head on and make the hard decisions that are necessary?David PlattsNewark",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 1.9423489116273474e-12
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThe Labour leader is in danger of alienating morevotersthan he is trying to gain in his cautious and careful approach to all contentious issues, in particular over our future relationship with theEU.  I agree that Keir Starmerhad an opportunity to show that he is prepared to take a leadover reviewing and reforming our relationship with the EU. In trying to appear firm and intransigent, he is showing the limitations and potential weakness of his leadership.At some point, he is going to have to spell out some clear and radical differences between Labour and the Conservatives. Even though he has to be careful not to make promises on which he cannot deliver, it is clear that the electorate are desperate for a vision of the future that will put an end to the directionless and damaging leadership of the last 14 years.You are right in asserting that “Labour must stop being so afraid of its Brexit shadow”. In towing the Tory party’s line, Starmer missed an opportunity to show that there is a mature and sensible way forward to remedy the damage caused by Brexit. It is to be hoped that he doesn’t lose more votes than he gains by his current approach and that, if elected, he has the courage to take the bold steps – not just over the EU – that we all so desperately need.Graham PowellCirencesterPoliticians keeping police too busy to catch criminalsIt appears to me that our police force, as undermanned as it is, is so busyinvestigating our political elite, they have no time to deal with any of the mundane matters concerning ordinary people. Burglaries, car break-ins, thefts, and the like.Is this the life which we have voted for?Gunter StraubLondonWe must end the triple lock on pensionsThere are nearly 13 million people drawing the state pension in the UK. Many of ourkey public services are in dire need of investmentand yet, in its infinite wisdom, the government has maintained its triple-lock protection for this benefit (not a right) which is costing the taxpayer billions and reducing critical funding elsewhere.There are many in retirement who need this protection, but a significant number do not – and should not have it. I watch, aghast, as this generous increase is awarded across the board whilepublic services suffer, and more pressing priorities are sidelined by what amounts to reckless electoral bribery.It is time to overhaul the state pension and come up with a long-term alternative solution. Means-testing, a two-tiered system, or scrapping it altogether for higher-earning retirees should all be considered. Funding must be more realistic, dedicated, and auditable. National insurance payments simply disappear into the general taxation pot for chancellors to grab and spend at will. It is today’s younger working generation who fund our state pension, and it is costing them dearly.The question is, what kind of government will have the backbone and moral courage to take this issue head on and make the hard decisions that are necessary?David PlattsNewark"
+        }
+    ]
+}

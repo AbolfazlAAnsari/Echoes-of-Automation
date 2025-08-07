@@ -1,0 +1,154 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0008796000038273633,
+                    "sentence": "Published 6:07 pm Tuesday, February 27, 2024ByLetters to the EditorDear Editor,I sit here and wonder what Suffolk will look like in the next 10 years as its congestion and poor design by city leaders and shady developers have already ruined so much of a once great city.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009392353240400553,
+                    "sentence": "A city of pride, innovation, history, and community that all has been erased or destroyed from the inside out.What happened?The simple truth is, as the old saying goes, bigger is not better.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011009988375008106,
+                    "sentence": "In reality, Suffolk will grow, but at what expense?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009366780868731439,
+                    "sentence": "The city council and the mayor see commercial tax dollars at the expense of people's homes, businesses, farms and their way of life.Now, I'm biased because I farm for a living.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007576778880320489,
+                    "sentence": "My brother and I are the fifth generation to do so.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007058047922328115,
+                    "sentence": "Honestly, I'm sick of the city pushing their agenda while paddling their own pockets.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001011609798297286,
+                    "sentence": "But what I'm sick of the most is our city council and mayor completely ignoring the people.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009093394037336111,
+                    "sentence": "The people don't want more neighborhoods, more traffic and more warehouses.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005206842324696481,
+                    "sentence": "We want the council to just stop and look at the disaster they are making and listen to the people that put them in those positions and stop with the smoke and mirrors show they put on at every city council meeting.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005553607479669154,
+                    "sentence": "It's disgusting and downright pathetic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05323111265897751,
+                    "sentence": "Do your job for the people who have some honor and backbone, and if that isn't possible for you, then step aside.You can build anything you want, but you can't build open spaces, millponds, or oak groves in the back of a field where you can't hear anything but your own peace of mind.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07015644013881683,
+                    "sentence": "If what Suffolk is doing to the land and its citizens is considered progress, then everyone needs to stand together and be the rock that progress bounces off of.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02823825553059578,
+                    "sentence": "I hope you read this and follow up with me or print in your paper.Thank you sincerely,Brian BosselmanSuffolk, VirginiaOn Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04746486246585846,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04008648917078972,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 15,
+                    "completely_generated_prob": 2.5938383721896624e-13
+                }
+            ],
+            "completely_generated_prob": 0.025041194076269924,
+            "class_probabilities": {
+                "human": 0.974671313226954,
+                "ai": 0.025041194076269924,
+                "mixed": 0.00028749269677611
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.974671313226954,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.025041194076269924,
+                    "human": 0.974671313226954,
+                    "mixed": 0.00028749269677611
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 6:07 pm Tuesday, February 27, 2024ByLetters to the EditorDear Editor,I sit here and wonder what Suffolk will look like in the next 10 years as its congestion and poor design by city leaders and shady developers have already ruined so much of a once great city. A city of pride, innovation, history, and community that all has been erased or destroyed from the inside out.What happened?The simple truth is, as the old saying goes, bigger is not better. In reality, Suffolk will grow, but at what expense? The city council and the mayor see commercial tax dollars at the expense of people’s homes, businesses, farms and their way of life.Now, I’m biased because I farm for a living. My brother and I are the fifth generation to do so. Honestly, I’m sick of the city pushing their agenda while paddling their own pockets. But what I’m sick of the most is our city council and mayor completely ignoring the people. The people don’t want more neighborhoods, more traffic and more warehouses. We want the council to just stop and look at the disaster they are making and listen to the people that put them in those positions and stop with the smoke and mirrors show they put on at every city council meeting. It’s disgusting and downright pathetic. Do your job for the people who have some honor and backbone, and if that isn’t possible for you, then step aside.You can build anything you want, but you can’t build open spaces, millponds, or oak groves in the back of a field where you can’t hear anything but your own peace of mind. If what Suffolk is doing to the land and its citizens is considered progress, then everyone needs to stand together and be the rock that progress bounces off of. I hope you read this and follow up with me or print in your paper.Thank you sincerely,Brian BosselmanSuffolk, VirginiaOn Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

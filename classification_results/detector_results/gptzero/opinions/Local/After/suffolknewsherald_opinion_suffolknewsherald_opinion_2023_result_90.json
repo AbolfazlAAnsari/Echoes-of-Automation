@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.6783137321472168,
+                    "sentence": "Published 6:22 pm Tuesday, November 14, 2023BySuffolk News-Herald Editorial BoardWhile many in Suffolk are following the VHSL high school football playoffs as King's Fork and Nansemond River, have their sights set on the region semifinals on Friday, one school in our community has already been crowned the best in the state.The Nansemond-Suffolk Academy girl's volleyball team won the Division 2 VISAA state championship over the weekend, defeating theCovenant Eagles 3-1, claiming the school's fourth state volleyball championship.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5011037588119507,
+                    "sentence": "This also marks the second time the Saints have won the state title and the Tidewater Conference of Independent Schools (TCIS) championship in the same year.The Saints finished the season with an impressive 21-4 record and some hardware to go along with it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.43713510036468506,
+                    "sentence": "Congratulations, Saints!Although the Saints are the only state champions in Suffolk this year - so far - the Nansemond River field hockey team advanced to the VHSL Region 5 semifinals.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00036418240051716566,
+                    "sentence": "However, they fell to Independence 3-1.King's Fork boy's volleyball also advanced to the VHSL state tournament for just the second time in school history.Although these two teams fell just short of a championship, they were in the conversation, and with 315 VHSL member schools, that is impressive.One thing evident here in Suffolk is that some talented athletes are coming through our schools.As fall winds down and we gear up for winter sports, we want to wish everyone the best of luck.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00027219217736274004,
+                    "sentence": "Whether you are involved in basketball, wrestling, gymnastics, or indoor track, play hard and be great.Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00024257457698695362,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…In one of five compelling matchups on the WNBA slate today, the Seattle Storm and Connecticut Sun will…Wondering how you should bet on today's WNBA games?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006961492472328246,
+                    "sentence": "Look no further.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00040370578062720597,
+                    "sentence": "Below you'll find computer predictions on…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.12767420652125164,
+            "class_probabilities": {
+                "human": 0.8723257934787484,
+                "ai": 0.12767420652125164,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8723257934787484,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.12767420652125164,
+                    "human": 0.8723257934787484,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 6:22 pm Tuesday, November 14, 2023BySuffolk News-Herald Editorial BoardWhile many in Suffolk are following the VHSL high school football playoffs as King’s Fork and Nansemond River, have their sights set on the region semifinals on Friday, one school in our community has already been crowned the best in the state.The Nansemond-Suffolk Academy girl’s volleyball team won the Division 2 VISAA state championship over the weekend, defeating theCovenant Eagles 3-1, claiming the school’s fourth state volleyball championship. This also marks the second time the Saints have won the state title and the Tidewater Conference of Independent Schools (TCIS) championship in the same year.The Saints finished the season with an impressive 21-4 record and some hardware to go along with it. Congratulations, Saints!Although the Saints are the only state champions in Suffolk this year – so far – the Nansemond River field hockey team advanced to the VHSL Region 5 semifinals. However, they fell to Independence 3-1.King’s Fork boy’s volleyball also advanced to the VHSL state tournament for just the second time in school history.Although these two teams fell just short of a championship, they were in the conversation, and with 315 VHSL member schools, that is impressive.One thing evident here in Suffolk is that some talented athletes are coming through our schools.As fall winds down and we gear up for winter sports, we want to wish everyone the best of luck. Whether you are involved in basketball, wrestling, gymnastics, or indoor track, play hard and be great.Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…In one of five compelling matchups on the WNBA slate today, the Seattle Storm and Connecticut Sun will…Wondering how you should bet on today’s WNBA games? Look no further. Below you’ll find computer predictions on…"
+        }
+    ]
+}

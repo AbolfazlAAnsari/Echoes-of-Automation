@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00015398144023492932,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011361527140252292,
+                    "sentence": "Please send your letters toletters@independent.co.ukSurely the law of conservation of momentum is a well-established scientific \"law\" that most A-level students could employ.Why do Nasa needto crash a vehicle into the Dimorphos asteroid to find out the effect on its trajectory?The impact will potentially result in either changing the path of the asteroid and/or a change in the spin of the object.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010405828652437776,
+                    "sentence": "This will depend on the shape and existing rotation of the asteroid.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013784279872197658,
+                    "sentence": "Since asteroids do not have a uniform shape what will be learned?EDT HodgesNuneatonBaby bluesAre we stuck in a never-ending time-wasting loop?I had to read thearticle twice when I saw that another MPhas been told she cannot bring her baby into the Commons.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015457795234397054,
+                    "sentence": "Yes, I get that dragging a hoard of disruptive toddlers in there would not be ideal but a quiet breast-fed baby to enable a politician to sit in on an important meeting?Amanda BakerEdinburghFreedom in sightBoris Johnson said in November 2020: \"We can see the sunlit upland pastures ahead.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022848993830848485,
+                    "sentence": "\"One year on, blurred vision?Mike BorLondonBrexit ministerOh the irony!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00031889823731034994,
+                    "sentence": "The Brexiteers in government having railed against the power of \"unelected bureaucrats\" in Brussels appoint one inLord Frost to determine the futureof our relationship with the rest of Europe.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004311707802116871,
+                    "sentence": "Perhaps Boris believes in the adage of \"it takes one to know one.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005504671949893236,
+                    "sentence": "\"Roger ThomasEast LothianSpeech combatCould it be that there's a mole in Boris Johnson'sspeech-writing department, and someone there wants rid of him as much as any of the rest of us?Susan AlexanderSouth GloucestershireRead MoreLetters: If Boris Johnson needs a break, he is clearly not up to the jobLetters: Social care changes will be remembered as Boris Johnson's 'poll tax' momentLetters: Refugees should never be used as political footballs - we can do betterLetters: If Boris Johnson needs a break, he is clearly not up to the jobLetters: Social care changes will be remembered as Boris Johnson's 'poll tax' momentLetters: Refugees should never be used as political footballs - we can do better",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.017916494329694815,
+            "class_probabilities": {
+                "human": 0.982044563084389,
+                "ai": 0.017916494329694815,
+                "mixed": 3.894258591613337e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.982044563084389,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.017916494329694815,
+                    "human": 0.982044563084389,
+                    "mixed": 3.894258591613337e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukSurely the law of conservation of momentum is a well-established scientific \"law\" that most A-level students could employ.Why do Nasa needto crash a vehicle into the Dimorphos asteroid to find out the effect on its trajectory?The impact will potentially result in either changing the path of the asteroid and/or a change in the spin of the object. This will depend on the shape and existing rotation of the asteroid. Since asteroids do not have a uniform shape what will be learned?EDT HodgesNuneatonBaby bluesAre we stuck in a never-ending time-wasting loop?I had to read thearticle twice when I saw that another MPhas been told she cannot bring her baby into the Commons. Yes, I get that dragging a hoard of disruptive toddlers in there would not be ideal but a quiet breast-fed baby to enable a politician to sit in on an important meeting?Amanda BakerEdinburghFreedom in sightBoris Johnson said in November 2020: \"We can see the sunlit upland pastures ahead.\"One year on, blurred vision?Mike BorLondonBrexit ministerOh the irony! The Brexiteers in government having railed against the power of \"unelected bureaucrats\" in Brussels appoint one inLord Frost to determine the futureof our relationship with the rest of Europe. Perhaps Boris believes in the adage of \"it takes one to know one.\"Roger ThomasEast LothianSpeech combatCould it be that there's a mole in Boris Johnson'sspeech-writing department, and someone there wants rid of him as much as any of the rest of us?Susan AlexanderSouth GloucestershireRead MoreLetters: If Boris Johnson needs a break, he is clearly not up to the jobLetters: Social care changes will be remembered as Boris Johnson's 'poll tax' momentLetters: Refugees should never be used as political footballs - we can do betterLetters: If Boris Johnson needs a break, he is clearly not up to the jobLetters: Social care changes will be remembered as Boris Johnson's 'poll tax' momentLetters: Refugees should never be used as political footballs - we can do better"
+        }
+    ]
+}

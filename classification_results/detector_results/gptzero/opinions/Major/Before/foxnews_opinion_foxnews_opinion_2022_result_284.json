@@ -1,0 +1,94 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.004739883355796337,
+                    "sentence": "Mutual Fund and ETF data provided byRefinitiv Lipper.Fox News host Tucker Carlson rips President Biden for denying the United States is in a recession despite what economists say on 'Tucker Carlson Tonight.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003986882511526346,
+                    "sentence": "'TUCKER CARLSON- The American economy is currently a disaster…Continue reading…C'MON, MAN, IT'S REAL -Commerce Department confirms recession -- Team Biden can run, but they can't hide …Continue reading…REP.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006572181591764092,
+                    "sentence": "MICHAEL McCAUL -The China threat is enormous and America must win the next great global competition...Continue reading…WEAPONIZING TIK-TOK -Biden has failed to hold China accountable for a disaster…Continue reading…GREG GUTFELD -Is trading the 'Merchant of Death' for WNBA star Brittney Griner the most unequal deal?Continue reading…DORM DILEMMA -Your daughter's next college roommate may be a man thanks to Biden…Continue reading…KELLEY PAUL -Our liberal media love rage politics and endanger my husband and others who won't back their woke agenda…Continue reading…SUMMER OF RAGE -I'm a pro-life physician -- here's what it's like to be targeted by left…Continue reading…VIDEO OF THE DAY- Laura Ingraham says, the Biden administration is trying to spin gold out of goose poop...Watch now...MIKE POMPEO -It's time to ditch communist China's technology, or else…Continue reading…INFLATION CURE?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009779954561963677,
+                    "sentence": "-Want to curb inflation?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009326517465524375,
+                    "sentence": "Here's how we do it…Continue reading…CHARLIE KIRK -The college industry is a waste of money, time and talent...Continue reading…CARTOON OF THE DAY -Reimagine Disaster.Check out all of our political cartoons...Reimagine Disaster 07.29.22This article was written by Fox News staff.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                }
+            ],
+            "completely_generated_prob": 0.019910870245167096,
+            "class_probabilities": {
+                "human": 0.9800891297548329,
+                "ai": 0.019910870245167096,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9800891297548329,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.019910870245167096,
+                    "human": 0.9800891297548329,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Mutual Fund and ETF data provided byRefinitiv Lipper.Fox News host Tucker Carlson rips President Biden for denying the United States is in a recession despite what economists say on 'Tucker Carlson Tonight.'TUCKER CARLSON– The American economy is currently a disaster…Continue reading…C'MON, MAN, IT'S REAL –Commerce Department confirms recession -- Team Biden can run, but they can't hide …Continue reading…REP. MICHAEL McCAUL –The China threat is enormous and America must win the next great global competition...Continue reading…WEAPONIZING TIK-TOK –Biden has failed to hold China accountable for a disaster…Continue reading…GREG GUTFELD –Is trading the 'Merchant of Death' for WNBA star Brittney Griner the most unequal deal?Continue reading…DORM DILEMMA –Your daughter's next college roommate may be a man thanks to Biden…Continue reading…KELLEY PAUL –Our liberal media love rage politics and endanger my husband and others who won't back their woke agenda…Continue reading…SUMMER OF RAGE –I'm a pro-life physician -- here's what it's like to be targeted by left…Continue reading…VIDEO OF THE DAY– Laura Ingraham says, the Biden administration is trying to spin gold out of goose poop...Watch now...MIKE POMPEO –It's time to ditch communist China's technology, or else…Continue reading…INFLATION CURE? –Want to curb inflation? Here's how we do it…Continue reading…CHARLIE KIRK –The college industry is a waste of money, time and talent...Continue reading…CARTOON OF THE DAY –Reimagine Disaster.Check out all of our political cartoons...Reimagine Disaster 07.29.22This article was written by Fox News staff."
+        }
+    ]
+}

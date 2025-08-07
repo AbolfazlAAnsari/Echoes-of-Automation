@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00014724269567523152,
+                    "sentence": "CaptainTom Mooreand various celebrities have raised the best part of £60m from the general public for theNHS.And the cost of the lovely Captain's birthday cards and presents sent by the public could have raised a lot more.Yet any suggestion of even a penny on income tax for the health service raises protest.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010761612793430686,
+                    "sentence": "Why?Margaret Adams Keighley, YorkshireFoot in mouthHow canDonald Trumpcease his daily coronavirus press update meetings, simply because the press is asking \"bigly bad\" questions?His reality-star ego may encourage him to return to the podium, however his tweeting should cease with immediate effect.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001492153387516737,
+                    "sentence": "He should be reminded of the old adage; a closed mouth gathers no foot!Christopher Learmont-Hughes WirralTestingIf testing and contact tracing is the right thing to do now that Covid-19 infections are hopefully on their way down, why wasn't it the right thing to keep on doing when they were at the same stage on the way up?Perhaps this move shouldn't be surprising, however it is not what we were told at the time.Mike Betterton Skelton, YorkshireSensible cyclingCycling is booming during the Covid-19 crisis.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003214810276404023,
+                    "sentence": "This is certainly true, but if people want to cycle everywhere, firstly they must consider everybody who's not cycling.Roads are for cycling on, not footpaths.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005114226369187236,
+                    "sentence": "Please keep it that way.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012812581844627857,
+                    "sentence": "Cycling is good, but please stick to the rules, cut out the sanctimonious \"look at me posing in my lycra\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000688656815327704,
+                    "sentence": "Don't point your bike at elderly pedestrians in the hope they'll miraculously leap out of your way to safety, they won't!There's a lot of talk about staying safe in the crisis, but smug, self-centred cyclists won't help this unless they get off their bikes and think about it.Geoff Rees Welwyn Garden CityBacking BorisWelcome back to work Boris Johnson.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004787339421454817,
+                    "sentence": "And bravo!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006517486181110144,
+                    "sentence": "Bravo for Boris's Brexit giving the British peoples back their sovereign rights politically, and geographically (with respect to border security).Howard Hutchins Address suppliedNo wasteI was shocked by the news last week of a publican pouring gallons of beer down the drain, as he had no one to sell it to!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008244860800914466,
+                    "sentence": "Also news of a farmer who was pouring gallons of milk down the drain, as it hadn't been collected.There are other ways of dispensing with the excess.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009209323907271028,
+                    "sentence": "Some publicans are transferring the beer into smaller kegs, and selling it to the public that way.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009705793927423656,
+                    "sentence": "This throwaway society really does need to reconsider its actions.Janine Hyatt Address supplied",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.015658843163015305,
+            "class_probabilities": {
+                "human": 0.9843411568369846,
+                "ai": 0.015658843163015305,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9843411568369846,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.015658843163015305,
+                    "human": 0.9843411568369846,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "CaptainTom Mooreand various celebrities have raised the best part of £60m from the general public for theNHS.And the cost of the lovely Captain's birthday cards and presents sent by the public could have raised a lot more.Yet any suggestion of even a penny on income tax for the health service raises protest. Why?Margaret Adams                                          Keighley, YorkshireFoot in mouthHow canDonald Trumpcease his daily coronavirus press update meetings, simply because the press is asking \"bigly bad\" questions?His reality-star ego may encourage him to return to the podium, however his tweeting should cease with immediate effect. He should be reminded of the old adage; a closed mouth gathers no foot!Christopher                     Learmont-Hughes                                          WirralTestingIf testing and contact tracing is the right thing to do now that Covid-19 infections are hopefully on their way down, why wasn't it the right thing to keep on doing when they were at the same stage on the way up?Perhaps this move shouldn't be surprising, however it is not what we were told at the time.Mike Betterton                                          Skelton, YorkshireSensible cyclingCycling is booming during the Covid-19 crisis. This is certainly true, but if people want to cycle everywhere, firstly they must consider everybody who's not cycling.Roads are for cycling on, not footpaths. Please keep it that way. Cycling is good, but please stick to the rules, cut out the sanctimonious \"look at me posing in my lycra\". Don't point your bike at elderly pedestrians in the hope they'll miraculously leap out of your way to safety, they won't!There's a lot of talk about staying safe in the crisis, but smug, self-centred cyclists won't help this unless they get off their bikes and think about it.Geoff Rees                                           Welwyn Garden CityBacking BorisWelcome back to work Boris Johnson. And bravo! Bravo for Boris's Brexit giving the British peoples back their sovereign rights politically, and geographically (with respect to border security).Howard Hutchins                                          Address suppliedNo wasteI was shocked by the news last week of a publican pouring gallons of beer down the drain, as he had no one to sell it to! Also news of a farmer who was pouring gallons of milk down the drain, as it hadn't been collected.There are other ways of dispensing with the excess. Some publicans are transferring the beer into smaller kegs, and selling it to the public that way. This throwaway society really does need to reconsider its actions.Janine Hyatt                                          Address supplied"
+        }
+    ]
+}

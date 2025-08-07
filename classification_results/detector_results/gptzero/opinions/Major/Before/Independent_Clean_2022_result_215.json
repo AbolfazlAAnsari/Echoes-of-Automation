@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0021592224948108196,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0021613333374261856,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe government's despicable decision to bin the promised ban on imports of fur and foie grasbetrays theUKpublic, and animals will continue to suffer and die because of it.Every kind and decent person agrees there is no place for fur orfoie grasin our country.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003069712547585368,
+                    "sentence": "Their production is so cruel that it is illegal in the UK, and thegovernmenthas long promised to close our borders to them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016592293977737427,
+                    "sentence": "But due to a small but vocal cabal within the Conservative Party - including Jacob Rees-Mogg - the UK will, for now, continue to be complicit in the cruel foie gras and fur trade.The public has made its opposition clear: it does not want animals to be force-fed through metal tubes rammed down their throats or to spend their short lives in filthy wire cages before being skinned - sometimes alive - for their fur.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020780342165380716,
+                    "sentence": "The government must listen and act.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07487165927886963,
+                    "sentence": "Animals desperately need our nation to defend them, and a ban must be brought forward as promised.Elisa AllenVice president of programmes, Peta FoundationWhat next?Even during the darkest days ofSection 28 enforcement,I do not remember any politicians, activists or wannabes calling for pantomimes at the theatre or drag acts on television (the late, great Danny La Rue springs to mind) to be shut down.Which pretty much leads me to the conclusion thatthe demonstrators against a drag queenreading children's stories at a Reading library are either extremely hard of thinking or extremely bigoted.What insanity will manifest itself next, I ask myself?Robert BostonKingshillWho's whoKeir Starmeris trying to reform the post-Corbyn Labour Party and needs to set the direction of travel in order to make it electable.But, bygagging his parliamentary front bench, he runs the risk that the electorate won't know who's who, and won't know if it can have confidence in a prospective Labour administration.So, he runs the risk of not attracting voters, and not only those who float, but thoseonce-committed Labour supporterswho, since 2019, have shown themselves willing to switch allegiance.There seems little point in the public getting to know one-time frontbenchers, such as Sam Tarry, only because they've been sacked.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.13456475734710693,
+                    "sentence": "And Kier Starmer's requirement that frontbenchers ask for permission to speak publicly smacks of the kind of strict control that stifles innovative thinking.It's very reminiscent of the current government.Ian ReidKilnwick, YorkshireCognitive dissonanceIt is unfair to criticise Brexiteersfor saying thatBrexit had nothing to do with traffic queues, with the shortfall of people to pick crops (necessitating their import from the EU), with the 45 per cent drop in British music groups touring in the EU, with the reduction in GDP, or with the overall fall in trade.Brexiteers are, after all, only human; and when faced with a reality that contradicts their rhetoric and beliefs they can, like many of us, either admit they were mistaken or defend their views by reinterpreting reality, such as by blaming the French or the EU as a whole.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.10100218653678894,
+                    "sentence": "That way, they can have consistent and coherent beliefs and avoid the uncomfortable feeling of cognitive dissonance.There are many in government and those in theTory leadership contestwho, I'm sure, will provide excellent examples of the phenomenon in psychology classes up and down the country.Dr Ian RobertsonMilton KeynesPanto protestNo doubtthose protesting against drag queen Aida H Deefor reading children stories will also be protesting outside theatres come pantomime season.Oh, wait - no they won't.Geoff ForwardStirlingTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking here",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.06633396618935229,
+            "class_probabilities": {
+                "human": 0.9336248632755252,
+                "ai": 0.06633396618935229,
+                "mixed": 4.117053512248776e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9336248632755252,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.06633396618935229,
+                    "human": 0.9336248632755252,
+                    "mixed": 4.117053512248776e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThe government’s despicable decision to bin the promised ban on imports of fur and foie grasbetrays theUKpublic, and animals will continue to suffer and die because of it.Every kind and decent person agrees there is no place for fur orfoie grasin our country. Their production is so cruel that it is illegal in the UK, and thegovernmenthas long promised to close our borders to them. But due to a small but vocal cabal within the Conservative Party – including Jacob Rees-Mogg – the UK will, for now, continue to be complicit in the cruel foie gras and fur trade.The public has made its opposition clear: it does not want animals to be force-fed through metal tubes rammed down their throats or to spend their short lives in filthy wire cages before being skinned – sometimes alive – for their fur. The government must listen and act. Animals desperately need our nation to defend them, and a ban must be brought forward as promised.Elisa AllenVice president of programmes, Peta FoundationWhat next?Even during the darkest days ofSection 28 enforcement,I do not remember any politicians, activists or wannabes calling for pantomimes at the theatre or drag acts on television (the late, great Danny La Rue springs to mind) to be shut down.Which pretty much leads me to the conclusion thatthe demonstrators against a drag queenreading children’s stories at a Reading library are either extremely hard of thinking or extremely bigoted.What insanity will manifest itself next, I ask myself?Robert BostonKingshillWho’s whoKeir Starmeris trying to reform the post-Corbyn Labour Party and needs to set the direction of travel in order to make it electable.But, bygagging his parliamentary front bench, he runs the risk that the electorate won’t know who’s who, and won’t know if it can have confidence in a prospective Labour administration.So, he runs the risk of not attracting voters, and not only those who float, but thoseonce-committed Labour supporterswho, since 2019, have shown themselves willing to switch allegiance.There seems little point in the public getting to know one-time frontbenchers, such as Sam Tarry, only because they’ve been sacked. And Kier Starmer’s requirement that frontbenchers ask for permission to speak publicly smacks of the kind of strict control that stifles innovative thinking.It’s very reminiscent of the current government.Ian ReidKilnwick, YorkshireCognitive dissonanceIt is unfair to criticise Brexiteersfor saying thatBrexit had nothing to do with traffic queues, with the shortfall of people to pick crops (necessitating their import from the EU), with the 45 per cent drop in British music groups touring in the EU, with the reduction in GDP, or with the overall fall in trade.Brexiteers are, after all, only human; and when faced with a reality that contradicts their rhetoric and beliefs they can, like many of us, either admit they were mistaken or defend their views by reinterpreting reality, such as by blaming the French or the EU as a whole. That way, they can have consistent and coherent beliefs and avoid the uncomfortable feeling of cognitive dissonance.There are many in government and those in theTory leadership contestwho, I’m sure, will provide excellent examples of the phenomenon in psychology classes up and down the country.Dr Ian RobertsonMilton KeynesPanto protestNo doubtthose protesting against drag queen Aida H Deefor reading children stories will also be protesting outside theatres come pantomime season.Oh, wait – no they won’t.Geoff ForwardStirlingTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking here"
+        }
+    ]
+}

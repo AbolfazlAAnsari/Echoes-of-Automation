@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0006982858758419752,
+                    "sentence": "On Monday it became official: Thepoliceissued me a gun permit.Never did I imagine I'd be here.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00035332905827090144,
+                    "sentence": "Not because I was anti-gun.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000458497554063797,
+                    "sentence": "My dad was a careerFBIagent, so my siblings and I grew up with guns.At the same time, my father was never particularly interested inguns.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00044925528345629573,
+                    "sentence": "To no avail, we would beg him to go to shoots to show off his skills.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007165198330767453,
+                    "sentence": "More frequently he would remind us that many who keep guns in the house are more likely to shoot a friend or family member than a would-be robber or rapist.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004094721516594291,
+                    "sentence": "His proudest boast about his own career was that not once did he have to shoot anybody.This may help explain why we all grew up supporting the Second Amendment in principle while not much interested in the practice.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00037453442928381264,
+                    "sentence": "What changed?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005328760016709566,
+                    "sentence": "Certainly, the rioters played a key part.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001064829993993044,
+                    "sentence": "But far more shocking than the rioters themselves has been the associated spectacle of police and political authorities across America standing down in the face of night after night of criminal behavior directed at the lives and livelihoods of innocent, law-abiding citizens.CLICK HERE TO CONTINUE READING WILLIAM McGURN'S COLUMN IN THE WALL STREET JOURNAL",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.01565789170260218,
+            "class_probabilities": {
+                "human": 0.9843421082973979,
+                "ai": 0.01565789170260218,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9843421082973979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01565789170260218,
+                    "human": 0.9843421082973979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       On Monday it became official: Thepoliceissued me a gun permit.Never did I imagine I’d be here. Not because I was anti-gun. My dad was a careerFBIagent, so my siblings and I grew up with guns.At the same time, my father was never particularly interested inguns. To no avail, we would beg him to go to shoots to show off his skills. More frequently he would remind us that many who keep guns in the house are more likely to shoot a friend or family member than a would-be robber or rapist. His proudest boast about his own career was that not once did he have to shoot anybody.This may help explain why we all grew up supporting the Second Amendment in principle while not much interested in the practice. What changed? Certainly, the rioters played a key part. But far more shocking than the rioters themselves has been the associated spectacle of police and political authorities across America standing down in the face of night after night of criminal behavior directed at the lives and livelihoods of innocent, law-abiding citizens.CLICK HERE TO CONTINUE READING WILLIAM McGURN'S COLUMN IN THE WALL STREET JOURNAL   "
+        }
+    ]
+}

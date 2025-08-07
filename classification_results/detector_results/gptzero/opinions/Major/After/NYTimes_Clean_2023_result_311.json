@@ -1,0 +1,100 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.02570023201406002,
+                    "sentence": "The 10 videos that will stick with us far past 2023.Men serving life sentences in American prisonsargued why, decades later, they pose no threat to society.Children whose fathers were killed in the war in Ukraineshowed us the surprising costs of war.Bank robbers in Beirutflipped our understanding of right and wrong.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05133656784892082,
+                    "sentence": "And a British scholar with a fondness for the rumpled television detective Columbo taught us that“the answer to everything”might be right in front of us.In 2023, The Times's Opinion Video team took viewers around the world and into the thick of some of society's most critical debates.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.054930735379457474,
+                    "sentence": "We produced dozens of short films and videos ᅳ powerful, emotional works that persuade and capture the human experience in unique ways.Below are 10 videos that will stick with us far past 2023.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07847506552934647,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.08179670572280884,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05631040036678314,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,Instagram,TikTok,XandThreads.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 6,
+                    "completely_generated_prob": 1.474742012248794e-05
+                }
+            ],
+            "completely_generated_prob": 0.05926409517073789,
+            "class_probabilities": {
+                "human": 0.9407359048292621,
+                "ai": 0.05926409517073789,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9407359048292621,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.05926409517073789,
+                    "human": 0.9407359048292621,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "The 10 videos that will stick with us far past 2023.Men serving life sentences in American prisonsargued why, decades later, they pose no threat to society.Children whose fathers were killed in the war in Ukraineshowed us the surprising costs of war.Bank robbers in Beirutflipped our understanding of right and wrong. And a British scholar with a fondness for the rumpled television detective Columbo taught us that“the answer to everything”might be right in front of us.In 2023, The Times’s Opinion Video team took viewers around the world and into the thick of some of society’s most critical debates. We produced dozens of short films and videos — powerful, emotional works that persuade and capture the human experience in unique ways.Below are 10 videos that will stick with us far past 2023.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,Instagram,TikTok,XandThreads."
+        }
+    ]
+}

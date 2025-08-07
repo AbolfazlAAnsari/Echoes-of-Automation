@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 6.66523483232595e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.562698788708076e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukWhen faced withnatural disasterssuch as thetsunami and volcanic ash fallon the Tonga islands, it is understandable that the human response is to rush in help for those affected.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.221068568062037e-05,
+                    "sentence": "And credit goes to the New Zealanders and Australians in particular for their humanitarian aid.It is equally understandable that those directly affected by disaster will wish to restore the living that they knew.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.438034324673936e-05,
+                    "sentence": "After all, home is precious and there will seem to be no alternative.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.120983794564381e-05,
+                    "sentence": "Yet, we are told that the ash fall on some of the islands will mean agriculture is compromised and that the people will require food aid for years to come.Add to this that sea-level rise is inexorable because of global warming and that this will cause both salinisation of groundwater and eventual inundation of many of the low-lying islands, questions need asking about the short-and medium-term sustainability of disaster policies.Governments need to start planning for the inevitable evacuation of vulnerable, low-lying island nations, painful as this might be for both those needing to move and, perhaps, those needing to accommodate the displaced.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.228518810123205e-05,
+                    "sentence": "It will be irresponsible to do otherwise.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.298883767565712e-05,
+                    "sentence": "Indeed, the need for evacuation is already with us.Ian ReidKilnwickProtecting freedomThe UK government sendingtroops and weaponsto Ukraine in the name of defending \"freedom\" is the very same government trying to take away the freedom to protest with its totalitarian Police, Crime, Sentencing and Courts Bill.Sasha SimicLondonTrain travelRegarding your article ontrain announcements, if Grant Shapps wants \"a bonfire of banalities\" maybe he should look closer to home rather than wasting taxpayers'money on videoswhile openly promoting Tory-supporting newspapers.Many passengers including the visually impaired, overseas visitors and infrequent users probably find most of the current onboard announcements very helpful.Alan HaganNewcastle-under-LymeVoices of reasonThank heavens for the House of Lordsvoting down various proposalsin the Police Crime Sentencing and Courts Bill 2021, which would have threatened free speech in public spaces.One wonders if those who draft legislation actually live in the real democratic world or in distant legal ivory towers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01581299677491188,
+                    "sentence": "One prays the House of Commons will see sense and not try to reintroduce the dangerous proposals.J LongstaffE SussexNew leadershipThe longer Boris Johnson cancling onin his freshly wallpapered Downing Street den the better for this country.The Conservative Party's combination of right-wing populism and entitlement, so perfectly exemplified by Johnson and Priti Patel, is utterly toxic and can only get worse.The swirling miasma of allegations around sleaze, bullying, blackmail, lies, greed and sheer incompetence that appears to characterise England's present government will, with any luck, disqualify the Tories from ever again being given serious consideration by voters.There is a limit to how long the electorate will be taken for fools.D Maughan BrownYorkRead MoreWorld's largest carbon-sucking factory starts operation in Iceland'The climate crisis is a reality': Africa's summer of extremesAgainst the odds: The fight to save sea turtles in Ras BaridiLetters: The Tories pose an existential threat to disabled citizensLetters: There were 359 Covid deaths yesterday.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.023707730695605278,
+                    "sentence": "Why have restrictions been scrapped?Letters: Ignorance can be no defence for Boris Johnson",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukWhen faced withnatural disasterssuch as thetsunami and volcanic ash fallon the Tonga islands, it is understandable that the human response is to rush in help for those affected. And credit goes to the New Zealanders and Australians in particular for their humanitarian aid.It is equally understandable that those directly affected by disaster will wish to restore the living that they knew. After all, home is precious and there will seem to be no alternative. Yet, we are told that the ash fall on some of the islands will mean agriculture is compromised and that the people will require food aid for years to come.Add to this that sea-level rise is inexorable because of global warming and that this will cause both salinisation of groundwater and eventual inundation of many of the low-lying islands, questions need asking about the short-and medium-term sustainability of disaster policies.Governments need to start planning for the inevitable evacuation of vulnerable, low-lying island nations, painful as this might be for both those needing to move and, perhaps, those needing to accommodate the displaced. It will be irresponsible to do otherwise. Indeed, the need for evacuation is already with us.Ian ReidKilnwickProtecting freedomThe UK government sendingtroops and weaponsto Ukraine in the name of defending \"freedom\" is the very same government trying to take away the freedom to protest with its totalitarian Police, Crime, Sentencing and Courts Bill.Sasha SimicLondonTrain travelRegarding your article ontrain announcements, if Grant Shapps wants \"a bonfire of banalities\" maybe he should look closer to home rather than wasting taxpayers'money on videoswhile openly promoting Tory-supporting newspapers.Many passengers including the visually impaired, overseas visitors and infrequent users probably find most of the current onboard announcements very helpful.Alan HaganNewcastle-under-LymeVoices of reasonThank heavens for the House of Lordsvoting down various proposalsin the Police Crime Sentencing and Courts Bill 2021, which would have threatened free speech in public spaces.One wonders if those who draft legislation actually live in the real democratic world or in distant legal ivory towers. One prays the House of Commons will see sense and not try to reintroduce the dangerous proposals.J LongstaffE SussexNew leadershipThe longer Boris Johnson cancling onin his freshly wallpapered Downing Street den the better for this country.The Conservative Party's combination of right-wing populism and entitlement, so perfectly exemplified by Johnson and Priti Patel, is utterly toxic and can only get worse.The swirling miasma of allegations around sleaze, bullying, blackmail, lies, greed and sheer incompetence that appears to characterise England's present government will, with any luck, disqualify the Tories from ever again being given serious consideration by voters.There is a limit to how long the electorate will be taken for fools.D Maughan BrownYorkRead MoreWorld's largest carbon-sucking factory starts operation in Iceland'The climate crisis is a reality': Africa's summer of extremesAgainst the odds: The fight to save sea turtles in Ras BaridiLetters: The Tories pose an existential threat to disabled citizensLetters: There were 359 Covid deaths yesterday. Why have restrictions been scrapped?Letters: Ignorance can be no defence for Boris Johnson"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0008606220362707973,
+                    "sentence": "Mutual Fund and ETF data provided byRefinitiv Lipper.Fox News host Tucker Carlson gives his take on the investigation into Hunter Biden and the perceived double standard of justice in the DOJ on 'Tucker Carlson Tonight.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002659526071511209,
+                    "sentence": "'TUCKER CARLSON- Fox News host gives his take on the investigation into Hunter Biden and the perceived double standard of justice in the DOJ.Continue reading…KAROL- Permissive parenting is the left's newest, totalitarian way to separate the family unit.Continue reading…GOV.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003434927202761173,
+                    "sentence": "KRISTI NOEM- Here's how my state of South Dakota is giving kids the education they deserve.Continue reading…GUTFELD- A Democrat exposes the 'fake outrage' on Capitol Hill.Continue reading…THE GOAT- These new facts make the Biden family the GOAT of corruption.Continue reading…RAYMOND ARROYO- Biden almost spells the number eight correctly.Continue watching…CORONATION DECISION- Meghan Markle and Prince Harry make an unusual decision about how they'll handle royal coronation.Continue reading…NEWT- Democrats are about to face their own Bud Light moment.Continue reading…THAT TODDLIN' TOWN- Frank Sinatra's Chicago is no more.Continue reading…CARTOON OF THE DAY -Check out all of our political cartoons…04.21.23This article was written by Fox News staff.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                }
+            ],
+            "completely_generated_prob": 0.008958492756682587,
+            "class_probabilities": {
+                "human": 0.9910415072433174,
+                "ai": 0.008958492756682587,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9910415072433174,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.008958492756682587,
+                    "human": 0.9910415072433174,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Mutual Fund and ETF data provided byRefinitiv Lipper.Fox News host Tucker Carlson gives his take on the investigation into Hunter Biden and the perceived double standard of justice in the DOJ on 'Tucker Carlson Tonight.'TUCKER CARLSON– Fox News host gives his take on the investigation into Hunter Biden and the perceived double standard of justice in the DOJ.Continue reading…KAROL– Permissive parenting is the left’s newest, totalitarian way to separate the family unit.Continue reading…GOV. KRISTI NOEM– Here's how my state of South Dakota is giving kids the education they deserve.Continue reading…GUTFELD– A Democrat exposes the 'fake outrage' on Capitol Hill.Continue reading…THE GOAT– These new facts make the Biden family the GOAT of corruption.Continue reading…RAYMOND ARROYO– Biden almost spells the number eight correctly.Continue watching…CORONATION DECISION– Meghan Markle and Prince Harry make an unusual decision about how they’ll handle royal coronation.Continue reading…NEWT– Democrats are about to face their own Bud Light moment.Continue reading…THAT TODDLIN' TOWN– Frank Sinatra's Chicago is no more.Continue reading…CARTOON OF THE DAY –Check out all of our political cartoons…04.21.23This article was written by Fox News staff."
+        }
+    ]
+}

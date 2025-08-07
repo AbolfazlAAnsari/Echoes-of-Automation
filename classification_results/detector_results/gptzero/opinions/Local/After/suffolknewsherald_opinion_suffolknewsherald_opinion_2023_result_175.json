@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0005952768260613084,
+                    "sentence": "Published 7:15 pm Tuesday, October 17, 2023ByLetters to the EditorTo the editor:While Republican candidates' excuses for not showing up for the recent candidate forum in Suffolk were either non-existent or simply that they couldn't attend, the remarks of Baxter Ennis's campaign manager told the true story.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006951679824851453,
+                    "sentence": "His explanation that Republican candidates did not attend because “the forum in Suffolk was run by partisan organizations with agendas” is revealing as well as incorrect.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008619705331511796,
+                    "sentence": "While all of the organizations that organized, publicized, and held the forum have public policy agendas, they are nonpartisan, meaning they don't support or oppose candidates.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008321292698383331,
+                    "sentence": "They do, however, take positions on political issues just as the candidates do.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001074247877113521,
+                    "sentence": "All of the questions asked at the forum reflected the interests and concerns of the citizenry, not the agendas of the sponsoring organizations.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010473632719367743,
+                    "sentence": "Candidates who don't attend forums because they don't like the agendas of the organizations who take the time to provide this civic service in support of our democratic process don't display much confidence in themselves or their political positions if they can't defend themselves in a civilized, moderated debate in front of their potential constituents.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008821510709822178,
+                    "sentence": "I would never vote for a candidate who is unwilling to stand up for and defend their policy positions in a public forum.Denise MurdenSuffolkOn Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012166020460426807,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007447207462973893,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.01281881855424871,
+            "class_probabilities": {
+                "human": 0.9871811814457513,
+                "ai": 0.01281881855424871,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9871811814457513,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01281881855424871,
+                    "human": 0.9871811814457513,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 7:15 pm Tuesday, October 17, 2023ByLetters to the EditorTo the editor:While Republican candidates’ excuses for not showing up for the recent candidate forum in Suffolk were either non-existent or simply that they couldn’t attend, the remarks of Baxter Ennis’s campaign manager told the true story. His explanation that Republican candidates did not attend because “the forum in Suffolk was run by partisan organizations with agendas” is revealing as well as incorrect. While all of the organizations that organized, publicized, and held the forum have public policy agendas, they are nonpartisan, meaning they don’t support or oppose candidates. They do, however, take positions on political issues just as the candidates do. All of the questions asked at the forum reflected the interests and concerns of the citizenry, not the agendas of the sponsoring organizations. Candidates who don’t attend forums because they don’t like the agendas of the organizations who take the time to provide this civic service in support of our democratic process don’t display much confidence in themselves or their political positions if they can’t defend themselves in a civilized, moderated debate in front of their potential constituents. I would never vote for a candidate who is unwilling to stand up for and defend their policy positions in a public forum.Denise MurdenSuffolkOn Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

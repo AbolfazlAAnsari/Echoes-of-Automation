@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0002396178024355322,
+                    "sentence": "From local coverage to the presidential race,.Cityscape| Twin Cities urban geographer Bill Lindeke weighs in on city life, transportation, planning and more in his column delivered to your inbox weekly.Aging is not optional, nor is caring for our state's rapidly aging population.Sixty-thousand Minnesotans will turn 65 years of age every year between now and 2030.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017736878362484276,
+                    "sentence": "Due to years of inaction by lawmakers, our state is ill-prepared to provide the varying levels of care that seniors statewide will require.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00029610141064040363,
+                    "sentence": "If you've been a caregiver for an aging loved one, you understand that long-term care is an issue that impacts Minnesotans of all ages.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021919666323810816,
+                    "sentence": "You also understand the real impact to the growing number of Minnesota seniors (and their families) who face a threat to their livelihoods.It's why the challenges facing the long-term care sector should have Minnesotans' attention.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00032187256147153676,
+                    "sentence": "As of today, nearly 17,000 caregiver positions across the state remain unfilled.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00028477079467847943,
+                    "sentence": "The workforce crisis diminishes access to the care seniors need.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00031961535569280386,
+                    "sentence": "In the past three years alone, nursing homes have closed or put on lay-away over 3,000 beds (the equivalent of closing 50 average-sized nursing homes).These closures are not due to a lack of demand.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00028955956804566085,
+                    "sentence": "Rather, a perfect storm of staffing shortages, rising costs and low pay for caregivers impacted by underinvestment from the state is making it impossible for many locations to stay afloat.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002696142182685435,
+                    "sentence": "The struggles captured by !MinnPostAugust 30, 2024",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.00982192507144982,
+            "class_probabilities": {
+                "human": 0.9901780749285501,
+                "ai": 0.00982192507144982,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9901780749285501,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.00982192507144982,
+                    "human": 0.9901780749285501,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "From local coverage to the presidential race, .Cityscape| Twin Cities urban geographer Bill Lindeke weighs in on city life, transportation, planning and more in his column delivered to your inbox weekly.Aging is not optional, nor is caring for our state’s rapidly aging population.Sixty-thousand Minnesotans will turn 65 years of age every year between now and 2030. Due to years of inaction by lawmakers, our state is ill-prepared to provide the varying levels of care that seniors statewide will require. If you’ve been a caregiver for an aging loved one, you understand that long-term care is an issue that impacts Minnesotans of all ages. You also understand the real impact to the growing number of Minnesota seniors (and their families) who face a threat to their livelihoods.It’s why the challenges facing the long-term care sector should have Minnesotans’ attention. As of today, nearly 17,000 caregiver positions across the state remain unfilled. The workforce crisis diminishes access to the care seniors need. In the past three years alone, nursing homes have closed or put on lay-away over 3,000 beds (the equivalent of closing 50 average-sized nursing homes).These closures are not due to a lack of demand. Rather, a perfect storm of staffing shortages, rising costs and low pay for caregivers impacted by underinvestment from the state is making it impossible for many locations to stay afloat. The struggles captured by !MinnPostAugust 30, 2024"
+        }
+    ]
+}

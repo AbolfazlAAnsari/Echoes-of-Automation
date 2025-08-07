@@ -1,0 +1,151 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00015476689441129565,
+                    "sentence": "I write as an alumni whose career started as a mechanical engineer and progressed to being an aerosol scientist specializing in health and environmental toxicology.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017382115765940398,
+                    "sentence": "I am greatly disappointed in the MIT administration's proposals to restrict in-person instruction for the next academic year.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001354797277599573,
+                    "sentence": "Focusing on distancing and quarantine were appropriate in the first weeks of the COVID-19 pandemic, but now MIT should be a leader and focus on using science and technology to address the problem.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012772803893312812,
+                    "sentence": "COVID control should be seen as a technological problem involving both biological understanding of the infection process and application of architectural and engineering principles to develop ways to block the transmission.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013693157234229147,
+                    "sentence": "Health aerosols experts need to quantify infectious particle size and concentration and the half-life of viable coronavirus as a function of ambient conditions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012757965305354446,
+                    "sentence": "Building configuration, ventilation design, air filtration, and temperature and humidity manipulation are well-known as ways to reduce the concentration and viability of other infectious agents.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015351666661445051,
+                    "sentence": "The efforts of architects and engineers need to focus on quantifying the specific conditions needed to reduce SARS-CoV-2 exposure to an acceptable level under classroom and living area conditions and then developing cost-effective means of rapidly implementing the necessary changes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013018296158406883,
+                    "sentence": "I strongly recommend that MIT use its intellectual and financial resources to implement technological approaches that will allow a phased return of undergraduates to campus over the next few months.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000143021548865363,
+                    "sentence": "The current MIT plans to charge high tuition for a year when most undergraduates will be restricted to online instruction and have no access to MIT facilities is illogical and unfair.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014653403195552528,
+                    "sentence": "The unique value of an MIT education comes from the interaction with faculty in seminars and research labs and the interaction with fellow students in living groups.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019577922648750246,
+                    "sentence": "Undergraduates need to demand that MIT be a leader in using technology to provide the best possible education during this pandemic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005326127866283059,
+                    "sentence": "John M. Veranth is a member of the Class of 1971.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 3,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                },
+                {
+                    "start_sentence_index": 8,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 11,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                }
+            ],
+            "completely_generated_prob": 0.006608679833334143,
+            "class_probabilities": {
+                "human": 0.9933913201666659,
+                "ai": 0.006608679833334143,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933913201666659,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006608679833334143,
+                    "human": 0.9933913201666659,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "I write as an alumni whose career started as a mechanical engineer and progressed to being an aerosol scientist specializing in health and environmental toxicology. I am greatly disappointed in the MIT administration's proposals to restrict in-person instruction for the next academic year. Focusing on distancing and quarantine were appropriate in the first weeks of the COVID-19 pandemic, but now MIT should be a leader and focus on using science and technology to address the problem.\nCOVID control should be seen as a technological problem involving both biological understanding of the infection process and application of architectural and engineering principles to develop ways to block the transmission. Health aerosols experts need to quantify infectious particle size and concentration and the half-life of viable coronavirus as a function of ambient conditions. Building configuration, ventilation design, air filtration, and temperature and humidity manipulation are well-known as ways to reduce the concentration and viability of other infectious agents. The efforts of architects and engineers need to focus on quantifying the specific conditions needed to reduce SARS-CoV-2 exposure to an acceptable level under classroom and living area conditions and then developing cost-effective means of rapidly implementing the necessary changes. I strongly recommend that MIT use its intellectual and financial resources to implement technological approaches that will allow a phased return of undergraduates to campus over the next few months.\nThe current MIT plans to charge high tuition for a year when most undergraduates will be restricted to online instruction and have no access to MIT facilities is illogical and unfair. The unique value of an MIT education comes from the interaction with faculty in seminars and research labs and the interaction with fellow students in living groups. Undergraduates need to demand that MIT be a leader in using technology to provide the best possible education during this pandemic.\nJohn M. Veranth is a member of the Class of 1971."
+        }
+    ]
+}

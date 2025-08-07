@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0001141927350545302,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013439918984659016,
+                    "sentence": "Please send your letters toletters@independent.co.ukInAndrew Woodcock's article,he reports that Charles Walker, a 1922 Committee member, said: \"It's serious now but not at a critical level yet.\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001836231822380796,
+                    "sentence": "Mr Johnson has presided over thousands of unnecessaryCoviddeaths, bungledBrexitnegotiations, headed up a lying, deceitful and divisive government, and Mr Walker says it's not critical!There are many British families suffering the aftermath of Mr Johnson's gross mishandling of the past two years.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.859119745669886e-05,
+                    "sentence": "It is compounded by his, and theConservative Party's, patent lack of empathy for those less able to fend for themselves.His Dickensian attitude towards \"lesser mortals\" permeates throughout his party which, until now, has followed him willingly.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014477049990091473,
+                    "sentence": "I wouldn't pay him the compliment of calling him a bad manager - he couldn't run a bath, let alone a country.And the 1922 Committee's treasurer, Sir Geoffrey Clifton-Brown, euphemistically told us that Mr Johnson ought to stop scoring \"own goals\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012960386811755598,
+                    "sentence": "But we all know that he ought to have been sent off long ago.The Conservative Party have no coherent plan for Britain's future.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001274493697565049,
+                    "sentence": "Instead, they are willing to leave us rudderless in our descent into a world where football is played without a referee.Keith PooleBasingstokeYouthful civil servantsAs someone who assumed all senior civil servants were like Sir Humphrey in Yes, Prime Minister, I was surprised by how youthful and stubbled the current cabinet secretary, Simon Case, looks.Alan PackCanterburyRishi in CaliforniaSo Rishi Sunak was, by all accounts, enjoying the sun in his California beach house while businesses here collapsed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00020831989240832627,
+                    "sentence": "Did he find, like his colleague Dominic Raab, the sea closed?Nigel GroomWithamLeave retired teachers aloneDoes it not occur to those suggesting thatretired teachers be lured back to fill the Covid-induced gapsthat there is a reason they retired.To keep up to speed with all the latest opinions and comment sign up to our free weekly Voices Dispatches newsletter byclicking hereThey are sick of the endless targets and curriculum changes forced upon the profession by politicians and bureaucrats with no knowledge of education.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0052020363509655,
+                    "sentence": "They are tired of meaningless league tables, arbitrary assessments and being forced to teach by rote to narrow specifications rather than stimulate and inspire their students.They don't want to live in dread of the random arrival of Ofsted hit squads (sorry, \"inspectors\") or spend extra unpaid hours on pointless, tick-box paperwork.Much like their stressed and burnt-out colleagues in the similarly over-managed and under-resourced NHS, they have earned their escape many times over.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007580594625324011,
+                    "sentence": "While they should be welcomed back if they wish to return, they should feel no pressure to do so, and no guilt should they not.Mike MargettsKilsbyRead MoreChristmas shoppers warned about post-Brexit charges on orders from EUTravel to Europe: the post-Brexit passport rulesGovernment delays key Brexit border checksLetters: Boris Johnson's jovial mask has served the hard right very wellLetters: Would the Tories actually be any better under a new leader?Letters: Fear isn't always bad - especially if it's Covid",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.021601982568463345,
+            "class_probabilities": {
+                "human": 0.9783576840560043,
+                "ai": 0.021601982568463345,
+                "mixed": 4.0333375532255976e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9783576840560043,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.021601982568463345,
+                    "human": 0.9783576840560043,
+                    "mixed": 4.0333375532255976e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukInAndrew Woodcock's article,he reports that Charles Walker, a 1922 Committee member, said: \"It's serious now but not at a critical level yet.\" Mr Johnson has presided over thousands of unnecessaryCoviddeaths, bungledBrexitnegotiations, headed up a lying, deceitful and divisive government, and Mr Walker says it's not critical!There are many British families suffering the aftermath of Mr Johnson's gross mishandling of the past two years. It is compounded by his, and theConservative Party's, patent lack of empathy for those less able to fend for themselves.His Dickensian attitude towards \"lesser mortals\" permeates throughout his party which, until now, has followed him willingly. I wouldn't pay him the compliment of calling him a bad manager - he couldn't run a bath, let alone a country.And the 1922 Committee's treasurer, Sir Geoffrey Clifton-Brown, euphemistically told us that Mr Johnson ought to stop scoring \"own goals\". But we all know that he ought to have been sent off long ago.The Conservative Party have no coherent plan for Britain's future. Instead, they are willing to leave us rudderless in our descent into a world where football is played without a referee.Keith PooleBasingstokeYouthful civil servantsAs someone who assumed all senior civil servants were like Sir Humphrey in Yes, Prime Minister, I was surprised by how youthful and stubbled the current cabinet secretary, Simon Case, looks.Alan PackCanterburyRishi in CaliforniaSo Rishi Sunak was, by all accounts, enjoying the sun in his California beach house while businesses here collapsed. Did he find, like his colleague Dominic Raab, the sea closed?Nigel GroomWithamLeave retired teachers aloneDoes it not occur to those suggesting thatretired teachers be lured back to fill the Covid-induced gapsthat there is a reason they retired.To keep up to speed with all the latest opinions and comment sign up to our free weekly Voices Dispatches newsletter byclicking hereThey are sick of the endless targets and curriculum changes forced upon the profession by politicians and bureaucrats with no knowledge of education. They are tired of meaningless league tables, arbitrary assessments and being forced to teach by rote to narrow specifications rather than stimulate and inspire their students.They don't want to live in dread of the random arrival of Ofsted hit squads (sorry, \"inspectors\") or spend extra unpaid hours on pointless, tick-box paperwork.Much like their stressed and burnt-out colleagues in the similarly over-managed and under-resourced NHS, they have earned their escape many times over. While they should be welcomed back if they wish to return, they should feel no pressure to do so, and no guilt should they not.Mike MargettsKilsbyRead MoreChristmas shoppers warned about post-Brexit charges on orders from EUTravel to Europe: the post-Brexit passport rulesGovernment delays key Brexit border checksLetters: Boris Johnson's jovial mask has served the hard right very wellLetters: Would the Tories actually be any better under a new leader?Letters: Fear isn't always bad - especially if it's Covid"
+        }
+    ]
+}

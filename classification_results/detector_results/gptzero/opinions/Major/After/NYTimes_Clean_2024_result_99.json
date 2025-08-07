@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 8.386474655708298e-05,
+                    "sentence": "Donald Trump may be a terrible presidential candidate but he's God's gift to quiz writing.Patrick Healy, Deputy Opinion EditorGail, I love your quizzes about politics.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012857449473813176,
+                    "sentence": "Yourlatest onewas published this week.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.420642941724509e-05,
+                    "sentence": "When did you start the quizzes?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.283183317165822e-05,
+                    "sentence": "What inspired you to try that format?Gail Collins, Opinion ColumnistThanks, Patrick!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001386488729622215,
+                    "sentence": "It's been an eon or two.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.124242256395519e-05,
+                    "sentence": "I just found one I did back in 2010.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013662228593602777,
+                    "sentence": "Often, there's something I read that I'd like to share with readers but not for a whole 800-word column.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010104243119712919,
+                    "sentence": "So I just stick the story in a little file called “quiznotes.” Trump claiming he'd been “indicted more than Al Capone” was in there when I wrote this last quiz.Patrick HealyYour multiple-choice answers are very funny ᅳ such as asking what Trump said at a New Hampshire rally and offering “A lot of people say I remind them of Robert Frost” as an answer.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.841909584589303e-05,
+                    "sentence": "Do you shape questions so you can write joke answers?Gail CollinsSometimes, but there's a lot of material these days.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012457497359719127,
+                    "sentence": "Trump may be a terrible presidential candidate, but he's God's gift to quiz writing.Patrick HealyWhat's a favorite question you've asked?Gail CollinsI always feel lucky to be able to revisit some crazy factoid or ungodly statement without having to devote a column to it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014974734222050756,
+                    "sentence": "I randomly called up aquiz from 2019and was reminded that on Independence Day that year, Trump reminded the nation of the way the Revolutionary Army suffered through winter at Valley Forge and then “took over the airports.”Patrick HealyCertain people are recurring characters in quizzes; George Santos is a recent one.Gail CollinsSantos may be a failure as a public official, but he is definitely a quiz superstar.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014541856944561005,
+                    "sentence": "Readers know who he is, and they're ready to start laughing even before the question's over.Patrick HealyOn this week's quiz, one reader commented, “Admit it, Gail.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017415446927770972,
+                    "sentence": "This one was just an elaborate scheme to get a mention of Schuyler Colfax into the paper, right?” What say you?Gail CollinsWell, Colfax doesn't come up a whole lot in normal conversation, and I'm a fan of obscure vice presidents.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021176831796765327,
+                    "sentence": "If I can't get to sleep at night, sometimes I try to see if I can name, say, all the vice presidents from the 19th century.Right now, I'm thinking the next quiz will need an Elbridge Gerry option.Patrick Healy, Deputy Opinion Editor Gail Collins, Opinion Columnist Patrick Healy Gail Collins Patrick Healy Gail Collins Patrick Healy Gail Collins Patrick Healy Gail Collins",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 1.9423489116273474e-12
+                }
+            ],
+            "completely_generated_prob": 0.006608679833334143,
+            "class_probabilities": {
+                "human": 0.9933913201666659,
+                "ai": 0.006608679833334143,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933913201666659,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006608679833334143,
+                    "human": 0.9933913201666659,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Donald Trump may be a terrible presidential candidate but he’s God’s gift to quiz writing.Patrick Healy, Deputy Opinion EditorGail, I love your quizzes about politics. Yourlatest onewas published this week. When did you start the quizzes? What inspired you to try that format?Gail Collins, Opinion ColumnistThanks, Patrick! It’s been an eon or two. I just found one I did back in 2010. Often, there’s something I read that I’d like to share with readers but not for a whole 800-word column. So I just stick the story in a little file called “quiznotes.” Trump claiming he’d been “indicted more than Al Capone” was in there when I wrote this last quiz.Patrick HealyYour multiple-choice answers are very funny — such as asking what Trump said at a New Hampshire rally and offering “A lot of people say I remind them of Robert Frost” as an answer. Do you shape questions so you can write joke answers?Gail CollinsSometimes, but there’s a lot of material these days. Trump may be a terrible presidential candidate, but he’s God’s gift to quiz writing.Patrick HealyWhat’s a favorite question you’ve asked?Gail CollinsI always feel lucky to be able to revisit some crazy factoid or ungodly statement without having to devote a column to it. I randomly called up aquiz from 2019and was reminded that on Independence Day that year, Trump reminded the nation of the way the Revolutionary Army suffered through winter at Valley Forge and then “took over the airports.”Patrick HealyCertain people are recurring characters in quizzes; George Santos is a recent one.Gail CollinsSantos may be a failure as a public official, but he is definitely a quiz superstar. Readers know who he is, and they’re ready to start laughing even before the question’s over.Patrick HealyOn this week’s quiz, one reader commented, “Admit it, Gail. This one was just an elaborate scheme to get a mention of Schuyler Colfax into the paper, right?” What say you?Gail CollinsWell, Colfax doesn’t come up a whole lot in normal conversation, and I’m a fan of obscure vice presidents. If I can’t get to sleep at night, sometimes I try to see if I can name, say, all the vice presidents from the 19th century.Right now, I’m thinking the next quiz will need an Elbridge Gerry option.Patrick Healy, Deputy Opinion Editor Gail Collins, Opinion Columnist Patrick Healy Gail Collins Patrick Healy Gail Collins Patrick Healy Gail Collins Patrick Healy Gail Collins"
+        }
+    ]
+}

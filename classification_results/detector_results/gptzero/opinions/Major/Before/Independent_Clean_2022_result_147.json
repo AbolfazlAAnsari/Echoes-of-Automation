@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0003211580915376544,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002882539702113718,
+                    "sentence": "Please send your letters toletters@independent.co.ukWhen you ask people what they make ofPartygate, a common reply is \"I am more interested in what this government is doing about myenergy billsthan all that party nonsense\".Would you trust this lot of slackers to deal with high inflation or a skyrocketing energy price cap?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003436870174482465,
+                    "sentence": "They instilled anillegal drinking culture in Downing Street, preferring parties to policy.They brazenly flouted their own regulations whilst so many families suffered the loss of loved ones during the pandemic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021754443878307939,
+                    "sentence": "The country has lost all trust in them and right now, we need a leadership that we can rely on - one focused on the extremely hard work ahead,not \"Wine Time Fridays\".Paul MorrisonGlasgowMet PoliceThe mayor of London will beasking the police for an explanation of their latest reporton Partygate.Will he also be asking why they didn't step in and close the parties down?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002382404636591673,
+                    "sentence": "As I understand it, Downing Street and Whitehall are policed more heavily than anywhere else in the UK.Val HattonAddress suppliedNo consequencesCan we assume that in the absence of a suitable replacement,Boris Johnsoncan do as he pleases?Unless a real election-winning candidate presents themselves, he can literally lie, break every law and tear up every agreement with impunity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002128368942067027,
+                    "sentence": "I expect that's why he surrounds himself with such goons - it's career security.The current crop of backbenchers and ministers ruling the roost won't allow anyone with a sliver of discomfort over our current predicament outside the EU to take over, so the pool of talent on offer is distressingly low.He could no doubt stand in the street and gun down a passerby (as Trump similarly suggested).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001709538628347218,
+                    "sentence": "I expect the Met would help him out.Lynn BrymerAshfordMisleading parliamentI refer to John Rentoul's articlepublished yesterday.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00027339602820575237,
+                    "sentence": "Constitutionally, there appears to be no sanction in the event of parliament being knowingly misled by a prime minister, rather a possibility that the prime minister's own party may, at their discretion, force his resignation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003837022522930056,
+                    "sentence": "It also appears to be a guess as to whom his resignation should be offered.The committee of privileges' inquiry into the matter has, on this occasion, a representation of four Tories and two others.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013833907432854176,
+                    "sentence": "We are informed that \"whatever the committee decides, it would have to be voted on by the whole House of Commons.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012768154963850975,
+                    "sentence": "The decisive verdict will be delivered by Conservative MPs\".So there we have it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011912083253264427,
+                    "sentence": "Back to square one.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereThe country needs a written constitution with clear and enforceable rules, not this \"do the decent thing\" pseudo-democratic claptrap that smacks of Eton culture.Since Johnson purged the party of much of its experience and decency, there appears to be no potential successor who is not tainted by association if not by their own actions in office.David NelmesNewportWheelchair for the QueenI totally agree withJames Moore's articleabout the Queen's use of a \"state of the art\" mobility vehicle at the Chelsea Flower Show.I feel very strongly that she should have used an electric wheelchair at the memorial service in Westminster Abbey for Prince Phillip, rather than sneak in through a side entrance on Prince Andrew's arm.Seeing Her Majesty controlling an electric wheelchair down the length of the aisle would have sent a powerful and positive message to all her subjects who have to use wheelchairs, whether manually or electrically propelled, on a daily basis.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007590032648295164,
+                    "sentence": "A missed opportunity, Ma'am.Viv PertLondon",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.021601982568463345,
+            "class_probabilities": {
+                "human": 0.9783576840560043,
+                "ai": 0.021601982568463345,
+                "mixed": 4.0333375532255976e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9783576840560043,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.021601982568463345,
+                    "human": 0.9783576840560043,
+                    "mixed": 4.0333375532255976e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukWhen you ask people what they make ofPartygate, a common reply is \"I am more interested in what this government is doing about myenergy billsthan all that party nonsense\".Would you trust this lot of slackers to deal with high inflation or a skyrocketing energy price cap? They instilled anillegal drinking culture in Downing Street, preferring parties to policy.They brazenly flouted their own regulations whilst so many families suffered the loss of loved ones during the pandemic. The country has lost all trust in them and right now, we need a leadership that we can rely on - one focused on the extremely hard work ahead,not \"Wine Time Fridays\".Paul MorrisonGlasgowMet PoliceThe mayor of London will beasking the police for an explanation of their latest reporton Partygate.Will he also be asking why they didn't step in and close the parties down? As I understand it, Downing Street and Whitehall are policed more heavily than anywhere else in the UK.Val HattonAddress suppliedNo consequencesCan we assume that in the absence of a suitable replacement,Boris Johnsoncan do as he pleases?Unless a real election-winning candidate presents themselves, he can literally lie, break every law and tear up every agreement with impunity. I expect that's why he surrounds himself with such goons - it's career security.The current crop of backbenchers and ministers ruling the roost won't allow anyone with a sliver of discomfort over our current predicament outside the EU to take over, so the pool of talent on offer is distressingly low.He could no doubt stand in the street and gun down a passerby (as Trump similarly suggested). I expect the Met would help him out.Lynn BrymerAshfordMisleading parliamentI refer to John Rentoul's articlepublished yesterday. Constitutionally, there appears to be no sanction in the event of parliament being knowingly misled by a prime minister, rather a possibility that the prime minister's own party may, at their discretion, force his resignation. It also appears to be a guess as to whom his resignation should be offered.The committee of privileges' inquiry into the matter has, on this occasion, a representation of four Tories and two others. We are informed that \"whatever the committee decides, it would have to be voted on by the whole House of Commons. The decisive verdict will be delivered by Conservative MPs\".So there we have it. Back to square one.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereThe country needs a written constitution with clear and enforceable rules, not this \"do the decent thing\" pseudo-democratic claptrap that smacks of Eton culture.Since Johnson purged the party of much of its experience and decency, there appears to be no potential successor who is not tainted by association if not by their own actions in office.David NelmesNewportWheelchair for the QueenI totally agree withJames Moore's articleabout the Queen's use of a \"state of the art\" mobility vehicle at the Chelsea Flower Show.I feel very strongly that she should have used an electric wheelchair at the memorial service in Westminster Abbey for Prince Phillip, rather than sneak in through a side entrance on Prince Andrew's arm.Seeing Her Majesty controlling an electric wheelchair down the length of the aisle would have sent a powerful and positive message to all her subjects who have to use wheelchairs, whether manually or electrically propelled, on a daily basis. A missed opportunity, Ma'am.Viv PertLondon"
+        }
+    ]
+}

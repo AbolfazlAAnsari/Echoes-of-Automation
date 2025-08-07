@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00011484840069897473,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001310219377046451,
+                    "sentence": "Please send your letters toletters@independent.co.ukI don't think anyone can disagree with a country's right to defend itself, and it is accepted that the7 October attack by Hamas on Israelwas an appalling act.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.561251888750121e-05,
+                    "sentence": "However, can what Israel is now doing inGaza and the West Bankbe referred to any longer as “defending itself”?The blocking of aid into the Palestinian territory is not self-defence.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.02130128047429e-05,
+                    "sentence": "Switching off the water is not self-defence.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.036179547663778e-05,
+                    "sentence": "Killing children is not self-defence.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010422687773825601,
+                    "sentence": "Destroying healthcare facilities is not self-defence.The UK and US governments tell Israel how unacceptable thecivilian death tollis, and to “be more careful” - yet they hand Israel more weapons to continue killing.Karen BrittainYorkDon't worry - Rishi is standing byAfter six months of Israeli bombing of Gaza, during which thousands of Palestinians have died a bloody death, all Rishi Sunak can say is that he continues to stand byIsrael's right to defend itself.But all he has done in six months is stand by, watching the continuing bloodshed.Barry M WatsonDoncasterReform UK will be the election winnersSuch is the civil war in the Conservative Party, we now hear that Rishi Sunak has been accused ofpurging Brexit-backing Conservatives.Given that the vast majority of Conservative councillors now think the party is not right-wing enough, this isn't going to go down well.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012916176638100296,
+                    "sentence": "Hence, the only winners here will be Reform UK, who will only split the Tory vote even more at the general election.This in itself will only lead to an even bigger Labour landslide, swiftly followed, no doubt, by an even bigger shift to the right once the Tories are back in opposition and who knows, a Reform takeover that will keep the Tories in opposition for a decade at least.In a phrase, it's called staring into the abyss!Geoffrey BrookingHavantCall the election, PM - for the sake of your familyRishi Sunak wants to spend more time with his daughters because he has said it himself.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021810759790241718,
+                    "sentence": "That is an estimable ambition.They are at a period in their lives when it could make a huge difference to them to feel they are more important to their father than saving the country from the disaster of Tory rule.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009293637704104185,
+                    "sentence": "That is more realistically the job of the opposition, surely?Call the election now, Mr Sunak, and concentrate on your family.Katharine PowellNestonNo more hard LabourI've emailed the Labour Party back three times, telling them to stop sending me begging letters.Since I am an opposition councillor in Middlesbrough, they must be on their uppers!Joan McTigueMiddlesbrough",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.039839419682113825,
+            "class_probabilities": {
+                "human": 0.9601605803178862,
+                "ai": 0.039839419682113825,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601605803178862,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039839419682113825,
+                    "human": 0.9601605803178862,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI don’t think anyone can disagree with a country’s right to defend itself, and it is accepted that the7 October attack by Hamas on Israelwas an appalling act. However, can what Israel is now doing inGaza and the West Bankbe referred to any longer as “defending itself”?The blocking of aid into the Palestinian territory is not self-defence. Switching off the water is not self-defence. Killing children is not self-defence. Destroying healthcare facilities is not self-defence.The UK and US governments tell Israel how unacceptable thecivilian death tollis, and to “be more careful” – yet they hand Israel more weapons to continue killing.Karen BrittainYorkDon’t worry – Rishi is standing byAfter six months of Israeli bombing of Gaza, during which thousands of Palestinians have died a bloody death, all Rishi Sunak can say is that he continues to stand byIsrael’s right to defend itself.But all he has done in six months is stand by, watching the continuing bloodshed.Barry M WatsonDoncasterReform UK will be the election winnersSuch is the civil war in the Conservative Party, we now hear that Rishi Sunak has been accused ofpurging Brexit-backing Conservatives.Given that the vast majority of Conservative councillors now think the party is not right-wing enough, this isn’t going to go down well. Hence, the only winners here will be Reform UK, who will only split the Tory vote even more at the general election.This in itself will only lead to an even bigger Labour landslide, swiftly followed, no doubt, by an even bigger shift to the right once the Tories are back in opposition and who knows, a Reform takeover that will keep the Tories in opposition for a decade at least.In a phrase, it’s called staring into the abyss!Geoffrey BrookingHavantCall the election, PM – for the sake of your familyRishi Sunak wants to spend more time with his daughters because he has said it himself. That is an estimable ambition.They are at a period in their lives when it could make a huge difference to them to feel they are more important to their father than saving the country from the disaster of Tory rule. That is more realistically the job of the opposition, surely?Call the election now, Mr Sunak, and concentrate on your family.Katharine PowellNestonNo more hard LabourI’ve emailed the Labour Party back three times, telling them to stop sending me begging letters.Since I am an opposition councillor in Middlesbrough, they must be on their uppers!Joan McTigueMiddlesbrough"
+        }
+    ]
+}

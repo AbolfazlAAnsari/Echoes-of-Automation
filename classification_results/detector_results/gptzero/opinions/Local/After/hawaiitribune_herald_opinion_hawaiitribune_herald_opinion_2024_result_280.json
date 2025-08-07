@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 9.316833893535659e-05,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Among the attacks the Donald Trump camp is lobbing at presumptive Democratic nominee Kamala Harris is the notion that the vice president failed at her one crucial job in the White House, that of “border czar.” In truth, this was never her role; among other things in her portfolio was helping address the “root causes” of migration from other countries, a hazy task.This involves a lot of circumstances in which the U.S. doesn't have (and probably shouldn't have) direct say.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017948092136066407,
+                    "sentence": "U.S. meddling in South and Central America has often helped produce rather than ameliorate the conditions for migration away.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014936644583940506,
+                    "sentence": "Instability and unrest often end up driving people north, eventually leading to the creation of the transnational gangs that today feed the violence producing new Central American migrants.There are good reasons for even a president to have a light touch when it comes to influencing conditions and policies abroad, a vice president doubly so.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018656141764950007,
+                    "sentence": "Even so, Harris was very clear during her official visit abroad as VP, when she stood in Guatemala and somewhat infamously told migrants “do not come.” It didn't work.Beyond these diplomatic missions and behind-the-scenes coordinating with foreign heads of state and other officials about the best ways to improve local economies and stem outflows, Harris has had no direct operational control of the border.The Biden administration ultimately maintained a lot of the Trump-era approach to the border, including the over-broad and questionably legal Title 42 expulsion scheme.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00026770643307827413,
+                    "sentence": "The deport-them-all crowd assiduously fails to note that border crossings began to rise towards the end of Trump's presidency and have continued on an upward trend for most of Biden's; there is no sharp break before and after.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00024017761461436749,
+                    "sentence": "We have reasons to criticize this approach, but throwing the border open is not one of them.One policy that the White House did roll out to directly target the incentives towards taking a risky overland journey to the border was to implement an orderly humanitarian parole system for Cubans, Nicaraguans, Haitians and Venezuelans, allowing them to secure sponsorship and advance permission instead of just chaotically arriving.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003253970935475081,
+                    "sentence": "Republicans absolutely hated it, proving that the problem wasn't a lack of order.The truth is that while domestic policy can certainly affect international migration flows, it can only move the needle a bit without getting to outright cruelty.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007550123147666454,
+                    "sentence": "Something as horrible as family separation wasn't enough to fundamentally deter people, so they've migrated to fantasizing over use of the military to round people up and even shoot migrants on sight, as Texas Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008515921421349049,
+                    "sentence": "Greg Abbott idly mused about doing earlier this year.Harris did not succeed at somehow stopping all U.S.-bound humanitarian migration because this is not possible, and certainly not so in four years.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010027579963207245,
+                    "sentence": "The bipartisan immigration bill in the Senate, while not perfect, could have helped.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.014924947172403336,
+                    "sentence": "But remember who killed that deal: Donald Trump.Where Biden failed, and where Harris should commit to a better policy is when folks actually do arrive, such as by providing federal funding and logistical support for cities like NYC to help assimilate migrants and turn them into an economic and cultural boon.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011331264860928059,
+                    "sentence": "Now that would be smart.ᅳ New York Daily News",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Among the attacks the Donald Trump camp is lobbing at presumptive Democratic nominee Kamala Harris is the notion that the vice president failed at her one crucial job in the White House, that of “border czar.” In truth, this was never her role; among other things in her portfolio was helping address the “root causes” of migration from other countries, a hazy task.This involves a lot of circumstances in which the U.S. doesn’t have (and probably shouldn’t have) direct say. U.S. meddling in South and Central America has often helped produce rather than ameliorate the conditions for migration away. Instability and unrest often end up driving people north, eventually leading to the creation of the transnational gangs that today feed the violence producing new Central American migrants.There are good reasons for even a president to have a light touch when it comes to influencing conditions and policies abroad, a vice president doubly so. Even so, Harris was very clear during her official visit abroad as VP, when she stood in Guatemala and somewhat infamously told migrants “do not come.” It didn’t work.Beyond these diplomatic missions and behind-the-scenes coordinating with foreign heads of state and other officials about the best ways to improve local economies and stem outflows, Harris has had no direct operational control of the border.The Biden administration ultimately maintained a lot of the Trump-era approach to the border, including the over-broad and questionably legal Title 42 expulsion scheme. The deport-them-all crowd assiduously fails to note that border crossings began to rise towards the end of Trump’s presidency and have continued on an upward trend for most of Biden’s; there is no sharp break before and after. We have reasons to criticize this approach, but throwing the border open is not one of them.One policy that the White House did roll out to directly target the incentives towards taking a risky overland journey to the border was to implement an orderly humanitarian parole system for Cubans, Nicaraguans, Haitians and Venezuelans, allowing them to secure sponsorship and advance permission instead of just chaotically arriving. Republicans absolutely hated it, proving that the problem wasn’t a lack of order.The truth is that while domestic policy can certainly affect international migration flows, it can only move the needle a bit without getting to outright cruelty. Something as horrible as family separation wasn’t enough to fundamentally deter people, so they’ve migrated to fantasizing over use of the military to round people up and even shoot migrants on sight, as Texas Gov. Greg Abbott idly mused about doing earlier this year.Harris did not succeed at somehow stopping all U.S.-bound humanitarian migration because this is not possible, and certainly not so in four years. The bipartisan immigration bill in the Senate, while not perfect, could have helped. But remember who killed that deal: Donald Trump.Where Biden failed, and where Harris should commit to a better policy is when folks actually do arrive, such as by providing federal funding and logistical support for cities like NYC to help assimilate migrants and turn them into an economic and cultural boon. Now that would be smart.— New York Daily News"
+        }
+    ]
+}

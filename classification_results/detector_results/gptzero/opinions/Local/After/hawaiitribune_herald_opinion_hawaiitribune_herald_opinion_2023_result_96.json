@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.006679919082671404,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|76.748°Women have immense potential to make the entire world more prosperous ᅳ yet despite decades of progress, that potential is yet to be fully realized.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005661537405103445,
+                    "sentence": "Harvard Professor Claudia Goldin has spent her career illuminating not only the obstacles that women face but also how to overcome them.For these efforts, she is the richly deserving winner of the 2023 Nobel Memorial Prize in Economics.Goldin is a trailblazer on multiple levels.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012752379290759563,
+                    "sentence": "Of the 93 economic laureates since the prize's inception in 1969, she's only the third woman (and the first to be recognized solo, without co-recipients).She was the first tenured female professor in the Harvard economics department.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004582476336508989,
+                    "sentence": "And at a time when leading academics focused on building elegant but often deeply flawed mathematical models of the economy, she stuck to the painstaking work of collecting and analyzing empirical data to establish the truth.After studying the mechanisms of slavery and the cost of the American Civil War, she turned to the topic that would define her career: women and work.By parsing data going as far back as the late 18th Century, she discovered (among other things) that female labor-force participation doesn't necessarily increase with economic growth, and that education alone won't eliminate the gender pay gap.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004084396176040173,
+                    "sentence": "Thus, other policies are needed to help women and the economy reach their full potential.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005673831328749657,
+                    "sentence": "Depending on a country's situation, these might involve women's expectations, access to contraception, parenting roles or the flexibility of work arrangements.Goldin's insights have helped guide policymakers' efforts to promote gender equality ᅳ which, if achieved, could add more than 50% to the economic output of some countries by expanding the labor force and better allocating human capital, according to one estimate.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011307349428534508,
+                    "sentence": "It could also boost incomes for both women and men.Yet adoption of even plainly beneficial measures, such as child-care subsidies, remains uneven ᅳ notably in the U.S., which last month allowed emergency pandemic-era child-care funding to expire, potentially leaving millions in the lurch.Aside from her research, Goldin has sought to address a stark disparity in her own field: Women comprise the majority of undergraduate students, but only one in four economics majors.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013771162775810808,
+                    "sentence": "True to form, Goldin's initiative ᅳ which entails, for example, targeted information sessions and mentoring ᅳ is structured as a controlled experiment, to establish what actually works.Although the results have so far been mixed, it has boosted women's enrollment in economics in some colleges and provided others with valuable information on how best to proceed.While Goldin often emphasizes how far women have come, her research also quantifies the struggles that remain.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021102128084748983,
+                    "sentence": "Women still earn less than men for the same work ᅳ particularly in high-paying professions such as law and finance, which require long hours and a lot of face time.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016656810475979,
+                    "sentence": "By responsibly measuring the problem, she helps make further progress possible.It will take more time for women to achieve true equity in the workplace.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00020312155538704246,
+                    "sentence": "But when that happens, they and all who benefit from their contributions will to a crucial extent have Claudia Goldin to thank.ᅳBloomberg OpinionNEW YORK ᅳ Lou Piniella was back in uniform Saturday, wearing pinstripes and the number 14 for Old-Timers' Day at Yankee Stadium.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001379817258566618,
+                    "sentence": "Piniella, who turns 81 next week, earned his fame in the Bronx as a two-time World Series champion but spent much of his managing career in a feisty rivalry with the Y",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.021033675306985543,
+            "class_probabilities": {
+                "human": 0.9789663246930144,
+                "ai": 0.021033675306985543,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9789663246930144,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.021033675306985543,
+                    "human": 0.9789663246930144,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|76.748°Women have immense potential to make the entire world more prosperous — yet despite decades of progress, that potential is yet to be fully realized. Harvard Professor Claudia Goldin has spent her career illuminating not only the obstacles that women face but also how to overcome them.For these efforts, she is the richly deserving winner of the 2023 Nobel Memorial Prize in Economics.Goldin is a trailblazer on multiple levels. Of the 93 economic laureates since the prize’s inception in 1969, she’s only the third woman (and the first to be recognized solo, without co-recipients).She was the first tenured female professor in the Harvard economics department. And at a time when leading academics focused on building elegant but often deeply flawed mathematical models of the economy, she stuck to the painstaking work of collecting and analyzing empirical data to establish the truth.After studying the mechanisms of slavery and the cost of the American Civil War, she turned to the topic that would define her career: women and work.By parsing data going as far back as the late 18th Century, she discovered (among other things) that female labor-force participation doesn’t necessarily increase with economic growth, and that education alone won’t eliminate the gender pay gap. Thus, other policies are needed to help women and the economy reach their full potential. Depending on a country’s situation, these might involve women’s expectations, access to contraception, parenting roles or the flexibility of work arrangements.Goldin’s insights have helped guide policymakers’ efforts to promote gender equality — which, if achieved, could add more than 50% to the economic output of some countries by expanding the labor force and better allocating human capital, according to one estimate. It could also boost incomes for both women and men.Yet adoption of even plainly beneficial measures, such as child-care subsidies, remains uneven — notably in the U.S., which last month allowed emergency pandemic-era child-care funding to expire, potentially leaving millions in the lurch.Aside from her research, Goldin has sought to address a stark disparity in her own field: Women comprise the majority of undergraduate students, but only one in four economics majors. True to form, Goldin’s initiative — which entails, for example, targeted information sessions and mentoring — is structured as a controlled experiment, to establish what actually works.Although the results have so far been mixed, it has boosted women’s enrollment in economics in some colleges and provided others with valuable information on how best to proceed.While Goldin often emphasizes how far women have come, her research also quantifies the struggles that remain. Women still earn less than men for the same work — particularly in high-paying professions such as law and finance, which require long hours and a lot of face time. By responsibly measuring the problem, she helps make further progress possible.It will take more time for women to achieve true equity in the workplace. But when that happens, they and all who benefit from their contributions will to a crucial extent have Claudia Goldin to thank.—Bloomberg OpinionNEW YORK — Lou Piniella was back in uniform Saturday, wearing pinstripes and the number 14 for Old-Timers’ Day at Yankee Stadium. Piniella, who turns 81 next week, earned his fame in the Bronx as a two-time World Series champion but spent much of his managing career in a feisty rivalry with the Y"
+        }
+    ]
+}

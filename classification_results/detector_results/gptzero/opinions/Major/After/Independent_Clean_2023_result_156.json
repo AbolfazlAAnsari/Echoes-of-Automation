@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00025237552472390234,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000331797607941553,
+                    "sentence": "Please send your letters toletters@independent.co.ukFor 13 years this government has made mistake after mistake, ensuring that Britain has become a shadow of its former self.A failing health system, soaring inflation, industry strikes, compromises to international and local travel... it all points to a Tory party that has lost its way and lacks the ability to offer sensible and competent governance.What's more, our taxes have been paying for all this incompetence and failure.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002611649688333273,
+                    "sentence": "All Tory efforts to govern have been just short-term remedies, righting the wrongs they have already caused.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019616397912614048,
+                    "sentence": "Theirendless excuses for failureare astounding in their bravado.It is laughable thatRishi Sunak pats himselfon the back for reducing the tide of refugees attempting to find sanctuary in Britain.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016313463856931776,
+                    "sentence": "He and his MPs will no doubt trumpet the fact all over the place but we know, and he has been informed, that the reduction in small boats crossing the Channel is mostly down to theweather.Elsewhere, theuse of food banks is rising, strikes are continuing, healthcare is diminishing, water utilities are still polluting our ecosystem, and conglomerates are paying less in tax than people.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021515836124308407,
+                    "sentence": "There is obviously a flaw in the government's thinking on how to run a country which provides essential living and working conditions for its people.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018598619499243796,
+                    "sentence": "We, the electorate, must consider carefully the manifestos presented to us by the various parties in 2024, before selecting the right party to take us forward.Keith PooleBasingstokeBringing Oxford into the 21st centuryAs a former student of Mansfield College at the University of Oxford, I want to say “well done” to them for appointing the UK's firstprofessor of LGBT+ History.Mansfield is a small college but, particularly in recent years, has been a trailblazer in plotting a course that deviates considerably from older more traditional houses in the university.Whether it is admitting a high proportion ofstate school applicantsor promoting the new Bonavero Institute of Human Rights, they are certainly bringing Oxford fully into the 21st century.Long may they flourish!Andrew McLuskeyAddress SuppliedBetter the devil you knowFor me, electric cars area non-starter.Too expensive, too inconvenient for rural areas, and far too boring to pay £30k plus for.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003871983499266207,
+                    "sentence": "I have friends withelectric vehicles,and all of them wear their “eco” badges with pride, but sneakily still keep a fossil-fuelled motor for long drives, because frankly the misery and grief associated with the dire range and poor recharging options make them difficult to live with.No doubt the greenies will shriek from the hilltops, but until the electric vehicle market gets real and stops lying that their bland offerings are\"carbon neutral\" zero polluters, I'll stick to the devil I know.Steve MackinderDenverTry again, fail againThe Tory party boasted for decades that they were the party best able to defend the country's citizens.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005756415775977075,
+                    "sentence": "Having failed lamentably toprepare for and manage the impactof the recentpandemic, they now want to prevent us fromlearning how bestto deal with the next one.Mike WebsterLancaster",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.01281881855424871,
+            "class_probabilities": {
+                "human": 0.9871811814457513,
+                "ai": 0.01281881855424871,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9871811814457513,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01281881855424871,
+                    "human": 0.9871811814457513,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukFor 13 years this government has made mistake after mistake, ensuring that Britain has become a shadow of its former self.A failing health system, soaring inflation, industry strikes, compromises to international and local travel... it all points to a Tory party that has lost its way and lacks the ability to offer sensible and competent governance.What’s more, our taxes have been paying for all this incompetence and failure. All Tory efforts to govern have been just short-term remedies, righting the wrongs they have already caused. Theirendless excuses for failureare astounding in their bravado.It is laughable thatRishi Sunak pats himselfon the back for reducing the tide of refugees attempting to find sanctuary in Britain. He and his MPs will no doubt trumpet the fact all over the place but we know, and he has been informed, that the reduction in small boats crossing the Channel is mostly down to theweather.Elsewhere, theuse of food banks is rising, strikes are continuing, healthcare is diminishing, water utilities are still polluting our ecosystem, and conglomerates are paying less in tax than people. There is obviously a flaw in the government’s thinking on how to run a country which provides essential living and working conditions for its people. We, the electorate, must consider carefully the manifestos presented to us by the various parties in 2024, before selecting the right party to take us forward.Keith PooleBasingstokeBringing Oxford into the 21st centuryAs a former student of Mansfield College at the University of Oxford, I want to say “well done” to them for appointing the UK’s firstprofessor of LGBT+ History.Mansfield is a small college but, particularly in recent years, has been a trailblazer in plotting a course that deviates considerably from older more traditional houses in the university.Whether it is admitting a high proportion ofstate school applicantsor promoting the new Bonavero Institute of Human Rights, they are certainly bringing Oxford fully into the 21st century.Long may they flourish!Andrew McLuskeyAddress SuppliedBetter the devil you knowFor me, electric cars area non-starter.Too expensive, too inconvenient for rural areas, and far too boring to pay £30k plus for. I have friends withelectric vehicles,and all of them wear their “eco” badges with pride, but sneakily still keep a fossil-fuelled motor for long drives, because frankly the misery and grief associated with the dire range and poor recharging options make them difficult to live with.No doubt the greenies will shriek from the hilltops, but until the electric vehicle market gets real and stops lying that their bland offerings are\"carbon neutral\" zero polluters, I’ll stick to the devil I know.Steve MackinderDenverTry again, fail againThe Tory party boasted for decades that they were the party best able to defend the country’s citizens. Having failed lamentably toprepare for and manage the impactof the recentpandemic, they now want to prevent us fromlearning how bestto deal with the next one.Mike WebsterLancaster"
+        }
+    ]
+}

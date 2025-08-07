@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 4.221271228743717e-05,
+                    "sentence": "EDITOR'S LETTER: Nations neighbouring Ukraine have made some logistical preparations for the humanitarian fallout of a full-on Russian invasion, writes Borzou DaragahiFor nearly a decade now, Europe has been wrangling over influxes ofrefugeesescaping war and deprivation in the Middle East and South Asia.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.9797552997479215e-05,
+                    "sentence": "Now, there is the prospect of a fresh wave of refugees - this time fromUkraine.Nations neighbouring Ukraine have made some logistical preparations for the humanitarian fallout of a full-on Russian invasion of the nation of 44 million.Romania, the Nato and European Union member which shares the longest border with Ukraine, has said that it is bracing for the impact ofVladimir Putin's military adventure.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.0484856324619614e-05,
+                    "sentence": "Perhaps 150,000 ethnic Romanians live in Ukraine.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.7467838410520926e-05,
+                    "sentence": "\"There are measures in place to ensure the necessary support for a flow of refugees,\" stated Romanian prime minister Nicolae Ciuca on Monday, without specifying the measures.Slovakia has also prepared paperwork that outlines plans to grant Ukrainians refugee status, but has not made the documents public.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.2790219847811386e-05,
+                    "sentence": "Polish officials, too, have been \"quietly working away\" on the refugee issue, deputy interior minister Maciej Wasik told German broadcaster DW, but have not made any announcements \"because we don't want to stir up emotions\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.2258751161862165e-05,
+                    "sentence": "But remaining quiet in hopes of preventing political fallout and public alarm may be a grave mistake.Russia and its client Belarus, which share the longest border with Ukraine, have little to worry about in terms of refugees.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06661410629749298,
+                    "sentence": "No one except those under the authority of pro-Kremlin gunmen controlling Ukraine's east would ever flee to Russia.We also know from experience in the Middle East that Putin cynically weaponises refugees and refugee flows as political instruments to sow division and political toxicity in other nations.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09317389130592346,
+                    "sentence": "On the one hand, he bombs hospitals, schools and homes, forcing civilians to flee.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.16943058371543884,
+                    "sentence": "On the other hand, he bankrolls and signal boosts far-right anti-immigrant parties where they flee, reaping political benefits.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking herePutin can also use refugees to win other concessions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.19695836305618286,
+                    "sentence": "Recall how just a few months ago, Putin toadie Alexander Lukashenko, the strongman who lords over Belarus, flooded the border of Poland with refugees, in an attempt to blackmail other countries into easing sanctions against him for his 2020 electoral coup.In addition to preparing tents, blankets and food provisions, western leaders and media outlets need to lay out how Putin uses refugees to destabilise other nations, and \"stir up\" emotions such as compassion and empathy for those who may seek shelter abroad.Yours,Borzou DaragahiInternational correspondent",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.058471088130131146,
+            "class_probabilities": {
+                "human": 0.9415289118698688,
+                "ai": 0.058471088130131146,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9415289118698688,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.058471088130131146,
+                    "human": 0.9415289118698688,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "EDITOR'S LETTER: Nations neighbouring Ukraine have made some logistical preparations for the humanitarian fallout of a full-on Russian invasion, writes Borzou DaragahiFor nearly a decade now, Europe has been wrangling over influxes ofrefugeesescaping war and deprivation in the Middle East and South Asia. Now, there is the prospect of a fresh wave of refugees - this time fromUkraine.Nations neighbouring Ukraine have made some logistical preparations for the humanitarian fallout of a full-on Russian invasion of the nation of 44 million.Romania, the Nato and European Union member which shares the longest border with Ukraine, has said that it is bracing for the impact ofVladimir Putin's military adventure. Perhaps 150,000 ethnic Romanians live in Ukraine.\"There are measures in place to ensure the necessary support for a flow of refugees,\" stated Romanian prime minister Nicolae Ciuca on Monday, without specifying the measures.Slovakia has also prepared paperwork that outlines plans to grant Ukrainians refugee status, but has not made the documents public. Polish officials, too, have been \"quietly working away\" on the refugee issue, deputy interior minister Maciej Wasik told German broadcaster DW, but have not made any announcements \"because we don't want to stir up emotions\". But remaining quiet in hopes of preventing political fallout and public alarm may be a grave mistake.Russia and its client Belarus, which share the longest border with Ukraine, have little to worry about in terms of refugees. No one except those under the authority of pro-Kremlin gunmen controlling Ukraine's east would ever flee to Russia.We also know from experience in the Middle East that Putin cynically weaponises refugees and refugee flows as political instruments to sow division and political toxicity in other nations. On the one hand, he bombs hospitals, schools and homes, forcing civilians to flee. On the other hand, he bankrolls and signal boosts far-right anti-immigrant parties where they flee, reaping political benefits.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking herePutin can also use refugees to win other concessions. Recall how just a few months ago, Putin toadie Alexander Lukashenko, the strongman who lords over Belarus, flooded the border of Poland with refugees, in an attempt to blackmail other countries into easing sanctions against him for his 2020 electoral coup.In addition to preparing tents, blankets and food provisions, western leaders and media outlets need to lay out how Putin uses refugees to destabilise other nations, and \"stir up\" emotions such as compassion and empathy for those who may seek shelter abroad.Yours,Borzou DaragahiInternational correspondent"
+        }
+    ]
+}

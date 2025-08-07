@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0003383513540029526,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00023867370327934623,
+                    "sentence": "Please send your letters toletters@independent.co.ukSo, as if splits on Europe and the economy were not bad enough, we now have asplit between two former prime ministers, namely the foreign secretary,David Cameron, andBoris Johnson.This time it's over the arming of Israel.The fact that Boris Johnson seems to be siding with the likes of Suella Braverman, Priti Patel and Eric Pickles does nothing but undermine the government at a time when it instead should be publishing the legal advice related to arms sales, and then abiding by it.Geoffrey BrookingHampshireWe can still stop climate change - why are our leaders so reluctant to?My old bones will relish theincoming warmer weather, but I am concerned that the summer will bring devastating heatwaves around the world.Already, schools in the Philippines capital of Manila have closed as a result of dangerously high temperatures, and Britain today will experience record-breaking April temperatures.There are urgent matters to attend to in wartorn parts of the world, etc.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021047043264843524,
+                    "sentence": "However, the world has been burning up for the best part of 60 years and still, little has been done to reverse this frightening trend.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00020986584422644228,
+                    "sentence": "We regularly have updates from scientists that the weather dial is rising, storms are more severe, water levels are rising, the polar caps are reducing, floods are ever-present in low-lying countries.And yet, it appears that governments havecontinued to ignore that time is running outand soon the tipping point will be passed when we will not be able to change the level of destruction that will ensue.I wonder just what it will take to jumpstart governments into real progress in reducing fossil fuel use, increasing greener methods of producing energy and taking real control of our future.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00035662867594510317,
+                    "sentence": "To date, it has not been a concerted, orchestrated effort to control our climate which is a shame as we have the wherewithal to achieve the reduction of factors contributing to our rising temperature.Keith PooleBasingstokeBiden can't have it both ways with IsraelWhile President Biden has, finally, called for animmediate ceasefire in Gaza, it appears to be for political reasons ᅳ for re-election purposes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005899789975956082,
+                    "sentence": "(Where's morality and humanity?!)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04162387177348137,
+                    "sentence": "A sizeable chunk of traditionally Democrat progressive voters, who are adamantly against the unrelenting Gaza bombing by Israel, are credibly threatening to abandon Biden at the ballot box.TheBiden administrationand too many Democratic senators and congressional representatives have wanted it both ways: to unconditionally heavily arm the Israeli state against Gaza and to keep the anti-war voters actively onside come election time.It's doubtful that Arabic/Palestinian/Muslim voters would collectively compromise, by giving Biden a pass on his blatant hypocrisy towards the current situation in Gaza.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07296186685562134,
+                    "sentence": "And I'd agree with them.Could it be that Israel and Westerners in general, including our news media, have been getting too accustomed to so many Palestinian deaths over many decades of violent struggle with Israel?Frank Sterle JrAddress suppliedOff the cuffWhile I find thediscussion around the PM's too-short trousersamusing, I can't help but think that these kinds of superficial digs miss the real point.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0397644080221653,
+                    "sentence": "I don't care about howRishi Sunakdresses - he can wear whatever he likes, so long as he finally does the job we pay him for and fixes the mess his government has created!His trousers may be short, but his tenure as PM has gone on far too long!Stephen BloomCanterbury",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.039839419682113825,
+            "class_probabilities": {
+                "human": 0.9601605803178862,
+                "ai": 0.039839419682113825,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601605803178862,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039839419682113825,
+                    "human": 0.9601605803178862,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukSo, as if splits on Europe and the economy were not bad enough, we now have asplit between two former prime ministers, namely the foreign secretary,David Cameron, andBoris Johnson.This time it’s over the arming of Israel.The fact that Boris Johnson seems to be siding with the likes of Suella Braverman, Priti Patel and Eric Pickles does nothing but undermine the government at a time when it instead should be publishing the legal advice related to arms sales, and then abiding by it.Geoffrey BrookingHampshireWe can still stop climate change – why are our leaders so reluctant to?My old bones will relish theincoming warmer weather, but I am concerned that the summer will bring devastating heatwaves around the world.Already, schools in the Philippines capital of Manila have closed as a result of dangerously high temperatures, and Britain today will experience record-breaking April temperatures.There are urgent matters to attend to in wartorn parts of the world, etc. However, the world has been burning up for the best part of 60 years and still, little has been done to reverse this frightening trend. We regularly have updates from scientists that the weather dial is rising, storms are more severe, water levels are rising, the polar caps are reducing, floods are ever-present in low-lying countries.And yet, it appears that governments havecontinued to ignore that time is running outand soon the tipping point will be passed when we will not be able to change the level of destruction that will ensue.I wonder just what it will take to jumpstart governments into real progress in reducing fossil fuel use, increasing greener methods of producing energy and taking real control of our future. To date, it has not been a concerted, orchestrated effort to control our climate which is a shame as we have the wherewithal to achieve the reduction of factors contributing to our rising temperature.Keith PooleBasingstokeBiden can’t have it both ways with IsraelWhile President Biden has, finally, called for animmediate ceasefire in Gaza, it appears to be for political reasons — for re-election purposes. (Where’s morality and humanity?!) A sizeable chunk of traditionally Democrat progressive voters, who are adamantly against the unrelenting Gaza bombing by Israel, are credibly threatening to abandon Biden at the ballot box.TheBiden administrationand too many Democratic senators and congressional representatives have wanted it both ways: to unconditionally heavily arm the Israeli state against Gaza and to keep the anti-war voters actively onside come election time.It’s doubtful that Arabic/Palestinian/Muslim voters would collectively compromise, by giving Biden a pass on his blatant hypocrisy towards the current situation in Gaza. And I’d agree with them.Could it be that Israel and Westerners in general, including our news media, have been getting too accustomed to so many Palestinian deaths over many decades of violent struggle with Israel?Frank Sterle JrAddress suppliedOff the cuffWhile I find thediscussion around the PM’s too-short trousersamusing, I can’t help but think that these kinds of superficial digs miss the real point. I don’t care about howRishi Sunakdresses – he can wear whatever he likes, so long as he finally does the job we pay him for and fixes the mess his government has created!His trousers may be short, but his tenure as PM has gone on far too long!Stephen BloomCanterbury"
+        }
+    ]
+}

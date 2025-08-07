@@ -1,0 +1,160 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0011822986416518688,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°The World Health Organization has declared a new global public health emergency for an outbreak of deadly mpox, primarily in Congo.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008084691944532096,
+                    "sentence": "In response, wealthy nations must do everything possible to stop the disease's spread.Mpox, formerly known as the monkeypox virus, made the news in 2022 when a global outbreak, including in the United States, prompted a public health emergency.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007950285798870027,
+                    "sentence": "But by May 2023, cases in wealthy nations had receded, largely because of vaccination drives and behavior change among those most at risk of contracting the virus.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019051152048632503,
+                    "sentence": "The WHO ended that mpox emergency.But the virus hadn't disappeared, and it's now back on the rise, potentially with a vengeance.The mpox virus has two types: a much deadlier Clade I and a less severe Clade II.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016466688830405474,
+                    "sentence": "In 2022, the United States experienced an outbreak of Clade II.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010124673135578632,
+                    "sentence": "But lacking support for eradication efforts, including vaccination drives, Clade II simmered in African countries.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002012786688283086,
+                    "sentence": "Worse, Clade I ᅳ estimated to have a 3% to 6% fatality rate ᅳ also spread, though it was confined to the war-torn Congo.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00263073667883873,
+                    "sentence": "Despite all the global attention heaped on this disease at the time, African countries never received enough vaccines or sufficient support to eradicate the virus.Now, Clade I cases are sharply on the rise in Congo, where the disease has claimed the lives more than 1,000 people, most of them children.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00047808847739361227,
+                    "sentence": "It has reached more urban areas.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005850928137078881,
+                    "sentence": "Cases have begun to pop up in other African countries, including Burundi, Kenya and Uganda.So far, wealthy nations have failed to send enough vaccines to counter the disease's quick spread.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007845941581763327,
+                    "sentence": "The African Union's health agency has said it has only about 200,000 mpox vaccine doses available out of the 10 million needed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005278882454149425,
+                    "sentence": "Global vaccine alliance GAVI told Reuters it needs $84 million to respond in areas at most risk, but it has raised only $8 million.But providing vaccines alone is not enough.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005623956676572561,
+                    "sentence": "In Congo, stigma, regulatory obstacles and other crises ᅳ including measles and cholera outbreaks ᅳ have made a coordinated response difficult.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004996255156584084,
+                    "sentence": "The country finally approved two mpox vaccines just a few weeks ago, Reuters reported, but it has only about 65,000 vaccines available in the short term (for a population of about 100 million people), and vaccination campaigns appear unlikely to begin before October.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008980085840448737,
+                    "sentence": "Comprehensive international support may be the only thing that could beat back the disease.Will we get it right this time around?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012241383083164692,
+                    "sentence": "If not, the United States and the rest of the world may get an unfortunate shot at a Round 2 of the virus too, perhaps in its much deadlier form.This article originally appeared inThe New York Times.© 2024 The New York Times Company",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 16,
+                    "completely_generated_prob": 3.4496480286678e-14
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°The World Health Organization has declared a new global public health emergency for an outbreak of deadly mpox, primarily in Congo. In response, wealthy nations must do everything possible to stop the disease’s spread.Mpox, formerly known as the monkeypox virus, made the news in 2022 when a global outbreak, including in the United States, prompted a public health emergency. But by May 2023, cases in wealthy nations had receded, largely because of vaccination drives and behavior change among those most at risk of contracting the virus. The WHO ended that mpox emergency.But the virus hadn’t disappeared, and it’s now back on the rise, potentially with a vengeance.The mpox virus has two types: a much deadlier Clade I and a less severe Clade II. In 2022, the United States experienced an outbreak of Clade II. But lacking support for eradication efforts, including vaccination drives, Clade II simmered in African countries. Worse, Clade I — estimated to have a 3% to 6% fatality rate — also spread, though it was confined to the war-torn Congo. Despite all the global attention heaped on this disease at the time, African countries never received enough vaccines or sufficient support to eradicate the virus.Now, Clade I cases are sharply on the rise in Congo, where the disease has claimed the lives more than 1,000 people, most of them children. It has reached more urban areas. Cases have begun to pop up in other African countries, including Burundi, Kenya and Uganda.So far, wealthy nations have failed to send enough vaccines to counter the disease’s quick spread. The African Union’s health agency has said it has only about 200,000 mpox vaccine doses available out of the 10 million needed. Global vaccine alliance GAVI told Reuters it needs $84 million to respond in areas at most risk, but it has raised only $8 million.But providing vaccines alone is not enough. In Congo, stigma, regulatory obstacles and other crises — including measles and cholera outbreaks — have made a coordinated response difficult. The country finally approved two mpox vaccines just a few weeks ago, Reuters reported, but it has only about 65,000 vaccines available in the short term (for a population of about 100 million people), and vaccination campaigns appear unlikely to begin before October. Comprehensive international support may be the only thing that could beat back the disease.Will we get it right this time around? If not, the United States and the rest of the world may get an unfortunate shot at a Round 2 of the virus too, perhaps in its much deadlier form.This article originally appeared inThe New York Times.© 2024 The New York Times Company"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.032144904136657715,
+                    "sentence": "'Fox &amp; Friends' host returns with another recipe from 'The Happy in a Hurry Cookbook'Thanksgiving is less than a week away and if you're looking for a way to make your table really special, add a pound of bacon and a turkey breast to your shopping list and make thisfantasticrecipe from the holiday chapter of our  \"The Happy in a Hurry Cookbook, 100-Plus Fast and Easy New Recipes That Taste Like Home.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.044226497411727905,
+                    "sentence": "\"The good thing about this recipe is that everybody is looking for a smaller Thanksgiving feast which means a smaller turkey this year.Like everything else during the pandemic, we're putting a little something extra into what we do and if you're going to make a turkey, even if it's just for two, it's got to be terrific.Life is too short to have a tough turkey.And braided with bacon and smoked for a couple of hours this one is off the charts!Honestly, we've all run out of things to cook during the pandemic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.038052503019571304,
+                    "sentence": "If you're looking for something different, perhaps as a gift for a friend or loved one this holiday season, there are 100+ new easy and delicious ideas in our \"Happy in a Hurry Cookbook,\"click here to order.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.025606004521250725,
+                    "sentence": "STEVE DOOCYSteve Doocy currently serves as co-host of FOX News Channel's (FNC)FOX & Friends(weekdays 6-9AM/ET) alongside Ainsley Earhardt and Brian Kilmeade.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 4,
+                    "completely_generated_prob": 0.0006564766595293492
+                }
+            ],
+            "completely_generated_prob": 0.06042626278398002,
+            "class_probabilities": {
+                "human": 0.9395737372160199,
+                "ai": 0.06042626278398002,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9395737372160199,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.06042626278398002,
+                    "human": 0.9395737372160199,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       'Fox &amp; Friends' host returns with another recipe from 'The Happy in a Hurry Cookbook'Thanksgiving is less than a week away and if you’re looking for a way to make your table really special, add a pound of bacon and a turkey breast to your shopping list and make thisfantasticrecipe from the holiday chapter of our  \"The Happy in a Hurry Cookbook, 100-Plus Fast and Easy New Recipes That Taste Like Home.\"The good thing about this recipe is that everybody is looking for a smaller Thanksgiving feast which means a smaller turkey this year.Like everything else during the pandemic, we’re putting a little something extra into what we do and if you're going to make a turkey, even if it’s just for two, it’s got to be terrific.Life is too short to have a tough turkey.And braided with bacon and smoked for a couple of hours this one is off the charts!Honestly, we’ve all run out of things to cook during the pandemic. If you’re looking for something different, perhaps as a gift for a friend or loved one this holiday season, there are 100+ new easy and delicious ideas in our \"Happy in a Hurry Cookbook,\"click here to order. STEVE DOOCYSteve Doocy currently serves as co-host of FOX News Channel's (FNC)FOX & Friends(weekdays 6-9AM/ET) alongside Ainsley Earhardt and Brian Kilmeade.   "
+        }
+    ]
+}

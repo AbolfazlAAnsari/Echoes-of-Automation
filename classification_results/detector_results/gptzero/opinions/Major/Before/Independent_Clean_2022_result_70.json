@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00015372743655461818,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001170069444924593,
+                    "sentence": "Please send your letters toletters@independent.co.ukAt the end of the Second World War,Russiaand the UK were allies.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002047809975920245,
+                    "sentence": "British lives were lost trying to help the Russian people as the convoys went round the North Cape.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011046730651287362,
+                    "sentence": "Millions of Russian lives were lost.Russia is still a great country.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012372361379675567,
+                    "sentence": "It is part of both Europe and Asia, the only country in two continents.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001009767729556188,
+                    "sentence": "As such, it could play a leading role in uniting both areas, while we fight our greatest problem - climate change.Please Russia, leaveUkraineand take on your greatest role yet.Margaret MannLondonRefugees unwelcomeGiven the appalling way this government has treated - and is treating - refugees from war zones, do they have some sort of pathological phobia of the word \"immigrant\", which renders our leaders incapable of rational thought and action?I struggle otherwise to make any sense of the cruel, contemptuous and vicious actions of the government in this matter.Joanna PallisterDurham CityZelensky's Commons addressWhat a superb, impassioned, and hard-hitting address from the Ukrainian president, Volodymyr Zelensky, to parliament.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010240334086120129,
+                    "sentence": "I was especially attracted to his Churchillian \"fighting the on the beaches\" analogy.For all their thunderous applause, however, how unfortunate - to put it mildly - that the current prime minister and his immediate acolytes aren't even remotely close to the power of his venerated predecessor, either morally or intellectually.Jeremy RedmanLondonRefugees \"not having the right papers\" reminds me of my father-in-law, actor Herbert Lom, whose Czech girlfriend Didi was refused entry in 1938.She was murdered in Auschwitz.Mike BorLondonThe Nasty PartyPriti Patel, attacking Ireland for its humanityin accepting Ukrainian refugees while at the same time erecting barriers that Nigel Farage would have been proud of to stop them coming to the UK, has done herself no harm in the race to lead the Nasty Party.John SimpsonRoss on WyeCoexistence and compromiseIn the closing document at the BucharestNatoSummit in 2008, America insisted that Georgia and Ukraine may, or will, join the Nato alliance.Russia objected for obvious reasons.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014425964036490768,
+                    "sentence": "It did not want to have further Nato alliance states sitting at its border, with American deploying its military forces there.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005527450703084469,
+                    "sentence": "Any rational human being, never mind politicians, should understand this.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereUkraine, and in due course Belarus, could have become neutral buffer states with economic freedom.Over time, this would have encouraged changes within Russia with people seeking more freedom and eventually a change towards a more democratic government.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004451033193618059,
+                    "sentence": "It's an evolutionary process and cannot be achieved through constant threats and sanctions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005112811923027039,
+                    "sentence": "The alternative?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0033343168906867504,
+                    "sentence": "A country destroyed.Coexistence demands compromise, but the west has never understood this at an immense cost to its people and immense profits for its military industrial complex.Gunter StraubLondon'Global Britain'As \"Global Britain\" leads the way with a \"world-beating\", not-to-be-seen-anywhere-in-the-EU visa scheme to help Ukrainian refugees decide not to come to Britain, do we conclude this government is: serially incompetent, evil, mired in Russian money - or all of the above?Katharine PowellCheshire",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.021296364087950617,
+            "class_probabilities": {
+                "human": 0.9786638731612227,
+                "ai": 0.021296364087950617,
+                "mixed": 3.976275082662767e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9786638731612227,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.021296364087950617,
+                    "human": 0.9786638731612227,
+                    "mixed": 3.976275082662767e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukAt the end of the Second World War,Russiaand the UK were allies. British lives were lost trying to help the Russian people as the convoys went round the North Cape. Millions of Russian lives were lost.Russia is still a great country. It is part of both Europe and Asia, the only country in two continents. As such, it could play a leading role in uniting both areas, while we fight our greatest problem - climate change.Please Russia, leaveUkraineand take on your greatest role yet.Margaret MannLondonRefugees unwelcomeGiven the appalling way this government has treated - and is treating - refugees from war zones, do they have some sort of pathological phobia of the word \"immigrant\", which renders our leaders incapable of rational thought and action?I struggle otherwise to make any sense of the cruel, contemptuous and vicious actions of the government in this matter.Joanna PallisterDurham CityZelensky's Commons addressWhat a superb, impassioned, and hard-hitting address from the Ukrainian president, Volodymyr Zelensky, to parliament. I was especially attracted to his Churchillian \"fighting the on the beaches\" analogy.For all their thunderous applause, however, how unfortunate - to put it mildly - that the current prime minister and his immediate acolytes aren't even remotely close to the power of his venerated predecessor, either morally or intellectually.Jeremy RedmanLondonRefugees \"not having the right papers\" reminds me of my father-in-law, actor Herbert Lom, whose Czech girlfriend Didi was refused entry in 1938.She was murdered in Auschwitz.Mike BorLondonThe Nasty PartyPriti Patel, attacking Ireland for its humanityin accepting Ukrainian refugees while at the same time erecting barriers that Nigel Farage would have been proud of to stop them coming to the UK, has done herself no harm in the race to lead the Nasty Party.John SimpsonRoss on WyeCoexistence and compromiseIn the closing document at the BucharestNatoSummit in 2008, America insisted that Georgia and Ukraine may, or will, join the Nato alliance.Russia objected for obvious reasons. It did not want to have further Nato alliance states sitting at its border, with American deploying its military forces there. Any rational human being, never mind politicians, should understand this.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereUkraine, and in due course Belarus, could have become neutral buffer states with economic freedom.Over time, this would have encouraged changes within Russia with people seeking more freedom and eventually a change towards a more democratic government. It's an evolutionary process and cannot be achieved through constant threats and sanctions. The alternative? A country destroyed.Coexistence demands compromise, but the west has never understood this at an immense cost to its people and immense profits for its military industrial complex.Gunter StraubLondon'Global Britain'As \"Global Britain\" leads the way with a \"world-beating\", not-to-be-seen-anywhere-in-the-EU visa scheme to help Ukrainian refugees decide not to come to Britain, do we conclude this government is: serially incompetent, evil, mired in Russian money - or all of the above?Katharine PowellCheshire"
+        }
+    ]
+}

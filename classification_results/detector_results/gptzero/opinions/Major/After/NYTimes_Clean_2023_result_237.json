@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.42469221353530884,
+                    "sentence": "As the conflict between Israel and Hamas unfolds, the columnist Thomas Friedman shares his perspective on the evolving situation and what he's watching for.Israel has declared war on Hamas and the world is looking to the United States and the Biden administration for leadership.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.4659186899662018,
+                    "sentence": "Thomas J. Friedman, a columnist for New York Times Opinion and long time reporter on the Israel-Palestine conflict, discusses President Biden's tough choices when it comes to continuing efforts to forge an alliance in the Middle East ᅳ a vital step in creating a stable future in the region.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.4697766602039337,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5954976677894592,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5127650499343872,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.This Opinion short was produced by Vishakha Darbha.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.40484029054641724,
+                    "sentence": "It was edited by Alison Bruzek and Kaari Pitkin.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3283499777317047,
+                    "sentence": "Mixing by Efim Shapiro.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.24127843976020813,
+                    "sentence": "Original music by Isaac Jones.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.22843332588672638,
+                    "sentence": "Fact-checking by Michelle Harris.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3225434124469757,
+                    "sentence": "Audience strategy by Shannon Busta and Kristina Samulewski.PHOTO: (PHOTOGRAPH BY Illustration by The New York Times; Photograph by Mark Kerrison/Getty Images FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.09416080189715814,
+            "class_probabilities": {
+                "human": 0.9058391981028417,
+                "ai": 0.09416080189715814,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9058391981028417,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.09416080189715814,
+                    "human": 0.9058391981028417,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "As the conflict between Israel and Hamas unfolds, the columnist Thomas Friedman shares his perspective on the evolving situation and what he’s watching for.Israel has declared war on Hamas and the world is looking to the United States and the Biden administration for leadership. Thomas J. Friedman, a columnist for New York Times Opinion and long time reporter on the Israel-Palestine conflict, discusses President Biden’s tough choices when it comes to continuing efforts to forge an alliance in the Middle East — a vital step in creating a stable future in the region.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.This Opinion short was produced by Vishakha Darbha. It was edited by Alison Bruzek and Kaari Pitkin. Mixing by Efim Shapiro. Original music by Isaac Jones. Fact-checking by Michelle Harris. Audience strategy by Shannon Busta and Kristina Samulewski.PHOTO:  (PHOTOGRAPH BY Illustration by The New York Times; Photograph by Mark Kerrison/Getty Images FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

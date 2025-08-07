@@ -1,0 +1,151 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00019229695317335427,
+                    "sentence": "I became disabled several months ago and must now use a wheelchair.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003371942148078233,
+                    "sentence": "On two recent visits to campus I saw something a bit discouraging.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022334829554893076,
+                    "sentence": "To wheel from place to place required crossing some bike lane marked paths, such as next to the Quad, or streets that cyclists were using.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00025446945801377296,
+                    "sentence": "In trying to cross these paths, I found literally every single cyclist unwilling to yield to a wheelchair or even slow down.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003638612397480756,
+                    "sentence": "Riders on scooters behaved the same.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004562428221106529,
+                    "sentence": "Many tried to pretend they didn't see me, looking away as they sped past.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000240790395764634,
+                    "sentence": "I'm guessing most Stanford people were raised better than this.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019307289039716125,
+                    "sentence": "What happened?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005754812736995518,
+                    "sentence": "Carl Danner '80Alamo, CA",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018419405387248844,
+                    "sentence": "The Daily is committed to publishing a diversity of op-eds and letters to the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018651194113772362,
+                    "sentence": "We'd love to hear your thoughts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002060701372101903,
+                    "sentence": "Email letters to the editor to eic 'at' stanforddaily.com and op-ed submissions to opinions 'at' stanforddaily.com.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 6,
+                    "completely_generated_prob": 1.474742012248794e-05
+                },
+                {
+                    "start_sentence_index": 6,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 8,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 9,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                }
+            ],
+            "completely_generated_prob": 0.006602786460384316,
+            "class_probabilities": {
+                "human": 0.9933972135396156,
+                "ai": 0.006602786460384316,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933972135396156,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006602786460384316,
+                    "human": 0.9933972135396156,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "I became disabled several months ago and must now use a wheelchair. On two recent visits to campus I saw something a bit discouraging. To wheel from place to place required crossing some bike lane marked paths, such as next to the Quad, or streets that cyclists were using. In trying to cross these paths, I found literally every single cyclist unwilling to yield to a wheelchair or even slow down. Riders on scooters behaved the same. Many tried to pretend they didn’t see me, looking away as they sped past.\nI’m guessing most Stanford people were raised better than this. What happened?\nCarl Danner ’80Alamo, CA\nThe Daily is committed to publishing a diversity of op-eds and  letters to the editor. We’d love to hear your thoughts. Email letters to the editor to eic ‘at’ stanforddaily.com and op-ed submissions to opinions ‘at’ stanforddaily.com.\n"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 5.316058377502486e-05,
+                    "sentence": "The recent political upheavals in Chile noted in theJan.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.430202923482284e-05,
+                    "sentence": "7 articlein The Stanford Daily have led the government to rethink decades of policy and call for a Constituent Assembly to replace Chile's current controversial Constitution imposed by the Pinochet dictatorship.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.321253123227507e-05,
+                    "sentence": "Perhaps this period of great reform in Chile should be accompanied by a reciprocal effort on the part of Stanford University to re-examine its Bing Overseas Study Program in Santiago to make it that much more attractive to students wishing to study abroad.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.5703157007228583e-05,
+                    "sentence": "One important change would be to reestablish an affiliation with a local academic institution, as was the case for many years after the center first opened and students attended classes at Chile's prestigious Pontifical Catholic University in Santiago.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.2039625036995858e-05,
+                    "sentence": "Having taught at the center in Santiago during the summer quarter of 2017 and 2018, I found the experience akin to being in a cloistered monastery or convent in which Stanford students have little meaningful interaction with their Chilean peers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.845986844273284e-05,
+                    "sentence": "This is particularly unfortunate now when university students have been at the forefront of the protests in Chile.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.736546543426812e-05,
+                    "sentence": "ᅳ Thomas Andrew O'Keefe, lecturer in International Relations and dual national of the United States and Chile",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 3,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 6,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                }
+            ],
+            "completely_generated_prob": 0.004992955483599872,
+            "class_probabilities": {
+                "human": 0.9950070445164001,
+                "ai": 0.004992955483599872,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9950070445164001,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.004992955483599872,
+                    "human": 0.9950070445164001,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "The recent political upheavals in Chile noted in theJan. 7 articlein The Stanford Daily have led the government to rethink decades of policy and call for a Constituent Assembly to replace Chile’s current controversial Constitution imposed by the Pinochet dictatorship. Perhaps this period of great reform in Chile should be accompanied by a reciprocal effort on the part of Stanford University to re-examine its Bing Overseas Study Program in Santiago to make it that much more attractive to students wishing to study abroad.\nOne important change would be to reestablish an affiliation with a local academic institution, as was the case for many years after the center first opened and students attended classes at Chile’s prestigious Pontifical Catholic University in Santiago. Having taught at the center in Santiago during the summer quarter of 2017 and 2018, I found the experience akin to being in a cloistered monastery or convent in which Stanford students have little meaningful interaction with their Chilean peers. This is particularly unfortunate now when university students have been at the forefront of the protests in Chile.\n— Thomas Andrew O’Keefe, lecturer in International Relations and dual national of the United States and Chile\n\n"
+        }
+    ]
+}

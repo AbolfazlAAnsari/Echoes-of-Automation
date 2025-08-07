@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0002467650338076055,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Faced with an election loss, an autocrat can generally take one of two paths: moderate his approach and policies in a bid to continue appealing to the electorate, or crack down to show that he won't tolerate this dissent.The government of Venezuelan President Nicolás Maduro has decidedly gone in the latter direction, intensifying a campaign against political opposition after even friendly governments have raised concerns about Maduro's phony claim of victory in the presidential election late last month.The despot faced off against Edmundo González, largely because opposition leader María Corina Machado had been barred from running.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000202862051082775,
+                    "sentence": "Even without the opposition's most popular politician, all reliable observers had González winning a decisive victory.Now, The Wall Street Journal reports that the U.S. government is attempting to broker a deal to offer amnesty to Maduro and top allies ᅳ who are under investigation on various drug-related and trafficking charges ᅳ in exchange for his ceding power.Would this be a satisfying resolution?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00033253527362830937,
+                    "sentence": "Not particularly; Maduro deserves some accountability for his actions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00031806857441551983,
+                    "sentence": "Yet sometimes diplomacy is about picking the least bad out of a slate of bad options.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002386999985901639,
+                    "sentence": "Washington should work to finalize this deal, and Maduro should take it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003275269700679928,
+                    "sentence": "He should learn from history that attempting to suppress public will for long enough rarely turns out well for the oppressor.The lack of stability in Venezuela impacts New York, as Venezuelans have been the largest number of migrants coming here.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002549207129050046,
+                    "sentence": "A new legitimate government could only bring improvements.Instead, Maduro is using “Operation Knock Knock”ᅳ the regime's name for the effort to round up suspected opposition supporters in late-night raids ᅳ taunting both the Venezuelan public and the international community.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002967512118630111,
+                    "sentence": "The intelligence services have gone so far as to make propaganda videos of these raids, set to soundtracks like a rhyme from slasher film “A Nightmare on Elm Street.” They know that the objective is to create a generalized climate of fear to keep the population at bay.Some of the people who have already self-exiled to get away from Maduro's regime will undoubtedly be less than thrilled about the prospect of the former president having the red carpet rolled out to do the same, where he'll likely get to enjoy a leisurely retirement among some of the very people his government persecuted and antagonized.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009236717596650124,
+                    "sentence": "Some people still in Venezuela will likewise find it infuriating to see the man go without repercussions in the country he and his predecessor Hugo Chávez helped sink into economic despondency despite extraordinary domestic riches, while the top-level cronies made off with the bags.Nonetheless, if that's what gets Maduro to accept the election results, step aside and allow the Venezuelan public to rebuild some of its civic and political life, so be it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.015386833809316158,
+                    "sentence": "This is all much more straightforward if he can be convinced to voluntarily relinquish power; otherwise, it's not clear how exactly the true results of the election could be vindicated.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03395645692944527,
+                    "sentence": "After all, elections matter only inasmuch as those with the power to make them matter agree to do so.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.024331826716661453,
+                    "sentence": "Only once this sordid chapter is closed can the country hope to embark on a brighter and more democratic path.ᅳ New York Daily News",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Faced with an election loss, an autocrat can generally take one of two paths: moderate his approach and policies in a bid to continue appealing to the electorate, or crack down to show that he won’t tolerate this dissent.The government of Venezuelan President Nicolás Maduro has decidedly gone in the latter direction, intensifying a campaign against political opposition after even friendly governments have raised concerns about Maduro’s phony claim of victory in the presidential election late last month.The despot faced off against Edmundo González, largely because opposition leader María Corina Machado had been barred from running. Even without the opposition’s most popular politician, all reliable observers had González winning a decisive victory.Now, The Wall Street Journal reports that the U.S. government is attempting to broker a deal to offer amnesty to Maduro and top allies — who are under investigation on various drug-related and trafficking charges — in exchange for his ceding power.Would this be a satisfying resolution? Not particularly; Maduro deserves some accountability for his actions. Yet sometimes diplomacy is about picking the least bad out of a slate of bad options. Washington should work to finalize this deal, and Maduro should take it. He should learn from history that attempting to suppress public will for long enough rarely turns out well for the oppressor.The lack of stability in Venezuela impacts New York, as Venezuelans have been the largest number of migrants coming here. A new legitimate government could only bring improvements.Instead, Maduro is using “Operation Knock Knock”— the regime’s name for the effort to round up suspected opposition supporters in late-night raids — taunting both the Venezuelan public and the international community. The intelligence services have gone so far as to make propaganda videos of these raids, set to soundtracks like a rhyme from slasher film “A Nightmare on Elm Street.” They know that the objective is to create a generalized climate of fear to keep the population at bay.Some of the people who have already self-exiled to get away from Maduro’s regime will undoubtedly be less than thrilled about the prospect of the former president having the red carpet rolled out to do the same, where he’ll likely get to enjoy a leisurely retirement among some of the very people his government persecuted and antagonized. Some people still in Venezuela will likewise find it infuriating to see the man go without repercussions in the country he and his predecessor Hugo Chávez helped sink into economic despondency despite extraordinary domestic riches, while the top-level cronies made off with the bags.Nonetheless, if that’s what gets Maduro to accept the election results, step aside and allow the Venezuelan public to rebuild some of its civic and political life, so be it. This is all much more straightforward if he can be convinced to voluntarily relinquish power; otherwise, it’s not clear how exactly the true results of the election could be vindicated. After all, elections matter only inasmuch as those with the power to make them matter agree to do so. Only once this sordid chapter is closed can the country hope to embark on a brighter and more democratic path.— New York Daily News"
+        }
+    ]
+}

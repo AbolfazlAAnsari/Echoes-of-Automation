@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.06530283391475677,
+                    "sentence": "Please send your letters toletters@independent.co.ukWhile it's good to hear fromTony Blair, it's a shame he didn't speak out before it was too late to do something about the decision to withdraw forces fromAfghanistan.It's too easy to highlight the mistake now that it's obvious to everyone.J H LeaverLymmThank you for including thearticleby Tony Blair.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05065888166427612,
+                    "sentence": "It provides a most enlightening insight into the arrogant and narrow worldview of the former prime minister.To take just one example, he says \"if the west wants to shape the 21st century\" as though it were obvious that is what should happen.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.048893436789512634,
+                    "sentence": "What right does the west or anyone else have to determine the course of an entire century for the whole planet?An appalling article by a truly appalling politician.Alan BrownBromboroughVital strategyWhen I was young I was taught some very basic first aid.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04822025075554848,
+                    "sentence": "I was told never to remove an object from the wound because it could be protecting a vital artery.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07883542031049728,
+                    "sentence": "The military presence of the UK and other forces in Afghanistan was in a sense protecting a \"vital artery\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.028158677741885185,
+                    "sentence": "The benefits were containment of terrorism and allowing girls and women to live and thrive.While the 2001 intervention was about the management of a very difficult situation, it was the lesser evil.John BarstowPulboroughA disagreementI normally find myself in complete agreement with John Rentoul but on this occasion, he underplays the importance of the moral outrage that the behaviour of the foreign secretary and prime minister have engendered.I don't think the calls for Dominic Raab's resignation by Labour, the SNP, the Lib Dems and some Tories of conscience weakens the currency of such demands.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.029875539243221283,
+                    "sentence": "This has perhaps been true in the past but, in this instance, there is a palpable sense of rage on the streets in Scotland, where I have just been, and where I live in London.David Maxwell AndersonLondonRapid unravellingWith some adjustment in nomenclature, the Green Party-SNP coalition in Scotland could well be the shape of things to come for the rest of the UK.Some polling has shown there is now majority support nationally for a centre-left style of government.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0346386544406414,
+                    "sentence": "This is of course not surprising given the rapid unravelling of Boris Johnson's disastrous experiment in populist conservatism.Andrew McLuskeyAshfordRead MoreTaliban hunts down government staff despite amnestyThe Taliban: Who are they, who are the leaders and what do they want?How quickly did Taliban advance across Afghanistan?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.025041194076269924,
+            "class_probabilities": {
+                "human": 0.974671313226954,
+                "ai": 0.025041194076269924,
+                "mixed": 0.00028749269677611
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.974671313226954,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.025041194076269924,
+                    "human": 0.974671313226954,
+                    "mixed": 0.00028749269677611
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukWhile it's good to hear fromTony Blair, it's a shame he didn't speak out before it was too late to do something about the decision to withdraw forces fromAfghanistan.It's too easy to highlight the mistake now that it's obvious to everyone.J H LeaverLymmThank you for including thearticleby Tony Blair. It provides a most enlightening insight into the arrogant and narrow worldview of the former prime minister.To take just one example, he says \"if the west wants to shape the 21st century\" as though it were obvious that is what should happen. What right does the west or anyone else have to determine the course of an entire century for the whole planet?An appalling article by a truly appalling politician.Alan BrownBromboroughVital strategyWhen I was young I was taught some very basic first aid. I was told never to remove an object from the wound because it could be protecting a vital artery. The military presence of the UK and other forces in Afghanistan was in a sense protecting a \"vital artery\". The benefits were containment of terrorism and allowing girls and women to live and thrive.While the 2001 intervention was about the management of a very difficult situation, it was the lesser evil.John BarstowPulboroughA disagreementI normally find myself in complete agreement with John Rentoul but on this occasion, he underplays the importance of the moral outrage that the behaviour of the foreign secretary and prime minister have engendered.I don't think the calls for Dominic Raab's resignation by Labour, the SNP, the Lib Dems and some Tories of conscience weakens the currency of such demands. This has perhaps been true in the past but, in this instance, there is a palpable sense of rage on the streets in Scotland, where I have just been, and where I live in London.David Maxwell AndersonLondonRapid unravellingWith some adjustment in nomenclature, the Green Party-SNP coalition in Scotland could well be the shape of things to come for the rest of the UK.Some polling has shown there is now majority support nationally for a centre-left style of government. This is of course not surprising given the rapid unravelling of Boris Johnson's disastrous experiment in populist conservatism.Andrew McLuskeyAshfordRead MoreTaliban hunts down government staff despite amnestyThe Taliban: Who are they, who are the leaders and what do they want?How quickly did Taliban advance across Afghanistan?"
+        }
+    ]
+}

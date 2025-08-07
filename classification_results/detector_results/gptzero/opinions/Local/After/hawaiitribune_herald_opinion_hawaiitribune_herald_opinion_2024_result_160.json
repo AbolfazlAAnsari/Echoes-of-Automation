@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00863781850785017,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°As we approach the 70th anniversary of Brown v. Board of Education, a crucial question arises: Why are our nation's schools experiencing increased segregation despite progress in neighborhood integration?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011767249088734388,
+                    "sentence": "A new study by Sean Reardon of Stanford University and Ann Owens of the University of Southern California provides a startling answer ᅳ more than half of the blame is due to the expansion of charter schools.While the courts' lifting of desegregation orders played a role, the researchers' analysis reveals that segregation would be approximately 14% lower if not for the expansion of charter schools.In an article on the report, Laura Meckler of The Washington Post provided the Charlotte-Mecklenburg School District in North Carolina as an example.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019439194875303656,
+                    "sentence": "Researchers scored segregation on a scale of 0 (matching district demographics) to 1.0 (complete segregation).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00020636655972339213,
+                    "sentence": "In 1971, following a court-ordered desegregation plan, the district's segregation score fell to 0.03.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001802806946216151,
+                    "sentence": "In 1991, it remained low at 0.10.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013616052456200123,
+                    "sentence": "Today, there are more than 30 charter schools in the district, and the district's 2022 segregation score has risen to a whopping 0.44.As the Network for Public Education, of which I'm the executive director, and dozens of national and local organizations reported to the U.S. Department of Education in 2021, North Carolina's education department aided and abetted the expansion of “white-flight” charter schools using money it received from a grant program.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016013225831557065,
+                    "sentence": "One of the schools that received funding was a former white-flight private academy, Hobgood Academy, which is now a charter.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00023194783716462553,
+                    "sentence": "Other grants went to North Carolina charters in disproportionately white suburbs of Charlotte that were attempting to self-segregate their schools from the more racially diverse Charlotte-Mecklenburg school district.And, as we demonstrated in our recent report, the expansion of right-wing charter schools like the Cincinnati Classical Academy, which received a federal grant to expand, increases segregation with website messaging that encourages the enrollment of white children from conservative families, resulting in racially imbalanced student demographics.Do we see the same increases in segregation resulting from public school choice?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00971901137381792,
+                    "sentence": "Although the Reardon and Owens study did not explore that specific question, a separate study recently released by the Civil Rights Project at UCLA indicates that public magnet schools are far less segregated than charter schools.The report, written by Ryan Pfleger and Gary Orfield, examined more than 100 districts and compared the student demographics of their charter and magnet schools.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01721855252981186,
+                    "sentence": "The findings were clear: The charter sector has a higher proportion of intensely segregated schools than the public magnet sector, and this gap is widening over time.According to the study, “the proportion of intensely segregated charter schools, with less than 10% white students, increased from 45% to 59% from 2000 to 2021.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.021971682086586952,
+                    "sentence": "A different trend was observed for magnets.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005269544664770365,
+                    "sentence": "The share of magnets that were intensely segregated was nearly the same in 2000 and 2021: 34% and 36%.”If we hope to heal the racial, socio-economic, and political divides in our nation, public schools in districts with policies designed to increase integration among schools and within schools offer our best hope.ᅳ Progressive Perspectives/TNSA 64-year-old Ocean View man accused of killing one of his dogs has been freed from custody on supervised release, a form of cashless bail.In presidential fundraising these days, the donors who matter most are the very small and the very, very big.During the week of Aug. 19-25, Hawaii Island police arrested 22 motorists for DUI.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.024461651786716186,
+            "class_probabilities": {
+                "human": 0.9754981327244504,
+                "ai": 0.024461651786716186,
+                "mixed": 4.0215488833363626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9754981327244504,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024461651786716186,
+                    "human": 0.9754981327244504,
+                    "mixed": 4.0215488833363626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°As we approach the 70th anniversary of Brown v. Board of Education, a crucial question arises: Why are our nation’s schools experiencing increased segregation despite progress in neighborhood integration? A new study by Sean Reardon of Stanford University and Ann Owens of the University of Southern California provides a startling answer — more than half of the blame is due to the expansion of charter schools.While the courts’ lifting of desegregation orders played a role, the researchers’ analysis reveals that segregation would be approximately 14% lower if not for the expansion of charter schools.In an article on the report, Laura Meckler of The Washington Post provided the Charlotte-Mecklenburg School District in North Carolina as an example. Researchers scored segregation on a scale of 0 (matching district demographics) to 1.0 (complete segregation). In 1971, following a court-ordered desegregation plan, the district’s segregation score fell to 0.03. In 1991, it remained low at 0.10. Today, there are more than 30 charter schools in the district, and the district’s 2022 segregation score has risen to a whopping 0.44.As the Network for Public Education, of which I’m the executive director, and dozens of national and local organizations reported to the U.S. Department of Education in 2021, North Carolina’s education department aided and abetted the expansion of “white-flight” charter schools using money it received from a grant program. One of the schools that received funding was a former white-flight private academy, Hobgood Academy, which is now a charter. Other grants went to North Carolina charters in disproportionately white suburbs of Charlotte that were attempting to self-segregate their schools from the more racially diverse Charlotte-Mecklenburg school district.And, as we demonstrated in our recent report, the expansion of right-wing charter schools like the Cincinnati Classical Academy, which received a federal grant to expand, increases segregation with website messaging that encourages the enrollment of white children from conservative families, resulting in racially imbalanced student demographics.Do we see the same increases in segregation resulting from public school choice? Although the Reardon and Owens study did not explore that specific question, a separate study recently released by the Civil Rights Project at UCLA indicates that public magnet schools are far less segregated than charter schools.The report, written by Ryan Pfleger and Gary Orfield, examined more than 100 districts and compared the student demographics of their charter and magnet schools. The findings were clear: The charter sector has a higher proportion of intensely segregated schools than the public magnet sector, and this gap is widening over time.According to the study, “the proportion of intensely segregated charter schools, with less than 10% white students, increased from 45% to 59% from 2000 to 2021. A different trend was observed for magnets. The share of magnets that were intensely segregated was nearly the same in 2000 and 2021: 34% and 36%.”If we hope to heal the racial, socio-economic, and political divides in our nation, public schools in districts with policies designed to increase integration among schools and within schools offer our best hope.— Progressive Perspectives/TNSA 64-year-old Ocean View man accused of killing one of his dogs has been freed from custody on supervised release, a form of cashless bail.In presidential fundraising these days, the donors who matter most are the very small and the very, very big.During the week of Aug. 19-25, Hawaii Island police arrested 22 motorists for DUI."
+        }
+    ]
+}

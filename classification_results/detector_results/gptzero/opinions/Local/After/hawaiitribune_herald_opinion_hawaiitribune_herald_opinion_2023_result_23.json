@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00016236479859799147,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°Usually, when Martin Luther King's words are misappropriated, the culprits are misinformation mercenaries trying to advance some right-wing idea that is light years away from King's ideology,Their favorite is King's “I Have A Dream” speech, in which King said people should be judged by “the content of their character” and not “the color of their skin,” poetic phrases perversely twisted to pretend that King would have fought against something as righteous as affirmative action.So when video of King surfaced online last week denouncing antisemitism and backing Israel's right to exist, the source and the timing put a lot of people on edge.For weeks, after the terrorist group Hamas launched a bloody attack against Israel, comedian Amy Schumer has expressed support for Israel's retaliation effort, and has even hinted that calls for a ceasefire are antisemitic.Her social media posts included a video of King standing up for Israel and shouting down antisemitism and other forms of discrimination.“Israel must exist and has a right to exist and is one of the great outposts of democracy in the world,” King says in one of the videos.In another clip, the civil rights leader denounces antisemitism as “wrong” and says “it's unjust and it's evil.”Certainly, no right-thinking person would disagree.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015577892190776765,
+                    "sentence": "Hamas' Oct. 7 attack on Israel was evil and wrong, and any physical or verbal attacks on Jews that have followed are just as vile.But context is key, and Schumer's decision to use King's words ᅳ sacred to the eyes and ears of many ᅳ is dangerous, and only adds fuel to the firebombs.The backlash was swift.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013264993322081864,
+                    "sentence": "Among those responding was King's own daughter, Bernice King, CEO of the Martin Luther King Jr. Center for Nonviolent Social Change, and protector of the King legacy.“Amy: Certainly, my father was against antisemitism, as am I,” King's daughter tweeted.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004936906625516713,
+                    "sentence": "“He also believed militarism (along with racism and poverty) to be among the interconnected Triple Evils.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001634151441976428,
+                    "sentence": "I am certain he would call for Israel's bombing of Palestinians to cease, for hostages to be released, and for us to work for true peace, which includes justice.“He said, 'Justice at its best is love correcting everything that stands against love.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.270984572940506e-05,
+                    "sentence": "'”Since the Oct. 7 terrorist attacks, 1,400 people have been killed in Israel and 240 are being held hostage, according to Israeli officials.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.2342038796050474e-05,
+                    "sentence": "More than 1 million people have been displaced in Gaza, where Palestinian health officials have said more than 8,700 have been killed, most of them women and children.Countless humanitarian groups including the Office of the United Nations High Commissioner for Refugees have urgently called for a ceasefire.Bernice King was correct to call Schumer out on the quotes, but she didn't stop there.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.257119093788788e-05,
+                    "sentence": "She posted her own MLK video, one in which her father urges the U.S. to withdraw from Vietnam.“We don't need to prove to anybody our military power,” King says in the clip.“We need to prove our moral power.”Israel, like King said, has a right to exist.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.33080048323609e-05,
+                    "sentence": "It also has a right to defend itself.But indiscriminate bombing that results in endless civilian casualties isn't justice.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.014164293650538e-05,
+                    "sentence": "It's vengeance.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013274511729832739,
+                    "sentence": "And, God said, “Vengence is mine.”",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.0051780533755591265,
+            "class_probabilities": {
+                "human": 0.9948219466244408,
+                "ai": 0.0051780533755591265,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9948219466244408,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0051780533755591265,
+                    "human": 0.9948219466244408,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°Usually, when Martin Luther King’s words are misappropriated, the culprits are misinformation mercenaries trying to advance some right-wing idea that is light years away from King’s ideology,Their favorite is King’s “I Have A Dream” speech, in which King said people should be judged by “the content of their character” and not “the color of their skin,” poetic phrases perversely twisted to pretend that King would have fought against something as righteous as affirmative action.So when video of King surfaced online last week denouncing antisemitism and backing Israel’s right to exist, the source and the timing put a lot of people on edge.For weeks, after the terrorist group Hamas launched a bloody attack against Israel, comedian Amy Schumer has expressed support for Israel’s retaliation effort, and has even hinted that calls for a ceasefire are antisemitic.Her social media posts included a video of King standing up for Israel and shouting down antisemitism and other forms of discrimination.“Israel must exist and has a right to exist and is one of the great outposts of democracy in the world,” King says in one of the videos.In another clip, the civil rights leader denounces antisemitism as “wrong” and says “it’s unjust and it’s evil.”Certainly, no right-thinking person would disagree. Hamas’ Oct. 7 attack on Israel was evil and wrong, and any physical or verbal attacks on Jews that have followed are just as vile.But context is key, and Schumer’s decision to use King’s words — sacred to the eyes and ears of many — is dangerous, and only adds fuel to the firebombs.The backlash was swift. Among those responding was King’s own daughter, Bernice King, CEO of the Martin Luther King Jr. Center for Nonviolent Social Change, and protector of the King legacy.“Amy: Certainly, my father was against antisemitism, as am I,” King’s daughter tweeted. “He also believed militarism (along with racism and poverty) to be among the interconnected Triple Evils. I am certain he would call for Israel’s bombing of Palestinians to cease, for hostages to be released, and for us to work for true peace, which includes justice.“He said, ‘Justice at its best is love correcting everything that stands against love.’”Since the Oct. 7 terrorist attacks, 1,400 people have been killed in Israel and 240 are being held hostage, according to Israeli officials. More than 1 million people have been displaced in Gaza, where Palestinian health officials have said more than 8,700 have been killed, most of them women and children.Countless humanitarian groups including the Office of the United Nations High Commissioner for Refugees have urgently called for a ceasefire.Bernice King was correct to call Schumer out on the quotes, but she didn’t stop there. She posted her own MLK video, one in which her father urges the U.S. to withdraw from Vietnam.“We don’t need to prove to anybody our military power,” King says in the clip.“We need to prove our moral power.”Israel, like King said, has a right to exist. It also has a right to defend itself.But indiscriminate bombing that results in endless civilian casualties isn’t justice. It’s vengeance. And, God said, “Vengence is mine.”"
+        }
+    ]
+}

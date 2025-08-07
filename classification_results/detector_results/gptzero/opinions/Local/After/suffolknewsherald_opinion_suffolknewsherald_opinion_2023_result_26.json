@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.005765312816947699,
+                    "sentence": "Published 3:12 pm Friday, June 9, 2023ByLetters to the EditorEditor:The 99th year of the American Heart Association is upon us.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009151328355073929,
+                    "sentence": "Though tremendous progress has been made in fighting heart disease and stroke in our community, country and across the globe, the work is far from complete.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006756367161870003,
+                    "sentence": "With nearly a century of hard work, scientific discovery and healthy public policies these bold moves have helped transform the nation's health and significantly reduce heart disease and stroke death rates.I personally pledge to continue this relentless work to eliminate heart disease and stroke, optimize brain health and ensure equitable health in Hampton Roads, and I ask you to join me.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01238987222313881,
+                    "sentence": "Monumental goals such as eradicating heart disease and stroke can't be achieved alone.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011047057807445526,
+                    "sentence": "The collective passion and commitment of our community is what will transform heart and brain health and ensure all people have the opportunity to live longer, healthier lives.I want a healthier Hampton Roads.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007873883470892906,
+                    "sentence": "We want a healthier Hampton Roads.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007840674370527267,
+                    "sentence": "It takes bold leadership to drive transformative innovation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006986279971897602,
+                    "sentence": "I ask company and organization leaders across our community to take the challenge head on with me.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00662943534553051,
+                    "sentence": "Step up and say yes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.035386595875024796,
+                    "sentence": "Your leadership is needed to catapult the American Heart Association's next 100 years of relentless work to end the lead cause of death in our community and end heart disease and stroke.Dr.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.049574580043554306,
+                    "sentence": "Ethlyn McQueen-GibsonResearch scholar, Eastern Virginia Medical School, a member of the board of directors of Hampton Roads AHA, immediate past board chair, and is chair of Leadership DevelopmentNorfolkOn Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.10039383172988892,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1260533481836319,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.058471088130131146,
+            "class_probabilities": {
+                "human": 0.9415289118698688,
+                "ai": 0.058471088130131146,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9415289118698688,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.058471088130131146,
+                    "human": 0.9415289118698688,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 3:12 pm Friday, June 9, 2023ByLetters to the EditorEditor:The 99th year of the American Heart Association is upon us. Though tremendous progress has been made in fighting heart disease and stroke in our community, country and across the globe, the work is far from complete. With nearly a century of hard work, scientific discovery and healthy public policies these bold moves have helped transform the nation’s health and significantly reduce heart disease and stroke death rates.I personally pledge to continue this relentless work to eliminate heart disease and stroke, optimize brain health and ensure equitable health in Hampton Roads, and I ask you to join me. Monumental goals such as eradicating heart disease and stroke can’t be achieved alone. The collective passion and commitment of our community is what will transform heart and brain health and ensure all people have the opportunity to live longer, healthier lives.I want a healthier Hampton Roads. We want a healthier Hampton Roads. It takes bold leadership to drive transformative innovation. I ask company and organization leaders across our community to take the challenge head on with me. Step up and say yes. Your leadership is needed to catapult the American Heart Association’s next 100 years of relentless work to end the lead cause of death in our community and end heart disease and stroke.Dr. Ethlyn McQueen-GibsonResearch scholar, Eastern Virginia Medical School, a member of the board of directors of Hampton Roads AHA, immediate past board chair, and is chair of Leadership DevelopmentNorfolkOn Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

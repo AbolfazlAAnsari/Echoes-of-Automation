@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0010237412061542273,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|78.854°This 'broken system'needs to be fixedThis 'broken system'needs to be fixedIn your June 14 newspaper, the headline was,”This is a broken system.”The child welfare system has been broken all along, and I'm surprised it hasn't been fixed yet.Who is in charge, anyway?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016924322117120028,
+                    "sentence": "Why aren't they held accountable?Our poor, innocent, helpless keiki are defenseless against these evil people.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018244804814457893,
+                    "sentence": "If I was in charge, I wouldn't be able to sleep at night.I have two common-sense suggestions for the department of Child Welfare Services: (1)Do notgive notice to the family when you're going to visit.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016514633316546679,
+                    "sentence": "(2) Pay attention when people tell you they're going to homeschool the child!Holly BellWaimeaHelp sought for dogwith large tumorOn Monday, I stopped at a red light on Mohouli Street next to a white vehicle with a poodle-type dog in the back which caught my attention.This poor creature had a tumor on its lower jaw that was larger than the dog's head!It was open and oozing blood ᅳ a horrifying sight.If this owner can't afford a veterinarian to take care of this problem, perhaps the Hawaii Island Humane Society can help.I wish I had not seen this unfortunate animal, and I beg the owner to not neglect his pet any longer.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013723897282034159,
+                    "sentence": "If anyone knows who I am writing about, please have the owner contact the Humane Society for some help.Margaret KelsoHiloPeople in Congressneed to do betterThe kids in our congressional preschool are getting out of hand.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003656676271930337,
+                    "sentence": "If they cant act like adults and do the job they were elected by their constituents to do (pass legislation to protect the environment, citizens and animals), they should be sent home without wages.Our country can't afford hundreds of thousands of dollars so these people can strut their egos.V.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00041260302532464266,
+                    "sentence": "FuquaOcean ViewFalse advertisingregarding fast foodI have a beef with certain fast food restaurants.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00048330947174690664,
+                    "sentence": "The ads depict a large burger, thick slice of tomato, a hefty slice of onion, a recognizable amount of lettuce, with plenty of sauce.How come I always get a thin burger, a tiny piece of tomato, just a hint of onion and scraggly, wilted lettuce on a dry bun?I call this false advertising for overpriced food, and I seldom “get it my way.”Cher MilesPahoaDENVER ᅳ The Colorado athletics department informed The Denver Post that head coach Deion Sanders and anyone else within the Buffs football program will no longer take questions from columnist Sean Keeler.The National Weather Service has issued a tropical storm watch for the Island of Hawaii.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.020660391318316405,
+            "class_probabilities": {
+                "human": 0.9793396086816837,
+                "ai": 0.020660391318316405,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9793396086816837,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020660391318316405,
+                    "human": 0.9793396086816837,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|78.854°This ‘broken system’needs to be fixedThis ‘broken system’needs to be fixedIn your June 14 newspaper, the headline was,”This is a broken system.”The child welfare system has been broken all along, and I’m surprised it hasn’t been fixed yet.Who is in charge, anyway? Why aren’t they held accountable?Our poor, innocent, helpless keiki are defenseless against these evil people. If I was in charge, I wouldn’t be able to sleep at night.I have two common-sense suggestions for the department of Child Welfare Services: (1)Do notgive notice to the family when you’re going to visit. (2) Pay attention when people tell you they’re going to homeschool the child!Holly BellWaimeaHelp sought for dogwith large tumorOn Monday, I stopped at a red light on Mohouli Street next to a white vehicle with a poodle-type dog in the back which caught my attention.This poor creature had a tumor on its lower jaw that was larger than the dog’s head!It was open and oozing blood — a horrifying sight.If this owner can’t afford a veterinarian to take care of this problem, perhaps the Hawaii Island Humane Society can help.I wish I had not seen this unfortunate animal, and I beg the owner to not neglect his pet any longer. If anyone knows who I am writing about, please have the owner contact the Humane Society for some help.Margaret KelsoHiloPeople in Congressneed to do betterThe kids in our congressional preschool are getting out of hand. If they cant act like adults and do the job they were elected by their constituents to do (pass legislation to protect the environment, citizens and animals), they should be sent home without wages.Our country can’t afford hundreds of thousands of dollars so these people can strut their egos.V. FuquaOcean ViewFalse advertisingregarding fast foodI have a beef with certain fast food restaurants. The ads depict a large burger, thick slice of tomato, a hefty slice of onion, a recognizable amount of lettuce, with plenty of sauce.How come I always get a thin burger, a tiny piece of tomato, just a hint of onion and scraggly, wilted lettuce on a dry bun?I call this false advertising for overpriced food, and I seldom “get it my way.”Cher MilesPahoaDENVER — The Colorado athletics department informed The Denver Post that head coach Deion Sanders and anyone else within the Buffs football program will no longer take questions from columnist Sean Keeler.The National Weather Service has issued a tropical storm watch for the Island of Hawaii."
+        }
+    ]
+}

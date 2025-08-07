@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0002758270129561424,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002467315352987498,
+                    "sentence": "Please send your letters toletters@independent.co.ukDeputy Scottish first ministerJohn Swinney warns against Scots travellingsouth across the jurisdictionalbordertoEnglandto see in new year.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00024625513469800353,
+                    "sentence": "Covid infection rates in many parts of the central belt - West Dunbartonshire, Renfrewshire, East Renfrewshire, West Lothian and Edinburgh - are significantly higher than in the northernmost English counties, like Northumberland and Cumbria.Swinney saysScotsneed to \"take measures to protect ourselves\", and suggest that Scots may bring back the virus from England to Scotland - but surely the reality is that Scots will take the virus to England, and so should also stay home to protect the English?Martin RedfernMelroseEntirely predictableYoureditorial saidthere will be \"entirely predictable results\" from Boris Johnson's failure to respond appropriately to the latest scientific advice on the pandemic.Let's spell those results out.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021297181956470013,
+                    "sentence": "People in England are going to die needlessly because Johnson is too scared of his backbenchers to insist that people in England take the sensible precautions insisted on by the leaders of the rest of the UK.Those wholly unnecessary deaths of grandparents, mothers and fathers will be added to the untold thousands of unnecessary deaths during what has to be the most incompetent government in the UK's modern history.Johnson is too cowardly to take on his backbenchers; he would apparently prefer to take his chances with the electorate.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002696358133107424,
+                    "sentence": "Given that the relics in the Conservative Party are only a minute fraction of that electorate, the results are, indeed, \"entirely predictable\".D Maughan BrownYorkYoung peopleRosie Lockwood and Serena Kelly havea strong case thatyoung people should have a say in policies that affect their future.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005032196058891714,
+                    "sentence": "For the past 30 years, politicians have been ignoring voices of reason on climate change while supporting the fossil fuels industry.The Police, Crime, Sentencing and Courts Bill will strangle democratic protest by criminalising peaceful protest with particular emphasis on Black Lives Matter and Extinction Rebellion.When will politicians listen to young people and realise they are destroying our children's futures?David SilcockAddress suppliedControlling the futureI readEmma Flint's columnon new year anxiety and would like to reassure her that feeling is universal for most of us.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00829517375677824,
+                    "sentence": "I am so sorry that she has suffered mentally and physically from all the immense stresses and inherent strains of the last two unprecedented years, but she should be congratulated for writing down her thoughts and anxieties in such a compelling and truthful way.This new year should, I feel, be different because if we have learnt anything from this pandemic, it's that the future is not something we can control.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00901186466217041,
+                    "sentence": "It can all change in a nanosecond and we are at the mercy of this cruel and nasty virus, which can change our lives with speed and alacrity.Crippling anxiety about what might or might not happen can be so depressing and counterproductive.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007483234629034996,
+                    "sentence": "So Emma, cut yourself some new year slack and just go with the flow and fully appreciate and congratulate yourself on any modest achievements, however great or small.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007915504276752472,
+                    "sentence": "Just become the reality Emma and not the unachievable fantasy one, which only really resides in social media and self-help magazines, which do not really understand the ongoing problems and vicissitudes of our modern-day lives.Judith A DanielsNorfolkRead MoreLetters: Brexit benefits?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01330091804265976,
+                    "sentence": "What Brexit benefits?Letters: Football should call a break - if only for the sake of sporting fairnessLetters: We have still not seen the worst effects of BrexitLetters: Brexit benefits?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.015278352424502373,
+                    "sentence": "What Brexit benefits?Letters: Football should call a break - if only for the sake of sporting fairnessLetters: We have still not seen the worst effects of Brexit",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukDeputy Scottish first ministerJohn Swinney warns against Scots travellingsouth across the jurisdictionalbordertoEnglandto see in new year. Covid infection rates in many parts of the central belt - West Dunbartonshire, Renfrewshire, East Renfrewshire, West Lothian and Edinburgh - are significantly higher than in the northernmost English counties, like Northumberland and Cumbria.Swinney saysScotsneed to \"take measures to protect ourselves\", and suggest that Scots may bring back the virus from England to Scotland - but surely the reality is that Scots will take the virus to England, and so should also stay home to protect the English?Martin RedfernMelroseEntirely predictableYoureditorial saidthere will be \"entirely predictable results\" from Boris Johnson's failure to respond appropriately to the latest scientific advice on the pandemic.Let's spell those results out. People in England are going to die needlessly because Johnson is too scared of his backbenchers to insist that people in England take the sensible precautions insisted on by the leaders of the rest of the UK.Those wholly unnecessary deaths of grandparents, mothers and fathers will be added to the untold thousands of unnecessary deaths during what has to be the most incompetent government in the UK's modern history.Johnson is too cowardly to take on his backbenchers; he would apparently prefer to take his chances with the electorate. Given that the relics in the Conservative Party are only a minute fraction of that electorate, the results are, indeed, \"entirely predictable\".D Maughan BrownYorkYoung peopleRosie Lockwood and Serena Kelly havea strong case thatyoung people should have a say in policies that affect their future. For the past 30 years, politicians have been ignoring voices of reason on climate change while supporting the fossil fuels industry.The Police, Crime, Sentencing and Courts Bill will strangle democratic protest by criminalising peaceful protest with particular emphasis on Black Lives Matter and Extinction Rebellion.When will politicians listen to young people and realise they are destroying our children's futures?David SilcockAddress suppliedControlling the futureI readEmma Flint's columnon new year anxiety and would like to reassure her that feeling is universal for most of us. I am so sorry that she has suffered mentally and physically from all the immense stresses and inherent strains of the last two unprecedented years, but she should be congratulated for writing down her thoughts and anxieties in such a compelling and truthful way.This new year should, I feel, be different because if we have learnt anything from this pandemic, it's that the future is not something we can control. It can all change in a nanosecond and we are at the mercy of this cruel and nasty virus, which can change our lives with speed and alacrity.Crippling anxiety about what might or might not happen can be so depressing and counterproductive. So Emma, cut yourself some new year slack and just go with the flow and fully appreciate and congratulate yourself on any modest achievements, however great or small. Just become the reality Emma and not the unachievable fantasy one, which only really resides in social media and self-help magazines, which do not really understand the ongoing problems and vicissitudes of our modern-day lives.Judith A DanielsNorfolkRead MoreLetters: Brexit benefits? What Brexit benefits?Letters: Football should call a break - if only for the sake of sporting fairnessLetters: We have still not seen the worst effects of BrexitLetters: Brexit benefits? What Brexit benefits?Letters: Football should call a break - if only for the sake of sporting fairnessLetters: We have still not seen the worst effects of Brexit"
+        }
+    ]
+}

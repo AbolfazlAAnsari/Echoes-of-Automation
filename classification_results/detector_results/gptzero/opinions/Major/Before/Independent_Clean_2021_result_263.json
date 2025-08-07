@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00036611405084840953,
+                    "sentence": "Please send your letters toletters@independent.co.ukRegardless of what we think of his politics, it is really time to leave poorMichael Govealone now.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00039400518289767206,
+                    "sentence": "There are not many of us who can claim to look like Strictly professionals when we take to the dance floor!Judi MartinAberdeenshireAir miles AndyFor a man so addicted to leaping into the first-class seats of commercial jets that he was nicknamed \"Air miles Andy\", his presently shrunken world represents a humiliating reality for the Duke of York.He has abandoned public life and trans-Atlantic travel as he shelters behind the high walls of royal properties while US authorities investigate his links toJeffrey Epsteinand allegations that he sexually assaulted 17-year-old sex trafficking victimVirginia Roberts.In spite of repeated claims that he has offered to cooperate, it seems patently obvious that he hasn't.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004852588754147291,
+                    "sentence": "However, the US rightly shows no intention of giving up.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009156099404208362,
+                    "sentence": "He has brought \"The Firm's\" reputation into disrepute far more damagingly than the Windsor family's tendency, with one or two notable exceptions, to choose grossly unsuitable spouses.John CameronSt AndrewsUniversal creditHarriet Williamson is rightthat cuttinguniversal creditwill crush Britain's poorest (Voices, 31 August).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012210780987516046,
+                    "sentence": "The grim reality is that our welfare system has become so outdated and distorted, it no longer provides the safety net it was founded to offer.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006456199917010963,
+                    "sentence": "It often means entrapment in a vicious cycle of debt, destitution, food banks, anxiety, depression, uncertainty, fear, paternalistic sanctions and precarious, low-paid jobs.Munjed Farid Al QutobLondonWhere is the Home Office support?The Afghanistan and Central Asian Association (ACAA) is to be congratulated on the work they are doing to assist Afghan refugees arriving at Heathrow.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007933912565931678,
+                    "sentence": "It is clear however that the charity - heavily reliant on volunteers - is struggling to cope with how much help is needed.One would hope that the Home Office would be doing its best to support the work that is going on to help refugees.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001252927933819592,
+                    "sentence": "It is disappointing to hear from the leader of one \"airport\" borough (Spelthorne) that there has \"not been a lot of backup\" from that quarter.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019844998605549335,
+                    "sentence": "This needs to change - and quickly!Andrew McLuskeyMiddlesexA hate crime in GlasgowThe footage of a group of football fans singing sectarian songs as they marched through the centre of Glasgow on Sunday is utterly appalling and a clear hate crime.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011931494809687138,
+                    "sentence": "Chanting \"the famine is over, why don't you go home\" in reference to the Irish famine is clearly beyond the pale and what is even more staggering is the apparent police escort these people were given.I suspect if this had been directed against Indians or Pakistanis, rather than those of Irish extraction, the police would have been less reluctant to get involved and to roll out the red carpet as they did in this case.With many of these so-called \"fans\" clearly identifiable, the failure to take prompt action will clearly raise some rather challenging questions.Alex OrrEdinburghExtinction RebellionThe effort that this country is making to defeat the climate crisis is truly impressive.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002692788140848279,
+                    "sentence": "Perhaps someone should have a word with Extinction Rebellion about China, Russia and the United States.Colin BowerNottinghamRead MoreLetters: The BBC's Vigil is thrilling but full of fishy facts about submarinesLetters: It is time we start learning from the mistakes of the past over AfghanistanLetters: Women should be included in future peace negotiations in AfghanistanLetters: Dominic Raab needs to follow the example set by one of his predecessorsLetters: Our Afghan refugee offer exposes how tragic the UK's immigration policy isThe Taliban's anti-vax beliefs are a threat to world health",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.020660391318316405,
+            "class_probabilities": {
+                "human": 0.9793396086816837,
+                "ai": 0.020660391318316405,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9793396086816837,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020660391318316405,
+                    "human": 0.9793396086816837,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukRegardless of what we think of his politics, it is really time to leave poorMichael Govealone now. There are not many of us who can claim to look like Strictly professionals when we take to the dance floor!Judi MartinAberdeenshireAir miles AndyFor a man so addicted to leaping into the first-class seats of commercial jets that he was nicknamed \"Air miles Andy\", his presently shrunken world represents a humiliating reality for the Duke of York.He has abandoned public life and trans-Atlantic travel as he shelters behind the high walls of royal properties while US authorities investigate his links toJeffrey Epsteinand allegations that he sexually assaulted 17-year-old sex trafficking victimVirginia Roberts.In spite of repeated claims that he has offered to cooperate, it seems patently obvious that he hasn't. However, the US rightly shows no intention of giving up. He has brought \"The Firm's\" reputation into disrepute far more damagingly than the Windsor family's tendency, with one or two notable exceptions, to choose grossly unsuitable spouses.John CameronSt AndrewsUniversal creditHarriet Williamson is rightthat cuttinguniversal creditwill crush Britain's poorest (Voices, 31 August). The grim reality is that our welfare system has become so outdated and distorted, it no longer provides the safety net it was founded to offer. It often means entrapment in a vicious cycle of debt, destitution, food banks, anxiety, depression, uncertainty, fear, paternalistic sanctions and precarious, low-paid jobs.Munjed Farid Al QutobLondonWhere is the Home Office support?The Afghanistan and Central Asian Association (ACAA) is to be congratulated on the work they are doing to assist Afghan refugees arriving at Heathrow. It is clear however that the charity - heavily reliant on volunteers - is struggling to cope with how much help is needed.One would hope that the Home Office would be doing its best to support the work that is going on to help refugees. It is disappointing to hear from the leader of one \"airport\" borough (Spelthorne) that there has \"not been a lot of backup\" from that quarter. This needs to change - and quickly!Andrew McLuskeyMiddlesexA hate crime in GlasgowThe footage of a group of football fans singing sectarian songs as they marched through the centre of Glasgow on Sunday is utterly appalling and a clear hate crime. Chanting \"the famine is over, why don't you go home\" in reference to the Irish famine is clearly beyond the pale and what is even more staggering is the apparent police escort these people were given.I suspect if this had been directed against Indians or Pakistanis, rather than those of Irish extraction, the police would have been less reluctant to get involved and to roll out the red carpet as they did in this case.With many of these so-called \"fans\" clearly identifiable, the failure to take prompt action will clearly raise some rather challenging questions.Alex OrrEdinburghExtinction RebellionThe effort that this country is making to defeat the climate crisis is truly impressive. Perhaps someone should have a word with Extinction Rebellion about China, Russia and the United States.Colin BowerNottinghamRead MoreLetters: The BBC's Vigil is thrilling but full of fishy facts about submarinesLetters: It is time we start learning from the mistakes of the past over AfghanistanLetters: Women should be included in future peace negotiations in AfghanistanLetters: Dominic Raab needs to follow the example set by one of his predecessorsLetters: Our Afghan refugee offer exposes how tragic the UK's immigration policy isThe Taliban's anti-vax beliefs are a threat to world health"
+        }
+    ]
+}

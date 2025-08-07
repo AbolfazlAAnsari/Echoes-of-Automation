@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00043946009827777743,
+                    "sentence": "Published 5:19 pm Friday, May 26, 2023ByStaff ReportsThe first Memorial Day, according to Funk and Wagnalls New Encyclopedia, was observed May 30, 1868.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000970599940046668,
+                    "sentence": "The important event was ordered by Gen. John Alexander Logan (1826-1886), an American soldier and founder of the Grand Army of the Republic, and politician from Illinois, for the purpose of decorating the graves of the American Civil War dead.Memorial Day was observed each May 30 until 1971 when most U.S. states changed the date to a newly-established federal schedule of holiday observance, which is the last Monday of May.Originally known as Decoration Day to honor the U.S. armed services personnel killed in wartime, Memorial Day is a legal, federal holiday traditionally marked by parades, memorial services and speeches, and ceremonies, and the traditional decorations of the graves or tombs with flowers and U.S. flags.On May 29, this year, we honor and remember our deceased brave soldiers and veterans, our dedicated men and women of the U.S. Armed Forces who proudly served and sacrificed their lives fighting to preserve peace and freedom we now cherish and enjoy.On this special occasion, we pay solemn tribute to our fallen, unsung heroes of war and peace.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001258303178474307,
+                    "sentence": "We know that their good intentions and noble deeds have made America “the land of the free” and deader of the free world.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04402253404259682,
+                    "sentence": "Through their ultimate sacrifices, we are all beneficiaries to the peace, freedom, democracy and liberty they've been fighting and dying for.As we gather together in churches and cemeteries to offer our prayers and lay flowers for our departed loved ones, let's also reflect on the many contributions our soldiers have made to our great nation.On this Memorial Day, let's pause for a few moments to honor, salute, pay tribute and give thanks to our fine men and women in uniform who have served us, and paid the ultimate price/sacrifice ᅳ their precious life ᅳ for our sake.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.22863760590553284,
+                    "sentence": "To them, we say, “may your legacy live on and on…”I'd like to share with you my poem, “In Loving Memory,” which I humbly dedicate to our armed forces personnel who lost their lives in the war on terrorism, fighting for freedom and peace throughout the world:“With hope and valor, you fought for freedom | Without fear and reservation, you shed tears and blood// To the end… | Committed to defend your country, your home// You fought decisively… | Struggled hard to win victory | With so much pain, sacrifice and suffering | In the service to humanity, you left us a legacy | To cherish and to uphold | That love for one's country is worth-dying for!“Gone, but not forgotten, yet honored and remembered | Today, yesterday, and forever ᅳ | You the unsung heroes | The freedom lovers and fighters | The peacemakers and peacekeepers… | You will always be our ideal and inspiration | For a better life-world | Where there's love and unity | Peace and brotherhood among humankind.”May the souls of our beloved departed veterans, through the mercy of God, rest in peace.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.2680027186870575,
+                    "sentence": "Amen.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09388219565153122,
+                    "sentence": "Happy Memorial Day!Chris A. Quilpa, a retired U.S. Navy veteran, lives in Suffolk and Chesapeake.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.19150586426258087,
+                    "sentence": "Email him at chris.a.quilpa@gmail.com.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.23557831346988678,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006267047021538019,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.059261636754220776,
+            "class_probabilities": {
+                "human": 0.9406968808522652,
+                "ai": 0.059261636754220776,
+                "mixed": 4.148239351388549e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9406968808522652,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.059261636754220776,
+                    "human": 0.9406968808522652,
+                    "mixed": 4.148239351388549e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:19 pm Friday, May 26, 2023ByStaff ReportsThe first Memorial Day, according to Funk and Wagnalls New Encyclopedia, was observed May 30, 1868. The important event was ordered by Gen. John Alexander Logan (1826-1886), an American soldier and founder of the Grand Army of the Republic, and politician from Illinois, for the purpose of decorating the graves of the American Civil War dead.Memorial Day was observed each May 30 until 1971 when most U.S. states changed the date to a newly-established federal schedule of holiday observance, which is the last Monday of May.Originally known as Decoration Day to honor the U.S. armed services personnel killed in wartime, Memorial Day is a legal, federal holiday traditionally marked by parades, memorial services and speeches, and ceremonies, and the traditional decorations of the graves or tombs with flowers and U.S. flags.On May 29, this year, we honor and remember our deceased brave soldiers and veterans, our dedicated men and women of the U.S. Armed Forces who proudly served and sacrificed their lives fighting to preserve peace and freedom we now cherish and enjoy.On this special occasion, we pay solemn tribute to our fallen, unsung heroes of war and peace. We know that their good intentions and noble deeds have made America “the land of the free” and deader of the free world. Through their ultimate sacrifices, we are all beneficiaries to the peace, freedom, democracy and liberty they’ve been fighting and dying for.As we gather together in churches and cemeteries to offer our prayers and lay flowers for our departed loved ones, let’s also reflect on the many contributions our soldiers have made to our great nation.On this Memorial Day, let’s pause for a few moments to honor, salute, pay tribute and give thanks to our fine men and women in uniform who have served us, and paid the ultimate price/sacrifice — their precious life — for our sake. To them, we say, “may your legacy live on and on…”I’d like to share with you my poem, “In Loving Memory,” which I humbly dedicate to our armed forces personnel who lost their lives in the war on terrorism, fighting for freedom and peace throughout the world:“With hope and valor, you fought for freedom | Without fear and reservation, you shed tears and blood// To the end… | Committed to defend your country, your home// You fought decisively… | Struggled hard to win victory | With so much pain, sacrifice and suffering | In the service to humanity, you left us a legacy | To cherish and to uphold | That love for one’s country is worth-dying for!“Gone, but not forgotten, yet honored and remembered | Today, yesterday, and forever — | You the unsung heroes | The freedom lovers and fighters | The peacemakers and peacekeepers… | You will always be our ideal and inspiration | For a better life-world | Where there’s love and unity | Peace and brotherhood among humankind.”May the souls of our beloved departed veterans, through the mercy of God, rest in peace. Amen. Happy Memorial Day!Chris A. Quilpa, a retired U.S. Navy veteran, lives in Suffolk and Chesapeake. Email him at chris.a.quilpa@gmail.com.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

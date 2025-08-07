@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 3.079111411352642e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.708029751374852e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukA man of actionOnce again I congratulate Keir Starmer this timefor dropping Azhar Alias the official Labour candidate in theRochdaleby-election.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.6031275410787202e-05,
+                    "sentence": "The behaviour ofAli was unacceptable, shameful, and damaged lots of work put in by everyone in the Labour Party.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.683438651729375e-05,
+                    "sentence": "Paul Waugh was the rightcandidate from the start, especially given his widespread knowledge and reporting in the area.What this move from the Labour leadership shows, however, is the change we have so rapidly seen from Starmer in dealing withantisemitism.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.1973759178072214e-05,
+                    "sentence": "Antisemitism is an issue that has been tackled head-on by Starmer and it is that change that he should be judged upon.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.5066461603273638e-05,
+                    "sentence": "Starmer is a man of courage, a man of change, and a man of action and it is exactly these characteristics that make him ideal to be our next prime minister.Geoffrey BrookingHavantRishi Sunak has shifted the blame to LabourThe Independent's recent articleregarding the prime minister's attempts to try and appease voters left me reeling.Not only is Rishi Sunak asking for people to give the Tories more time before they properly “benefit” from their policies, but after 14 years of being in power he then has theaudacity to shift the blameto the Labour Party.What a desperate man he is, preaching to the public about waiting for the golden fleece to materialise while all the time benefitingfrom a millionaire's income.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.9189517843187787e-05,
+                    "sentence": "Ordinary members of the population are suffering.Paul AtkinsBurntwoodNo warningNever mind abouttrigger warnings in theatres -what about warnings on TV news?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.8679578715818934e-05,
+                    "sentence": "Before articles on Gaza or Ukraine, news broadcasters warn us that there may be upsetting scenes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.148437124560587e-05,
+                    "sentence": "What an insult to thosesuffering these atrocitiesthat we, sitting in our comfortable living rooms, may be upset by hospital scenes showing the dead and dying.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.149636929971166e-05,
+                    "sentence": "They didn't get a warning, nor should we.Nigel FoxEdinburghThe so-called Brexit benefitsTo say that I agreed withThe Independent's recent editorialis an understatement.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.128458047285676e-05,
+                    "sentence": "For what it is worth, I do feel vindicated, because I knew that Brexit was a catastrophic idea and not because of any clever or economic intelligence on my part, just a pure gut instinct.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012363505084067583,
+                    "sentence": "Indeed, it has led to this country becoming diminished in Europe and the world and indeed economically poorer.That is not to say that theEuropean Unionhas not got its own problems, but my word, we should have been at the top table helping to facilitate their proactive remedies.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011893992777913809,
+                    "sentence": "I can hardly bear to read the dire statistics quoted, for fear it will raise my blood pressure further.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009946598438546062,
+                    "sentence": "I don't hold any ill will to the people who voted to leave, because they weremisled by supercharged vaingloriouspromises of a buccaneering Britain.David Cameronwanted to stop his rampant Eurosceptics from banging on about Europe and now we are reaping no benefits for it at all.Judith A DanielsNorfolk",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 1.9423489116273474e-12
+                }
+            ],
+            "completely_generated_prob": 0.01281881855424871,
+            "class_probabilities": {
+                "human": 0.9871811814457513,
+                "ai": 0.01281881855424871,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9871811814457513,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01281881855424871,
+                    "human": 0.9871811814457513,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW : Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukA man of actionOnce again I congratulate Keir Starmer this timefor dropping Azhar Alias the official Labour candidate in theRochdaleby-election. The behaviour ofAli was unacceptable, shameful, and damaged lots of work put in by everyone in the Labour Party. Paul Waugh was the rightcandidate from the start, especially given his widespread knowledge and reporting in the area.What this move from the Labour leadership shows, however, is the change we have so rapidly seen from Starmer in dealing withantisemitism.  Antisemitism is an issue that has been tackled head-on by Starmer and it is that change that he should be judged upon. Starmer is a man of courage, a man of change, and a man of action and it is exactly these characteristics that make him ideal to be our next prime minister.Geoffrey BrookingHavantRishi Sunak has shifted the blame to LabourThe Independent’s recent articleregarding the prime minister’s attempts to try and appease voters left me reeling.Not only is Rishi Sunak asking for people to give the Tories more time before they properly “benefit” from their policies, but after 14 years of being in power he then has theaudacity to shift the blameto the Labour Party.What a desperate man he is, preaching to the public about waiting for the golden fleece to materialise while all the time benefitingfrom a millionaire’s income.  Ordinary members of the population are suffering.Paul AtkinsBurntwoodNo warningNever mind abouttrigger warnings in theatres –what about warnings on TV news? Before articles on Gaza or Ukraine, news broadcasters warn us that there may be upsetting scenes. What an insult to thosesuffering these atrocitiesthat we, sitting in our comfortable living rooms, may be upset by hospital scenes showing the dead and dying. They didn’t get a warning, nor should we.Nigel FoxEdinburghThe so-called Brexit benefitsTo say that I agreed withThe Independent’s recent editorialis an understatement. For what it is worth, I do feel vindicated, because I knew that Brexit was a catastrophic idea and not because of any clever or economic intelligence on my part, just a pure gut instinct. Indeed, it has led to this country becoming diminished in Europe and the world and indeed economically poorer.That is not to say that theEuropean Unionhas not got its own problems, but my word, we should have been at the top table helping to facilitate their proactive remedies. I can hardly bear to read the dire statistics quoted, for fear it will raise my blood pressure further. I don’t hold any ill will to the people who voted to leave, because they weremisled by supercharged vaingloriouspromises of a buccaneering Britain.David Cameronwanted to stop his rampant Eurosceptics from banging on about Europe and now we are reaping no benefits for it at all.Judith A DanielsNorfolk"
+        }
+    ]
+}

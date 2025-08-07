@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0002859300875570625,
+                    "sentence": "Michelle Cottle and David French analyze the latest indictment.Donald Trump has been indicted, again.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00036641990300267935,
+                    "sentence": "But this time, he's got company.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00031408085487782955,
+                    "sentence": "The Opinion writers Michelle Cottle and David French discuss why that makes this indictment different ᅳ and potentially more effective ᅳ than the others.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00020050417515449226,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00025826398632489145,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00025910805561579764,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.This Times Opinion Short was produced by Phoebe Lett.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00035312300315126777,
+                    "sentence": "It was edited by Stephanie Joyce and Annie-Rose Strasser.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003386895405128598,
+                    "sentence": "Mixing by Carole Sabouraud.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00037492605042643845,
+                    "sentence": "Original music by Isaac Jones.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004231023776810616,
+                    "sentence": "Fact-checking by Mary Marge Locker and Kate Sinclair.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005759185878559947,
+                    "sentence": "Audience strategy by Shannon Busta, Kristina Samulewski and Derek Arthur.PHOTO: (PHOTOGRAPH BY Illustration by Akshita Chandra; photograph by Doug Mills/The New York Times FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.015657891702602178,
+            "class_probabilities": {
+                "human": 0.9843421082973979,
+                "ai": 0.015657891702602178,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9843421082973979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.015657891702602178,
+                    "human": 0.9843421082973979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Michelle Cottle and David French analyze the latest indictment.Donald Trump has been indicted, again. But this time, he’s got company. The Opinion writers Michelle Cottle and David French discuss why that makes this indictment different — and potentially more effective — than the others.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.This Times Opinion Short was produced by Phoebe Lett. It was edited by Stephanie Joyce and Annie-Rose Strasser. Mixing by Carole Sabouraud. Original music by Isaac Jones. Fact-checking by Mary Marge Locker and Kate Sinclair. Audience strategy by Shannon Busta, Kristina Samulewski and Derek Arthur.PHOTO:  (PHOTOGRAPH BY Illustration by Akshita Chandra; photograph by Doug Mills/The New York Times FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

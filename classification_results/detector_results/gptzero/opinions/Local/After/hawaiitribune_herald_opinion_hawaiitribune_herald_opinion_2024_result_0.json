@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.003981702961027622,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°V2H can improveyour self-sufficiencyV2H can improveyour self-sufficiencyTropical Storm Hone has passed, leaving flood and wind damage but fortunately no loss of life.For those who lost power for a day or more, our resilience was tested.Many thanks to the Hawaiian Electric crews who worked around the clock to restore power safely and as quickly as possible.Flashlights, a camping stove and maybe a portable home generator have been traditional ways to cope.For households with rooftop solar and battery storage, being self-sufficient is relatively easy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004723961465060711,
+                    "sentence": "Even on rainy days, solar panels will gather enough power to keep the fridge running and the battery topped up.Certain models of electric vehicles now provide increased home resilience with vehicle-to-home (V2H) power supply.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004968871362507343,
+                    "sentence": "With an adapter plug and a properly rated extension cord, an EV can send 120 volt 15 amp AC power to your fridge, your toaster, lights and even an efficient induction cook-top.During the Hone storm outage, we ran the fridge, lights and other small appliances, and these had minimal drain on our 65 kilowatt-hour Kia Niro EV traction-battery.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009574065916240215,
+                    "sentence": "The battery depleted at a rate of about 1% every two to three hours.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005335289752110839,
+                    "sentence": "With a full battery, this equates to over a week of basic home power.When considering an electric vehicle, be sure to ask about V2H ᅳ you'll be glad you did.Ron ReillyVolcanoProtecting propertyfrom destructive pigsSo, the government is finally taking action to help farmers who have been overrun by pigs (“$400K grant to help farmers control pigs,” Aug. 25).What about those of us who have spent many thousands of dollars already to protect our property?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007361567113548517,
+                    "sentence": "When one must pull from investment savings to secure the property, it's considered income and taxed.The pigs are a health danger to my herd of horses from brucellosis.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004981608362868428,
+                    "sentence": "They have interbred with my neighbors' white pigs, which were allowed to run loose throughout the neighborhood, all of them tearing up yards and pastures and threatening my dogs.The damage to my 11-acre pasture made it difficult to mow, and the pigs also rooted up my yard, even going under the house to sleep.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009500514715909958,
+                    "sentence": "They ruined the original fencing, making escape for my dogs another issue.There are already restrictions on my land, in that I cannot sell a portion, breaking it into smaller plots.Recent news indicates that, although the land was bought as pasture for my horses, it will no longer be a tax write-off.As a single retired older woman without much help (and no farm machinery), I am not actively growing crops, as will be required in future.Will Uncle Sam “grandfather in” any of my improvements, or just keep gouging us middle class folks?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017978220712393522,
+                    "sentence": "Sigh.Linda BlagravePapaaloa.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°V2H can improveyour self-sufficiencyV2H can improveyour self-sufficiencyTropical Storm Hone has passed, leaving flood and wind damage but fortunately no loss of life.For those who lost power for a day or more, our resilience was tested.Many thanks to the Hawaiian Electric crews who worked around the clock to restore power safely and as quickly as possible.Flashlights, a camping stove and maybe a portable home generator have been traditional ways to cope.For households with rooftop solar and battery storage, being self-sufficient is relatively easy. Even on rainy days, solar panels will gather enough power to keep the fridge running and the battery topped up.Certain models of electric vehicles now provide increased home resilience with vehicle-to-home (V2H) power supply. With an adapter plug and a properly rated extension cord, an EV can send 120 volt 15 amp AC power to your fridge, your toaster, lights and even an efficient induction cook-top.During the Hone storm outage, we ran the fridge, lights and other small appliances, and these had minimal drain on our 65 kilowatt-hour Kia Niro EV traction-battery. The battery depleted at a rate of about 1% every two to three hours. With a full battery, this equates to over a week of basic home power.When considering an electric vehicle, be sure to ask about V2H — you’ll be glad you did.Ron ReillyVolcanoProtecting propertyfrom destructive pigsSo, the government is finally taking action to help farmers who have been overrun by pigs (“$400K grant to help farmers control pigs,” Aug. 25).What about those of us who have spent many thousands of dollars already to protect our property? When one must pull from investment savings to secure the property, it’s considered income and taxed.The pigs are a health danger to my herd of horses from brucellosis. They have interbred with my neighbors’ white pigs, which were allowed to run loose throughout the neighborhood, all of them tearing up yards and pastures and threatening my dogs.The damage to my 11-acre pasture made it difficult to mow, and the pigs also rooted up my yard, even going under the house to sleep. They ruined the original fencing, making escape for my dogs another issue.There are already restrictions on my land, in that I cannot sell a portion, breaking it into smaller plots.Recent news indicates that, although the land was bought as pasture for my horses, it will no longer be a tax write-off.As a single retired older woman without much help (and no farm machinery), I am not actively growing crops, as will be required in future.Will Uncle Sam “grandfather in” any of my improvements, or just keep gouging us middle class folks? Sigh.Linda BlagravePapaaloa."
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0003277611976955086,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00027474635862745345,
+                    "sentence": "Please send your letters toletters@independent.co.ukThose getting hot under the collar about ourfailing sewage infrastructureand the dire levels of investment by thewater companieshave every right to be incensed by the filthy state of our beaches and rivers, let alone the cost of improving our system.However, blaming thesemoney-grubbing utility giantsdoes not represent the full picture.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003890455700457096,
+                    "sentence": "Planners, local authority bodies, and thegovernment are equally complicitin this debacle.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00023893482284620404,
+                    "sentence": "They had in their hands the power to insist on aninfrastructurecapable of handling the waste from the thousands of new “Lego” homes plonked on farmland on the periphery of every city in the land.Blaming water companies alone allows local authorities a “get out of jail free” card to which they are not entitled.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002494612999726087,
+                    "sentence": "Had local planners insisted upon a risk assessment and surveys of sewer capacity before allowing any developments to proceed would havesaved miles of coastlineand rivers from an evil cocktail of pollutants, nutrient overload,and E coli.They're all complicit and should be equally accountable.Steve MackinderDenverNationalisation may not be the answerMany ofThe Independent's lettersand commentary lay much of the justified opprobrium and blame on the privatised status of the water companies in England and Wales and call forre-nationalisation as a solution.Little notice is taken of the situation in Scotland, where we suffer similaroutflows of untreated sewagedespite our water industry being nationalised.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00029265167540870607,
+                    "sentence": "It is the devolved government here that is ultimately responsible forrecognising the problemand for providing the resources for the solution.Yet the pollution persists across Scotland, so may I suggest calls for the nationalisation of the water companies in England and Wales may not be the panacea that is suggested?Roger ThomasEast LothianTimes will remain tough until these failed politicians are goneRishi Sunak says he knows that times are tough now... but really it has been tough for people sinceausterity was introducedby George Osborne.Every measure important to the British public, health, education, public services, utilities, and job security have deteriorated.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005335164605639875,
+                    "sentence": "Onlycosts have risen.The common denominator over the past 13 years has been Tory governments.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008006067364476621,
+                    "sentence": "I am afraid the sunny uplands they speak of are behind us, at least until these failed politicians are gone.William ParkFairhavenThe AI future is not looking good for our diverse and ageing populationThe announcement thatBTintends to roll outmore new technologymust surely leave customers with a sinking feeling if my experience of BT's current customer service is anything to go by.When the broadband of my neighbour, a Ukrainian guest in our village, was unexpectedly disconnected she was treated brutally by BT's chatbot.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007065790123306215,
+                    "sentence": "I intervened to help her, and it immediately became clear that the system was designed and tested by and for first-languageEnglish speakers who were relatively tech-savvy.So I wrote to the BT chairman making a number of constructive suggestions including the possibility of their chat accommodating non-English speakers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00042768940329551697,
+                    "sentence": "One would think that in the day of Google Translate, this would be relatively straightforward for a technology company to implement.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00048247998347505927,
+                    "sentence": "And even if only forUkrainians an appropriate responseto their plight.I received a standard reply which basically told me that my letter had been filed unread in their waste paper basket.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007765862392261624,
+                    "sentence": "If theirnew AI systemsare designed by BT'shumans that don't listen and don't appear to care, the future is not looking good for our diverse and ageing population.Phil GilbertHallaton",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.01565789170260218,
+            "class_probabilities": {
+                "human": 0.9843421082973979,
+                "ai": 0.01565789170260218,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9843421082973979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01565789170260218,
+                    "human": 0.9843421082973979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThose getting hot under the collar about ourfailing sewage infrastructureand the dire levels of investment by thewater companieshave every right to be incensed by the filthy state of our beaches and rivers, let alone the cost of improving our system.However, blaming thesemoney-grubbing utility giantsdoes not represent the full picture. Planners, local authority bodies, and thegovernment are equally complicitin this debacle. They had in their hands the power to insist on aninfrastructurecapable of handling the waste from the thousands of new “Lego” homes plonked on farmland on the periphery of every city in the land.Blaming water companies alone allows local authorities a “get out of jail free” card to which they are not entitled. Had local planners insisted upon a risk assessment and surveys of sewer capacity before allowing any developments to proceed would havesaved miles of coastlineand rivers from an evil cocktail of pollutants, nutrient overload,and E coli.They’re all complicit and should be equally accountable.Steve MackinderDenverNationalisation may not be the answerMany ofThe Independent’s lettersand commentary lay much of the justified opprobrium and blame on the privatised status of the water companies in England and Wales and call forre-nationalisation as a solution.Little notice is taken of the situation in Scotland, where we suffer similaroutflows of untreated sewagedespite our water industry being nationalised. It is the devolved government here that is ultimately responsible forrecognising the problemand for providing the resources for the solution.Yet the pollution persists across Scotland, so may I suggest calls for the nationalisation of the water companies in England and Wales may not be the panacea that is suggested?Roger ThomasEast LothianTimes will remain tough until these failed politicians are goneRishi Sunak says he knows that times are tough now... but really it has been tough for people sinceausterity was introducedby George Osborne.Every measure important to the British public, health, education, public services, utilities, and job security have deteriorated. Onlycosts have risen.The common denominator over the past 13 years has been Tory governments. I am afraid the sunny uplands they speak of are behind us, at least until these failed politicians are gone.William ParkFairhavenThe AI future is not looking good for our diverse and ageing populationThe announcement thatBTintends to roll outmore new technologymust surely leave customers with a sinking feeling if my experience of BT’s current customer service is anything to go by.When the broadband of my neighbour, a Ukrainian guest in our village, was unexpectedly disconnected she was treated brutally by BT’s chatbot. I intervened to help her, and it immediately became clear that the system was designed and tested by and for first-languageEnglish speakers who were relatively tech-savvy.So I wrote to the BT chairman making a number of constructive suggestions including the possibility of their chat accommodating non-English speakers. One would think that in the day of Google Translate, this would be relatively straightforward for a technology company to implement. And even if only forUkrainians an appropriate responseto their plight.I received a standard reply which basically told me that my letter had been filed unread in their waste paper basket. If theirnew AI systemsare designed by BT’shumans that don’t listen and don’t appear to care, the future is not looking good for our diverse and ageing population.Phil GilbertHallaton"
+        }
+    ]
+}

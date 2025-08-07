@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0003503297921270132,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006725410930812359,
+                    "sentence": "Please send your letters toletters@independent.co.ukI write as awife of a doctorand mother of two doctors.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006629302515648305,
+                    "sentence": "My husband and I made several sacrifices to educate and send our children to medical school, where they spent six years training as doctors At age 23/24 they were on the front line saving lives, working in major hospital in London and oftennot having any breaks on a 12-hour shift, not to mention being paid pittance.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00047347659710794687,
+                    "sentence": "We as parents have had to pay their rents.The problem we have with these politicians is that they haveno understandingof what healthcare staff have to endure, often having to work in filthy, broken-down hospitals where being short on staff is the norm.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005067380843684077,
+                    "sentence": "I often wonder how they would feel if their children had to work long hours on pittance pay in a highly pressured environment.To refer to junior doctors as “doctors in training” betrays a total lack of understanding and disregard for the profession.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000527495751157403,
+                    "sentence": "These doctors take full responsibility for patient care and make decisions to save lives.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005923762801103294,
+                    "sentence": "Without them, the hospitals would not function.Do these politicians want to lose highly trained British doctors to other countries who appreciate their training and their commitment?I feel sad and frustrated with the way our NHS is used as a political football.Tapshum PattniAddress suppliedMy husband died treating patients during Covid - but this country doesn't seem to care about his sacrificeMy husband was one of the last doctors who died in the pandemic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009146926458925009,
+                    "sentence": "He worked tirelessly from the start of the pandemic to the day he died.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019872707780450583,
+                    "sentence": "He went to work and collapsed while on a ward round.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07715724408626556,
+                    "sentence": "A combination of faulty PPE and exhaustion finally ripped through his immunity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1616360992193222,
+                    "sentence": "He was a fit and healthy 45-year-old with no underlying health conditions who dedicated the last two years of his life to saving others.No one from his hospital or the trust came to his funeral, and there were certainly no awards or recognition of his service or the service of the healthcare workers who worked tirelessly when the country was on its knees.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004483158409129828,
+                    "sentence": "My husband was one of the doctors who could not access life insurance as insurance companies refused to protect doctors working on Covid wards.Working as a doctor is a life wasted for a society that does not appreciate them.Salia HalimAddress suppliedEnough dither and delay from Rishi SunakSo, just days after his latest relaunch and the right wing of the Conservative Party are yet again undermining the prime minister by rebelling, this time over the net zero “boiler tax”.As if Suella Braverman's bombshell resignation statement wasn't enough, it was Braverman and her predecessor Priti Patel behind this one too with no less than 26 Tories objecting to Sunak's latest dithering over the cost of net zero.Can Rishi Sunak not do anything these days without Reform UK sympathisers causing chaos at the heart of government?What we need is strength and leadership from Sir Keir Starmer rather than dither and delay from Mr Sunak.A government committed to cutting bills, creating jobs, and cleaner energy rather than one that is tired, divided and at war with itself.Geoffrey BrookingHampshireIt's time for the Tories to ask the real questions about immigrationInstead of trying to break up the families of immigrant workers, many of whom will be temporary, maybe the government should be addressing why we are so reliant on these people and why their policies have led to such a skill shortage in the first place.G ForwardAddress supplied",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.037526171686261885,
+            "class_probabilities": {
+                "human": 0.9624738283137382,
+                "ai": 0.037526171686261885,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9624738283137382,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.037526171686261885,
+                    "human": 0.9624738283137382,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI write as awife of a doctorand mother of two doctors. My husband and I made several sacrifices to educate and send our children to medical school, where they spent six years training as doctors At age 23/24 they were on the front line saving lives, working in major hospital in London and oftennot having any breaks on a 12-hour shift, not to mention being paid pittance. We as parents have had to pay their rents.The problem we have with these politicians is that they haveno understandingof what healthcare staff have to endure, often having to work in filthy, broken-down hospitals where being short on staff is the norm. I often wonder how they would feel if their children had to work long hours on pittance pay in a highly pressured environment.To refer to junior doctors as “doctors in training” betrays a total lack of understanding and disregard for the profession. These doctors take full responsibility for patient care and make decisions to save lives. Without them, the hospitals would not function.Do these politicians want to lose highly trained British doctors to other countries who appreciate their training and their commitment?I feel sad and frustrated with the way our NHS is used as a political football.Tapshum PattniAddress suppliedMy husband died treating patients during Covid – but this country doesn’t seem to care about his sacrificeMy husband was one of the last doctors who died in the pandemic. He worked tirelessly from the start of the pandemic to the day he died. He went to work and collapsed while on a ward round. A combination of faulty PPE and exhaustion finally ripped through his immunity. He was a fit and healthy 45-year-old with no underlying health conditions who dedicated the last two years of his life to saving others.No one from his hospital or the trust came to his funeral, and there were certainly no awards or recognition of his service or the service of the healthcare workers who worked tirelessly when the country was on its knees. My husband was one of the doctors who could not access life insurance as insurance companies refused to protect doctors working on Covid wards.Working as a doctor is a life wasted for a society that does not appreciate them.Salia HalimAddress suppliedEnough dither and delay from Rishi SunakSo, just days after his latest relaunch and the right wing of the Conservative Party are yet again undermining the prime minister by rebelling, this time over the net zero “boiler tax”.As if Suella Braverman’s bombshell resignation statement wasn’t enough, it was Braverman and her predecessor Priti Patel behind this one too with no less than 26 Tories objecting to Sunak’s latest dithering over the cost of net zero.Can Rishi Sunak not do anything these days without Reform UK sympathisers causing chaos at the heart of government?What we need is strength and leadership from Sir Keir Starmer rather than dither and delay from Mr Sunak.A government committed to cutting bills, creating jobs, and cleaner energy rather than one that is tired, divided and at war with itself.Geoffrey BrookingHampshireIt’s time for the Tories to ask the real questions about immigrationInstead of trying to break up the families of immigrant workers, many of whom will be temporary, maybe the government should be addressing why we are so reliant on these people and why their policies have led to such a skill shortage in the first place.G ForwardAddress supplied"
+        }
+    ]
+}

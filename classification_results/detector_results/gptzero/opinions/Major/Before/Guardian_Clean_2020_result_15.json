@@ -1,0 +1,160 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.03155704215168953,
+                    "sentence": "We know too little about China, and will soon know a little less.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.021056123077869415,
+                    "sentence": "Beijing iskicking out three excellent reporters, in the first direct expulsion since 1998.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012775720097124577,
+                    "sentence": "Officials said the trio's employer, the Wall Street Journal, had refused to apologise for a headline on an opinion piece about the coronavirus outbreak: \"China is the real sick man of Asia.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010245461016893387,
+                    "sentence": "\"The headline was offensive to many people, includingstaff at the paper.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010024613700807095,
+                    "sentence": "Not only does the phrase date from the era when foreign powers were carving up China, but it draws upon racist beliefs that Asian peoplecarried and spread diseases, whichreverberate and fuel bigotry even now.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005820705555379391,
+                    "sentence": "It was also insensitive given the hundreds killed and thousands sickened by the virus.But its link to the expulsions should not be taken at face value.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007525261491537094,
+                    "sentence": "Reporters have nothing to do with comment pieces, and this was written and edited outside China.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008341731503605843,
+                    "sentence": "The journalists - Chao Deng, Josh Chin and Philip Wen - have produced important coverage, including on the horrific treatment of Uighurs in Xinjiang.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010957473888993263,
+                    "sentence": "Wen also wrote about an Australian investigation into a relative of the Chinese leader Xi Jinping; his co-author wasrefused a visa renewallast year - one of several reporters forced out that way in recent years.Strikingly, the decision was announced one day after the US said it was designating five media outlets asoperatives of the Chinese state.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009681107476353645,
+                    "sentence": "(Not only are they part of the propaganda apparatus, but staff at the news agency Xinhua, for example, produce reports reserved for senior leaders in addition to regular coverage.)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9902189373970032,
+                    "sentence": "Though the move is primarily symbolic, many had predicted that Beijing might act in response.Correspondents in China already face harassment and surveillance, and know that their Chinese colleagues and sources are at much graver risk of retaliation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9896957874298096,
+                    "sentence": "The expulsions are a clear attempt to intimidate foreign media and shape reporting and commentary done far beyond China's borders.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9821258187294006,
+                    "sentence": "As news broke of the WSJ expulsions, Chinese diplomats werepressuring Nepalese mediaover a coronavirus commentary and illustration.Back at home, the Chinese journalists who have produced outstanding coverage of the epidemic face increasing curbs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9770277142524719,
+                    "sentence": "On the same day that Beijing announced the WSJ expulsions, a well-established Chinese blogvanished; its last article wasreportedly titled\"Chinese are all paying the price for the death of media\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9844580888748169,
+                    "sentence": "Meanwhile, Wuhan's new party secretarysaidofficials would be held responsible \"if a single new case is found\" - a remark supposed to encourage thoroughness, but giving cadres good reason to conceal any further infections.Since the WSJ headline caused real anger in China, the expulsions may help to divert growing rage at the official handling of the outbreak towards foreigners.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9804526567459106,
+                    "sentence": "But reliable,detailed and humanecoverage - of the kind that Deng, one of those expelled, has been producing from Wuhan - is in the interests of the public as a whole, and Chinese citizens most of all.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 16,
+                    "completely_generated_prob": 5.1667535450869375e-06
+                }
+            ],
+            "completely_generated_prob": 0.3086534012031467,
+            "class_probabilities": {
+                "human": 0.6913465987968532,
+                "ai": 0.3086534012031467,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.6913465987968532,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.3086534012031467,
+                    "human": 0.6913465987968532,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "We know too little about China, and will soon know a little less. Beijing iskicking out three excellent reporters, in the first direct expulsion since 1998. Officials said the trio's employer, the Wall Street Journal, had refused to apologise for a headline on an opinion piece about the coronavirus outbreak: \"China is the real sick man of Asia.\"The headline was offensive to many people, includingstaff at the paper. Not only does the phrase date from the era when foreign powers were carving up China, but it draws upon racist beliefs that Asian peoplecarried and spread diseases, whichreverberate and fuel bigotry even now. It was also insensitive given the hundreds killed and thousands sickened by the virus.But its link to the expulsions should not be taken at face value. Reporters have nothing to do with comment pieces, and this was written and edited outside China. The journalists - Chao Deng, Josh Chin and Philip Wen - have produced important coverage, including on the horrific treatment of Uighurs in Xinjiang. Wen also wrote about an Australian investigation into a relative of the Chinese leader Xi Jinping; his co-author wasrefused a visa renewallast year - one of several reporters forced out that way in recent years.Strikingly, the decision was announced one day after the US said it was designating five media outlets asoperatives of the Chinese state. (Not only are they part of the propaganda apparatus, but staff at the news agency Xinhua, for example, produce reports reserved for senior leaders in addition to regular coverage.) Though the move is primarily symbolic, many had predicted that Beijing might act in response.Correspondents in China already face harassment and surveillance, and know that their Chinese colleagues and sources are at much graver risk of retaliation. The expulsions are a clear attempt to intimidate foreign media and shape reporting and commentary done far beyond China's borders. As news broke of the WSJ expulsions, Chinese diplomats werepressuring Nepalese mediaover a coronavirus commentary and illustration.Back at home, the Chinese journalists who have produced outstanding coverage of the epidemic face increasing curbs. On the same day that Beijing announced the WSJ expulsions, a well-established Chinese blogvanished; its last article wasreportedly titled\"Chinese are all paying the price for the death of media\". Meanwhile, Wuhan's new party secretarysaidofficials would be held responsible \"if a single new case is found\" - a remark supposed to encourage thoroughness, but giving cadres good reason to conceal any further infections.Since the WSJ headline caused real anger in China, the expulsions may help to divert growing rage at the official handling of the outbreak towards foreigners. But reliable,detailed and humanecoverage - of the kind that Deng, one of those expelled, has been producing from Wuhan - is in the interests of the public as a whole, and Chinese citizens most of all."
+        }
+    ]
+}

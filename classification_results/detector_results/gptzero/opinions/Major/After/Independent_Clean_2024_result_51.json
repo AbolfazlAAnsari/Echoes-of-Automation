@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0002320619096281007,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022072841238696128,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe recentfiasco in the Commonsshows just why this country's public services are not fit for purpose.The three motions put forwardby the different partieswere incredibly similar, and regardless of the outcome, the votes would not have affected the situation inGaza.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002106505271513015,
+                    "sentence": "The people ofPalestineare suffering while our MPs are grandstanding and trying to score points off each other instead of really trying to make a difference.When three parties cannotagree on such a fundamental issueas stopping the massacre of thousands of innocent children, women and men, what hope is there of them ever sorting out our failing NHS, transport systems or housing sector?It is time for our archaic, adversarial system of politics to be abolished and replaced with one that allows proper, respectful debate.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00030245567904785275,
+                    "sentence": "Perhaps we should have something akin to the Scottish and Welsh assemblies where, although not perfect, MPs appear to be slightly better behaved.Lesley ShepherdHampshireA sad day for democracyThe debacle of the pointless Palestine debatewas astounding to witness.The tumultuous day only resulted in the government ignoring any motion passed, so in the end, nothing was achieved.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003371925267856568,
+                    "sentence": "Due to the gravitas of the issue, MPs were not even allowed to vote on their conscience and instead, it was reduced to party politics.Rather than concentrating on the threat tothe Palestinian people, the speaker intervened due to heightened concern around MPs' safety and prevented the SNP from trying to cause division with the Labour Party - not that it really mattered, as the government withdrew from the debate.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00031197097268886864,
+                    "sentence": "This issue is so important and should be a concern to everyone rather than partisan.Simon Miles-TaylorMaldonThatcher 2.0Who doesPenny Mordauntthink she is, telling parliament that she believesKeir Starmer is not fitto run the country?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015752502076793462,
+                    "sentence": "The audacity!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019131138105876744,
+                    "sentence": "After all the catastrophes that have occurred under her party.She is not carrying her ceremonial sword now, she needs to get a grip on the real world where people are under pressure to pay bills and survive the appalling state of our NHS.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002154710702598095,
+                    "sentence": "These are the issues that politicians should be focusing on, not trying to beMargaret Thatcher typetwo.Paul AtkinsBurntwoodForced to co-operateI am writing following the recent chaos in the House of Commons - and comments in The Independent about how this may be partly attributable to our adversarial system.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006741762161254883,
+                    "sentence": "I would like to make a plea for theadoption of proportional representationin our elections as soon as possible.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018022204749286175,
+                    "sentence": "This might go some way towardsforcing our representatives tobe more cooperative in solving such terrible problems as the war in Gaza.Jane ParsonsLancashireSir SoftyI readAndrew Grice's recent columnand the fact that Dominic Grieve, a well-respected former attorney general would have reappointed Starmer as director of public prosecutions in a heartbeat is telling.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007110158912837505,
+                    "sentence": "The government cannot easily circumvent thiswith their tiresome attacksthat he is soft on crime.Personally, I believe Grieve, and the Tories who state that he is out for revenge are just plain daft.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011727859964594245,
+                    "sentence": "So while the country and the world are going to hell in a handcart, this unedifying business goes on where there are far bigger issues affecting this beleaguered country.Hopefully, the forthcomingbiographyabout Starmer will be illuminating and put to bed some of the wilder and mendacious fancies about his legal past and show him to have actedwith integrity and commitment,which the majority of the public would more than likely believe.Judith A DanielsNorfolk",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.009821925071449822,
+            "class_probabilities": {
+                "human": 0.9901780749285501,
+                "ai": 0.009821925071449822,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9901780749285501,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.009821925071449822,
+                    "human": 0.9901780749285501,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThe recentfiasco in the Commonsshows just why this country’s public services are not fit for purpose.The three motions put forwardby the different partieswere incredibly similar, and regardless of the outcome, the votes would not have affected the situation inGaza.  The people ofPalestineare suffering while our MPs are grandstanding and trying to score points off each other instead of really trying to make a difference.When three parties cannotagree on such a fundamental issueas stopping the massacre of thousands of innocent children, women and men, what hope is there of them ever sorting out our failing NHS, transport systems or housing sector?It is time for our archaic, adversarial system of politics to be abolished and replaced with one that allows proper, respectful debate. Perhaps we should have something akin to the Scottish and Welsh assemblies where, although not perfect, MPs appear to be slightly better behaved.Lesley ShepherdHampshireA sad day for democracyThe debacle of the pointless Palestine debatewas astounding to witness.The tumultuous day only resulted in the government ignoring any motion passed, so in the end, nothing was achieved. Due to the gravitas of the issue, MPs were not even allowed to vote on their conscience and instead, it was reduced to party politics.Rather than concentrating on the threat tothe Palestinian people, the speaker intervened due to heightened concern around MPs’ safety and prevented the SNP from trying to cause division with the Labour Party – not that it really mattered, as the government withdrew from the debate. This issue is so important and should be a concern to everyone rather than partisan.Simon Miles-TaylorMaldonThatcher 2.0Who doesPenny Mordauntthink she is, telling parliament that she believesKeir Starmer is not fitto run the country? The audacity! After all the catastrophes that have occurred under her party.She is not carrying her ceremonial sword now, she needs to get a grip on the real world where people are under pressure to pay bills and survive the appalling state of our NHS. These are the issues that politicians should be focusing on, not trying to beMargaret Thatcher typetwo.Paul AtkinsBurntwoodForced to co-operateI am writing following the recent chaos in the House of Commons – and comments in The Independent about how this may be partly attributable to our adversarial system. I would like to make a plea for theadoption of proportional representationin our elections as soon as possible. This might go some way towardsforcing our representatives tobe more cooperative in solving such terrible problems as the war in Gaza.Jane ParsonsLancashireSir SoftyI readAndrew Grice’s recent columnand the fact that Dominic Grieve, a well-respected former attorney general would have reappointed Starmer as director of public prosecutions in a heartbeat is telling. The government cannot easily circumvent thiswith their tiresome attacksthat he is soft on crime.Personally, I believe Grieve, and the Tories who state that he is out for revenge are just plain daft. So while the country and the world are going to hell in a handcart, this unedifying business goes on where there are far bigger issues affecting this beleaguered country.Hopefully, the forthcomingbiographyabout Starmer will be illuminating and put to bed some of the wilder and mendacious fancies about his legal past and show him to have actedwith integrity and commitment,which the majority of the public would more than likely believe.Judith A DanielsNorfolk"
+        }
+    ]
+}

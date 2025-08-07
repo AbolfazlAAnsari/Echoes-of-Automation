@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 6.618064799113199e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.742649904685095e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukHasLiz Trussbeen reading Clause 4 of the old Labour Party Constitution?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.348303188337013e-05,
+                    "sentence": "Famously this committed the Party to seek “Common Ownership” of, among other things, “the means of Exchange (i.ebanking)”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.344349119695835e-05,
+                    "sentence": "The suggestion she might renationalise theBank of Englandwould tie in with this.Interestingly it was Labour's Gordon Brown who in his first (quite dramatic) act as Chancellor in 1997 de-nationalised the Bank.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.7940396800404415e-05,
+                    "sentence": "A move that seems to have served the nation pretty well.Andrew McLuskeyAddress withheldEngland's anthemWhy is the England team using the name of a foreign city for its anthem at the Commonwealth Games?I accept that “Jerusalem” has a good tune and that it mentions England in the lyrics, but why would we want to build that troubled city “in England's green and pleasant land”?What was wrong with the stirring old anthem of “Land of Hope and Glory” which was composed by an Englishman here in the heart of England where these games are currently based?Brian RushtonStourport-on-SevernWhy not cut all taxes?If reducing taxes is the answer to the combined ills of inflation, low productivity, and Brexit-induced trade losses, then abolishing all taxes is surely the recipe for unbounded growth and wealth.I believe the appropriate phrase is “reductio ad absurdum.”Roger ThomasEast LothianA comedy actMay I suggest that Liz Truss and Rishi Sunak form a professional stand-up comedy act and tour the country to entertain and amuse its audiences.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.837839802959934e-05,
+                    "sentence": "This would allow for a suitable person to be elected prime minister to steer this country out of the mess it has created for itself?Gunter StraubLondonGloomy news for England is good for ScotlandThe gloomy news from the Bank of England makes it a virtual certainty that Scotland will secede from the UK at the earliest possible opportunity - and I don't blame them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001117565407184884,
+                    "sentence": "Scotland, who never ever voted for Brexit, will then rejoin the EEC.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001569435407873243,
+                    "sentence": "This in turn will cause dozens and maybe hundreds of English companies to move to Scotland to take advantage of easy access to European markets.We the people are starting to pay the price for voting in a corrupt and crony-ridden government led by the most disastrous prime minister we have ever had.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0027308629360049963,
+                    "sentence": "History will blame him for the break-up of the UK.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0022957997862249613,
+                    "sentence": "And Great Britain without Scotland - and probably Northern Ireland later on - will then be reduced to little England, an impoverished place.Further, due to the dull, negative Sir Keir Starmer, Labour offers no better policies than the third rate bunch we have in power right now.David LeeAddress withheldTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereHacking the Tory leadership race?I read with interest that “malign actors” might be considering tampering with the Conservative Party's leadership ballot.Given the choice of candidates available to be officially selected, the only way these “malign actors” could hack the ballot to provide a worse potential future for this country is for the current incumbent to be announced the ballot winner on 5 September!Phil RolandiSurrey",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.008958492756682587,
+            "class_probabilities": {
+                "human": 0.9910415072433174,
+                "ai": 0.008958492756682587,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9910415072433174,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.008958492756682587,
+                    "human": 0.9910415072433174,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukHasLiz Trussbeen reading Clause 4 of the old Labour Party Constitution? Famously this committed the Party to seek “Common Ownership” of, among other things, “the means of Exchange (i.ebanking)”. The suggestion she might renationalise theBank of Englandwould tie in with this.Interestingly it was Labour’s Gordon Brown who in his first (quite dramatic) act as Chancellor in 1997 de-nationalised the Bank. A move that seems to have served the nation pretty well.Andrew McLuskeyAddress withheldEngland’s anthemWhy is the England team using the name of a foreign city for its anthem at the Commonwealth Games?I accept that “Jerusalem” has a good tune and that it mentions England in the lyrics, but why would we want to build that troubled city “in England’s green and pleasant land”?What was wrong with the stirring old anthem of “Land of Hope and Glory” which was composed by an Englishman here in the heart of England where these games are currently based?Brian RushtonStourport-on-SevernWhy not cut all taxes?If reducing taxes is the answer to the combined ills of inflation, low productivity, and Brexit-induced trade losses, then abolishing all taxes is surely the recipe for unbounded growth and wealth.I believe the appropriate phrase is “reductio ad absurdum.”Roger ThomasEast LothianA comedy actMay I suggest that Liz Truss and Rishi Sunak form a professional stand-up comedy act and tour the country to entertain and amuse its audiences. This would allow for a suitable person to be elected prime minister to steer this country out of the mess it has created for itself?Gunter StraubLondonGloomy news for England is good for ScotlandThe gloomy news from the Bank of England makes it a virtual certainty that Scotland will secede from the UK at the earliest possible opportunity – and I don’t blame them. Scotland, who never ever voted for Brexit, will then rejoin the EEC. This in turn will cause dozens and maybe hundreds of English companies to move to Scotland to take advantage of easy access to European markets.We the people are starting to pay the price for voting in a corrupt and crony-ridden government led by the most disastrous prime minister we have ever had. History will blame him for the break-up of the UK. And Great Britain without Scotland – and probably Northern Ireland later on – will then be reduced to little England, an impoverished place.Further, due to the dull, negative Sir Keir Starmer, Labour offers no better policies than the third rate bunch we have in power right now.David LeeAddress withheldTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereHacking the Tory leadership race?I read with interest that “malign actors” might be considering tampering with the Conservative Party’s leadership ballot.Given the choice of candidates available to be officially selected, the only way these “malign actors” could hack the ballot to provide a worse potential future for this country is for the current incumbent to be announced the ballot winner on 5 September!Phil RolandiSurrey"
+        }
+    ]
+}

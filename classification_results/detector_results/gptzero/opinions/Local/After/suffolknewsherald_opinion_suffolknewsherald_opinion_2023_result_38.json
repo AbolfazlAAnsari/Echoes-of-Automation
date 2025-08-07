@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0007135489722713828,
+                    "sentence": "Published 3:54 pm Tuesday, May 23, 2023ByStaff ReportsBy Tom MastaglioGuest columnistMonday May 29 is the official date in 2023 to honor those who have died in wars defending the United States.Memorial Day originated in 1865 as Decoration Day to memorialize the 600,000 men and women who died during the Civil War.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012668909039348364,
+                    "sentence": "In 1882, the name was changed to Memorial Day.Following World War I the focus of holiday was expanded to include casualties from that war.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013862052001059055,
+                    "sentence": "The date designated to recognize the sacrifice of our soldiers was May 31, but in 1971, due to the desire of Americans for three-day weekends, it was changed to the last Monday in May.Memorial Day is often misunderstood by many.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015000287676230073,
+                    "sentence": "Some confuse its purpose with Veterans Day as recognition for all who served and serve.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006556787411682308,
+                    "sentence": "As a young man, I recall that some of my peers thought it a day to memorialize any family member who passed and decorated their graves on or near that date.Let me emphasize that the purpose of Memorial Day is to recognize those who died serving their country in the Armed Forces in any war or conflict.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00039273290894925594,
+                    "sentence": "It is intended as a time to step back and consider those whom one may know personally who died in combat and/or to honor in general all who passed as a result of wartime injuries.So I ask each reader to consider who you will memorialize this coming Monday, is there a family member or a friend who gave their life for this country.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005111811333335936,
+                    "sentence": "It might be an extended family member, uncle, aunt, cousins or grandparents going back multiple generations.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00045890844194218516,
+                    "sentence": "You may have not have known them personally, but know of them from other family members.If you lost a loved one personally or close friend, take the time on Monday, outside of other get-togethers and parties, to spend a moment memorializing them in your own way.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004075995530001819,
+                    "sentence": "If there are graves you can visit, do so, hopefully a local veteran's organization will have flagged their grave, but if not please place one on it and/or some flowers.These brave citizens gave all for their country.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005124644958414137,
+                    "sentence": "This is the least we can do to honor and memorialize them.If you want to join in public ceremonies, Smithfield holds its Memorial Day service at 11 a.m. at the Isle of Wight Veterans Memorial downtown and Suffolk at 10 a.m. at the Albert G. Horton Jr Veterans Cemetery, a most solemn setting.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.15238675475120544,
+                    "sentence": "However you can, please remember to memorialize our brave men and women next Monday.Tom Mastaglio is the media and publicity coordinator for American Legion Post 49, Smithfield.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.12980037927627563,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.2425855513307985,
+            "class_probabilities": {
+                "human": 0.7574144486692015,
+                "ai": 0.2425855513307985,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.7574144486692015,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.2425855513307985,
+                    "human": 0.7574144486692015,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 3:54 pm Tuesday, May 23, 2023ByStaff ReportsBy Tom MastaglioGuest columnistMonday May 29 is the official date in 2023 to honor those who have died in wars defending the United States.Memorial Day originated in 1865 as Decoration Day to memorialize the 600,000 men and women who died during the Civil War. In 1882, the name was changed to Memorial Day.Following World War I the focus of holiday was expanded to include casualties from that war. The date designated to recognize the sacrifice of our soldiers was May 31, but in 1971, due to the desire of Americans for three-day weekends, it was changed to the last Monday in May.Memorial Day is often misunderstood by many. Some confuse its purpose with Veterans Day as recognition for all who served and serve. As a young man, I recall that some of my peers thought it a day to memorialize any family member who passed and decorated their graves on or near that date.Let me emphasize that the purpose of Memorial Day is to recognize those who died serving their country in the Armed Forces in any war or conflict.  It is intended as a time to step back and consider those whom one may know personally who died in combat and/or to honor in general all who passed as a result of wartime injuries.So I ask each reader to consider who you will memorialize this coming Monday, is there a family member or a friend who gave their life for this country. It might be an extended family member, uncle, aunt, cousins or grandparents going back multiple generations.  You may have not have known them personally, but know of them from other family members.If you lost a loved one personally or close friend, take the time on Monday, outside of other get-togethers and parties, to spend a moment memorializing them in your own way.  If there are graves you can visit, do so, hopefully a local veteran’s organization will have flagged their grave, but if not please place one on it and/or some flowers.These brave citizens gave all for their country.  This is the least we can do to honor and memorialize them.If you want to join in public ceremonies, Smithfield holds its Memorial Day service at 11 a.m. at the Isle of Wight Veterans Memorial downtown and Suffolk at 10 a.m. at the Albert G. Horton Jr Veterans Cemetery, a most solemn setting.  However you can, please remember to memorialize our brave men and women next Monday.Tom Mastaglio is the media and publicity coordinator for American Legion Post 49, Smithfield.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…"
+        }
+    ]
+}

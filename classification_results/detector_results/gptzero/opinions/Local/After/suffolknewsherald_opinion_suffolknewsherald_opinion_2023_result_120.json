@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.004127168096601963,
+                    "sentence": "Published 5:23 pm Friday, February 17, 2023ByLetters to the EditorEditor:We currently have 7,480 homes in the development pipeline after land use rezoning from various designations to residential.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006930129136890173,
+                    "sentence": "We have large warehouses that have recently become our neighbors and more warehouse projects in the pipeline.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004780096467584372,
+                    "sentence": "There are legal reasons to slow down development, as well as quality-of-life issues for those of us already living here.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006135088391602039,
+                    "sentence": "We do not need to get bigger; we need to get better ᅳ better schools, better roads, better balance.Let's allow the city to catch up on building schools and constructing roads and for the developers to grow into what is already in the development pipeline.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005793321877717972,
+                    "sentence": "Let's give our citizens a break from added travel woes caused by the intense road construction throughout the city meant to accommodate the uptick in growth.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007243230007588863,
+                    "sentence": "If landowners want to build residential dwellings, they can do so within the current zoning designation or hold off until Suffolk can catch up to itself.All this talk of the 2045 Comprehensive Plan, have we really and truly gained a vision of what we want to be in 2045 and worked backward to 2023?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0058243186213076115,
+                    "sentence": "I attended a recent Suffolk 2045 Community Engagement, and it was clear that citizens are frustrated about where we are today, used the opportunity to voice their current frustrations instead of sharing future vision, and cannot focus on where we could be in 2045.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00827482808381319,
+                    "sentence": "One attendee asked the city if we were on track to the vision of the 2035 plan, without a response.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.18199941515922546,
+                    "sentence": "Instead of the Planning Commission and City Council focusing on rezoning, why don't they partner up with each other, get out into the communities to hold town halls, and work on the problems of today that have not been resolved by the 2035 plan?Rebuilding trust between the city and its citizens should be a top priority for all of us.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3676454722881317,
+                    "sentence": "We need to halt the over-development for sake of development and the opposition so we can unite to make Suffolk better, not bigger.Dr.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1670701503753662,
+                    "sentence": "Sherri L. Johnston,Executive DirectorCARE4Suffolk.orgOn Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.30785441398620605,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1865730881690979,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.059261636754220776,
+            "class_probabilities": {
+                "human": 0.9406968808522652,
+                "ai": 0.059261636754220776,
+                "mixed": 4.148239351388549e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9406968808522652,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.059261636754220776,
+                    "human": 0.9406968808522652,
+                    "mixed": 4.148239351388549e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:23 pm Friday, February 17, 2023ByLetters to the EditorEditor:We currently have 7,480 homes in the development pipeline after land use rezoning from various designations to residential. We have large warehouses that have recently become our neighbors and more warehouse projects in the pipeline. There are legal reasons to slow down development, as well as quality-of-life issues for those of us already living here. We do not need to get bigger; we need to get better — better schools, better roads, better balance.Let’s allow the city to catch up on building schools and constructing roads and for the developers to grow into what is already in the development pipeline. Let’s give our citizens a break from added travel woes caused by the intense road construction throughout the city meant to accommodate the uptick in growth. If landowners want to build residential dwellings, they can do so within the current zoning designation or hold off until Suffolk can catch up to itself.All this talk of the 2045 Comprehensive Plan, have we really and truly gained a vision of what we want to be in 2045 and worked backward to 2023? I attended a recent Suffolk 2045 Community Engagement, and it was clear that citizens are frustrated about where we are today, used the opportunity to voice their current frustrations instead of sharing future vision, and cannot focus on where we could be in 2045. One attendee asked the city if we were on track to the vision of the 2035 plan, without a response. Instead of the Planning Commission and City Council focusing on rezoning, why don’t they partner up with each other, get out into the communities to hold town halls, and work on the problems of today that have not been resolved by the 2035 plan?Rebuilding trust between the city and its citizens should be a top priority for all of us. We need to halt the over-development for sake of development and the opposition so we can unite to make Suffolk better, not bigger.Dr. Sherri L. Johnston,Executive DirectorCARE4Suffolk.orgOn Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

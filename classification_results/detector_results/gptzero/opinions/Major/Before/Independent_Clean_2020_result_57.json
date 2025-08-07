@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00254415743984282,
+                    "sentence": "While reading the reports around the blocking of thethird runway at Heathrow by the Supreme Court, I found my mind wandering to the future, and the probable response from those with a fervent desire for expansion.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002571258693933487,
+                    "sentence": "Doubtless, we shall hear cries of indignation and an overwhelming assertion of victimhood: you are restricting my right to travel; this will curtail my choice; my distant relatives need a direct link, and so on.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004534861072897911,
+                    "sentence": "It would be mightily ironic if the loudest voices were those of the same people who voted to remove the rights of millions of British people to travel, retire, study and work across the European Union.Robert Boston Kingshill, KentRadio silenceIn the context of therepeated refusalof the UK health secretary to be interviewed on the BBC's Today programme during the current coronavirus epidemic, we were informed by the presenter that \"the government does not want to speak to our listeners\".Yesterday, as per blanket coverage on French TV, the French president spent the morning at the Paris hospital meeting and thanking the staff who are treating those affected by the virus, and in the afternoon he was in Italy to meet the Italian prime minister to ensure that responses to the emergency are fully coordinated.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002799684298224747,
+                    "sentence": "Meanwhile, the French prime minister was in Paris meeting with the leaders of all opposition parties to inform them of the actions being taken by the government and to ensure that all were agreed on the strategy.Vive la difference.Dominica Jewell Normandy, FranceAlthough I've enjoyed the Today and PM programmes far more since Mr Johnson banned ministers from being interviewed on them, I do think that in the case of coronavirus, an exception should be made.Patrick CosgroveBucknell, ShropshireSharpie-gateThe last time a president facing a clear and present danger told the American people that \"everything is under control\" (as Trump hassaidof coronavirus) was George W Bush in the lead-up to Hurricane Katrina - and we all know how that turned out.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000246218842221424,
+                    "sentence": "So hearing the exact same thing from a man who actuallyuseda Sharpie to alter facts to fit his narrative clearly isn't as reassuring or comforting as it should be.Tracy Nadeau Los Angeles, USPopularity or prudenceI must admit I rather admire Sajid Javid's spirited standagainst his lord and masterand his omnipotent sidekick Dominic Cummings.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00031397538259625435,
+                    "sentence": "His warning that it was still necessary to have checks and balances is timely.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003422095032874495,
+                    "sentence": "Boris Johnson is desperate to make good on his promises to the disaffected Labour voters who gave him their allegiance.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002482867566868663,
+                    "sentence": "Yet with the coronavirus outbreak, these are dangerous times and for a kamikaze government to be tearing up the rule book.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014250166714191437,
+                    "sentence": "Johnson and his new chancellor will find that being popular and prudent is a difficult balancing act.Judith Daniels Great Yarmouth, NorfolkWalking awayThe latest pronouncements from the government, threatening to walk away from talks by the end of June only confirm the suspicion that they have always favoured the immensely damaging no-deal option.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.470020449953154e-05,
+                    "sentence": "Up until now, they have had to pretend that no deal was a vanishingly small possible outcome, in order to keep the electorate on board.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011805859685409814,
+                    "sentence": "But now they have such an overwhelming majority in parliament, they no longer have to perpetuate the lies and spin, and can bow down to the extremists ERG wing of the party.Geoff Forward Stirling",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.008958492756682587,
+            "class_probabilities": {
+                "human": 0.9910415072433174,
+                "ai": 0.008958492756682587,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9910415072433174,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.008958492756682587,
+                    "human": 0.9910415072433174,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "While reading the reports around the blocking of thethird runway at Heathrow by the Supreme Court, I found my mind wandering to the future, and the probable response from those with a fervent desire for expansion. Doubtless, we shall hear cries of indignation and an overwhelming assertion of victimhood: you are restricting my right to travel; this will curtail my choice; my distant relatives need a direct link, and so on. It would be mightily ironic if the loudest voices were those of the same people who voted to remove the rights of millions of British people to travel, retire, study and work across the European Union.Robert Boston                                          Kingshill, KentRadio silenceIn the context of therepeated refusalof the UK health secretary to be interviewed on the BBC's Today programme during the current coronavirus epidemic, we were informed by the presenter that \"the government does not want to speak to our listeners\".Yesterday, as per blanket coverage on French TV, the French president spent the morning at the Paris hospital meeting and thanking the staff who are treating those affected by the virus, and in the afternoon he was in Italy to meet the Italian prime minister to ensure that responses to the emergency are fully coordinated. Meanwhile, the French prime minister was in Paris meeting with the leaders of all opposition parties to inform them of the actions being taken by the government and to ensure that all were agreed on the strategy.Vive la difference.Dominica Jewell​                                          Normandy, FranceAlthough I've enjoyed the Today and PM programmes far more since Mr Johnson banned ministers from being interviewed on them, I do think that in the case of coronavirus, an exception should be made.Patrick CosgroveBucknell, ShropshireSharpie-gateThe last time a president facing a clear and present danger told the American people that \"everything is under control\" (as Trump hassaidof coronavirus) was George W Bush in the lead-up to Hurricane Katrina - and we all know how that turned out. So hearing the exact same thing from a man who actuallyuseda Sharpie to alter facts to fit his narrative clearly isn't as reassuring or comforting as it should be.Tracy Nadeau                                           Los Angeles, USPopularity or prudenceI must admit I rather admire Sajid Javid's spirited standagainst his lord and masterand his omnipotent sidekick Dominic Cummings. His warning that it was still necessary to have checks and balances is timely. Boris Johnson is desperate to make good on his promises to the disaffected Labour voters who gave him their allegiance. Yet with the coronavirus outbreak, these are dangerous times and for a kamikaze government to be tearing up the rule book. Johnson and his new chancellor will find that being popular and prudent is a difficult balancing act.Judith Daniels                                          Great Yarmouth, NorfolkWalking awayThe latest pronouncements from the government, threatening to walk away from talks by the end of June only confirm the suspicion that they have always favoured the immensely damaging no-deal option. Up until now, they have had to pretend that no deal was a vanishingly small possible outcome, in order to keep the electorate on board. But now they have such an overwhelming majority in parliament, they no longer have to perpetuate the lies and spin, and can bow down to the extremists ERG wing of the party.Geoff Forward                                          Stirling"
+        }
+    ]
+}

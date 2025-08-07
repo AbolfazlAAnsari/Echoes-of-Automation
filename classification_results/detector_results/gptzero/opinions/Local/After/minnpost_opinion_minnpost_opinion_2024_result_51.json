@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.023413807153701782,
+                    "sentence": "From local coverage to the presidential race,.Cityscape| Twin Cities urban geographer Bill Lindeke weighs in on city life, transportation, planning and more in his column delivered to your inbox weekly.As we reflect on nearly 79 years since the Victory in Europe and nearly 80 years since the historic event of D-Day, it remains crucial to uphold the memory of World War II.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.15213710069656372,
+                    "sentence": "This pivotal period not only signified the triumph of allied forces but also highlighted the resilience and bravery of ordinary individuals who rose from the challenges of the Great Depression to defend freedom.As part of the five-member team of the American Battle Monuments Commission World War II Memorial Site and Design Committee, I collaborated often with World War II veterans to design and build the National World War II Memorial in Washington, D.C., which wasdedicated in 2004.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.056077633053064346,
+                    "sentence": "The memorial honors the 16 million ᅳ including more than 350,000 women ᅳ who served in the armed forces of the U.S. during World War II, the more than 400,000 who died, and the millions who supported the war effort from home.Symbolizing the defining event of the 20th Century, the National World War II Memorial serves as a testament to the spirit, sacrifice, and steadfast commitment of the American people to defend their nation and uphold the universal values of peace and freedom.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6593287587165833,
+                    "sentence": "Today, it is a perpetual reminder of the nation's enduring gratitude to the “Greatest Generation.” Through their unparalleled sacrifice, courage, dedication and unwavering determination, they not only safeguarded the cherished freedoms of Americans but also secured the nation's future and played a pivotal role in fostering global peace.However, as time marches on, the memorial is beginning to show signs of wear and tear, necessitating repairs and maintenance to ensure its continued reverence and dignity.This is why the passage of the Greatest Generation Commemorative Coin Act in 2022 is so significant.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5889734029769897,
+                    "sentence": "By authorizing the U.S. Treasury to mint coins in commemoration of the National World War II Memorial, this act not only honors the brave Americans who fought to defend our nation but also provides vital support for the upkeep of the memorial itself.The Greatest Generation Commemorative Coin program from the United States Mint will showcase and honor the National World War II Memorial through gold $5, silver $1 and clad $.50 coins, each with its own unique and storied design.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008287607692182064,
+                    "sentence": "Importantly, the mint's programs are self-sustaining and operate at no cost to the taxpayer.Proceeds from the sale of the coins will go to theFriends of the National World War II Memorialto support the National Park Service in the care and maintenance of the memorial and to ensure educational and commemorative programming remains robust and substantial.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003722798777744174,
+                    "sentence": "The Friends of the National World War II Memorial play an integral and vital role in educating the American public about World War II, preserving and maintaining the memorial as a treasure for the American people and facilitating key commemorative programs at the memorial.I am immensely proud of my work to help the memorial take its rightful place on the National Mall.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0034176292829215527,
+                    "sentence": "Almost 80 years after the end of the war, we must continue to capture and archive the memories of our WWII veterans and honor and preserve the legacy and lessons of our “Greatest Generation.”Retired Brig.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004911889787763357,
+                    "sentence": "Gen. Evelyn “Pat” Foote, of Woodbury, was part of the American Battle Monuments Commission World War II Memorial Site and Design Committee and was the founding president of the Alliance for National Defense.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.07780643284428201,
+            "class_probabilities": {
+                "human": 0.9203729942098717,
+                "ai": 0.07780643284428201,
+                "mixed": 0.0018205729458463018
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9203729942098717,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.07780643284428201,
+                    "human": 0.9203729942098717,
+                    "mixed": 0.0018205729458463018
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "From local coverage to the presidential race, .Cityscape| Twin Cities urban geographer Bill Lindeke weighs in on city life, transportation, planning and more in his column delivered to your inbox weekly.As we reflect on nearly 79 years since the Victory in Europe and nearly 80 years since the historic event of D-Day, it remains crucial to uphold the memory of World War II. This pivotal period not only signified the triumph of allied forces but also highlighted the resilience and bravery of ordinary individuals who rose from the challenges of the Great Depression to defend freedom.As part of the five-member team of the American Battle Monuments Commission World War II Memorial Site and Design Committee, I collaborated often with World War II veterans to design and build the National World War II Memorial in Washington, D.C., which wasdedicated in 2004. The memorial honors the 16 million — including more than 350,000 women — who served in the armed forces of the U.S. during World War II, the more than 400,000 who died, and the millions who supported the war effort from home.Symbolizing the defining event of the 20th Century, the National World War II Memorial serves as a testament to the spirit, sacrifice, and steadfast commitment of the American people to defend their nation and uphold the universal values of peace and freedom. Today, it is a perpetual reminder of the nation’s enduring gratitude to the “Greatest Generation.” Through their unparalleled sacrifice, courage, dedication and unwavering determination, they not only safeguarded the cherished freedoms of Americans but also secured the nation’s future and played a pivotal role in fostering global peace.However, as time marches on, the memorial is beginning to show signs of wear and tear, necessitating repairs and maintenance to ensure its continued reverence and dignity.This is why the passage of the Greatest Generation Commemorative Coin Act in 2022 is so significant. By authorizing the U.S. Treasury to mint coins in commemoration of the National World War II Memorial, this act not only honors the brave Americans who fought to defend our nation but also provides vital support for the upkeep of the memorial itself.The Greatest Generation Commemorative Coin program from the United States Mint will showcase and honor the National World War II Memorial through gold $5, silver $1 and clad $.50 coins, each with its own unique and storied design. Importantly, the mint’s programs are self-sustaining and operate at no cost to the taxpayer.Proceeds from the sale of the coins will go to theFriends of the National World War II Memorialto support the National Park Service in the care and maintenance of the memorial and to ensure educational and commemorative programming remains robust and substantial. The Friends of the National World War II Memorial play an integral and vital role in educating the American public about World War II, preserving and maintaining the memorial as a treasure for the American people and facilitating key commemorative programs at the memorial.I am immensely proud of my work to help the memorial take its rightful place on the National Mall. Almost 80 years after the end of the war, we must continue to capture and archive the memories of our WWII veterans and honor and preserve the legacy and lessons of our “Greatest Generation.”Retired Brig. Gen. Evelyn “Pat” Foote, of Woodbury, was part of the American Battle Monuments Commission World War II Memorial Site and Design Committee and was the founding president of the Alliance for National Defense."
+        }
+    ]
+}

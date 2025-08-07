@@ -1,0 +1,375 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0005150181241333485,
+                    "sentence": "In 2003, then-University President Lawrence H. Summers revealed his vision for Harvard's long-term growth.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003395540697965771,
+                    "sentence": "At the heart of his plan to propel the institution into the twenty-first century?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004939527134411037,
+                    "sentence": "A decades-long campus expansion into the up-and-coming Allston neighborhood just a short walk across the Charles River from Harvard Square.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005358828348107636,
+                    "sentence": "Today, Harvard owns 360 acres of land in Allston ᅳ about a third of the neighborhood.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000562623783480376,
+                    "sentence": "Two decades after Summers set the project in motion, we are finally beginning to reap the rewards of Harvard's development.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005974386585876346,
+                    "sentence": "In 2021, the Science and Engineering Complex opened its doors, and just last semester, the University began construction on the Enterprise Research Campus, which will include state-of-the-art laboratories, apartments, and more.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003805068554356694,
+                    "sentence": "Although the expansion signifies a promising new chapter in the institution's future, Harvard's projects have frustrated Allston residents, who link the University's development schemes with rapidly rising housing prices.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000372793321730569,
+                    "sentence": "Pundits have alsopromulgated this narrative, suggesting that Harvard has significantly contributed to the neighborhood's rapid gentrification.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003460595034994185,
+                    "sentence": "But that conclusion ᅳ as appealing and logical as it may seem ᅳ is not supported by the data.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003300689277239144,
+                    "sentence": "That's not to say that Allston isn't gentrifying.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000376643001800403,
+                    "sentence": "Median income has more than doubled since 2011, and rents have risen dramatically, too, suggesting either that high-income earners have moved into the neighborhood or that poor residents have moved out.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004184214340057224,
+                    "sentence": "But can we really blame Harvard for this changing economic landscape?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005150493234395981,
+                    "sentence": "To answer this question, I looked at housing data provided by Zillow, a popular real-estate website.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000358760473318398,
+                    "sentence": "For each region in the country, Zillowcalculates an indexthat measures the value of a “typical home,” allowing for easy cross-sectional comparisons across zip codes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004925947287119925,
+                    "sentence": "I used this index to measure housing values over time both in Allston and in nearby neighborhoods in the Boston metropolitan area that were unaffected by Harvard's land grab.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00041448476258665323,
+                    "sentence": "These other neighborhoods served as a “control group” ᅳ a benchmark against which to compare Allston's prices.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005910859326831996,
+                    "sentence": "Using the data from these other neighborhoods, I created a “synthetic” Allston, which estimates what Allston's housing values might have looked like had Harvard not announced its development in the neighborhood.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019353765528649092,
+                    "sentence": "The precise process for constructing this “synthetic” Allston is a bit in-the-weeds, but it is essentially a weighted average of the control neighborhoods that best replicates Allston's housing price trajectory.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014358868356794119,
+                    "sentence": "The results are striking.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00213364465162158,
+                    "sentence": "In the above figure, the red solid line represents Allston's real housing value over time.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001716913771815598,
+                    "sentence": "The blue dashed line represents the value of our “synthetic” Allston absent Harvard's development plans.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016331409569829702,
+                    "sentence": "The two paths are very similar, indicating that Harvard may not actually have significantly affected housing values.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0029098582454025745,
+                    "sentence": "In fact, the price differences between “real” Allston and “synthetic” Allston are quite negligible, too small to suggest that Harvard's development plays a crucial effect.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0027058101259171963,
+                    "sentence": "I looked at median income, too.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004558407701551914,
+                    "sentence": "With data from the United States Census Bureau, I plotted Allston's median income over time as well as the median income of the control group over time.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005772988777607679,
+                    "sentence": "Here too, Allston doesn't appear to be gentrifying any faster than nearby neighborhoods in the Boston area.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009628810919821262,
+                    "sentence": "At worst, Harvard's development might be responsible for median income rising just a few thousand dollars, if anything.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010083486326038837,
+                    "sentence": "My analysis does presume that Harvard's developments in Allston don't have spillover economic effects into neighboring areas.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013509606942534447,
+                    "sentence": "But this assumption seems reasonable, especially considering that the control group contains over 200 zip codes from across the Boston metropolitan area.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.014879086054861546,
+                    "sentence": "It also seems unlikely that construction in Allston would affect, say, Revere.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03735228255391121,
+                    "sentence": "Nevertheless, the trend is clear: Allston is gentrifying, but no more quickly than the rest of Boston.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.023816926404833794,
+                    "sentence": "Gentrification is a painful reality for Allston, and rising living costs place huge burdens on low-income residents.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.019428838044404984,
+                    "sentence": "As we increase our involvement in the neighborhood, Harvard must continue to build and maintain affordable housing.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01781482808291912,
+                    "sentence": "The city, too, should allow for more high-density developments and end restrictive zoning practices.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013426692225039005,
+                    "sentence": "But let's not scapegoat Harvard for Boston's housing crisis just because the University has big dreams for Allston.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.17634519934654236,
+                    "sentence": "Julien Berman '26, an Associate Editorial editor, is an Economics concentrator in Adams House.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 3,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 5,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 6,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 7,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 8,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 9,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 11,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 12,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 14,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 16,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 18,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 21,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 23,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 25,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 27,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 30,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 31,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 34,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 35,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                }
+            ],
+            "completely_generated_prob": 0.024461651786716186,
+            "class_probabilities": {
+                "human": 0.9754981327244504,
+                "ai": 0.024461651786716186,
+                "mixed": 4.0215488833363626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9754981327244504,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024461651786716186,
+                    "human": 0.9754981327244504,
+                    "mixed": 4.0215488833363626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "In 2003, then-University President Lawrence H. Summers revealed his vision for Harvard’s long-term growth. At the heart of his plan to propel the institution into the twenty-first century? A decades-long campus expansion into the up-and-coming Allston neighborhood just a short walk across the Charles River from Harvard Square.\r\nToday, Harvard owns 360 acres of land in Allston — about a third of the neighborhood. Two decades after Summers set the project in motion, we are finally beginning to reap the rewards of Harvard’s development.\r\nIn 2021, the Science and Engineering Complex opened its doors, and just last semester, the University began construction on the Enterprise Research Campus, which will include state-of-the-art laboratories, apartments, and more.\r\nAlthough the expansion signifies a promising new chapter in the institution’s future, Harvard’s projects have frustrated Allston residents, who link the University’s development schemes with rapidly rising housing prices.\r\nPundits have alsopromulgated this narrative, suggesting that Harvard has significantly contributed to the neighborhood’s rapid gentrification.\r\nBut that conclusion — as appealing and logical as it may seem — is not supported by the data.\r\nThat’s not to say that Allston isn’t gentrifying. Median income has more than doubled since 2011, and rents have risen dramatically, too, suggesting either that high-income earners have moved into the neighborhood or that poor residents have moved out.\r\nBut can we really blame Harvard for this changing economic landscape?\r\nTo answer this question, I looked at housing data provided by Zillow, a popular real-estate website. For each region in the country, Zillowcalculates an indexthat measures the value of a “typical home,” allowing for easy cross-sectional comparisons across zip codes.\r\nI used this index to measure housing values over time both in Allston and in nearby neighborhoods in the Boston metropolitan area that were unaffected by Harvard’s land grab. These other neighborhoods served as a “control group” — a benchmark against which to compare Allston’s prices.\r\nUsing the data from these other neighborhoods, I created a “synthetic” Allston, which estimates what Allston’s housing values might have looked like had Harvard not announced its development in the neighborhood. The precise process for constructing this “synthetic” Allston is a bit in-the-weeds, but it is essentially a weighted average of the control neighborhoods that best replicates Allston’s housing price trajectory.\r\nThe results are striking. In the above figure, the red solid line represents Allston’s real housing value over time. The blue dashed line represents the value of our “synthetic” Allston absent Harvard’s development plans.\r\nThe two paths are very similar, indicating that Harvard may not actually have significantly affected housing values. In fact, the price differences between “real” Allston and “synthetic” Allston are quite negligible, too small to suggest that Harvard’s development plays a crucial effect.\r\nI looked at median income, too. With data from the United States Census Bureau, I plotted Allston’s median income over time as well as the median income of the control group over time.\r\nHere too, Allston doesn’t appear to be gentrifying any faster than nearby neighborhoods in the Boston area. At worst, Harvard’s development might be responsible for median income rising just a few thousand dollars, if anything.\r\nMy analysis does presume that Harvard’s developments in Allston don’t have spillover economic effects into neighboring areas. But this assumption seems reasonable, especially considering that the control group contains over 200 zip codes from across the Boston metropolitan area. It also seems unlikely that construction in Allston would affect, say, Revere.\r\nNevertheless, the trend is clear: Allston is gentrifying, but no more quickly than the rest of Boston.\r\nGentrification is a painful reality for Allston, and rising living costs place huge burdens on low-income residents. As we increase our involvement in the neighborhood, Harvard must continue to build and maintain affordable housing. The city, too, should allow for more high-density developments and end restrictive zoning practices.\r\nBut let’s not scapegoat Harvard for Boston’s housing crisis just because the University has big dreams for Allston.\r\nJulien Berman ’26, an Associate Editorial editor, is an Economics concentrator in Adams House."
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 1.7205065887537785e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.3040724297752604e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukLoved Rosie Green's treatise on the pros and cons of an “open-phone policy” with your partner.Having successfully negotiated 43 years of wedded bliss (my beloved might see this) I have found that the secret of it all with regard to openness in the mobile phone department is provided by Messrs Android and Apple.One of us runs Android, the other Apple, and while this may seem inconvenient to modern tech families we have found it supremely appealing.I'm not required - or able - to operate hers and she's equally baffled by my horrid “unfathomable” device.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.2072352546965703e-05,
+                    "sentence": "Opposites attract and digital bliss ensues!Steve MackinderDenverLet's focus on the issuesThe “celebrity” who has recently been accused of a variety of sexual offences is, if the allegations are true, thoroughly reprehensible - and we need to change the culture that allowed organisations to turn a blind eye to his alleged behaviour.But surely, it's inadvisable to bestow so much publicity on the individual himself?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.3613735973194707e-05,
+                    "sentence": "From what I've seen previously, I imagine he's probably revelling in all the attention.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.343876647297293e-05,
+                    "sentence": "Let's focus on the issues and not dwell on the personality.Susan AlexanderSouth GloucestershireThe wisdom of youthI listened this morning to an interview with a woman who claims to have been groomed and sexually assaulted byRussell Brandwhen she was aged 16.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.136922583100386e-05,
+                    "sentence": "Now around 30, she spoke movingly of her then vulnerability and naivety, and argued that the age of consent should be changed - perhaps to a differential age limit depending on the age of the male partner.What she said called into question the judgment and wisdom of 16-year-olds.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.6168180081876926e-05,
+                    "sentence": "Her testimony was one of the best arguments I have heard for not extending the voting age downwards to the age of 16, as is the case in Scotland and is being proposed for the UK as a whole.Jill StephensonEdinburghDriving me crazyBibi Lynch(“As a mother”: the worst three words in the English language) is on to something.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001521495170891285,
+                    "sentence": "My own bete noire is the closely related “baby on board” (or “princess”, “little superhero” etc) signs on cars.Apart from the fact that nearly all the time the statement is simply untrue, it sends a whole host of messages - like, “Aren't we clever, we made a baby” (if it wasn't easy the world wouldn't be in nearly as much trouble); “My baby is very valuable” (actually not nearly as “valuable” as a young adult just leaving education and starting work); and most maddeningly “Drive more carefully than you normally do.” As if I go around not caring if I have an accident.I don't easily get upset on the roads, but these signs make me want to ram the cars carrying them just to make a point.Rachael PadmanSuffolkIf that's showbiz, let's change itI must confess that I know next to nothing about Russell Brand, as a comedian.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003426767885684967,
+                    "sentence": "I have not seen or heard any of his performances.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006267994176596403,
+                    "sentence": "I only know him through his execrable peddling of anti-vax and other wacko conspiracy theories, which in themselves is inexcusable in my opinion.It is imperative that all the authorities robustly examine every allegation, whether it be criminal or contrary to various internal codes of conduct.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00261376122944057,
+                    "sentence": "Victim blaming has to be negated and I feel it best if people avoided comments on social media, be it demonising or excusing his alleged behaviour.As an example, there are people supporting him on social media who are, frankly, beyond the pale.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00366268795914948,
+                    "sentence": "Whatever the outcome, I hope this ushers in changes of behaviour among people across the entertainment world of the future.Robert BostonKent",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukLoved Rosie Green’s treatise on the pros and cons of an “open-phone policy” with your partner.Having successfully negotiated 43 years of wedded bliss (my beloved might see this) I have found that the secret of it all with regard to openness in the mobile phone department is provided by Messrs Android and Apple.One of us runs Android, the other Apple, and while this may seem inconvenient to modern tech families we have found it supremely appealing.I’m not required – or able – to operate hers and she’s equally baffled by my horrid “unfathomable” device. Opposites attract and digital bliss ensues!Steve MackinderDenverLet’s focus on the issuesThe “celebrity” who has recently been accused of a variety of sexual offences is, if the allegations are true, thoroughly reprehensible – and we need to change the culture that allowed organisations to turn a blind eye to his alleged behaviour.But surely, it’s inadvisable to bestow so much publicity on the individual himself? From what I’ve seen previously, I imagine he’s probably revelling in all the attention. Let’s focus on the issues and not dwell on the personality.Susan AlexanderSouth GloucestershireThe wisdom of youthI listened this morning to an interview with a woman who claims to have been groomed and sexually assaulted byRussell Brandwhen she was aged 16. Now around 30, she spoke movingly of her then vulnerability and naivety, and argued that the age of consent should be changed – perhaps to a differential age limit depending on the age of the male partner.What she said called into question the judgment and wisdom of 16-year-olds. Her testimony was one of the best arguments I have heard for not extending the voting age downwards to the age of 16, as is the case in Scotland and is being proposed for the UK as a whole.Jill StephensonEdinburghDriving me crazyBibi Lynch(“As a mother”: the worst three words in the English language) is on to something. My own bete noire is the closely related “baby on board” (or “princess”, “little superhero” etc) signs on cars.Apart from the fact that nearly all the time the statement is simply untrue, it sends a whole host of messages – like, “Aren’t we clever, we made a baby” (if it wasn’t easy the world wouldn’t be in nearly as much trouble); “My baby is very valuable” (actually not nearly as “valuable” as a young adult just leaving education and starting work); and most maddeningly “Drive more carefully than you normally do.” As if I go around not caring if I have an accident.I don’t easily get upset on the roads, but these signs make me want to ram the cars carrying them just to make a point.Rachael PadmanSuffolkIf that’s showbiz, let’s change itI must confess that I know next to nothing about Russell Brand, as a comedian. I have not seen or heard any of his performances. I only know him through his execrable peddling of anti-vax and other wacko conspiracy theories, which in themselves is inexcusable in my opinion.It is imperative that all the authorities robustly examine every allegation, whether it be criminal or contrary to various internal codes of conduct. Victim blaming has to be negated and I feel it best if people avoided comments on social media, be it demonising or excusing his alleged behaviour.As an example, there are people supporting him on social media who are, frankly, beyond the pale. Whatever the outcome, I hope this ushers in changes of behaviour among people across the entertainment world of the future.Robert BostonKent"
+        }
+    ]
+}

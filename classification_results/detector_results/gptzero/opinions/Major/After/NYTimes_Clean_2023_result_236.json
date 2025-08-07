@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 5.521850835066289e-05,
+                    "sentence": "Two Opinion writers share their different interpretations of recent economic data.Low unemployment claims, high interest rates and persistent inflation make for a confusing mix of economic indicators.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.398124241968617e-05,
+                    "sentence": "But the data points can't predict a recession in the United States.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.972836152068339e-05,
+                    "sentence": "Or can they?The Opinion writers Peter Coy and Paul Krugman read the economic tea leaves and offer their competing views on what's coming in this audio short.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.315715679898858e-05,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.318972348002717e-05,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.593546277144924e-05,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.This Opinion short was produced by Sophia Alvarez Boyd.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.547913992311805e-05,
+                    "sentence": "It was edited by Kaari Pitkin and Alison Bruzek.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010628162272041664,
+                    "sentence": "Mixing by Sonia Herrero.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.132437895052135e-05,
+                    "sentence": "Original music by Pat McCusker, Isaac Jones and Carole Sabouraud.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.898081144550815e-05,
+                    "sentence": "Fact-checking by Michelle Harris.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011116363748442382,
+                    "sentence": "Audience strategy by Shannon Busta and Kristina Samulewski.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012746319407597184,
+                    "sentence": "Special thanks to Vishakha Darbha and Derek Arthur.PHOTO: (PHOTOGRAPH BY Illustration by Akshita Chandra/The New York Times; Photograph by ryasick/Getty Images FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.005178053375559126,
+            "class_probabilities": {
+                "human": 0.9948219466244408,
+                "ai": 0.005178053375559126,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9948219466244408,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.005178053375559126,
+                    "human": 0.9948219466244408,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Two Opinion writers share their different interpretations of recent economic data.Low unemployment claims, high interest rates and persistent inflation make for a confusing mix of economic indicators. But the data points can’t predict a recession in the United States. Or can they?The Opinion writers Peter Coy and Paul Krugman read the economic tea leaves and offer their competing views on what’s coming in this audio short.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.This Opinion short was produced by Sophia Alvarez Boyd. It was edited by Kaari Pitkin and Alison Bruzek. Mixing by Sonia Herrero. Original music by Pat McCusker, Isaac Jones and Carole Sabouraud. Fact-checking by Michelle Harris. Audience strategy by Shannon Busta and Kristina Samulewski. Special thanks to Vishakha Darbha and Derek Arthur.PHOTO:  (PHOTOGRAPH BY Illustration by Akshita Chandra/The New York Times; Photograph by ryasick/Getty Images FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

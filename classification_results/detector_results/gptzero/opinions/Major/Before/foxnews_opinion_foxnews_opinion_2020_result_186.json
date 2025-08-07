@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0013517769984900951,
+                    "sentence": "Fox News Flash top headlines are here.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018833839567378163,
+                    "sentence": "Check out what's clicking on Foxnews.com.Six weeks ago, I held my first-born child in my arms.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017379766795784235,
+                    "sentence": "I am so grateful that I have been able to experience the joys and happiness of motherhood while taking some time off from my role as spokesperson at theState Department.I am one of the very first beneficiaries of federal employees paid parental leave, thanks toPresident Donald Trumpand adviser to the president Ivanka Trump, who ensured this policy came to fruition.One year ago this week, President Trump signed into law the2019 National Defense Authorization Act, which secured 12 weeks of paid parental leave for the federal workforce.As one of the very first beneficiaries of this provision, I can speak first-hand about the positive impact this leave has provided to me and my newfamily.JIM DALY: THIS CHRISTMAS, YOUR CHILDREN NEED YOUR PRESENCE FAR MORE THAN PRESENTSThis administration does not get enough credit for this monumental achievement, and thousands of working families for years to come will have peace of mind because they will now have the appropriate time off to care for their newborns.President Trump was the first president to include a national paid leave program in his annual budgets and advocated for paid leave in all of his addresses to Congress, and he put his money where his mouth is by signing it into law for the federal government.I've also been lucky enough to get to know Ivanka Trump, and I've seen how she too has rolled up her sleeves and put in the effort on behalf of hardworking American families across the country.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001188242924399674,
+                    "sentence": "Whether it be representing these priorities within the administration or directly to members of Congress on both sides of the aisle, there's no doubt she's moved the needle on this important issue in substantial ways.Morgan Ortagus and her daughter Adina.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012377358507364988,
+                    "sentence": "(Photo by Tony Powell)Leaving a legacy of paid parental leave is not where it ended - throughout his presidency, President Trump has prioritized working families in numerous and substantial ways:-In 2017, President Trump created and signed into law the first paid leave tax credit for employees earning $72,000 or less, focusing on those least likely to receive the benefit previously.-In December 2019, President Trump signed the SECURE Act into law, a provision of which enabled new parents to withdraw up to $5,000 from their retirement accounts without penalty when they give birth to or adopt a childAnd, when COVID-19 hit the U.S., Ivanka Trump spearheaded negotiations to ensure workers at small businesses had paid sick leave in order to care for themselves or sick family members.These commonsense, bipartisan approaches to prioritizing America's working families are crucial to the continued success of our nation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017995689995586872,
+                    "sentence": "While it may not always get the attention it deserved, President Trump consistently sought to promote and to sign into law policies to benefit working families.As a brand-new mother with a beautiful baby girl, I am grateful and proud to be one of the first of many to realize this legacy.Morgan Ortagus is the spokesperson for the U.S. Department of StateMorgan Ortagus was spokesperson for the U.S. Department of State from 2019-2021.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0024118153378367424,
+                    "sentence": "She has also served in numerous intelligence and counterterrorism positions including as deputy U.S. Treasury Attache to Saudi Arabia.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019395319977775216,
+                    "sentence": "She is also the founder of Polaris National Security and the host of \"The Morgan Ortagus Show\" on Sirius XM.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.021033675306985546,
+            "class_probabilities": {
+                "human": 0.9789663246930144,
+                "ai": 0.021033675306985546,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9789663246930144,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.021033675306985546,
+                    "human": 0.9789663246930144,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.Six weeks ago, I held my first-born child in my arms. I am so grateful that I have been able to experience the joys and happiness of motherhood while taking some time off from my role as spokesperson at theState Department.I am one of the very first beneficiaries of federal employees paid parental leave, thanks toPresident Donald Trumpand adviser to the president Ivanka Trump, who ensured this policy came to fruition.One year ago this week, President Trump signed into law the2019 National Defense Authorization Act, which secured 12 weeks of paid parental leave for the federal workforce.As one of the very first beneficiaries of this provision, I can speak first-hand about the positive impact this leave has provided to me and my newfamily.JIM DALY: THIS CHRISTMAS, YOUR CHILDREN NEED YOUR PRESENCE FAR MORE THAN PRESENTSThis administration does not get enough credit for this monumental achievement, and thousands of working families for years to come will have peace of mind because they will now have the appropriate time off to care for their newborns.President Trump was the first president to include a national paid leave program in his annual budgets and advocated for paid leave in all of his addresses to Congress, and he put his money where his mouth is by signing it into law for the federal government.I’ve also been lucky enough to get to know Ivanka Trump, and I’ve seen how she too has rolled up her sleeves and put in the effort on behalf of hardworking American families across the country. Whether it be representing these priorities within the administration or directly to members of Congress on both sides of the aisle, there’s no doubt she’s moved the needle on this important issue in substantial ways.Morgan Ortagus and her daughter Adina. (Photo by Tony Powell)Leaving a legacy of paid parental leave is not where it ended – throughout his presidency, President Trump has prioritized working families in numerous and substantial ways:-In 2017, President Trump created and signed into law the first paid leave tax credit for employees earning $72,000 or less, focusing on those least likely to receive the benefit previously.-In December 2019, President Trump signed the SECURE Act into law, a provision of which enabled new parents to withdraw up to $5,000 from their retirement accounts without penalty when they give birth to or adopt a childAnd, when COVID-19 hit the U.S., Ivanka Trump spearheaded negotiations to ensure workers at small businesses had paid sick leave in order to care for themselves or sick family members.These commonsense, bipartisan approaches to prioritizing America’s working families are crucial to the continued success of our nation. While it may not always get the attention it deserved, President Trump consistently sought to promote and to sign into law policies to benefit working families.As a brand-new mother with a beautiful baby girl, I am grateful and proud to be one of the first of many to realize this legacy.Morgan Ortagus is the spokesperson for the U.S. Department of StateMorgan Ortagus was spokesperson for the U.S. Department of State from 2019-2021. She has also served in numerous intelligence and counterterrorism positions including as deputy U.S. Treasury Attache to Saudi Arabia. She is also the founder of Polaris National Security and the host of \"The Morgan Ortagus Show\" on Sirius XM.   "
+        }
+    ]
+}

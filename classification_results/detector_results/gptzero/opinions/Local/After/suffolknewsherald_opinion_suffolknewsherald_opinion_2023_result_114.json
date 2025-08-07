@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.001408710377290845,
+                    "sentence": "Published 5:14 pm Friday, February 24, 2023BySuffolk News-Herald Editorial BoardMuch has been said about election integrity in our nation's political discourse in recent years, and reasonable people can disagree about the depth of the problem.But when fraud is obvious, the system must work quickly and efficiently to expose and punish perpetrators.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0031624496914446354,
+                    "sentence": "Such assertive action will earn the confidence of the electorate and discourage future attempts to undermine election integrity.So we were pleased to learn that a Suffolk Circuit Court grand jury has indicted a campaign worker for former City Council candidate Art Bredemeyer.Dana Marie Cooper faces 17 felony counts of election fraud after allegedly gathering fraudulent signatures for Bredemeyer's qualifying petition.City Registrar Burdette Lawrence initially certified Bredemeyer as a candidate for the Suffolk Borough council election after a petition with 222 signatures was submitted.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005234183743596077,
+                    "sentence": "A council candidate needs 125 valid signatures to be put on the ballot.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0026665658224374056,
+                    "sentence": "But Lawrence's office soon was flooded with complaints from citizens who said their alleged signatures appeared on a document they never signed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0030214968137443066,
+                    "sentence": "After initially saying Bredemeyer could stay on the ballot, the three-member Suffolk Electoral Board reversed course and kicked him out of the race.While Cooper is innocent until proven guilty, the evidence appears to be damning.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006576601415872574,
+                    "sentence": "She faces the possibility of prison time and fines if convicted: imprisonment of a year to 10 years per count, a fine of up to $2,500 per count, either or both.We believe that honest, fair elections at the local level head off problems, real or perceived, at the state and national levels.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013623511418700218,
+                    "sentence": "After all, every vote, whether in Virginia or Vermont, is cast in a local precinct and tabulated by local people.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09474159777164459,
+                    "sentence": "A conspiracy to alter the outcome of a statewide or national race would require so many participants as to be impossible to pull off, in our view.Local election officials here and elsewhere are democracy's unsung heroes and worthy of commendation rather than scorn.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.16432523727416992,
+                    "sentence": "In this case, they got it right by removing Bredemeyer from the ballot and asking the commonwealth's attorney to investigate the apparent fraud.Bredemeyer has said he was unaware of the fraudulent signatures and blamed it squarely on Cooper, a consultant for his campaign.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.10072904080152512,
+                    "sentence": "Nonetheless, his petition didn't follow the rules, and his remaining on the ballot would have left a permanent cloud over his City Council service had he been elected in November.Suffolk voters should take comfort in knowing that local elections are in good hands.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1289079189300537,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.14103619754314423,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.056907381579152753,
+            "class_probabilities": {
+                "human": 0.9430926184208472,
+                "ai": 0.056907381579152753,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9430926184208472,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.056907381579152753,
+                    "human": 0.9430926184208472,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:14 pm Friday, February 24, 2023BySuffolk News-Herald Editorial BoardMuch has been said about election integrity in our nation’s political discourse in recent years, and reasonable people can disagree about the depth of the problem.But when fraud is obvious, the system must work quickly and efficiently to expose and punish perpetrators. Such assertive action will earn the confidence of the electorate and discourage future attempts to undermine election integrity.So we were pleased to learn that a Suffolk Circuit Court grand jury has indicted a campaign worker for former City Council candidate Art Bredemeyer.Dana Marie Cooper faces 17 felony counts of election fraud after allegedly gathering fraudulent signatures for Bredemeyer’s qualifying petition.City Registrar Burdette Lawrence initially certified Bredemeyer as a candidate for the Suffolk Borough council election after a petition with 222 signatures was submitted. A council candidate needs 125 valid signatures to be put on the ballot. But Lawrence’s office soon was flooded with complaints from citizens who said their alleged signatures appeared on a document they never signed. After initially saying Bredemeyer could stay on the ballot, the three-member Suffolk Electoral Board reversed course and kicked him out of the race.While Cooper is innocent until proven guilty, the evidence appears to be damning. She faces the possibility of prison time and fines if convicted: imprisonment of a year to 10 years per count, a fine of up to $2,500 per count, either or both.We believe that honest, fair elections at the local level head off problems, real or perceived, at the state and national levels. After all, every vote, whether in Virginia or Vermont, is cast in a local precinct and tabulated by local people. A conspiracy to alter the outcome of a statewide or national race would require so many participants as to be impossible to pull off, in our view.Local election officials here and elsewhere are democracy’s unsung heroes and worthy of commendation rather than scorn. In this case, they got it right by removing Bredemeyer from the ballot and asking the commonwealth’s attorney to investigate the apparent fraud.Bredemeyer has said he was unaware of the fraudulent signatures and blamed it squarely on Cooper, a consultant for his campaign. Nonetheless, his petition didn’t follow the rules, and his remaining on the ballot would have left a permanent cloud over his City Council service had he been elected in November.Suffolk voters should take comfort in knowing that local elections are in good hands.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

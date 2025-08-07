@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 6.416910036932677e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001015712769003585,
+                    "sentence": "Please send your letters toletters@independent.co.ukMany of us warned about the real reasons behind the Vote Leave campaign when thereferendumwas announced.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014387164264917374,
+                    "sentence": "Slowly, the truth is emerging.Jacob Rees-Mogg now says that the state must not provide “certain functions” in the post-Brexitera.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.711063466966152e-05,
+                    "sentence": "Which ones might they be?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.371370495297015e-05,
+                    "sentence": "Healthcare?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.538400627207011e-05,
+                    "sentence": "Unemployment pay?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.844277959316969e-05,
+                    "sentence": "Pensions?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.755626575089991e-05,
+                    "sentence": "Maternity leave?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010930150165222585,
+                    "sentence": "Food standards?Successive governments over a great many years have legislated to improve the lives of ordinary people, in the form of free education, old age pensions, sick pay, and employment rights, to give a few examples.Are we seriously going to allow these charlatans to remove them with more fatuous promises of a glorious future?Robert BostonKingshillScary timesLiz Truss's criticism of English working-class people needing to do more “graft”, and suggesting we learn to work like the Chinese, has told us what she really thinks of the citizens she is representing.Today we also learnt that the hardest-working member of parliament, Jacob Rees-Mogg, is of the opinion that after Brexit the government should no longer “deliver certain functions” and re-think the British state.These are very scary times.Ken TwissClevelandCars or water?It has come to a point at which we have to decide whether to continue driving our cars or have water coming out of our taps.Driving cars uses fossil fuels, which contribute massively to climate change.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008957428857684135,
+                    "sentence": "Climate change is leading to the drying up of our rivers and reservoirs, and a severe reduction in our water supply.We have to make a choice between our cars and having a reliable water supply - we cannot continue to have both.Mary WatsonBirminghamTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereHoliday plansAs the Boris Johnson “continuity candidate”, can we presume that once the results are announced, Liz Truss will immediately be taking a donor-sponsored holiday to recover from the stress of the leadership election campaign?Geoff ForwardStirling",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.020795942848858842,
+            "class_probabilities": {
+                "human": 0.9791652287440812,
+                "ai": 0.020795942848858842,
+                "mixed": 3.8828407059955453e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9791652287440812,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020795942848858842,
+                    "human": 0.9791652287440812,
+                    "mixed": 3.8828407059955453e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukMany of us warned about the real reasons behind the Vote Leave campaign when thereferendumwas announced. Slowly, the truth is emerging.Jacob Rees-Mogg now says that the state must not provide “certain functions” in the post-Brexitera. Which ones might they be? Healthcare? Unemployment pay? Pensions? Maternity leave? Food standards?Successive governments over a great many years have legislated to improve the lives of ordinary people, in the form of free education, old age pensions, sick pay, and employment rights, to give a few examples.Are we seriously going to allow these charlatans to remove them with more fatuous promises of a glorious future?Robert BostonKingshillScary timesLiz Truss’s criticism of English working-class people needing to do more “graft”, and suggesting we learn to work like the Chinese, has told us what she really thinks of the citizens she is representing.Today we also learnt that the hardest-working member of parliament, Jacob Rees-Mogg, is of the opinion that after Brexit the government should no longer “deliver certain functions” and re-think the British state.These are very scary times.Ken TwissClevelandCars or water?It has come to a point at which we have to decide whether to continue driving our cars or have water coming out of our taps.Driving cars uses fossil fuels, which contribute massively to climate change. Climate change is leading to the drying up of our rivers and reservoirs, and a severe reduction in our water supply.We have to make a choice between our cars and having a reliable water supply – we cannot continue to have both.Mary WatsonBirminghamTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereHoliday plansAs the Boris Johnson “continuity candidate”, can we presume that once the results are announced, Liz Truss will immediately be taking a donor-sponsored holiday to recover from the stress of the leadership election campaign?Geoff ForwardStirling"
+        }
+    ]
+}

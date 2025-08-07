@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00535975769162178,
+                    "sentence": "Published 5:13 pm Friday, April 21, 2023BySuffolk News-Herald Editorial BoardSaturday is the day annually recognized as Earth Day, a time people worldwide consider ways to make the planet a cleaner, healthier place to live.Started in 1970 by former Wisconsin senator and governor Gaylord Nelson, what started as a day of protest against air and water pollution, has grown into one of action.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012617688626050949,
+                    "sentence": "Lots of folks recognize the day by picking up some litter, planting a tree or some flowers or loading up items to take for recycling.The efforts of local residents in Suffolk focused on Earth Day have garnered the attention of the Keep Virginia Beautiful Program.Saturday's Suffolk Earth and Arts Festival and the new LOVE sign created by welding students at the College and Career Academy at Pruden are two great ways our community is recognizing the importance of what we have in the city.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006950340233743191,
+                    "sentence": "They both got recognition on the organization's website.We believe KVB is right in an article published a few years back that Earth Day is something that shouldn't be limited to a day or a week, it can be something we all tend to everyday.We in Suffolk have so much to celebrate with our beautiful outdoor venues, the city's regional and neighborhood parks, our waterways and the Great Dismal Swamp, to name a few.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0067132399417459965,
+                    "sentence": "They offer us an abundance of ways to get out and enjoy the outdoors with trails, picnics, fishing and boating, or just taking a relaxing nap under the shade of a tree.Protecting the beauty of our community, our region and Mother Earth can be as easy as undertaking some simple things, as KVB points out.Take those plastic grocery bags, as an example.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01159548107534647,
+                    "sentence": "A simple change to reusable bags can eliminate up to 120 shopping bags in a year for each family, Keep Virginia Beautiful estimates with the help of the folks at Food Lion.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011809034273028374,
+                    "sentence": "Imagine the difference this would make with thousands of us moving to reusable ones and eliminating them from the wastestream.The Farmer's Almanac had some great ideas in a story on its website, almanac.com, with ways we can do things that will improve our environment and make a difference.The Almanac's suggestions include:By adopting even a few of these ideas, it can become fun as all of the family and the children join in to celebrate Earth Day year round.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.014194565825164318,
+                    "sentence": "Plus it can make a big difference as we protect the natural beauty we have here in Suffolk, the Western Tidewater region and beyond.Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011623433791100979,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…In one of five compelling matchups on the WNBA slate today, the Seattle Storm and Connecticut Sun will…Wondering how you should bet on today's WNBA games?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.025531092658638954,
+                    "sentence": "Look no further.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02536444552242756,
+                    "sentence": "Below you'll find computer predictions on…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:13 pm Friday, April 21, 2023BySuffolk News-Herald Editorial BoardSaturday is the day annually recognized as Earth Day, a time people worldwide consider ways to make the planet a cleaner, healthier place to live.Started in 1970 by former Wisconsin senator and governor Gaylord Nelson, what started as a day of protest against air and water pollution, has grown into one of action. Lots of folks recognize the day by picking up some litter, planting a tree or some flowers or loading up items to take for recycling.The efforts of local residents in Suffolk focused on Earth Day have garnered the attention of the Keep Virginia Beautiful Program.Saturday’s Suffolk Earth and Arts Festival and the new LOVE sign created by welding students at the College and Career Academy at Pruden are two great ways our community is recognizing the importance of what we have in the city. They both got recognition on the organization’s website.We believe KVB is right in an article published a few years back that Earth Day is something that shouldn’t be limited to a day or a week, it can be something we all tend to everyday.We in Suffolk have so much to celebrate with our beautiful outdoor venues, the city’s regional and neighborhood parks, our waterways and the Great Dismal Swamp, to name a few. They offer us an abundance of ways to get out and enjoy the outdoors with trails, picnics, fishing and boating, or just taking a relaxing nap under the shade of a tree.Protecting the beauty of our community, our region and Mother Earth can be as easy as undertaking some simple things, as KVB points out.Take those plastic grocery bags, as an example. A simple change to reusable bags can eliminate up to 120 shopping bags in a year for each family, Keep Virginia Beautiful estimates with the help of the folks at Food Lion. Imagine the difference this would make with thousands of us moving to reusable ones and eliminating them from the wastestream.The Farmer’s Almanac had some great ideas in a story on its website, almanac.com, with ways we can do things that will improve our environment and make a difference.The Almanac’s suggestions include:By adopting even a few of these ideas, it can become fun as all of the family and the children join in to celebrate Earth Day year round. Plus it can make a big difference as we protect the natural beauty we have here in Suffolk, the Western Tidewater region and beyond.Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…In one of five compelling matchups on the WNBA slate today, the Seattle Storm and Connecticut Sun will…Wondering how you should bet on today’s WNBA games? Look no further. Below you’ll find computer predictions on…"
+        }
+    ]
+}

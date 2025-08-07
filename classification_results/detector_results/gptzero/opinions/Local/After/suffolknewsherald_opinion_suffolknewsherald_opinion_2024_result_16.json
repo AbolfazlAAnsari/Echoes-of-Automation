@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.006068275310099125,
+                    "sentence": "Published 4:04 pm Wednesday, July 3, 2024BySuffolk News-Herald Editorial BoardBoom, pop, bang, there's something special about the tradition of enjoying a firework show on the Fourth of July.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005041508935391903,
+                    "sentence": "Surrounded by your friends, family and neighbors, some great tunes and yummy eats, it's hard not to look around and get a strong sense of love for country and community.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0064120544120669365,
+                    "sentence": "For a brief moment, the hustle and grind of everyday life seems to take a back seat while we focus on celebrating this great nation and remember those who came before us that fought to secure our independence.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002642590319737792,
+                    "sentence": "It's a time to reflect on how special this nation is and how lucky we are to have the freedoms that we sometimes take for granted so whether you are sipping on a cool beverage, throwing some good food on the grill, enjoying the annual parade and raft race in Eclipse, or gathered to watch the City of Suffolk's Fourth of July fireworks display, Stars and Stripes Spectacular, happening at Constance Wharf Marina.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018838734831660986,
+                    "sentence": "Wherever and however you celebrate, we encourage you to take the time to look around and observe all the sights and sounds of freedom.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00224761082790792,
+                    "sentence": "When you do, we hope you'll feel the same immense love for our country and incredible pride in this community that we do.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00546406302601099,
+                    "sentence": "From all of us at the Suffolk News-Herald, have a happy and safe Fourth of July.The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003986390773206949,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003014690475538373,
+                    "sentence": "Among those contests is the Los Angeles…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.020796750353547094,
+            "class_probabilities": {
+                "human": 0.9792032496464529,
+                "ai": 0.020796750353547094,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9792032496464529,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020796750353547094,
+                    "human": 0.9792032496464529,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 4:04 pm Wednesday, July 3, 2024BySuffolk News-Herald Editorial BoardBoom, pop, bang, there’s something special about the tradition of enjoying a firework show on the Fourth of July. Surrounded by your friends, family and neighbors, some great tunes and yummy eats, it’s hard not to look around and get a strong sense of love for country and community. For a brief moment, the hustle and grind of everyday life seems to take a back seat while we focus on celebrating this great nation and remember those who came before us that fought to secure our independence. It’s a time to reflect on how special this nation is and how lucky we are to have the freedoms that we sometimes take for granted so whether you are sipping on a cool beverage, throwing some good food on the grill, enjoying the annual parade and raft race in Eclipse, or gathered to watch the City of Suffolk’s Fourth of July fireworks display, Stars and Stripes Spectacular, happening at Constance Wharf Marina. Wherever and however you celebrate, we encourage you to take the time to look around and observe all the sights and sounds of freedom. When you do, we hope you’ll feel the same immense love for our country and incredible pride in this community that we do. From all of us at the Suffolk News-Herald, have a happy and safe Fourth of July.The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…"
+        }
+    ]
+}

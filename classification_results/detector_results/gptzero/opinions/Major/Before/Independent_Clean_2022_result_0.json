@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 5.3837615269003436e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.9539619794813916e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe recent Savanta poll on the UK's departure from the EU a year ago only confirms a growing sense that the phoneyBrexitphase is over and that from now on Britain is facing the full consequences of its decision to support the hardest of a withdrawal agreement that only just fell short of \"no deal\" in its negative impactWhile it may be the case that a majority of older voters would still opt to leave in any second referendum, time and the experiences of their younger fellow citizens, facing the prospect of further restrictions on goods and access to Europe - whether for business, education, work or leisure - will very likely lead to a growing clamour to revisit the decision over five years ago in a similar way the Tory government of the early 1960s re-assessed its international position and concluded that the only realistic future for Britain lay with Europe.Paul DolanCheshireBrexit will be remembered in history as one of the most spectacular campaigns that was littered with bitter rows, festering divisions, doubts and misinformation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.643564534489997e-05,
+                    "sentence": "This is a poignant chapter for Britain only, a strategic and political misfortune.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.864966417197138e-05,
+                    "sentence": "The UK cannot rely on countries like India or Gulf states to bridge the huge gap left after exiting the EU.The crippling repercussions of Brexit will not be felt now but in the long term when its engineers the likes ofBoris Johnson, Dominic Raab and Priti Patel are out of office.Munjed Farid Al QutobLondonI wonder if Bill Cash'sgushing praiseof Boris Johnson's negotiating a trade deal with the EU has any semblance of truth a year on from his comparison of Boris Johnson to Margaret Thatcher and Winston Churchill.Both Thatcher and Churchill were leaders with great, true ability and, with help of able advisors, made and followed through on difficult decisions which improved the lot of the British public.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.77007483318448e-05,
+                    "sentence": "To equate Johnson's confused and dithering contribution to our wellbeing is an insult to their memory.Has there been any successes improving Britain's future?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010397227015346289,
+                    "sentence": "The no-hopers Johnson chose to manage the country have proved not to be up to the task.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1432039588689804,
+                    "sentence": "He has also polarised the civil Service, judiciary and other key contributors to running the country.In my opinion, Johnson's tenure of No 10 has been a retrograde step for the British people, of which both Thatcher and Churchill would certainly not be proud.Keith PooleBasingstokeA life lessonBetty White showed us that age does not mean you can't keep participating.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05637476593255997,
+                    "sentence": "She has such a long resume of films and television performances but one I enjoyed was her time on the soap opera Bold and Beautiful at the relatively young age of about 87.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09405715018510818,
+                    "sentence": "This show had no aversion to older actors with Phyllis Diller appearing at 95.Life has become complicated, concerning, and frustrating over the last few years, but we should look to the example of Betty White on how to live life to the full.Dennis FitzgeraldMelbourneRead MoreChristmas shoppers warned about post-Brexit charges on orders from EUTravel to Europe: the post-Brexit passport rulesGovernment delays key Brexit border checksBrexiteers are doing exactly what Boris Johnson doesn't need | John RentoulEditorial: The government has to ensure the UK-EU relationship works better in 2022Brexit is going to damage Boris Johnson in 2022 - here is how | John Rentoul",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.039828139852797,
+            "class_probabilities": {
+                "human": 0.9598887277771326,
+                "ai": 0.039828139852797,
+                "mixed": 0.0002831323700704621
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9598887277771326,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039828139852797,
+                    "human": 0.9598887277771326,
+                    "mixed": 0.0002831323700704621
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThe recent Savanta poll on the UK's departure from the EU a year ago only confirms a growing sense that the phoneyBrexitphase is over and that from now on Britain is facing the full consequences of its decision to support the hardest of a withdrawal agreement that only just fell short of \"no deal\" in its negative impactWhile it may be the case that a majority of older voters would still opt to leave in any second referendum, time and the experiences of their younger fellow citizens, facing the prospect of further restrictions on goods and access to Europe - whether for business, education, work or leisure - will very likely lead to a growing clamour to revisit the decision over five years ago in a similar way the Tory government of the early 1960s re-assessed its international position and concluded that the only realistic future for Britain lay with Europe.Paul DolanCheshireBrexit will be remembered in history as one of the most spectacular campaigns that was littered with bitter rows, festering divisions, doubts and misinformation. This is a poignant chapter for Britain only, a strategic and political misfortune. The UK cannot rely on countries like India or Gulf states to bridge the huge gap left after exiting the EU.The crippling repercussions of Brexit will not be felt now but in the long term when its engineers the likes ofBoris Johnson, Dominic Raab and Priti Patel are out of office.Munjed Farid Al QutobLondonI wonder if Bill Cash'sgushing praiseof Boris Johnson's negotiating a trade deal with the EU has any semblance of truth a year on from his comparison of Boris Johnson to Margaret Thatcher and Winston Churchill.Both Thatcher and Churchill were leaders with great, true ability and, with help of able advisors, made and followed through on difficult decisions which improved the lot of the British public. To equate Johnson's confused and dithering contribution to our wellbeing is an insult to their memory.Has there been any successes improving Britain's future? The no-hopers Johnson chose to manage the country have proved not to be up to the task. He has also polarised the civil Service, judiciary and other key contributors to running the country.In my opinion, Johnson's tenure of No 10 has been a retrograde step for the British people, of which both Thatcher and Churchill would certainly not be proud.Keith PooleBasingstokeA life lessonBetty White showed us that age does not mean you can't keep participating. She has such a long resume of films and television performances but one I enjoyed was her time on the soap opera Bold and Beautiful at the relatively young age of about 87. This show had no aversion to older actors with Phyllis Diller appearing at 95.Life has become complicated, concerning, and frustrating over the last few years, but we should look to the example of Betty White on how to live life to the full.Dennis FitzgeraldMelbourneRead MoreChristmas shoppers warned about post-Brexit charges on orders from EUTravel to Europe: the post-Brexit passport rulesGovernment delays key Brexit border checksBrexiteers are doing exactly what Boris Johnson doesn't need | John RentoulEditorial: The government has to ensure the UK-EU relationship works better in 2022Brexit is going to damage Boris Johnson in 2022 - here is how | John Rentoul"
+        }
+    ]
+}

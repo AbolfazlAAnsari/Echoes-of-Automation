@@ -1,0 +1,82 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0004702832084149122,
+                    "sentence": "The former House speaker, responding to an Opinion essay, points to legislation pending in Congress.The former House speaker, responding to an Opinion essay, points to legislation pending in Congress.To the Editor:Re “The Constitution Won't Save Us From Trump,” by Aziz Rana (Opinion guest essay, April 28):Mr. Rana makes a strong case for legislative solutions that will reinforce American democracy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004756099951919168,
+                    "sentence": "To that end, many of the reforms he calls for were already passed by House Democrats in 2022.OurFreedom to Vote: John R. Lewis Actwould take these steps:1) Aim to stop voter suppression and election subversion.2) Establish a nationwide redistricting commission to end partisan gerrymandering.3) Empower the grass roots with matching funds for small-dollar donors.4) Curtail the harmful, anti-democracy Citizens United decision by enacting theDisclose Act, which curbs anonymous funders from suffocating the airwaves with misrepresentations.President Biden, a patriotic and determined champion for democracy, has been forceful in his support for these reforms.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006491268868558109,
+                    "sentence": "But shamefully, Senate Republicans are the final obstacle.When we retake the House, hold the Senate and re-elect Joe Biden in 2024, the filibuster must be pulled aside so this democracy-advancing legislation can become law.Doing so will enable us to pass important legislation to protect our planet from the fossil fuel industry and protect our children from the gun industry, to name a few examples where big dark money stands in the way of progress.It is our duty to empower the public, reduce cynicism in government and put people over politics.Nancy PelosiWashingtonThe writer is the former speaker of the House.This article appeared in print on page A23.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                }
+            ],
+            "completely_generated_prob": 0.008764888981516596,
+            "class_probabilities": {
+                "human": 0.9912351110184834,
+                "ai": 0.008764888981516596,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9912351110184834,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.008764888981516596,
+                    "human": 0.9912351110184834,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "The former House speaker, responding to an Opinion essay, points to legislation pending in Congress.The former House speaker, responding to an Opinion essay, points to legislation pending in Congress.To the Editor:Re “The Constitution Won’t Save Us From Trump,” by Aziz Rana (Opinion guest essay, April 28):Mr. Rana makes a strong case for legislative solutions that will reinforce American democracy. To that end, many of the reforms he calls for were already passed by House Democrats in 2022.OurFreedom to Vote: John R. Lewis Actwould take these steps:1) Aim to stop voter suppression and election subversion.2) Establish a nationwide redistricting commission to end partisan gerrymandering.3) Empower the grass roots with matching funds for small-dollar donors.4) Curtail the harmful, anti-democracy Citizens United decision by enacting theDisclose Act, which curbs anonymous funders from suffocating the airwaves with misrepresentations.President Biden, a patriotic and determined champion for democracy, has been forceful in his support for these reforms. But shamefully, Senate Republicans are the final obstacle.When we retake the House, hold the Senate and re-elect Joe Biden in 2024, the filibuster must be pulled aside so this democracy-advancing legislation can become law.Doing so will enable us to pass important legislation to protect our planet from the fossil fuel industry and protect our children from the gun industry, to name a few examples where big dark money stands in the way of progress.It is our duty to empower the public, reduce cynicism in government and put people over politics.Nancy PelosiWashingtonThe writer is the former speaker of the House.This article appeared in print on page A23."
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00025281161651946604,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°The mayor should'right this wrong'The mayor should'right this wrong'In 2018, this newspaper published my letter lamenting the county's ill-advised decision to end a Big Island Auto Club 45-year tradition.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003781112900469452,
+                    "sentence": "Our annual Memorial Day event was transferred to a competing entity in what was described as “fairness.”We obviously disagreed!Numerous meetings with county officials attempting to rectify the issue have unfortunately been futile.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00030477019026875496,
+                    "sentence": "This past Memorial Day marked five years of the Auto Club being stuck on 45.This September, the Auto Club will conduct it's 50th annual Labor Day Drags, which honor our founding father HJ Tommy Thompson.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019722303841263056,
+                    "sentence": "One wonders if this tradition may someday be considered irrelevant by some future county bureaucrat.In two of the aforementioned meetings, Mayor Mitch Roth stated that if he were in office in 2018, this would not have happened.Well, Mr. Mayor, you are in the office now and have the ability to right this wrong.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00020526954904198647,
+                    "sentence": "I strongly request that you do so!Geoffrey B LauerHiloAnswer to editorialregarding energyThank you for introducing humor to the Sunday Commentary page!I mean, no one could parrot preposterous Big Oil talking points (“the possibility of climate change” ᅳ seriously?)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002550342760514468,
+                    "sentence": "the way Andy Blom did with a straight face, right?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00037098649772815406,
+                    "sentence": "(“Dear justices: Please keep the lights on,” Tribune-Herald, June 9).Please tell me this was parody.“Hawaiian Values” my a**.Bruce MirkenHiloQuestioning thetactics of WalmartIf Walmart wants to celebrate how much money they raise for children, how about a reality check: The money Walmart is so proud of raising all came from its customers, not the corporation or its stockholders, among the richest on the planet.How about Walmart creating billion-dollar charities withtheirprofits, which also come from us, instead of spending money on music and cartoon dancers (as seen recently in Hilo) to celebrate how well you manipulate the faceless and unnamed masses of shoppers to be generous while you don't give a rip.Carl F. OgussHawaiian Paradise Park",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.008764888981516596,
+            "class_probabilities": {
+                "human": 0.9912351110184834,
+                "ai": 0.008764888981516596,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9912351110184834,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.008764888981516596,
+                    "human": 0.9912351110184834,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°The mayor should‘right this wrong’The mayor should‘right this wrong’In 2018, this newspaper published my letter lamenting the county’s ill-advised decision to end a Big Island Auto Club 45-year tradition. Our annual Memorial Day event was transferred to a competing entity in what was described as “fairness.”We obviously disagreed!Numerous meetings with county officials attempting to rectify the issue have unfortunately been futile. This past Memorial Day marked five years of the Auto Club being stuck on 45.This September, the Auto Club will conduct it’s 50th annual Labor Day Drags, which honor our founding father HJ Tommy Thompson. One wonders if this tradition may someday be considered irrelevant by some future county bureaucrat.In two of the aforementioned meetings, Mayor Mitch Roth stated that if he were in office in 2018, this would not have happened.Well, Mr. Mayor, you are in the office now and have the ability to right this wrong. I strongly request that you do so!Geoffrey B LauerHiloAnswer to editorialregarding energyThank you for introducing humor to the Sunday Commentary page!I mean, no one could parrot preposterous Big Oil talking points (“the possibility of climate change” — seriously?) the way Andy Blom did with a straight face, right? (“Dear justices: Please keep the lights on,” Tribune-Herald, June 9).Please tell me this was parody.“Hawaiian Values” my a**.Bruce MirkenHiloQuestioning thetactics of WalmartIf Walmart wants to celebrate how much money they raise for children, how about a reality check: The money Walmart is so proud of raising all came from its customers, not the corporation or its stockholders, among the richest on the planet.How about Walmart creating billion-dollar charities withtheirprofits, which also come from us, instead of spending money on music and cartoon dancers (as seen recently in Hilo) to celebrate how well you manipulate the faceless and unnamed masses of shoppers to be generous while you don’t give a rip.Carl F. OgussHawaiian Paradise Park"
+        }
+    ]
+}

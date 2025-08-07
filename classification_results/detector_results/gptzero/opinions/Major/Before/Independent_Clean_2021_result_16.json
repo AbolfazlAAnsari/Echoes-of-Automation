@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0020028273575007915,
+                    "sentence": "Please send your letters toletters@independent.co.ukI take great exception to recentcommentsbyJoan Bakewellabout her DecemberCovid-19vaccinationand the disruption caused by the extension of her wait for her second dose.What a selfish and self-centred attitudeMy 90-year-old mother who also suffers from chronic obstructive pulmonary disease (COPD) is still awaiting her first vaccination dose.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017578063998371363,
+                    "sentence": "She is by no means alone in this.The privileged and famous such as Baroness Bakewell should consider those who are less fortunate than them.My mother and all those in her position are just as deserving of protection from this horrendous virus as any other person.Paul MurphyBoltonA note from the doctorIf you want your GP to find you (Letters) you have to keep your contact details up to date, you have to turn up for your appointment and you have to be patient.If you miss your appointment there is a risk, particularly with the Pfizer vaccine, that doses could go to waste.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0021341948304325342,
+                    "sentence": "Our GP practice avoided this by telephoning us whilst we were out walking yesterday and we were vaccinated in the evening.We had given them a mobile number and we had to be patient waiting in a queue outside.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0023997374810278416,
+                    "sentence": "They performed as the NHS can when it is left to get on with things.The volunteers were well organised and the doctors followed the Pfizer guidelines.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002671348163858056,
+                    "sentence": "It was worth the effort to get there and the wait.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013967754784971476,
+                    "sentence": "I applaud them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003158316481858492,
+                    "sentence": "We now need the NHS to use the data generated.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003621569834649563,
+                    "sentence": "It is the time to learn because mass vaccinations are very likely to be needed on a regular basis.Jon HawksleyLondonAnglo-Irish relationsBoris Johnson's desire for Anglo-Irish rapprochement may have gone too far in exempting Ireland -which has had the world's highest Covid-19 infection rate -from the UK's overdue travel corridor closures.Dr John DohertyCounty DonegalUniversal Credit anxietyI read Rob Merrick'sarticle on Universal Creditwith interest.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00029979099053889513,
+                    "sentence": "As an avid and often incensed viewer of BBC Parliament, I will watch the vote on Monday with great concern.It is good to see that the Tory Northern Research Group, whose email in boxes, must be building up with worried constituents who can't afford to lose this uplift from their Universal Credit.Playing fast and loose with peoples' meagre incomes at the best of times is plain wrong and at the worst of time is nothing short of disgraceful and will not be forgotten or forgiven.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00035051244776695967,
+                    "sentence": "\"Levelling up\" is the government's mantra, not having the poorest in our communities live with uncertainty and anxiety in the midst of a pandemic.Judith A DanielsGreat YarmouthMonumental wasteIf you'll excuse the pun, what a monumental waste of parliamentary time is the plan to pass new laws about contentious statues.Irrespective on one's point of view I'm sure there already exist plenty of laws around criminal damage and I'm guessing there are existing procedures for moving such installations.Governments' seem to love extra legislation and red tape.Dr Anthony IngletonSheffieldLosing faithI just listened to Dominic Raab being interviewed and yet again, I think, his interview highlighted why people have so much trouble believing politicians.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005486109293997288,
+                    "sentence": "He couldn't answer one question without engaging in doublespeak and obfuscation.In the midst of a national crisis, when we need straightforward and clear instructions and guidance, here's a politician clearly much more concerned with avoiding exactly such talk.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005619637668132782,
+                    "sentence": "No wonder we are losing faith in our leaders.Steve MumbyLondonRead MoreJoan Bakewell threatens legal action over delay to second vaccine jabTory revolt threatens PM with defeat over cut to universal creditEvery UK adult to be offered Covid vaccine by September, says RaabStarmer 'needs progressive pact to oust Johnson', new analysis findsScottish fishermen eviscerate Johnson's 'desperately poor' Brexit dealIt is clear that Boris Johnson is not learning from his mistakes",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.020796750353547094,
+            "class_probabilities": {
+                "human": 0.9792032496464529,
+                "ai": 0.020796750353547094,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9792032496464529,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020796750353547094,
+                    "human": 0.9792032496464529,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukI take great exception to recentcommentsbyJoan Bakewellabout her DecemberCovid-19vaccinationand the disruption caused by the extension of her wait for her second dose.What a selfish and self-centred attitudeMy 90-year-old mother who also suffers from chronic obstructive pulmonary disease (COPD) is still awaiting her first vaccination dose. She is by no means alone in this.The privileged and famous such as Baroness Bakewell should consider those who are less fortunate than them.My mother and all those in her position are just as deserving of protection from this horrendous virus as any other person .Paul MurphyBoltonA note from the doctorIf you want your GP to find you (Letters) you have to keep your contact details up to date, you have to turn up for your appointment and you have to be patient.If you miss your appointment there is a risk, particularly with the Pfizer vaccine, that doses could go to waste. Our GP practice avoided this by telephoning us whilst we were out walking yesterday and we were vaccinated in the evening.We had given them a mobile number and we had to be patient waiting in a queue outside. They performed as the NHS can when it is left to get on with things.The volunteers were well organised and the doctors followed the Pfizer guidelines. It was worth the effort to get there and the wait. I applaud them. We now need the NHS to use the data generated. It is the time to learn because mass vaccinations are very likely to be needed on a regular basis.Jon HawksleyLondonAnglo-Irish relationsBoris Johnson’s desire for Anglo-Irish rapprochement may have gone too far in exempting Ireland -which has had the world's highest Covid-19 infection rate -from the UK's overdue travel corridor closures.Dr John DohertyCounty DonegalUniversal Credit anxietyI read Rob Merrick'sarticle on Universal Creditwith interest. As an avid and often incensed viewer of BBC Parliament, I will watch the vote on Monday with great concern.It is good to see that the Tory Northern Research Group, whose email in boxes, must be building up with worried constituents who can't afford to lose this uplift from their Universal Credit.Playing fast and loose with peoples' meagre incomes at the best of times is plain wrong and at the worst of time is nothing short of disgraceful and will not be forgotten or forgiven.\"Levelling up\" is the government's mantra, not having the poorest in our communities live with uncertainty and anxiety in the midst of a pandemic.Judith A DanielsGreat YarmouthMonumental wasteIf you’ll excuse the pun, what a monumental waste of parliamentary time is the plan to pass new laws about contentious statues.Irrespective on one’s point of view I’m sure there already exist plenty of laws around criminal damage and I’m guessing there are existing procedures for moving such installations.Governments' seem to love extra legislation and red tape.Dr Anthony IngletonSheffieldLosing faithI just listened to Dominic Raab being interviewed and yet again, I think, his interview highlighted why people have so much trouble believing politicians. He couldn’t answer one question without engaging in doublespeak and obfuscation.In the midst of a national crisis, when we need straightforward and clear instructions and guidance, here’s a politician clearly much more concerned with avoiding exactly such talk. No wonder we are losing faith in our leaders.Steve MumbyLondonRead MoreJoan Bakewell threatens legal action over delay to second vaccine jabTory revolt threatens PM with defeat over cut to universal creditEvery UK adult to be offered Covid vaccine by September, says RaabStarmer ‘needs progressive pact to oust Johnson’, new analysis findsScottish fishermen eviscerate Johnson’s ‘desperately poor’ Brexit dealIt is clear that Boris Johnson is not learning from his mistakes"
+        }
+    ]
+}

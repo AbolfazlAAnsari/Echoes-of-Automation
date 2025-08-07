@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.025005483999848366,
+                    "sentence": "Published 7:15 pm Friday, August 18, 2023BySuffolk News-HeraldThe latest statistics on violent crime are out, and the picture isn't pretty for Suffolk.Worse yet, Police Chief Al Chandler is missing in action at a time when jittery residents need accountability and reassurance from those responsible for their safety.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.045707255601882935,
+                    "sentence": "Multiple attempts by the News-Herald to interview Chandler about Virginia State Police's newest “Crime in Virginia” report have been unsuccessful.Now comes news of the arrest of two of Chandler's officers on felony charges of obtaining money under false pretenses, plus counts of forgery and computer fraud.Suffolk residents are right to be disturbed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04984544590115547,
+                    "sentence": "The first priority of any community is the safety of its citizens, and Suffolk has work to do in convincing people that its law enforcement agency is up to the task.In case you missed our related story earlier in the week, Virginia State Police's annual report shows violent crimes and those against other people in Suffolk rose sharply during 2022.A dozen deaths due to murder and non-negligent manslaughter last year was up from seven in 2021, three in 2020, six in 2019 and just two in 2018.Aggravated assault ran about the same in 2022 and the year prior at 372 and 383, respectively.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0633888691663742,
+                    "sentence": "However, these cases were up from past years as the report shows aggravated assaults at 299 in 2020, 173 in 2109 and 151 during 2018, according to the report.The VSP report also shows rape is on the rise in the city.Forcible rape violations were up over the past five years, with 35 cases in 2022.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03828063979744911,
+                    "sentence": "That's up from 29 in 2021 and 20 in 2020.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02730644680559635,
+                    "sentence": "In 2019 there were 30 reported forcible rapes and 2018 saw 31 reported forcible rapes, according to the report.Violations falling under crimes against person, which include murders, kidnapping, rape, aggravated and simple assaults, and intimidation, were up again last year, according to the report.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.024809274822473526,
+                    "sentence": "During 2022, these violations totaled 2,308 in the city, up from 2,244 in 2021 and 2,025 in 2020.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011119265109300613,
+                    "sentence": "There were 1,999 of these types of violations reported in 2019 and 2,126 in 2018.The numbers are no surprise to anyone who regularly reads this newspaper, whose pages too often have to report about homicides and other violent crimes.When we last heard from Chandler in an interview with a News-Herald reporter last summer, the chief seemed to suggest that Suffolk's violent-crime problem was overhyped.“We've always had gun violence as long as I've been here,” he said.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.014435673132538795,
+                    "sentence": "“The numbers are higher, but it's not earth-shattering.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012439105659723282,
+                    "sentence": "But, of course, any life that is lost is a tragedy.”The full numbers are in for 2022, and, contrary to the chief's assessment, we'd say they're indeed earth-shattering for a community that's on the ball economically and in many other respects and should be a jewel among Hampton Roads localities.Violent crime cannot be allowed to stop Suffolk from reaching its full potential.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05661141872406006,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.049678441137075424,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.039839419682113825,
+            "class_probabilities": {
+                "human": 0.9601605803178862,
+                "ai": 0.039839419682113825,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601605803178862,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039839419682113825,
+                    "human": 0.9601605803178862,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 7:15 pm Friday, August 18, 2023BySuffolk News-HeraldThe latest statistics on violent crime are out, and the picture isn’t pretty for Suffolk.Worse yet, Police Chief Al Chandler is missing in action at a time when jittery residents need accountability and reassurance from those responsible for their safety. Multiple attempts by the News-Herald to interview Chandler about Virginia State Police’s newest “Crime in Virginia” report have been unsuccessful.Now comes news of the arrest of two of Chandler’s officers on felony charges of obtaining money under false pretenses, plus counts of forgery and computer fraud.Suffolk residents are right to be disturbed. The first priority of any community is the safety of its citizens, and Suffolk has work to do in convincing people that its law enforcement agency is up to the task.In case you missed our related story earlier in the week, Virginia State Police’s annual report shows violent crimes and those against other people in Suffolk rose sharply during 2022.A dozen deaths due to murder and non-negligent manslaughter last year was up from seven in 2021, three in 2020, six in 2019 and just two in 2018.Aggravated assault ran about the same in 2022 and the year prior at 372 and 383, respectively. However, these cases were up from past years as the report shows aggravated assaults at 299 in 2020, 173 in 2109 and 151 during 2018, according to the report.The VSP report also shows rape is on the rise in the city.Forcible rape violations were up over the past five years, with 35 cases in 2022. That’s up from 29 in 2021 and 20 in 2020. In 2019 there were 30 reported forcible rapes and 2018 saw 31 reported forcible rapes, according to the report.Violations falling under crimes against person, which include murders, kidnapping, rape, aggravated and simple assaults, and intimidation, were up again last year, according to the report. During 2022, these violations totaled 2,308 in the city, up from 2,244 in 2021 and 2,025 in 2020. There were 1,999 of these types of violations reported in 2019 and 2,126 in 2018.The numbers are no surprise to anyone who regularly reads this newspaper, whose pages too often have to report about homicides and other violent crimes.When we last heard from Chandler in an interview with a News-Herald reporter last summer, the chief seemed to suggest that Suffolk’s violent-crime problem was overhyped.“We’ve always had gun violence as long as I’ve been here,” he said. “The numbers are higher, but it’s not earth-shattering. But, of course, any life that is lost is a tragedy.”The full numbers are in for 2022, and, contrary to the chief’s assessment, we’d say they’re indeed earth-shattering for a community that’s on the ball economically and in many other respects and should be a jewel among Hampton Roads localities.Violent crime cannot be allowed to stop Suffolk from reaching its full potential.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

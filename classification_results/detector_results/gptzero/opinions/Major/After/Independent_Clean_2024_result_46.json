@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 5.275345756672323e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.155139297130518e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukAlexei Navalny's name will become a byword for courage.Putin's justbecame one for cowardice.Russia has a tradition ofadmiring strong men.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.016026600264013e-05,
+                    "sentence": "They had one in Navalny.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.778950096806511e-05,
+                    "sentence": "They have just discovered that they have a weakling and a coward in Putin.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.934633398079313e-05,
+                    "sentence": "Every household and every soldier in Russia knows that tonight.Putin has indeed struck a killing blow: to himself.Amoosh GriffithsAddress suppliedGood riddance to the ToriesAttempting to explain the Tories'crushing defeatsin the Kingswood and Wellingborough by-electionsRishi Sunakdeclared that “mid-term by-elections are always difficult for governments”.The mid-term?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.892758104484528e-05,
+                    "sentence": "After 14 years of Tory mismanagement?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.990829281974584e-05,
+                    "sentence": "It seems the prime minister's career has been characterised by his absurd attempts to ignore objective reality.Sunak argued the economy had \"turned a corner\" just hours before the UK slipped into recession.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.629784184042364e-05,
+                    "sentence": "He believes passing a law in London can make Rwanda a \"safe\" place to outsource asylum seekers to.But objective reality has a habit of reasserting itself.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09512130171060562,
+                    "sentence": "And the fact is that the Tories are heading for the dustbin of history.Good riddance to bad rubbish.Sasha SimicLondonAll art is politicalThe recentarticle by Anthony Anaxagorou, regarding the news that Arts Council England had updated its official relationship framework to discourage political statements from artists, is right on the money.What use is art that is not political?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1808268129825592,
+                    "sentence": "And why is it that cries of “free speech” and “preserving British culture” seem to go silent when it comes to preserving the rights of artists to speak out against injustice?Stephen BloomCanterburyA bad omen?I thought it timely to repeat my prediction of an October general election, and a Tory defeat similar to the 1906 disaster.I think most of us now know that Rishi Sunak is a clever man, but indifferent to or even bad at politics.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.44061893224716187,
+                    "sentence": "He should have called a snap election last spring/summer when he might even have scraped a hung parliament.Could he make things even worse?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06265000253915787,
+                    "sentence": "Yes, by waiting until the last minute and going to the polls in January 2025.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.19272223114967346,
+                    "sentence": "Think about it: older people are still the largest Tory demographic, and they will not take kindly to queuing in bad weather whilst ID is checked - or, worse still, forgotten.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.12784931063652039,
+                    "sentence": "Also, the 1906 election was across January and February: the worst politician in the world couldn't help to see a bad omen there.Robert BostonKent",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 1.9423489116273474e-12
+                }
+            ],
+            "completely_generated_prob": 0.039839419682113825,
+            "class_probabilities": {
+                "human": 0.9601605803178862,
+                "ai": 0.039839419682113825,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601605803178862,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039839419682113825,
+                    "human": 0.9601605803178862,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukAlexei Navalny’s name will become a byword for courage.Putin’s justbecame one for cowardice.Russia has a tradition ofadmiring strong men.  They had one in Navalny. They have just discovered that they have a weakling and a coward in Putin. Every household and every soldier in Russia knows that tonight.Putin has indeed struck a killing blow: to himself.Amoosh GriffithsAddress suppliedGood riddance to the ToriesAttempting to explain the Tories’crushing defeatsin the Kingswood and Wellingborough by-electionsRishi Sunakdeclared that “mid-term by-elections are always difficult for governments”.The mid-term? After 14 years of Tory mismanagement? It seems the prime minister’s career has been characterised by his absurd attempts to ignore objective reality.Sunak argued the economy had \"turned a corner\" just hours before the UK slipped into recession. He believes passing a law in London can make Rwanda a \"safe\" place to outsource asylum seekers to.But objective reality has a habit of reasserting itself. And the fact is that the Tories are heading for the dustbin of history.Good riddance to bad rubbish.Sasha SimicLondonAll art is politicalThe recentarticle by Anthony Anaxagorou, regarding the news that Arts Council England had updated its official relationship framework to discourage political statements from artists, is right on the money.What use is art that is not political? And why is it that cries of “free speech” and “preserving British culture” seem to go silent when it comes to preserving the rights of artists to speak out against injustice?Stephen BloomCanterburyA bad omen?I thought it timely to repeat my prediction of an October general election, and a Tory defeat similar to the 1906 disaster.I think most of us now know that Rishi Sunak is a clever man, but indifferent to or even bad at politics. He should have called a snap election last spring/summer when he might even have scraped a hung parliament.Could he make things even worse? Yes, by waiting until the last minute and going to the polls in January 2025. Think about it: older people are still the largest Tory demographic, and they will not take kindly to queuing in bad weather whilst ID is checked – or, worse still, forgotten. Also, the 1906 election was across January and February: the worst politician in the world couldn’t help to see a bad omen there.Robert BostonKent"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 7.834681309759617e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012405309826135635,
+                    "sentence": "Please send your letters toletters@independent.co.ukAs the prime minister is still in office but seems not prepared to do anything useful, is it not time for him to be put on a zero-hour contract, specifically designed for “on-call” workers such as himself?If such contracts are good enough for 5.5 million of his fellow citizens, surely one would be good enough for him?Monica BurkeCumbriaPeople say that Liz Truss is lacking in any type of planPeople say thatLiz Trussis lacking in any type of plan to combat the looming fiscal disaster.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.558897439390421e-05,
+                    "sentence": "I disagree.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011664247722364962,
+                    "sentence": "I am convinced that they intend to brazen things out until the football World Cup in Qatar, hoping for an England victory.Remember that old chestnut around our success in 1966 and Harold Wilson's premiership?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.60899022477679e-05,
+                    "sentence": "I think they believe it!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.357563976664096e-05,
+                    "sentence": "They obviously hope that the euphoria will distract voters from the penury and chaos long enough to call a spring election.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.761998808244243e-05,
+                    "sentence": "And people think I am joking.Robert BostonKingshill, KentSticking plasters on a gaping woundTemporary hosepipe and water use restrictions are sticking plasters on a gaping wound.The next prime minister should impose increasingly draconian annual penalties on water companies until their leaks (currently at 20 per cent of their daily water supply) are eliminated, hopefully long before Water UK's mind-blowing deadline to end only half their leaks by 2050.Trevor LyttletonLondonA total ban on barbecues and smokingIn order to save our nation from literally going up in smoke and many of our citizens being burned to death and their homes destroyed, our government must instantly bring in a total ban on barbecues and smoking in the countryside.With our charlatan of a PM on holiday, they seem impotent and only care about which utterly incompetent, ex-BJ-toadying liar will succeed him.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.014221439138054848,
+                    "sentence": "I wonder if organisations like the National Trust, who own vast tracks of our countryside, could bring in bans on barbecues and smoking on their properties.Edward LyonIsle of WightThe stains and the stench from their reputationsFor those of you wondering what the damage will be when those indisposable truth bombs start to explode, it's going to be a whole lot worse than having bits of depleted uranium hitting you squarely in the backside.Everybody involved is going to find themselves covered in so much excrement, that it will take years both to remove the stains and the stench from their reputations, and they will be approachable and untouchable for an even longer period, for the same reasons.If you don't believe me, try getting near the rep of Bojo or The Donald's, or any other world leaders in whatever field, past or present, living or dead, of whatever nationality you care to mention, without your gorge rising from reputation sickness.Liam PowerDundalk, Ireland",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.037526171686261885,
+            "class_probabilities": {
+                "human": 0.9624738283137382,
+                "ai": 0.037526171686261885,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9624738283137382,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.037526171686261885,
+                    "human": 0.9624738283137382,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukAs the prime minister is still in office but seems not prepared to do anything useful, is it not time for him to be put on a zero-hour contract, specifically designed for “on-call” workers such as himself?If such contracts are good enough for 5.5 million of his fellow citizens, surely one would be good enough for him?Monica BurkeCumbriaPeople say that Liz Truss is lacking in any type of planPeople say thatLiz Trussis lacking in any type of plan to combat the looming fiscal disaster. I disagree. I am convinced that they intend to brazen things out until the football World Cup in Qatar, hoping for an England victory.Remember that old chestnut around our success in 1966 and Harold Wilson’s premiership? I think they believe it! They obviously hope that the euphoria will distract voters from the penury and chaos long enough to call a spring election. And people think I am joking.Robert BostonKingshill, KentSticking plasters on a gaping woundTemporary hosepipe and water use restrictions are sticking plasters on a gaping wound.The next prime minister should impose increasingly draconian annual penalties on water companies until their leaks (currently at 20 per cent of their daily water supply) are eliminated, hopefully long before Water UK’s mind-blowing deadline to end only half their leaks by 2050.Trevor LyttletonLondonA total ban on barbecues and smokingIn order to save our nation from literally going up in smoke and many of our citizens being burned to death and their homes destroyed, our government must instantly bring in a total ban on barbecues and smoking in the countryside.With our charlatan of a PM on holiday, they seem impotent and only care about which utterly incompetent, ex-BJ-toadying liar will succeed him. I wonder if organisations like the National Trust, who own vast tracks of our countryside, could bring in bans on barbecues and smoking on their properties.Edward LyonIsle of WightThe stains and the stench from their reputationsFor those of you wondering what the damage will be when those indisposable truth bombs start to explode, it’s going to be a whole lot worse than having bits of depleted uranium hitting you squarely in the backside.Everybody involved is going to find themselves covered in so much excrement, that it will take years both to remove the stains and the stench from their reputations, and they will be approachable and untouchable for an even longer period, for the same reasons.If you don’t believe me, try getting near the rep of Bojo or The Donald’s, or any other world leaders in whatever field, past or present, living or dead, of whatever nationality you care to mention, without your gorge rising from reputation sickness.Liam PowerDundalk, Ireland"
+        }
+    ]
+}

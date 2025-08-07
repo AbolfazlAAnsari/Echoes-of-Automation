@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0019798981957137585,
+                    "sentence": "Published 3:57 pm Tuesday, October 10, 2023BySuffolk News-HeraldIn 1964, a one-minute television ad changed the landscape of U.S. politics forever.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005105443298816681,
+                    "sentence": "The ad, commonly referred to as the 'Daisy Girl' ad, portrayed a young girl counting while picking a daisy's petals and counting each petal as she pulls it off the stem.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00461374968290329,
+                    "sentence": "As the girl pulled the final petal, a mission control-like countdown replaced her words and was followed by a giant nuclear explosion and the classic mushroom cloud.The advertisement was a campaign ad aimed at Presidential candidate Barry Goldwater, portraying him as a maniac who threatened the world's future.Two months after the advertisement aired for the first and only time, President Lyndon Johnson won easily, and the visceral political attack ad was born.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019105749670416117,
+                    "sentence": "The impression is that the ad won the election for Johnson.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001911446452140808,
+                    "sentence": "However, by the time this ad ran, there was a very slim chance Goldwater was going to win the election, and 'Daisy Girl' was credited for assuring the victory.Nearly 60 years later, we are still in the midst of negative political campaign ads.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0022671690676361322,
+                    "sentence": "These ads continue to fill our traditional media spaces regularly, and in the age of target marketing online, our computer and phone screens as well.The average person will tell you they dislike negative campaign ads.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013780425069853663,
+                    "sentence": "However, research shows these ads are effective because they elicit supporters' reactions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00181759858969599,
+                    "sentence": "Although they may elicit a reaction and motivate someone to vote for one candidate or another, what they do not do is provide voters with reasons why they should vote for one candidate over another and potentially lead emotionally uninformed voters to the polls.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.21453724801540375,
+                    "sentence": "Voting with your emotions is akin to standing in line at the grocery store and picking up a tabloid magazine simply because you saw a great photo and catchy title.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3865080177783966,
+                    "sentence": "Neither of those tells the true story, and once you immerse yourself in that story, it may turn out to be something other than what you expected.Being informed includes attending candidate forums, which in some cases, showcase the differences between candidates - assuming they all participate.As early voting has already begun in Virginia and the negative ads continue to flow, we hope that each active voter takes the time to learn more about each candidate on the ballot.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.36317217350006104,
+                    "sentence": "Being an informed voter is just as important as casting the vote itself.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.4433958828449249,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.48993057012557983,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.12767420652125164,
+            "class_probabilities": {
+                "human": 0.8723257934787484,
+                "ai": 0.12767420652125164,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8723257934787484,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.12767420652125164,
+                    "human": 0.8723257934787484,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 3:57 pm Tuesday, October 10, 2023BySuffolk News-HeraldIn 1964, a one-minute television ad changed the landscape of U.S. politics forever. The ad, commonly referred to as the ‘Daisy Girl’ ad, portrayed a young girl counting while picking a daisy’s petals and counting each petal as she pulls it off the stem. As the girl pulled the final petal, a mission control-like countdown replaced her words and was followed by a giant nuclear explosion and the classic mushroom cloud.The advertisement was a campaign ad aimed at Presidential candidate Barry Goldwater, portraying him as a maniac who threatened the world’s future.Two months after the advertisement aired for the first and only time, President Lyndon Johnson won easily, and the visceral political attack ad was born. The impression is that the ad won the election for Johnson. However, by the time this ad ran, there was a very slim chance Goldwater was going to win the election, and ‘Daisy Girl’ was credited for assuring the victory.Nearly 60 years later, we are still in the midst of negative political campaign ads. These ads continue to fill our traditional media spaces regularly, and in the age of target marketing online, our computer and phone screens as well.The average person will tell you they dislike negative campaign ads. However, research shows these ads are effective because they elicit supporters’ reactions. Although they may elicit a reaction and motivate someone to vote for one candidate or another, what they do not do is provide voters with reasons why they should vote for one candidate over another and potentially lead emotionally uninformed voters to the polls. Voting with your emotions is akin to standing in line at the grocery store and picking up a tabloid magazine simply because you saw a great photo and catchy title. Neither of those tells the true story, and once you immerse yourself in that story, it may turn out to be something other than what you expected.Being informed includes attending candidate forums, which in some cases, showcase the differences between candidates – assuming they all participate.As early voting has already begun in Virginia and the negative ads continue to flow, we hope that each active voter takes the time to learn more about each candidate on the ballot. Being an informed voter is just as important as casting the vote itself.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

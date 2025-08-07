@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.010102534666657448,
+                    "sentence": "Published 5:18 pm Friday, July 14, 2023BySuffolk News-HeraldAn obscure, but important, anniversary occurs this weekend: the one-year mark since the debut of 988, a nationwide mental health crisis helpline.It's not there quite yet, but the hope is that it will become as recognizable as 911 for Americans during an era of unprecedented levels of mental illness in this country.We credit the good people at Harbor Point Behavioral Health Center in Portsmouth for reminding us of the anniversary.The number connects callers with the Suicide and Crisis Lifeline (formerly known as the National Suicide Prevention Lifeline).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009834399446845055,
+                    "sentence": "Congress designated 988 in 2020, part of a massive investment in crisis centers such as Harbor Point.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008734563365578651,
+                    "sentence": "Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012233495712280273,
+                    "sentence": "Glenn Youngkin has since made treatment of mental illness a priority in Virginia, acknowledging its impact on people and families, as well as its toll on law enforcement, which has become the de facto front line in a battle that is more societal and medical than criminal.988 is confidential, free and available 24/7/365, connecting those experiencing a mental health, substance use or suicidal crisis with trained crisis counselors.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010562002658843994,
+                    "sentence": "Access is available through every landline, cellphone and voice-over-internet device in the United States, and call/text services are also available in Spanish, along with interpretation services in more than 150 languages, Harbor Point reports.Since the launch of 988 in 2022, data show an increase in overall calls, texts and chats - all while answer rates are significantly improving.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004942434374243021,
+                    "sentence": "More people are getting connected to care (and connected sooner) than ever before.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01125085074454546,
+                    "sentence": "According to the Substance Abuse and Mental Health Services Administration (SAMHSA), 98% of people who contact 988 are helped by a trained crisis counselor, resources are shared and community connections made (without the involvement of 911) during the call/text/chat.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006331298034638166,
+                    "sentence": "Some 9,360 people call 988 on an average day.Harbor Point reports that about 1% of people who contact 988 agree to have their crisis counselor call 911 because of serious risk to life.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004113487433642149,
+                    "sentence": "In fewer than 1% of 988 calls, the crisis counselor must call 911 without consent because of serious risk to life.“If someone is experiencing an emotional crisis or thoughts of suicide, call 988 or seek help at a licensed behavioral health facility,” Harbor Point CEO Freddie Anderson Jr. implored.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.7991523146629333,
+                    "sentence": "“As a behavioral health care provider right here in Hampton Roads, our team … is dedicated to supporting children and adolescents in a manner that promotes hope, resiliency, connectedness and recovery.”On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.8820055723190308,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.7996994853019714,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 3.0857991148692655e-09
+                }
+            ],
+            "completely_generated_prob": 0.2425855513307985,
+            "class_probabilities": {
+                "human": 0.7574144486692015,
+                "ai": 0.2425855513307985,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.7574144486692015,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.2425855513307985,
+                    "human": 0.7574144486692015,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:18 pm Friday, July 14, 2023BySuffolk News-HeraldAn obscure, but important, anniversary occurs this weekend: the one-year mark since the debut of 988, a nationwide mental health crisis helpline.It’s not there quite yet, but the hope is that it will become as recognizable as 911 for Americans during an era of unprecedented levels of mental illness in this country.We credit the good people at Harbor Point Behavioral Health Center in Portsmouth for reminding us of the anniversary.The number connects callers with the Suicide and Crisis Lifeline (formerly known as the National Suicide Prevention Lifeline). Congress designated 988 in 2020, part of a massive investment in crisis centers such as Harbor Point. Gov. Glenn Youngkin has since made treatment of mental illness a priority in Virginia, acknowledging its impact on people and families, as well as its toll on law enforcement, which has become the de facto front line in a battle that is more societal and medical than criminal.988 is confidential, free and available 24/7/365, connecting those experiencing a mental health, substance use or suicidal crisis with trained crisis counselors. Access is available through every landline, cellphone and voice-over-internet device in the United States, and call/text services are also available in Spanish, along with interpretation services in more than 150 languages, Harbor Point reports.Since the launch of 988 in 2022, data show an increase in overall calls, texts and chats – all while answer rates are significantly improving. More people are getting connected to care (and connected sooner) than ever before. According to the Substance Abuse and Mental Health Services Administration (SAMHSA), 98% of people who contact 988 are helped by a trained crisis counselor, resources are shared and community connections made (without the involvement of 911) during the call/text/chat. Some 9,360 people call 988 on an average day.Harbor Point reports that about 1% of people who contact 988 agree to have their crisis counselor call 911 because of serious risk to life. In fewer than 1% of 988 calls, the crisis counselor must call 911 without consent because of serious risk to life.“If someone is experiencing an emotional crisis or thoughts of suicide, call 988 or seek help at a licensed behavioral health facility,” Harbor Point CEO Freddie Anderson Jr. implored. “As a behavioral health care provider right here in Hampton Roads, our team … is dedicated to supporting children and adolescents in a manner that promotes hope, resiliency, connectedness and recovery.”On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

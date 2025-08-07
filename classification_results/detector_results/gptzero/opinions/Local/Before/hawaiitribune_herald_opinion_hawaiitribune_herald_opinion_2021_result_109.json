@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.01231071911752224,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Federal and state officials made the right decision last week to feed manatees this winter on an emergency basis if the die-off in Florida continues.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01007791142910719,
+                    "sentence": "More than 1,000 manatees have died this year, out of estimated population statewide of about 9,000.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01243339478969574,
+                    "sentence": "Nearly 760 died, mostly from starvation, in the Indian River Lagoon, on Florida's east coast, where pollution from farms, septic tanks and lawns has killed off seagrass, the manatee's primary food source.Federal and state law bars the feeding of manatees, for a variety of good reasons; human feeding could wean them away from their natural diet, and acclimating manatees to humans could make them more vulnerable to getting injured or killed by boats.But the devastating loss of seagrass in the lagoon warrants this emergency response.Officials will use romaine lettuce to supplement the manatees' diet to help them endure another winter of mass starvation.Wildlife advocates supported the move to supplement the manatees' food supply, but all involved recognize it's a stopgap measure that may or may not work, and that it's certainly no substitute for controlling pollution runoff and rebuilding the seagrass beds.Manatees, which can weigh more than 1,000 pounds, can eat between 50 and 100 pounds of sea grass in a day.The Atlantic population of manatees, including those that use the Indian River Lagoon, is one of four main populations in the state.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012368220835924149,
+                    "sentence": "The other three have not experienced a wave of mortality.As this Editorial Board said recently, it's time to put manatees back on the endangered species list, something Sarasota Republican Rep. Vern Buchanan supports.State lawmakers also need to make the cleanup of the Indian River Lagoon a priority when the legislative session begins in January.The lagoon is in near ecological collapse, with algae blooms in recent years turning it into a fetid mush of green goop.It needs urgent state help, but none of that will keep the manatees alive this winter.It is pathetic that it has come to this, but here we are: Officials have to feed the manatees just to keep them alive for another winter.On that note, Floridians should leave the feeding to the professionals.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00031589253921993077,
+                    "sentence": "Remember: Feeding manatees could be a form of harassment, which is still illegal under state and federal law.ᅳ Tampa Bay TimesThe Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00034580210922285914,
+                    "sentence": "The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003556489245966077,
+                    "sentence": "Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneNestled between lush community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round.A new website launched recently helps Hawaii residents and visitors easily find recreational services available across the state.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Federal and state officials made the right decision last week to feed manatees this winter on an emergency basis if the die-off in Florida continues. More than 1,000 manatees have died this year, out of estimated population statewide of about 9,000. Nearly 760 died, mostly from starvation, in the Indian River Lagoon, on Florida’s east coast, where pollution from farms, septic tanks and lawns has killed off seagrass, the manatee’s primary food source.Federal and state law bars the feeding of manatees, for a variety of good reasons; human feeding could wean them away from their natural diet, and acclimating manatees to humans could make them more vulnerable to getting injured or killed by boats.But the devastating loss of seagrass in the lagoon warrants this emergency response.Officials will use romaine lettuce to supplement the manatees’ diet to help them endure another winter of mass starvation.Wildlife advocates supported the move to supplement the manatees’ food supply, but all involved recognize it’s a stopgap measure that may or may not work, and that it’s certainly no substitute for controlling pollution runoff and rebuilding the seagrass beds.Manatees, which can weigh more than 1,000 pounds, can eat between 50 and 100 pounds of sea grass in a day.The Atlantic population of manatees, including those that use the Indian River Lagoon, is one of four main populations in the state. The other three have not experienced a wave of mortality.As this Editorial Board said recently, it’s time to put manatees back on the endangered species list, something Sarasota Republican Rep. Vern Buchanan supports.State lawmakers also need to make the cleanup of the Indian River Lagoon a priority when the legislative session begins in January.The lagoon is in near ecological collapse, with algae blooms in recent years turning it into a fetid mush of green goop.It needs urgent state help, but none of that will keep the manatees alive this winter.It is pathetic that it has come to this, but here we are: Officials have to feed the manatees just to keep them alive for another winter.On that note, Floridians should leave the feeding to the professionals. Remember: Feeding manatees could be a form of harassment, which is still illegal under state and federal law.— Tampa Bay TimesThe Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today. The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph. Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneNestled between lush  community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round.A new website launched recently helps Hawaii residents and visitors easily find recreational services available across the state."
+        }
+    ]
+}

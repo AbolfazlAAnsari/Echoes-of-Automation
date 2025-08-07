@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00890093483030796,
+                    "sentence": "Mutual Fund and ETF data provided byRefinitiv Lipper.Fox News host Laura Ingraham shares how the Democratic Party has changed since former President Barack Obama left office on 'The Ingraham Angle.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005540532059967518,
+                    "sentence": "'LAURA INGRAHAM- The Democratic Party has gone from hope to nope since former President Barack Obama left office.…Watch here…NO CASH, NO PRIVACY -The Biden administration is quietly planning for a future where you don't own money…Continue reading…ARI FLEISCHER -Joe Biden was George Santos before George Santos was George Santos…Continue reading…FOUR MORE YEARS?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007332832086831331,
+                    "sentence": "-If Joe Biden makes this major move he could win a second term…Continue reading…REP.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00036257843021303415,
+                    "sentence": "GREG MURPHY- The next battlefield with China is the college campus…Continue reading…WACKY WORLD -I was a woke activist but fake feminists just canceled me for speaking this truth…Continue reading…UKRAINE TIPPING POINT -Conservative support for Ukraine hinges on this from President Biden…Continue reading…WATCH: SARAH SANDERS --Americans have no enthusiasm for Biden…See the video…CREDIT CARD CRAZINESS -Credit cards work, so why are lawmakers in this state going after them?…Continue reading…VIDEO OF THE DAY- Fox News host Sean Hannity discusses the latest on the revival of Hunter Biden's criminal case after an IRS whistleblower came forward…Watch now...PALMETTO PARADISE -Why this Democrat believes a Republican state can be a model for the country…Continue reading…WHERE ARE THE WOMEN?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004436597810126841,
+                    "sentence": "-Trans ideology is taking over women's spaces.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004142201505601406,
+                    "sentence": "So why aren't women speaking up?…Continue reading…WATCH: NEWT GINGRICH -U.S. will 'decay' without 'profound change'…See the video…SUNDAY SOJOURN -I went back to church on Sunday.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007399267633445561,
+                    "sentence": "Here's why we should all consider getting back to religion…Continue reading…CARTOON OF THE DAY -Better Off With Biden?Check out all of our political cartoons...This article was written by Fox News staff.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Mutual Fund and ETF data provided byRefinitiv Lipper.Fox News host Laura Ingraham shares how the Democratic Party has changed since former President Barack Obama left office on ‘The Ingraham Angle.’LAURA INGRAHAM– The Democratic Party has gone from hope to nope since former President Barack Obama left office.…Watch here…NO CASH, NO PRIVACY –The Biden administration is quietly planning for a future where you don’t own money…Continue reading…ARI FLEISCHER –Joe Biden was George Santos before George Santos was George Santos…Continue reading…FOUR MORE YEARS? –If Joe Biden makes this major move he could win a second term…Continue reading…REP. GREG MURPHY– The next battlefield with China is the college campus…Continue reading…WACKY WORLD –I was a woke activist but fake feminists just canceled me for speaking this truth…Continue reading…UKRAINE TIPPING POINT –Conservative support for Ukraine hinges on this from President Biden…Continue reading…WATCH: SARAH SANDERS --Americans have no enthusiasm for Biden…See the video…CREDIT CARD CRAZINESS –Credit cards work, so why are lawmakers in this state going after them?…Continue reading…VIDEO OF THE DAY– Fox News host Sean Hannity discusses the latest on the revival of Hunter Biden’s criminal case after an IRS whistleblower came forward…Watch now...PALMETTO PARADISE –Why this Democrat believes a Republican state can be a model for the country…Continue reading…WHERE ARE THE WOMEN? –Trans ideology is taking over women's spaces. So why aren't women speaking up?…Continue reading…WATCH: NEWT GINGRICH –U.S. will 'decay' without 'profound change'…See the video…SUNDAY SOJOURN –I went back to church on Sunday. Here's why we should all consider getting back to religion…Continue reading…CARTOON OF THE DAY –Better Off With Biden?Check out all of our political cartoons...This article was written by Fox News staff."
+        }
+    ]
+}

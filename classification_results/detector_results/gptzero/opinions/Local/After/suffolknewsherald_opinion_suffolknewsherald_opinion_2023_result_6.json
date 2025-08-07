@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0005194046534597874,
+                    "sentence": "Published 7:10 pm Friday, June 30, 2023BySuffolk News-HeraldWe don't know about you, but we're looking forward to the fireworks over Constant's Wharf on Tuesday as a replacement for the political fireworks that lit up Western Tidewater in recent months.Burgers, hotdogs, fresh watermelon and, hopefully, some reflection on the history of this great nation sound like a delightful way for the civic-minded among us to unwind from the recent General Assembly party primaries, and associated mud-slinging as candidates duked it out for the right to advance to the November general election.That Emily Brewer-Hermie Sadler race for the Senate District 17 Republican nomination was a doozie, the lowlights including a lawsuit over method of nomination, criminal charges from an alleged physical altercation between party loyalists and some of the fiercest attack ads we've seen since the last presidential election.Thank goodness it's over, with Brewer, a Suffolk retail merchant and current state delegate, the clear choice of Western Tidewater Republicans to take on state Del.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006168433465063572,
+                    "sentence": "Clinton Jenkins, D-Suffolk, in November.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00029642548179253936,
+                    "sentence": "Brewer and Sadler spent a mind-boggling $800,000-plus between them in the battle for a legislative seat.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005767031107097864,
+                    "sentence": "That's an astounding $52 per vote in a low-turnout election.Throw in another $200,000 from interest groups that bought pro-Brewer ads, and the price of the Republican nomination topped $1 million.Expect much more than that to be spent on the general election, given that Suffolk and Western Tidewater just might determine which party controls the state Senate for the final two years of Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012601707130670547,
+                    "sentence": "Glenn Youngkin's term.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006085112108848989,
+                    "sentence": "As few as three Senate districts statewide are considered “in play,” meaning that election results in recent years show that both parties have a legitimate shot at victory.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004540428635664284,
+                    "sentence": "The 17th is one.Youngkin himself narrowly carried it in 2021, but Democrats have otherwise held a small advantage, including in the 2016 and 2020 presidential races.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004307138442527503,
+                    "sentence": "We wouldn't place a wager on either party for this November.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.2863350808620453,
+                    "sentence": "It's that close.Sadler, the political newcomer best known for his time on the NASCAR circuit as a driver and commentator, at least put a conciliatory bow on the Republican brawl, issuing a statement on election night that urged his supporters to unite behind Brewer.If we're lucky, we voters, regardless of party allegiance, will get a few weeks of downtime, including TV watching and internet browsing free of political ads, before campaigning resumes in earnest.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3477550745010376,
+                    "sentence": "Independence Day will be more fun because of it.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5197089910507202,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5277436375617981,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.12767420652125164,
+            "class_probabilities": {
+                "human": 0.8723257934787484,
+                "ai": 0.12767420652125164,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8723257934787484,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.12767420652125164,
+                    "human": 0.8723257934787484,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 7:10 pm Friday, June 30, 2023BySuffolk News-HeraldWe don’t know about you, but we’re looking forward to the fireworks over Constant’s Wharf on Tuesday as a replacement for the political fireworks that lit up Western Tidewater in recent months.Burgers, hotdogs, fresh watermelon and, hopefully, some reflection on the history of this great nation sound like a delightful way for the civic-minded among us to unwind from the recent General Assembly party primaries, and associated mud-slinging as candidates duked it out for the right to advance to the November general election.That Emily Brewer-Hermie Sadler race for the Senate District 17 Republican nomination was a doozie, the lowlights including a lawsuit over method of nomination, criminal charges from an alleged physical altercation between party loyalists and some of the fiercest attack ads we’ve seen since the last presidential election.Thank goodness it’s over, with Brewer, a Suffolk retail merchant and current state delegate, the clear choice of Western Tidewater Republicans to take on state Del. Clinton Jenkins, D-Suffolk, in November. Brewer and Sadler spent a mind-boggling $800,000-plus between them in the battle for a legislative seat. That’s an astounding $52 per vote in a low-turnout election.Throw in another $200,000 from interest groups that bought pro-Brewer ads, and the price of the Republican nomination topped $1 million.Expect much more than that to be spent on the general election, given that Suffolk and Western Tidewater just might determine which party controls the state Senate for the final two years of Gov. Glenn Youngkin’s term. As few as three Senate districts statewide are considered “in play,” meaning that election results in recent years show that both parties have a legitimate shot at victory. The 17th is one.Youngkin himself narrowly carried it in 2021, but Democrats have otherwise held a small advantage, including in the 2016 and 2020 presidential races. We wouldn’t place a wager on either party for this November. It’s that close.Sadler, the political newcomer best known for his time on the NASCAR circuit as a driver and commentator, at least put a conciliatory bow on the Republican brawl, issuing a statement on election night that urged his supporters to unite behind Brewer.If we’re lucky, we voters, regardless of party allegiance, will get a few weeks of downtime, including TV watching and internet browsing free of political ads, before campaigning resumes in earnest. Independence Day will be more fun because of it.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

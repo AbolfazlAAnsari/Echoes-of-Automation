@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.9910873174667358,
+                    "sentence": "Monday, Sept. 02, 2024|Today's Paper|78.872°Last month, for the first time since March 2021, the consumer price indexᅳ the indicator of inflation ᅳ fell below 3% annual increase, hitting 2.9% for July.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9930644631385803,
+                    "sentence": "Among other things, this makes it likelier that interest rates will be cut when the Federal Reserve's governing board meets in September.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9900200963020325,
+                    "sentence": "We hope that the policymakers, in their joint wisdom, take this step to further stimulate the American economy.Inflation has overhung what is an on-paper sunny economy for the last year; even as unemployment has hit record lows and wages have risen, the sense of these gains being offset by higher prices has had a lot of the public in a gloom that only now seems to be lifting slowly.The more abstract notion of national unemployment numbers runs up against the far more visceral experience of seeing that the price of eggs is well above what you remember from a couple years ago.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9903550148010254,
+                    "sentence": "Yet the treatment for runaway inflation is an invasive one, a steady dosage of painful interest rate increases that have seen the rate climb more than 5% since March 2022.We feared as the rates ramped up that the shock therapy would prove overwhelming and plunge the economy into recession, and indeed a good number of economists all but talked about it as a given.Yet it didn't happen, due in part to the easing of external factors like supply chain holdups and the impact of Russia's invasion of Ukraine on global energy prices, and in part thanks to the Fed's careful efforts, who knew just how much to pump rates up to avoid catastrophe in either direction.Now, though, is the time to ease off the pedal.Overheated inflation is worse but high rates have their own consequences.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9958779811859131,
+                    "sentence": "At a time when housing prices have already soared to the point that a home purchase is out of reach for working class families, few people are keen to lock themselves into a high-interest mortgage on an already-extravagant price tag.Would-be business owners are given pause by the idea of taking on loans that might leave them underwater, and not just the hyper-speculative tech sector that was the first to suffer as rates rose.With inflation seeming on a firmly downward trend, Fed Chair Jay Powell and the rest of the board should deeply consider the possibility of winding down some of the recent hikes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03457249701023102,
+                    "sentence": "We've not reached the Fed's 2% target rate and might not for a while, but Powell has already signaled an openness to rate cuts prior to that point.The odds that inflation would suddenly reverse off of gradual easing seem low, and the rewards numerous.The economy chugs along when people can access credit, which enables them to take more risks and make more significant purchases that they simply can't do on cash alone.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07393244653940201,
+                    "sentence": "That Donald Trump has already warned Powell and the Fed against lowering rates ahead of the election shows even he knows that doing so would be a boon to the American public that would hurt his electoral chances.But maintaining a strong economy should transcend petty politics.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.11597194522619247,
+                    "sentence": "Cut the rates.ᅳ New York Daily News7 p.m. update:.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 0.17628848249938345
+                }
+            ],
+            "completely_generated_prob": 0.3982152816508644,
+            "class_probabilities": {
+                "human": 0.6017847183491355,
+                "ai": 0.3982152816508644,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.6017847183491355,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.3982152816508644,
+                    "human": 0.6017847183491355,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Monday, Sept. 02, 2024|Today's Paper|78.872°Last month, for the first time since March 2021, the consumer price index— the indicator of inflation — fell below 3% annual increase, hitting 2.9% for July. Among other things, this makes it likelier that interest rates will be cut when the Federal Reserve’s governing board meets in September. We hope that the policymakers, in their joint wisdom, take this step to further stimulate the American economy.Inflation has overhung what is an on-paper sunny economy for the last year; even as unemployment has hit record lows and wages have risen, the sense of these gains being offset by higher prices has had a lot of the public in a gloom that only now seems to be lifting slowly.The more abstract notion of national unemployment numbers runs up against the far more visceral experience of seeing that the price of eggs is well above what you remember from a couple years ago. Yet the treatment for runaway inflation is an invasive one, a steady dosage of painful interest rate increases that have seen the rate climb more than 5% since March 2022.We feared as the rates ramped up that the shock therapy would prove overwhelming and plunge the economy into recession, and indeed a good number of economists all but talked about it as a given.Yet it didn’t happen, due in part to the easing of external factors like supply chain holdups and the impact of Russia’s invasion of Ukraine on global energy prices, and in part thanks to the Fed’s careful efforts, who knew just how much to pump rates up to avoid catastrophe in either direction.Now, though, is the time to ease off the pedal.Overheated inflation is worse but high rates have their own consequences. At a time when housing prices have already soared to the point that a home purchase is out of reach for working class families, few people are keen to lock themselves into a high-interest mortgage on an already-extravagant price tag.Would-be business owners are given pause by the idea of taking on loans that might leave them underwater, and not just the hyper-speculative tech sector that was the first to suffer as rates rose.With inflation seeming on a firmly downward trend, Fed Chair Jay Powell and the rest of the board should deeply consider the possibility of winding down some of the recent hikes. We’ve not reached the Fed’s 2% target rate and might not for a while, but Powell has already signaled an openness to rate cuts prior to that point.The odds that inflation would suddenly reverse off of gradual easing seem low, and the rewards numerous.The economy chugs along when people can access credit, which enables them to take more risks and make more significant purchases that they simply can’t do on cash alone. That Donald Trump has already warned Powell and the Fed against lowering rates ahead of the election shows even he knows that doing so would be a boon to the American public that would hurt his electoral chances.But maintaining a strong economy should transcend petty politics. Cut the rates.— New York Daily News7 p.m. update:."
+        }
+    ]
+}

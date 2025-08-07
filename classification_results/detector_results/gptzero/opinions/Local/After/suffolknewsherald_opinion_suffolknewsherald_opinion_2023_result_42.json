@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.06439068913459778,
+                    "sentence": "Published 3:29 pm Friday, May 19, 2023ByLetters to the EditorEditor:The Bipartisan Infrastructure Law provided more than $50 billion to improve our nation's drinking water, wastewater and stormwater infrastructure.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1223793625831604,
+                    "sentence": "This is the single largest investment in water that the federal government has ever made, but it is simply not enough.Only a small fraction of this money will be available for Virginia's clean water needs.In a recent estimate, $146 billion per year is needed in the United States for the next 20 years.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09882953017950058,
+                    "sentence": "The water sector was the second highest among the six sectors compared, with transportation ranking the highest.Some of the biggest challenges facing our water systems are aging infrastructure and increasingly stringent regulatory requirements.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.12491932511329651,
+                    "sentence": "Unfortunately, federal funding for water infrastructure has not kept pace with the growing need.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05162161961197853,
+                    "sentence": "Many of our nation's water and sewer systems were built decades ago and are in dire need of upgrades and repairs.According to the American Society of Civil Engineers Infrastructure Report Card, Virginia's drinking water infrastructure received a grade of C+ while wastewater infrastructure earned a D+.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.034825488924980164,
+                    "sentence": "With PFAS regulations looming and Chesapeake Bay restoration ongoing, the federal government must prioritize funding for these critical projects to protect public health, support economic growth and preserve our environment.Failure to do so not only puts our communities at risk, but also undermines our nation's ability to compete and thrive in a global economy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03393934667110443,
+                    "sentence": "Greater federal investment in America's infrastructure has a direct positive impact on American households' ability to access affordable water - especially the most vulnerable low-income households.Jay BernasSuffolkCorbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0712650716304779,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.058454380586116385,
+            "class_probabilities": {
+                "human": 0.9412598791523448,
+                "ai": 0.058454380586116385,
+                "mixed": 0.0002857402615388199
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9412598791523448,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.058454380586116385,
+                    "human": 0.9412598791523448,
+                    "mixed": 0.0002857402615388199
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 3:29 pm Friday, May 19, 2023ByLetters to the EditorEditor:The Bipartisan Infrastructure Law provided more than $50 billion to improve our nation’s drinking water, wastewater and stormwater infrastructure. This is the single largest investment in water that the federal government has ever made, but it is simply not enough.Only a small fraction of this money will be available for Virginia’s clean water needs.In a recent estimate, $146 billion per year is needed in the United States for the next 20 years. The water sector was the second highest among the six sectors compared, with transportation ranking the highest.Some of the biggest challenges facing our water systems are aging infrastructure and increasingly stringent regulatory requirements. Unfortunately, federal funding for water infrastructure has not kept pace with the growing need. Many of our nation’s water and sewer systems were built decades ago and are in dire need of upgrades and repairs.According to the American Society of Civil Engineers Infrastructure Report Card, Virginia’s drinking water infrastructure received a grade of C+ while wastewater infrastructure earned a D+. With PFAS regulations looming and Chesapeake Bay restoration ongoing, the federal government must prioritize funding for these critical projects to protect public health, support economic growth and preserve our environment.Failure to do so not only puts our communities at risk, but also undermines our nation’s ability to compete and thrive in a global economy. Greater federal investment in America’s infrastructure has a direct positive impact on American households’ ability to access affordable water – especially the most vulnerable low-income households.Jay BernasSuffolkCorbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…"
+        }
+    ]
+}

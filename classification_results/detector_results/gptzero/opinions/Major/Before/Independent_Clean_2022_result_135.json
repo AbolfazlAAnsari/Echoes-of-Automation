@@ -1,0 +1,94 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.004714505281299353,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0024514347314834595,
+                    "sentence": "Please send your letters toletters@independent.co.ukTheprime ministerhas explained that he finds working from home difficult, as he is distracted by cheese (and sometimes wine?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0025155656039714813,
+                    "sentence": ").As he has also told the police that his defence forPartygateis principally that his home is also his workplace, maybe he should resign because of his inability to contend with distractions that go with the role?This latest gem could be why he keeps on making laws and writing agreements that he then fails to follow.Katherine PowellCheshireAn opportunity to identify where to swing the axeI was very pleased to hear that thecivil serviceunions are threatening to take strike action over the government's plans to make staff cuts.This withdrawal of labour, if it goes ahead, will greatly assist the ministers concerned in establishing which staff are actually necessary, and which are deadwood.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0029827202670276165,
+                    "sentence": "This could result in even larger scale redundancies being identified, or even suggest entire areas of the civil service which can be profitably privatised, thus making even more considerable savings than those currently planned.Said savings should then be used to give performance incentives to the useful staff remaining, and also for remedying the current financial hardships of voters.Far from being a problem, a strike gives employers a wonderful opportunity to identify precisely where to swing the axe!Ian McNicholasEbbw Vale, WalesSomeone needs to remind Boris what he's doingBoris Johnson's latest revelation is that while WFH he is so easily distracted by making coffee and getting cheese from the fridge, that he forgets what he is doing.While that may explain a lot about his shambolic government's actions to date, someone needs to remind him that what he is supposed to be doing is running the country for the benefit of its citizens.Geoff ForwardStirling, ScotlandI am impressed with Boris Johnson's civil service planI am most impressed at Boris Johnson's \"plan\" to cut up to 91,000 civil service jobs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020961053669452667,
+                    "sentence": "Presumably this decision has been based upon the unqualified successes that have resulted from reducing the number of police officers, the number of firefighters and the (albeit unintended) number of NHS staff - not to mention the stripping-back of our armed forces - none of which have turned out to be remotely unwise or ill-thought through.And after all, now that Brexit is absolutely finished with, done, dusted and all tidied up - what could possibly go wrong?Julian SelfMilton Keynes",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                }
+            ],
+            "completely_generated_prob": 0.025041194076269924,
+            "class_probabilities": {
+                "human": 0.974671313226954,
+                "ai": 0.025041194076269924,
+                "mixed": 0.00028749269677611
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.974671313226954,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.025041194076269924,
+                    "human": 0.974671313226954,
+                    "mixed": 0.00028749269677611
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukTheprime ministerhas explained that he finds working from home difficult, as he is distracted by cheese (and sometimes wine?).As he has also told the police that his defence forPartygateis principally that his home is also his workplace, maybe he should resign because of his inability to contend with distractions that go with the role?This latest gem could be why he keeps on making laws and writing agreements that he then fails to follow.Katherine PowellCheshireAn opportunity to identify where to swing the axeI was very pleased to hear that thecivil serviceunions are threatening to take strike action over the government's plans to make staff cuts.This withdrawal of labour, if it goes ahead, will greatly assist the ministers concerned in establishing which staff are actually necessary, and which are deadwood. This could result in even larger scale redundancies being identified, or even suggest entire areas of the civil service which can be profitably privatised, thus making even more considerable savings than those currently planned.Said savings should then be used to give performance incentives to the useful staff remaining, and also for remedying the current financial hardships of voters.Far from being a problem, a strike gives employers a wonderful opportunity to identify precisely where to swing the axe!Ian McNicholasEbbw Vale, WalesSomeone needs to remind Boris what he's doingBoris Johnson's latest revelation is that while WFH he is so easily distracted by making coffee and getting cheese from the fridge, that he forgets what he is doing.While that may explain a lot about his shambolic government's actions to date, someone needs to remind him that what he is supposed to be doing is running the country for the benefit of its citizens.Geoff ForwardStirling, ScotlandI am impressed with Boris Johnson's civil service planI am most impressed at Boris Johnson's \"plan\" to cut up to 91,000 civil service jobs. Presumably this decision has been based upon the unqualified successes that have resulted from reducing the number of police officers, the number of firefighters and the (albeit unintended) number of NHS staff - not to mention the stripping-back of our armed forces - none of which have turned out to be remotely unwise or ill-thought through.And after all, now that Brexit is absolutely finished with, done, dusted and all tidied up - what could possibly go wrong?Julian SelfMilton Keynes"
+        }
+    ]
+}

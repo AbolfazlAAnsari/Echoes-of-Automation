@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.1759248822927475,
+                    "sentence": "Times Opinion wants to hear from Ukrainians who have left their country and the people who are helping them.Millions of Ukrainians have left their country since Russia invaded in February 2022.In the first few weeks of the war, people in other countries rushed to offer help to those who were fleeing.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.18293547630310059,
+                    "sentence": "Poland, which shares a border with Ukraine, has taken in the largest number of Ukrainians in Europe: Nearly1.5 million had registered as refugeesthere by November.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.17944756150245667,
+                    "sentence": "In western Europe, programs likeHomes for Ukrainein Britain,#UnterkunftUkrainein Germany andPour l'Ukrainein France were created to enable citizens to share their homes.Displaced Ukrainians are now living in countries all over Europe, as well as further afield.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.26112788915634155,
+                    "sentence": "Many have spent months outside of their home country.As the war enters its second year, we'd like to hear from Ukrainians whose lives have been uprooted and who are now living with relatives or host families outside of Ukraine.We'd also like to hear from the people who have been hosting Ukrainians fleeing the war, why you made the decision to open your homes to them and how merging lives has affected you.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06955084204673767,
+                    "sentence": "Please tell us your stories in the form below.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.16919612884521484,
+                    "sentence": "We plan to include a selection of responses in a future project.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.08210684359073639,
+                    "sentence": "An Opinion editor will contact you before publishing your comments.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.11526523530483246,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.08788708597421646,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0948248952627182,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.PHOTO: (PHOTOGRAPH BY Erin Schaff/The New York Times FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.3086534012031467,
+            "class_probabilities": {
+                "human": 0.6913465987968532,
+                "ai": 0.3086534012031467,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.6913465987968532,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.3086534012031467,
+                    "human": 0.6913465987968532,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Times Opinion wants to hear from Ukrainians who have left their country and the people who are helping them.Millions of Ukrainians have left their country since Russia invaded in February 2022.In the first few weeks of the war, people in other countries rushed to offer help to those who were fleeing. Poland, which shares a border with Ukraine, has taken in the largest number of Ukrainians in Europe: Nearly1.5 million had registered as refugeesthere by November. In western Europe, programs likeHomes for Ukrainein Britain,#UnterkunftUkrainein Germany andPour l’Ukrainein France were created to enable citizens to share their homes.Displaced Ukrainians are now living in countries all over Europe, as well as further afield. Many have spent months outside of their home country.As the war enters its second year, we’d like to hear from Ukrainians whose lives have been uprooted and who are now living with relatives or host families outside of Ukraine.We’d also like to hear from the people who have been hosting Ukrainians fleeing the war, why you made the decision to open your homes to them and how merging lives has affected you. Please tell us your stories in the form below. We plan to include a selection of responses in a future project. An Opinion editor will contact you before publishing your comments.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.PHOTO:  (PHOTOGRAPH BY Erin Schaff/The New York Times FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

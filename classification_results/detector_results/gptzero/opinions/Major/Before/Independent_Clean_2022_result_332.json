@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 9.748366574058309e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010575022315606475,
+                    "sentence": "Please send your letters toletters@independent.co.ukToabolishing the House of Lords, I say “yes please!” TheHouse of Lordshas been hugely discredited and abused by successive politicians of all colours for years.Let's put a young person's chamber in its place, limited to a maximum age of 25.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011239050945732743,
+                    "sentence": "Let it be a place where the policies of the future are debated and considered by those who will be truly affected.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.418287325184792e-05,
+                    "sentence": "Let eligibility be to those of 16-18 years, and of exceptional abilities in any field - except for politics.It is a depressing state of affairs that the voting power of pensioners directs policies of the future.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.917535549495369e-05,
+                    "sentence": "No wonder young people have little interest in voting.Alastair DuncanWinchesterWhy Nigel Farage?Rather thanapologise for the behaviour of some of their studentsduring a talk byNigel Farage, Eton College needs to explain why Nigel Farage there at all.Was this a one off, or was it a planned series of visits by politicians representing a balance of views?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010583162656985223,
+                    "sentence": "What other controversial figures have been invited to present their views to Britain's “future leaders”?It is difficult to imagine that this would have happened at a state school.Ron MureMansfieldHostile environment to blameThe Home Office have issued “heartfelt condolences” following the death of a manat their notorious processing centre inManston, Kent.The man who arrived in the UK via small boat on 12 November, died on the morning of Saturday 19 November.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005090977065265179,
+                    "sentence": "The hypocrisy of the Home Office is breath-taking.The truth is that the Home Office under Thresa May, Amber Rudd, Sajid Javid, Priti Patel and nowSuella Braverman, hasimplemented their “hostile environment”- a deliberate policy specifically designed to make the lives of refugees and asylum-seekers in the UK as miserable as possible.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereSuella Braverman, the current home secretary, admits she “dreams” and “obsesses” about deporting refugees to Rwanda.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003238644858356565,
+                    "sentence": "A day afterthe racist terrorist attack on a refugee centre in Dover,Braverman made a speech in the Commons in which she usedthe language of the far-rightto denounce refugees as “criminals” carrying out an “invasion” of the UK.Several Tory MPs are using parliamentary privilege to name hotels housing asylum-seekers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004888944095000625,
+                    "sentence": "This is nothing less than incitement for violent attacks to be carried out against them.No one should be fooled by the crocodile tears now being shed by the Home Office over the death of the refugee at Manston.Sasha SimicLondon",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.0051780533755591265,
+            "class_probabilities": {
+                "human": 0.9948219466244408,
+                "ai": 0.0051780533755591265,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9948219466244408,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0051780533755591265,
+                    "human": 0.9948219466244408,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukToabolishing the House of Lords, I say “yes please!” TheHouse of Lordshas been hugely discredited and abused by successive politicians of all colours for years.Let’s put a young person’s chamber in its place, limited to a maximum age of 25. Let it be a place where the policies of the future are debated and considered by those who will be truly affected. Let eligibility be to those of 16-18 years, and of exceptional abilities in any field – except for politics.It is a depressing state of affairs that the voting power of pensioners directs policies of the future. No wonder young people have little interest in voting.Alastair DuncanWinchesterWhy Nigel Farage?Rather thanapologise for the behaviour of some of their studentsduring a talk byNigel Farage, Eton College needs to explain why Nigel Farage there at all.Was this a one off, or was it a planned series of visits by politicians representing a balance of views? What other controversial figures have been invited to present their views to Britain’s “future leaders”?It is difficult to imagine that this would have happened at a state school.Ron MureMansfieldHostile environment to blameThe Home Office have issued “heartfelt condolences” following the death of a manat their notorious processing centre inManston, Kent.The man who arrived in the UK via small boat on 12 November, died on the morning of Saturday 19 November. The hypocrisy of the Home Office is breath-taking.The truth is that the Home Office under Thresa May, Amber Rudd, Sajid Javid, Priti Patel and nowSuella Braverman, hasimplemented their “hostile environment”– a deliberate policy specifically designed to make the lives of refugees and asylum-seekers in the UK as miserable as possible.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereSuella Braverman, the current home secretary, admits she “dreams” and “obsesses” about deporting refugees to Rwanda. A day afterthe racist terrorist attack on a refugee centre in Dover,Braverman made a speech in the Commons in which she usedthe language of the far-rightto denounce refugees as “criminals” carrying out an “invasion” of the UK.Several Tory MPs are using parliamentary privilege to name hotels housing asylum-seekers. This is nothing less than incitement for violent attacks to be carried out against them.No one should be fooled by the crocodile tears now being shed by the Home Office over the death of the refugee at Manston.Sasha SimicLondon"
+        }
+    ]
+}

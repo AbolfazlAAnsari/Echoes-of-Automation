@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0001308756327489391,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000113032860099338,
+                    "sentence": "Please send your letters toletters@independent.co.ukI do feel strongly that the government should provide the resources so that the fire service can go into local schools to explain to young people the dangers of water - be it in the summer to cool down or in the icy winter to skate on.A practical demonstration of the risks would help young people to understand the dangers and reduce the likelihood ofthe tragedy in Solihull that has meant three young people have lost their lives.Kartar UppalSutton ColdfieldA questionThere was no word from government ministers about affordability whenLiz Trussannounced her £45bn tax reduction.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010662765998858958,
+                    "sentence": "Can anyone explain why a £28bn pay award to public workers is now “unaffordable”?Andrew McLauchlinStratford upon AvonMissing in actionYes, both Boris de-Brexit Johnson and Lizzy the Lettuce could no more resist the lure of publicity and attention than lemmings can resist a cliff edge, But seriously, where is low-wattageRishi Sunak?He seemed to want the job so very much.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.609058568254113e-05,
+                    "sentence": "We all understand that when you are in a position based on ambition alone, the reality can be shocking.He must (surely) know thatthe whole non-dom wife thing, plusbuilding a private swimming poolduring a climate crisis and when your voterscan't swim in the sea for raw sewagedumped by the companies your party privatised, andrefusing talks with the folk we clapped for during the pandemic,is not a good look.But, you know - either do something or call a general election.Amanda BakerEdinburghPrivate schoolsJames Macintyre believes that David Miliband would “slot easily into Starmer's top team”and asks “Could he be back to help save the party?” I'd venture that he's badly mistaken.Might I suggest that James needs to investigate Miliband's record in government before jumping to such conclusions?Your readers will be aware that a much-vaunted element ofKeir Starmer's latest policy platform is removing tax benefits from public schools.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014847272541373968,
+                    "sentence": "Eton, Harrow and others could lose millions as a consequence.In 2004, David Miliband was minister for schools.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00031700340332463384,
+                    "sentence": "At the party's National Policy Forum, I proposed the abolition of charitable status for public schools.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002605612389743328,
+                    "sentence": "I was accused of being a Marxist, advocating the politics of envy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011767102405428886,
+                    "sentence": "When I put the proposal directly to Miliband, he dismissed it as anti-aspirational.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009273308678530157,
+                    "sentence": "My proposal was roundly defeated when put to the vote.So whilst I now warmly welcome Starmer's commitment to the policy, I doubt this could be squared with Miliband's policy views making it extremely unlikely that they might be reconciled anytime soon.George McManusHullNo justificationI have always found Mary Dejevsky to be an accurate and perceptive observer of the Soviet Union.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007426133961416781,
+                    "sentence": "On this occasion, however, having read Christopher Ousey's analysis with great interest, I agree thatthe red line in questionhas no legal (or moral) justification.What can we take from this?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007186718285083771,
+                    "sentence": "Simply that the more we sit on the fence about the business, the longer and the harder the road is forUkraine.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001088259625248611,
+                    "sentence": "So let us not pander to Russian sensibilities and justificatory excuses, but call them out quickly and loudly in our media so that no one is in any doubt about where the red line of bulls*** really lies.R G MathersAddress supplied",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.009180599824664711,
+            "class_probabilities": {
+                "human": 0.9907801111847393,
+                "ai": 0.009180599824664711,
+                "mixed": 3.928899059593116e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9907801111847393,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.009180599824664711,
+                    "human": 0.9907801111847393,
+                    "mixed": 3.928899059593116e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI do feel strongly that the government should provide the resources so that the fire service can go into local schools to explain to young people the dangers of water – be it in the summer to cool down or in the icy winter to skate on.A practical demonstration of the risks would help young people to understand the dangers and reduce the likelihood ofthe tragedy in Solihull that has meant three young people have lost their lives.Kartar UppalSutton ColdfieldA questionThere was no word from government ministers about affordability whenLiz Trussannounced her £45bn tax reduction. Can anyone explain why a £28bn pay award to public workers is now “unaffordable”?Andrew McLauchlinStratford upon AvonMissing in actionYes, both Boris de-Brexit Johnson and Lizzy the Lettuce could no more resist the lure of publicity and attention than lemmings can resist a cliff edge, But seriously, where is low-wattageRishi Sunak?He seemed to want the job so very much. We all understand that when you are in a position based on ambition alone, the reality can be shocking.He must (surely) know thatthe whole non-dom wife thing, plusbuilding a private swimming poolduring a climate crisis and when your voterscan’t swim in the sea for raw sewagedumped by the companies your party privatised, andrefusing talks with the folk we clapped for during the pandemic,is not a good look.But, you know – either do something or call a general election.Amanda BakerEdinburghPrivate schoolsJames Macintyre believes that David Miliband would “slot easily into Starmer’s top team”and asks “Could he be back to help save the party?” I’d venture that he’s badly mistaken.Might I suggest that James needs to investigate Miliband’s record in government before jumping to such conclusions?Your readers will be aware that a much-vaunted element ofKeir Starmer’s latest policy platform is removing tax benefits from public schools. Eton, Harrow and others could lose millions as a consequence.In 2004, David Miliband was minister for schools. At the party’s National Policy Forum, I proposed the abolition of charitable status for public schools. I was accused of being a Marxist, advocating the politics of envy. When I put the proposal directly to Miliband, he dismissed it as anti-aspirational. My proposal was roundly defeated when put to the vote.So whilst I now warmly welcome Starmer’s commitment to the policy, I doubt this could be squared with Miliband’s policy views making it extremely unlikely that they might be reconciled anytime soon.George McManusHullNo justificationI have always found Mary Dejevsky to be an accurate and perceptive observer of the Soviet Union. On this occasion, however, having read Christopher Ousey’s analysis with great interest, I agree thatthe red line in questionhas no legal (or moral) justification.What can we take from this? Simply that the more we sit on the fence about the business, the longer and the harder the road is forUkraine.  So let us not pander to Russian sensibilities and justificatory excuses, but call them out quickly and loudly in our media so that no one is in any doubt about where the red line of bulls*** really lies.R G MathersAddress supplied"
+        }
+    ]
+}

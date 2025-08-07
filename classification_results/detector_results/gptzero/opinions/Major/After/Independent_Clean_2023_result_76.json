@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 8.780341886449605e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011195346451131627,
+                    "sentence": "Please send your letters toletters@independent.co.ukI'm looking forward toBoris Johnson's appearance before thecommitteeof privileges on Wednesday, but I'm puzzled by his likely defence.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018904643366113305,
+                    "sentence": "John Rentoulreminds usthat Johnson will probably repeat: “There is noevidencethat I was at any stage advised by anyone, whether a civil servant or a political adviser, that an event would be against the rules or the guidance before it went ahead.”We, the public, understood the guidance and the rules and, if we'd forgotten or weren't sure, we googled them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015468287165276706,
+                    "sentence": "We don't have civil servants or political advisers to tell ushow to stay within the law.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001455406891182065,
+                    "sentence": "Yet we managed.What makes him, the one who actually set these rules, so truly dim that he didn't know how to follow them?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015698716742917895,
+                    "sentence": "Or perhaps instead, so truly arrogant that he thinks he couldn't have known unless he had been so advised?Beryl WallLondonHouse of horrorsWe're told Bute House, Nicola Sturgeon's official residence, is to be closed for a lengthy duration for essential repairs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012162968050688505,
+                    "sentence": "It's unstable, perhaps even dangerous.Apparently, it's become structurally unsound over the years Sturgeon has been its tenant.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012381607666611671,
+                    "sentence": "Parts of the building are rotten beyond repair, leaks everywhere, and it's deemed a health and safety hazard.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000111150904558599,
+                    "sentence": "In fact, its entire fabric is so defective that it's falling apart.As theintegrity of SNP senior managementhits the headlines, has Bute House become an all too appropriate metaphor?Martin RedfernMelrose, Scottish BordersSuella Braverman's problems are only just beginningLooking at the execrable pictures of Suella Braverman in Rwanda - including some in close proximity to anewly built campwhich is more internment than holiday - I predict she will have far more detractors this week than just Gary Lineker.Another clear “ashamed to be British” moment.Robert BostonKingshill, GloucestershireThe nightmare of historyAsone bank then anotherruns into trouble, is it the time for the government to weaken financial controls in the City of London?We should learn from history.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006574707804247737,
+                    "sentence": "The banking collapse in 2008 was sown in the seeds of the loosening of regulations under Thatcher.Alan HutchinsonAddress suppliedC-listersSitting at my breakfast table on Sunday morning with The Independent open before me, I was reasonably infuriated at the ludicrous (and embarrassing) details of theBoris Johnson resignation honours list; specifically the part where his own father is on it.Once my equilibrium returned I pressed on; but things soon took a massive downturn when it dawned on me that very shortly we're going to have to endure the laughable horror of a Liz Truss resignation honours list.I struggled to imagine who she'll start with.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016130574513226748,
+                    "sentence": "Any suggestions?Steve MackinderDenver",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.009782813243742878,
+            "class_probabilities": {
+                "human": 0.9902171867562571,
+                "ai": 0.009782813243742878,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9902171867562571,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.009782813243742878,
+                    "human": 0.9902171867562571,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI’m looking forward toBoris Johnson’s appearance before thecommitteeof privileges on Wednesday, but I’m puzzled by his likely defence. John Rentoulreminds usthat Johnson will probably repeat: “There is noevidencethat I was at any stage advised by anyone, whether a civil servant or a political adviser, that an event would be against the rules or the guidance before it went ahead.”We, the public, understood the guidance and the rules and, if we’d forgotten or weren’t sure, we googled them. We don’t have civil servants or political advisers to tell ushow to stay within the law.  Yet we managed.What makes him, the one who actually set these rules, so truly dim that he didn’t know how to follow them? Or perhaps instead, so truly arrogant that he thinks he couldn’t have known unless he had been so advised?Beryl WallLondonHouse of horrorsWe’re told Bute House, Nicola Sturgeon’s official residence, is to be closed for a lengthy duration for essential repairs. It’s unstable, perhaps even dangerous.Apparently, it’s become structurally unsound over the years Sturgeon has been its tenant. Parts of the building are rotten beyond repair, leaks everywhere, and it’s deemed a health and safety hazard. In fact, its entire fabric is so defective that it’s falling apart.As theintegrity of SNP senior managementhits the headlines, has Bute House become an all too appropriate metaphor?Martin RedfernMelrose, Scottish BordersSuella Braverman’s problems are only just beginningLooking at the execrable pictures of Suella Braverman in Rwanda – including some in close proximity to anewly built campwhich is more internment than holiday – I predict she will have far more detractors this week than just Gary Lineker.Another clear “ashamed to be British” moment.Robert BostonKingshill, GloucestershireThe nightmare of historyAsone bank then anotherruns into trouble, is it the time for the government to weaken financial controls in the City of London?We should learn from history. The banking collapse in 2008 was sown in the seeds of the loosening of regulations under Thatcher.Alan HutchinsonAddress suppliedC-listersSitting at my breakfast table on Sunday morning with The Independent open before me, I was reasonably infuriated at the ludicrous (and embarrassing) details of theBoris Johnson resignation honours list; specifically the part where his own father is on it.Once my equilibrium returned I pressed on; but things soon took a massive downturn when it dawned on me that very shortly we’re going to have to endure the laughable horror of a Liz Truss resignation honours list.I struggled to imagine who she’ll start with. Any suggestions?Steve MackinderDenver"
+        }
+    ]
+}

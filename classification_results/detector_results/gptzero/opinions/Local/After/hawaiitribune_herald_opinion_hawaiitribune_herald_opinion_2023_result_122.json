@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0003214069874957204,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°The move by House Republicans Wednesday to formally open an impeachment inquiry against President Joe Biden was perhaps predictable back in January 2021 ᅳ with then-President Donald Trump's second impeachment, for his role in the Jan. 6 assault on the Capitol ᅳ or even as far back as December 2019, with Trump's first impeachment, for trying to strong-arm Ukraine's government into helping him win reelection.But that predictability doesn't make the GOP's Biden impeachment inquiry any less of a cynical, pathetic stunt.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00045046088052913547,
+                    "sentence": "Though Wednesday's vote made the process official, House Republicans have already been thrashing around for a year trying to find something/anything on Biden that is remotely impeachable.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005107754259370267,
+                    "sentence": "There's nothing.Yet they're formally moving ahead anyway, barely bothering to disguise that they are merely seeking payback for the two fully justified impeachments against Trump by launching a patently unjustified one against Biden.If it wasn't inevitable before Wednesday's short-sighted House action, it probably is now: Every president in the foreseeable future who faces a House held by the opposing party will just automatically come under an impeachment inquiry, justified or not.The crux of Republicans' allegations against Biden, such as they are, center on the various business schemes of his son Hunter Biden.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00045057942043058574,
+                    "sentence": "The younger Biden is in fact a shady underachiever who has tried to leverage his last name for profit and who perhaps belongs in prison.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005277403397485614,
+                    "sentence": "He may be headed there; he is currently under indictment on federal tax and firearms charges.The problem for House Republicans is that their attempts to prove President Biden was corruptly involved in his son's dealing have produced nothing.No, Biden's pressure on Ukraine to fire a crooked prosecutor while he was vice president wasn't an attempt to protect his son from prosecution for his business dealings there.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004887227551080287,
+                    "sentence": "Biden was doing the bidding of the Obama administration and international organizations that wanted the prosecutor out because he wasn't doing his job.No, there's no evidence that Biden thumbed the scales at the Justice Department to protect his son from prosecution.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008949113078415394,
+                    "sentence": "Again, the younger Biden is currently facing felony charges.No, the $4,000 Hunter Biden paid to his father in 2018 wasn't evidence that Joe Biden (then a private citizen) was involved in his son's schemes; it was reimbursement for a car purchase that the younger Biden couldn't make himself because of his bad credit.Even the Republicans spearheading the impeachment inquiry say the reason for making the inquiry formal on Wednesday isn't because they suddenly have evidence of impeachable conduct, but because it will make it easier to look for such evidence.Trump was impeached for endangering national security by trying to extort a global ally for political purposes, and then for his unprecedented betrayal of his office in attempting to overturn a valid election.Biden, in glaring contrast, is facing this impeachment inquiry for no reason but that House Republicans have made a conscious decision to politicize and cheapen an urgent constitutional function to the point of making it meaningless.ᅳSt.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013547367416322231,
+                    "sentence": "Louis Post-Dispatch/TNS",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563522,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563522,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563522,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°The move by House Republicans Wednesday to formally open an impeachment inquiry against President Joe Biden was perhaps predictable back in January 2021 — with then-President Donald Trump’s second impeachment, for his role in the Jan. 6 assault on the Capitol — or even as far back as December 2019, with Trump’s first impeachment, for trying to strong-arm Ukraine’s government into helping him win reelection.But that predictability doesn’t make the GOP’s Biden impeachment inquiry any less of a cynical, pathetic stunt. Though Wednesday’s vote made the process official, House Republicans have already been thrashing around for a year trying to find something/anything on Biden that is remotely impeachable. There’s nothing.Yet they’re formally moving ahead anyway, barely bothering to disguise that they are merely seeking payback for the two fully justified impeachments against Trump by launching a patently unjustified one against Biden.If it wasn’t inevitable before Wednesday’s short-sighted House action, it probably is now: Every president in the foreseeable future who faces a House held by the opposing party will just automatically come under an impeachment inquiry, justified or not.The crux of Republicans’ allegations against Biden, such as they are, center on the various business schemes of his son Hunter Biden. The younger Biden is in fact a shady underachiever who has tried to leverage his last name for profit and who perhaps belongs in prison. He may be headed there; he is currently under indictment on federal tax and firearms charges.The problem for House Republicans is that their attempts to prove President Biden was corruptly involved in his son’s dealing have produced nothing.No, Biden’s pressure on Ukraine to fire a crooked prosecutor while he was vice president wasn’t an attempt to protect his son from prosecution for his business dealings there. Biden was doing the bidding of the Obama administration and international organizations that wanted the prosecutor out because he wasn’t doing his job.No, there’s no evidence that Biden thumbed the scales at the Justice Department to protect his son from prosecution. Again, the younger Biden is currently facing felony charges.No, the $4,000 Hunter Biden paid to his father in 2018 wasn’t evidence that Joe Biden (then a private citizen) was involved in his son’s schemes; it was reimbursement for a car purchase that the younger Biden couldn’t make himself because of his bad credit.Even the Republicans spearheading the impeachment inquiry say the reason for making the inquiry formal on Wednesday isn’t because they suddenly have evidence of impeachable conduct, but because it will make it easier to look for such evidence.Trump was impeached for endangering national security by trying to extort a global ally for political purposes, and then for his unprecedented betrayal of his office in attempting to overturn a valid election.Biden, in glaring contrast, is facing this impeachment inquiry for no reason but that House Republicans have made a conscious decision to politicize and cheapen an urgent constitutional function to the point of making it meaningless.—St. Louis Post-Dispatch/TNS"
+        }
+    ]
+}

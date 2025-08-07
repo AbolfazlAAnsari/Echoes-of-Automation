@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 6.264530384214595e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.19895727140829e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukSo, in just 48 hours, we have seen four more examples of Tory sleaze strangling this government.First, we hadScott Benton finally resigninghis seat, leaving the Blackpool South by-election to clash with theother local elections.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.790397335658781e-05,
+                    "sentence": "Second, we had the story regarding Steve Barclay andthe waste projectin his Cambridgeshire constituency.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.854668754385784e-05,
+                    "sentence": "Third, it emerged that the currentenergy secretary Claire Coutinhoqueried the approval of the waste project linked with Barclay.And then, finally, we hadMichael Goveof all peoplefailing to declare free footballtickets.Surely, it is now crystal clear that this sleaze-ridden government is now just as bad as, if not worse than, theJohn Major regime of 1990 to 1997.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.072332664392889e-05,
+                    "sentence": "Whilst Labour has changed for the better underKeir Starmer, what we have is the same old Tories looking after their own interests at the expense of the rest of us.Geoffrey BrookingHampshireValue in a world of soundbitesIt was heartening to read thedirector general of the BBC, Tim Davie, restating the role, purpose and values of the corporation.His commitment to reporting “fearlessly and fairly” without bias, nurturing groundbreaking creativity and bringing people together with a shared narrative, is a refreshing and welcome alternative to the usual pursuit of market forces.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.036486204015091e-05,
+                    "sentence": "It is the worship of market forces by successive governments that has opened the door to biased, shallow and sensationalist reporting of the news, the dumbing down of the creative arts, and the splintering of communal experiences.It is to be hoped that Davie's commitment marks the beginnings of a shift back towards a society that is driven by common values rather than the pursuit of self-centred, short-term distractions and indulgences that drive us apart rather than bring us together.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.907625695224851e-05,
+                    "sentence": "We are still living in a world of soundbites, and so the values espoused by Davie are yet to be reclaimed.Graham PowellCirencesterWake up AmericaWeeks of shuttlediplomacy by Antony Blinkenhave attracted mass media attention, but Israel's brutal decimation of Gaza continues unabated - with no likelihood of any cessation, partial or otherwise.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008195455186069012,
+                    "sentence": "So-calledpeace talks continuein Doha, with Israel's participation, as and when it suits them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00500869145616889,
+                    "sentence": "An impotent US government, which is ignored and humiliated by Benjamin Netanyahu, still funds and arms the Israeli occupying forces.The world can see the charades being played out.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006083263549953699,
+                    "sentence": "The US is being played by Israel, who think they hold all the cards.Wake up America and take back the cards.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009061921387910843,
+                    "sentence": "We can see the endgame, why can't you?David HillWaterloovillePerhaps the royals would be happier without the monarchyEach year, nearly400,000 peoplein the UK are diagnosed with cancer.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007546415086835623,
+                    "sentence": "That one of them is a woman in her early forties with young children is sad, but by no means unique.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011920485645532608,
+                    "sentence": "For this event to take precedence over the situation in Gaza is deplorable but not astonishing.Surely, with suchan invasion of privacy and publicscrutiny, even theholders of royal titleswould be happier if the institution were abolished altogether?Bill BradburyBolton",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.020796750353547094,
+            "class_probabilities": {
+                "human": 0.9792032496464529,
+                "ai": 0.020796750353547094,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9792032496464529,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020796750353547094,
+                    "human": 0.9792032496464529,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW : Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukSo, in just 48 hours, we have seen four more examples of Tory sleaze strangling this government.First, we hadScott Benton finally resigninghis seat, leaving the Blackpool South by-election to clash with theother local elections.  Second, we had the story regarding Steve Barclay andthe waste projectin his Cambridgeshire constituency. Third, it emerged that the currentenergy secretary Claire Coutinhoqueried the approval of the waste project linked with Barclay.And then, finally, we hadMichael Goveof all peoplefailing to declare free footballtickets.Surely, it is now crystal clear that this sleaze-ridden government is now just as bad as, if not worse than, theJohn Major regime of 1990 to 1997.  Whilst Labour has changed for the better underKeir Starmer, what we have is the same old Tories looking after their own interests at the expense of the rest of us.Geoffrey BrookingHampshireValue in a world of soundbitesIt was heartening to read thedirector general of the BBC, Tim Davie, restating the role, purpose and values of the corporation.His commitment to reporting “fearlessly and fairly” without bias, nurturing groundbreaking creativity and bringing people together with a shared narrative, is a refreshing and welcome alternative to the usual pursuit of market forces. It is the worship of market forces by successive governments that has opened the door to biased, shallow and sensationalist reporting of the news, the dumbing down of the creative arts, and the splintering of communal experiences.It is to be hoped that Davie’s commitment marks the beginnings of a shift back towards a society that is driven by common values rather than the pursuit of self-centred, short-term distractions and indulgences that drive us apart rather than bring us together. We are still living in a world of soundbites, and so the values espoused by Davie are yet to be reclaimed.Graham PowellCirencesterWake up AmericaWeeks of shuttlediplomacy by Antony Blinkenhave attracted mass media attention, but Israel’s brutal decimation of Gaza continues unabated – with no likelihood of any cessation, partial or otherwise. So-calledpeace talks continuein Doha, with Israel’s participation, as and when it suits them. An impotent US government, which is ignored and humiliated by Benjamin Netanyahu, still funds and arms the Israeli occupying forces.The world can see the charades being played out. The US is being played by Israel, who think they hold all the cards.Wake up America and take back the cards. We can see the endgame, why can’t you?David HillWaterloovillePerhaps the royals would be happier without the monarchyEach year, nearly400,000 peoplein the UK are diagnosed with cancer. That one of them is a woman in her early forties with young children is sad, but by no means unique. For this event to take precedence over the situation in Gaza is deplorable but not astonishing.Surely, with suchan invasion of privacy and publicscrutiny, even theholders of royal titleswould be happier if the institution were abolished altogether?Bill BradburyBolton"
+        }
+    ]
+}

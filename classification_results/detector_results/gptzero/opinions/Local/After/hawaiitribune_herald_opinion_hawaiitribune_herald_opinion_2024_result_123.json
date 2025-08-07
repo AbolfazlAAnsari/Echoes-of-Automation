@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0016661441186442971,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°Ohio Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011600155849009752,
+                    "sentence": "Mike DeWine, a Republican, is done with his state Senate's GOP shenanigans when it comes to this year's presidential ballot.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014303330099210143,
+                    "sentence": "The governor called a rare special session for the legislature to pass a bill ensuring Joe Biden appears alongside Donald Trump on the November ballot after much foot-dragging by his own party.Very basically, Ohio has a ballot deadline of Aug. 7, which comes before the Democrats' mid-August convention to officially renominate the president.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009055378613993526,
+                    "sentence": "The legislature put itself in this predicament and has resolved it easily before, but in this case, Republican senators are demanding that the bill be tied to an effort to further restrict the possibility of foreign cash in state ballot elections.We appreciate not only DeWine's efforts but his exasperation; in calling the special session, the governor said that failing to get Biden on the ballot “is simply unacceptable.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009898011339828372,
+                    "sentence": "This is ridiculous.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012709430884569883,
+                    "sentence": "This is an absurd situation.”DeWine should push to have a clean bill, and his is the right attitude to have; the constant political machinations around voting and elections, predominantly infecting today's GOP, are now so common as to seem pedestrian.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017927304143086076,
+                    "sentence": "Yet we can't lose sight of the consequences: voter disenfranchisement by design, which strikes right at the core of the American democratic project.Free and fair elections are what precedes all else, what enables our system to exist at all.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002090850844979286,
+                    "sentence": "After chipping away at things like campaign finance limits and disclosure requirements, antidemocratic actors are increasingly targeting the ability to vote itself.Ohio's Republican state senators can argue that this whole kerfuffle isn't about disenfranchisement one or another, but about their push to (apparently redundantly) ban foreign money advocating on state ballot questions ᅳ a mission that seems to have become rather urgent for them in the aftermath of the decisive victory of an abortion rights amendment.But that doesn't really matter, and neither do the merits of this legislation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001559940166771412,
+                    "sentence": "Keeping the sitting president off the ballot on a technicality is never appropriate, as a bargaining chip or otherwise.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020694497507065535,
+                    "sentence": "At least the governor has intervened to put a stop to the nonsense, unlike Republican brass in other states, who have embraced the approach.In Texas, where the party has become a laboratory for red-meat, own-the-libs policy under Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.018125422298908234,
+                    "sentence": "Greg Abbott, the official GOP platform approved this past weekend would ᅳ among planks calling abortion “homicide” and reinstating the names of traitorous Confederates to military bases ᅳ essentially guarantee that Republicans cannot lose statewide office.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01549193449318409,
+                    "sentence": "This would be achieved by requiring that all candidates for statewide office carry a majority of the state's 254 counties, despite the fact that huge swaths of the population live in a comparatively tiny number of urban counties.As the Texas Tribune pointed out, in the 2022 governor's race, Abbott won 235 counties ᅳ 92.5% ᅳ while winning the actual vote by only 55% to Democrat Beto O'Rourke's 44%.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013677496463060379,
+                    "sentence": "Rather than arguing to voters that they're the superior choice, the state Republican Party seems keen on simply removing that choice altogether for offices like U.S. senator, state attorney general and governor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011260448954999447,
+                    "sentence": "This is something the American public, regardless of affiliation, should never accept.ᅳNew York Daily News/TNS",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 1.9423489116273474e-12
+                }
+            ],
+            "completely_generated_prob": 0.020796750353547094,
+            "class_probabilities": {
+                "human": 0.9792032496464529,
+                "ai": 0.020796750353547094,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9792032496464529,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020796750353547094,
+                    "human": 0.9792032496464529,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°Ohio Gov. Mike DeWine, a Republican, is done with his state Senate’s GOP shenanigans when it comes to this year’s presidential ballot. The governor called a rare special session for the legislature to pass a bill ensuring Joe Biden appears alongside Donald Trump on the November ballot after much foot-dragging by his own party.Very basically, Ohio has a ballot deadline of Aug. 7, which comes before the Democrats’ mid-August convention to officially renominate the president. The legislature put itself in this predicament and has resolved it easily before, but in this case, Republican senators are demanding that the bill be tied to an effort to further restrict the possibility of foreign cash in state ballot elections.We appreciate not only DeWine’s efforts but his exasperation; in calling the special session, the governor said that failing to get Biden on the ballot “is simply unacceptable. This is ridiculous. This is an absurd situation.”DeWine should push to have a clean bill, and his is the right attitude to have; the constant political machinations around voting and elections, predominantly infecting today’s GOP, are now so common as to seem pedestrian. Yet we can’t lose sight of the consequences: voter disenfranchisement by design, which strikes right at the core of the American democratic project.Free and fair elections are what precedes all else, what enables our system to exist at all. After chipping away at things like campaign finance limits and disclosure requirements, antidemocratic actors are increasingly targeting the ability to vote itself.Ohio’s Republican state senators can argue that this whole kerfuffle isn’t about disenfranchisement one or another, but about their push to (apparently redundantly) ban foreign money advocating on state ballot questions — a mission that seems to have become rather urgent for them in the aftermath of the decisive victory of an abortion rights amendment.But that doesn’t really matter, and neither do the merits of this legislation. Keeping the sitting president off the ballot on a technicality is never appropriate, as a bargaining chip or otherwise. At least the governor has intervened to put a stop to the nonsense, unlike Republican brass in other states, who have embraced the approach.In Texas, where the party has become a laboratory for red-meat, own-the-libs policy under Gov. Greg Abbott, the official GOP platform approved this past weekend would — among planks calling abortion “homicide” and reinstating the names of traitorous Confederates to military bases — essentially guarantee that Republicans cannot lose statewide office. This would be achieved by requiring that all candidates for statewide office carry a majority of the state’s 254 counties, despite the fact that huge swaths of the population live in a comparatively tiny number of urban counties.As the Texas Tribune pointed out, in the 2022 governor’s race, Abbott won 235 counties — 92.5% — while winning the actual vote by only 55% to Democrat Beto O’Rourke’s 44%. Rather than arguing to voters that they’re the superior choice, the state Republican Party seems keen on simply removing that choice altogether for offices like U.S. senator, state attorney general and governor. This is something the American public, regardless of affiliation, should never accept.—New York Daily News/TNS"
+        }
+    ]
+}

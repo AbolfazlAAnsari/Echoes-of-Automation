@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00042312085861340165,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00030833962955512106,
+                    "sentence": "Please send your letters toletters@independent.co.ukIn many cases, MPs are given assistance in managing their diaries, doing their casework, writing and answering letters, and even writing their speeches.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003265239647589624,
+                    "sentence": "Surely there is a strong case for reducing these allowances by the amount of income MPs earn fromother jobs they find time to do?Peter ReillySouthportPeddling tribalismI agree withHeather Grey's recent letterthat the racism described byAzeem Rafiqis not surprising.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000467008474515751,
+                    "sentence": "But it's not just the closet supremacists who are at fault - it is a fundamental malaise of our society, and our attitude towards competition and sport is at the heart of it.Sport is an excellent, healthy pastime if it is practised in a spirit of friendly competition and as long as it continues to be fun.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004821005277335644,
+                    "sentence": "Watching people exercise their skill can be entertaining and uplifting.However, it doesn't really matter which team manipulates the small spherical object more successfully, does it?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002784695534501225,
+                    "sentence": "But that is the pretence of the money-making industry of professional \"sport\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004104975378140807,
+                    "sentence": "It appeals to the base instincts of tribalism in order to sell overpriced tickets and goods.We should not be surprised that peddling tribalism in one respect encourages its more reprehensible aspects.Susan AlexanderSouth GloucestershireRacism in sportNow we are revealing the level ofracism in cricket clubs, when can we look forward to exposing the golf clubs?John WhittlePenrithBroken promisesI don't want to sound smug, but several years ago I sent you a letter saying that unlessHS2 was startedin the north of the country, it would never be completed as promised.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007695744279772043,
+                    "sentence": "Just like the billions spent on Crossrail - the south, and mainly London, benefits.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00039715119055472314,
+                    "sentence": "Once again we are the impoverished north and none of Boris Johnson's bluster can disguise that.Ken TwissClevelandAsylum helpHome SecretaryPriti Patelhas, once again, attacked lawyers who dare torespect the human rights of asylum seekersand has condemned what she sees as \"a whole industry that thinks its right to defend these individuals\".It seems to me that Priti Patel's career has been a \"whole industry\" of anti-asylum seeker rhetoric and she clearly \"thinks it's right\" to persecute some of the most vulnerable people on the planet.Sasha SimicLondonWater pollutionThe revelations byOfwat and the Environment Agencyare not surprising to the public who have complained for decades that untreated sewage has been fouling our waterways, coastal areas and beaches.When I was in my teens my friends and I were warned by the landlady of a B&B in Hastings not to swim in the sea that day.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00031139308703131974,
+                    "sentence": "She explained that \"on days like this\" it had rained the previous two days, exposed swimmers to \"upset tummies\".In my view, there has been underinvestment by water companies of foul water treatment and supply of fresh, clean water.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004176066431682557,
+                    "sentence": "Water companies have not invested and kept pace with the supply of water to the growing number of households, particularly in the south.Since privatisation, many directors and officers at the water companies have been extremely well rewarded for providing a second rate service, now it seems with potential health hazards.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003506981593091041,
+                    "sentence": "Bosses must be held accountable with financial and penal penalties for non-compliance to health and safety conditions.Keith PooleBasingstokeRead MoreThere are leaves on the line and Johnson's bluster won't get rid of them | Tom PeckEditorial: Levelling up hits the buffersOpinion: The north and Midlands are sick of being treated like poor relationsLetters: Well done Priti Patel - great job avoiding an anti-immigrant backlashLetters: Azeem Rafiq's experience of racism is not an appalling exception - if onlyLetters: Is Boris Johnson's newly combed hair of political significance?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.00982192507144982,
+            "class_probabilities": {
+                "human": 0.9901780749285501,
+                "ai": 0.00982192507144982,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9901780749285501,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.00982192507144982,
+                    "human": 0.9901780749285501,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukIn many cases, MPs are given assistance in managing their diaries, doing their casework, writing and answering letters, and even writing their speeches. Surely there is a strong case for reducing these allowances by the amount of income MPs earn fromother jobs they find time to do?Peter ReillySouthportPeddling tribalismI agree withHeather Grey's recent letterthat the racism described byAzeem Rafiqis not surprising. But it's not just the closet supremacists who are at fault - it is a fundamental malaise of our society, and our attitude towards competition and sport is at the heart of it.Sport is an excellent, healthy pastime if it is practised in a spirit of friendly competition and as long as it continues to be fun. Watching people exercise their skill can be entertaining and uplifting.However, it doesn't really matter which team manipulates the small spherical object more successfully, does it? But that is the pretence of the money-making industry of professional \"sport\". It appeals to the base instincts of tribalism in order to sell overpriced tickets and goods.We should not be surprised that peddling tribalism in one respect encourages its more reprehensible aspects.Susan AlexanderSouth GloucestershireRacism in sportNow we are revealing the level ofracism in cricket clubs, when can we look forward to exposing the golf clubs?John WhittlePenrithBroken promisesI don't want to sound smug, but several years ago I sent you a letter saying that unlessHS2 was startedin the north of the country, it would never be completed as promised. Just like the billions spent on Crossrail - the south, and mainly London, benefits. Once again we are the impoverished north and none of Boris Johnson's bluster can disguise that.Ken TwissClevelandAsylum helpHome SecretaryPriti Patelhas, once again, attacked lawyers who dare torespect the human rights of asylum seekersand has condemned what she sees as \"a whole industry that thinks its right to defend these individuals\".It seems to me that Priti Patel's career has been a \"whole industry\" of anti-asylum seeker rhetoric and she clearly \"thinks it's right\" to persecute some of the most vulnerable people on the planet.Sasha SimicLondonWater pollutionThe revelations byOfwat and the Environment Agencyare not surprising to the public who have complained for decades that untreated sewage has been fouling our waterways, coastal areas and beaches.When I was in my teens my friends and I were warned by the landlady of a B&B in Hastings not to swim in the sea that day. She explained that \"on days like this\" it had rained the previous two days, exposed swimmers to \"upset tummies\".In my view, there has been underinvestment by water companies of foul water treatment and supply of fresh, clean water. Water companies have not invested and kept pace with the supply of water to the growing number of households, particularly in the south.Since privatisation, many directors and officers at the water companies have been extremely well rewarded for providing a second rate service, now it seems with potential health hazards. Bosses must be held accountable with financial and penal penalties for non-compliance to health and safety conditions.Keith PooleBasingstokeRead MoreThere are leaves on the line and Johnson's bluster won't get rid of them | Tom PeckEditorial: Levelling up hits the buffersOpinion: The north and Midlands are sick of being treated like poor relationsLetters: Well done Priti Patel - great job avoiding an anti-immigrant backlashLetters: Azeem Rafiq's experience of racism is not an appalling exception - if onlyLetters: Is Boris Johnson's newly combed hair of political significance?"
+        }
+    ]
+}

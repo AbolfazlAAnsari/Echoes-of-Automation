@@ -1,0 +1,115 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.003402697155252099,
+                    "sentence": "This love poem is inspired by the great Phillis Wheatley, the first published Black poet in America.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0032772724516689777,
+                    "sentence": "Wheatley was a child when she was taken from her home in West Africa to Boston.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00652968930080533,
+                    "sentence": "She won her freedom in the fall of 1773, and continued to write beautiful poetry until her death 11 years later.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009646077640354633,
+                    "sentence": "To appreciate in awe the divine gift,That is expressed with delicate stitch.One must inhale the air of the heavens,Before giving breath to an angel's work.Weeping trees bring blistering cold,Just as an artist extracts beauty.There's shouts and roars fromStudents and statesmen.The curtain closes on a woman's glory.The designer's eyes marry constellations,dreaming of more fabrics to tailor.I have been fashioned for immortal fame,By embracing with gentle lips.The needle and the pen are oneThey converse with steady hands,Moving through Black hair.Laying on the earth I wonder,Will our fates remain intact?Sometimes birds are too youngCorrupted by green grass and blue skies.So I pray for a storm!To wreak havoc on the imagination;To stress the fabric of this unity.And while our eyes are watching God,I hope Janie will look to me for comfort.In the aftermath of brutal war,Church bells will sing spring melodiesAnd hands are tied together forever.A heart is only an ego disguised as muscleReady to be flexed at every turn.Yet, my chest has been humbledI give my soul to her.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.018203120678663254,
+                    "sentence": "Prince A. Williams '25, a Crimson Editorial editor, is a History concentrator in Adams House.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.017811695113778114,
+                    "sentence": "Editor's Note: Our first Valentine's Day poem was published in 1873.Check it out here.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 3,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 4,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 5,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "This love poem is inspired by the great Phillis Wheatley, the first published Black poet in America. Wheatley was a child when she was taken from her home in West Africa to Boston. She won her freedom in the fall of 1773, and continued to write beautiful poetry until her death 11 years later.\r\nTo appreciate in awe the divine gift,That is expressed with delicate stitch.One must inhale the air of the heavens,Before giving breath to an angel's work.Weeping trees bring blistering cold,Just as an artist extracts beauty.There’s shouts and roars fromStudents and statesmen.The curtain closes on a woman’s glory.The designer’s eyes marry constellations,dreaming of more fabrics to tailor.I have been fashioned for immortal fame,By embracing with gentle lips.The needle and the pen are oneThey converse with steady hands,Moving through Black hair.Laying on the earth I wonder,Will our fates remain intact?Sometimes birds are too youngCorrupted by green grass and blue skies.So I pray for a storm!To wreak havoc on the imagination;To stress the fabric of this unity.And while our eyes are watching God,I hope Janie will look to me for comfort.In the aftermath of brutal war,Church bells will sing spring melodiesAnd hands are tied together forever.A heart is only an ego disguised as muscleReady to be flexed at every turn.Yet, my chest has been humbledI give my soul to her.\r\nPrince A. Williams ’25, a Crimson Editorial editor, is a History concentrator in Adams House.\r\nEditor’s Note: Our first Valentine’s Day poem was published in 1873.Check it out here."
+        }
+    ]
+}

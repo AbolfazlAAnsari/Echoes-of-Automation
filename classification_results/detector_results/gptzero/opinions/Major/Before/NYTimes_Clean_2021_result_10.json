@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 6.63035170873627e-05,
+                    "sentence": "The 70-year old social commentator and humorist doesn't have a smartphone.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.16099132457748e-05,
+                    "sentence": "That doesn't stop her from having a take on big tech (and everything else).Fran Lebowitz claims she's not an influencer.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.528734906576574e-05,
+                    "sentence": "Yet the iconic New York City social commentator and star of the Netflix special “Pretend It's A City” has an opinion on almost everything, and an audience who is often eager to hear it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.4861742682987824e-05,
+                    "sentence": "[You can listen to this episode of “Sway” onApple,Spotify,Stitcher,Amazon Music,Googleorwherever you get your podcasts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.677275865105912e-05,
+                    "sentence": "]On today's episode of “Sway,” Kara presses Ms. Lebowitz on her resistance to technology, marriage and cancel culture.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.6407643569400534e-05,
+                    "sentence": "They also discuss the candidates in New York's upcoming mayoral race as well as Fran's casual run-in with (and advice for) Twitter's chief executive, Jack Dorsey.Kara Swisher discussed her interview with Fran Lebowitz during aTwitter Live chaton Feb. 17.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.122552779037505e-05,
+                    "sentence": "(A full transcript of the episode will be available midday on the Times website.)Thoughts?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.183728692121804e-05,
+                    "sentence": "Email us atsway@nytimes.com.“Sway” is produced by Nayeema Raza, Heba Elorbany, Matt Kwong and Vishakha Darbha and edited by Paula Szuchman; fact-checking by Kate Sinclair; music and sound design by Isaac Jones; mixing by Erick Gomez.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.998944005928934e-05,
+                    "sentence": "Special thanks to Shannon Busta and Liriel Higa.PHOTO: Caption (PHOTOGRAPH BY Illustration by The New York Times; photograph by Jamie McCarthy/Getty Images for Film at Lincoln Center FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.006608679833334143,
+            "class_probabilities": {
+                "human": 0.9933913201666659,
+                "ai": 0.006608679833334143,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933913201666659,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006608679833334143,
+                    "human": 0.9933913201666659,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "The 70-year old social commentator and humorist doesn’t have a smartphone. That doesn’t stop her from having a take on big tech (and everything else).Fran Lebowitz claims she’s not an influencer. Yet the iconic New York City social commentator and star of the Netflix special “Pretend It’s A City” has an opinion on almost everything, and an audience who is often eager to hear it.[You can listen to this episode of “Sway” onApple,Spotify,Stitcher,Amazon Music,Googleorwherever you get your podcasts.]On today’s episode of “Sway,” Kara presses Ms. Lebowitz on her resistance to technology, marriage and cancel culture. They also discuss the candidates in New York’s upcoming mayoral race as well as Fran’s casual run-in with (and advice for) Twitter’s chief executive, Jack Dorsey.Kara Swisher discussed her interview with Fran Lebowitz during aTwitter Live chaton Feb. 17.(A full transcript of the episode will be available midday on the Times website.)Thoughts? Email us atsway@nytimes.com.“Sway” is produced by Nayeema Raza, Heba Elorbany, Matt Kwong and Vishakha Darbha and edited by Paula Szuchman; fact-checking by Kate Sinclair; music and sound design by Isaac Jones; mixing by Erick Gomez. Special thanks to Shannon Busta and Liriel Higa.PHOTO: Caption (PHOTOGRAPH BY Illustration by The New York Times; photograph by Jamie McCarthy/Getty Images for Film at Lincoln Center FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0010643069399520755,
+                    "sentence": "Published 5:03 pm Tuesday, March 28, 2023BySuffolk News-Herald Editorial BoardAmerica's foreign relations are way outside our lane of community journalism, but we're keeping a close eye on growing tension between this country and China, and how elected leaders in Richmond and D.C. are responding to it.Western Tidewater has a lot at stake, after all: namely one of our anchor employers, Chinese-owned Smithfield Foods.Democrats and Republicans don't agree on much these days, so when politicians as ideologically diverse as our own Sen. Mark Warner and Arkansas U.S. Sen. Tom Cotton deem China one of the greatest threats ever to America's economy and national security, and when the sharply divided Virginia General Assembly passes a bipartisan bill to ban Chinese (and other foreign adversaries') ownership of farmland in the state, it gets our attention.It's also getting the attention of Smithfield Foods' senior management.CEO Shane Smith went on the defensive in a recent interview with the Wall Street Journal, declaring that the company is “as American today as we were in 2013,” when China's WH Group bought Smithfield Foods for $4.7 billion.Smith went on to note that the nation's largest pork processor has flourished since the ownership change, with annual sales increasing from $13 billion to nearly $18 billion and U.S. employment up by 3,000 jobs.Despite lots of local handwringing at the time of the sale, Western Tidewater has fared pretty well under Foods' new ownership.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020225336775183678,
+                    "sentence": "After being shut down like most all workplaces during the height of the COVID-19 pandemic, the headquarters campus in Smithfield is now busier than ever, from our vantage point.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011608838103711605,
+                    "sentence": "Recent changes in production processes, such as the announced elimination of pet food processing, were a fact of life locally even before 2013.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012361131375655532,
+                    "sentence": "We don't blame the Chinese owners for working to be more efficient, as all companies must do to survive.Notably, WH Group has kept Americans in charge, typically promoting from within to fill senior management vacancies.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.12667307257652283,
+                    "sentence": "Smith himself has been with Foods since 2003, rising through the ranks.Yet, we worry, as political rhetoric escalates, that one of our region's anchor employers, on which many Suffolkians count for a paycheck, could become collateral damage in one of the biggest international conflicts of our lifetime.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.20428913831710815,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 6,
+                    "completely_generated_prob": 1.474742012248794e-05
+                }
+            ],
+            "completely_generated_prob": 0.2425855513307985,
+            "class_probabilities": {
+                "human": 0.7574144486692015,
+                "ai": 0.2425855513307985,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.7574144486692015,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.2425855513307985,
+                    "human": 0.7574144486692015,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:03 pm Tuesday, March 28, 2023BySuffolk News-Herald Editorial BoardAmerica’s foreign relations are way outside our lane of community journalism, but we’re keeping a close eye on growing tension between this country and China, and how elected leaders in Richmond and D.C. are responding to it.Western Tidewater has a lot at stake, after all: namely one of our anchor employers, Chinese-owned Smithfield Foods.Democrats and Republicans don’t agree on much these days, so when politicians as ideologically diverse as our own Sen. Mark Warner and Arkansas U.S. Sen. Tom Cotton deem China one of the greatest threats ever to America’s economy and national security, and when the sharply divided Virginia General Assembly passes a bipartisan bill to ban Chinese (and other foreign adversaries’) ownership of farmland in the state, it gets our attention.It’s also getting the attention of Smithfield Foods’ senior management.CEO Shane Smith went on the defensive in a recent interview with the Wall Street Journal, declaring that the company is “as American today as we were in 2013,” when China’s WH Group bought Smithfield Foods for $4.7 billion.Smith went on to note that the nation’s largest pork processor has flourished since the ownership change, with annual sales increasing from $13 billion to nearly $18 billion and U.S. employment up by 3,000 jobs.Despite lots of local handwringing at the time of the sale, Western Tidewater has fared pretty well under Foods’ new ownership. After being shut down like most all workplaces during the height of the COVID-19 pandemic, the headquarters campus in Smithfield is now busier than ever, from our vantage point. Recent changes in production processes, such as the announced elimination of pet food processing, were a fact of life locally even before 2013. We don’t blame the Chinese owners for working to be more efficient, as all companies must do to survive.Notably, WH Group has kept Americans in charge, typically promoting from within to fill senior management vacancies. Smith himself has been with Foods since 2003, rising through the ranks.Yet, we worry, as political rhetoric escalates, that one of our region’s anchor employers, on which many Suffolkians count for a paycheck, could become collateral damage in one of the biggest international conflicts of our lifetime.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00031576422043144703,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003114250721409917,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe IT system McDonald's useshas crashed in many countriesand the only way to buy a meal is by using cash.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004960643127560616,
+                    "sentence": "Many of the young people who visit McDonald's may not know what cash is - but just ask an old person and you will be told.Since the burgers are no longer available at the moment, I assume most people will go home and make a nice healthy vegetarian pasta and have a chat around the table, like families used to.Don't worry about the losses, McDonald's won't go broke.Dennis FitzgeraldIt's time for an electionWhy aren't we calling a general election at the same time as the local elections in May?The taxpayeris already footing the bill for those - which is a pure waste of money.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004469339910428971,
+                    "sentence": "It may not seem like a lot to the prime minister and his friends, but it certainly means a lot to people trying to pay their bills and generally struggling.Hanging on for another few months is just another way to deny the public what will be the undeniable defeat of this disastrous government.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00036954041570425034,
+                    "sentence": "It tells you a lot about what the Tories think of ordinary Joes like you and me.Paul AtkinsAddress suppliedRunning a tight shipThis nation'sfinances are in a mess, a mess which has been developing for decades.We have an enormous national debt and income per capita has continually declined since the early 1970s.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005592051311396062,
+                    "sentence": "Covid only added to these difficulties over the past few years.Any responsible government has torun a tight ship.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004777404246851802,
+                    "sentence": "Keir Starmer knows hecannot spend money without bankruptingthe nation, as did the last Labour government.In my opinion, Starmer needs to move the focus of our economic system away from a growth economy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00041788804810494184,
+                    "sentence": "We are already a nation reliant on growth and construction - such an economic system can only go downhill.Rather, what we need isa revised tax system.I have no objection to paying more tax provided it is not wasted on more of the same.Graham CooperAddress suppliedA fast track to failureThe Independent's article reporting on the Princess Royal Hospital,Telford's maternity care scandalcaused me to reflect on a policy decision some 30 years previously.It was that student midwives would no longer be recruited exclusively from the ranks of qualified nurses, but could instead be entered into training through direct entry.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001946738630067557,
+                    "sentence": "This was one of the changes wrought by theimplementation of Project 2000in nurse education, and was seen as a way of reducing time spent training midwives from five to three years.In the process, I believe that many of the beliefs, values and attitudes implicit in holisticnursing care were overlookedby a profession keen to cement its numbers.It is self-evident that those who were the product of direct entry into themidwiferyprofession are now largely in charge of the profession, and must, therefore, bearresponsibility for its current demise.I base these reflections upon being a student nurse attending an approved obstetric experience as part of my training.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014733269927091897,
+                    "sentence": "Later, as a nurse lecturer, I was tasked to facilitate sessions with student midwives focusing on values, and was perturbed to note how attitudes had changed in the intervening 15 years.David SmithTaunton",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.00982192507144982,
+            "class_probabilities": {
+                "human": 0.9901780749285501,
+                "ai": 0.00982192507144982,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9901780749285501,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.00982192507144982,
+                    "human": 0.9901780749285501,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW : Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThe IT system McDonald’s useshas crashed in many countriesand the only way to buy a meal is by using cash. Many of the young people who visit McDonald’s may not know what cash is – but just ask an old person and you will be told.Since the burgers are no longer available at the moment, I assume most people will go home and make a nice healthy vegetarian pasta and have a chat around the table, like families used to.Don’t worry about the losses, McDonald’s won't go broke.Dennis FitzgeraldIt’s time for an electionWhy aren’t we calling a general election at the same time as the local elections in May?The taxpayeris already footing the bill for those – which is a pure waste of money. It may not seem like a lot to the prime minister and his friends, but it certainly means a lot to people trying to pay their bills and generally struggling.Hanging on for another few months is just another way to deny the public what will be the undeniable defeat of this disastrous government. It tells you a lot about what the Tories think of ordinary Joes like you and me.Paul AtkinsAddress suppliedRunning a tight shipThis nation’sfinances are in a mess, a mess which has been developing for decades.We have an enormous national debt and income per capita has continually declined since the early 1970s. Covid only added to these difficulties over the past few years.Any responsible government has torun a tight ship.  Keir Starmer knows hecannot spend money without bankruptingthe nation, as did the last Labour government.In my opinion, Starmer needs to move the focus of our economic system away from a growth economy. We are already a nation reliant on growth and construction – such an economic system can only go downhill.Rather, what we need isa revised tax system.I have no objection to paying more tax provided it is not wasted on more of the same.Graham CooperAddress suppliedA fast track to failureThe Independent’s article reporting on the Princess Royal Hospital,Telford’s maternity care scandalcaused me to reflect on a policy decision some 30 years previously.It was that student midwives would no longer be recruited exclusively from the ranks of qualified nurses, but could instead be entered into training through direct entry. This was one of the changes wrought by theimplementation of Project 2000in nurse education, and was seen as a way of reducing time spent training midwives from five to three years.In the process, I believe that many of the beliefs, values and attitudes implicit in holisticnursing care were overlookedby a profession keen to cement its numbers.It is self-evident that those who were the product of direct entry into themidwiferyprofession are now largely in charge of the profession, and must, therefore, bearresponsibility for its current demise.I base these reflections upon being a student nurse attending an approved obstetric experience as part of my training. Later, as a nurse lecturer, I was tasked to facilitate sessions with student midwives focusing on values, and was perturbed to note how attitudes had changed in the intervening 15 years.David SmithTaunton"
+        }
+    ]
+}

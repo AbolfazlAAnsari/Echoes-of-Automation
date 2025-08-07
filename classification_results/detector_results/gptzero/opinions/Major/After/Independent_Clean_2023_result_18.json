@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00013665859296452254,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001699490676401183,
+                    "sentence": "Please send your letters toletters@independent.co.ukClearly, thehealth secretarydoesn't realisejust how much public support there is for the nurses on strike.His latest tactic will not work.The Torys' underfunding of theNHSfor years has led to the dire situation we are in now.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00020983237482141703,
+                    "sentence": "The government effectively trying to blackmail nurses bysaying that pay rises will compromise patient careis totally reprehensible.But there is no sense of shame in this government, sadly.Marilyn TimneyHampshireThe outcome of nurses' strikes will be decided at the ballot boxWe seem to have 45 million people in this country who recognise the need for public sector workers to be given a decent pay increase and about nineconservative ministers who say it isn't either needed or affordable.I think I know who will win the argument once they start talking.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021513905085157603,
+                    "sentence": "The outcome will be decided in the next general election, if hasn't already been decided by further Tory corruption.Michael MannShrewsburyWhen will the government stop making excuses and do something?When I hear a government minister say“nurses do a wonderful job, but we have to be careful stewards of public money”,I want to ask them, why?Why, when peopleare dying either waiting hours for emergency ambulancesthat should be there in minutes, or lying in hospital corridors for days when they should have been treated within hours?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021832216589245945,
+                    "sentence": "And why, whensuicidal children are being sent home because there are no mental health inpatient placesfor them, is the government refusing to acknowledge that the UK is in the throes of a public health disaster of unprecedented proportions?Why don't they start governing instead of sitting in their well-appointed offices, paralysed with fear?Why don't they provide the money to fix health and social care,shutting down tax loopholes for their friends?When will they stop making excuses and do something?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001545480190543458,
+                    "sentence": "Something purposeful.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00028576215845532715,
+                    "sentence": "Or have they forgotten how to govern?Alan MurrayBroughshaneWith any luck, Boris Johnson's attempted comeback will a successDavid Davis is right thatthe Conservative party risks being consigned to 10 years in the wildernessif Boris Johnson persists in trying to make a comeback.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.10516723245382309,
+                    "sentence": "In which case we must hope that Johnson continues his attempt, then we can be rid of all of them!With any luck, the party might tear itself apart soon,and we needn't wait two years for an election.Susan AlexanderSouth GloucestershireThis Tory government is bad for your health in more ways than oneListening to ministerstrying to convince us that striking health workers put lives at riskwhen thousands are already dying as a direct result of underfunding in the health service has my - and I am sure many others' - blood pressure soaring.Unlike wealthy Tory backers and politicians, these strikers are not just in it for the money - they are trying to fix a broken system.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09502077102661133,
+                    "sentence": "It is timeconservativeswere honest about their beliefs around health and education (but then of course they would never be in power).Geoff ForwardStirlingJacinda Ardern embodies the qualities of leadership that have been absent in the UK for yearsTwo words recur inthe deserved tributes to Jacinda Ardernon her resignation as prime minister of New Zealand.Other leaders speak of her “honesty” and “empathy”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.08167832344770432,
+                    "sentence": "The ability to deal with people by telling them exactly how things are, whilst having the capacity to stand in others' shoes and see things from their point of view.Both of these qualities are essential if we are to address the problems that beset humankind.The rapid decline in our values, well-being, and prosperity is the direct result of these qualities being absent from those who have led the UK government in recent years.Graham PowellCirencester",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.021601982568463345,
+            "class_probabilities": {
+                "human": 0.9783576840560043,
+                "ai": 0.021601982568463345,
+                "mixed": 4.0333375532255976e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9783576840560043,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.021601982568463345,
+                    "human": 0.9783576840560043,
+                    "mixed": 4.0333375532255976e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukClearly, thehealth secretarydoesn’t realisejust how much public support there is for the nurses on strike.His latest tactic will not work.The Torys’ underfunding of theNHSfor years has led to the dire situation we are in now. The government effectively trying to blackmail nurses bysaying that pay rises will compromise patient careis totally reprehensible.But there is no sense of shame in this government, sadly.Marilyn TimneyHampshireThe outcome of nurses’ strikes will be decided at the ballot boxWe seem to have 45 million people in this country who recognise the need for public sector workers to be given a decent pay increase and about nineconservative ministers who say it isn’t either needed or affordable.I think I know who will win the argument once they start talking. The outcome will be decided in the next general election, if hasn’t already been decided by further Tory corruption.Michael MannShrewsburyWhen will the government stop making excuses and do something?When I hear a government minister say“nurses do a wonderful job, but we have to be careful stewards of public money”,I want to ask them, why?Why, when peopleare dying either waiting hours for emergency ambulancesthat should be there in minutes, or lying in hospital corridors for days when they should have been treated within hours? And why, whensuicidal children are being sent home because there are no mental health inpatient placesfor them, is the government refusing to acknowledge that the UK is in the throes of a public health disaster of unprecedented proportions?Why don’t they start governing instead of sitting in their well-appointed offices, paralysed with fear?Why don’t they provide the money to fix health and social care,shutting down tax loopholes for their friends?When will they stop making excuses and do something? Something purposeful. Or have they forgotten how to govern?Alan MurrayBroughshaneWith any luck, Boris Johnson’s attempted comeback will a successDavid Davis is right thatthe Conservative party risks being consigned to 10 years in the wildernessif Boris Johnson persists in trying to make a comeback. In which case we must hope that Johnson continues his attempt, then we can be rid of all of them!With any luck, the party might tear itself apart soon,and we needn’t wait two years for an election.Susan AlexanderSouth GloucestershireThis Tory government is bad for your health in more ways than oneListening to ministerstrying to convince us that striking health workers put lives at riskwhen thousands are already dying as a direct result of underfunding in the health service has my – and I am sure many others’ – blood pressure soaring.Unlike wealthy Tory backers and politicians, these strikers are not just in it for the money – they are trying to fix a broken system. It is timeconservativeswere honest about their beliefs around health and education (but then of course they would never be in power).Geoff ForwardStirlingJacinda Ardern embodies the qualities of leadership that have been absent in the UK for yearsTwo words recur inthe deserved tributes to Jacinda Ardernon her resignation as prime minister of New Zealand.Other leaders speak of her “honesty” and “empathy”. The ability to deal with people by telling them exactly how things are, whilst having the capacity to stand in others’ shoes and see things from their point of view.Both of these qualities are essential if we are to address the problems that beset humankind.The rapid decline in our values, well-being, and prosperity is the direct result of these qualities being absent from those who have led the UK government in recent years.Graham PowellCirencester"
+        }
+    ]
+}

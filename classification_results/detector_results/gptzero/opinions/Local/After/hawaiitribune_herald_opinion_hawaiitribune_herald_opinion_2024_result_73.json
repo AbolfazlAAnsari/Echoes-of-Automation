@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00037379874265752733,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|78.854°In a long-awaited announcement Tuesday, President Joe iden unveiled an executive action that would grant the undocumented spouses of U.S. citizens who've lived in the country for 10 or more years, as well as their children under 21, a designation known as parole-in-place.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003934257838409394,
+                    "sentence": "This in turn will clear the path for applications for permanent residence and, eventually, citizenship.This order is about one simple thing: should people who have long lived in the United States, who have built lives here with American citizen spouses and very often children, pursuing their own version of the American dream, be allowed to access the process that they are legally entitled to anyway?Because, let's not forget, parole-in-place is not creating a new pathway to citizenship, as it's being largely and erroneously described.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00033050967613235116,
+                    "sentence": "It is allowing undocumented people to avail themselves of the existing system for families of U.S. citizens, which has been part of the country's immigration framework for more than seven decades.The reason that people couldn't do this is because we've created a contradictory system that opens up pathways and punishes people for using them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000508486176840961,
+                    "sentence": "Under current law, even though residency is available for people married to citizens and their children, the application must be done either entirely from outside the country, or after a person has reentered the country legally.That seems easy enough, except for the fact that leaving the United States after having been present unlawfully for a year or more triggers a 10-year ban on reentry.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00040692585753276944,
+                    "sentence": "The process to grant exemptions is cumbersome, slow and simply unnecessary.There'll be those who call this an executive overreach, just as they do for the DACA program that, despite years of attacks and hyperbole form political opponents, remains popular with most Americans on both sides of the aisle.We imagine that many of those who are screaming about White House tyranny from a political perspective were quite happy with the other recent executive action Biden has taken on immigration, which aims to all but shut down the border to humanitarian immigration ᅳ a drastic step that would have been a Stephen Miller pipe dream just a few years ago.We're not convinced by that effort, having long preferred a federal program to help actually resettle and set up asylum seekers with language and housing supports as well as quicker work authorization, but it should certainly neutralize the idea that the president is pursuing some open borders agenda.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013433010317385197,
+                    "sentence": "What Biden is displaying here is both compassion and common sense, a mixture that is sadly all too lacking among some of his political opponents.As with many pro-immigration moves, this will deliver benefits that are economic as well as social.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016518168849870563,
+                    "sentence": "These are people who in many cases are itching to pursue additional education, start businesses and generally grow the economic pie for everyone, who've been hampered by outdated and nonsensical policy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007132501341402531,
+                    "sentence": "Giving them a shot at not just spiritually but formally entering the polity of their now adopted country will serve us all well.Ultimately, there's hardly a greater patriot than the one who must strive to make this country their own.ᅳ New York Daily NewsWASHINGTON ᅳ The gunman who tried to kill Donald Trump mounted a “sustained, detailed effort” to attack a major gathering of some sort before deciding to target the Republican presidential candidate at a Pennsylvania rally in July, FBI officials said on Wednesday.In presidential fundraising these days, the donors who matter most are the very small and the very, very big.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.0206603913183164,
+            "class_probabilities": {
+                "human": 0.9793396086816837,
+                "ai": 0.0206603913183164,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9793396086816837,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0206603913183164,
+                    "human": 0.9793396086816837,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|78.854°In a long-awaited announcement Tuesday, President Joe iden unveiled an executive action that would grant the undocumented spouses of U.S. citizens who’ve lived in the country for 10 or more years, as well as their children under 21, a designation known as parole-in-place. This in turn will clear the path for applications for permanent residence and, eventually, citizenship.This order is about one simple thing: should people who have long lived in the United States, who have built lives here with American citizen spouses and very often children, pursuing their own version of the American dream, be allowed to access the process that they are legally entitled to anyway?Because, let’s not forget, parole-in-place is not creating a new pathway to citizenship, as it’s being largely and erroneously described. It is allowing undocumented people to avail themselves of the existing system for families of U.S. citizens, which has been part of the country’s immigration framework for more than seven decades.The reason that people couldn’t do this is because we’ve created a contradictory system that opens up pathways and punishes people for using them. Under current law, even though residency is available for people married to citizens and their children, the application must be done either entirely from outside the country, or after a person has reentered the country legally.That seems easy enough, except for the fact that leaving the United States after having been present unlawfully for a year or more triggers a 10-year ban on reentry. The process to grant exemptions is cumbersome, slow and simply unnecessary.There’ll be those who call this an executive overreach, just as they do for the DACA program that, despite years of attacks and hyperbole form political opponents, remains popular with most Americans on both sides of the aisle.We imagine that many of those who are screaming about White House tyranny from a political perspective were quite happy with the other recent executive action Biden has taken on immigration, which aims to all but shut down the border to humanitarian immigration — a drastic step that would have been a Stephen Miller pipe dream just a few years ago.We’re not convinced by that effort, having long preferred a federal program to help actually resettle and set up asylum seekers with language and housing supports as well as quicker work authorization, but it should certainly neutralize the idea that the president is pursuing some open borders agenda. What Biden is displaying here is both compassion and common sense, a mixture that is sadly all too lacking among some of his political opponents.As with many pro-immigration moves, this will deliver benefits that are economic as well as social. These are people who in many cases are itching to pursue additional education, start businesses and generally grow the economic pie for everyone, who’ve been hampered by outdated and nonsensical policy. Giving them a shot at not just spiritually but formally entering the polity of their now adopted country will serve us all well.Ultimately, there’s hardly a greater patriot than the one who must strive to make this country their own.— New York Daily NewsWASHINGTON — The gunman who tried to kill Donald Trump mounted a “sustained, detailed effort” to attack a major gathering of some sort before deciding to target the Republican presidential candidate at a Pennsylvania rally in July, FBI officials said on Wednesday.In presidential fundraising these days, the donors who matter most are the very small and the very, very big."
+        }
+    ]
+}

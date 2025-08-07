@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0007594279013574123,
+                    "sentence": "Monday, Sept. 02, 2024|Today's Paper|79.151°It was a scene to behold: a union president delivering a booming, barn-burner speech at the Republican National Convention in Milwaukee ᅳ “the first Teamster in our 121-year history” to address the Republican Party, Teamsters President Sean O'Brien told the cheering crowd.While the union hasn't endorsed former President Donald Trump (yet), O'Brien's appearance ᅳ and Trump's pick of Ohio Senator and “Hillbilly Elegy” author J.D.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009325373684987426,
+                    "sentence": "Vance as his running mate ᅳ aimed to solidify the bizarre notion that the Republican ticket is pro-labor and “economic populist.”O'Brien's speech was rousing and provocative as the union leader railed against “an American worker being taken for granted.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015513240359723568,
+                    "sentence": "Workers being sold out to big banks, Big Tech corporates and the elite.” It was a fiery populist speech you'd expect at a union convention, not promoting a Republican Party whose policies enable these conditions and oppose pro-worker solutions.The convention didn't cheer quite as loudly when O'Brien urged “legal protections that make it safer for workers to get a contract … Americans vote for unions but can never get a union contract.” As he rightly noted, “It's only when Americans band together in democratic unions that we win real improvements on wages, benefits and working conditions.”One big problem: Trump, Vance and the Republican Party have opposed every effort to support workers and unions.AFL-CIO President Liz Shuler immediately countered the idea that Vance is pro-labor: “Working people know talk is cheap.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018522513564676046,
+                    "sentence": "J.D.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001524679479189217,
+                    "sentence": "Vance opposed the PRO Act, has a bill to let bosses bypass their workers with phony company unions and voted against pro-worker NLRB and DOL appointments.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004771612584590912,
+                    "sentence": "No matter what he says, he's refused to show up for working people where it counts.”Vance also cosponsored the Teamwork for Employees and Managers Act, along with Senator Marco Rubio, R-Fl., which would effectively undermine labor unions by allowing voluntary “employee involvement organizations,” which would not be covered by collective-bargaining agreements and could be dissolved by an employer.Trump, despite all his allegedly populist rhetoric, has a deeply anti-worker record from his first term.In outlining “50 reasons the Trump administration is bad for workers,” the Economic Policy Institute wrote in 2020 that President Trump “systematically promoted the interests of corporate executives and shareholders over those of working people and failed to protect workers' safety, wages and rights.”The previous Trump administration failed to protect essential workers during the deadliest days of the COVID-19 pandemic; undermined workers' right to organize into unions; and betrayed all his promises to Rust Belt manufacturing workers by promoting the offshoring of manufacturing jobs through policies that “resulted in continued offshoring, including the net loss of nearly 1,800 factories between 2016 and 2018 and 740,000 manufacturing jobs since February 2020.”Terri Gerstein, Director of the NYU Wagner Labor Initiative, may have said it best: “Pro-worker is raising the minimum wage, ensuring people get overtime, supporting paid sick and family leave.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007216180209070444,
+                    "sentence": "Play-acting as working class by dressing up in jeans and acting aggrieved doesn't do anything for real working people who are struggling.”",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.021601982568463345,
+            "class_probabilities": {
+                "human": 0.9783576840560043,
+                "ai": 0.021601982568463345,
+                "mixed": 4.0333375532255976e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9783576840560043,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.021601982568463345,
+                    "human": 0.9783576840560043,
+                    "mixed": 4.0333375532255976e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Monday, Sept. 02, 2024|Today's Paper|79.151°It was a scene to behold: a union president delivering a booming, barn-burner speech at the Republican National Convention in Milwaukee — “the first Teamster in our 121-year history” to address the Republican Party, Teamsters President Sean O’Brien told the cheering crowd.While the union hasn’t endorsed former President Donald Trump (yet), O’Brien’s appearance — and Trump’s pick of Ohio Senator and “Hillbilly Elegy” author J.D. Vance as his running mate — aimed to solidify the bizarre notion that the Republican ticket is pro-labor and “economic populist.”O’Brien’s speech was rousing and provocative as the union leader railed against “an American worker being taken for granted. Workers being sold out to big banks, Big Tech corporates and the elite.” It was a fiery populist speech you’d expect at a union convention, not promoting a Republican Party whose policies enable these conditions and oppose pro-worker solutions.The convention didn’t cheer quite as loudly when O’Brien urged “legal protections that make it safer for workers to get a contract … Americans vote for unions but can never get a union contract.” As he rightly noted, “It’s only when Americans band together in democratic unions that we win real improvements on wages, benefits and working conditions.”One big problem: Trump, Vance and the Republican Party have opposed every effort to support workers and unions.AFL-CIO President Liz Shuler immediately countered the idea that Vance is pro-labor: “Working people know talk is cheap. J.D. Vance opposed the PRO Act, has a bill to let bosses bypass their workers with phony company unions and voted against pro-worker NLRB and DOL appointments. No matter what he says, he’s refused to show up for working people where it counts.”Vance also cosponsored the Teamwork for Employees and Managers Act, along with Senator Marco Rubio, R-Fl., which would effectively undermine labor unions by allowing voluntary “employee involvement organizations,” which would not be covered by collective-bargaining agreements and could be dissolved by an employer.Trump, despite all his allegedly populist rhetoric, has a deeply anti-worker record from his first term.In outlining “50 reasons the Trump administration is bad for workers,” the Economic Policy Institute wrote in 2020 that President Trump “systematically promoted the interests of corporate executives and shareholders over those of working people and failed to protect workers’ safety, wages and rights.”The previous Trump administration failed to protect essential workers during the deadliest days of the COVID-19 pandemic; undermined workers’ right to organize into unions; and betrayed all his promises to Rust Belt manufacturing workers by promoting the offshoring of manufacturing jobs through policies that “resulted in continued offshoring, including the net loss of nearly 1,800 factories between 2016 and 2018 and 740,000 manufacturing jobs since February 2020.”Terri Gerstein, Director of the NYU Wagner Labor Initiative, may have said it best: “Pro-worker is raising the minimum wage, ensuring people get overtime, supporting paid sick and family leave. Play-acting as working class by dressing up in jeans and acting aggrieved doesn’t do anything for real working people who are struggling.”"
+        }
+    ]
+}

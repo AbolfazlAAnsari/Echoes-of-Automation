@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0024117145221680403,
+                    "sentence": "From the archives As part of our Platinum 70 Year, we take a look back at opinions and reports from The Australian Financial Review on significant domestic and international events over the past seven decades.When Gough Whitlam went to Beijing in 1971, he was in the vanguard of ending China's international political isolation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0031904291827231646,
+                    "sentence": "The then leader of the opposition also witnessed the ending of China's sporting isolation by attending a soccer match pitting the Chinese national team against a side representing Albania.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00355671183206141,
+                    "sentence": "Here is our July 9, 1971 report of the strange spectacle from Eric Walsh, who reported Whitlam's visit for The Australian Financial Review.PLAYING A POLITE BUT LONELY GAMEFrom ERIC WALSH in PEKINGTwo of the loneliest nations in the world, China and Albania, met in an international soccer match at Peking's Workers Stadium on Wednesday night.Though more than 60,000 people crammed the stand encircling the ultra-modern ground for the match, it made it somehow no less lonely.The one-all drawn result will not find its way into the international record books.Many major soccer nations won't play sport with either country - bringing politics into sport, to use a catchcry currently popular in Australia.Chinese Premier Chou En-lai made one of his rare departures from work to watch from the official box in the centre of the stand in a bid to make an occasion out of it.The Prime Minister of the Cambodian Government in exile [Norodom Sihanouk] was there with such a bank of Chinese military and political officials as to force Australian Labor leader Mr Whitlam three rows back in the VIP box.Starved of international competition, neither side produced a very high standard of play.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.014349170960485935,
+                    "sentence": "A top Australian city side would have had little trouble whipping either.The Albanian side, in fact, was not a full international team.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.017601806670427322,
+                    "sentence": "It represented only a soccer-playing district in tiny Albania but brought to the ground to support it scores of Albanians, some travelling with the team, others temporarily resident in China.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013128329068422318,
+                    "sentence": "The presentation of the match and the whole style of play highlighted the sporting isolation of the two lonely nations.They played the game as a sport rather than a contest; players went on and off the field holding opponents' hands high above their heads.Throughout the game, players drew almost as much applause for sporting gestures - handing the ball to opponents for a free kick, rushing to help fallen opponents to their feet - as they did for the standard of their soccer.The amazingly disciplined crowd was completely silent throughout the game except for such gestures and the even rarer flashes of good play worth applauding.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011977944523096085,
+                    "sentence": "Barracking, international style, is unknown.The crowd drank cordial and joined players in singing revolutionary songs to let off steam.The red-jerseyed All-China side was deliberately weakened for the clash with the Albanian district team and throughout seemed clearly superior.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.015165152959525585,
+                    "sentence": "The Albanians seemed to have little more to offer than - to use another phrase currently popular in international politics - Albanian resolution.Here again politics seemed to be creeping into sport.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.023406460881233215,
+                    "sentence": "Using the \"ping pong formula\" of allowing your opponents to do well, the match was kept to a one-all draw, at once saving face for the Chinese and ensuring that somewhere in the world there remained someone with whom they could continue to develop their embryonic soccer skills.The lack of international toughness, the dead silence of the crowd between bursts of restrained clapping - not a voice was heard all night except for announcements over the PA system - gave the contest a rather quaint atmosphere.Isolation in sport is clearly being felt in China as sharply as the political isolation which Premier Chou En-lai had expressed so vividly in public confrontation with Mr Whitlam only two nights earlier, with his picture of a China alone in the world, being surrounded ever more closely by potential enemies.China's politicians, however, are a little tougher and more experienced than its soccer players.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05799289047718048,
+                    "sentence": "But they feel their isolation just as keenly.It was this very bid to break from political isolation that saw Mr Whitlam, Australian political figures and pressmen in the free-of-charge stand - the public pays 5¢ (Aust) admission - watching China's soccer players go through the difficult task of preserving what few friends they have left in international sport.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.06042626278398002,
+            "class_probabilities": {
+                "human": 0.9395737372160199,
+                "ai": 0.06042626278398002,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9395737372160199,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.06042626278398002,
+                    "human": 0.9395737372160199,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "From the archives As part of our Platinum 70 Year, we take a look back at opinions and reports from The Australian Financial Review on significant domestic and international events over the past seven decades.When Gough Whitlam went to Beijing in 1971, he was in the vanguard of ending China's international political isolation. The then leader of the opposition also witnessed the ending of China's sporting isolation by attending a soccer match pitting the Chinese national team against a side representing Albania. Here is our July 9, 1971 report of the strange spectacle from Eric Walsh, who reported Whitlam's visit for The Australian Financial Review.PLAYING A POLITE BUT LONELY GAMEFrom ERIC WALSH in PEKINGTwo of the loneliest nations in the world, China and Albania, met in an international soccer match at Peking's Workers Stadium on Wednesday night.Though more than 60,000 people crammed the stand encircling the ultra-modern ground for the match, it made it somehow no less lonely.The one-all drawn result will not find its way into the international record books.Many major soccer nations won't play sport with either country - bringing politics into sport, to use a catchcry currently popular in Australia.Chinese Premier Chou En-lai made one of his rare departures from work to watch from the official box in the centre of the stand in a bid to make an occasion out of it.The Prime Minister of the Cambodian Government in exile [Norodom Sihanouk] was there with such a bank of Chinese military and political officials as to force Australian Labor leader Mr Whitlam three rows back in the VIP box.Starved of international competition, neither side produced a very high standard of play. A top Australian city side would have had little trouble whipping either.The Albanian side, in fact, was not a full international team. It represented only a soccer-playing district in tiny Albania but brought to the ground to support it scores of Albanians, some travelling with the team, others temporarily resident in China. The presentation of the match and the whole style of play highlighted the sporting isolation of the two lonely nations.They played the game as a sport rather than a contest; players went on and off the field holding opponents' hands high above their heads.Throughout the game, players drew almost as much applause for sporting gestures - handing the ball to opponents for a free kick, rushing to help fallen opponents to their feet - as they did for the standard of their soccer.The amazingly disciplined crowd was completely silent throughout the game except for such gestures and the even rarer flashes of good play worth applauding. Barracking, international style, is unknown.The crowd drank cordial and joined players in singing revolutionary songs to let off steam.The red-jerseyed All-China side was deliberately weakened for the clash with the Albanian district team and throughout seemed clearly superior. The Albanians seemed to have little more to offer than - to use another phrase currently popular in international politics - Albanian resolution.Here again politics seemed to be creeping into sport. Using the \"ping pong formula\" of allowing your opponents to do well, the match was kept to a one-all draw, at once saving face for the Chinese and ensuring that somewhere in the world there remained someone with whom they could continue to develop their embryonic soccer skills.The lack of international toughness, the dead silence of the crowd between bursts of restrained clapping - not a voice was heard all night except for announcements over the PA system - gave the contest a rather quaint atmosphere.Isolation in sport is clearly being felt in China as sharply as the political isolation which Premier Chou En-lai had expressed so vividly in public confrontation with Mr Whitlam only two nights earlier, with his picture of a China alone in the world, being surrounded ever more closely by potential enemies.China's politicians, however, are a little tougher and more experienced than its soccer players. But they feel their isolation just as keenly.It was this very bid to break from political isolation that saw Mr Whitlam, Australian political figures and pressmen in the free-of-charge stand - the public pays 5¢ (Aust) admission - watching China's soccer players go through the difficult task of preserving what few friends they have left in international sport."
+        }
+    ]
+}

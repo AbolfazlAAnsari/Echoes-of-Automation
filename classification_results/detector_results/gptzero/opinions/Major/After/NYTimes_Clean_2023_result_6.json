@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.001377704320475459,
+                    "sentence": "The doctor mentioned in a guest essay about older physicians gives his perspective.The doctor mentioned in a guest essay about older physicians gives his perspective.To the Editor:Re “How Would You Feel About a 100-Year-Old Doctor?,” by Sandeep Jauhar (Opinion guest essay, Dec. 2):I read Dr. Jauhar's essay with great interest, since I'm the 100-year-old doctor he mentions.The number of older practicing physicians has increased.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016633361810818315,
+                    "sentence": "This is a tribute to the sophistication of modern medicine, which allows doctors to live longer, and to the fact that many physicians have forsaken smoking.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015407797181978822,
+                    "sentence": "I remember when doctors, with a cigarette dangling between their lips, would advise patients to smoke because “it will curb your appetite and quiet your nerves.”Dr.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017927329754456878,
+                    "sentence": "Jauhar recommends competency examinations, citing statistics about cognitive impairment in older people.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001995912753045559,
+                    "sentence": "Onestudyfound that 32 percent of people ages 65 and over have some form of cognitive impairment, meaning that the majority are not affected.Doctors, as a group, would be expected to have lower rates of impairment, as dementia is more prevalent among the economically disadvantaged.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010825373465195298,
+                    "sentence": "Statistics, however, do not predict the status of any one individual, and for this reason, Dr. Jauhar's point about competency examinations is well taken.Regarding burnout, after 75 years, I still enjoy contact with patients and the stimulation this engenders.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013032398419454694,
+                    "sentence": "Often, I will review a problem I have encountered in the past and enjoy reading about advances in management.Sometimes, patients request a second opinion.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010739094577729702,
+                    "sentence": "I tell residents they shouldn't be disturbed if a patient asks, “May I see an older physician with more experience?” Eventually, they will hear patients ask, “May I see someone a little younger who knows all the latest information?”My grandson Austin, in a moment of frustration at some medical advice I had offered, said to his father about me: “What does he know?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010053390869870782,
+                    "sentence": "He's been out of school for 75 years!”Those closest to us keep us modest.Howard J. TuckerClevelandA documentary about Dr. Tucker ᅳ “What's Next?” ᅳ is in production.This article appeared in print on page A19.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.017916494329694815,
+            "class_probabilities": {
+                "human": 0.982044563084389,
+                "ai": 0.017916494329694815,
+                "mixed": 3.894258591613337e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.982044563084389,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.017916494329694815,
+                    "human": 0.982044563084389,
+                    "mixed": 3.894258591613337e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "The doctor mentioned in a guest essay about older physicians gives his perspective.The doctor mentioned in a guest essay about older physicians gives his perspective.To the Editor:Re “How Would You Feel About a 100-Year-Old Doctor?,” by Sandeep Jauhar (Opinion guest essay, Dec. 2):I read Dr. Jauhar’s essay with great interest, since I’m the 100-year-old doctor he mentions.The number of older practicing physicians has increased. This is a tribute to the sophistication of modern medicine, which allows doctors to live longer, and to the fact that many physicians have forsaken smoking. I remember when doctors, with a cigarette dangling between their lips, would advise patients to smoke because “it will curb your appetite and quiet your nerves.”Dr. Jauhar recommends competency examinations, citing statistics about cognitive impairment in older people. Onestudyfound that 32 percent of people ages 65 and over have some form of cognitive impairment, meaning that the majority are not affected.Doctors, as a group, would be expected to have lower rates of impairment, as dementia is more prevalent among the economically disadvantaged. Statistics, however, do not predict the status of any one individual, and for this reason, Dr. Jauhar’s point about competency examinations is well taken.Regarding burnout, after 75 years, I still enjoy contact with patients and the stimulation this engenders. Often, I will review a problem I have encountered in the past and enjoy reading about advances in management.Sometimes, patients request a second opinion. I tell residents they shouldn’t be disturbed if a patient asks, “May I see an older physician with more experience?” Eventually, they will hear patients ask, “May I see someone a little younger who knows all the latest information?”My grandson Austin, in a moment of frustration at some medical advice I had offered, said to his father about me: “What does he know? He’s been out of school for 75 years!”Those closest to us keep us modest.Howard J. TuckerClevelandA documentary about Dr. Tucker — “What’s Next?” — is in production.This article appeared in print on page A19."
+        }
+    ]
+}

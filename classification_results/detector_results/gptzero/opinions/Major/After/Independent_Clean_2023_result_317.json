@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00021135338465683162,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017784289957489818,
+                    "sentence": "Please send your letters toletters@independent.co.ukI hoped I wouldn't have to read aboutanother exceptionally cruel policyannounced by the government after thesacking of Suella Braverman, but once again I have been proved wrong.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000137224662466906,
+                    "sentence": "This proposal to deprive sick people of essential medication and equipment really is as low as they can stoop.David FeltonCreweThe few, rewarded at the expense of the manySo, yet again the Tory civil war has descended into one of right-wing ideology.This time it's Jeremy Hunt's rumoured plan tostrip healthcare rightsfrom those who don't look for work.I don't remember this being in the Conservative manifesto in 2019.Nor do I remember over-the-counter healthcare being denied as prescriptions under the Cameron/Clegg coalition.Yet, as a direct result of these policies, councils like Portsmouth are already having to hand out free over-the-counter medication to the vulnerable as visits to food banks soar.While hard-working and non-working households struggle to make ends meet, isn't it just so predictable that multimillionaire businesses and high-rate taxpayers yet again get rewarded?It is a signal of a huge divide between the two main parties of today, and one which only Sir Keir Starmer can save us from.Geoffrey BrookingHampshireRight-wing relief over the Rwanda ruling?I suspect that there are a number of Conservative ministers who are quietly relieved that the courts have blocked their Rwanda scheme.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002077814715448767,
+                    "sentence": "If this appalling policy had been allowed to go forward it would have quickly become apparent that the threat of a few hundred people being deported to Africa would have no impact on the numbers crossing the Channel.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002804992545861751,
+                    "sentence": "Ministers would be shown up for the massive amount of time and money that has been wasted on pursuing this scheme.Meanwhile, they can point a finger at the judiciary as being the body responsible for their failure to stem the flow of immigration.S LawrenceEnfieldA nation of shoppers?ReadingJoe Middleton's articletoday I was reminded that the UK has often been described as a nation of shopkeepers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006049498915672302,
+                    "sentence": "By implication, then, we are also a nation of shoppers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006952959578484297,
+                    "sentence": "It seems to me that to measure a nation's prosperity on how well the retail sector is doing is not in itself a true picture of a nation's wealth.Surely, what we make or obtain from natural resources, including human resources, is crucial in reflecting our success or lack of it, and not how much we all spend on non-essential stuff, most of which we import?G ForwardStirling",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.037526171686261885,
+            "class_probabilities": {
+                "human": 0.9624738283137382,
+                "ai": 0.037526171686261885,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9624738283137382,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.037526171686261885,
+                    "human": 0.9624738283137382,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI hoped I wouldn’t have to read aboutanother exceptionally cruel policyannounced by the government after thesacking of Suella Braverman, but once again I have been proved wrong. This proposal to deprive sick people of essential medication and equipment really is as low as they can stoop.David FeltonCreweThe few, rewarded at the expense of the manySo, yet again the Tory civil war has descended into one of right-wing ideology.This time it’s Jeremy Hunt’s rumoured plan tostrip healthcare rightsfrom those who don’t look for work.I don’t remember this being in the Conservative manifesto in 2019.Nor do I remember over-the-counter healthcare being denied as prescriptions under the Cameron/Clegg coalition.Yet, as a direct result of these policies, councils like Portsmouth are already having to hand out free over-the-counter medication to the vulnerable as visits to food banks soar.While hard-working and non-working households struggle to make ends meet, isn’t it just so predictable that multimillionaire businesses and high-rate taxpayers yet again get rewarded?It is a signal of a huge divide between the two main parties of today, and one which only Sir Keir Starmer can save us from.Geoffrey BrookingHampshireRight-wing relief over the Rwanda ruling?I suspect that there are a number of Conservative ministers who are quietly relieved that the courts have blocked their Rwanda scheme. If this appalling policy had been allowed to go forward it would have quickly become apparent that the threat of a few hundred people being deported to Africa would have no impact on the numbers crossing the Channel. Ministers would be shown up for the massive amount of time and money that has been wasted on pursuing this scheme.Meanwhile, they can point a finger at the judiciary as being the body responsible for their failure to stem the flow of immigration.S LawrenceEnfieldA nation of shoppers?ReadingJoe Middleton’s articletoday I was reminded that the UK has often been described as a nation of shopkeepers. By implication, then, we are also a nation of shoppers. It seems to me that to measure a nation’s prosperity on how well the retail sector is doing is not in itself a true picture of a nation’s wealth.Surely, what we make or obtain from natural resources, including human resources, is crucial in reflecting our success or lack of it, and not how much we all spend on non-essential stuff, most of which we import?G ForwardStirling"
+        }
+    ]
+}

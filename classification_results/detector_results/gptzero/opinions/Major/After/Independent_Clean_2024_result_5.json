@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.007125691045075655,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006356443278491497,
+                    "sentence": "Please send your letters toletters@independent.co.ukAlmost a week into the year and theNHSjunior doctorshavespent it all on strike.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005308652762323618,
+                    "sentence": "What a horrible way to start another year.There will beprovisions for emergency treatmentsandoperations, but those on the long waiting lists will be waiting a bit longer and that's not fair.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007287546992301941,
+                    "sentence": "One of the issues made obvious is the poor working conditions the juniordoctorsendure; I don't want a tired doctor replacing the wrong hip.There should be effectively no waiting list for anything thatleaves us in serious painand can be easily fixed but that is wishful thinking.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004857468884438276,
+                    "sentence": "Time for action by the NHS and not the need for strike action by doctors.Dennis FitzgeraldAddress suppliedAnother hammer blow for Rishi SunakThe news that Conservative MP Chris Skidmore, a former minister, is to resign as an MP is a hammer blow for Rishi Sunak.This is a record 21st by-election in what looks to be a five-year parliament.It comes the week that Sunak bottled a May election, and a recent poll gives Labour a 22-point lead.Hence, clearly, the electorate have had enough of a party that looks after the richest 1 per cent at the expense of the rest of us.Geoffrey BrookingHampshireSome of us have fought climate change for decadesNow we learn that the Gulf Stream, the only thing that keeps the UK temperate, has slowed so much it could collapse by 2025.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0067787738516926765,
+                    "sentence": "This would give the UK a similar climate to Toronto in Canada, or an average temperature drop of around 11C, leaving our average at around 5C for the year.The warnings have been clear for so many years, Jacque Cousteau and the late great Harry Belafonte said that this was becoming a problem in 1957, nobody took any notice.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005103014409542084,
+                    "sentence": "Back in the 1960s, I joined a number of others in a call to save mankind and our planet Earth.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004275524988770485,
+                    "sentence": "Bob Dylan in 1963 sang about the sound of a wave that would drown the whole world, in 1964 he sang about pellets of poison filling our oceans.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004697640426456928,
+                    "sentence": "While others like Joan Baez, Pete Seeger and Mike Pinder of the Moody Blues were calling on governments to bring in legislation to combat climate change.Here we are 60 years later, and they have done very little in this regard.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008515545167028904,
+                    "sentence": "Now Mother Earth is fighting back, trying to rid herself of the parasite that is killing her: humanity.Tony B AxminsterAddress suppliedCan any of the parties offer the integrity we sorely need in our leaders?We are to have a general election in 2024.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010605866089463234,
+                    "sentence": "What this country needs is a government whose leadership will display truthfulness, honesty, integrity, and ensure justice and equity prevails.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012114578858017921,
+                    "sentence": "Will any party be bold enough to issue a manifesto which promises this?Jonathan LongstaffSussex",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563522,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563522,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563522,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukAlmost a week into the year and theNHSjunior doctorshavespent it all on strike.  What a horrible way to start another year.There will beprovisions for emergency treatmentsandoperations, but those on the long waiting lists will be waiting a bit longer and that’s not fair. One of the issues made obvious is the poor working conditions the juniordoctorsendure; I don’t want a tired doctor replacing the wrong hip.There should be effectively no waiting list for anything thatleaves us in serious painand can be easily fixed but that is wishful thinking. Time for action by the NHS and not the need for strike action by doctors.Dennis FitzgeraldAddress suppliedAnother hammer blow for Rishi SunakThe news that Conservative MP Chris Skidmore, a former minister, is to resign as an MP is a hammer blow for Rishi Sunak.This is a record 21st by-election in what looks to be a five-year parliament.It comes the week that Sunak bottled a May election, and a recent poll gives Labour a 22-point lead.Hence, clearly, the electorate have had enough of a party that looks after the richest 1 per cent at the expense of the rest of us.Geoffrey BrookingHampshireSome of us have fought climate change for decadesNow we learn that the Gulf Stream, the only thing that keeps the UK temperate, has slowed so much it could collapse by 2025. This would give the UK a similar climate to Toronto in Canada, or an average temperature drop of around 11C, leaving our average at around 5C for the year.The warnings have been clear for so many years, Jacque Cousteau and the late great Harry Belafonte said that this was becoming a problem in 1957, nobody took any notice. Back in the 1960s, I joined a number of others in a call to save mankind and our planet Earth. Bob Dylan in 1963 sang about the sound of a wave that would drown the whole world, in 1964 he sang about pellets of poison filling our oceans. While others like Joan Baez, Pete Seeger and Mike Pinder of the Moody Blues were calling on governments to bring in legislation to combat climate change.Here we are 60 years later, and they have done very little in this regard. Now Mother Earth is fighting back, trying to rid herself of the parasite that is killing her: humanity.Tony B AxminsterAddress suppliedCan any of the parties offer the integrity we sorely need in our leaders?We are to have a general election in 2024. What this country needs is a government whose leadership will display truthfulness, honesty, integrity, and ensure justice and equity prevails. Will any party be bold enough to issue a manifesto which promises this?Jonathan LongstaffSussex"
+        }
+    ]
+}

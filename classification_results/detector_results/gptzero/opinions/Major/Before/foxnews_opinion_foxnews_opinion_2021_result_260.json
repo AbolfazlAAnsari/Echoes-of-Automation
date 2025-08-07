@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0007426634547300637,
+                    "sentence": "Mutual Fund and ETF data provided byRefinitiv Lipper.John Daukas, who served as acting U.S. attorney general for the Justice Department's Civil Rights Division, says he is confident New York families who lost loved ones in nursing homes will get justice.TheCuomo administration's alleged misreporting of nursing-home deaths in New York is serious, perhaps meriting federal criminal charges.On March 25, 2020,Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006407370092347264,
+                    "sentence": "Andrew Cuomoissued an executive order requiring New York nursing homes to admit hospitalized patients who had tested positive for COVID-19.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00035682559246197343,
+                    "sentence": "The order also prohibited nursing homes from requiring hospitalized residents deemed \"medically stable\" to be tested before admission or readmission.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00026999088004231453,
+                    "sentence": "By the end of the summer, New York had more than 32,000 COVID deaths, the highest in the nation and more than double any other state.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00027544418117031455,
+                    "sentence": "If New York were its own country, it would have ranked among the top 10 for COVID deaths.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00028696865774691105,
+                    "sentence": "The number of deaths translated to the country's second-highest death rateᅳmore than three times the national average.What caught the Justice Department's eye was Gov.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00026489171432331204,
+                    "sentence": "Cuomo's claim that New York's nursing-home deaths were lower than many other states' and that his March 25 order didn't contribute to the extremely high number of New Yorkers who died fromCOVID.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002776398614514619,
+                    "sentence": "Given the virus's disproportionate effect on the elderly, sick and frail, this seemed unlikely.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002472603810019791,
+                    "sentence": "On Aug. 26, Justice's Civil Rights Division, relying on its jurisdiction to investigate government-run facilities under the federal Civil Rights of Institutionalized Persons Act, asked the Cuomo administration for data on New York's publicly run nursing homes, which account for less than 5% of nursing homes in the state.In September, New York produced data showing it had underreportedCOVID deathsin government-run nursing homes by a third.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00025417597498744726,
+                    "sentence": "The undercounting appeared to be due to several factors.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002747012476902455,
+                    "sentence": "First, when a nursing-home resident who contracted COVID died after being transported to a hospital for treatment, New York didn't count it as a \"nursing-home death.\"",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002649390953592956,
+                    "sentence": "Second, New York didn't include deaths occurring before the Centers for Medicare and Medicaid Services began requiring COVID reporting from nursing homes in mid-May.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006628439296036959,
+                    "sentence": "CMS made reporting prior COVID deaths optional, and New York apparently elected to keep the information to itself.CLICK HERE TO CONTINUE READING JOHN B. DAUKAS' COLUMN IN THE WALL STREET JOURNAL",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.009998674697021016,
+            "class_probabilities": {
+                "human": 0.990001325302979,
+                "ai": 0.009998674697021016,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.990001325302979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.009998674697021016,
+                    "human": 0.990001325302979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Mutual Fund and ETF data provided byRefinitiv Lipper.John Daukas, who served as acting U.S. attorney general for the Justice Department’s Civil Rights Division, says he is confident New York families who lost loved ones in nursing homes will get justice.TheCuomo administration’s alleged misreporting of nursing-home deaths in New York is serious, perhaps meriting federal criminal charges.On March 25, 2020,Gov. Andrew Cuomoissued an executive order requiring New York nursing homes to admit hospitalized patients who had tested positive for COVID-19. The order also prohibited nursing homes from requiring hospitalized residents deemed \"medically stable\" to be tested before admission or readmission. By the end of the summer, New York had more than 32,000 COVID deaths, the highest in the nation and more than double any other state. If New York were its own country, it would have ranked among the top 10 for COVID deaths. The number of deaths translated to the country’s second-highest death rate—more than three times the national average.What caught the Justice Department’s eye was Gov. Cuomo’s claim that New York’s nursing-home deaths were lower than many other states’ and that his March 25 order didn’t contribute to the extremely high number of New Yorkers who died fromCOVID. Given the virus’s disproportionate effect on the elderly, sick and frail, this seemed unlikely. On Aug. 26, Justice’s Civil Rights Division, relying on its jurisdiction to investigate government-run facilities under the federal Civil Rights of Institutionalized Persons Act, asked the Cuomo administration for data on New York’s publicly run nursing homes, which account for less than 5% of nursing homes in the state.In September, New York produced data showing it had underreportedCOVID deathsin government-run nursing homes by a third. The undercounting appeared to be due to several factors. First, when a nursing-home resident who contracted COVID died after being transported to a hospital for treatment, New York didn’t count it as a \"nursing-home death.\" Second, New York didn’t include deaths occurring before the Centers for Medicare and Medicaid Services began requiring COVID reporting from nursing homes in mid-May. CMS made reporting prior COVID deaths optional, and New York apparently elected to keep the information to itself.CLICK HERE TO CONTINUE READING JOHN B. DAUKAS' COLUMN IN THE WALL STREET JOURNAL"
+        }
+    ]
+}

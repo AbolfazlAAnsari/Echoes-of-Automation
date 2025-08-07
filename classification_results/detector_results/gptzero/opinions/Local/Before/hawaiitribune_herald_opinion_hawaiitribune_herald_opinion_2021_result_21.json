@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00014033463958185166,
+                    "sentence": "Workers across the country are unsatisfied with their subpar employment arrangements and many feel empowered to do something about it.Workers across the country are unsatisfied with their subpar employment arrangements and many feel empowered to do something about it.While some are quitting their jobs, others are using collective power to create lasting change.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014883361291140318,
+                    "sentence": "Last month, which came to be known as “Striketober,” workers across the country joined picket lines and threatened to walk off the job in response to stagnant wages, long hours and poor working conditions.One big reason San Antonio Symphony musicians, film and television professionals and John Deere workers have been so effective at exercising workplace power is their union membership.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013658628449775279,
+                    "sentence": "Unions provide the infrastructure, organization and unified front needed to execute large-scale collective action.As a union, employees also gain additional workplace rights, including the right to negotiate collectively with their employer over pay, benefits and working conditions.However, far too many U.S. workers are not union members; even though they face many of the same workplace issues, they lack the support and power necessary to take meaningful action.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012006809993181378,
+                    "sentence": "Now's the time: Striketober presents a unique opportunity for more employees to organize unions and earn fair compensation.More than two-thirds of Americans approve of unionsᅳa 50-year high water markᅳand new groups of employees have realized their workplace power in recent years.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013912904250901192,
+                    "sentence": "Waves of organizing from digital journalists, tech workers, and nonprofit employees helped professional union membership hit an all-time high last year at 6.3 million members.These new union workers are both changing the face of the labor movement and rethinking what can be won with a union contract.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00815762672573328,
+                    "sentence": "Union members at The Intercept used their collective power to negotiate a hiring provision that requires at least two candidates from underrepresented backgrounds be interviewed for open positions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012878035195171833,
+                    "sentence": "As many young professionals continue to be saddled with large amounts of student debt, union nonprofit employees at the statewide policy advocacy organization Every Texan bargained for a monthly student loan stipend.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012266181409358978,
+                    "sentence": "Employers moving jobs overseas is a major concern in the tech industry.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009943805634975433,
+                    "sentence": "To address this, Google contract workers employed by HCL America in Pittsburgh secured contract language that protects their jobs from offshoring.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010815274901688099,
+                    "sentence": "The deal required a number of union jobs to be located in Pittsburgh.Still, union membership among U.S. workers remains low at just above 11 percent.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0066474308259785175,
+                    "sentence": "Given the strong popularity of unions, there would likely be far more unionized workplaces if U.S. labor law had stronger protections for workers.That's why we need the Protecting the Right to Organize Act, which includes enforceable penalties for employers who break the law, expanded collective bargaining rights for workers and access to fair elections.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011052494868636131,
+                    "sentence": "It would rebalance the power dynamic between employees and employers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009771135635674,
+                    "sentence": "President Biden said he supports this legislation and the House passed it on a bipartisan basis, but the bill is held up in the Senate.While Striketober may be over, we have a chance to turn its energy and attention into action that can make a difference every month of the year.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.016552342101931572,
+                    "sentence": "As working people, we must take advantage of this moment by forming more unions and getting our labor agenda through Congress.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 1.9423489116273474e-12
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Workers across the country are unsatisfied with their subpar employment arrangements and many feel empowered to do something about it.Workers across the country are unsatisfied with their subpar employment arrangements and many feel empowered to do something about it.While some are quitting their jobs, others are using collective power to create lasting change. Last month, which came to be known as “Striketober,” workers across the country joined picket lines and threatened to walk off the job in response to stagnant wages, long hours and poor working conditions.One big reason San Antonio Symphony musicians, film and television professionals and John Deere workers have been so effective at exercising workplace power is their union membership. Unions provide the infrastructure, organization and unified front needed to execute large-scale collective action.As a union, employees also gain additional workplace rights, including the right to negotiate collectively with their employer over pay, benefits and working conditions.However, far too many U.S. workers are not union members; even though they face many of the same workplace issues, they lack the support and power necessary to take meaningful action. Now’s the time: Striketober presents a unique opportunity for more employees to organize unions and earn fair compensation.More than two-thirds of Americans approve of unions—a 50-year high water mark—and new groups of employees have realized their workplace power in recent years. Waves of organizing from digital journalists, tech workers, and nonprofit employees helped professional union membership hit an all-time high last year at 6.3 million members.These new union workers are both changing the face of the labor movement and rethinking what can be won with a union contract. Union members at The Intercept used their collective power to negotiate a hiring provision that requires at least two candidates from underrepresented backgrounds be interviewed for open positions. As many young professionals continue to be saddled with large amounts of student debt, union nonprofit employees at the statewide policy advocacy organization Every Texan bargained for a monthly student loan stipend. Employers moving jobs overseas is a major concern in the tech industry. To address this, Google contract workers employed by HCL America in Pittsburgh secured contract language that protects their jobs from offshoring. The deal required a number of union jobs to be located in Pittsburgh.Still, union membership among U.S. workers remains low at just above 11 percent. Given the strong popularity of unions, there would likely be far more unionized workplaces if U.S. labor law had stronger protections for workers.That’s why we need the Protecting the Right to Organize Act, which includes enforceable penalties for employers who break the law, expanded collective bargaining rights for workers and access to fair elections. It would rebalance the power dynamic between employees and employers. President Biden said he supports this legislation and the House passed it on a bipartisan basis, but the bill is held up in the Senate.While Striketober may be over, we have a chance to turn its energy and attention into action that can make a difference every month of the year. As working people, we must take advantage of this moment by forming more unions and getting our labor agenda through Congress."
+        }
+    ]
+}

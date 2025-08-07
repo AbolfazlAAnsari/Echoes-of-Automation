@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0006022691959515214,
+                    "sentence": "Inside the courtroom, Jonathan Alter sees the evidence mounting.The contributing Opinion writer Jonathan Alter has beenfiling dispatchesfrom Donald Trump's hush-money trial.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007695980020798743,
+                    "sentence": "In this audio essay, he talks about how what's happening there doesn't bode well for Trump.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006678961799480021,
+                    "sentence": "(A full transcript of this audio essay will be available within 24 hours of publication in the audio player above.)Thoughts?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000502074952237308,
+                    "sentence": "Email us attheopinions@nytimes.com.This episode of “The Opinions” was produced by Vishakha Darbha.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00048122709267772734,
+                    "sentence": "It was edited by Alison Bruzek and Kaari Pitkin.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00038401439087465405,
+                    "sentence": "Engineering by Efim Shapiro with mixing by Sonia Herrero.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00029956933576613665,
+                    "sentence": "Original music by Carole Sabouraud, Efim Shapiro and Pat McCusker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00038690801011398435,
+                    "sentence": "Fact-checking by Mary Marge Locker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003910451487172395,
+                    "sentence": "Audience strategy by Kristina Samulewski and Shannon Busta.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003076234133914113,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00039820856181904674,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004140651726629585,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,Instagram,TikTok,WhatsApp,XandThreads.PHOTO: (PHOTOGRAPH BY Illustration by The New York Times; photograph by Pool photo by Win Mcnamee FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.009998674697021016,
+            "class_probabilities": {
+                "human": 0.990001325302979,
+                "ai": 0.009998674697021016,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.990001325302979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.009998674697021016,
+                    "human": 0.990001325302979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Inside the courtroom, Jonathan Alter sees the evidence mounting.The contributing Opinion writer Jonathan Alter has beenfiling dispatchesfrom Donald Trump’s hush-money trial. In this audio essay, he talks about how what’s happening there doesn’t bode well for Trump.(A full transcript of this audio essay will be available within 24 hours of publication in the audio player above.)Thoughts? Email us attheopinions@nytimes.com.This episode of “The Opinions” was produced by Vishakha Darbha. It was edited by Alison Bruzek and Kaari Pitkin. Engineering by Efim Shapiro with mixing by Sonia Herrero. Original music by Carole Sabouraud, Efim Shapiro and Pat McCusker. Fact-checking by Mary Marge Locker. Audience strategy by Kristina Samulewski and Shannon Busta.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow the New York Times Opinion section onFacebook,Instagram,TikTok,WhatsApp,XandThreads.PHOTO:  (PHOTOGRAPH BY Illustration by The New York Times; photograph by Pool photo by Win Mcnamee FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

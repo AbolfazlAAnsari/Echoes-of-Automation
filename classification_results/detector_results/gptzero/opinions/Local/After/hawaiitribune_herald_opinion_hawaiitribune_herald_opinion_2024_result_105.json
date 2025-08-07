@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.9976497888565063,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°After three-and-a-half years and 7.8 million illegal crossings, President Joe Biden is finally tackling the crisis at the southern border and is doing so by borrowing from one of former president Donald Trump's more reviled policies.Biden issued an executive order that will allow him to shut the border when the number of migrants seeking to cross into this country tops 2,500 a day.He is claiming the authority under Section 212 (f) of the Immigration and Nationality Act, the same clause that Trump invoked to justify his so-called Muslim ban.Recall that the 9th Circuit Court of Appeals blocked Trump's total ban on immigrants from seven Middle Eastern countries.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9948239326477051,
+                    "sentence": "It was later upheld by the Supreme Court, but then scrapped by Biden.This time, the American Civil Liberties Union is already threatening a legal challenge to Biden's executive order.Our issue with Biden's order is not whether he has the constitutional authority to act to protect the nation from a national security threat, but rather the back-door approach he is taking.Biden has laid out a complex formula for triggering the border closure.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9975255727767944,
+                    "sentence": "It will shut when illegal crossings average more than 2,500 for seven consecutive days and will remain closed until 14 days after there have been seven days in a row of less than 1,500 illegal encounters.It's been since July 2020 that crossings have averaged below 1,500, so this should effectively close the border immediately.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9979004263877869,
+                    "sentence": "Enforcement will be beefed up, the president promises.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9974873065948486,
+                    "sentence": "Those who cross unauthorized will face a greater likelihood of being sent back, a significant change from the Biden administration's previous practice of allowing asylum seekers to disappear into the country.The change in policy is driven entirely by politics.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9978322386741638,
+                    "sentence": "Immigration ranks as a top concern of voters heading into the fall presidential election, and one on which Biden fares poorly.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9982671141624451,
+                    "sentence": "The Real Clear Politics average finds roughly 63% of voters disapprove of the president's handling of immigration.The executive order Biden signed is similar to a bill defeated in the Senate in February for lack of Republican support.The chief GOP objection to that bill was that it still provided an opening for people crossing illegally to slip in under the shut-down threshold.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9989432096481323,
+                    "sentence": "That measure set the daily average at 4,000, 1,500 higher than allowed in Biden's executive order.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.998887300491333,
+                    "sentence": "The president did not take the tougher measure he crafted back to Congress.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004922220483422279,
+                    "sentence": "He should have.It is problematic when a president effectively puts a law in place by executive order that has already been rejected by the legislative branch.This also falls short of being a long-term solution.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005478597246110439,
+                    "sentence": "Illegal crossings have soared under Biden because his administration has tolerated what amounts to an open border for its entire tenure.Asylum seekers who come in through ports of entry or use the Customs and Border Protection app to make appointments will still be waved into the country.What Biden is doing in this executive order is better than what he has been doing to secure the border, which is nothing.But it falls short of what's needed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004938153084367514,
+                    "sentence": "To be secure, America must be in full control of its borders.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0036250525154173374,
+                    "sentence": "And that requires knowing exactly who is entering the country and why.ᅳThe Detroit News/TNS",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 0.21735243543378915
+                }
+            ],
+            "completely_generated_prob": 0.39821528165086445,
+            "class_probabilities": {
+                "human": 0.6017847183491355,
+                "ai": 0.39821528165086445,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.6017847183491355,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.39821528165086445,
+                    "human": 0.6017847183491355,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°After three-and-a-half years and 7.8 million illegal crossings, President Joe Biden is finally tackling the crisis at the southern border and is doing so by borrowing from one of former president Donald Trump’s more reviled policies.Biden issued an executive order that will allow him to shut the border when the number of migrants seeking to cross into this country tops 2,500 a day.He is claiming the authority under Section 212 (f) of the Immigration and Nationality Act, the same clause that Trump invoked to justify his so-called Muslim ban.Recall that the 9th Circuit Court of Appeals blocked Trump’s total ban on immigrants from seven Middle Eastern countries. It was later upheld by the Supreme Court, but then scrapped by Biden.This time, the American Civil Liberties Union is already threatening a legal challenge to Biden’s executive order.Our issue with Biden’s order is not whether he has the constitutional authority to act to protect the nation from a national security threat, but rather the back-door approach he is taking.Biden has laid out a complex formula for triggering the border closure. It will shut when illegal crossings average more than 2,500 for seven consecutive days and will remain closed until 14 days after there have been seven days in a row of less than 1,500 illegal encounters.It’s been since July 2020 that crossings have averaged below 1,500, so this should effectively close the border immediately. Enforcement will be beefed up, the president promises. Those who cross unauthorized will face a greater likelihood of being sent back, a significant change from the Biden administration’s previous practice of allowing asylum seekers to disappear into the country.The change in policy is driven entirely by politics. Immigration ranks as a top concern of voters heading into the fall presidential election, and one on which Biden fares poorly. The Real Clear Politics average finds roughly 63% of voters disapprove of the president’s handling of immigration.The executive order Biden signed is similar to a bill defeated in the Senate in February for lack of Republican support.The chief GOP objection to that bill was that it still provided an opening for people crossing illegally to slip in under the shut-down threshold. That measure set the daily average at 4,000, 1,500 higher than allowed in Biden’s executive order. The president did not take the tougher measure he crafted back to Congress. He should have.It is problematic when a president effectively puts a law in place by executive order that has already been rejected by the legislative branch.This also falls short of being a long-term solution. Illegal crossings have soared under Biden because his administration has tolerated what amounts to an open border for its entire tenure.Asylum seekers who come in through ports of entry or use the Customs and Border Protection app to make appointments will still be waved into the country.What Biden is doing in this executive order is better than what he has been doing to secure the border, which is nothing.But it falls short of what’s needed. To be secure, America must be in full control of its borders. And that requires knowing exactly who is entering the country and why.—The Detroit News/TNS"
+        }
+    ]
+}

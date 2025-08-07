@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.7877563238143921,
+                    "sentence": "Published 1:43 pm Tuesday, July 4, 2023ByLetters to the EditorEditor:Keeping Suffolk's rural areas and downtown accessible to each other is important.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.7446219325065613,
+                    "sentence": "We should embrace how close one is to the other and the unique entrepreneurship and activities happening in every part of our diverse community.Suffolk's downtown is an integral part of commercial and social activity for residents from less-populated boroughs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.7245333194732666,
+                    "sentence": "Likewise, open spaces and outdoor activities are close-by for those living in the city center.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.8305354714393616,
+                    "sentence": "The city has a chance with the 2045 Comprehensive Plan to create a vision for how we grow by enhancing this character and not making it harder for people to move into, out of, and around downtown.Suffolk's agricultural heritage is vital in the success of many popular events that benefit the city, such as the Farmers Markets, Peanut Fest, the Plein Air Festival, Taste of Suffolk and the Earth and Arts Festival.Farmers markets have grown in popularity and local producers are helping to fill the void in a food desert, as seen at the pop-up market at the East Suffolk Recreation Center.Peanut Fest is our biggest event and we could better use this opportunity to keep agricultural heritage in the forefront by collaboration with local businesses.The Plein Air Festival brings in artists to paint the beauty of Suffolk's waterways, landscapes and cityscapes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9034833312034607,
+                    "sentence": "It highlights how nearby natural spaces benefit venues and businesses in the city center.People come from all over during Taste of Suffolk to enjoy a traditional, small-town city center that can't be found in other parts of Hampton Roads.The Earth and Arts Festival happens along with the Suffolk Master Gardeners annual plant sale.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.877109706401825,
+                    "sentence": "This celebration of our planet captures the spirit of Suffolk's connection with the land.Just outside of town there are fun things happening such as chicken swaps, fishing, Dismal Swamp adventures and an entire world of horses - barrel racing, shows, camps and trail riding.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.7931680083274841,
+                    "sentence": "Where else can you grab a latte downtown and drive just minutes to see horses?These events grow larger every year and success hinges on the unique ways downtown and rural areas are tied together.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.7499006390571594,
+                    "sentence": "Let's not squander Suffolk's character because special interest groups tell us we'll be better off if we look and act like everywhere else.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.4349745213985443,
+                    "sentence": "We need to decide now if Suffolk will be a dime a dozen or a diamond in the rough.Ann HarrisSuffolkOn Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5950666666030884,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.4757072627544403,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 1.155233377079189e-05
+                }
+            ],
+            "completely_generated_prob": 0.49776035834266513,
+            "class_probabilities": {
+                "human": 0.5022396416573348,
+                "ai": 0.49776035834266513,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.5022396416573348,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.49776035834266513,
+                    "human": 0.5022396416573348,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 1:43 pm Tuesday, July 4, 2023ByLetters to the EditorEditor:Keeping Suffolk’s rural areas and downtown accessible to each other is important. We should embrace how close one is to the other and the unique entrepreneurship and activities happening in every part of our diverse community.Suffolk’s downtown is an integral part of commercial and social activity for residents from less-populated boroughs. Likewise, open spaces and outdoor activities are close-by for those living in the city center. The city has a chance with the 2045 Comprehensive Plan to create a vision for how we grow by enhancing this character and not making it harder for people to move into, out of, and around downtown.Suffolk’s agricultural heritage is vital in the success of many popular events that benefit the city, such as the Farmers Markets, Peanut Fest, the Plein Air Festival, Taste of Suffolk and the Earth and Arts Festival.Farmers markets have grown in popularity and local producers are helping to fill the void in a food desert, as seen at the pop-up market at the East Suffolk Recreation Center.Peanut Fest is our biggest event and we could better use this opportunity to keep agricultural heritage in the forefront by collaboration with local businesses.The Plein Air Festival brings in artists to paint the beauty of Suffolk’s waterways, landscapes and cityscapes. It highlights how nearby natural spaces benefit venues and businesses in the city center.People come from all over during Taste of Suffolk to enjoy a traditional, small-town city center that can’t be found in other parts of Hampton Roads.The Earth and Arts Festival happens along with the Suffolk Master Gardeners annual plant sale. This celebration of our planet captures the spirit of Suffolk’s connection with the land.Just outside of town there are fun things happening such as chicken swaps, fishing, Dismal Swamp adventures and an entire world of horses – barrel racing, shows, camps and trail riding. Where else can you grab a latte downtown and drive just minutes to see horses?These events grow larger every year and success hinges on the unique ways downtown and rural areas are tied together. Let’s not squander Suffolk’s character because special interest groups tell us we’ll be better off if we look and act like everywhere else. We need to decide now if Suffolk will be a dime a dozen or a diamond in the rough.Ann HarrisSuffolkOn Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

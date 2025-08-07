@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 5.0011098210234195e-05,
+                    "sentence": "There are some likely voters whose opinions and actions don't line up.President Biden must be tearing his hair out overthe latest New York Times/Siena Collegepoll of likely voters.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.6468572691082954e-05,
+                    "sentence": "Half of the respondents describe economic conditions as “poor.” Only 20 percent say they strongly approve of Biden's handling of the economy, while 45 percent strongly approve of Donald Trump's handling of the economy as president.This would make sense if the economy were in recession, but the opposite is true.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.765842120628804e-05,
+                    "sentence": "The Covid-19 recession happened while Trump was still in office, and the economy has snapped back powerfully since.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.876850678352639e-05,
+                    "sentence": "On Monday, the Census Bureau released retail sales data for March that economists described as “solid,” “strong” and “booming.”To be clear, what this means is that there are some likely voters whose opinions and actions don't line up.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.562729762052186e-05,
+                    "sentence": "They're saying the economy is poor, but they're behaving as if things are really good.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.632824154919945e-05,
+                    "sentence": "How is Biden supposed to respond to this in his economic speech in Scranton, Pa., on Tuesday, without antagonizing voters by telling them they're wrong?Here's a chart I made based on the Times/Siena poll about the two presidents' handling of the economy:And here's one about economic conditions, which only 5 percent of likely voters rate as excellent:I asked Ludovic Subran, the chief economist of Allianz Research in Germany, for his explanation of the divergence between the economy's performance and voters' perceptions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.995944618713111e-05,
+                    "sentence": "He put it into an international perspective.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006126335822045803,
+                    "sentence": "Around the world, he said, voters have turned against people who were in office when the inflation shock hit.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00927311647683382,
+                    "sentence": "Biden's predicament doesn't look unusual from that point of view.Subran also said that inequality has increased during the recovery from the pandemic because the strong stock market has lifted the wealth of the stock-holding class.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010681472718715668,
+                    "sentence": "He attributed part of the stock market gains to the Biden administration's policies, such as the Inflation Reduction Act, which directed government aid to companies that are investing in the fight against climate change.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.014934687875211239,
+                    "sentence": "(Partially offsetting that, wage gains have been strongest at the bottom end of the income scale.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003903109347447753,
+                    "sentence": ")The good news for Biden in the Times/Siena poll is that the two candidates arenearly tiedin terms of whom voters would pick if the election were held today.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0036181288305670023,
+                    "sentence": "But if Biden can't persuade voters that he's better than Trump on the economy ᅳ or at least somewhere in that neighborhood ᅳ his re-election campaign will remain in peril.PHOTO: (PHOTOGRAPH BY FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.020796750353547094,
+            "class_probabilities": {
+                "human": 0.9792032496464529,
+                "ai": 0.020796750353547094,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9792032496464529,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020796750353547094,
+                    "human": 0.9792032496464529,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "There are some likely voters whose opinions and actions don’t line up.President Biden must be tearing his hair out overthe latest New York Times/Siena Collegepoll of likely voters. Half of the respondents describe economic conditions as “poor.” Only 20 percent say they strongly approve of Biden’s handling of the economy, while 45 percent strongly approve of Donald Trump’s handling of the economy as president.This would make sense if the economy were in recession, but the opposite is true. The Covid-19 recession happened while Trump was still in office, and the economy has snapped back powerfully since. On Monday, the Census Bureau released retail sales data for March that economists described as “solid,” “strong” and “booming.”To be clear, what this means is that there are some likely voters whose opinions and actions don’t line up. They’re saying the economy is poor, but they’re behaving as if things are really good. How is Biden supposed to respond to this in his economic speech in Scranton, Pa., on Tuesday, without antagonizing voters by telling them they’re wrong?Here’s a chart I made based on the Times/Siena poll about the two presidents’ handling of the economy:And here’s one about economic conditions, which only 5 percent of likely voters rate as excellent:I asked Ludovic Subran, the chief economist of Allianz Research in Germany, for his explanation of the divergence between the economy’s performance and voters’ perceptions. He put it into an international perspective. Around the world, he said, voters have turned against people who were in office when the inflation shock hit. Biden’s predicament doesn’t look unusual from that point of view.Subran also said that inequality has increased during the recovery from the pandemic because the strong stock market has lifted the wealth of the stock-holding class. He attributed part of the stock market gains to the Biden administration’s policies, such as the Inflation Reduction Act, which directed government aid to companies that are investing in the fight against climate change. (Partially offsetting that, wage gains have been strongest at the bottom end of the income scale.)The good news for Biden in the Times/Siena poll is that the two candidates arenearly tiedin terms of whom voters would pick if the election were held today. But if Biden can’t persuade voters that he’s better than Trump on the economy — or at least somewhere in that neighborhood — his re-election campaign will remain in peril.PHOTO:  (PHOTOGRAPH BY  FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

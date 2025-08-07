@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.023139512166380882,
+                    "sentence": "Published 4:44 pm Tuesday, June 20, 2023BySuffolk News-Herald Editorial BoardJune hurricanes are pretty rare in the United States, and even rarer up here in the mid-Atlantic, where the ocean waters don't get good and warm until later in the summer.Nonetheless, we're keeping an eye on Tropical Storm Bret (somehow we missed his initial-A cousin, the first named storm of the Atlantic season) as he blows west toward the Lesser Antilles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.020047277212142944,
+                    "sentence": "Thankfully, few models were showing a turn north as we penned this on Tuesday.Last Friday's storms, including a tornado that touched down in neighboring Isle of Wight County, remind us to be at all times “weather aware” and prepared.Dominion Energy passed along some helpful tips this month that we share here with commendation.“When a major storm hits, we work hard to keep the lights on and restore them quickly when power goes out,” said Jason Holland, Dominion Energy Virginia's director of electric distribution operations centers and emergency preparedness.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02700246497988701,
+                    "sentence": "“Storm preparation is a year-round process for Dominion Energy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04917583987116814,
+                    "sentence": "When one storm ends, we use lessons learned to prepare for the next one.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02349475957453251,
+                    "sentence": "We encourage all of our customers to get their homes ready as well.”On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.028473909944295883,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.020268063992261887,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.056907381579152753,
+            "class_probabilities": {
+                "human": 0.9430926184208472,
+                "ai": 0.056907381579152753,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9430926184208472,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.056907381579152753,
+                    "human": 0.9430926184208472,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 4:44 pm Tuesday, June 20, 2023BySuffolk News-Herald Editorial BoardJune hurricanes are pretty rare in the United States, and even rarer up here in the mid-Atlantic, where the ocean waters don’t get good and warm until later in the summer.Nonetheless, we’re keeping an eye on Tropical Storm Bret (somehow we missed his initial-A cousin, the first named storm of the Atlantic season) as he blows west toward the Lesser Antilles. Thankfully, few models were showing a turn north as we penned this on Tuesday.Last Friday’s storms, including a tornado that touched down in neighboring Isle of Wight County, remind us to be at all times “weather aware” and prepared.Dominion Energy passed along some helpful tips this month that we share here with commendation.“When a major storm hits, we work hard to keep the lights on and restore them quickly when power goes out,” said Jason Holland, Dominion Energy Virginia’s director of electric distribution operations centers and emergency preparedness. “Storm preparation is a year-round process for Dominion Energy. When one storm ends, we use lessons learned to prepare for the next one. We encourage all of our customers to get their homes ready as well.”On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

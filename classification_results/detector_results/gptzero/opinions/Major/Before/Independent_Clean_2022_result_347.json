@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0255267433822155,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.027325337752699852,
+                    "sentence": "Please send your letters toletters@independent.co.ukWhatever happened to consensus in politics?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.048421576619148254,
+                    "sentence": "I think it definitely went down the pan with theBrexitvote.We now have a Tory party unwilling to listen to moderate voices that warn against taking extreme decisions - the latest of which is the push to remove protections for the environment, workers' rights and public safety.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.024748723953962326,
+                    "sentence": "All because they're playing to the Brexiteer contingency on the back benches who deride anything to do with Europe.I haven't spoken to anyone who sees anything positive about Brexit, but have yet to hear any apologies from those who voted for it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.028874941170215607,
+                    "sentence": "Too embarrassed maybe?In the meantime, the next government (theLabour Party)is in denial about what's needed to repair the damagedone.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04748929291963577,
+                    "sentence": "Oh, and a happy Christmas!Andy VantBridgnorth, ShropshireBrexit benefitsJust as there has been no evidence of any of the promised benefits of leaving the EU post-Brexit, no one has yet come up with any positive outcomes resulting fromthe scrapping of safety regulations.It would seem that in both cases, the opposite is true.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03635171800851822,
+                    "sentence": "So we can only conclude that, yet again, those supposed to be governing for the benefit of all are merely blindly pursuing Tory party ideology.G ForwardStirlingGross interferenceThank you for printing Anne McHardy's article.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004938080674037337,
+                    "sentence": "I left the Labour Party in the early 2000s because of the Iraq war, Blair and Mandleson.I was tempted back by Jeremy Corbyn's election and policies, but I didn't trust the Labour Party machine.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00039263174403458834,
+                    "sentence": "A correct decision, given the internal shenanigans - see Al Jazeera's “The Labour Files”.The Independent is rather belatedly being true to its name bycarrying this story of gross interference in the workings of the Labour Party.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00029423984233289957,
+                    "sentence": "This includes the expulsion of long-standing Jewish socialist members, yet where is the outcry?Michael VinceAddress suppliedNurses and PutinNadhim Zahawiseems prone to making odd statements.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002635677228681743,
+                    "sentence": "His latest suggests thatnurses' pay demands are helping Putinis probably his most ludicrous so far.This may explain why the prime minister appointed him as minister without portfolio.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00047031312715262175,
+                    "sentence": "He couldn't be trusted with one!Roger HindsSurreyTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereIn response to Nadhim Zahawi's supportive comments to our nurses, can I suggest that every Thursday at 8pm, we all clap outside for the amazing job this Tory government is doing to support the countryduring the toughest winter imaginable.Tumbleweed...Paul MorrisonGlasgow",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.039839419682113825,
+            "class_probabilities": {
+                "human": 0.9601605803178862,
+                "ai": 0.039839419682113825,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601605803178862,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039839419682113825,
+                    "human": 0.9601605803178862,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukWhatever happened to consensus in politics? I think it definitely went down the pan with theBrexitvote.We now have a Tory party unwilling to listen to moderate voices that warn against taking extreme decisions – the latest of which is the push to remove protections for the environment, workers’ rights and public safety. All because they’re playing to the Brexiteer contingency on the back benches who deride anything to do with Europe.I haven’t spoken to anyone who sees anything positive about Brexit, but have yet to hear any apologies from those who voted for it. Too embarrassed maybe?In the meantime, the next government (theLabour Party)is in denial about what’s needed to repair the damagedone. Oh, and a happy Christmas!Andy VantBridgnorth, ShropshireBrexit benefitsJust as there has been no evidence of any of the promised benefits of leaving the EU post-Brexit, no one has yet come up with any positive outcomes resulting fromthe scrapping of safety regulations.It would seem that in both cases, the opposite is true. So we can only conclude that, yet again, those supposed to be governing for the benefit of all are merely blindly pursuing Tory party ideology.G ForwardStirlingGross interferenceThank you for printing Anne McHardy’s article.  I left the Labour Party in the early 2000s because of the Iraq war, Blair and Mandleson.I was tempted back by Jeremy Corbyn’s election and policies, but I didn’t trust the Labour Party machine. A correct decision, given the internal shenanigans – see Al Jazeera’s “The Labour Files”.The Independent is rather belatedly being true to its name bycarrying this story of gross interference in the workings of the Labour Party.  This includes the expulsion of long-standing Jewish socialist members, yet where is the outcry?Michael VinceAddress suppliedNurses and PutinNadhim Zahawiseems prone to making odd statements. His latest suggests thatnurses’ pay demands are helping Putinis probably his most ludicrous so far.This may explain why the prime minister appointed him as minister without portfolio. He couldn’t be trusted with one!Roger HindsSurreyTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereIn response to Nadhim Zahawi’s supportive comments to our nurses, can I suggest that every Thursday at 8pm, we all clap outside for the amazing job this Tory government is doing to support the countryduring the toughest winter imaginable.Tumbleweed...Paul MorrisonGlasgow"
+        }
+    ]
+}

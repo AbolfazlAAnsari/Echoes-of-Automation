@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 5.129153578309342e-05,
+                    "sentence": "It is now quite clear why Boris Johnson has been so distracted of late.Finalising his divorce, preparing the press release that he will become a father for the umpteenth time and the announcement that he has become engaged to his girlfriend, Carrie Symonds.How will he find the time to run the country, become a new father and a new husband, a simultaneous challenge of gargantuan proportions?Perhaps Sir Philip Rutnam and Sajid Javid will be able to offer their assistance with the wedding invitations.Christopher Learmont-HughesCaldyI'm delighted to hear from a spokesperson that the prime minister is \"working flat out\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.6952543925726786e-05,
+                    "sentence": "I wouldn't have guessed it if I hadn't been told.Ian HurdleyFerndownCarrie Symonds tells her friends via Instagram that she and Boris Johnson have been engaged since late last year and that their baby is due early summer, which I assume makes her around four or five months pregnant.It's possible that since Mr Johnson's divorce from his second wife was only recently declared he has been waiting for a sensitive time to make the birth announcement.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.47322483221069e-05,
+                    "sentence": "However, my more cynical self believes that he needed to distract people from the furore over Priti Patel's alleged behaviour and his own failure to get a grip of issues such as UK flooding and the coronavirus.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.034879375249147415,
+                    "sentence": "I guess it's his way of attempting to \"bury bad news\".Jane MogfordCirencesterLocust actionUp to a dozen countries in east Africa are facing food shortages following the latest devastating crisis caused by climate change to hit the region.Last week, Uganda deployed its military to support efforts to combat desert locusts that have been destroying crops across vast areas of east Africa for more than a month.It's the latest country in the region to mount a defence against the invading swarms, which have devastated crops and pasture lands in Ethiopia, Somalia, Kenya and Sudan since hatching during unexpected rainfall in Saudi Arabia at the start of the year.A locust cloud of a square kilometre is capable of eating the same amount of food in a single day as 35,000 people, according to the United Nations.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0421021431684494,
+                    "sentence": "One swarm in Kenya has been measured at around 2,400sq km - roughly the size of Luxembourg - and was estimated to contain up to 200 billion insects.There is mounting concern that the fast-breeding locusts could grow by up to 500 times in the coming weeks, as the eggs they have been laying hatch in the rains that have arrived to the region in the past month.Climate change has been blamed for creating the conditions for these vast swarms, not seen on this scale in living memory.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04441114515066147,
+                    "sentence": "Desert locusts now pose a new threat to food production in a region that is already reeling from three years of droughts and flooding.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02867725118994713,
+                    "sentence": "A substantial and sustained response from the international community is already overdue.Ray JordanCEO, Self Help AfricaWelfare helpThe Lancetproduced a report on the level of stress, and mental health problems caused by the welfare system.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06241130828857422,
+                    "sentence": "A lot of people think benefits are a way to an easy life: try telling that to the disabled!Homelessness, debt and poverty have increased.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010606569703668356,
+                    "sentence": "So, when will government, pause, scrap, and then reform the welfare system and universal credit?Due to low wages, and high housing costs, we have an explosion of the \"working poor\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005136238760314882,
+                    "sentence": "Evictions have also increased, as landlords struggle with the debts caused by UC.As a benefits adviser (unemployed) I still support people with claims and appeals, who knows when you might be next?Gary MartinLondonLabour's directionThe past few months has shown that sovereignty is manifestly in the hands of the people, and that those who bang the drum loudest rarely represent more than a very small percentage of the people.For the Conservative Party to succeed in dyed-in-the-wool Labour constituencies is surely something for that party to take note of.At present it would be very hard to know just what Labour's objectives are, more especially as the party has become enshrouded in ideology subtly promoted by its present leader, who was, and may still be, under the illusion that his policies are most appealing and attractive to the public.Unfortunately for him, and maybe for his party unless it is prepared to realign its direction, you can fool some of the people all of the time, and all the people some of the time, but you can't fool all the people all the time.William LewisCoulsdon",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.037526171686261885,
+            "class_probabilities": {
+                "human": 0.9624738283137382,
+                "ai": 0.037526171686261885,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9624738283137382,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.037526171686261885,
+                    "human": 0.9624738283137382,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "It is now quite clear why Boris Johnson has been so distracted of late.Finalising his divorce, preparing the press release that he will become a father for the umpteenth time and the announcement that he has become engaged to his girlfriend, Carrie Symonds.How will he find the time to run the country, become a new father and a new husband, a simultaneous challenge of gargantuan proportions?Perhaps Sir Philip Rutnam and Sajid Javid will be able to offer their assistance with the wedding invitations.Christopher Learmont-HughesCaldyI'm delighted to hear from a spokesperson that the prime minister is \"working flat out\". I wouldn't have guessed it if I hadn't been told.Ian HurdleyFerndownCarrie Symonds tells her friends via Instagram that she and Boris Johnson have been engaged since late last year and that their baby is due early summer, which I assume makes her around four or five months pregnant.It's possible that since Mr Johnson's divorce from his second wife was only recently declared he has been waiting for a sensitive time to make the birth announcement. However, my more cynical self believes that he needed to distract people from the furore over Priti Patel's alleged behaviour and his own failure to get a grip of issues such as UK flooding and the coronavirus. I guess it's his way of attempting to \"bury bad news\".Jane MogfordCirencesterLocust actionUp to a dozen countries in east Africa are facing food shortages following the latest devastating crisis caused by climate change to hit the region.Last week, Uganda deployed its military to support efforts to combat desert locusts that have been destroying crops across vast areas of east Africa for more than a month.It's the latest country in the region to mount a defence against the invading swarms, which have devastated crops and pasture lands in Ethiopia, Somalia, Kenya and Sudan since hatching during unexpected rainfall in Saudi Arabia at the start of the year.A locust cloud of a square kilometre is capable of eating the same amount of food in a single day as 35,000 people, according to the United Nations. One swarm in Kenya has been measured at around 2,400sq km - roughly the size of Luxembourg - and was estimated to contain up to 200 billion insects.There is mounting concern that the fast-breeding locusts could grow by up to 500 times in the coming weeks, as the eggs they have been laying hatch in the rains that have arrived to the region in the past month.Climate change has been blamed for creating the conditions for these vast swarms, not seen on this scale in living memory. Desert locusts now pose a new threat to food production in a region that is already reeling from three years of droughts and flooding. A substantial and sustained response from the international community is already overdue.Ray JordanCEO, Self Help AfricaWelfare helpThe Lancetproduced a report on the level of stress, and mental health problems caused by the welfare system. A lot of people think benefits are a way to an easy life: try telling that to the disabled!Homelessness, debt and poverty have increased. So, when will government, pause, scrap, and then reform the welfare system and universal credit?Due to low wages, and high housing costs, we have an explosion of the \"working poor\". Evictions have also increased, as landlords struggle with the debts caused by UC.As a benefits adviser (unemployed) I still support people with claims and appeals, who knows when you might be next?Gary MartinLondonLabour's directionThe past few months has shown that sovereignty is manifestly in the hands of the people, and that those who bang the drum loudest rarely represent more than a very small percentage of the people.For the Conservative Party to succeed in dyed-in-the-wool Labour constituencies is surely something for that party to take note of.At present it would be very hard to know just what Labour's objectives are, more especially as the party has become enshrouded in ideology subtly promoted by its present leader, who was, and may still be, under the illusion that his policies are most appealing and attractive to the public.Unfortunately for him, and maybe for his party unless it is prepared to realign its direction, you can fool some of the people all of the time, and all the people some of the time, but you can't fool all the people all the time.William LewisCoulsdon​"
+        }
+    ]
+}

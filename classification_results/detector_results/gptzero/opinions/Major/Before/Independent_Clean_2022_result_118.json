@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 8.368503767997026e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.093239112989977e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukIt's a reflection of how cast down Tory MPs are that they dare not raise their eyes aboveAngela Rayner's legs to see the formidable opposition frontbench facing them.Their basic instinct should be to try and survive the next general election by forcing Johnson to resign as prime minister in a confidence vote.Instead of erotic films, they ought to watch 2017's Darkest Hour showing how this was done in the House of Commons on a previous occasion.Roger HindsSurreyPrurient attitudesI have not heard anyone comment on the prurient attitude of the MP who gave the Mail on Sunday their story.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.250168760539964e-05,
+                    "sentence": "Has not that person got anything more to concentrate on during parliamentary debate than Angela Rayner's legs?Shame and more shame on that person.Pamela HibbertBerkshirePsychological cost of warBel Trew has brilliantly portrayedthe daily violence, mass displacement and the stench of death floating in the air in Ukraine.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012172154674772173,
+                    "sentence": "Millions of refugees have fled to adjacent countries, leaving their homes behind and carrying with them the indelible scars of war.World attention has been focused on the human and financial costs of war, neglecting the psychological costs in terms of anxiety, depression, insomnia, suicide, self-harm, post-traumatic stress disorder and other mental health consequences.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9272937774658203,
+                    "sentence": "These don't only affect the individuals and families, but society as a whole.It is time to invest in mental health services in the post-war era.Dr Munjed Farid Al QutobLondonRussia and BelarusAt a time when western politicians are demanding Russian and Belarusian people denounce the invasion of Ukraine, they fail to recognise the risks involved.Sixteen trade union leaders in Belarus have been detained.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9231011867523193,
+                    "sentence": "Yana Malash, Vital Chychmarau, Hanna Dus, Alyaksandr Bukhvastau, Vasil Berasneu, Henadz Fyadynich, Alyaksandr Yarashuk, Siarhei Antusevich, Mikalai Sharakh, Alyaskandr Yeudakimchyk, Iryna But-Husaim, Mikhail Hromau, Vadzim Payvin, Yury Beliakou, Dmitry Baradko and Ihar Lednik - pressure should be put on the authorities to free these people unless they have committed a crime.It is easy in the west to condemn Russia's actions but we are not at risk of torture, detention and losing everything.Janet SalmonRichmondFascist threat in FranceThe defeat of the fascist Le Pen in theFrench presidential electionswill be welcome by all anti-racists.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005198233295232058,
+                    "sentence": "But Le Pen remains a danger, recording her highest vote with 41.5 percent of the votes cast.Faced with a \"choice\" between the neoliberal Macron and the neo-Nazi Le Pen, more than a third of French voters refused to back either.If Macron spends his next term as French president following the same policies of his first term - attacking welfare spending and pensions, and looking to increase the retirement age - and if Macron continues to employ the same racist language against Muslims and immigrants that Le Pen uses, then he will open the door of the Elysee Palace to Le Pen and guarantee a victory for the fascists in 2027.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereThe defeat of Le Pen has bought the French left some little time to build an effective, broad, anti-racist alliance that can push back the fascist threat in France.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001986740855500102,
+                    "sentence": "There is not a second to waste.Sasha SimicLondonCaptain MainwaringI am disappointed by photographs ofBoris Johnsonin India saluting.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016845247009769082,
+                    "sentence": "He holds no military rank and doesn't wear the Queen's uniform so why does he salute?This is simply insulting and I'm surprised that this hasn't been picked up by others and listed as yet another diplomatic blooper.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020129382610321045,
+                    "sentence": "Is he channelling his inner Captain Mainwaring?Nigel GroomEssex",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 3.825211729267096e-06
+                }
+            ],
+            "completely_generated_prob": 0.1519714707116977,
+            "class_probabilities": {
+                "human": 0.847975265147624,
+                "ai": 0.1519714707116977,
+                "mixed": 5.326414067820469e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.847975265147624,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.1519714707116977,
+                    "human": 0.847975265147624,
+                    "mixed": 5.326414067820469e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukIt's a reflection of how cast down Tory MPs are that they dare not raise their eyes aboveAngela Rayner's legs to see the formidable opposition frontbench facing them.Their basic instinct should be to try and survive the next general election by forcing Johnson to resign as prime minister in a confidence vote.Instead of erotic films, they ought to watch 2017's Darkest Hour showing how this was done in the House of Commons on a previous occasion.Roger HindsSurreyPrurient attitudesI have not heard anyone comment on the prurient attitude of the MP who gave the Mail on Sunday their story. Has not that person got anything more to concentrate on during parliamentary debate than Angela Rayner's legs?Shame and more shame on that person.Pamela HibbertBerkshirePsychological cost of warBel Trew has brilliantly portrayedthe daily violence, mass displacement and the stench of death floating in the air in Ukraine. Millions of refugees have fled to adjacent countries, leaving their homes behind and carrying with them the indelible scars of war.World attention has been focused on the human and financial costs of war, neglecting the psychological costs in terms of anxiety, depression, insomnia, suicide, self-harm, post-traumatic stress disorder and other mental health consequences. These don't only affect the individuals and families, but society as a whole.It is time to invest in mental health services in the post-war era.Dr Munjed Farid Al QutobLondonRussia and BelarusAt a time when western politicians are demanding Russian and Belarusian people denounce the invasion of Ukraine, they fail to recognise the risks involved.Sixteen trade union leaders in Belarus have been detained. Yana Malash, Vital Chychmarau, Hanna Dus, Alyaksandr Bukhvastau, Vasil Berasneu, Henadz Fyadynich, Alyaksandr Yarashuk, Siarhei Antusevich, Mikalai Sharakh, Alyaskandr Yeudakimchyk, Iryna But-Husaim, Mikhail Hromau, Vadzim Payvin, Yury Beliakou, Dmitry Baradko and Ihar Lednik - pressure should be put on the authorities to free these people unless they have committed a crime.It is easy in the west to condemn Russia's actions but we are not at risk of torture, detention and losing everything.Janet SalmonRichmondFascist threat in FranceThe defeat of the fascist Le Pen in theFrench presidential electionswill be welcome by all anti-racists. But Le Pen remains a danger, recording her highest vote with 41.5 percent of the votes cast.Faced with a \"choice\" between the neoliberal Macron and the neo-Nazi Le Pen, more than a third of French voters refused to back either.If Macron spends his next term as French president following the same policies of his first term - attacking welfare spending and pensions, and looking to increase the retirement age - and if Macron continues to employ the same racist language against Muslims and immigrants that Le Pen uses, then he will open the door of the Elysee Palace to Le Pen and guarantee a victory for the fascists in 2027.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereThe defeat of Le Pen has bought the French left some little time to build an effective, broad, anti-racist alliance that can push back the fascist threat in France. There is not a second to waste.Sasha SimicLondonCaptain MainwaringI am disappointed by photographs ofBoris Johnsonin India saluting. He holds no military rank and doesn't wear the Queen's uniform so why does he salute?This is simply insulting and I'm surprised that this hasn't been picked up by others and listed as yet another diplomatic blooper. Is he channelling his inner Captain Mainwaring?Nigel GroomEssex"
+        }
+    ]
+}

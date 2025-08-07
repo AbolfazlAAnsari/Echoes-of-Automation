@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00022214927594177425,
+                    "sentence": "Former DOJ deputy public affairs director Ian Prior on President Trump's call for AG Barr to 'act fast' on a probe into Hunter Biden's foreign business dealings.Most of the media is ignoring the emails found inHunter Biden's laptop, but that doesn't mean they aren't news.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014504470163956285,
+                    "sentence": "Joe Biden has an obligation to answer questions about his son's influence-peddling and his own financial dealings -- notably regarding China.TUCKER CARLSON: AMERICA'S MOST POWERFUL PEOPLE WANT YOU TO SHUT UP ABOUT HUNTER BIDENThe New York Post last week obtained the contents of a laptop purported to belong to Hunter.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.102183008100837e-05,
+                    "sentence": "The Post has been transparent that it obtained its copy of the hard drive fromTrumplawyer Rudy Giuliani, who says he received it from the owner of a Delaware computer-repair shop, where it was abandoned in 2019.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.703311712248251e-05,
+                    "sentence": "Mr. Biden derides this as a \"smear campaign,\" while House Intelligence Chair Adam Schiff calls it without evidence \"Russian disinformation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.652379958424717e-05,
+                    "sentence": "\"Director of National Intelligence John Ratcliffe says the government has no intelligence to support the disinformation claim.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016419682651758194,
+                    "sentence": "A repair-shop order from April 2019 contains Hunter's name and what appears to be his signature.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003471554955467582,
+                    "sentence": "The shop owner supplied a subpoena showing the computer and hard drive were seized by the FBI in December 2019.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00039326815749518573,
+                    "sentence": "And theBiden campaignhasn't said the emails are phony.The emails regarding Hunter's business in Ukraine have been widely reported.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00048624997725710273,
+                    "sentence": "But as intriguing is a May 2017 email thread that includes a discussion about \"remuneration packages\" for six people as part of a business deal with a now-defunct Chinese energy titan,CEFC China Energy.The Chinese company was international news a few years ago, after the U.S. government charged a CEFC-funded organization with money laundering, and its CEO was detained by Chinese authorities.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000288605282548815,
+                    "sentence": "CNN reported in 2018 that \"at its height\" CEFC was \"hard to distinguish\" from the Chinese government.CLICK HERE TO CONTINUE READING THIS EDITORIAL IN THE WALL STREET JOURNAL",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.015657891702602185,
+            "class_probabilities": {
+                "human": 0.9843421082973979,
+                "ai": 0.015657891702602185,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9843421082973979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.015657891702602185,
+                    "human": 0.9843421082973979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "       Former DOJ deputy public affairs director Ian Prior on President Trump’s call for AG Barr to ‘act fast’ on a probe into Hunter Biden’s foreign business dealings.Most of the media is ignoring the emails found inHunter Biden's laptop, but that doesn't mean they aren't news. Joe Biden has an obligation to answer questions about his son's influence-peddling and his own financial dealings -- notably regarding China.TUCKER CARLSON: AMERICA’S MOST POWERFUL PEOPLE WANT YOU TO SHUT UP ABOUT HUNTER BIDENThe New York Post last week obtained the contents of a laptop purported to belong to Hunter. The Post has been transparent that it obtained its copy of the hard drive fromTrumplawyer Rudy Giuliani, who says he received it from the owner of a Delaware computer-repair shop, where it was abandoned in 2019. Mr. Biden derides this as a \"smear campaign,\" while House Intelligence Chair Adam Schiff calls it without evidence \"Russian disinformation.\"Director of National Intelligence John Ratcliffe says the government has no intelligence to support the disinformation claim. A repair-shop order from April 2019 contains Hunter's name and what appears to be his signature. The shop owner supplied a subpoena showing the computer and hard drive were seized by the FBI in December 2019. And theBiden campaignhasn't said the emails are phony.The emails regarding Hunter's business in Ukraine have been widely reported. But as intriguing is a May 2017 email thread that includes a discussion about \"remuneration packages\" for six people as part of a business deal with a now-defunct Chinese energy titan,CEFC China Energy.The Chinese company was international news a few years ago, after the U.S. government charged a CEFC-funded organization with money laundering, and its CEO was detained by Chinese authorities. CNN reported in 2018 that \"at its height\" CEFC was \"hard to distinguish\" from the Chinese government.CLICK HERE TO CONTINUE READING THIS EDITORIAL IN THE WALL STREET JOURNAL   "
+        }
+    ]
+}

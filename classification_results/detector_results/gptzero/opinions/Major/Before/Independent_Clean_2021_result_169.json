@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.002357997465878725,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe brilliant tennis playerNaomi Osakahas been fined for refusing to go to a press conference with journalists atRoland Garrosfor the French Open.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018186750821769238,
+                    "sentence": "She has stated that this is because she wants to protect hermental health- and now she faces the possibility of being defaulted from the tournament if she continues to refuse to attend these press conferences.There are two concerns that need to be addressed here.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014233801048249006,
+                    "sentence": "The first is that a person's mental health is vital and must be protected.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013812694232910872,
+                    "sentence": "She has said that she finds the press conferences a concern so surely there is no need for a conference but perhaps a few questions could be submitted, and responses sent out on the tournaments social media.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013219413813203573,
+                    "sentence": "Most of the questions and the responses are usually fairly mundane and predictable.The second concern is that she could be banned from playing in this and future tournaments.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013910761335864663,
+                    "sentence": "Surely having one of the best players in the world playing and being seen by the world is more important than seeing a seemingly shy person being forced to do a press conference.As Benjamin Franklin suggested: \"Well done is better than well said.\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001774062868207693,
+                    "sentence": "Let her play and others talk.Dennis FitzgeraldMelbourneA 'technical breach'Lord Geidt found that Matt Hancock had breached the ministerial code by failing to declare a stake in a family company that won an NHS contract.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017596149118617177,
+                    "sentence": "However, he found it to be a \"technical breach\".Well, we can all rest easy.Peter Smith-Cullen DunstonNorfolkChurch mattersSo the Catholic Churchhas decidedthat Boris Johnson's previous two marriages were \"invalid\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003375906962901354,
+                    "sentence": "Very convenient for our prime minister, but I wonder how his ex-wives and their children feel?Lynda NewberyBristolIt was interesting to read that Boris Johnson's previous marriages did not happen according to the Catholic Church.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0049240803346037865,
+                    "sentence": "If he was my father I would be absolutely furious with him.R WellsDorsetExit stage leftSo Boris Johnson and Carrie Symonds have married - and when they left Westminster Cathedral they \"were all bungled into a car\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004041493404656649,
+                    "sentence": "('Johnson marries fiancée in secret London ceremony', 30 May).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0035457094199955463,
+                    "sentence": "It's only to be expected since Boris has bungled his way through the pandemic, just as he has bungled his way through life... at the expense of our country and our politics.Perhaps he could just bungle off the scene and leave us to pick up the pieces?Chris KingLondonNo excusesIf a traveller gets caught going through customs with contraband in their luggage then try to claim that they hadn't asked the person packing for them what was in the suitcase, it is no defence.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005662606097757816,
+                    "sentence": "There is a presumption such basic questions have to be asked.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007680365815758705,
+                    "sentence": "\"If you don't want to know the answer then don't ask the question\" now looks to be the norm for our government ministers.Steve LawrenceEnfieldRead MoreBoris Johnson admits June reopening could be delayedNaomi Osaka has every right to boycott press conferences - she's making a crucial point about mental healthI'm very glad Boris Johnson is concentrating fully on dealing with the Covid-19 pandemic",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 1.9423489116273474e-12
+                }
+            ],
+            "completely_generated_prob": 0.024461651786716186,
+            "class_probabilities": {
+                "human": 0.9754981327244504,
+                "ai": 0.024461651786716186,
+                "mixed": 4.0215488833363626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9754981327244504,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024461651786716186,
+                    "human": 0.9754981327244504,
+                    "mixed": 4.0215488833363626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukThe brilliant tennis playerNaomi Osakahas been fined for refusing to go to a press conference with journalists atRoland Garrosfor the French Open. She has stated that this is because she wants to protect hermental health- and now she faces the possibility of being defaulted from the tournament if she continues to refuse to attend these press conferences.There are two concerns that need to be addressed here. The first is that a person's mental health is vital and must be protected. She has said that she finds the press conferences a concern so surely there is no need for a conference but perhaps a few questions could be submitted, and responses sent out on the tournaments social media. Most of the questions and the responses are usually fairly mundane and predictable.The second concern is that she could be banned from playing in this and future tournaments. Surely having one of the best players in the world playing and being seen by the world is more important than seeing a seemingly shy person being forced to do a press conference.As Benjamin Franklin suggested: \"Well done is better than well said.\". Let her play and others talk.Dennis FitzgeraldMelbourneA 'technical breach'Lord Geidt found that Matt Hancock had breached the ministerial code by failing to declare a stake in a family company that won an NHS contract. However, he found it to be a \"technical breach\".Well, we can all rest easy.Peter Smith-Cullen DunstonNorfolkChurch mattersSo the Catholic Churchhas decidedthat Boris Johnson's previous two marriages were \"invalid\". Very convenient for our prime minister, but I wonder how his ex-wives and their children feel?Lynda NewberyBristolIt was interesting to read that Boris Johnson's previous marriages did not happen according to the Catholic Church. If he was my father I would be absolutely furious with him.R WellsDorsetExit stage leftSo Boris Johnson and Carrie Symonds have married - and when they left Westminster Cathedral they \"were all bungled into a car\". ('Johnson marries fiancée in secret London ceremony', 30 May). It's only to be expected since Boris has bungled his way through the pandemic, just as he has bungled his way through life... at the expense of our country and our politics.Perhaps he could just bungle off the scene and leave us to pick up the pieces?Chris KingLondonNo excusesIf a traveller gets caught going through customs with contraband in their luggage then try to claim that they hadn't asked the person packing for them what was in the suitcase, it is no defence. There is a presumption such basic questions have to be asked.\"If you don't want to know the answer then don't ask the question\" now looks to be the norm for our government ministers.Steve LawrenceEnfieldRead MoreBoris Johnson admits June reopening could be delayedNaomi Osaka has every right to boycott press conferences - she's making a crucial point about mental healthI'm very glad Boris Johnson is concentrating fully on dealing with the Covid-19 pandemic"
+        }
+    ]
+}

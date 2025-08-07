@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 5.1184379117330536e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.348451329860836e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukRecent letters suggestinga “humane” solution to our employment woeswould be to exploitasylum seekersas a conveniently available “resource” within the NHS, food processing and care homes has one massive flaw: it maintains our reliance upon a minimum wage, “gig economy” underclass who often exist as agency workers.Clearly the return of so many EU workers to their own countries has created a vacuum in the availability of cheap labour, but surely the crushing reality is that too many businesses and vital services are kept afloat and are only viable when there are plenty of cheap minimum-wage gig economy drones to prop up their operations.The uncomfortable serendipity of a situation where we imagine the desperate lost souls seeking refuge will love picking potatoes, wiping bottoms and cleaning our hospitals for rock bottom wages seems lost on many, and leaves me very uneasy.Whether we feel that a decent functioning modern economy should continue to be founded upon the exploitation of a willing workforce of foreign workers, asylum seekers or the UK citizens now being lined up to be trained up to take these jobs is for others to decide; but it seems we remain shackled to the need for it.BlamingBrexit for this downturnin the availability of minimum wage workers has been keenly adopted by many and offers a simplistic and appealing explanation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.1706207159440964e-05,
+                    "sentence": "But do those out there who wish for a return to the EU and a humane solution to the migrant problem imagine our lives, happiness and economic viability will be improved by a cynical return to a continued reliance upon willing workhorses and cheap labour to generate profit for UK businesses and drive the care sector?We're better than this (I'd hope)!Steve MackinderDenverWhy stop at taxing pet owners?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.793806147063151e-05,
+                    "sentence": "We need to go after the whole industrySamuel Fishwick isright to say that pets have loads of negative externalities- from birds killed and devoured by cats, to dog excrement on city streets, on paths, and in the countryside where it puts livestock at risk (from neurological disease or death in sheep and abortions in cattle), and damages nature reserves by adding nitrogen and phosphorus which pollute and change soils.Not only are pet breeders raking it in, so are the big companies making pet food.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.017768464982509613,
+                    "sentence": "Pet owners should have information on how the mush in their pet's food tins is made, what it is made from, and the environmental impact of the content and the container.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011549124494194984,
+                    "sentence": "The pet food production chain should be taxed for the cost of externalities - not only pet owners.Maggie CoulthardBrusselsHelp wantedRishi Sunaksuggests that, rather than immigrants doing essential jobs, unemployed British workers could do work like fruit picking.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009468345902860165,
+                    "sentence": "That would provide career opportunities to the many Tory MPs likely to lose their seats at the next general election.Patrick ClearyGloucestershireOn your bikeDoes thethree-year sentence of Auriol Grayfor shouting at someone to stop riding a bicycle on a pavement mean that I must just stand silently on the pavement in Holland Park Avenue and wait to be mown down by bikes and electric scooter riders?The Appeal Court has got this one terribly wrong given the disabilities of the woman whose appeal they refused, and the circumstances of the accident she is said to have caused.Bobbie Vincent-EmeryLondon",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.034832192548772546,
+            "class_probabilities": {
+                "human": 0.9651678074512274,
+                "ai": 0.034832192548772546,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9651678074512274,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.034832192548772546,
+                    "human": 0.9651678074512274,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukRecent letters suggestinga “humane” solution to our employment woeswould be to exploitasylum seekersas a conveniently available “resource” within the NHS, food processing and care homes has one massive flaw: it maintains our reliance upon a minimum wage, “gig economy” underclass who often exist as agency workers.Clearly the return of so many EU workers to their own countries has created a vacuum in the availability of cheap labour, but surely the crushing reality is that too many businesses and vital services are kept afloat and are only viable when there are plenty of cheap minimum-wage gig economy drones to prop up their operations.The uncomfortable serendipity of a situation where we imagine the desperate lost souls seeking refuge will love picking potatoes, wiping bottoms and cleaning our hospitals for rock bottom wages seems lost on many, and leaves me very uneasy.Whether we feel that a decent functioning modern economy should continue to be founded upon the exploitation of a willing workforce of foreign workers, asylum seekers or the UK citizens now being lined up to be trained up to take these jobs is for others to decide; but it seems we remain shackled to the need for it.BlamingBrexit for this downturnin the availability of minimum wage workers has been keenly adopted by many and offers a simplistic and appealing explanation. But do those out there who wish for a return to the EU and a humane solution to the migrant problem imagine our lives, happiness and economic viability will be improved by a cynical return to a continued reliance upon willing workhorses and cheap labour to generate profit for UK businesses and drive the care sector?We’re better than this (I’d hope)!Steve MackinderDenverWhy stop at taxing pet owners? We need to go after the whole industrySamuel Fishwick isright to say that pets have loads of negative externalities– from birds killed and devoured by cats, to dog excrement on city streets, on paths, and in the countryside where it puts livestock at risk (from neurological disease or death in sheep and abortions in cattle), and damages nature reserves by adding nitrogen and phosphorus which pollute and change soils.Not only are pet breeders raking it in, so are the big companies making pet food. Pet owners should have information on how the mush in their pet’s food tins is made, what it is made from, and the environmental impact of the content and the container. The pet food production chain should be taxed for the cost of externalities – not only pet owners.Maggie CoulthardBrusselsHelp wantedRishi Sunaksuggests that, rather than immigrants doing essential jobs, unemployed British workers could do work like fruit picking. That would provide career opportunities to the many Tory MPs likely to lose their seats at the next general election.Patrick ClearyGloucestershireOn your bikeDoes thethree-year sentence of Auriol Grayfor shouting at someone to stop riding a bicycle on a pavement mean that I must just stand silently on the pavement in Holland Park Avenue and wait to be mown down by bikes and electric scooter riders?The Appeal Court has got this one terribly wrong given the disabilities of the woman whose appeal they refused, and the circumstances of the accident she is said to have caused.Bobbie Vincent-EmeryLondon"
+        }
+    ]
+}

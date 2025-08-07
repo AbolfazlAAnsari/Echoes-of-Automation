@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00011366138642188162,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.878696149215102e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukBoris Johnson, Dominic Raab, Priti Patel and.Liz Truss, among other European leaders, are shedding crocodile tears over the loss of life inUkraine.Undoubtedly, we are all emotionally distraught when faced with the loss of innocent lives.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.208000584389083e-05,
+                    "sentence": "This is a logical outpouring of anguish, loss, grief, uncertainty, anxiety and pain.However, where were they when the US and its allies invaded and occupied Iraq, causing the death of over a million Iraqis and the displacement of millions more?Why didn't they supply arms to defencelessPalestinians facing the \"apartheid\" Israeli statein the occupied Palestinian territories.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00215204362757504,
+                    "sentence": "Hasn't time come to view all victims equally, irrespective of colour, faith, ethnicity and religion?Dr Munjed Farid Al QutobLondonMilitary supplies from the westWhen Britain fought for her survival in the Second World War, it was the rapid shipment of military supplies from America that helped prevent our defeat.Now as Russia escalates its offensive against Ukraine, resorting to aerial bombardments of its cities and indiscriminately targeting civilians in a pattern chillingly reminiscent of its previous assaults in Chechen and Syria, can a similar effort to save Ukraine be made?This would require the immediate transfer of jet fighters and anti-missile defences from the west to the Ukrainian air force and army.This does not guarantee the imposition of a no fly zone, which may give the unstable Russian leader the excuse to employ tacticalnuclear weapons, but it does at least give the Ukrainian people a greater chance of holding out either for a diplomatic breakthrough or regime change in Moscow.Paul DolanNorthwichInternational lawCausing the death or injury of anyone should result in the perpetrator, and those appearing to aid them, being arrested and held until trial proves them innocent or guilty.Should Putin and anyone helping him be indicted as war criminals?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0031820577569305897,
+                    "sentence": "This would prevent many prominent Russian leaders from leaving their own country or allies, unless under diplomatic immunity, without risking arrest.Let those who believe in justice show anyone who causes unprovoked aggression will be subjected to correct processes of international law.Robert AlliottCambridgePeace settlementThe west's very fast reaction to the Russian invasion is laudable in some respects, as it has shown a strong and united response.However, it has left very little or zero room for an equally fast negotiated peace settlement.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.19671763479709625,
+                    "sentence": "It could be that this very united front leads to an intransigence that will prevent a solution.I would love to hearMary Dejevsky'sview on what to do next.Peter Smith-CullenDunston, NorfolkInvestment opportunitiesThe good news for refugees fleeing war-torn Ukraine is that they, too, can easily become British citizens, like the Conservative Party's \"Russian\" donors - if they have a spare £2m or more to invest.And then Priti Patel will be happy to welcome them.Katharine PowellNestonTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereOwn goals and posturingHow long do we have to put up with Liz Truss scoring propaganda own goals and generally making an already dangerous situation worse?Her foolish pronouncements and antagonistic posturing cannot help Ukraine and seem calculated to benefit only one person - namely Liz Truss - but she won't get to be PM if there is a full-scale war, because we will no longer be needing one.She is totally out of her depth and should step down before she does any more damage.Patrick HanleyDumfries & GallowayUnrepresentative democracyThe foreign secretary has declared that we are assisting Ukraine in order to safeguard democracy and I agree wholeheartedly with the cause.But, when vowing allegiance to democracy, Liz Truss should reflect on how unrepresentative our own version is.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.20347729325294495,
+                    "sentence": "While the pot may not be as black as the kettle, it is far from free of soot.Take the 2019 general election as an example.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.17891933023929596,
+                    "sentence": "Seven out of every 10 on the electoral register did not vote for the Conservative Party, yet it forms a single-party government.Professor Ian ReidKilnwick",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.059261636754220776,
+            "class_probabilities": {
+                "human": 0.9406968808522652,
+                "ai": 0.059261636754220776,
+                "mixed": 4.148239351388549e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9406968808522652,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.059261636754220776,
+                    "human": 0.9406968808522652,
+                    "mixed": 4.148239351388549e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukBoris Johnson, Dominic Raab, Priti Patel and.Liz Truss, among other European leaders, are shedding crocodile tears over the loss of life inUkraine.Undoubtedly, we are all emotionally distraught when faced with the loss of innocent lives. This is a logical outpouring of anguish, loss, grief, uncertainty, anxiety and pain.However, where were they when the US and its allies invaded and occupied Iraq, causing the death of over a million Iraqis and the displacement of millions more?Why didn't they supply arms to defencelessPalestinians facing the \"apartheid\" Israeli statein the occupied Palestinian territories. Hasn't time come to view all victims equally, irrespective of colour, faith, ethnicity and religion?Dr Munjed Farid Al QutobLondonMilitary supplies from the westWhen Britain fought for her survival in the Second World War, it was the rapid shipment of military supplies from America that helped prevent our defeat.Now as Russia escalates its offensive against Ukraine, resorting to aerial bombardments of its cities and indiscriminately targeting civilians in a pattern chillingly reminiscent of its previous assaults in Chechen and Syria, can a similar effort to save Ukraine be made?This would require the immediate transfer of jet fighters and anti-missile defences from the west to the Ukrainian air force and army.This does not guarantee the imposition of a no fly zone, which may give the unstable Russian leader the excuse to employ tacticalnuclear weapons, but it does at least give the Ukrainian people a greater chance of holding out either for a diplomatic breakthrough or regime change in Moscow.Paul DolanNorthwichInternational lawCausing the death or injury of anyone should result in the perpetrator, and those appearing to aid them, being arrested and held until trial proves them innocent or guilty.Should Putin and anyone helping him be indicted as war criminals? This would prevent many prominent Russian leaders from leaving their own country or allies, unless under diplomatic immunity, without risking arrest.Let those who believe in justice show anyone who causes unprovoked aggression will be subjected to correct processes of international law.Robert AlliottCambridgePeace settlementThe west's very fast reaction to the Russian invasion is laudable in some respects, as it has shown a strong and united response.However, it has left very little or zero room for an equally fast negotiated peace settlement. It could be that this very united front leads to an intransigence that will prevent a solution.I would love to hearMary Dejevsky'sview on what to do next.Peter Smith-CullenDunston, NorfolkInvestment opportunitiesThe good news for refugees fleeing war-torn Ukraine is that they, too, can easily become British citizens, like the Conservative Party's \"Russian\" donors - if they have a spare £2m or more to invest.And then Priti Patel will be happy to welcome them.Katharine PowellNestonTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereOwn goals and posturingHow long do we have to put up with Liz Truss scoring propaganda own goals and generally making an already dangerous situation worse?Her foolish pronouncements and antagonistic posturing cannot help Ukraine and seem calculated to benefit only one person - namely Liz Truss - but she won't get to be PM if there is a full-scale war, because we will no longer be needing one.She is totally out of her depth and should step down before she does any more damage.Patrick HanleyDumfries & GallowayUnrepresentative democracyThe foreign secretary has declared that we are assisting Ukraine in order to safeguard democracy and I agree wholeheartedly with the cause.But, when vowing allegiance to democracy, Liz Truss should reflect on how unrepresentative our own version is. While the pot may not be as black as the kettle, it is far from free of soot.Take the 2019 general election as an example. Seven out of every 10 on the electoral register did not vote for the Conservative Party, yet it forms a single-party government.Professor Ian ReidKilnwick"
+        }
+    ]
+}

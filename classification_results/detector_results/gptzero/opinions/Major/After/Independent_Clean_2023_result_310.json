@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0002179790462832898,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006118782330304384,
+                    "sentence": "Please send your letters toletters@independent.co.ukHas there ever been a time when the civil war in theConservative Partywas so ignited in the media?You really would think that in the week of the King's Speech, the ruling party of the UK parliament would at least put on a brave face.Not the last week, though!First, you had Jacob Rees-Mogg calling for the government to wake up from a “torpor”.Then, former chancellor George Osborne was scathing about Sunak's attempt to position himself as a “change candidate” at the election by saying it would be difficult to pull off when he looks like the “ultimate insider” in Westminster.And just to top it off, with just days to go before Rishi celebrates a year in 10 Downing Street, along comes the home secretary to set off her own usual right-wing political explosives.No wonder the party's poll ratings are still in freefall.My prediction of a repeat of Labour's 1997 victory is looking ever more likely by the day.Geoffrey BrookingHampshireWe have to do more to help rough sleepersAs the first snowfall blankets the UK and a relentless cost of living crisis tightens its grip, your recent article, \"Homelessness, Hunger, and Heating: How to Help Someone Struggling This Winter,\" poignantly highlights the myriad challenges facing vulnerable communities.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9979577660560608,
+                    "sentence": "With Christmas approaching, a season that unfortunately exacerbates financial strain for many, the situation appears particularly daunting.The report by Crisis, estimating that nearly one million low-income households fear eviction in the coming months, underscores the urgency of addressing these issues.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9997694492340088,
+                    "sentence": "The statistic that four in 10 individuals anticipate skipping meals to afford housing this winter is alarming and speaks to the severity of the crisis.In this challenging context, it's heartening to know that various organisations and individuals are dedicated to providing assistance.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9997642040252686,
+                    "sentence": "As advocates for global poverty alleviation, the Borgen Project recognizes the importance of supporting those in crisis, and your article prompted us to reflect on the interconnectedness of these issues worldwide.The Trussell Trust's commendable efforts in supporting a network of 1,300 food banks across the UK are vital in combating the record-high food inflation of 12.4 per cent.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9997288584709167,
+                    "sentence": "However, the necessity for referrals from specific entities raises questions about the accessibility of these resources for everyone in need.In this light, the Borgen Project actively collaborates with organisations globally, striving to address root causes of poverty.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9996243715286255,
+                    "sentence": "Our focus extends beyond immediate relief to advocating for systemic changes that can create sustainable impact.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9994596838951111,
+                    "sentence": "By sharing stories like the one in your article, we hope to foster awareness and engagement among our readership, encouraging collective action to support vulnerable communities.As the UK grapples with a surge in energy costs, the Joseph Rowntree Foundation's revelation that over three million low-income households cannot afford to heat their homes is deeply concerning.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9994768500328064,
+                    "sentence": "The Energy Saving Trust's practical suggestions on managing radiators and investing in thermal curtains offer valuable insights that could benefit many struggling households.We appreciate your dedication to shedding light on these critical issues.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9405524134635925,
+                    "sentence": "The Borgen Project remains committed to fostering a global conversation on poverty, and we look forward to the continued collaboration in amplifying the voices of those facing these challenges.Aishat AdeyemoBorgen Project ambassadorSunak is too weak to get rid of BravermanI think it's highly unlikely thatRishi Sunakwilljettison the home secretary.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008511737920343876,
+                    "sentence": "He has proved that he is too weak to upset his extreme right wing on many occasions, and this time is probably not going to be any different.David FeltonCreweBraverman must goI wrote a year or more ago with my suggestion thatSuella Bravermanshould beremoved from government.Along with several other prominent figures in government, she is a liability to the proper business of government, and to the stability of the UK.And now she has gone even further with her comments about the police.Get rid of her.Steve EdmondsonHaslingfield",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 0.3879991262334155
+                }
+            ],
+            "completely_generated_prob": 0.40283486888731396,
+            "class_probabilities": {
+                "human": 0.5878100637845499,
+                "ai": 0.40283486888731396,
+                "mixed": 0.009355067328136074
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.5878100637845499,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.40283486888731396,
+                    "human": 0.5878100637845499,
+                    "mixed": 0.009355067328136074
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukHas there ever been a time when the civil war in theConservative Partywas so ignited in the media?You really would think that in the week of the King’s Speech, the ruling party of the UK parliament would at least put on a brave face.Not the last week, though!First, you had Jacob Rees-Mogg calling for the government to wake up from a “torpor”.Then, former chancellor George Osborne was scathing about Sunak’s attempt to position himself as a “change candidate” at the election by saying it would be difficult to pull off when he looks like the “ultimate insider” in Westminster.And just to top it off, with just days to go before Rishi celebrates a year in 10 Downing Street, along comes the home secretary to set off her own usual right-wing political explosives.No wonder the party’s poll ratings are still in freefall.My prediction of a repeat of Labour’s 1997 victory is looking ever more likely by the day.Geoffrey BrookingHampshireWe have to do more to help rough sleepersAs the first snowfall blankets the UK and a relentless cost of living crisis tightens its grip, your recent article, \"Homelessness, Hunger, and Heating: How to Help Someone Struggling This Winter,\" poignantly highlights the myriad challenges facing vulnerable communities. With Christmas approaching, a season that unfortunately exacerbates financial strain for many, the situation appears particularly daunting.The report by Crisis, estimating that nearly one million low-income households fear eviction in the coming months, underscores the urgency of addressing these issues. The statistic that four in 10 individuals anticipate skipping meals to afford housing this winter is alarming and speaks to the severity of the crisis.In this challenging context, it’s heartening to know that various organisations and individuals are dedicated to providing assistance. As advocates for global poverty alleviation, the Borgen Project recognizes the importance of supporting those in crisis, and your article prompted us to reflect on the interconnectedness of these issues worldwide.The Trussell Trust’s commendable efforts in supporting a network of 1,300 food banks across the UK are vital in combating the record-high food inflation of 12.4 per cent. However, the necessity for referrals from specific entities raises questions about the accessibility of these resources for everyone in need.In this light, the Borgen Project actively collaborates with organisations globally, striving to address root causes of poverty. Our focus extends beyond immediate relief to advocating for systemic changes that can create sustainable impact. By sharing stories like the one in your article, we hope to foster awareness and engagement among our readership, encouraging collective action to support vulnerable communities.As the UK grapples with a surge in energy costs, the Joseph Rowntree Foundation’s revelation that over three million low-income households cannot afford to heat their homes is deeply concerning. The Energy Saving Trust’s practical suggestions on managing radiators and investing in thermal curtains offer valuable insights that could benefit many struggling households.We appreciate your dedication to shedding light on these critical issues. The Borgen Project remains committed to fostering a global conversation on poverty, and we look forward to the continued collaboration in amplifying the voices of those facing these challenges.Aishat AdeyemoBorgen Project ambassadorSunak is too weak to get rid of BravermanI think it’s highly unlikely thatRishi Sunakwilljettison the home secretary.  He has proved that he is too weak to upset his extreme right wing on many occasions, and this time is probably not going to be any different.David FeltonCreweBraverman must goI wrote a year or more ago with my suggestion thatSuella Bravermanshould beremoved from government.Along with several other prominent figures in government, she is a liability to the proper business of government, and to the stability of the UK.And now she has gone even further with her comments about the police.Get rid of her.Steve EdmondsonHaslingfield"
+        }
+    ]
+}

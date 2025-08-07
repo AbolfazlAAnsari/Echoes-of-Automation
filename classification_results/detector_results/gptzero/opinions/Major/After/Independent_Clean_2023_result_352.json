@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 8.123699080897495e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.0515685870777816e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukMitchell/Forrest today raised thecosts charged to expenses by Labour MP Neil Coyle.I am no apologist for Coyle's misjudgements, character or abilities, but if work requires you to undertake training, is it not a business expense?The moral argument is pertinent, and I have sometimes questionedwhether an expense claim is permissible or not.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.503264012280852e-05,
+                    "sentence": "It is a judgement call.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.269040800863877e-05,
+                    "sentence": "If you are open to scrutiny, you must be careful about your decision.I suspect that, like second home heating costs, many of us would be irked if we knew what MPs claim expenses for.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.815875243162736e-05,
+                    "sentence": "Especially after awarding themselves bumper pay rises whilst they claim NHS doctors' requests are too expensive to pay for, and most people have to cut essential expenditure to the bone.At any rate, Coyle clearly needs some moral guidance training - definitely at his own expense.Michael MannShrewsburyVictoria Atkins is unfit for purposeOur health secretary, Victoria Atkins, prefers tocall junior doctors “doctors in training”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.2111747208982706e-05,
+                    "sentence": "She clearly has no knowledge of the medic university course and training system, or any understanding of their, once qualified, senior status.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.6131477827439085e-05,
+                    "sentence": "She insults them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.138908065622672e-05,
+                    "sentence": "She is clearly unfit for purpose.Beryl WallLondonRishi Sunak must earn our approvalI readAndrew Grice's latest columnwith interest.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001776468416210264,
+                    "sentence": "Rishi Sunak needs to call his right-wingers' bluff, when they demand yet more extreme results for immigration.It was disgraceful that the income threshold was arbitrarily raised to £38,700, and of course the climbdown was inevitable with the understandable backlash to this draconian ruling.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00020229959045536816,
+                    "sentence": "So what if his right-wing factions are incensed?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014234852278605103,
+                    "sentence": "It appears that the prime minister wants approbation at every turn - but first, you have to earn it, with fair and equitable decisions.Judith A DanielsNorfolkNHS workers deserve better from our governmentSalia Halim wrote avery moving letteron Saturday 23rd December: “My husband died on a ward during Covid.”I am sorry for Salia's loss and I pay tribute to the work, dedication, and ultimate sacrifice of so many of our front-line medical staff like Mr Halim.The government seem to have forgotten how we stood on our doorsteps to applaud our NHS.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001256939140148461,
+                    "sentence": "We obeyed the appeals “to save our NHS”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014522718265652657,
+                    "sentence": "How utterly sad it now is to see the government single-handedly destroying the very fabric of the NHS.Thank you to Salia Halim for raising this desperately sad situation and shame on the hospital and trust where Mr Halim worked.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019929044356103987,
+                    "sentence": "I did not know him, but I applaud him.Gordon RonaldHerts",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 1.9423489116273474e-12
+                }
+            ],
+            "completely_generated_prob": 0.006576924694833349,
+            "class_probabilities": {
+                "human": 0.9934230753051666,
+                "ai": 0.006576924694833349,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9934230753051666,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006576924694833349,
+                    "human": 0.9934230753051666,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukMitchell/Forrest today raised thecosts charged to expenses by Labour MP Neil Coyle.I am no apologist for Coyle’s misjudgements, character or abilities, but if work requires you to undertake training, is it not a business expense?The moral argument is pertinent, and I have sometimes questionedwhether an expense claim is permissible or not.  It is a judgement call. If you are open to scrutiny, you must be careful about your decision.I suspect that, like second home heating costs, many of us would be irked if we knew what MPs claim expenses for. Especially after awarding themselves bumper pay rises whilst they claim NHS doctors’ requests are too expensive to pay for, and most people have to cut essential expenditure to the bone.At any rate, Coyle clearly needs some moral guidance training – definitely at his own expense.Michael MannShrewsburyVictoria Atkins is unfit for purposeOur health secretary, Victoria Atkins, prefers tocall junior doctors “doctors in training”.  She clearly has no knowledge of the medic university course and training system, or any understanding of their, once qualified, senior status. She insults them. She is clearly unfit for purpose.Beryl WallLondonRishi Sunak must earn our approvalI readAndrew Grice’s latest columnwith interest. Rishi Sunak needs to call his right-wingers’ bluff, when they demand yet more extreme results for immigration.It was disgraceful that the income threshold was arbitrarily raised to £38,700, and of course the climbdown was inevitable with the understandable backlash to this draconian ruling. So what if his right-wing factions are incensed? It appears that the prime minister wants approbation at every turn – but first, you have to earn it, with fair and equitable decisions.Judith A DanielsNorfolkNHS workers deserve better from our governmentSalia Halim wrote avery moving letteron Saturday 23rd December: “My husband died on a ward during Covid.”I am sorry for Salia’s loss and I pay tribute to the work, dedication, and ultimate sacrifice of so many of our front-line medical staff like Mr Halim.The government seem to have forgotten how we stood on our doorsteps to applaud our NHS. We obeyed the appeals “to save our NHS”. How utterly sad it now is to see the government single-handedly destroying the very fabric of the NHS.Thank you to Salia Halim for raising this desperately sad situation and shame on the hospital and trust where Mr Halim worked. I did not know him, but I applaud him.Gordon RonaldHerts"
+        }
+    ]
+}

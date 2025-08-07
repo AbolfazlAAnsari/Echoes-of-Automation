@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 3.2991731131915e-05,
+                    "sentence": "Michael Pelly's opinion piece concerning Justice Simon Steward (\"Why are so many of this judge's decisions reversed?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.37471574312076e-05,
+                    "sentence": "\", November 9) was an unfair and selective attack on Justice Steward's record.In support of the assertion that \"so many\" of Justice Steward's Federal Court decisions were being reversed, the article relied on three High Court judgments.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.087985533056781e-05,
+                    "sentence": "The following points should be noted.First, in each of the three cases referred to in the article, other Federal Court judges had agreed with Justice Steward.Indeed, in every Full Federal Court decision in which Justice Steward participated, he formed part of the majority.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.480922375980299e-05,
+                    "sentence": "It is not uncommon for judges at the highest levels to disagree, or approach the resolution of difficult legal questions in ways that reach different results, including in the area of taxation law.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.9144434190820903e-05,
+                    "sentence": "Thus in the first case cited by Mr Pelly, Addy, Justice Steward reached the same conclusion as Justice Derrington in the Full Federal Court.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.7258616935578175e-05,
+                    "sentence": "In the second case, Travelex, Justice Steward came to the same conclusion as both Justice Kenny in the Full Court and Justice Wigney at first instance, but disagreed with Justice Derrington who was in the minority.Second, there was nothing in the High Court's judgment in Travelex to support the statement by Mr Pelly that the High Court \"basically said the majority reasoning was nonsense\".Third, Mr Pelly overlooked a number of important judgments by Justice Steward in the Full Federal Court that have been upheld by the High Court, or in respect of which the High Court refused special leave to appeal.These cases include Harding (concerning tax residency of an individual); Resource Capital Fund IV (on taxation of foreign funds); Glencore (on transfer pricing); Burton (on foreign tax offsets); the twin decisions of Racing Queensland Board and Scone (concerning the superannuation guarantee); Alstom (on import duties); Bosanac (on asset betterment assessments) and Pharm-A-Care Laboratories (on customs duties).In addition to these leading tax cases, there are a number of migration cases in which Federal Court decisions of Justice Steward have been upheld by the High Court.Fourth, and in any event, the type of analysis employed by Mr Pelly is flawed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004621576052159071,
+                    "sentence": "Figures, let alone selective figures, as to dissents and appeal results are not an appropriate way to evaluate the work of the independent judiciary.David Bloom QC, Philip Solomon QC, David Batt QC, James Hmelnitsky SC, Kristen Deards SC, Eugene Wheelahan QC, Daniel McInerney QC",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.021601982568463345,
+            "class_probabilities": {
+                "human": 0.9783576840560043,
+                "ai": 0.021601982568463345,
+                "mixed": 4.0333375532255976e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9783576840560043,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.021601982568463345,
+                    "human": 0.9783576840560043,
+                    "mixed": 4.0333375532255976e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Michael Pelly's opinion piece concerning Justice Simon Steward (\"Why are so many of this judge's decisions reversed?\", November 9) was an unfair and selective attack on Justice Steward's record.In support of the assertion that \"so many\" of Justice Steward's Federal Court decisions were being reversed, the article relied on three High Court judgments. The following points should be noted.First, in each of the three cases referred to in the article, other Federal Court judges had agreed with Justice Steward.Indeed, in every Full Federal Court decision in which Justice Steward participated, he formed part of the majority. It is not uncommon for judges at the highest levels to disagree, or approach the resolution of difficult legal questions in ways that reach different results, including in the area of taxation law. Thus in the first case cited by Mr Pelly, Addy, Justice Steward reached the same conclusion as Justice Derrington in the Full Federal Court. In the second case, Travelex, Justice Steward came to the same conclusion as both Justice Kenny in the Full Court and Justice Wigney at first instance, but disagreed with Justice Derrington who was in the minority.Second, there was nothing in the High Court's judgment in Travelex to support the statement by Mr Pelly that the High Court \"basically said the majority reasoning was nonsense\".Third, Mr Pelly overlooked a number of important judgments by Justice Steward in the Full Federal Court that have been upheld by the High Court, or in respect of which the High Court refused special leave to appeal.These cases include Harding (concerning tax residency of an individual); Resource Capital Fund IV (on taxation of foreign funds); Glencore (on transfer pricing); Burton (on foreign tax offsets); the twin decisions of Racing Queensland Board and Scone (concerning the superannuation guarantee); Alstom (on import duties); Bosanac (on asset betterment assessments) and Pharm-A-Care Laboratories (on customs duties).In addition to these leading tax cases, there are a number of migration cases in which Federal Court decisions of Justice Steward have been upheld by the High Court.Fourth, and in any event, the type of analysis employed by Mr Pelly is flawed. Figures, let alone selective figures, as to dissents and appeal results are not an appropriate way to evaluate the work of the independent judiciary.David Bloom QC, Philip Solomon QC, David Batt QC, James Hmelnitsky SC, Kristen Deards SC, Eugene Wheelahan QC, Daniel McInerney QC"
+        }
+    ]
+}

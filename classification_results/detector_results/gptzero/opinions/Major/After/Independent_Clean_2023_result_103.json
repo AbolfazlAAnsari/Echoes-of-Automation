@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0011177327251061797,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016711584758013487,
+                    "sentence": "Please send your letters toletters@independent.co.ukIn theEUreferendum, a vote of 52 per cent to leave was accepted without demur by thegovernment- and we all know what good that has done us.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002064680214971304,
+                    "sentence": "However, the54 per cent of nurses who chose to reject the government's pay offeris questioned.A government spokesperson in the form of Tory MPCraig Mackinlaythinks that as 46 per cent consider the offer a fair one (questionable if they actually think that - more likely they voted through gritted teeth) the 54 per cent - by virtue of the consequences of further action - should reverse their decision and go with the minority.Not really much point in voting then, is there?Ian WingfieldDerbyshireWe could learn a thing or two from IrelandAsUS president Joe Biden's cavalcade leaves town, he leaves an Irish economy that is expected to be the best performing in Europe this year, predicted to grow at a conservative estimate of 4.9 per cent.Across the border, it's a different picture.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0031654539052397013,
+                    "sentence": "Recent months have seen forecast after forecast portending doom for the UK economy, with the IMFpredicting that the UK would be the worst-performing economy in the G7 this year.Major economists argue that the major cause of this is Brexit, with UK exports and imports 15 per cent lower in the long run than if the UK had remained in the EU.Ireland was repeatedly condemned as doomed during the Brexit negotiations if the UK received a poor deal from Brussels, with predictions that Ireland would be clamouring to leave the EU as soon as the UK left because of the level of exports to the UK.The reality however has been very different, as there has been a huge divergence between the Irish economy and the UK economy over recent decades.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.014319967478513718,
+                    "sentence": "In 2021, UK trade only accounted for 13 per cent of Irish exports, and 20 per cent of Irish imports, with Irish firms now increasingly switching from the UK to the EU for supplies.Following Brexit, Ireland stands as the transatlantic gateway to the European Union, with the economy continuing to flourish, capitalising on the country's access to a market of 450 million people and boasting a 12.5 per cent corporate tax rate and a highly educated workforce.The Irish example of a small and agile economy in the European Union, which has over the years broadened its focus away from a stagnating UK economy, may (dare I say it) prove an example to those us north of the border.Alex OrrEdinburghMigration is a natural part of lifeThe more we are estranged from the natural world, the less we are able to learn from the forces that surround us.Under a leaden sky filled with scores of newly arrived swallows and sand martins busily refuelling after their arduous migration from Africa, I delighted yesterday in the intricate song of the sedge warbler - minted in the far south, it modestly contributes a great deal to our native landscape.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.014456440694630146,
+                    "sentence": "In the background, I caught a burst of Cetti's warbler song.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01733025163412094,
+                    "sentence": "The Cetti's was more or less unknown in the UK forty years ago but, as a result of climate change, has adapted and become an integrated resident in some parts of southern England.Although the numbers of these - and other summer migrants - have massively reduced in my lifetime, they still arrive at about the same time each year and are rapidly integrated into the landscape that our resident species inhabit all year round.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0022430114913731813,
+                    "sentence": "And that is how the forces of nature work; adaptive, inventive and welcoming.And then I turn to read the pronouncements ofBraverman and the rabid right-wing pressthat seek to tarnish the image and reputation of human migrants, who are doing no more than seeking fresh opportunities as our avian partners do, and I wonder what it will take for them to attend to and learn from the natural world of which we are an integral part.Graham PowellCirencesterWhere are our morals?Visiting a Tesco superstore, I noticed the whisky shelves were virtually devoid of bottles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011601505102589726,
+                    "sentence": "I enquired of a member of staff if they had had bumper sales over Easter and I was told that they had suffered so many thefts that the company had decided to withdraw whisky from its shelves.What is happening to themorality of the general publicof this country that retailers have to act in this way?Jonathan LongstaffBuxted",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.039839419682113825,
+            "class_probabilities": {
+                "human": 0.9601605803178862,
+                "ai": 0.039839419682113825,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601605803178862,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039839419682113825,
+                    "human": 0.9601605803178862,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukIn theEUreferendum, a vote of 52 per cent to leave was accepted without demur by thegovernment– and we all know what good that has done us. However, the54 per cent of nurses who chose to reject the government’s pay offeris questioned.A government spokesperson in the form of Tory MPCraig Mackinlaythinks that as 46 per cent consider the offer a fair one (questionable if they actually think that – more likely they voted through gritted teeth) the 54 per cent – by virtue of the consequences of further action – should reverse their decision and go with the minority.Not really much point in voting then, is there?Ian WingfieldDerbyshireWe could learn a thing or two from IrelandAsUS president Joe Biden’s cavalcade leaves town, he leaves an Irish economy that is expected to be the best performing in Europe this year, predicted to grow at a conservative estimate of 4.9 per cent.Across the border, it’s a different picture. Recent months have seen forecast after forecast portending doom for the UK economy, with the IMFpredicting that the UK would be the worst-performing economy in the G7 this year.Major economists argue that the major cause of this is Brexit, with UK exports and imports 15 per cent lower in the long run than if the UK had remained in the EU.Ireland was repeatedly condemned as doomed during the Brexit negotiations if the UK received a poor deal from Brussels, with predictions that Ireland would be clamouring to leave the EU as soon as the UK left because of the level of exports to the UK.The reality however has been very different, as there has been a huge divergence between the Irish economy and the UK economy over recent decades. In 2021, UK trade only accounted for 13 per cent of Irish exports, and 20 per cent of Irish imports, with Irish firms now increasingly switching from the UK to the EU for supplies.Following Brexit, Ireland stands as the transatlantic gateway to the European Union, with the economy continuing to flourish, capitalising on the country’s access to a market of 450 million people and boasting a 12.5 per cent corporate tax rate and a highly educated workforce.The Irish example of a small and agile economy in the European Union, which has over the years broadened its focus away from a stagnating UK economy, may (dare I say it) prove an example to those us north of the border.Alex OrrEdinburghMigration is a natural part of lifeThe more we are estranged from the natural world, the less we are able to learn from the forces that surround us.Under a leaden sky filled with scores of newly arrived swallows and sand martins busily refuelling after their arduous migration from Africa, I delighted yesterday in the intricate song of the sedge warbler – minted in the far south, it modestly contributes a great deal to our native landscape. In the background, I caught a burst of Cetti’s warbler song. The Cetti’s was more or less unknown in the UK forty years ago but, as a result of climate change, has adapted and become an integrated resident in some parts of southern England.Although the numbers of these – and other summer migrants – have massively reduced in my lifetime, they still arrive at about the same time each year and are rapidly integrated into the landscape that our resident species inhabit all year round. And that is how the forces of nature work; adaptive, inventive and welcoming.And then I turn to read the pronouncements ofBraverman and the rabid right-wing pressthat seek to tarnish the image and reputation of human migrants, who are doing no more than seeking fresh opportunities as our avian partners do, and I wonder what it will take for them to attend to and learn from the natural world of which we are an integral part.Graham PowellCirencesterWhere are our morals?Visiting a Tesco superstore, I noticed the whisky shelves were virtually devoid of bottles. I enquired of a member of staff if they had had bumper sales over Easter and I was told that they had suffered so many thefts that the company had decided to withdraw whisky from its shelves.What is happening to themorality of the general publicof this country that retailers have to act in this way?Jonathan LongstaffBuxted"
+        }
+    ]
+}

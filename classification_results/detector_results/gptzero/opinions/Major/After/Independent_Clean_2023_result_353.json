@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 2.2989333956502378e-05,
+                    "sentence": "COMMENT: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.381017136736773e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukSo, just when you thought that things couldn't get any worse for the current government during the Christmas recess,even the home secretarycan't help putting his foot in it.His jokes about spiking his wife at a Downing Street reception are repugnant, to say the least.Coming just hours after announcing a crackdown on the crime makes it even worse.Even though Rishi Sunak was at a different reception with Tory MP Karl McCartney in Lincoln at the time, surely the prime minister must investigate such shocking behaviour coming from the same person who was caught on camera using foul language in the House of Commons.But then what do you expect from a government that has spawnedsuch chaos at the Home Office, courtesy of Priti Patel and Suella Braverman?Geoffrey BrookingHampshireDyson is full of hot airOh, what joy to receivewords of wisdom from Sir James Dyson, especially during the festive season.So, the vacuum cleaner tycoon thinks the government has failed to go for growth.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.73830812855158e-05,
+                    "sentence": "That is most certainly a bit rich from the man who zealously supported Brexit, which has to one extent or another hampered virtually every company, large or small, in the UK since we left the EU.Then I noticed how he thought Truss and Kwarteng, were doing the right thing!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.9760454961215146e-05,
+                    "sentence": "Good grief, if that is not dismissive of the majority of our citizens I don't know what is.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.1014055164414458e-05,
+                    "sentence": "Tax cuts are just great for the ultra-wealthy aren't they, Sir James?Robert BostonKentWhat has Nigel Farage done to receive so much support?I remember that it wasn't too long ago thatNigel Farage was considered a completely unserious figurein British politics.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.1136351278983057e-05,
+                    "sentence": "Flash forward to today, and there are serious murmurs of him becoming leader of the Conservative Party.It's a damning indictment of how far UK political discourse has fallen in the past six years that somebody like Farage could experience such an upsurge in support despite being, if anything, even more contentious than he was when he led Ukip.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.701822086237371e-05,
+                    "sentence": "And what has he done to deserve such support?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.258247594814748e-05,
+                    "sentence": "Finish fourth in a reality TV show?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0635780319571495,
+                    "sentence": "Are our standards really that low?And for those who think it will never happen: remember, there was a certain polarising figure in US politics who wasn't taken seriously, right up until he was.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.026317641139030457,
+                    "sentence": "We all remember what happened there.Stephen BloomCanterburyWhere has all the good Christmas television gone?When I was young, every Christmas we would buy the festive edition of the TV guide and circle all the films and programmes we were excited to watch that year.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04065507650375366,
+                    "sentence": "You'd be guaranteed at least a few Christmas specials, a live show with celebrities, and a whole host of good Christmas movies.Sadly that hasn't been the case for many years.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.034819480031728745,
+                    "sentence": "At this point, you're lucky if you get a Harry Potter film and a Doctor Who special.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06266000866889954,
+                    "sentence": "The rest is all reruns.Bring back the Christmas line-up!Molly BrookesLiverpool",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.056907381579152753,
+            "class_probabilities": {
+                "human": 0.9430926184208472,
+                "ai": 0.056907381579152753,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9430926184208472,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.056907381579152753,
+                    "human": 0.9430926184208472,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "COMMENT: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukSo, just when you thought that things couldn’t get any worse for the current government during the Christmas recess,even the home secretarycan’t help putting his foot in it.His jokes about spiking his wife at a Downing Street reception are repugnant, to say the least.Coming just hours after announcing a crackdown on the crime makes it even worse.Even though Rishi Sunak was at a different reception with Tory MP Karl McCartney in Lincoln at the time, surely the prime minister must investigate such shocking behaviour coming from the same person who was caught on camera using foul language in the House of Commons.But then what do you expect from a government that has spawnedsuch chaos at the Home Office, courtesy of Priti Patel and Suella Braverman?Geoffrey BrookingHampshireDyson is full of hot airOh, what joy to receivewords of wisdom from Sir James Dyson, especially during the festive season.So, the vacuum cleaner tycoon thinks the government has failed to go for growth. That is most certainly a bit rich from the man who zealously supported Brexit, which has to one extent or another hampered virtually every company, large or small, in the UK since we left the EU.Then I noticed how he thought Truss and Kwarteng, were doing the right thing! Good grief, if that is not dismissive of the majority of our citizens I don’t know what is. Tax cuts are just great for the ultra-wealthy aren’t they, Sir James?Robert BostonKentWhat has Nigel Farage done to receive so much support?I remember that it wasn’t too long ago thatNigel Farage was considered a completely unserious figurein British politics. Flash forward to today, and there are serious murmurs of him becoming leader of the Conservative Party.It’s a damning indictment of how far UK political discourse has fallen in the past six years that somebody like Farage could experience such an upsurge in support despite being, if anything, even more contentious than he was when he led Ukip. And what has he done to deserve such support? Finish fourth in a reality TV show? Are our standards really that low?And for those who think it will never happen: remember, there was a certain polarising figure in US politics who wasn’t taken seriously, right up until he was. We all remember what happened there.Stephen BloomCanterburyWhere has all the good Christmas television gone?When I was young, every Christmas we would buy the festive edition of the TV guide and circle all the films and programmes we were excited to watch that year. You’d be guaranteed at least a few Christmas specials, a live show with celebrities, and a whole host of good Christmas movies.Sadly that hasn’t been the case for many years. At this point, you’re lucky if you get a Harry Potter film and a Doctor Who special. The rest is all reruns.Bring back the Christmas line-up!Molly BrookesLiverpool"
+        }
+    ]
+}

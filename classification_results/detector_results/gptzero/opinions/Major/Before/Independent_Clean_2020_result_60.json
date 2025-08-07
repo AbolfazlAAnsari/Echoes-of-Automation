@@ -1,0 +1,100 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.23471218347549438,
+                    "sentence": "As you will see from ourletters page, some of our readers are unsure what to think about the announcement fromCarrie SymondsandBoris Johnsonthat they are expecting theirfirst child.Given the prime minister's lack of public appearances in the past couple of weeks, amid some big events like the flooding across the UK and the spread of coronavirus, there is some doubt about whether Johnson will be able to perform his job at the level they expect.They are valid concerns, but we must all also remember how difficult a time pregnancy can be for the expectant mother, and to a much lesser extent, the father.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.25446343421936035,
+                    "sentence": "That is without factoring in the high-pressure media spotlight the couple will be under and that fact that it will be Symonds' first child.There are many things that Johnson should be held accountable for, not least the response to news events over the last week, but both the prime minister and Symonds should be cut some slack in regards to the situation they now find themselves in.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.23224185407161713,
+                    "sentence": "David Cameron and Tony Blair and their families both welcomed new additions during theirrespective timein Downing Street and it likely wasn't easy.It proves it can be done, but whatever your opinion of the couple currently occupying No 10, it is obvious they will need space to figure out what works best for them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.2996099591255188,
+                    "sentence": "And they should get it.That does not mean we will stop holding Johnson to account for actions taken as part of his job, that is part of our remit.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.26831117272377014,
+                    "sentence": "The cynical may suggest that the timing of the announcement plays to Johnson's advantage, but whether that is true or not we must give the family some privacy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5466299057006836,
+                    "sentence": "The baby, after all, cannot choose the circumstances of their birth.Yours,Chris StevensonCo-editor, Voices",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 6,
+                    "completely_generated_prob": 1.474742012248794e-05
+                }
+            ],
+            "completely_generated_prob": 0.06633669730667867,
+            "class_probabilities": {
+                "human": 0.9336633026933213,
+                "ai": 0.06633669730667867,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9336633026933213,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.06633669730667867,
+                    "human": 0.9336633026933213,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "As you will see from ourletters page, some of our readers are unsure what to think about the announcement fromCarrie SymondsandBoris Johnsonthat they are expecting theirfirst child.Given the prime minister's lack of public appearances in the past couple of weeks, amid some big events like the flooding across the UK and the spread of coronavirus, there is some doubt about whether Johnson will be able to perform his job at the level they expect.They are valid concerns, but we must all also remember how difficult a time pregnancy can be for the expectant mother, and to a much lesser extent, the father. That is without factoring in the high-pressure media spotlight the couple will be under and that fact that it will be Symonds' first child.There are many things that Johnson should be held accountable for, not least the response to news events over the last week, but both the prime minister and Symonds should be cut some slack in regards to the situation they now find themselves in. David Cameron and Tony Blair and their families both welcomed new additions during theirrespective timein Downing Street and it likely wasn't easy.It proves it can be done, but whatever your opinion of the couple currently occupying No 10, it is obvious they will need space to figure out what works best for them. And they should get it.That does not mean we will stop holding Johnson to account for actions taken as part of his job, that is part of our remit. The cynical may suggest that the timing of the announcement plays to Johnson's advantage, but whether that is true or not we must give the family some privacy. The baby, after all, cannot choose the circumstances of their birth.Yours,Chris StevensonCo-editor, Voices"
+        }
+    ]
+}

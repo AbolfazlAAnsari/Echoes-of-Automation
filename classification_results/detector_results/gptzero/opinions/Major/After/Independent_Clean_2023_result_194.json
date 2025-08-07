@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 9.350126492790878e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.659888746682554e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukI see that the government are pursuing their dream of sendingmigrantsto Rwandathrough the Supreme Court.Well, there is plenty oftaxpayermoney lying around, so I suppose they have to spend a decent amount on anotherdoomed legal challenge, after having been told that yet another government-backed crusade is illegal.Robert “Compassionate” Jenrick has been doing the press rounds trying to convince one and all that this is the decent thing to do.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.304565173806623e-05,
+                    "sentence": "He's flailing a bit on thecost effectiveness of the plan, as it appears that it would be cheaper to move migrants into luxury hotels than it would be to remove them from the UK.But where he falls completely flat on his face is in his efforts to justify theremoval of child-friendly cartoonmurals from an aslyum reception centre.“Not age appropriate”is the new three-word slogan for the day.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.244043030776083e-05,
+                    "sentence": "He is being more than a little disingenuous, I think.Does Mr Jenrick approve the decor of all welcoming centres for migrants?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.562314906157553e-05,
+                    "sentence": "Does he insist that a room housing males be painted in a suitably masculine colour, or a pleasant shade of pastel for women?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011822683154605329,
+                    "sentence": "The point being that he didn't order the murals painted over because they were too juvenile for the migrant children who, whatever their age, would be happy of a familiar face (even if it did belong to a giant talking mouse).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017855841724667698,
+                    "sentence": "He ordered them to be painted over because he isas mean as his policies.You don't judge the compassion of a country by the murals painted on a wall, he states.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019153612083755434,
+                    "sentence": "But you do judge the compassion of the minister and his government who choose to remove any sign of humanity from a centre receiving vulnerable and frightened young human beings.Karen BrittainYorkA phony excuseAre we really expected to believe that none of the cybersecurity experts in MI5, MI6 and GCHQ, while tasked with keeping the country safe, are unable to openBoris Johnson's old phone?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000346846180036664,
+                    "sentence": "Maybe we need to ask some random teenagers who seem to be able to get into thePentagon's systemseasily enough, or better still we could askthe Chinese to help.Geoff ForwardStirlingKicking the can won't solve anythingSo,Sasha Simic in their recent letterto The Independent make it clear that teachers and other public service professionals should tell the government to “shove”their pay offerand presumably tough it out for a bigger slice of pie-in-the-sky?I'm assuming they have not just “done a Lizzie” and failed to cost this proposal; where would they suggest one might conjure up this extra money?We'd all like more and we'd all like to see ourpublic sectorworkers looked after properly but until we've found another magic money tree I fear attitudes like those expressed in their letter will do nothing but push everyone further into debt and extend theperiod of austerity.Facing facts is something we all must do and while we're all looking to blame the Tories, Brexit, Boris, Truss or Vladimir Putin, the reality is we're in the midst of a worldwide financial downturn.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013429226819425821,
+                    "sentence": "While suggesting workers tell the government to “shove it” may feel like “sticking it to the Tories” I believe we'll all just end up carrying the can and prolonging the financial agony for allsectors of the economy.Steve MackinderDenverWe can't have it both waysThe current long-term unsustainability ofthe public financeshighlights the need for an honest public debate about what sort social structure we want.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0030484155286103487,
+                    "sentence": "There is a clear choice between a high-tax regime paying for high-quality free services such as education, health, and social care, or a lower tax level coupled with part-payment at the point of delivery of these public services.No political party has the courage to confront the public with this stark choice for fear of being punished in the ballot box, but failure to do so reinforces thegeneral disillusionwith the democratic process and leaves the way open for extremists to thrive.Who has the guts to tell us that we can't have it both ways?John WilkinBury St Edmunds",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.006793164942272512,
+            "class_probabilities": {
+                "human": 0.9932068350577274,
+                "ai": 0.006793164942272512,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9932068350577274,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006793164942272512,
+                    "human": 0.9932068350577274,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW : Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI see that the government are pursuing their dream of sendingmigrantsto Rwandathrough the Supreme Court.Well, there is plenty oftaxpayermoney lying around, so I suppose they have to spend a decent amount on anotherdoomed legal challenge, after having been told that yet another government-backed crusade is illegal.Robert “Compassionate” Jenrick has been doing the press rounds trying to convince one and all that this is the decent thing to do. He’s flailing a bit on thecost effectiveness of the plan, as it appears that it would be cheaper to move migrants into luxury hotels than it would be to remove them from the UK.But where he falls completely flat on his face is in his efforts to justify theremoval of child-friendly cartoonmurals from an aslyum reception centre.“Not age appropriate”is the new three-word slogan for the day. He is being more than a little disingenuous, I think.Does Mr Jenrick approve the decor of all welcoming centres for migrants? Does he insist that a room housing males be painted in a suitably masculine colour, or a pleasant shade of pastel for women? The point being that he didn’t order the murals painted over because they were too juvenile for the migrant children who, whatever their age, would be happy of a familiar face (even if it did belong to a giant talking mouse). He ordered them to be painted over because he isas mean as his policies.You don’t judge the compassion of a country by the murals painted on a wall, he states. But you do judge the compassion of the minister and his government who choose to remove any sign of humanity from a centre receiving vulnerable and frightened young human beings.Karen BrittainYorkA phony excuseAre we really expected to believe that none of the cybersecurity experts in MI5, MI6 and GCHQ, while tasked with keeping the country safe, are unable to openBoris Johnson’s old phone? Maybe we need to ask some random teenagers who seem to be able to get into thePentagon’s systemseasily enough, or better still we could askthe Chinese to help.Geoff ForwardStirlingKicking the can won’t solve anythingSo,Sasha Simic in their recent letterto The Independent make it clear that teachers and other public service professionals should tell the government to “shove”their pay offerand presumably tough it out for a bigger slice of pie-in-the-sky?I’m assuming they have not just “done a Lizzie” and failed to cost this proposal; where would they suggest one might conjure up this extra money?We’d all like more and we’d all like to see ourpublic sectorworkers looked after properly but until we’ve found another magic money tree I fear attitudes like those expressed in their letter will do nothing but push everyone further into debt and extend theperiod of austerity.Facing facts is something we all must do and while we’re all looking to blame the Tories, Brexit, Boris, Truss or Vladimir Putin, the reality is we’re in the midst of a worldwide financial downturn. While suggesting workers tell the government to “shove it” may feel like “sticking it to the Tories” I believe we’ll all just end up carrying the can and prolonging the financial agony for allsectors of the economy.Steve MackinderDenverWe can’t have it both waysThe current long-term unsustainability ofthe public financeshighlights the need for an honest public debate about what sort social structure we want. There is a clear choice between a high-tax regime paying for high-quality free services such as education, health, and social care, or a lower tax level coupled with part-payment at the point of delivery of these public services.No political party has the courage to confront the public with this stark choice for fear of being punished in the ballot box, but failure to do so reinforces thegeneral disillusionwith the democratic process and leaves the way open for extremists to thrive.Who has the guts to tell us that we can’t have it both ways?John WilkinBury St Edmunds"
+        }
+    ]
+}

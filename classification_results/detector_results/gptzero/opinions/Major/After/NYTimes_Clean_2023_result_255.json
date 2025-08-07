@@ -1,0 +1,166 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0013811811804771423,
+                    "sentence": "On the eve of the Oct. 7 attacks, Amaney Jamal asked Gazans what they thought about Hamas, their economic circumstances and their hopes for long-term peace.The day before Hamas's horrific attacks in Israel, the Arab Barometer, one of the leading polling operations in the Arab world, was finishing upa survey of public opinion in Gaza.The result is a remarkable snapshot of how Gazans felt about Hamas and hoped the conflict with Israel would end.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013474696315824986,
+                    "sentence": "And what Gazans were thinking on Oct. 6 matters, now that they're all living with the brutal consequences of what Hamas did on Oct. 7.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010457758326083422,
+                    "sentence": "[You can listen to this episode of “The Ezra Klein Show” on theNYT Audio App,Apple,Spotify,Amazon Music,Googleorwherever you get your podcasts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001024218276143074,
+                    "sentence": "]So I invited on the show Amaney Jamal, the dean of the Princeton School of Public and International Affairs, and a co-founder and co-principal investigator of Arab Barometer, so she could walk me through the results.And, it's a complicated picture.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016445894725620747,
+                    "sentence": "The people of Gaza, like any other population, have diverse beliefs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.8628286719322205,
+                    "sentence": "But one thing is clear: Hamas was not very popular.As Jamal and her co-author write: “The Hamas-led government may be uninterested in peace, but it is empirically wrong for Israeli political leaders to accuse all Gazans of the same.”You can listen to our whole conversation by following “The Ezra Klein Show” on theNYT Audio App,Apple,Spotify,Googleorwherever you get your podcasts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.8950105309486389,
+                    "sentence": "View a list of book recommendations from our guestshere.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9405088424682617,
+                    "sentence": "(A full transcript of the episode is availablehere.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9430975317955017,
+                    "sentence": ")This episode of “The Ezra Klein Show” was produced by Emefa Agawu.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9282601475715637,
+                    "sentence": "Fact-checking by Michelle Harris, with Mary Marge Locker and Kate Sinclair.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9203846454620361,
+                    "sentence": "Our senior engineer is Jeff Geld.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9249508380889893,
+                    "sentence": "Our senior editor is Claire Gordon.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9027136564254761,
+                    "sentence": "The show's production team also includes Rollin Hu and Kristin Lin.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.7960506677627563,
+                    "sentence": "Original music by Isaac Jones.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9457187056541443,
+                    "sentence": "Audience strategy by Kristina Samulewski and Shannon Busta.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9532309174537659,
+                    "sentence": "The executive producer of New York Times Opinion Audio is Annie-Rose Strasser.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9596510529518127,
+                    "sentence": "Special thanks to Sonia Herrero.PHOTO: (PHOTOGRAPH BY Courtesy of Amaney Jamal FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 17,
+                    "completely_generated_prob": 0.04678931080709286
+                }
+            ],
+            "completely_generated_prob": 0.24256741654484168,
+            "class_probabilities": {
+                "human": 0.7573578272058379,
+                "ai": 0.24256741654484168,
+                "mixed": 7.475624932039773e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.7573578272058379,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.24256741654484168,
+                    "human": 0.7573578272058379,
+                    "mixed": 7.475624932039773e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "On the eve of the Oct. 7 attacks, Amaney Jamal asked Gazans what they thought about Hamas, their economic circumstances and their hopes for long-term peace.The day before Hamas’s horrific attacks in Israel, the Arab Barometer, one of the leading polling operations in the Arab world, was finishing upa survey of public opinion in Gaza.The result is a remarkable snapshot of how Gazans felt about Hamas and hoped the conflict with Israel would end. And what Gazans were thinking on Oct. 6 matters, now that they’re all living with the brutal consequences of what Hamas did on Oct. 7.[You can listen to this episode of “The Ezra Klein Show” on theNYT Audio App,Apple,Spotify,Amazon Music,Googleorwherever you get your podcasts.]So I invited on the show Amaney Jamal, the dean of the Princeton School of Public and International Affairs, and a co-founder and co-principal investigator of Arab Barometer, so she could walk me through the results.And, it’s a complicated picture. The people of Gaza, like any other population, have diverse beliefs. But one thing is clear: Hamas was not very popular.As Jamal and her co-author write: “The Hamas-led government may be uninterested in peace, but it is empirically wrong for Israeli political leaders to accuse all Gazans of the same.”You can listen to our whole conversation by following “The Ezra Klein Show” on theNYT Audio App,Apple,Spotify,Googleorwherever you get your podcasts. View a list of book recommendations from our guestshere.(A full transcript of the episode is availablehere.)This episode of “The Ezra Klein Show” was produced by Emefa Agawu. Fact-checking by Michelle Harris, with Mary Marge Locker and Kate Sinclair. Our senior engineer is Jeff Geld. Our senior editor is Claire Gordon. The show’s production team also includes Rollin Hu and Kristin Lin. Original music by Isaac Jones. Audience strategy by Kristina Samulewski and Shannon Busta. The executive producer of New York Times Opinion Audio is Annie-Rose Strasser. Special thanks to Sonia Herrero.PHOTO:  (PHOTOGRAPH BY Courtesy of Amaney Jamal FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

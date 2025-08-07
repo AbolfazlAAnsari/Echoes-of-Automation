@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 9.339384996565059e-05,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|78.62°It's time to bring rail service backIt's time to bring rail service backI am not surprised by the state Department of Transportation's plans to spend taxpayer money to study the question of “building more roads” between Puna and Hilo (Tribune-Herald, Oct. 10).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001264150778297335,
+                    "sentence": "Building more roads is great for engineers and contractors, but it does nothing to address underlying Big Island transportation problems.We don't need more roads and more traffic ᅳ more than 90% of those 22,000 cars traveling from Puna to Hilo carry only one passenger!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010549510625423864,
+                    "sentence": "We need new ideas to move people, rather than tons of metal around our island.One hundred years ago, we had efficient rail service between Puna, Hilo and Hamakua, but those services ended after World War II because of competition from automobiles, trucks and the devastating 1946 tsunami.Those railroad rights-of-way still exist in large part and could be used to restore efficient, low-cost transportation options for commuters and shoppers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001436683814972639,
+                    "sentence": "Rail lines are less expensive to build and maintain than are roads, and could greatly reduce the unsustainable environmental costs of single-passenger car use.Perhaps county fuel taxes need to be raised to encourage commuters to use public transit rather than private automobiles?If more asphalt is to be laid, use it to build bus-only, high-speed lanes along existing roads.The Hawaii County Transportation Commission is a toothless entity that mainly serves to regulate the taxi industry and to serve the wishes of road-building interests.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014303921489045024,
+                    "sentence": "Give this commission some powers to “think outside the box” and to support long-term planning for our transportation needs!John LockwoodVolcanoRidiculous comparison of Biden and TrumpI cannot let the letter from Allen Russell in Your Views (Oct. 13, “President Biden messed up U.S.”) pass without challenge lest I become complicit in this false equivalency.Mr.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02306823432445526,
+                    "sentence": "Russell seems to forget the many legal visitors denied entry into our country by former President Trump.The one classified file found in Biden's former vice president's office does not compare to the many boxes of files found in the bathroom of Trump's Florida home.Biden immediately relinquished that file, while Trump refused to return the files requested, as well as further concealing them.Trump became cozy with dictators like those in North Korea and Hungary, as well as Putin.These are only a few of Trump's egregious offenses against our democracy.Lois Margaret DrakeVolcanoRecord-setting University of Hawaii quarterback and 2007 Heisman Trophy finalist Colt Brennan has died, his father Terry Brennan told the Honolulu Star-Advertiser.Hilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008006691932678223,
+                    "sentence": "Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.034832192548772546,
+            "class_probabilities": {
+                "human": 0.9651678074512274,
+                "ai": 0.034832192548772546,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9651678074512274,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.034832192548772546,
+                    "human": 0.9651678074512274,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|78.62°It’s time to bring rail service backIt’s time to bring rail service backI am not surprised by the state Department of Transportation’s plans to spend taxpayer money to study the question of “building more roads” between Puna and Hilo (Tribune-Herald, Oct. 10). Building more roads is great for engineers and contractors, but it does nothing to address underlying Big Island transportation problems.We don’t need more roads and more traffic — more than 90% of those 22,000 cars traveling from Puna to Hilo carry only one passenger! We need new ideas to move people, rather than tons of metal around our island.One hundred years ago, we had efficient rail service between Puna, Hilo and Hamakua, but those services ended after World War II because of competition from automobiles, trucks and the devastating 1946 tsunami.Those railroad rights-of-way still exist in large part and could be used to restore efficient, low-cost transportation options for commuters and shoppers. Rail lines are less expensive to build and maintain than are roads, and could greatly reduce the unsustainable environmental costs of single-passenger car use.Perhaps county fuel taxes need to be raised to encourage commuters to use public transit rather than private automobiles?If more asphalt is to be laid, use it to build bus-only, high-speed lanes along existing roads.The Hawaii County Transportation Commission is a toothless entity that mainly serves to regulate the taxi industry and to serve the wishes of road-building interests. Give this commission some powers to “think outside the box” and to support long-term planning for our transportation needs!John LockwoodVolcanoRidiculous comparison of Biden and TrumpI cannot let the letter from Allen Russell in Your Views (Oct. 13, “President Biden messed up U.S.”) pass without challenge lest I become complicit in this false equivalency.Mr. Russell seems to forget the many legal visitors denied entry into our country by former President Trump.The one classified file found in Biden’s former vice president’s office does not compare to the many boxes of files found in the bathroom of Trump‘s Florida home.Biden immediately relinquished that file, while Trump refused to return the files requested, as well as further concealing them.Trump became cozy with dictators like those in North Korea and Hungary, as well as Putin.These are only a few of Trump’s egregious offenses against our democracy.Lois Margaret DrakeVolcanoRecord-setting University of Hawaii quarterback and 2007 Heisman Trophy finalist Colt Brennan has died, his father Terry Brennan told the Honolulu Star-Advertiser.Hilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track. Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017."
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 9.272611350752413e-05,
+                    "sentence": "Readers offer differing opinions about the move by many news organizations, including The Times.Readers offer differing opinions about the move by many news organizations, including The Times.To the Editor:Re “Why We're Capitalizing Black” (Inside The Times, July 5):The Times's decision to capitalize Black when referring to Americans of African lineage, while well meaning, was improvident, patronizing and wrong on many levels.First, it is an adjective describing a color and not a noun and thus inaccurate and imprecise as applied to a group of people.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.923778710188344e-05,
+                    "sentence": "Also, it reinforces the false narrative that people who are black comprise a monolithic entity when in fact they come from areas as diverse and far-flung as Ethiopia and the Andaman Islands.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.748500840738416e-05,
+                    "sentence": "“Black” is also not an ethnic or national group, like Igbo, Basque, Xhosa or American, which rightly are capitalized.Even such civil rights leaders as Jesse Jackson prefer African-American and object to capitalizing “black” because, he says, “Any term that emphasizes the color and not the heritage separates us from our heritage,” as victims of the slave trade.Imagine if we identified Indigenous Americans as “Reds” or Asian-Americans as “Yellows.” How does that sound?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011405671830289066,
+                    "sentence": "And how do we adequately explain the double standard of capitalizing “Black” but not “white”?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.466294093523175e-05,
+                    "sentence": "I am firmly convinced that changes in language arising from political motives are de facto suspect.Let's concentrate on correcting the many injustices committed against oppressed groups in our society and stop fiddling with language in ways that do little to help people and emphasize our differences rather than our common humanity.Anthony ManciniNew YorkThe writer is a professor of journalism at Brooklyn College.To the Editor:I have been a South Jersey-based freelance writer for nearly two decades.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.733122376725078e-05,
+                    "sentence": "Therefore, I am quite familiar with the Associated Press writing style.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.107041164999828e-05,
+                    "sentence": "Should the “B” in Black be capitalized?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.160758493933827e-05,
+                    "sentence": "Of course.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.870951569406316e-05,
+                    "sentence": "I look forward to purchasing the new A.P.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015778385568410158,
+                    "sentence": "stylebook, which willaffirm its decisionto capitalize Black.Capitalizing the “B” representing ethnicity has been a longstanding campaign for many Black print media journalists, particularly those who are affiliated with thePen &amp; Pencil Clubin Philadelphia.During his lifetime, W.E.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016161879757419229,
+                    "sentence": "Du Bois petitioned to get newspapers to capitalize the “N” in Negro.Words cannot express my elation for this journalistic milestone by The A.P.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014796621399000287,
+                    "sentence": "and The Times.Wayne E. WilliamsCamden, N.J.To the Editor:I applaud the decision to capitalize “Black” and encourage you to do the same for “white.”Capitalizing white would avoid the implication that “white” is the default and could help white readers to recognize that the color of their skin is not something that only Black or brown people need to think about.In addition, while white people may not share a common culture, we do share common privilege, which deserves calling out.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017779117915779352,
+                    "sentence": "For example, three of my four grandparents were speakers of different native languages and born into different religions, yet they, like I, were all white and therefore able to reap the benefits of being white in America.Adriana EisnerSan FranciscoPHOTO:   (PHOTOGRAPH BY The New York Times FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.009998674697021016,
+            "class_probabilities": {
+                "human": 0.990001325302979,
+                "ai": 0.009998674697021016,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.990001325302979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.009998674697021016,
+                    "human": 0.990001325302979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Readers offer differing opinions about the move by many news organizations, including The Times.Readers offer differing opinions about the move by many news organizations, including The Times.To the Editor:Re “Why We’re Capitalizing Black” (Inside The Times, July 5):The Times’s decision to capitalize Black when referring to Americans of African lineage, while well meaning, was improvident, patronizing and wrong on many levels.First, it is an adjective describing a color and not a noun and thus inaccurate and imprecise as applied to a group of people. Also, it reinforces the false narrative that people who are black comprise a monolithic entity when in fact they come from areas as diverse and far-flung as Ethiopia and the Andaman Islands. “Black” is also not an ethnic or national group, like Igbo, Basque, Xhosa or American, which rightly are capitalized.Even such civil rights leaders as Jesse Jackson prefer African-American and object to capitalizing “black” because, he says, “Any term that emphasizes the color and not the heritage separates us from our heritage,” as victims of the slave trade.Imagine if we identified Indigenous Americans as “Reds” or Asian-Americans as “Yellows.” How does that sound? And how do we adequately explain the double standard of capitalizing “Black” but not “white”? I am firmly convinced that changes in language arising from political motives are de facto suspect.Let’s concentrate on correcting the many injustices committed against oppressed groups in our society and stop fiddling with language in ways that do little to help people and emphasize our differences rather than our common humanity.Anthony ManciniNew YorkThe writer is a professor of journalism at Brooklyn College.To the Editor:I have been a South Jersey-based freelance writer for nearly two decades. Therefore, I am quite familiar with the Associated Press writing style. Should the “B” in Black be capitalized? Of course. I look forward to purchasing the new A.P. stylebook, which willaffirm its decisionto capitalize Black.Capitalizing the “B” representing ethnicity has been a longstanding campaign for many Black print media journalists, particularly those who are affiliated with thePen &amp; Pencil Clubin Philadelphia.During his lifetime, W.E.B. Du Bois petitioned to get newspapers to capitalize the “N” in Negro.Words cannot express my elation for this journalistic milestone by The A.P. and The Times.Wayne E. WilliamsCamden, N.J.To the Editor:I applaud the decision to capitalize “Black” and encourage you to do the same for “white.”Capitalizing white would avoid the implication that “white” is the default and could help white readers to recognize that the color of their skin is not something that only Black or brown people need to think about.In addition, while white people may not share a common culture, we do share common privilege, which deserves calling out. For example, three of my four grandparents were speakers of different native languages and born into different religions, yet they, like I, were all white and therefore able to reap the benefits of being white in America.Adriana EisnerSan FranciscoPHOTO:   (PHOTOGRAPH BY The New York Times FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00017187182675115764,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|78.62°On Thursday, a vehicle trolled around Harvard Square bearing screens with the names and likenesses of some of the Harvard University students who had signed on to a public statement blaming Israel for the brutal attacks on civilian families within its own borders.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011069761239923537,
+                    "sentence": "Earlier, Bill Ackman, the billionaire CEO of Pershing Square Capital Management, had said that other CEOs in his sector had asked for the names of the students, lest one of them “inadvertently hire one of them.”Tempting as it surely was for those infuriated by the students' naivete, we don't condone any of that public shaming of young people who are still formulating mature political opinions and the expression thereof, and who may not have even fully known what was going out in their name on social media.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010076230682898313,
+                    "sentence": "It's un-American.But when it comes to administrators, that's a different matter.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011153127707075328,
+                    "sentence": "Last week, universities as a group overwhelmingly failed to condemn the unspeakable Hamas attacks, instead mostly offering mealy-mouthed statements that did not so much support their own Jewish students in their hour of extraordinary need as anger and upset them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012395778321661055,
+                    "sentence": "Very few administrators intuited the echoes of the Holocaust pouring out of tablets and phones on their campuses; or, if they did, they were scared to say so.Most would have been better saying nothing, although college presidents now feel pressure to make statements about everything in the outside world, lest they be criticized for silence.For the last few years, colleges have been able to issue anodyne progressive statements designed not so much to lead as to follow, and Israel has been part of a crude post-colonialist narrative that has taken hold on many campuses and become the only acceptable point of view.Within the last few days, those in administration buildings, as well as those in residence halls, have discovered that, in times like these, when figures they have deemed sympathetic are slaughtering civilians in their own homes, there are consequences for merely parroting that reductive line of thinking.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015860129497013986,
+                    "sentence": "Especially when many of the dead were themselves left-wingers, highly critical of the Israeli government.Yes, donors got upset.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012946303468197584,
+                    "sentence": "Yes, buildings might not now get built.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014118215767666698,
+                    "sentence": "Yes, people who make ill-timed statements and throw them to the wind might find it has quickly blown them back in their faces.Yes, employers might think twice about whether a job candidate shares their values.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008283850736916065,
+                    "sentence": "Free speech goes both ways.And last week, some well-paying law firms and Wall Street entities woke up, said they had their limits and that blaming Israel for the slaughter of its own innocents exceeded them.They have that right and students now should be protected from harm but given a chance to absorb that painful lesson.ᅳChicago Tribune Editorial Board/TNSHilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004563555587083101,
+                    "sentence": "Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017.NEW YORK ᅳ Lou Piniella was back in uniform Saturday, wearing pinstripes and the number 14 for Old-Timers' Day at Yankee Stadium.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004225678276270628,
+                    "sentence": "Piniella, who turns 81 next week, earned his fame in the Bronx as a two-time World Series champion but spent much of his managing career in a feisty rivalry with the Y",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.024461651786716186,
+            "class_probabilities": {
+                "human": 0.9754981327244504,
+                "ai": 0.024461651786716186,
+                "mixed": 4.0215488833363626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9754981327244504,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024461651786716186,
+                    "human": 0.9754981327244504,
+                    "mixed": 4.0215488833363626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|78.62°On Thursday, a vehicle trolled around Harvard Square bearing screens with the names and likenesses of some of the Harvard University students who had signed on to a public statement blaming Israel for the brutal attacks on civilian families within its own borders. Earlier, Bill Ackman, the billionaire CEO of Pershing Square Capital Management, had said that other CEOs in his sector had asked for the names of the students, lest one of them “inadvertently hire one of them.”Tempting as it surely was for those infuriated by the students’ naivete, we don’t condone any of that public shaming of young people who are still formulating mature political opinions and the expression thereof, and who may not have even fully known what was going out in their name on social media. It’s un-American.But when it comes to administrators, that’s a different matter. Last week, universities as a group overwhelmingly failed to condemn the unspeakable Hamas attacks, instead mostly offering mealy-mouthed statements that did not so much support their own Jewish students in their hour of extraordinary need as anger and upset them. Very few administrators intuited the echoes of the Holocaust pouring out of tablets and phones on their campuses; or, if they did, they were scared to say so.Most would have been better saying nothing, although college presidents now feel pressure to make statements about everything in the outside world, lest they be criticized for silence.For the last few years, colleges have been able to issue anodyne progressive statements designed not so much to lead as to follow, and Israel has been part of a crude post-colonialist narrative that has taken hold on many campuses and become the only acceptable point of view.Within the last few days, those in administration buildings, as well as those in residence halls, have discovered that, in times like these, when figures they have deemed sympathetic are slaughtering civilians in their own homes, there are consequences for merely parroting that reductive line of thinking. Especially when many of the dead were themselves left-wingers, highly critical of the Israeli government.Yes, donors got upset. Yes, buildings might not now get built. Yes, people who make ill-timed statements and throw them to the wind might find it has quickly blown them back in their faces.Yes, employers might think twice about whether a job candidate shares their values. Free speech goes both ways.And last week, some well-paying law firms and Wall Street entities woke up, said they had their limits and that blaming Israel for the slaughter of its own innocents exceeded them.They have that right and students now should be protected from harm but given a chance to absorb that painful lesson.—Chicago Tribune Editorial Board/TNSHilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track. Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017.NEW YORK — Lou Piniella was back in uniform Saturday, wearing pinstripes and the number 14 for Old-Timers’ Day at Yankee Stadium. Piniella, who turns 81 next week, earned his fame in the Bronx as a two-time World Series champion but spent much of his managing career in a feisty rivalry with the Y"
+        }
+    ]
+}

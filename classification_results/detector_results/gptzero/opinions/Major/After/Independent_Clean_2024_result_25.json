@@ -1,0 +1,154 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 6.15871322224848e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.621254240395501e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukIn recent weeks, the crescendo of voices debating apossible third world warwithin the next few years is getting louder.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.0868969740113243e-05,
+                    "sentence": "Our leaders, would-be leaders and ranking and ex-military are advocating an increase indefence spending, a “citizens army”, and increasing munitions production, all in expectation of a war against China, Russia, North Korea or Iran.Much pride is being taken in the single nuclear submarine the UK has floating somewhere,ready to strike.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.79356453474611e-05,
+                    "sentence": "There seems to be a complete amnesia of all of the recent wars which have been lost by the Western coalition.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.503383337985724e-05,
+                    "sentence": "Vietnam, Iraq, Afghanistan, Syria, Libya - with trillions spent on human suffering and destruction.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.055087917251512e-05,
+                    "sentence": "We are all getting sucked into this vortex over which we will rapidly lose control.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.388013571267948e-05,
+                    "sentence": "Or have we simply watched too many Netflix movies, glorifying human bravery?Among all of this chatter, I do not hear a single, loud voice advocatingnegotiations and compromise- the only way for this world to survive.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.56133852316998e-05,
+                    "sentence": "The world's political tectonic plates are rapidly shifting away from Western dominance to a world where others also demand to be allowed to live according to their own beliefs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.658106576651335e-05,
+                    "sentence": "All civilisations and societies have evolved through a process of evolution.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.165104761952534e-05,
+                    "sentence": "Just as they have declined and disappeared.The irony is that such a war will most likely be survived by those who advocate it, not by those who get sent to fight it.Gunter StraubLondonThe real traitors are in politicsThere are a number of recent articles along the lines of “Who won The Traitors?”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.460269262082875e-05,
+                    "sentence": "Really, I don't care about reality TV.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.633352652192116e-05,
+                    "sentence": "It just seems so fake to me.I am much more interested in real traitors, backstabbers and cheats - which is why I occasionally tune into televised parliament.Why watch reality TV when there is much better-quality entertainment available in the real world - and there are no ads, to boot?Dennis FitzgeraldAddress suppliedFaker than a Barbie dollPeople who claim not to understand the big fuss around theOscar snubs of Margot Robbie and Greta Gerwigseem somewhat disingenuous to me.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002867970906663686,
+                    "sentence": "Surely you all understand why it's a bad look for the director and lead actress to not receive a nomination for their film about feminism (ham-fisted thought it may be), while the leading male actor does?I'm not even necessarily saying the outrage is warranted but pretending not to understand it just seems like deliberate contrarianism.Stephen BloomCanterburyArt imitates lifeAs a classic boat enthusiast, I was persuaded to watch the last episode of The Traitors having been told there was a cameo appearance by Provident, one of our more well-known historic boats.What a shock to find that the way to riches and self-advancement is through arrogance, lying and abusing the trust of others.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00028747745091095567,
+                    "sentence": "Not a good example to be setting our youngsters.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003500873572193086,
+                    "sentence": "Imagine if we ever had a government, or indeed a prime minister, who behaved like that!Peter WoodBirmingham",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 15,
+                    "completely_generated_prob": 2.5938383721896624e-13
+                }
+            ],
+            "completely_generated_prob": 0.006602786460384316,
+            "class_probabilities": {
+                "human": 0.9933972135396156,
+                "ai": 0.006602786460384316,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933972135396156,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006602786460384316,
+                    "human": 0.9933972135396156,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukIn recent weeks, the crescendo of voices debating apossible third world warwithin the next few years is getting louder. Our leaders, would-be leaders and ranking and ex-military are advocating an increase indefence spending, a “citizens army”, and increasing munitions production, all in expectation of a war against China, Russia, North Korea or Iran.Much pride is being taken in the single nuclear submarine the UK has floating somewhere,ready to strike.  There seems to be a complete amnesia of all of the recent wars which have been lost by the Western coalition. Vietnam, Iraq, Afghanistan, Syria, Libya – with trillions spent on human suffering and destruction. We are all getting sucked into this vortex over which we will rapidly lose control. Or have we simply watched too many Netflix movies, glorifying human bravery?Among all of this chatter, I do not hear a single, loud voice advocatingnegotiations and compromise– the only way for this world to survive. The world’s political tectonic plates are rapidly shifting away from Western dominance to a world where others also demand to be allowed to live according to their own beliefs. All civilisations and societies have evolved through a process of evolution. Just as they have declined and disappeared.The irony is that such a war will most likely be survived by those who advocate it, not by those who get sent to fight it.Gunter StraubLondonThe real traitors are in politicsThere are a number of recent articles along the lines of “Who won The Traitors?”. Really, I don’t care about reality TV. It just seems so fake to me.I am much more interested in real traitors, backstabbers and cheats – which is why I occasionally tune into televised parliament.Why watch reality TV when there is much better-quality entertainment available in the real world – and there are no ads, to boot?Dennis FitzgeraldAddress suppliedFaker than a Barbie dollPeople who claim not to understand the big fuss around theOscar snubs of Margot Robbie and Greta Gerwigseem somewhat disingenuous to me. Surely you all understand why it’s a bad look for the director and lead actress to not receive a nomination for their film about feminism (ham-fisted thought it may be), while the leading male actor does?I’m not even necessarily saying the outrage is warranted but pretending not to understand it just seems like deliberate contrarianism.Stephen BloomCanterburyArt imitates lifeAs a classic boat enthusiast, I was persuaded to watch the last episode of The Traitors having been told there was a cameo appearance by Provident, one of our more well-known historic boats.What a shock to find that the way to riches and self-advancement is through arrogance, lying and abusing the trust of others. Not a good example to be setting our youngsters. Imagine if we ever had a government, or indeed a prime minister, who behaved like that!Peter WoodBirmingham"
+        }
+    ]
+}

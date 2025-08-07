@@ -1,0 +1,171 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 8.013496699277312e-05,
+                    "sentence": "To the editor,",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.532420568168163e-05,
+                    "sentence": "As both a longtime MIT staff member and longtime Cambridge resident, I am dismayed at the news that MIT's emergency closed-campus policy, which was instituted for the pandemic, is now slated to be permanent.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.29091077321209e-05,
+                    "sentence": "My work at MIT focuses on community engagement and social impact.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.996146061690524e-05,
+                    "sentence": "The new policy of keeping the broader community out of the campus is antithetical to much that this work stands for.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.505846926709637e-05,
+                    "sentence": "Having recently attended a meeting of MIT faculty and instructors where the plan was revealed, I believe that I'm far from alone in feeling this way.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.7601562982890755e-05,
+                    "sentence": "As a Cambridge resident, I'm also disturbed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.298606553580612e-05,
+                    "sentence": "MIT owns and controls an enormous amount of land and property in the city that I call home.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.747190152760595e-05,
+                    "sentence": "One benefit the Institute gave to the city and other local communities was access to the central portion of campus ᅳ an inspiration for local young people and an educational resource for many.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.63425525999628e-05,
+                    "sentence": "If this access is removed, then we have ourselves an ivory tower.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.804840035736561e-05,
+                    "sentence": "I appeal to the Institute to allow a real process of MIT and local input into this decision and to be open to reverting to an open campus.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.556776785757393e-05,
+                    "sentence": "Sincerely,",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014867635036353022,
+                    "sentence": "Alison HyndAssistant Dean, Priscilla King Gray Public Service Center",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 1,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 2,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 5,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 8,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 9,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 10,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 11,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                }
+            ],
+            "completely_generated_prob": 0.006576924694833349,
+            "class_probabilities": {
+                "human": 0.9934230753051666,
+                "ai": 0.006576924694833349,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9934230753051666,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006576924694833349,
+                    "human": 0.9934230753051666,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "To the editor,\nAs both a longtime MIT staff member and longtime Cambridge resident, I am dismayed at the news that MIT’s emergency closed-campus policy, which was instituted for the pandemic, is now slated to be permanent.\nMy work at MIT focuses on community engagement and social impact. The new policy of keeping the broader community out of the campus is antithetical to much that this work stands for. Having recently attended a meeting of MIT faculty and instructors where the plan was revealed, I believe that I’m far from alone in feeling this way.\nAs a Cambridge resident, I’m also disturbed. MIT owns and controls an enormous amount of land and property in the city that I call home. One benefit the Institute gave to the city and other local communities was access to the central portion of campus — an inspiration for local young people and an educational resource for many.\nIf this access is removed, then we have ourselves an ivory tower.\nI appeal to the Institute to allow a real process of MIT and local input into this decision and to be open to reverting to an open campus.\nSincerely,\nAlison HyndAssistant Dean, Priscilla King Gray Public Service Center"
+        }
+    ]
+}

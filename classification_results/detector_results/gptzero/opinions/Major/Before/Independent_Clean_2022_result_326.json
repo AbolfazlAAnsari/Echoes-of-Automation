@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.000277611892670393,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001975878403754905,
+                    "sentence": "Please send your letters toletters@independent.co.ukI readStanley Johnson's columnwith interest and even though I'm no devotee of this programme, have annoyingly found myself tuning in to seeMatt Hancockperform in the latest bushtucker trial.Yes, he appears to inhabit a “can do” attitude with these ghastly trials, confronted by every insect and creature known to the jungle.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018160068430006504,
+                    "sentence": "But I am not convinced he will win over hearts and minds in the country, because to desert his constituency does not really correlate to a responsible attitude to the very important role he is paid to do.I can understand why he wants “forgiveness” for breaking the very rules he set in the pandemic, butwith the very sensitive Covid inquiry ongoing, is this the time to go large in the jungle and get handsomely paid for it?I don't think so.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016664466238580644,
+                    "sentence": "Less public altruistic actions nearer to home in this dire cost of living crisis would float my boat more.But it is also time that the public stops voting for him, because he has shown that he can succeed in the trials.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00034099278855137527,
+                    "sentence": "We should let him take a back seat, which might not be entirely to his liking.Judith A DanielsGreat YarmouthCrypto crashI have struggled for years to understand cryptocurrencies.Following the latest collapse of FTX, I've come to the conclusion that they are no more than digital Ponzi schemes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00033324334071949124,
+                    "sentence": "Am I wrong?Mark OgilvieHorncastleLeaving your morality at homeHow sad that world football sold out toQatar.The world's most respected players will gather in Qatar to dispute who is the best player and national team.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01382454577833414,
+                    "sentence": "It's a pity that it is being played in a country that hasa total disregard for human rights.Those attending, playing and officiating in Qatar should think about the role they are playing in the continued mistreatment of women and minority groups in the country.Keith PooleBasingstokeA message for Joe LycettJoe Lycett, please do notdestroy your cash if David Beckhamdoes not do the right thing!Loads of charities could use it right now.Joy Haskell-CooperAddress suppliedHospitals don't have to be 'lobster traps'Your article rightly points outthe terrible challenges many are facing in getting safely dischargedfrom hospital and the issues that are exacerbated through long hospital stays.Technology is not a panacea, and will not work for all.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012523666024208069,
+                    "sentence": "But for many patients, remote monitoring technologies backed by clinicians, care workers and nurses - so-called virtual wards - offer a much more effective alternative to safely discharge patients back into their homes, where recovery is often faster and safer.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereFor example, we've run successful remote monitoring for patients in social housing in the Black Country, supported byNHSDigital and the Black Country Integrated Care System.Now we're helping one of the major trusts to enhance their virtual ward services, and have also been involved in improving ambulance connectivity, helping reduce unnecessary conveyance to hospital and supporting better handover - further reducing pressure on beds.Digital technologies are here now that can help the NHS and social care alleviate some of these challenges.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03228326141834259,
+                    "sentence": "We should be focussing much more on driving successful adoption with the brilliant people who work in the NHS and social care.Robert FranksManaging director of WM5G",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.02446263556356353,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.02446263556356353,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.02446263556356353,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI readStanley Johnson’s columnwith interest and even though I’m no devotee of this programme, have annoyingly found myself tuning in to seeMatt Hancockperform in the latest bushtucker trial.Yes, he appears to inhabit a “can do” attitude with these ghastly trials, confronted by every insect and creature known to the jungle. But I am not convinced he will win over hearts and minds in the country, because to desert his constituency does not really correlate to a responsible attitude to the very important role he is paid to do.I can understand why he wants “forgiveness” for breaking the very rules he set in the pandemic, butwith the very sensitive Covid inquiry ongoing, is this the time to go large in the jungle and get handsomely paid for it?I don’t think so. Less public altruistic actions nearer to home in this dire cost of living crisis would float my boat more.But it is also time that the public stops voting for him, because he has shown that he can succeed in the trials. We should let him take a back seat, which might not be entirely to his liking.Judith A DanielsGreat YarmouthCrypto crashI have struggled for years to understand cryptocurrencies.Following the latest collapse of FTX, I’ve come to the conclusion that they are no more than digital Ponzi schemes. Am I wrong?Mark OgilvieHorncastleLeaving your morality at homeHow sad that world football sold out toQatar.The world’s most respected players will gather in Qatar to dispute who is the best player and national team. It’s a pity that it is being played in a country that hasa total disregard for human rights.Those attending, playing and officiating in Qatar should think about the role they are playing in the continued mistreatment of women and minority groups in the country.Keith PooleBasingstokeA message for Joe LycettJoe Lycett, please do notdestroy your cash if David Beckhamdoes not do the right thing!Loads of charities could use it right now.Joy Haskell-CooperAddress suppliedHospitals don’t have to be ‘lobster traps’Your article rightly points outthe terrible challenges many are facing in getting safely dischargedfrom hospital and the issues that are exacerbated through long hospital stays.Technology is not a panacea, and will not work for all. But for many patients, remote monitoring technologies backed by clinicians, care workers and nurses – so-called virtual wards – offer a much more effective alternative to safely discharge patients back into their homes, where recovery is often faster and safer.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereFor example, we’ve run successful remote monitoring for patients in social housing in the Black Country, supported byNHSDigital and the Black Country Integrated Care System.Now we’re helping one of the major trusts to enhance their virtual ward services, and have also been involved in improving ambulance connectivity, helping reduce unnecessary conveyance to hospital and supporting better handover – further reducing pressure on beds.Digital technologies are here now that can help the NHS and social care alleviate some of these challenges. We should be focussing much more on driving successful adoption with the brilliant people who work in the NHS and social care.Robert FranksManaging director of WM5G"
+        }
+    ]
+}

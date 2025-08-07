@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 9.590881381882355e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001116961648222059,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe latest round of mud-slinging by the two main parties highlights exactly why the political system and those parties are not only unfit for purpose but harmful to us.The issue of child sex abuse is not about politics but about the victims.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.831180457491428e-05,
+                    "sentence": "And if they can't even come together on such a serious issue when both have over 30 years of failure between them is beyond despicable.We certainly do have “gutter politics” because the parties are made up of individuals driven by personal ambition and their own self-importance.Richard WhitesideHalifaxVoting rights - and wrongsI was more than pleased to read the article byJohn Rentoul about voter ID.When this daft idea first floated my initial thoughts after “we do not have voter fraud” were centred around the obvious, that old people will be adversely affected.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.218581984285265e-05,
+                    "sentence": "Just consider: most are not working so they will not attend a polling station before breakfast nor after work.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.874446211848408e-05,
+                    "sentence": "They largely turn up to vote before or after lunch.The extra checks will cause queues to appear and you don't need to be a genius to work out that old people cope the least well among voters when made to stand around.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011847644054796547,
+                    "sentence": "Then we have the obvious British problem that somewhere in the country the weather could turn: nobody wants to stand in the rain!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008087937603704631,
+                    "sentence": "Last but not least, I worked with the public for over 30 years and guess what demographic mislaid their purses, wallets, cheque books (remember them) the most?The Conservative government will regret this stupid solution to a non-problem which as Rentoul says absolutely stinks of someone finding a way to justify their job.Robert BostonKentJohn Rentoul's acid assessment of the ill-considered scheme requiring photo ID at the polls echoed the feelings of many who suspect this wheeze has a darker side.Having acted as a polling clerk in previous elections I'm painfully aware that checking the voters' credentials at this election is going to be time-consuming, difficult, and potentially confrontational and while popping in to vote on the way to and from work is the traditional opportunity for many, I would guess the inevitable queues at these times will be both off-putting and a deterrent for many busy people.Clearly an element of our dwindling and politically half-hearted electorate will turn up at the polling stations ill-equipped or oblivious to the security requirements and whether they'll also bother going home to retrieve the necessary documentation and then scooting back to their polling station again is debatable.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015793507918715477,
+                    "sentence": "I wouldn't!Steve MackinderDenverScotland and the SNPI am saddened by the recent events regarding the SNP.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0021137960720807314,
+                    "sentence": "I have lived in Scotland for 40 years now and witnessed the rise in support for independence.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001580726238898933,
+                    "sentence": "I was born in England 75 years ago so I have experience of both sides of the border.I cannot understand why Westminster/England are so against Scottish independence.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014868680154904723,
+                    "sentence": "If Scotland had achieved independence in 2014 we would still be in the EU, a promise made to Scotland in that election campaign.Susan LamminDumfriesPublic worksAndrew Grice saysthat Kier Starmer needs to articulate a clear vision that resonates with voters.I suggest he keeps it simple and promises to focus on providing “Public Services that Work”.The evidence of failed provision of these everyday necessities is all around us in health, transport, energy, education, the environment etc, and everyone is experiencing it.John WilkinBury St Edmunds",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.0067547210801619404,
+            "class_probabilities": {
+                "human": 0.9932068566846816,
+                "ai": 0.0067547210801619404,
+                "mixed": 3.842223515648058e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9932068566846816,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0067547210801619404,
+                    "human": 0.9932068566846816,
+                    "mixed": 3.842223515648058e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThe latest round of mud-slinging by the two main parties highlights exactly why the political system and those parties are not only unfit for purpose but harmful to us.The issue of child sex abuse is not about politics but about the victims. And if they can't even come together on such a serious issue when both have over 30 years of failure between them is beyond despicable.We certainly do have “gutter politics” because the parties are made up of individuals driven by personal ambition and their own self-importance.Richard WhitesideHalifaxVoting rights – and wrongsI was more than pleased to read the article byJohn Rentoul about voter ID.When this daft idea first floated my initial thoughts after “we do not have voter fraud” were centred around the obvious, that old people will be adversely affected. Just consider: most are not working so they will not attend a polling station before breakfast nor after work. They largely turn up to vote before or after lunch.The extra checks will cause queues to appear and you don’t need to be a genius to work out that old people cope the least well among voters when made to stand around. Then we have the obvious British problem that somewhere in the country the weather could turn: nobody wants to stand in the rain! Last but not least, I worked with the public for over 30 years and guess what demographic mislaid their purses, wallets, cheque books (remember them) the most?The Conservative government will regret this stupid solution to a non-problem which as Rentoul says absolutely stinks of someone finding a way to justify their job.Robert BostonKentJohn Rentoul's acid assessment of the ill-considered scheme requiring photo ID at the polls echoed the feelings of many who suspect this wheeze has a darker side.Having acted as a polling clerk in previous elections I'm painfully aware that checking the voters’ credentials at this election is going to be time-consuming, difficult, and potentially confrontational and while popping in to vote on the way to and from work is the traditional opportunity for many, I would guess the inevitable queues at these times will be both off-putting and a deterrent for many busy people.Clearly an element of our dwindling and politically half-hearted electorate will turn up at the polling stations ill-equipped or oblivious to the security requirements and whether they'll also bother going home to retrieve the necessary documentation and then scooting back to their polling station again is debatable. I wouldn't!Steve MackinderDenverScotland and the SNPI am saddened by the recent events regarding the SNP. I have lived in Scotland for 40 years now and witnessed the rise in support for independence. I was born in England 75 years ago so I have experience of both sides of the border.I cannot understand why Westminster/England are so against Scottish independence. If Scotland had achieved independence in 2014 we would still be in the EU, a promise made to Scotland in that election campaign.Susan LamminDumfriesPublic worksAndrew Grice saysthat Kier Starmer needs to articulate a clear vision that resonates with voters.I suggest he keeps it simple and promises to focus on providing “Public Services that Work”.The evidence of failed provision of these everyday necessities is all around us in health, transport, energy, education, the environment etc, and everyone is experiencing it.John WilkinBury St Edmunds"
+        }
+    ]
+}

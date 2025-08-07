@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00017952108464669436,
+                    "sentence": "A note from the editor on a special Sunday Opinion section.A note from the editor on a special Sunday Opinion section.The United States is in the midst of a crisis.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016104760288726538,
+                    "sentence": "More than 100,000 people a year are dying from drug overdoses.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001384211063850671,
+                    "sentence": "In New York Cityabout seven people lose their lives to opioids each day, according to recent reporting in The Times.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010782050958368927,
+                    "sentence": "And this is after more than half a century of America's so-called war on drugs.But as Jeneen Interlandi, a member of the Times editorial board, wrote in a special edition of Sunday Opinion, “there is a path out of this quagmire.”Jeneen reported for one year on what that path might look like.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00012427775072865188,
+                    "sentence": "She spent that time with OnPoint, a nonprofit group working in New York City's Harlem neighborhood, trying to reduce deaths by reducing harm: giving people access to lifesaving drugs that can reverse overdoses, providing clean needles to curb the spread of diseases, helping drug users ᅳ many of whom live on the street ᅳ get access to clothing, showers and food.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001851544511737302,
+                    "sentence": "And most radically of all, allowing people to use illegal drugs under supervision in what's known as a safe consumption site.This reporting has yieldeda remarkable piece of long-form opinion journalism, one that showcases the trials and the hopes of this revolutionary approach to America's overdose crisis, as OnPoint tries to employ love and community rather than the police, shame and jails.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00029540533432736993,
+                    "sentence": "Jeneen's essay allows you to see inside this work and into the world of severe drug addiction.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006459033465944231,
+                    "sentence": "We believe this story is so important that we devoted nearly all of the Feb. 26 Sunday Opinion print section to it, along with a series of stunning photographs by Donavon Smallwood, a photographer who grew up in the same part of Harlem where OnPoint works.Along with Jeneen's essay isan editorialarguing that politicians and policymakers need to take lessons from OnPoint and rethink the drug war, to invest in treatment rather than just prevention and to address the root causes.We hope that these pieces change how you see this problem and move America one step closer to ending a failed war and understanding the importance of empathy.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005849317531101406,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007596017094329,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007296824478544295,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.PHOTO: OnPoint, a nonprofit group, operates facilities where people can get help to use drugs more safely.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001398735330440104,
+                    "sentence": "(PHOTOGRAPH BY FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.017486769031531738,
+            "class_probabilities": {
+                "human": 0.9825132309684682,
+                "ai": 0.017486769031531738,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9825132309684682,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.017486769031531738,
+                    "human": 0.9825132309684682,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "A note from the editor on a special Sunday Opinion section.A note from the editor on a special Sunday Opinion section.The United States is in the midst of a crisis. More than 100,000 people a year are dying from drug overdoses. In New York Cityabout seven people lose their lives to opioids each day, according to recent reporting in The Times. And this is after more than half a century of America’s so-called war on drugs.But as Jeneen Interlandi, a member of the Times editorial board, wrote in a special edition of Sunday Opinion, “there is a path out of this quagmire.”Jeneen reported for one year on what that path might look like. She spent that time with OnPoint, a nonprofit group working in New York City’s Harlem neighborhood, trying to reduce deaths by reducing harm: giving people access to lifesaving drugs that can reverse overdoses, providing clean needles to curb the spread of diseases, helping drug users — many of whom live on the street — get access to clothing, showers and food. And most radically of all, allowing people to use illegal drugs under supervision in what’s known as a safe consumption site.This reporting has yieldeda remarkable piece of long-form opinion journalism, one that showcases the trials and the hopes of this revolutionary approach to America’s overdose crisis, as OnPoint tries to employ love and community rather than the police, shame and jails. Jeneen’s essay allows you to see inside this work and into the world of severe drug addiction. We believe this story is so important that we devoted nearly all of the Feb. 26 Sunday Opinion print section to it, along with a series of stunning photographs by Donavon Smallwood, a photographer who grew up in the same part of Harlem where OnPoint works.Along with Jeneen’s essay isan editorialarguing that politicians and policymakers need to take lessons from OnPoint and rethink the drug war, to invest in treatment rather than just prevention and to address the root causes.We hope that these pieces change how you see this problem and move America one step closer to ending a failed war and understanding the importance of empathy.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.PHOTO: OnPoint, a nonprofit group, operates facilities where people can get help to use drugs more safely. (PHOTOGRAPH BY  FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

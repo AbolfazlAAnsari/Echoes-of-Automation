@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0008325701928697526,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°The terrible year of 2020 ended with a glimmer of hope.The terrible year of 2020 ended with a glimmer of hope.While the United States and California were in the grip of the worst surge yet of the pandemic, the first vaccines against COVID-19 were being distributed to health care workers and plans were underway for the largest immunization rollout in the nation's history.At that point, it looked like 2021 would be the year that the e United States got a handle on the pandemic.Alas, it was not to be.Too many people rejected the free vaccinations and chose to flout simple infection-control methods like mask-wearing, leaving the door open for the more infectious delta variant.Then, in November, the world was shaken by the emergence of an even more infectious strain of the coronavirus, omicron, which has quickly overtaken delta to become the dominant strain in the U.S.In the end, more Americans died of COVID-19 in 2021 than in 2020.As of Tuesday, nearly 820,000 Americans have died from the disease, which is considerably more than those thought to have died during the 1918 H1N1 influenza pandemic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008211585227400064,
+                    "sentence": "And with a second winter surge well underway, the dying will continue into 2022.But there is some hope as data trickle in about omicron.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004733298905193806,
+                    "sentence": "Early studies out of Britain and South Africa and initial data from e United States hospitals support what health care professionals have been reporting anecdotally for weeks ᅳ that omicron appears less likely than earlier strains to result in serious illness and hospitalization, especially for vaccinated people.If the data hold, it would be a tremendous relief given that omicron replicates and spreads with terrifying speed, even among vaccinated people.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008147111162543297,
+                    "sentence": "And it could mean that the coronavirus is on the path to a mild, endemic state that would put an end to the pandemic.Now, here's where we temper this sliver of hope with stark reality.Even if omicron is just half as lethal (as some data suggest) it is still quite deadly ᅳ just not as much as we feared.And even if it's relatively mild for many of those who are fully vaccinated, tens of millions of Americans remain unvaccinated, including those children under 5 who are not yet cleared for COVID-19 shots and whose numbers are increasing in hospitals.It's nice to have a tiny bit of good news as 2021 ends in another round of canceled plans and overtaxed hospitals.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012530657462775707,
+                    "sentence": "We should use this occasion to double down on public health protections, such as placing vaccination and testing restrictions on domestic air travel, and to increase vaccination and booster shots.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011121279560029507,
+                    "sentence": "The pandemic may not be over, but it's possible that with effort, 2022 may really be a better, less deadly year.The Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04898400604724884,
+                    "sentence": "The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.NEW YORK ᅳ Coco Gauff's U.S. Open title defence ended in a 6-3 4-6 6-3 loss to fellow American Emma Navarro in the fourth round on Sunday, the reigning women's champion becoming the latest big name to make an early exit at Flushing Meadows this year.WASHINGTON ᅳ The gunman who tried to kill Donald Trump mounted a “sustained, detailed effort” to attack a major gathering of some sort before deciding to target the Republican presidential candidate at a Pennsylvania rally in July, FBI officials said on Wednesday.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.10347646474838257,
+                    "sentence": "Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricane",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.039839419682113825,
+            "class_probabilities": {
+                "human": 0.9601605803178862,
+                "ai": 0.039839419682113825,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601605803178862,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039839419682113825,
+                    "human": 0.9601605803178862,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°The terrible year of 2020 ended with a glimmer of hope.The terrible year of 2020 ended with a glimmer of hope.While the United States and California were in the grip of the worst surge yet of the pandemic, the first vaccines against COVID-19 were being distributed to health care workers and plans were underway for the largest immunization rollout in the nation’s history.At that point, it looked like 2021 would be the year that the e United States got a handle on the pandemic.Alas, it was not to be.Too many people rejected the free vaccinations and chose to flout simple infection-control methods like mask-wearing, leaving the door open for the more infectious delta variant.Then, in November, the world was shaken by the emergence of an even more infectious strain of the coronavirus, omicron, which has quickly overtaken delta to become the dominant strain in the U.S.In the end, more Americans died of COVID-19 in 2021 than in 2020.As of Tuesday, nearly 820,000 Americans have died from the disease, which is considerably more than those thought to have died during the 1918 H1N1 influenza pandemic. And with a second winter surge well underway, the dying will continue into 2022.But there is some hope as data trickle in about omicron. Early studies out of Britain and South Africa and initial data from e United States hospitals support what health care professionals have been reporting anecdotally for weeks — that omicron appears less likely than earlier strains to result in serious illness and hospitalization, especially for vaccinated people.If the data hold, it would be a tremendous relief given that omicron replicates and spreads with terrifying speed, even among vaccinated people. And it could mean that the coronavirus is on the path to a mild, endemic state that would put an end to the pandemic.Now, here’s where we temper this sliver of hope with stark reality.Even if omicron is just half as lethal (as some data suggest) it is still quite deadly — just not as much as we feared.And even if it’s relatively mild for many of those who are fully vaccinated, tens of millions of Americans remain unvaccinated, including those children under 5 who are not yet cleared for COVID-19 shots and whose numbers are increasing in hospitals.It’s nice to have a tiny bit of good news as 2021 ends in another round of canceled plans and overtaxed hospitals. We should use this occasion to double down on public health protections, such as placing vaccination and testing restrictions on domestic air travel, and to increase vaccination and booster shots. The pandemic may not be over, but it’s possible that with effort, 2022 may really be a better, less deadly year.The Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today. The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.NEW YORK — Coco Gauff’s U.S. Open title defence ended in a 6-3 4-6 6-3 loss to fellow American Emma Navarro in the fourth round on Sunday, the reigning women’s champion becoming the latest big name to make an early exit at Flushing Meadows this year.WASHINGTON — The gunman who tried to kill Donald Trump mounted a “sustained, detailed effort” to attack a major gathering of some sort before deciding to target the Republican presidential candidate at a Pennsylvania rally in July, FBI officials said on Wednesday.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph. Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricane"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 5.532905925065279e-05,
+                    "sentence": "(CNN) &#8212; For much of its history, the USby lawkept its banks local and sector-specific.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.920176070299931e-05,
+                    "sentence": "The Founders had known first-hand the evils of concentrated metropolitan banking - ignorance of local borrowers and economic conditions, focus on short-term profits rather than long-term investments, and related problems.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.785267083207145e-05,
+                    "sentence": "They understood the importance of fostering a continent-wide economy as diversified across industries as it was across regions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.910473166499287e-05,
+                    "sentence": "And so they kept our banks focused onMain Street production, notWall Street speculation.This began changing during the 1980s and 1990s, when Congress repealed all previousinterstate banking and branching restrictions, as well as the oldGlass-Steagall prohibitionson mixing productive lending in the real economy with financial speculation on Wall Street.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.7351935538463295e-05,
+                    "sentence": "We were left with a banking system ever more nationally concentrated.To end, and perhaps even partly reverse, this ongoing process of concentration, which recent bank failures since March have accelerated, Congress must pass legislation that lifts deposit insurance caps.Regional, community and sector-specific industrial banks like Silicon Valley Bank lent \"patient capital\" to startups and small businesses - the incubators of future industrial renewal.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.495857087429613e-05,
+                    "sentence": "In other words, the banks were willing to wait years before expecting their startup borrowers to turn profits - essential in industries that require time to scale up before they can become profitable.They stood ready to fuel the new growth where it was needed, knowing as they did both the special needs of their clients in particular sectors - like tech, for example - and economic conditions in the locales where their clients did business.Capped deposit insurance is now destroying these banks.Federal deposit insurance coverage is currently limited to $250,000.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.369639206444845e-05,
+                    "sentence": "That would be plenty for you and me, but the startups and other small businesses on which our industrial recovery depends have large payrolls and weekly operating expenses.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.735219646245241e-05,
+                    "sentence": "For them, $250,000 is mere chump change.They are thus faced with a Hobson's choice, especially in times of banking distress like the present: Retain the advantages of regionally focused, client-sensitive, sector-specific Main Street banking at risk of losing deposits in bank runs, or flee to the safety of too-big-to-fail, one-size-fits-all global Wall Street banks that know nothing of their regions' or businesses' special conditions or needs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005322087672539055,
+                    "sentence": "That flight is now well underway, with JPMorgan Chasehaving added $50 billionin deposits since late March alone, leaving it withover 16% of total deposits- far in excess of the 10% bank antitrust limit.There is no need to force this choice on our producers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002922293497249484,
+                    "sentence": "Federal deposit insurance isrisk-pricedand volume-indexed - that is,banks that do riskier lending, or that hold more in deposits, pay more.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00025289386394433677,
+                    "sentence": "This means there's literally no purpose for arbitrarycoverage caps, which are a holdover from the days when deposit insurance wasn'trisk-pricedaccording to bank lending behavior and deposit volume.Congress must accordingly pass legislation to lift the caps.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00033085691393353045,
+                    "sentence": "The only alternative, as we watch small bank deposits continue their exodus to JPMorgan Chase CEO Jamie Dimon's welcoming Wall Street arms, is an economy with one or two megabanks more excited by short-term speculative profits on global capital markets than by steadily rebuilding America one sector and region at a time.Opinion by Robert HockettTM & © 2023 Cable News Network, Inc., a Time Warner Company.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005974115920253098,
+                    "sentence": "All rights reserved.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.009998674697021016,
+            "class_probabilities": {
+                "human": 0.990001325302979,
+                "ai": 0.009998674697021016,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.990001325302979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.009998674697021016,
+                    "human": 0.990001325302979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "(CNN) &#8212; For much of its history, the USby lawkept its banks local and sector-specific. The Founders had known first-hand the evils of concentrated metropolitan banking - ignorance of local borrowers and economic conditions, focus on short-term profits rather than long-term investments, and related problems. They understood the importance of fostering a continent-wide economy as diversified across industries as it was across regions. And so they kept our banks focused onMain Street production, notWall Street speculation.This began changing during the 1980s and 1990s, when Congress repealed all previousinterstate banking and branching restrictions, as well as the oldGlass-Steagall prohibitionson mixing productive lending in the real economy with financial speculation on Wall Street. We were left with a banking system ever more nationally concentrated.To end, and perhaps even partly reverse, this ongoing process of concentration, which recent bank failures since March have accelerated, Congress must pass legislation that lifts deposit insurance caps.Regional, community and sector-specific industrial banks like Silicon Valley Bank lent \"patient capital\" to startups and small businesses - the incubators of future industrial renewal. In other words, the banks were willing to wait years before expecting their startup borrowers to turn profits - essential in industries that require time to scale up before they can become profitable.They stood ready to fuel the new growth where it was needed, knowing as they did both the special needs of their clients in particular sectors - like tech, for example - and economic conditions in the locales where their clients did business.Capped deposit insurance is now destroying these banks.Federal deposit insurance coverage is currently limited to $250,000. That would be plenty for you and me, but the startups and other small businesses on which our industrial recovery depends have large payrolls and weekly operating expenses. For them, $250,000 is mere chump change.They are thus faced with a Hobson's choice, especially in times of banking distress like the present: Retain the advantages of regionally focused, client-sensitive, sector-specific Main Street banking at risk of losing deposits in bank runs, or flee to the safety of too-big-to-fail, one-size-fits-all global Wall Street banks that know nothing of their regions' or businesses' special conditions or needs. That flight is now well underway, with JPMorgan Chasehaving added $50 billionin deposits since late March alone, leaving it withover 16% of total deposits- far in excess of the 10% bank antitrust limit.There is no need to force this choice on our producers. Federal deposit insurance isrisk-pricedand volume-indexed - that is,banks that do riskier lending, or that hold more in deposits, pay more. This means there's literally no purpose for arbitrarycoverage caps, which are a holdover from the days when deposit insurance wasn'trisk-pricedaccording to bank lending behavior and deposit volume.Congress must accordingly pass legislation to lift the caps. The only alternative, as we watch small bank deposits continue their exodus to JPMorgan Chase CEO Jamie Dimon's welcoming Wall Street arms, is an economy with one or two megabanks more excited by short-term speculative profits on global capital markets than by steadily rebuilding America one sector and region at a time.Opinion by Robert HockettTM & © 2023 Cable News Network, Inc., a Time Warner Company. All rights reserved."
+        }
+    ]
+}

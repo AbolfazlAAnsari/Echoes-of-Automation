@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.002924317494034767,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017760938499122858,
+                    "sentence": "Please send your letters toletters@independent.co.ukI readKim Sengupta's recent piecewith interest.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007849902031011879,
+                    "sentence": "The attack on a concert hall in Moscow was a sobering reminder that terrorism and fundamentalism are as much of a threat as ever, and that adherents to such belief systems will exploit current geopolitical tensions to serve their own monstrous end.It is vital, therefore, that webring those tensions back down to a manageable temperature, so that we might focus on those who wish to cause chaos for its own ends.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009589020628482103,
+                    "sentence": "Vladimir Putin's claim that the attack was somehow Ukraine's fault is antithetical to this aim, and further evidence that Russia will use any weapon in its arsenal no matter how broken and potentially damaging to its own interests.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009338912204839289,
+                    "sentence": "This is a short-sighted approach, that not only fails to further the prosperity of his own nation, but leaves it even more vulnerable to genuine threats.Stephen BloomCanterburyGet well soon, KateI have tocommend the Princess of Walesfor the honesty and courage she demonstrated in the statement about her cancer diagnosis.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001218575518578291,
+                    "sentence": "It was shameful that social media forced her into such an invidious position.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009630532935261726,
+                    "sentence": "The King must also be congratulated on his statement in support of his daughter-in-law.In common with the great majority of the world, I wish them and their family well.Susan AlexanderSouth GloucestershireThe government's wastefulness is an insult to ordinary taxpayersThe fact thatJames Cleverly spent £165,000 of public money on a jetto sign a Rwandan asylum deal just underlines the arrogance of this government.Does Cleverly not realise that we are in the middle of the biggest cost of living crisis since the Second World War, and that it's utterly insulting to UK taxpayers?Surely we could havespent this money on better border securityand sent Cleverly on a more affordable flight.Yet sadly, even this is small change compared to the £500m recently sent in cheques to Rwanda for just 300 people.It's a very heavy price to pay for petty Tory gimmicks.Hence, instead of the taxpayer bankrolling this incompetence, it is Rishi Sunak's Conservative Party who should pay for it at the ballot box - sooner rather than later.Geoffrey BrookingHampshireThe royals are doing us a valuable service by updating us about their health strugglesFirst and foremost, ourheartfelt sympathies are with Kate.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.016052426770329475,
+                    "sentence": "Her unswerving strength and intrepidity to share her cancer diagnosis with the public is admirable.Cancer remains a dreadful disease, andrecent eventshave been a poignant reminder that it can hit any person irrespective of age, social and economic background, religion and ethnicity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.015253344550728798,
+                    "sentence": "The King and Kate's decisions to publicise their cancer diagnosis will help raise awareness about cancers and their causes as well as early diagnosis and treatments, and subsequently save lives.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.030994348227977753,
+                    "sentence": "At this time during Ramadan, we pray for the speedy recovery of all patients.Munjed Farid Al QutobLondon",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukI readKim Sengupta’s recent piecewith interest. The attack on a concert hall in Moscow was a sobering reminder that terrorism and fundamentalism are as much of a threat as ever, and that adherents to such belief systems will exploit current geopolitical tensions to serve their own monstrous end.It is vital, therefore, that webring those tensions back down to a manageable temperature, so that we might focus on those who wish to cause chaos for its own ends. Vladimir Putin’s claim that the attack was somehow Ukraine’s fault is antithetical to this aim, and further evidence that Russia will use any weapon in its arsenal no matter how broken and potentially damaging to its own interests. This is a short-sighted approach, that not only fails to further the prosperity of his own nation, but leaves it even more vulnerable to genuine threats.Stephen BloomCanterburyGet well soon, KateI have tocommend the Princess of Walesfor the honesty and courage she demonstrated in the statement about her cancer diagnosis. It was shameful that social media forced her into such an invidious position. The King must also be congratulated on his statement in support of his daughter-in-law.In common with the great majority of the world, I wish them and their family well.Susan AlexanderSouth GloucestershireThe government’s wastefulness is an insult to ordinary taxpayersThe fact thatJames Cleverly spent £165,000 of public money on a jetto sign a Rwandan asylum deal just underlines the arrogance of this government.Does Cleverly not realise that we are in the middle of the biggest cost of living crisis since the Second World War, and that it’s utterly insulting to UK taxpayers?Surely we could havespent this money on better border securityand sent Cleverly on a more affordable flight.Yet sadly, even this is small change compared to the £500m recently sent in cheques to Rwanda for just 300 people.It’s a very heavy price to pay for petty Tory gimmicks.Hence, instead of the taxpayer bankrolling this incompetence, it is Rishi Sunak’s Conservative Party who should pay for it at the ballot box – sooner rather than later.Geoffrey BrookingHampshireThe royals are doing us a valuable service by updating us about their health strugglesFirst and foremost, ourheartfelt sympathies are with Kate.  Her unswerving strength and intrepidity to share her cancer diagnosis with the public is admirable.Cancer remains a dreadful disease, andrecent eventshave been a poignant reminder that it can hit any person irrespective of age, social and economic background, religion and ethnicity. The King and Kate’s decisions to publicise their cancer diagnosis will help raise awareness about cancers and their causes as well as early diagnosis and treatments, and subsequently save lives. At this time during Ramadan, we pray for the speedy recovery of all patients.Munjed Farid Al QutobLondon"
+        }
+    ]
+}

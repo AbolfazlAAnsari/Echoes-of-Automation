@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00015476223779842257,
+                    "sentence": "Industry upheaval has the potential to lead to great American films.In an authoritativeessaypublished in Opinion on Friday, the cultural historian Mark Harris considered the state of Hollywood, and the verdict was: not great.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015981589967850596,
+                    "sentence": "The business model may be irreparably broken, A.I.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016325335309375077,
+                    "sentence": "is looming, and the studio heads and the talent they rely on are still fuming over last year's contentious strikes.But Harris also noted that in Hollywood, corporate chaos often leads to creative flourishing, as in the late 1960s and early '70s, when industry upheaval led to what we now consider a golden age for American film.Is something similar happening now?Just look to this past weekend's big opening, “Dune: Part Two.” At first glance, this sequel might be easy to dismiss as another I.P.-driven franchise spectacle.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019491021521389484,
+                    "sentence": "But the director, Denis Villeneuve, has a singular visual style, and he has longdeclared“Dune” to be a personal passion project.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001735355908749625,
+                    "sentence": "For Hollywood, adapting the Frank Herbert novel the films are based on had proved thorny: The scuttling of Alejandro Jodorowsky's effort caused such a stir that there's adocumentaryabout it, and David Lynch's “Dune” was nearly acareer-ending disaster.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000237337764701806,
+                    "sentence": "Villeneuve's success is not a case of an interesting and idiosyncratic director beingbrought to heelin the service of some franchise's uniform aesthetic; it's his distinctive talents and vision that have made the “Dune” seriessoar.The best picture nominees at this year's Oscars tell a similar story.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002290699048899114,
+                    "sentence": "The Oscars have long been criticized for encouraging cookie-cutter, award-targeted films.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002801186346914619,
+                    "sentence": "But this year, the best picture list, with the arguable exception of “Maestro,” doesn't feature much Oscar bait.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002617990248836577,
+                    "sentence": "Instead, it's visionary directors all the way down, from Christopher Nolan and Greta Gerwig to Yorgos Lanthimos (“Poor Things”) and Justine Triet (“Anatomy of a Fall”).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002385128173045814,
+                    "sentence": "The biggest Oscars controversy ᅳ that Gerwig was squeezed out of a crowded best director field ᅳ speaks to just how many worthy visionaries helmed films this year.Make no mistake: As a business proposition, Hollywood is faltering.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003661162918433547,
+                    "sentence": "But when no one's sure what works anymore, that can lead to an environment of reckless creative risk.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00036455175722949207,
+                    "sentence": "That's good news for the filmgoing audience; we're already reaping the benefits onscreen.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.005030853279880518,
+            "class_probabilities": {
+                "human": 0.9949691467201195,
+                "ai": 0.005030853279880518,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9949691467201195,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.005030853279880518,
+                    "human": 0.9949691467201195,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Industry upheaval has the potential to lead to great American films.In an authoritativeessaypublished in Opinion on Friday, the cultural historian Mark Harris considered the state of Hollywood, and the verdict was: not great. The business model may be irreparably broken, A.I. is looming, and the studio heads and the talent they rely on are still fuming over last year’s contentious strikes.But Harris also noted that in Hollywood, corporate chaos often leads to creative flourishing, as in the late 1960s and early ’70s, when industry upheaval led to what we now consider a golden age for American film.Is something similar happening now?Just look to this past weekend’s big opening, “Dune: Part Two.” At first glance, this sequel might be easy to dismiss as another I.P.-driven franchise spectacle. But the director, Denis Villeneuve, has a singular visual style, and he has longdeclared“Dune” to be a personal passion project. For Hollywood, adapting the Frank Herbert novel the films are based on had proved thorny: The scuttling of Alejandro Jodorowsky’s effort caused such a stir that there’s adocumentaryabout it, and David Lynch’s “Dune” was nearly acareer-ending disaster. Villeneuve’s success is not a case of an interesting and idiosyncratic director beingbrought to heelin the service of some franchise’s uniform aesthetic; it’s his distinctive talents and vision that have made the “Dune” seriessoar.The best picture nominees at this year’s Oscars tell a similar story. The Oscars have long been criticized for encouraging cookie-cutter, award-targeted films. But this year, the best picture list, with the arguable exception of “Maestro,” doesn’t feature much Oscar bait. Instead, it’s visionary directors all the way down, from Christopher Nolan and Greta Gerwig to Yorgos Lanthimos (“Poor Things”) and Justine Triet (“Anatomy of a Fall”). The biggest Oscars controversy — that Gerwig was squeezed out of a crowded best director field — speaks to just how many worthy visionaries helmed films this year.Make no mistake: As a business proposition, Hollywood is faltering. But when no one’s sure what works anymore, that can lead to an environment of reckless creative risk. That’s good news for the filmgoing audience; we’re already reaping the benefits onscreen."
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0006311815232038498,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|78.854°With recent flight cancellations, staffing snafus and other problems plaguing the airlines lately, there's real concern the coming holiday weekend could become a chaotic mess for many Americans.With recent flight cancellations, staffing snafus and other problems plaguing the airlines lately, there's real concern the coming holiday weekend could become a chaotic mess for many Americans.Congress is starting to ask how, exactly, the companies have used the $50 billion in pandemic relief funding the taxpayers gave them over the past two years to ensure smooth operation ᅳ given that smooth operation is the opposite of what some carriers have been providing lately.It's a valid question.The airlines were hit especially hard by the pandemic, as it decimated daily travel numbers and necessitated cutting back flights.The airlines shed tens of thousands of employees last year mainly through voluntary furloughs and early retirement incentives.Those were necessary moves to weather the coronavirus storm.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008463176200166345,
+                    "sentence": "Predicting when and how quickly those travel numbers would come back up was always going to be an educated guess.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004191440064460039,
+                    "sentence": "And the reluctance of many employees (including pilots) to return to the job is a phenomenon that few could have predicted.But the chaos surrounding Southwest and American Airlines flights last month was nonetheless a shock.A few isolated weather events caused canceled flights in Texas and Florida, but then the cancellations rippled throughout the country and into the following week.Right-wing trolls like Sen. Ted Cruz, R-Texas, baselessly alleged that vaccine mandates were behind the staffing problems.In fact, the main problem appears to be that the companies were still too short-staffed from their pandemic cuts last year to quickly adjust to the changed schedules.With this holiday weekend shaping up to be the busiest since before the pandemic started, some in Congress want to know why, with that $50 billion lifeline over the past 18 months, the airlines are apparently having such a hard time ramping back up as the pandemic eases.The airlines say they are the victims of pandemic chaos like everyone else, but some in Congress are pointing out that most industries didn't get the kind of taxpayer help the airlines received.“There should have been every reason, particularly given the bailout money for the airlines, to prepare for the surge we're seeing now.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0031283493153750896,
+                    "sentence": "This money was for a very specific purpose,” Democrat Eleanor Holmes Norton, the District of Columbia delegate in Congress, told Politico.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0027546181809157133,
+                    "sentence": "Norton wants hearings to examine the question of whether that funding, instead of benefiting the flying public, mainly benefited the shareholders.In the Senate, plans for such hearings next month are already underway, with senators like Richard Blumenthal, D-Conn., suggesting the airlines are “failing to keep their side of the bargain.”The airlines will have the chance to make their case ᅳ but the best way they could make it is to ensure the coming holiday travel season avoids more of this kind of turbulence.ᅳ St. Louis Post-DispatchThe Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00660230265930295,
+                    "sentence": "The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013412661850452423,
+                    "sentence": "Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneA new website launched recently helps Hawaii residents and visitors easily find recreational services available across the state.WASHINGTON ᅳ The gunman who tried to kill Donald Trump mounted a “sustained, detailed effort” to attack a major gathering of some sort before deciding to target the Republican presidential candidate at a Pennsylvania rally in July, FBI officials said on Wednesday.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.017917192071486437,
+            "class_probabilities": {
+                "human": 0.9820828079285135,
+                "ai": 0.017917192071486437,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9820828079285135,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.017917192071486437,
+                    "human": 0.9820828079285135,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|78.854°With recent flight cancellations, staffing snafus and other problems plaguing the airlines lately, there’s real concern the coming holiday weekend could become a chaotic mess for many Americans.With recent flight cancellations, staffing snafus and other problems plaguing the airlines lately, there’s real concern the coming holiday weekend could become a chaotic mess for many Americans.Congress is starting to ask how, exactly, the companies have used the $50 billion in pandemic relief funding the taxpayers gave them over the past two years to ensure smooth operation — given that smooth operation is the opposite of what some carriers have been providing lately.It’s a valid question.The airlines were hit especially hard by the pandemic, as it decimated daily travel numbers and necessitated cutting back flights.The airlines shed tens of thousands of employees last year mainly through voluntary furloughs and early retirement incentives.Those were necessary moves to weather the coronavirus storm. Predicting when and how quickly those travel numbers would come back up was always going to be an educated guess. And the reluctance of many employees (including pilots) to return to the job is a phenomenon that few could have predicted.But the chaos surrounding Southwest and American Airlines flights last month was nonetheless a shock.A few isolated weather events caused canceled flights in Texas and Florida, but then the cancellations rippled throughout the country and into the following week.Right-wing trolls like Sen. Ted Cruz, R-Texas, baselessly alleged that vaccine mandates were behind the staffing problems.In fact, the main problem appears to be that the companies were still too short-staffed from their pandemic cuts last year to quickly adjust to the changed schedules.With this holiday weekend shaping up to be the busiest since before the pandemic started, some in Congress want to know why, with that $50 billion lifeline over the past 18 months, the airlines are apparently having such a hard time ramping back up as the pandemic eases.The airlines say they are the victims of pandemic chaos like everyone else, but some in Congress are pointing out that most industries didn’t get the kind of taxpayer help the airlines received.“There should have been every reason, particularly given the bailout money for the airlines, to prepare for the surge we’re seeing now. This money was for a very specific purpose,” Democrat Eleanor Holmes Norton, the District of Columbia delegate in Congress, told Politico. Norton wants hearings to examine the question of whether that funding, instead of benefiting the flying public, mainly benefited the shareholders.In the Senate, plans for such hearings next month are already underway, with senators like Richard Blumenthal, D-Conn., suggesting the airlines are “failing to keep their side of the bargain.”The airlines will have the chance to make their case — but the best way they could make it is to ensure the coming holiday travel season avoids more of this kind of turbulence.— St. Louis Post-DispatchThe Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today. The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph. Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneA new website launched recently helps Hawaii residents and visitors easily find recreational services available across the state.WASHINGTON — The gunman who tried to kill Donald Trump mounted a “sustained, detailed effort” to attack a major gathering of some sort before deciding to target the Republican presidential candidate at a Pennsylvania rally in July, FBI officials said on Wednesday."
+        }
+    ]
+}

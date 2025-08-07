@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0029253619723021984,
+                    "sentence": "How one image captures the human toll of war in Gaza.The scenes of devastation from Gaza are widespread on social media, but mainstream news organizations, including The New York Times, often have a directive to not publish overly graphic photographs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004135916940867901,
+                    "sentence": "In this audio essay, the Opinion columnist Lydia Polgreen argues that there are times when we should not look away ᅳ and that it is our moral obligation to bear witness to images of war.The image discussed in this audio essay is not depicted on this page.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00790572538971901,
+                    "sentence": "Please refer to and read Lydia's full essayhere.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0039587910287082195,
+                    "sentence": "You can also read a note about Times Opinion's editorial decision to not publish the image in fullhere.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0037718205712735653,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005793934687972069,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0027288231067359447,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.This Opinion short was produced by Vishakha Darbha.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0033420345280319452,
+                    "sentence": "It was edited by Kaari Pitkin and Alison Bruzek.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002565855160355568,
+                    "sentence": "Mixing by Carole Sabouraud.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0035421906504780054,
+                    "sentence": "Original music by Sonia Herrero, Pat McCusker and Carole Sabouraud.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002537688473239541,
+                    "sentence": "Fact-checking by Kate Sinclair.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0060809399001300335,
+                    "sentence": "Audience strategy by Kristina Samulewski and Shannon Busta.PHOTO: (PHOTOGRAPH BY Illustration by Akshita Chandra/The New York Times; Photograph by Picsfive/Getty Images FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.03402562243851858,
+            "class_probabilities": {
+                "human": 0.9659743775614813,
+                "ai": 0.03402562243851858,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9659743775614813,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.03402562243851858,
+                    "human": 0.9659743775614813,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "How one image captures the human toll of war in Gaza.The scenes of devastation from Gaza are widespread on social media, but mainstream news organizations, including The New York Times, often have a directive to not publish overly graphic photographs. In this audio essay, the Opinion columnist Lydia Polgreen argues that there are times when we should not look away — and that it is our moral obligation to bear witness to images of war.The image discussed in this audio essay is not depicted on this page. Please refer to and read Lydia’s full essayhere. You can also read a note about Times Opinion’s editorial decision to not publish the image in fullhere.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.This Opinion short was produced by Vishakha Darbha. It was edited by Kaari Pitkin and Alison Bruzek. Mixing by Carole Sabouraud. Original music by Sonia Herrero, Pat McCusker and Carole Sabouraud. Fact-checking by Kate Sinclair. Audience strategy by Kristina Samulewski and Shannon Busta.PHOTO:  (PHOTOGRAPH BY Illustration by Akshita Chandra/The New York Times; Photograph by Picsfive/Getty Images FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

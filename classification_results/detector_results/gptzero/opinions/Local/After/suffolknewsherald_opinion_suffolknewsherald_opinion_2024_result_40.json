@@ -1,0 +1,154 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0018955246778205037,
+                    "sentence": "Published 10:00 am Sunday, May 19, 2024BySuffolk News-Herald Editorial BoardLetters to the editor are a longstanding tradition in newspapers that give the public the opportunity to let their voice be heard.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014322756323963404,
+                    "sentence": "This is one of the few times when those in the community can share what they think about problems or celebrate accomplishments in their community.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002472806256264448,
+                    "sentence": "That opinion isn't only relegated to the staff at the newspaper but to everybody who reads it.Lately, our letter to the editor stacks have been small.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0029598409309983253,
+                    "sentence": "Seriously, we haven't received many letters from the public voicing an opinion this year.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013266552705317736,
+                    "sentence": "Although we would like to believe that we are doing our best to inform the public with every story we write, we also want to know if you have additional questions that we should be thinking about.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016919776098802686,
+                    "sentence": "We also want to know when we mess up.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018200641497969627,
+                    "sentence": "We want to see what you all are thinking.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001760401763021946,
+                    "sentence": "We just want to hear from you.While the news staff works its tail off bringing a newspaper to our readers on Wednesdays, this product isn't just ours inside the walls of the Suffolk News-Herald ᅳ it's everybody's in the city of Suffolk.To submit a letter to the editor to us, it will need to be 350 words or less and can be emailed to news@suffolknewsherald.com.A few other housecleaning items about letters to the editor, we will edit the letters for AP style, grammar, and clarity.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01280425675213337,
+                    "sentence": "We also will not accept anonymous letters, so please sign the letter with your legal name and the city you live in (address not needed) and be comfortable with it being printed in the newspaper.We also ask for a phone number, but that won't be printed in the newspaper.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.022813061252236366,
+                    "sentence": "We just want to be able to contact you if we have a question or need to make changes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011617538519203663,
+                    "sentence": "It's as simple as that.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.019959935918450356,
+                    "sentence": "We'd love to hear from anybody who wants to give an opinion.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.017973681911826134,
+                    "sentence": "In fact, we'd like to have so many letters that we can't print them all.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006381887011229992,
+                    "sentence": "We love giving our opinion on this page and reporting the news to all of you every day, but we'd also like to hear what people in this great city are thinking.We're listening.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006245024502277374,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 15,
+                    "completely_generated_prob": 2.5938383721896624e-13
+                }
+            ],
+            "completely_generated_prob": 0.024461651786716186,
+            "class_probabilities": {
+                "human": 0.9754981327244504,
+                "ai": 0.024461651786716186,
+                "mixed": 4.0215488833363626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9754981327244504,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024461651786716186,
+                    "human": 0.9754981327244504,
+                    "mixed": 4.0215488833363626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 10:00 am Sunday, May 19, 2024BySuffolk News-Herald Editorial BoardLetters to the editor are a longstanding tradition in newspapers that give the public the opportunity to let their voice be heard.  This is one of the few times when those in the community can share what they think about problems or celebrate accomplishments in their community.  That opinion isn’t only relegated to the staff at the newspaper but to everybody who reads it.Lately, our letter to the editor stacks have been small. Seriously, we haven’t received many letters from the public voicing an opinion this year. Although we would like to believe that we are doing our best to inform the public with every story we write, we also want to know if you have additional questions that we should be thinking about. We also want to know when we mess up. We want to see what you all are thinking. We just want to hear from you.While the news staff works its tail off bringing a newspaper to our readers on Wednesdays, this product isn’t just ours inside the walls of the Suffolk News-Herald — it’s everybody’s in the city of Suffolk.To submit a letter to the editor to us, it will need to be 350 words or less and can be emailed to news@suffolknewsherald.com.A few other housecleaning items about letters to the editor, we will edit the letters for AP style, grammar, and clarity. We also will not accept anonymous letters, so please sign the letter with your legal name and the city you live in (address not needed) and be comfortable with it being printed in the newspaper.We also ask for a phone number, but that won’t be printed in the newspaper.  We just want to be able to contact you if we have a question or need to make changes. It’s as simple as that. We’d love to hear from anybody who wants to give an opinion. In fact, we’d like to have so many letters that we can’t print them all.  We love giving our opinion on this page and reporting the news to all of you every day, but we’d also like to hear what people in this great city are thinking.We’re listening.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…"
+        }
+    ]
+}

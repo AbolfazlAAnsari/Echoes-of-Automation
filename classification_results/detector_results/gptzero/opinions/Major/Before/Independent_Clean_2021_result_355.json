@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 3.8451522414106876e-05,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.0511670047417283e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukIan Henderson of Norfolk isquite right.What on earth is the government thinking - if anything - in not introducing the mask-wearing rule immediately, instead of this Tuesday?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.3574059014208615e-05,
+                    "sentence": "I have just returned from my local supermarket, and have seen most of the staff, and lots of customers, without any face covering.No wonder this incompetent government cannot be trusted to keep us safe.Patrick MooreNorwichI have never worn a mask and I don't want to see a single mask in the shops ever again.Jonathan CastroSurreyRefugees welcomeIt is heartbreaking as a second-generation Indian to hear of the plight of desperate migrants.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.41923589783255e-05,
+                    "sentence": "What does it say about our government that we can't welcome these desperate people?Kartar UppalSutton ColdfieldHelp neededAt the time of the Brexit debate I recall saying we needed European cooperation on all sorts of issues, including immigration only to be forcibly told \"that's what the Channel is for\".Circumstances may well force us to reconsider our post-war welfare system and internal security.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011130216298624873,
+                    "sentence": "This will be difficult and painful, we certainly don't want a discriminatory system as this would destabilise the UK but we should at least look at bringing our rules more in line with our European neighbours, as the migrants on the French coast clearly don't want to be there, they want to be here - what can the French do?John SimpsonRoss-on-WyeNo shoppingBoxing Day is a most integral part of Christmas - and in Germany it is sometimes called called \"Second Christmas Day\" and thus is about unashamed chilling out - not the \"sales\".Well done to the the great retail names such as Sainsbury's, Morrisons, M&S, Aldi, Lidl, Iceland and Poundland who have recognised Boxing Day as \"Second Christmas Day\" by closing their doors.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013944407692179084,
+                    "sentence": "Hopefully others will join this roll call of honour.I believe such a proposition makes sound commercial sense.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02427106536924839,
+                    "sentence": "More goods would be bought before a two day Christmas closure -and that feeds into productivity and shareholder value.John BarstowAddress suppliedRead MoreLetters: Given the appearance of micron - the PM is right to tighten mask rulesLetters: Don't vilify asylum seekers - tackle the root causes of immigrationLetters: Talk of 'legal migration' is a fig leaf to hide our shameLetters: Given the appearance of micron - the PM is right to tighten mask rulesLetters: Don't vilify asylum seekers - tackle the root causes of immigrationLetters: Talk of 'legal migration' is a fig leaf to hide our shame",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.01861304959480408,
+            "class_probabilities": {
+                "human": 0.9813464938142095,
+                "ai": 0.01861304959480408,
+                "mixed": 4.045659098641626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9813464938142095,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01861304959480408,
+                    "human": 0.9813464938142095,
+                    "mixed": 4.045659098641626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukIan Henderson of Norfolk isquite right.What on earth is the government thinking - if anything - in not introducing the mask-wearing rule immediately, instead of this Tuesday? I have just returned from my local supermarket, and have seen most of the staff, and lots of customers, without any face covering.No wonder this incompetent government cannot be trusted to keep us safe.Patrick MooreNorwichI have never worn a mask and I don't want to see a single mask in the shops ever again.Jonathan CastroSurreyRefugees welcomeIt is heartbreaking as a second-generation Indian to hear of the plight of desperate migrants. What does it say about our government that we can't welcome these desperate people?Kartar UppalSutton ColdfieldHelp neededAt the time of the Brexit debate I recall saying we needed European cooperation on all sorts of issues, including immigration only to be forcibly told \"that's what the Channel is for\".Circumstances may well force us to reconsider our post-war welfare system and internal security. This will be difficult and painful, we certainly don't want a discriminatory system as this would destabilise the UK but we should at least look at bringing our rules more in line with our European neighbours, as the migrants on the French coast clearly don't want to be there, they want to be here - what can the French do?John SimpsonRoss-on-WyeNo shoppingBoxing Day is a most integral part of Christmas - and in Germany it is sometimes called called \"Second Christmas Day\" and thus is about unashamed chilling out - not the \"sales\".Well done to the the great retail names such as Sainsbury's, Morrisons, M&S, Aldi, Lidl, Iceland and Poundland who have recognised Boxing Day as \"Second Christmas Day\" by closing their doors. Hopefully others will join this roll call of honour.I believe such a proposition makes sound commercial sense. More goods would be bought before a two day Christmas closure -and that feeds into productivity and shareholder value.John BarstowAddress suppliedRead MoreLetters: Given the appearance of micron - the PM is right to tighten mask rulesLetters: Don't vilify asylum seekers - tackle the root causes of immigrationLetters: Talk of 'legal migration' is a fig leaf to hide our shameLetters: Given the appearance of micron - the PM is right to tighten mask rulesLetters: Don't vilify asylum seekers - tackle the root causes of immigrationLetters: Talk of 'legal migration' is a fig leaf to hide our shame"
+        }
+    ]
+}

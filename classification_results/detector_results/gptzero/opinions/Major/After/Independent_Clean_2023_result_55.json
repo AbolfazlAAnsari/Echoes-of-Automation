@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0003590119304135442,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004977138596586883,
+                    "sentence": "Please send your letters toletters@independent.co.ukIs there no way we can stop multi-millionaire Johnson having theever-increasing costs of his legal defence(is there any defence?)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006586821982637048,
+                    "sentence": "being paid by increasingly impoverished taxpayers?Richard MasonLeedsNow is not the time to be stingy on defence spendingI readLord Richard Dannatt's pertinent columnon military spending.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005468781455419958,
+                    "sentence": "He paints a realistic picture of this government “fiddling while Europe is burning” in the case of not investing or even cutting back on our defence budget.I bow to his superior knowledge, and so too should the powers that be who hold the purse strings.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007008981192484498,
+                    "sentence": "As former head of the army, he knows a thing or two about our very necessary defence capability.The world - and in particular our own backyard - is experiencing a very concerning and febrile time, which does not appear to be moderating at present or even in the foreseeable future.We need to listen and pay attention to men such as him, paying less scrutiny to financial spreadsheets, which are not worth the paper they are written on if they ignore the urgency of this so-important issue.Judith A DanielsNorfolkRussians back Putin because he is one of their ownThe reason thattwo-thirds of Russians back Putinis because, in this complex world of uncertain facts, the default setting of human beings is to back the tribe and its tribal leaders.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.014553964138031006,
+                    "sentence": "It was an advantage back in the Stone Age but in today's global world it is something of a hindrance to progress.Leaders like Putin are great actors; they pretend they know what's going on and what's best for their tribe.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00937076285481453,
+                    "sentence": "This is why actors make great leaders, particularly in our new world of video posts and social media.When people are bombarded with conflicting information, who are they going to believe?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008906339295208454,
+                    "sentence": "Someone from abroad or somebody from their own country and culture?Trevor PrewSheffieldLuciana Berger's return is much welcomedI too am personally thrilled to hear the news thatLuciana Berger has rejoined the Labour Party.It is yet another example of how, under Keir Starmer, Labour has risen from the depths of depravity and is finally a government in waiting.Geoffrey BrookingHampshireA cress jokeTheshortage of some fruit and vegetables in UK supermarketscould be “the tip of the iceberg”, a farming union has warned.Lettuce pray...Pat HorrocksHarrogate",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.020660391318316405,
+            "class_probabilities": {
+                "human": 0.9793396086816837,
+                "ai": 0.020660391318316405,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9793396086816837,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020660391318316405,
+                    "human": 0.9793396086816837,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukIs there no way we can stop multi-millionaire Johnson having theever-increasing costs of his legal defence(is there any defence?) being paid by increasingly impoverished taxpayers?Richard MasonLeedsNow is not the time to be stingy on defence spendingI readLord Richard Dannatt’s pertinent columnon military spending. He paints a realistic picture of this government “fiddling while Europe is burning” in the case of not investing or even cutting back on our defence budget.I bow to his superior knowledge, and so too should the powers that be who hold the purse strings. As former head of the army, he knows a thing or two about our very necessary defence capability.The world – and in particular our own backyard – is experiencing a very concerning and febrile time, which does not appear to be moderating at present or even in the foreseeable future.We need to listen and pay attention to men such as him, paying less scrutiny to financial spreadsheets, which are not worth the paper they are written on if they ignore the urgency of this so-important issue.Judith A DanielsNorfolkRussians back Putin because he is one of their ownThe reason thattwo-thirds of Russians back Putinis because, in this complex world of uncertain facts, the default setting of human beings is to back the tribe and its tribal leaders. It was an advantage back in the Stone Age but in today’s global world it is something of a hindrance to progress.Leaders like Putin are great actors; they pretend they know what’s going on and what’s best for their tribe. This is why actors make great leaders, particularly in our new world of video posts and social media.When people are bombarded with conflicting information, who are they going to believe? Someone from abroad or somebody from their own country and culture?Trevor PrewSheffieldLuciana Berger’s return is much welcomedI too am personally thrilled to hear the news thatLuciana Berger has rejoined the Labour Party.It is yet another example of how, under Keir Starmer, Labour has risen from the depths of depravity and is finally a government in waiting.Geoffrey BrookingHampshireA cress jokeTheshortage of some fruit and vegetables in UK supermarketscould be “the tip of the iceberg”, a farming union has warned.Lettuce pray...Pat HorrocksHarrogate"
+        }
+    ]
+}

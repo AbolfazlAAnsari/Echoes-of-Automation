@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0032040101941674948,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002314687240868807,
+                    "sentence": "Please send your letters toletters@independent.co.ukDanilo Lo Fo Wong is rightto suggest that antimicrobial resistance (AMR) is another silent pandemic that poses an existential threat to humankind.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017138593830168247,
+                    "sentence": "AMR could practically cause more horrifying repercussions thanCovid-19and potentially climate change too.Simple surgical procedures like tooth extraction could result in septicemia and eventually death, sopharmaceutical companiesmust be more creative to invent newantibiotics.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002290132222697139,
+                    "sentence": "But this won't stamp out the crisis until we use existing antibiotics more astutely, whether for humans or animals.Dr Munjed Farid Al QutobLondonLevelling upGiven the news of the severelypaired-back plansfor the highly contentious HS2 rail project, a thought came to mind.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011941877892240882,
+                    "sentence": "At the time of the original proposal, one of your readers suggested that (for various reasons including so-called \"levelling up\" employment opportunities) in order for it to succeed, the railway upgrade should start in the north and work southward.Had this been enacted, would it be plausible to even consider the possibility of the government agreeing to terminate the new infrastructure 50-80 miles away from London?Nigel PlevinSomersetDiscrimination in sportSo how longbefore stories of discrimination, sexism, racism, abuses of power and influence begin swirling around the games of rugby, tennis, golf and hockey?It is about time the ruling elite of each were brought into focus.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013251134660094976,
+                    "sentence": "Colour is not the only bar to running or belonging to such clubs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018851883942261338,
+                    "sentence": "I have lost count of the number of times I have been asked about my relationships with sheep.Gareth PowellCheshireAge of marriageThe Marriage and Civil Partnership (Minimum Age) (No2) Bill, whichwould forbid marriagebefore the age of 18, appears to be progressing through parliament with little scrutiny or debate.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.12179294228553772,
+                    "sentence": "But could I point out that the legal age for consensual sex remains at 16?While I appreciate the issue of \"forced marriage\" is a serious one that the Bill seeks to address, the social consequences of the proposed new law would be immense and surely merit greater consideration.Colin BurkeCumbriaManifesto promisesInstead ofreporting every dayon which policy or manifesto promise Boris Johnson is failing on would it not be easier to let us know if he actually ever fulfils one?G ForwardStirlingRead MoreLetters: MPs have teams doing tasks for them - no wonder they have second jobsLetters: Well done Priti Patel - great job avoiding an anti-immigrant backlashLetters: Azeem Rafiq's experience of racism is not an appalling exception - if onlyLetters: MPs have teams doing tasks for them - no wonder they have second jobsLetters: Well done Priti Patel - great job avoiding an anti-immigrant backlashLetters: Azeem Rafiq's experience of racism is not an appalling exception - if only",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.03908427887396223,
+            "class_probabilities": {
+                "human": 0.9601676966499811,
+                "ai": 0.03908427887396223,
+                "mixed": 0.0007480244760566933
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601676966499811,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.03908427887396223,
+                    "human": 0.9601676966499811,
+                    "mixed": 0.0007480244760566933
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukDanilo Lo Fo Wong is rightto suggest that antimicrobial resistance (AMR) is another silent pandemic that poses an existential threat to humankind. AMR could practically cause more horrifying repercussions thanCovid-19and potentially climate change too.Simple surgical procedures like tooth extraction could result in septicemia and eventually death, sopharmaceutical companiesmust be more creative to invent newantibiotics.  But this won't stamp out the crisis until we use existing antibiotics more astutely, whether for humans or animals.Dr Munjed Farid Al QutobLondonLevelling upGiven the news of the severelypaired-back plansfor the highly contentious HS2 rail project, a thought came to mind. At the time of the original proposal, one of your readers suggested that (for various reasons including so-called \"levelling up\" employment opportunities) in order for it to succeed, the railway upgrade should start in the north and work southward.Had this been enacted, would it be plausible to even consider the possibility of the government agreeing to terminate the new infrastructure 50-80 miles away from London?Nigel PlevinSomersetDiscrimination in sportSo how longbefore stories of discrimination, sexism, racism, abuses of power and influence begin swirling around the games of rugby, tennis, golf and hockey?It is about time the ruling elite of each were brought into focus. Colour is not the only bar to running or belonging to such clubs. I have lost count of the number of times I have been asked about my relationships with sheep.Gareth PowellCheshireAge of marriageThe Marriage and Civil Partnership (Minimum Age) (No2) Bill, whichwould forbid marriagebefore the age of 18, appears to be progressing through parliament with little scrutiny or debate. But could I point out that the legal age for consensual sex remains at 16?While I appreciate the issue of \"forced marriage\" is a serious one that the Bill seeks to address, the social consequences of the proposed new law would be immense and surely merit greater consideration.Colin BurkeCumbriaManifesto promisesInstead ofreporting every dayon which policy or manifesto promise Boris Johnson is failing on would it not be easier to let us know if he actually ever fulfils one?G ForwardStirlingRead MoreLetters: MPs have teams doing tasks for them - no wonder they have second jobsLetters: Well done Priti Patel - great job avoiding an anti-immigrant backlashLetters: Azeem Rafiq's experience of racism is not an appalling exception - if onlyLetters: MPs have teams doing tasks for them - no wonder they have second jobsLetters: Well done Priti Patel - great job avoiding an anti-immigrant backlashLetters: Azeem Rafiq's experience of racism is not an appalling exception - if only"
+        }
+    ]
+}

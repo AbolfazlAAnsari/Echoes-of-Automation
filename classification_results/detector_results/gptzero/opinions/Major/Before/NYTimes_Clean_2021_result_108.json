@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.5753718614578247,
+                    "sentence": "Introducing a new benefit for subscribers.This article also appears in the Opinion Today newsletter.You can sign up hereto receive it in your inbox each weekday morning.The Times has been sending newsletters to readers for two decades, but we've seen a particular explosion of interest in the medium in the past few years.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5258103609085083,
+                    "sentence": "Readers have clearly embraced the convenience of Times journalism landing in their inboxes: Our newsletter audience is well into the millions and continues to grow as we've increased our offering to more than 50 newsletters across news and Opinion.This week,we are announcing the next stepin the evolution of newsletters at The Times: A selection of our newsletters will soon be reserved for subscribers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.48901307582855225,
+                    "sentence": "And as part of this new subscriber benefit, we in Opinion are adding exciting new voices to our portfolio.The linguist and commentator John McWhorter will write about how race and language shape our culture.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.47642913460731506,
+                    "sentence": "Kara Swisher, the host of Opinion's Sway podcast, will give readers an inside track on the changing power dynamics in tech and media.The sociologist and essayist Tressie McMillan Cottom will offer her singular analysis on everything from race to pop culture, from economics to beauty.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.48951783776283264,
+                    "sentence": "Tish Harrison Warren, an Anglican priest, will reflect on faith and spirituality in everyday life.Peter Coy, a veteran business columnist, will explain to his readers how economics underpins, well, everything.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5523331165313721,
+                    "sentence": "Jay Caspian Kang, a wide-ranging magazine writer, will walk readers through many of the day's thorniest issues in politics and culture.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09595949947834015,
+                    "sentence": "And Jane Coaston, host of The Argument, another Times Opinion podcast, will give readers the missing context and history on the most significant debates in sports, politics and more.The widely read Opinion writers Jamelle Bouie, Paul Krugman and Frank Bruni will also be a part of these subscriber-exclusive offerings.Among the newsletters produced by my colleagues in the newsroom, On Politics, On Tech With Shira Ovide, On Soccer With Rory Smith, Smarter Living, Well, Watching, At Home and Away, and Parenting will become available only to subscribers.This is just the beginning.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07954219728708267,
+                    "sentence": "Stay tuned for more additions to our lineup in the coming weeks and months.One of the aims with this effort is to give Times subscribers the opportunity to dive into subjects they care about through the lens of the Times's singular journalism.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.10508876293897629,
+                    "sentence": "Our editors, of course, will continue to do what they do so well: helping guide writers to produce their best work.I hope you'll sign up for some of them today.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.19729206963249518,
+            "class_probabilities": {
+                "human": 0.8027079303675048,
+                "ai": 0.19729206963249518,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8027079303675048,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.19729206963249518,
+                    "human": 0.8027079303675048,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Introducing a new benefit for subscribers.This article also appears in the Opinion Today newsletter.You can sign up hereto receive it in your inbox each weekday morning.The Times has been sending newsletters to readers for two decades, but we’ve seen a particular explosion of interest in the medium in the past few years. Readers have clearly embraced the convenience of Times journalism landing in their inboxes: Our newsletter audience is well into the millions and continues to grow as we’ve increased our offering to more than 50 newsletters across news and Opinion.This week,we are announcing the next stepin the evolution of newsletters at The Times: A selection of our newsletters will soon be reserved for subscribers. And as part of this new subscriber benefit, we in Opinion are adding exciting new voices to our portfolio.The linguist and commentator John McWhorter will write about how race and language shape our culture. Kara Swisher, the host of Opinion’s Sway podcast, will give readers an inside track on the changing power dynamics in tech and media.The sociologist and essayist Tressie McMillan Cottom will offer her singular analysis on everything from race to pop culture, from economics to beauty. Tish Harrison Warren, an Anglican priest, will reflect on faith and spirituality in everyday life.Peter Coy, a veteran business columnist, will explain to his readers how economics underpins, well, everything. Jay Caspian Kang, a wide-ranging magazine writer, will walk readers through many of the day’s thorniest issues in politics and culture. And Jane Coaston, host of The Argument, another Times Opinion podcast, will give readers the missing context and history on the most significant debates in sports, politics and more.The widely read Opinion writers Jamelle Bouie, Paul Krugman and Frank Bruni will also be a part of these subscriber-exclusive offerings.Among the newsletters produced by my colleagues in the newsroom, On Politics, On Tech With Shira Ovide, On Soccer With Rory Smith, Smarter Living, Well, Watching, At Home and Away, and Parenting will become available only to subscribers.This is just the beginning. Stay tuned for more additions to our lineup in the coming weeks and months.One of the aims with this effort is to give Times subscribers the opportunity to dive into subjects they care about through the lens of the Times’s singular journalism. Our editors, of course, will continue to do what they do so well: helping guide writers to produce their best work.I hope you’ll sign up for some of them today."
+        }
+    ]
+}

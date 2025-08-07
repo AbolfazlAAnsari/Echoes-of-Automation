@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.013923239894211292,
+                    "sentence": "Published 6:03 pm Friday, March 10, 2023BySuffolk News-Herald Editorial BoardSunshine Week is our annual chance to educate while we celebrate the freedom of information about our government we as citizens are entitled to.Without so-called sunshine laws, those in power would be able to make important actions on complex issues that impact your lives shrouded in secrecy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006207201164215803,
+                    "sentence": "Even with laws meant to prevent that, attempts are still made.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.014165522530674934,
+                    "sentence": "We must stay vigilant.Despite a decidedly unfriendly current climate for many journalists covering city halls, courthouses and both state and White houses, we have an obligation to push forward.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01111541222780943,
+                    "sentence": "If we do not look beyond official statements and soundbites we don't get close to the truth about how our government functions.This is not an occasion to beat our chests or pat ourselves on the back.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.016732223331928253,
+                    "sentence": "In fact, the week is as much about reminding you of your own rights to information and refreshing the memories of those who are stewards of the public's money and trust of their responsibility to you.Sunshine Week, which runs March 12-18, was launched in 2005 by the American Society of News Editors ᅳ now News Leaders Association ᅳ and has grown into an enduring initiative to promote open government.Some public officials are more aware of and willing to embrace this responsibility than others.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008269471116364002,
+                    "sentence": "Without understanding what we are entitled to, it is impossible to hold those in power fully accountable.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004190980922430754,
+                    "sentence": "It is our own charge as journalists not to take “no” for an answer when the law is on our side.It often is.The federal Freedom of Information Act provides us access to federal documents with limited exceptions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00592923816293478,
+                    "sentence": "At the state level, we rely on the Virginia Freedom of Information Act to allow us to look behind curtains and delve into the documentation of how our tax dollars are spent.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010002976283431053,
+                    "sentence": "We are fortunate that our means of accessing information are simpler in Virginia than some places.Those laws are not for us alone as journalists in detecting the truth about how decisions are made on our behalf.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0154995983466506,
+                    "sentence": "They are for all of us.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03411637619137764,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.039839419682113825,
+            "class_probabilities": {
+                "human": 0.9601605803178862,
+                "ai": 0.039839419682113825,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601605803178862,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039839419682113825,
+                    "human": 0.9601605803178862,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 6:03 pm Friday, March 10, 2023BySuffolk News-Herald Editorial BoardSunshine Week is our annual chance to educate while we celebrate the freedom of information about our government we as citizens are entitled to.Without so-called sunshine laws, those in power would be able to make important actions on complex issues that impact your lives shrouded in secrecy. Even with laws meant to prevent that, attempts are still made. We must stay vigilant.Despite a decidedly unfriendly current climate for many journalists covering city halls, courthouses and both state and White houses, we have an obligation to push forward. If we do not look beyond official statements and soundbites we don’t get close to the truth about how our government functions.This is not an occasion to beat our chests or pat ourselves on the back. In fact, the week is as much about reminding you of your own rights to information and refreshing the memories of those who are stewards of the public’s money and trust of their responsibility to you.Sunshine Week, which runs March 12-18, was launched in 2005 by the American Society of News Editors — now News Leaders Association — and has grown into an enduring initiative to promote open government.Some public officials are more aware of and willing to embrace this responsibility than others. Without understanding what we are entitled to, it is impossible to hold those in power fully accountable. It is our own charge as journalists not to take “no” for an answer when the law is on our side.It often is.The federal Freedom of Information Act provides us access to federal documents with limited exceptions. At the state level, we rely on the Virginia Freedom of Information Act to allow us to look behind curtains and delve into the documentation of how our tax dollars are spent. We are fortunate that our means of accessing information are simpler in Virginia than some places.Those laws are not for us alone as journalists in detecting the truth about how decisions are made on our behalf. They are for all of us.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…"
+        }
+    ]
+}

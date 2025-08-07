@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.859006404876709,
+                    "sentence": "From our writers to our readers, there is plenty of healthy discussion, writes Chris StevensonSo here we go: another step along the government's roadmap aiming for the end of lockdown.There has been plenty of talk from readers as they share their thoughts on the latestCovid-19variant.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.8036582469940186,
+                    "sentence": "You can see the two sides of the debate on our letters page, and it is clear that feelings are running high.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.8443556427955627,
+                    "sentence": "Some are deeply concerned by the way things have been handled, while others are desperate for the new variant not to have an effect on the remaining timeline for ending lockdown.In Voices, Amy Nickellhas writtenabout how she is looking forward to things like going to the cinema again, while James Moorewrote on Saturdayabout the caution he feels over the latest measures.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9272623062133789,
+                    "sentence": "I'm sure this is being replicated across the country, with some people overjoyed to be moving towards the freedom promised (for now at least) in June, and some who would prefer to be moving a little slower.Whatever you feel about howBoris Johnsonis dealing with theIndiavariant - and Labour's Yvette Cooper,writing for The Independent, is very clear that she believes the prime minister is making a mistake - the way forward is a difficult path.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.12476621568202972,
+                    "sentence": "Whatever happens, a proportion of the population is bound to be left feeling as though the wrong decision has been made.As with everything Covid-related, there are no simple decisions - and there will always be disagreement about how things should be handled.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1317737102508545,
+                    "sentence": "There is no doubting that mistakes have been made by the government during the pandemic, as many of our readers have pointed out during the past 12 months.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.10651055723428726,
+                    "sentence": "The aim should be to make no more.I'm sure the debate about the way forward will continue to be had across our letters page, and we will be here to keep you up to date with whatever comes next.Yours,Chris StevensonVoices editorRead MoreThis is a crucial week for the economy - but the Indian variant of Covid-19 has clouds forming on the horizonSome of world's poorest countries won't reach 20% vaccine coverage until early 2022, analysis findsOur NHS faces complex challenges in a post-Covid world",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 0.11601769141592862
+                }
+            ],
+            "completely_generated_prob": 0.44680851063829785,
+            "class_probabilities": {
+                "human": 0.5531914893617021,
+                "ai": 0.44680851063829785,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.5531914893617021,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.44680851063829785,
+                    "human": 0.5531914893617021,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "From our writers to our readers, there is plenty of healthy discussion, writes Chris StevensonSo here we go: another step along the government's roadmap aiming for the end of lockdown.There has been plenty of talk from readers as they share their thoughts on the latestCovid-19variant. You can see the two sides of the debate on our letters page, and it is clear that feelings are running high. Some are deeply concerned by the way things have been handled, while others are desperate for the new variant not to have an effect on the remaining timeline for ending lockdown.In Voices, Amy Nickellhas writtenabout how she is looking forward to things like going to the cinema again, while James Moorewrote on Saturdayabout the caution he feels over the latest measures. I'm sure this is being replicated across the country, with some people overjoyed to be moving towards the freedom promised (for now at least) in June, and some who would prefer to be moving a little slower.Whatever you feel about howBoris Johnsonis dealing with theIndiavariant - and Labour's Yvette Cooper,writing for The Independent, is very clear that she believes the prime minister is making a mistake - the way forward is a difficult path. Whatever happens, a proportion of the population is bound to be left feeling as though the wrong decision has been made.As with everything Covid-related, there are no simple decisions - and there will always be disagreement about how things should be handled. There is no doubting that mistakes have been made by the government during the pandemic, as many of our readers have pointed out during the past 12 months. The aim should be to make no more.I'm sure the debate about the way forward will continue to be had across our letters page, and we will be here to keep you up to date with whatever comes next.Yours,Chris StevensonVoices editorRead MoreThis is a crucial week for the economy - but the Indian variant of Covid-19 has clouds forming on the horizonSome of world's poorest countries won't reach 20% vaccine coverage until early 2022, analysis findsOur NHS faces complex challenges in a post-Covid world"
+        }
+    ]
+}

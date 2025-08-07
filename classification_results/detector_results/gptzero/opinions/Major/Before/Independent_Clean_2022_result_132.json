@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00028396412380971014,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001561501994729042,
+                    "sentence": "Please send your letters toletters@independent.co.ukThis government is not only \"bereft of ideas\" when it comes to addressing thecost of livingcrisis, it just does not care.Why does it not care?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019981277000624686,
+                    "sentence": "It cannot remotely relate to the daily lives of ordinary people and to the challenges they are facing, with fuel costs going through the roof and rising inflation.I am in my 70s, born during post-war austerity, and this feels like the worst economic and social crisis since then.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015463758609257638,
+                    "sentence": "It will destroy lives, families and communities, and our society will be damaged for generations to come.John E HarrisonChorleyBoris Johnson has attempted to assuage fears over the cost of living by informing MPs:\"We will continue to use all our ingenuity and compassion for as long as it takes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011046027793781832,
+                    "sentence": "\"We're doomed.Katharine PowellNestonFundamental hypocrisyI note that Boris Johnson's government intends to plough ahead with \"a ban on publicly funded bodies supporting boycotts such as the Boycott, Divestment and Sanctions (BDS) campaign\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015106602222658694,
+                    "sentence": "This is just the latest variation on repeated and widely ridiculed attempts by successive Tory governments.This time around, however, Boris Johnson's government is wholeheartedly committed to a high-profile international boycott campaign - which, for the record, I support - to counter aggressive expansionism by another rogue state.Surely then, it is fundamentally hypocritical and anti-democratic for his government to attempt to block publicly funded bodies from exercising their discretion in a similar manner.This latest attempt serves as yet another acknowledgement of the growing strength and effectiveness of the peaceful, global BDS campaign.It also demonstrates that unconditional supporters of the Israeli state have lost the moral argument against the BDS campaign, which, in any case, is simply calling for the implementation of international law in the region.Brian Ó ÉigeartaighDublinYear 6 SATsJames Moore's assessment ofSATs, and by extension year 6, resonates.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002510615740902722,
+                    "sentence": "For a number of reasons, we took our youngest out of school part way through the final year of junior school.A consequence of this is that he has no SAT results.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002682108315639198,
+                    "sentence": "The lack of these \"scores\" has made not the slightest difference to his ongoing education; he starts GCSE exams today.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002770485880319029,
+                    "sentence": "I would regard this as evidence of their complete irrelevance for the child.Alistair SmeatonCumbriaTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereNo coalitionNow that the dust is beginning to settle after the latest Scottish council elections, it is increasingly puzzling that the Labour Party is opposing forming formal coalitions with the Tories orSNP, despite such arrangements existing in the last term.This nonsensical \"no coalition\" pledge is most recently being played out in Edinburgh, where it seems that Labour's leader on the council wants to continue its partnership with the SNP, but Labour HQ has overruled this.Labour accuses the SNP of not valuing councils and undermining local democracy, yet in the same breath they clearly do not trust council colleagues to decide what is best for their own areas.Labour should also have been clearer to voters in its own campaign material that in the vast majority of cases, it had no chance of being in administration given the PR electoral system.Despite making moderate advances at the election, the irony is that Labour, which aspires to form the Scottish government, will inevitably be in administration in considerably fewer councils than previously.Alex OrrEdinburgh",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.015281828032010496,
+            "class_probabilities": {
+                "human": 0.9847181719679895,
+                "ai": 0.015281828032010496,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9847181719679895,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.015281828032010496,
+                    "human": 0.9847181719679895,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThis government is not only \"bereft of ideas\" when it comes to addressing thecost of livingcrisis, it just does not care.Why does it not care? It cannot remotely relate to the daily lives of ordinary people and to the challenges they are facing, with fuel costs going through the roof and rising inflation.I am in my 70s, born during post-war austerity, and this feels like the worst economic and social crisis since then. It will destroy lives, families and communities, and our society will be damaged for generations to come.John E HarrisonChorleyBoris Johnson has attempted to assuage fears over the cost of living by informing MPs:\"We will continue to use all our ingenuity and compassion for as long as it takes.\"We're doomed.Katharine PowellNestonFundamental hypocrisyI note that Boris Johnson's government intends to plough ahead with \"a ban on publicly funded bodies supporting boycotts such as the Boycott, Divestment and Sanctions (BDS) campaign\". This is just the latest variation on repeated and widely ridiculed attempts by successive Tory governments.This time around, however, Boris Johnson's government is wholeheartedly committed to a high-profile international boycott campaign - which, for the record, I support - to counter aggressive expansionism by another rogue state.Surely then, it is fundamentally hypocritical and anti-democratic for his government to attempt to block publicly funded bodies from exercising their discretion in a similar manner.This latest attempt serves as yet another acknowledgement of the growing strength and effectiveness of the peaceful, global BDS campaign.It also demonstrates that unconditional supporters of the Israeli state have lost the moral argument against the BDS campaign, which, in any case, is simply calling for the implementation of international law in the region.Brian Ó ÉigeartaighDublinYear 6 SATsJames Moore's assessment ofSATs, and by extension year 6, resonates. For a number of reasons, we took our youngest out of school part way through the final year of junior school.A consequence of this is that he has no SAT results. The lack of these \"scores\" has made not the slightest difference to his ongoing education; he starts GCSE exams today. I would regard this as evidence of their complete irrelevance for the child.Alistair SmeatonCumbriaTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereNo coalitionNow that the dust is beginning to settle after the latest Scottish council elections, it is increasingly puzzling that the Labour Party is opposing forming formal coalitions with the Tories orSNP, despite such arrangements existing in the last term.This nonsensical \"no coalition\" pledge is most recently being played out in Edinburgh, where it seems that Labour's leader on the council wants to continue its partnership with the SNP, but Labour HQ has overruled this.Labour accuses the SNP of not valuing councils and undermining local democracy, yet in the same breath they clearly do not trust council colleagues to decide what is best for their own areas.Labour should also have been clearer to voters in its own campaign material that in the vast majority of cases, it had no chance of being in administration given the PR electoral system.Despite making moderate advances at the election, the irony is that Labour, which aspires to form the Scottish government, will inevitably be in administration in considerably fewer councils than previously.Alex OrrEdinburgh"
+        }
+    ]
+}

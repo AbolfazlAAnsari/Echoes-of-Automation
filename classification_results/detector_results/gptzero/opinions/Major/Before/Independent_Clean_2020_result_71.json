@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0014825975522398949,
+                    "sentence": "I so enjoyed readingJohn Rentoul's tongue-in-cheek analysisof this populist Budget from our box-ticking chancellor, who knows that a liberal spoonful of sugar will help the public health crisis go down, if not out of our stricken and sick world.I suspect Theresa May was not too happy about this crowd-pleasing effort, but what did she expect?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001487552304752171,
+                    "sentence": "The money trees are flourishing because Team Boris has watered and cosseted them to their full flowering munificence.The liberal Tory is the new kid on the block and Labour must now play catch-up and identify the omissions and discrepancies in this Budget.Judith A Daniels Great YarmouthAusterity isn't over yetHaven't I heard this somewhere before?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001540450262837112,
+                    "sentence": "\"Budget 2020 brings end to austerity policies with borrowing-fuelled spending\".Theresa May announced at the Tory conference in 2018 that \"austerity\" was over, without evidence, only grabbing the headlines.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0031231457833200693,
+                    "sentence": "Austerity proved to be more resilient.It won't be over until we witness the money promises made good and the fat lady has finished singing.Eddie Dougall Bury St EdmundsWhat's wrong with new roads?Why the criticism of theroad-building plansas announced in the Budget?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016575588379055262,
+                    "sentence": "Will electric cars not require decent roads on which to travel?Michael Pate PrestonTrump's coronavirus measuresThe only foreign policy principle which Donald Trump recognises istit for tat.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016519578639417887,
+                    "sentence": "To protect ourselves from increased risk of coronavirus spread, we should now ban all flights between the UK and the US.Ian Hurdley FerndownSchools and colleges in Ireland close for two weeks to stop coronavirusAccepting death as part of lifeYesterday's edition saw an excellent selection ofletters.I concur with Susan Alexander in relation to our societal attitude towards death.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0021716314367949963,
+                    "sentence": "If we could (as a culture) come to accept that death is a perfectly normal resultant of life itself, then the suffering inextricably linked to life and being might well become much more tolerable for us all.Peter Dilworth AngleseyWe need hands-free tapsWith all the emphasis on hand washing these days, I'm wondering what, if any, consideration is being given to the relative merits of hands-free faucets versus manual faucets in the prevention of the spread of coronavirus.Thomas Sullivan Massachusetts",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "I so enjoyed readingJohn Rentoul's tongue-in-cheek analysisof this populist Budget from our box-ticking chancellor, who knows that a liberal spoonful of sugar will help the public health crisis go down, if not out of our stricken and sick world.I suspect Theresa May was not too happy about this crowd-pleasing effort, but what did she expect? The money trees are flourishing because Team Boris has watered and cosseted them to their full flowering munificence.The liberal Tory is the new kid on the block and Labour must now play catch-up and identify the omissions and discrepancies in this Budget.Judith A Daniels                                          Great YarmouthAusterity isn't over yetHaven't I heard this somewhere before?\"Budget 2020 brings end to austerity policies with borrowing-fuelled spending\".Theresa May announced at the Tory conference in 2018 that \"austerity\" was over, without evidence, only grabbing the headlines. Austerity proved to be more resilient.It won't be over until we witness the money promises made good and the fat lady has finished singing.Eddie Dougall                                          Bury St EdmundsWhat's wrong with new roads?Why the criticism of theroad-building plansas announced in the Budget? Will electric cars not require decent roads on which to travel?Michael Pate                                          PrestonTrump's coronavirus measuresThe only foreign policy principle which Donald Trump recognises istit for tat. To protect ourselves from increased risk of coronavirus spread, we should now ban all flights between the UK and the US.Ian Hurdley                                          FerndownSchools and colleges in Ireland close for two weeks to stop coronavirusAccepting death as part of lifeYesterday's edition saw an excellent selection ofletters.I concur with Susan Alexander in relation to our societal attitude towards death. If we could (as a culture) come to accept that death is a perfectly normal resultant of life itself, then the suffering inextricably linked to life and being might well become much more tolerable for us all.Peter Dilworth                                          AngleseyWe need hands-free tapsWith all the emphasis on hand washing these days, I'm wondering what, if any, consideration is being given to the relative merits of hands-free faucets versus manual faucets in the prevention of the spread of coronavirus.Thomas Sullivan                                          Massachusetts"
+        }
+    ]
+}

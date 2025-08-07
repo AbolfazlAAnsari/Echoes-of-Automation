@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00021287085837684572,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00020040902018081397,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe prospect of tax cuts inthe upcoming Budgetis nothing more than gesture politics; short-term, shallow electioneering by a government that has no commitment to the long-term interests of the nation.Without a doubt, those who will benefit from such tax cuts will be those onmiddle and higher incomes,while those who have been impoverished by 14 years of austerity measures will continue to struggle as the essential services upon which they depend buckle through continuous underinvestment.All this is designed by a cynicalgovernment to garner a few votesfrom the electorate and make it more difficult for an incoming Labour government to stimulate economic growth.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001637816458242014,
+                    "sentence": "As most economists have been telling us for some time, increased productivitydepends upon investmentthat should be encouraged by a government that has a strategic plan for the nation's finances, rather than one that usesshort-term gestureswith no other purpose than to con the credulous.Graham PowellCirencesterCasting the first stoneMaybe before Rishi Sunak lecturesthe country about extremism,he could deal with the problems in his own party?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014559990086127073,
+                    "sentence": "After all, the likes of Boris Johnson,Lee Anderson, Suella Braverman and Liz Truss have been far from perfect when it comes to their choice of words.Remember readers:Johnson comparedMuslim women to letterboxes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011951826309086755,
+                    "sentence": "Anderson made Islamophobic comments.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014216134150046855,
+                    "sentence": "Braverman incited the far right.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014955055667087436,
+                    "sentence": "And Truss refused tocondemn Tommy Robinson.If Sunak wants to stop hatred from spreading, he should start with the rhetoric coming out of his own party in the first place.Geoffrey BrookingHavantKilling off our democratic rightsSunak's claims that extremists are targeting protest demonstrations whilegiving police carte blancheto pre-emptively shut protests down before they have even marched is, by default, killing ademocratic right heldby all.Indeed, it only heightens the old adage that politicians love demonstrations so long as it's not their own public protesting against their own policies.David MurphyDublinActions speak louder than wordsLike many, I was dismayed byGeorge Galloway's success inRochdale.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002812102611642331,
+                    "sentence": "Given his previous political exploits, the electorate deserved better.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6285117268562317,
+                    "sentence": "But many used their vote to express their abhorrence at events in Gaza - soruthlessly exploited by Galloway.The heinous events of 7 October, 2023, were rightly condemned, but many politicians and commentators failed to ask why it happened for fear of exposing past historic and continuing injustices that have led to loss of life and property, inflicted on the Palestinian people.Israel has a right to coexist with Palestine but not an absolute right to dominate.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.30897057056427,
+                    "sentence": "Their current military campaign is evidence of wanting to destroy not only Hamas but the will of the Palestinian people.If we are to defeat extremism, let us condemn not just extremist rhetoric but also extremist action.David HillWaterloovilleNot amusedThe morons who defaced the Queen Victoria sculpture at Kelvingrove by spraying infantileswear words and other substanceson it show how cretinous their protest really is.They claim to be protesting about food costs but actually waste food during their protest.It is high time mandatorycustodial sentences for vandalisingworks of art were introduced in this country!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.047906097024679184,
+                    "sentence": "I would suggest six months minimum...Ian McNicholasEbbw Vale",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.1276676162807097,
+            "class_probabilities": {
+                "human": 0.8722807660846754,
+                "ai": 0.1276676162807097,
+                "mixed": 5.161763461484218e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8722807660846754,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.1276676162807097,
+                    "human": 0.8722807660846754,
+                    "mixed": 5.161763461484218e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW : Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThe prospect of tax cuts inthe upcoming Budgetis nothing more than gesture politics; short-term, shallow electioneering by a government that has no commitment to the long-term interests of the nation.Without a doubt, those who will benefit from such tax cuts will be those onmiddle and higher incomes,while those who have been impoverished by 14 years of austerity measures will continue to struggle as the essential services upon which they depend buckle through continuous underinvestment.All this is designed by a cynicalgovernment to garner a few votesfrom the electorate and make it more difficult for an incoming Labour government to stimulate economic growth. As most economists have been telling us for some time, increased productivitydepends upon investmentthat should be encouraged by a government that has a strategic plan for the nation’s finances, rather than one that usesshort-term gestureswith no other purpose than to con the credulous.Graham PowellCirencesterCasting the first stoneMaybe before Rishi Sunak lecturesthe country about extremism,he could deal with the problems in his own party? After all, the likes of Boris Johnson,Lee Anderson, Suella Braverman and Liz Truss have been far from perfect when it comes to their choice of words.Remember readers:Johnson comparedMuslim women to letterboxes.  Anderson made Islamophobic comments. Braverman incited the far right. And Truss refused tocondemn Tommy Robinson.If Sunak wants to stop hatred from spreading, he should start with the rhetoric coming out of his own party in the first place.Geoffrey BrookingHavantKilling off our democratic rightsSunak’s claims that extremists are targeting protest demonstrations whilegiving police carte blancheto pre-emptively shut protests down before they have even marched is, by default, killing ademocratic right heldby all.Indeed, it only heightens the old adage that politicians love demonstrations so long as it’s not their own public protesting against their own policies.David MurphyDublinActions speak louder than wordsLike many, I was dismayed byGeorge Galloway’s success inRochdale.  Given his previous political exploits, the electorate deserved better. But many used their vote to express their abhorrence at events in Gaza – soruthlessly exploited by Galloway.The heinous events of 7 October, 2023, were rightly condemned, but many politicians and commentators failed to ask why it happened for fear of exposing past historic and continuing injustices that have led to loss of life and property, inflicted on the Palestinian people.Israel has a right to coexist with Palestine but not an absolute right to dominate. Their current military campaign is evidence of wanting to destroy not only Hamas but the will of the Palestinian people.If we are to defeat extremism, let us condemn not just extremist rhetoric but also extremist action.David HillWaterloovilleNot amusedThe morons who defaced the Queen Victoria sculpture at Kelvingrove by spraying infantileswear words and other substanceson it show how cretinous their protest really is.They claim to be protesting about food costs but actually waste food during their protest.It is high time mandatorycustodial sentences for vandalisingworks of art were introduced in this country! I would suggest six months minimum...Ian McNicholasEbbw Vale"
+        }
+    ]
+}

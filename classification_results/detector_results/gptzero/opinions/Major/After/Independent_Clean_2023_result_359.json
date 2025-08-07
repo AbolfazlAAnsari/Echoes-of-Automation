@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 4.874850856140256e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.294984632404521e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukSince day one of his political career, I have repudiated all thatNigel Faragestands for.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.377258665044792e-05,
+                    "sentence": "I cannot immediately recall agreeing with a single thing he has said in the past.However, I find myself in total agreement with him over hiscriticism of James Cleverly.How can a senior government minister attempt to claim credit for wild and windyweather?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.326305836206302e-05,
+                    "sentence": "We are roughly 70km from the coast, and over theChristmas period,it was windy enough here to make the great outdoors uncomfortable, let alone trying to sail a dinghy on the Channel!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.310040094424039e-05,
+                    "sentence": "Coming quickly after his recent distasteful “joke”, I feel it may be time for a new home secretary!Robert BostonKentForget Die Hard - here's a real Christmas filmI enjoyedGemma Abbott's piece on Die Hard.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.803596675628796e-05,
+                    "sentence": "A friend of mine tried for years to make me watch this film because it's “Christmassy”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.8683392378734425e-05,
+                    "sentence": "I never complied.May I suggest an alternative?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.905747432028875e-05,
+                    "sentence": "Desk Set (1957) is a Katharine Hepburn/Spencer Tracy classic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.7718771384097636e-05,
+                    "sentence": "It is funny, has a happy ending, and is set at Christmas.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.535905802389607e-05,
+                    "sentence": "Best of all, it features the victory of human endeavour over computers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001799973106244579,
+                    "sentence": "I recommend it for seasonal viewing.Dudley DColchesterParents aren't to blame for struggling kids - the Tories areJames Daley, the MP for Bury North, insists that most children who struggle in his constituency are the “products of crap parents”.Daley made the comment in the course of explaining to the world what the New Conservative group stands for, arguing they are not a “strange right-wing sect”.But by blaming what he calls “crap parents” for the economic and social catastrophe that Tory neoliberal dogma has wrought on society, he proves that his New Conservative group is precisely that.Working people are struggling in the UK because of nearly 14 years of absolutely “crap” Conservative government.Sasha SimicLondonAll the Tories have to offer struggling parents is insult after insultSo, as if the Conservatives didn't have enough problems with their “nasty” tag, yet more right-wing Tory MPs from their crumbling red wall have gone and put their feet in it.First to do so was Bury North MP, James Daly.A member of the so-called “New Conservatives” caucus, Daly claimed that most people who struggle in his town are “products of crap parents”.Daly was later backed by Bassetlaw red-wall MP Brendan Clarke-Smith.Daly later claimed he wanted people to succeed in life.Yet all comments like this do is underline what an awful sect these right-wingers are.These MPs seem to have little or no knowledge of working-class parents on £10 an hour who have to pay £7 of it for childcare.Under Labour, low-paid working people had Sure Start and tax credits.Under the Conservatives, all they get is insult after insult.It's time for change.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016131411539390683,
+                    "sentence": "It's time for Keir Starmer and Labour.Geoffrey BrookingHampshire",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.006608679833334143,
+            "class_probabilities": {
+                "human": 0.9933913201666659,
+                "ai": 0.006608679833334143,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933913201666659,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006608679833334143,
+                    "human": 0.9933913201666659,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukSince day one of his political career, I have repudiated all thatNigel Faragestands for. I cannot immediately recall agreeing with a single thing he has said in the past.However, I find myself in total agreement with him over hiscriticism of James Cleverly.How can a senior government minister attempt to claim credit for wild and windyweather? We are roughly 70km from the coast, and over theChristmas period,it was windy enough here to make the great outdoors uncomfortable, let alone trying to sail a dinghy on the Channel! Coming quickly after his recent distasteful “joke”, I feel it may be time for a new home secretary!Robert BostonKentForget Die Hard – here’s a real Christmas filmI enjoyedGemma Abbott’s piece on Die Hard.  A friend of mine tried for years to make me watch this film because it’s “Christmassy”. I never complied.May I suggest an alternative? Desk Set (1957) is a Katharine Hepburn/Spencer Tracy classic. It is funny, has a happy ending, and is set at Christmas. Best of all, it features the victory of human endeavour over computers. I recommend it for seasonal viewing.Dudley DColchesterParents aren’t to blame for struggling kids – the Tories areJames Daley, the MP for Bury North, insists that most children who struggle in his constituency are the “products of crap parents”.Daley made the comment in the course of explaining to the world what the New Conservative group stands for, arguing they are not a “strange right-wing sect”.But by blaming what he calls “crap parents” for the economic and social catastrophe that Tory neoliberal dogma has wrought on society, he proves that his New Conservative group is precisely that.Working people are struggling in the UK because of nearly 14 years of absolutely “crap” Conservative government.Sasha SimicLondonAll the Tories have to offer struggling parents is insult after insultSo, as if the Conservatives didn’t have enough problems with their “nasty” tag, yet more right-wing Tory MPs from their crumbling red wall have gone and put their feet in it.First to do so was Bury North MP, James Daly.A member of the so-called “New Conservatives” caucus, Daly claimed that most people who struggle in his town are “products of crap parents”.Daly was later backed by Bassetlaw red-wall MP Brendan Clarke-Smith.Daly later claimed he wanted people to succeed in life.Yet all comments like this do is underline what an awful sect these right-wingers are.These MPs seem to have little or no knowledge of working-class parents on £10 an hour who have to pay £7 of it for childcare.Under Labour, low-paid working people had Sure Start and tax credits.Under the Conservatives, all they get is insult after insult.It’s time for change. It’s time for Keir Starmer and Labour.Geoffrey BrookingHampshire"
+        }
+    ]
+}

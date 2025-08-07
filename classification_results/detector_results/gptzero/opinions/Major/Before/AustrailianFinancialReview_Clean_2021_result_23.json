@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.9776815176010132,
+                    "sentence": "Social equity Responding to Pru Goward's opinion piece last week, the head of ACOSS warns against looking at tropes about poverty rather than the real lack of opportunity that lies behind it.Poverty exists in Australia, but the people who live in poverty should not be blamed.Poverty is not caused by a lack of motivation and discipline, poor budgeting, bad genes or bad parenting.Instead, poverty is caused by a lack of resources.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9823529720306396,
+                    "sentence": "In modern, wealthy nations like Australia, this was supposed to be resolved decades ago by full employment, equitable access to free education and healthcare, social housing for people who can't afford to rent privately, and social security for people out of paid work.With some shocking exceptions, particularly for First Nations Peoples, up until the mid-1970s, we were making good progress.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.994086742401123,
+                    "sentence": "For many years, unemployment was well below the 4-5 per cent mark the government is now targeting.Pensions were lifted to 25 per cent of average earnings and unemployment payments were set at the same level - there was no judgmental divide between those deemed deserving of income support they could frugally live on and those who were not.We built universal healthcare and improved it, though there are gaps as wide as those in the teeth of people who can't afford to visit the dentist.For a while, the educational divide narrowed as public schools were better resourced and the first generation of young people from low-income families attended university.We invested in wage subsidies and training to lift people out of long-term unemployment.Prime minister Bob Hawke committed to ending child poverty, and quickly reduced it by a third as a result of direct policy action, delivering adequate family payments to low- and modest-income households.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05028732866048813,
+                    "sentence": "He was the last prime minister to make a serious attempt.As our ACOSS and UNSW Sydney report earlier this week showed, over the past two decades, government policies have driven systemic poverty across the community.While median household incomes have risen in real terms by 45 per cent, the incomes of people unemployed rose by just 12 per cent (almost all due to the paltry $25 per week increase in JobSeeker earlier this year), and low-income single parents with older children fared even worse, with income rising by a meagre 7.9 per cent.The failure to properly index unemployment payments means the gap between unemployment and pension payments rose from $45 per week in 2000 to $165 per week today.There are 1.2 million people on JobSeeker and Youth Allowance, which are just $45 and $36 per day respectively.Three-quarters have had to rely on income support for more than a year, not because they don't want jobs, but because they face persistent discrimination, stigma and lack of resources.In 2006, the government cut the incomes of single parents with children aged over 7, and in 2009, stopped indexing family payments to wages, greatly reducing their value.Three years later, 80,000 more single parents were shifted from Parenting Payment to Newstart and lost at least $75 a week.There were virtually no new social housing dwellings built over the past decade, so the share of social housing in our homes has fallen to 4.2 per cent, its lowest level since World War II.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.13476607203483582,
+                    "sentence": "Rents are rising sharply now, especially outside the major cities.We invest less than half the OECD average in employment assistance for people who are unemployed, and instead press people to apply for 20 jobs or face instant payment suspension.Again, the assumption is that people are feckless and undisciplined and if only they made more effort, they'd find a job.Currently, at least 3 million people in our communities are locked into poverty, hemmed in on one side by $45 a day unemployment payments, and on another by unaffordable rents and out-of-pocket health costs.With millions falling into poverty over the past 18 months, many more have been confronted by declining mental health and are struggling to retain hope.As another recent ACOSS and UNSW Sydney Report showed, the pandemic has hit hardest communities that were already disadvantaged.People on low incomes have been dying at four times the rate of the rest of the community.It is not surprising that the people with the least resources are often concentrated in the most disadvantaged neighbourhoods with the worst housing and access to services.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.23341213166713715,
+                    "sentence": "These are symptoms, not causes; lack of opportunity, not choices.However, the pandemic has also shown us that poverty can be eradicated if we commit to doing so.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.36597850918769836,
+                    "sentence": "The government almost abolished poverty for people receiving JobSeeker last year when it temporarily doubled income support payments.We can do this again, and restore full employment, and reduce educational and health inequity, if we set aside the tropes and stereotypes and commit to do it.As the Dutch historian and author Rutger Bregman writes: \"poverty isn't a lack of character, it's a lack of cash\".Cassandra Goldie is chief executive of the Australian Council of Social Service.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 0.01437310773797646
+                }
+            ],
+            "completely_generated_prob": 0.2425855513307985,
+            "class_probabilities": {
+                "human": 0.7574144486692015,
+                "ai": 0.2425855513307985,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.7574144486692015,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.2425855513307985,
+                    "human": 0.7574144486692015,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Social equity Responding to Pru Goward's opinion piece last week, the head of ACOSS warns against looking at tropes about poverty rather than the real lack of opportunity that lies behind it.Poverty exists in Australia, but the people who live in poverty should not be blamed.Poverty is not caused by a lack of motivation and discipline, poor budgeting, bad genes or bad parenting.Instead, poverty is caused by a lack of resources. In modern, wealthy nations like Australia, this was supposed to be resolved decades ago by full employment, equitable access to free education and healthcare, social housing for people who can't afford to rent privately, and social security for people out of paid work.With some shocking exceptions, particularly for First Nations Peoples, up until the mid-1970s, we were making good progress. For many years, unemployment was well below the 4-5 per cent mark the government is now targeting.Pensions were lifted to 25 per cent of average earnings and unemployment payments were set at the same level - there was no judgmental divide between those deemed deserving of income support they could frugally live on and those who were not.We built universal healthcare and improved it, though there are gaps as wide as those in the teeth of people who can't afford to visit the dentist.For a while, the educational divide narrowed as public schools were better resourced and the first generation of young people from low-income families attended university.We invested in wage subsidies and training to lift people out of long-term unemployment.Prime minister Bob Hawke committed to ending child poverty, and quickly reduced it by a third as a result of direct policy action, delivering adequate family payments to low- and modest-income households. He was the last prime minister to make a serious attempt.As our ACOSS and UNSW Sydney report earlier this week showed, over the past two decades, government policies have driven systemic poverty across the community.While median household incomes have risen in real terms by 45 per cent, the incomes of people unemployed rose by just 12 per cent (almost all due to the paltry $25 per week increase in JobSeeker earlier this year), and low-income single parents with older children fared even worse, with income rising by a meagre 7.9 per cent.The failure to properly index unemployment payments means the gap between unemployment and pension payments rose from $45 per week in 2000 to $165 per week today.There are 1.2 million people on JobSeeker and Youth Allowance, which are just $45 and $36 per day respectively.Three-quarters have had to rely on income support for more than a year, not because they don't want jobs, but because they face persistent discrimination, stigma and lack of resources.In 2006, the government cut the incomes of single parents with children aged over 7, and in 2009, stopped indexing family payments to wages, greatly reducing their value.Three years later, 80,000 more single parents were shifted from Parenting Payment to Newstart and lost at least $75 a week.There were virtually no new social housing dwellings built over the past decade, so the share of social housing in our homes has fallen to 4.2 per cent, its lowest level since World War II. Rents are rising sharply now, especially outside the major cities.We invest less than half the OECD average in employment assistance for people who are unemployed, and instead press people to apply for 20 jobs or face instant payment suspension.Again, the assumption is that people are feckless and undisciplined and if only they made more effort, they'd find a job.Currently, at least 3 million people in our communities are locked into poverty, hemmed in on one side by $45 a day unemployment payments, and on another by unaffordable rents and out-of-pocket health costs.With millions falling into poverty over the past 18 months, many more have been confronted by declining mental health and are struggling to retain hope.As another recent ACOSS and UNSW Sydney Report showed, the pandemic has hit hardest communities that were already disadvantaged.People on low incomes have been dying at four times the rate of the rest of the community.It is not surprising that the people with the least resources are often concentrated in the most disadvantaged neighbourhoods with the worst housing and access to services. These are symptoms, not causes; lack of opportunity, not choices.However, the pandemic has also shown us that poverty can be eradicated if we commit to doing so. The government almost abolished poverty for people receiving JobSeeker last year when it temporarily doubled income support payments.We can do this again, and restore full employment, and reduce educational and health inequity, if we set aside the tropes and stereotypes and commit to do it.As the Dutch historian and author Rutger Bregman writes: \"poverty isn't a lack of character, it's a lack of cash\".Cassandra Goldie is chief executive of the Australian Council of Social Service."
+        }
+    ]
+}

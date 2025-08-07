@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0001785849017323926,
+                    "sentence": "As HBO's hit series comes to a close, was everything foretold in Episode 1?Listen to and follow 'Matter of Opinion'Apple Podcasts|Spotify|Amazon MusicThe power struggle is finally over.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014452463074121624,
+                    "sentence": "Waystar Royco has a new C.E.O.And his last name isn't Roy.On this special episode of “Matter of Opinion,” Michelle Cottle, Ross Douthat, Carlos Lozada and Lydia Polgreen send off HBO's “Succession” and its cast of back-stabbing ultrawealthy characters.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017753205611370504,
+                    "sentence": "The hosts break down key moments of the finale (turns out it pays to be a pain sponge) and discuss the real story “Succession” told about America today.Thoughts?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021247289259918034,
+                    "sentence": "Email us atmatterofopinion@nytimes.comor leave us a voice mail message at (212) 556-7440.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011369372805347666,
+                    "sentence": "We may use excerpts from your message in a future episode.By leaving us a message, you are agreeing to be governed by ourreader submission termsand agreeing that we may use and allow others to use your name, voice and message.Follow our hosts on Twitter: Michelle Cottle (@mcottle), Ross Douthat (@DouthatNYT), Carlos Lozada (@CarlosNYT) and Lydia Polgreen (@lpolgreen).“Matter of Opinion” was produced and fact-checked this week by Phoebe Lett.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014997202379163355,
+                    "sentence": "It was edited by Annie-Rose Strasser.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010784803453134373,
+                    "sentence": "Mixing and original music by Isaac Jones and Pat McCusker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001766946807038039,
+                    "sentence": "Special thanks to Shannon Busta, Kristina Samulewski and Allison Benedikt.PHOTO: (PHOTOGRAPH BY Illustration by The New York Times; image by Macall B. Polay/HBO FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.006576924694833349,
+            "class_probabilities": {
+                "human": 0.9934230753051666,
+                "ai": 0.006576924694833349,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9934230753051666,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006576924694833349,
+                    "human": 0.9934230753051666,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "As HBO’s hit series comes to a close, was everything foretold in Episode 1?Listen to and follow ‘Matter of Opinion’Apple Podcasts|Spotify|Amazon MusicThe power struggle is finally over. Waystar Royco has a new C.E.O.And his last name isn’t Roy.On this special episode of “Matter of Opinion,” Michelle Cottle, Ross Douthat, Carlos Lozada and Lydia Polgreen send off HBO’s “Succession” and its cast of back-stabbing ultrawealthy characters. The hosts break down key moments of the finale (turns out it pays to be a pain sponge) and discuss the real story “Succession” told about America today.Thoughts? Email us atmatterofopinion@nytimes.comor leave us a voice mail message at (212) 556-7440. We may use excerpts from your message in a future episode.By leaving us a message, you are agreeing to be governed by ourreader submission termsand agreeing that we may use and allow others to use your name, voice and message.Follow our hosts on Twitter: Michelle Cottle (@mcottle), Ross Douthat (@DouthatNYT), Carlos Lozada (@CarlosNYT) and Lydia Polgreen (@lpolgreen).“Matter of Opinion” was produced and fact-checked this week by Phoebe Lett. It was edited by Annie-Rose Strasser. Mixing and original music by Isaac Jones and Pat McCusker. Special thanks to Shannon Busta, Kristina Samulewski and Allison Benedikt.PHOTO:  (PHOTOGRAPH BY Illustration by The New York Times; image by Macall B. Polay/HBO FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

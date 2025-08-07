@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0075777433812618256,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°About two and a half years into Russia's invasion of Ukraine, the latter has turned the tables with an incursion into the Russian region of Kursk ᅳ once the site of a pivotal WWII battle ᅳ that by some estimates has left it with control of more than 1,000 square kilometers.While both countries have now taken territory, there is no equivalence at all: Russia's attack on Ukraine was wholly unprovoked, whereas Ukraine's incursion is in direct response to Russia's attempted subjugation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013114804401993752,
+                    "sentence": "Russia is in Ukraine's territory because it intends to annex it as part of some misguided imperial project, forcing full assimilation or else.Ukraine has no intention of annexing Russia's territory, but instead under President Volodymyr Zelenskyy is seeking to temporarily hold it as leverage over the much larger aggressor, having realized that Russian President Vladimir Putin can keep throwing troops at the conflict and won't be easily dissuaded without more acute consequences.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.024020355194807053,
+                    "sentence": "The Ukrainian troops have targeted Russian forces and caused some Russian civilians to flee, but are not engaged in a wide campaign of terror, morale-breaking and war crimes, as their Russian counterparts have been credibly accused of doing during their invasion.Putin wanted war, he's getting war.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.027474787086248398,
+                    "sentence": "He believed his “special military operation” would have his troops marching into Kyiv within the week and Zelenskyy would fold, and he was dead wrong.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07771878689527512,
+                    "sentence": "These are the consequences; the despot has no ground to stand on to cry foul.Let's hope that Zelenskyy and his military leadership has gamed out the impact on all the front lines, as this offensive, tactically sound as it might be in its objectives, should not come at the cost of losing ground to Russian advances elsewhere.It's worth bearing in mind that an offensive of this type, against a far bigger adversary, is only possible because of support from the United States, NATO and other allies.Everything from the Ukrainians' small arms to drones to artillery ammunition depends in large part on this aid, which is what sustains their ability to keep Russia at bay and strike back.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.24328967928886414,
+                    "sentence": "Without these commitments, Ukraine would have certainly lost this war already, and we would all be worse off and less secure because of it.Whatever historic claims to Ukraine Putin claims to have, it's obvious that this flimsy rationalization would not stop him from looking further afield.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.26350799202919006,
+                    "sentence": "He's always hated the notion of a European mutual-defense pact, and attacked Ukraine in part to stick it to NATO.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.2787819504737854,
+                    "sentence": "What's to stop him from continuing on this project if he were to succeed with Ukraine?If anything, he'd be far more emboldened, though would have a diminished military with which to actually pursue these ends; despite his projected attributes, though, the man is clearly not all too strategic.The tides of the war have appeared to have shifted enough that no one can say with any measure of certainty how things are going to go.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.3901948034763336,
+                    "sentence": "This Ukrainian taking of Russian territory certainly marks a shift, both in momentum and strategy.How significant, we'll have to see, but one thing is for sure: Ukraine needs us and its other allies, and is proving that it can effectively use the tools we give it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02452690713107586,
+                    "sentence": "Let's not let domestic political squabbling derail that help.ᅳ New York Daily NewsDENVER ᅳ The Colorado athletics department informed The Denver Post that head coach Deion Sanders and anyone else within the Buffs football program will no longer take questions from columnist Sean Keeler.Not a single hat hit the ice to celebrate Jason Robertson's first career playoff hat trick that paced the Dallas Stars to a 5-3 road win over the Edmonton Oilers on Monday night in Game 3 of the Western Conference final.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.05926409517073789,
+            "class_probabilities": {
+                "human": 0.9407359048292621,
+                "ai": 0.05926409517073789,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9407359048292621,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.05926409517073789,
+                    "human": 0.9407359048292621,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°About two and a half years into Russia’s invasion of Ukraine, the latter has turned the tables with an incursion into the Russian region of Kursk — once the site of a pivotal WWII battle — that by some estimates has left it with control of more than 1,000 square kilometers.While both countries have now taken territory, there is no equivalence at all: Russia’s attack on Ukraine was wholly unprovoked, whereas Ukraine’s incursion is in direct response to Russia’s attempted subjugation. Russia is in Ukraine’s territory because it intends to annex it as part of some misguided imperial project, forcing full assimilation or else.Ukraine has no intention of annexing Russia’s territory, but instead under President Volodymyr Zelenskyy is seeking to temporarily hold it as leverage over the much larger aggressor, having realized that Russian President Vladimir Putin can keep throwing troops at the conflict and won’t be easily dissuaded without more acute consequences. The Ukrainian troops have targeted Russian forces and caused some Russian civilians to flee, but are not engaged in a wide campaign of terror, morale-breaking and war crimes, as their Russian counterparts have been credibly accused of doing during their invasion.Putin wanted war, he’s getting war. He believed his “special military operation” would have his troops marching into Kyiv within the week and Zelenskyy would fold, and he was dead wrong. These are the consequences; the despot has no ground to stand on to cry foul.Let’s hope that Zelenskyy and his military leadership has gamed out the impact on all the front lines, as this offensive, tactically sound as it might be in its objectives, should not come at the cost of losing ground to Russian advances elsewhere.It’s worth bearing in mind that an offensive of this type, against a far bigger adversary, is only possible because of support from the United States, NATO and other allies.Everything from the Ukrainians’ small arms to drones to artillery ammunition depends in large part on this aid, which is what sustains their ability to keep Russia at bay and strike back. Without these commitments, Ukraine would have certainly lost this war already, and we would all be worse off and less secure because of it.Whatever historic claims to Ukraine Putin claims to have, it’s obvious that this flimsy rationalization would not stop him from looking further afield. He’s always hated the notion of a European mutual-defense pact, and attacked Ukraine in part to stick it to NATO. What’s to stop him from continuing on this project if he were to succeed with Ukraine?If anything, he’d be far more emboldened, though would have a diminished military with which to actually pursue these ends; despite his projected attributes, though, the man is clearly not all too strategic.The tides of the war have appeared to have shifted enough that no one can say with any measure of certainty how things are going to go. This Ukrainian taking of Russian territory certainly marks a shift, both in momentum and strategy.How significant, we’ll have to see, but one thing is for sure: Ukraine needs us and its other allies, and is proving that it can effectively use the tools we give it. Let’s not let domestic political squabbling derail that help.— New York Daily NewsDENVER — The Colorado athletics department informed The Denver Post that head coach Deion Sanders and anyone else within the Buffs football program will no longer take questions from columnist Sean Keeler.Not a single hat hit the ice to celebrate Jason Robertson’s first career playoff hat trick that paced the Dallas Stars to a 5-3 road win over the Edmonton Oilers on Monday night in Game 3 of the Western Conference final."
+        }
+    ]
+}

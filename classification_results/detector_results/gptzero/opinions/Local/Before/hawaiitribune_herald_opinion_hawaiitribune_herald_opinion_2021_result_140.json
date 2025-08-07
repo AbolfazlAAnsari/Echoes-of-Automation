@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.04674529284238815,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Loss of freedomLoss of freedomCOVID-19: '20, '21, '22 and counting.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05723213031888008,
+                    "sentence": "Over 790,000 Americans dead.Freedom isn't free.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06332414597272873,
+                    "sentence": "Look at how much COVID-19 is costing us.Yet, these protesting anti-vaxxers don't see that.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07346910983324051,
+                    "sentence": "They trample on the freedom of those who got vaccinated.Non-vaxxers force us to lose our freedom of not having to wear masks.Also, we can't mingle, due to social-distancing protocols still in place.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07149384170770645,
+                    "sentence": "Thanks again, to the unvaccinated holdouts.Government and companies had to invoke mandates to protect us from the anti-vaxxers.Bah humbug to another Christmas viral resurgence.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05928809195756912,
+                    "sentence": "(Pssst ….",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0494658388197422,
+                    "sentence": "I heard Santa got vaccinated.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.120191790163517,
+                    "sentence": "For the kids' sake.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07563645392656326,
+                    "sentence": ")Lloyd FukukiWaimea'Stinky mess'The $28,500 EPA fine for Pahala's gang-cesspool went down the drain because the three branches of our local government have failed Big Island citizens.The administrative branch was mandated to upgrade the gang-cesspool, but no shovels ever went into the ground.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015589964459650218,
+                    "sentence": "The mayors failed.The legislative branch turned a blind eye while outside consultants laundered county funds in wastewater plans.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013947799743618816,
+                    "sentence": "The County Council failed.The judicial branch forces people to pay their illegal gang-cesspool bills.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013787529314868152,
+                    "sentence": "The judges failed.Thankfully, the newspaper continues to monitor this stinky mess.So, when will the next shoe plop?Jerry WarrenNaalehuMahalo, citizenI would like to thank the person who found my wife's purse Friday afternoon in the Kailua-Kona Home Depot parking lot and turned it into the store.I had loaded items out of the cart and neglected to see my wife's small purse with all of our credit cards, her ID and some cash.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022770027862861753,
+                    "sentence": "We drove off and went to Costco.When we realized what we had done, we returned to Home Depot, and because of your good character, my wife had her purse back with everything in it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002908771566580981,
+                    "sentence": "We wish we could thank you personally.Thank you.William KussmanHilo",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 1.9423489116273474e-12
+                }
+            ],
+            "completely_generated_prob": 0.06633669730667867,
+            "class_probabilities": {
+                "human": 0.9336633026933213,
+                "ai": 0.06633669730667867,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9336633026933213,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.06633669730667867,
+                    "human": 0.9336633026933213,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Loss of freedomLoss of freedomCOVID-19: ’20, ’21, ’22 and counting. Over 790,000 Americans dead.Freedom isn’t free. Look at how much COVID-19 is costing us.Yet, these protesting anti-vaxxers don’t see that. They trample on the freedom of those who got vaccinated.Non-vaxxers force us to lose our freedom of not having to wear masks.Also, we can’t mingle, due to social-distancing protocols still in place. Thanks again, to the unvaccinated holdouts.Government and companies had to invoke mandates to protect us from the anti-vaxxers.Bah humbug to another Christmas viral resurgence.(Pssst …. I heard Santa got vaccinated. For the kids’ sake.)Lloyd FukukiWaimea‘Stinky mess’The $28,500 EPA fine for Pahala’s gang-cesspool went down the drain because the three branches of our local government have failed Big Island citizens.The administrative branch was mandated to upgrade the gang-cesspool, but no shovels ever went into the ground. The mayors failed.The legislative branch turned a blind eye while outside consultants laundered county funds in wastewater plans. The County Council failed.The judicial branch forces people to pay their illegal gang-cesspool bills. The judges failed.Thankfully, the newspaper continues to monitor this stinky mess.So, when will the next shoe plop?Jerry WarrenNaalehuMahalo, citizenI would like to thank the person who found my wife’s purse Friday afternoon in the Kailua-Kona Home Depot parking lot and turned it into the store.I had loaded items out of the cart and neglected to see my wife’s small purse with all of our credit cards, her ID and some cash. We drove off and went to Costco.When we realized what we had done, we returned to Home Depot, and because of your good character, my wife had her purse back with everything in it. We wish we could thank you personally.Thank you.William KussmanHilo"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0004164182173553854,
+                    "sentence": "Opinion columnist Farhad Manjoo on why it's a bad idea to debate conspiracy theorists.The New York Times Audio app includes podcasts, narrated articles from the newsroom and other publishers, as well as exclusive new shows, which we're making available to readers for a limited time.Download the audio app here.Opinion columnist Farhad Manjoo has a rule about debating conspiracy theorists: don't.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004022715729661286,
+                    "sentence": "As he explains in this audio essay, it's a rule born of his experience debating Robert F. Kennedy Jr. back in 2006 ᅳ and one he wishes other people would adopt.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00033871331834234297,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005490652401931584,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005286153173074126,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.This Times Opinion audio piece was produced by Sophia Alvarez Boyd.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006409950437955558,
+                    "sentence": "It was edited by Stephanie Joyce.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006770152831450105,
+                    "sentence": "Fact-checking by Mary Marge Locker and Kate Sinclair.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006302964757196605,
+                    "sentence": "Mixing by Pat McCusker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007050669519230723,
+                    "sentence": "Original music by Pat McCusker and Carole Sabouraud.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001032052910886705,
+                    "sentence": "Special thanks to Kristina Samulewski, Shannon Busta and Annie-Rose Strasser.PHOTO: (PHOTOGRAPH BY Mark Peterson/Redux, for The New York Times FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.00982192507144982,
+            "class_probabilities": {
+                "human": 0.9901780749285501,
+                "ai": 0.00982192507144982,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9901780749285501,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.00982192507144982,
+                    "human": 0.9901780749285501,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Opinion columnist Farhad Manjoo on why it’s a bad idea to debate conspiracy theorists.The New York Times Audio app includes podcasts, narrated articles from the newsroom and other publishers, as well as exclusive new shows, which we’re making available to readers for a limited time.Download the audio app here.Opinion columnist Farhad Manjoo has a rule about debating conspiracy theorists: don’t. As he explains in this audio essay, it’s a rule born of his experience debating Robert F. Kennedy Jr. back in 2006 — and one he wishes other people would adopt.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.This Times Opinion audio piece was produced by Sophia Alvarez Boyd. It was edited by Stephanie Joyce. Fact-checking by Mary Marge Locker and Kate Sinclair. Mixing by Pat McCusker. Original music by Pat McCusker and Carole Sabouraud. Special thanks to Kristina Samulewski, Shannon Busta and Annie-Rose Strasser.PHOTO:  (PHOTOGRAPH BY Mark Peterson/Redux, for The New York Times FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

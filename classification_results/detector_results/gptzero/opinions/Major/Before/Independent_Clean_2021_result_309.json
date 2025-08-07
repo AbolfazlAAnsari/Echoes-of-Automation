@@ -1,0 +1,118 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 4.4933440221939236e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukIt's splendid to see so many pages dedicated to the 35th anniversary ofThe Independentnewspaper.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.5967899495735765e-05,
+                    "sentence": "I bought the first issue and thanks to my father's prompting I still have it, along with other firsts & lasts, in my special place in the loft.Mentioning the old paper edition reminded me that at its demise, I was truly concerned for the future, but it seems to me that we have gone from strength to strength.Keep up the good work and here's to another 35 years.Robert BostonKentCOP26 is the make or break momentI'm no expert onclimate changeand, like most people, mostly rely on the media for my information.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.9006768676918e-05,
+                    "sentence": "What I'm reading suggests that action is needed now to avoid total catastrophe in the coming years, decades and centuries.It seems to me that if politicians and corporations (deliberate weasel wording alert) genuinely care about our collective future,COP26is of utmost importance for world governance on the matter.So, it is both disappointing and alarming that the president of China won't be attending and, sadly, that the proponent of clownism is to host it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.093924846732989e-05,
+                    "sentence": "One can only hope that Xi Jinping changes his mind and that Boris changes his entire personality.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.327928374754265e-05,
+                    "sentence": "And that everyone understands the gravity and urgency of the situation.If not, we must begin writing our apology letters to our descendants who all stand in a colonial relationship with us, as they have no say on the decisions we make today but are the ones ultimately affected by them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.762203702237457e-05,
+                    "sentence": "This is the make or break moment for our children and children's children and those we will never meet.Ian HendersonNorfolkA bit richRecently, senior members of theroyal familyhave feigned interest in the environment.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011504803114803508,
+                    "sentence": "With their innumerable residences and private jets, it's a bit rich.What's a more egregious example than some crown having its own car to go to the state opening of parliament?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006431861547753215,
+                    "sentence": "Outside of industry, the extended royal family must have one if the largest carbon footprints in the country.Dr Anthony IngletonSheffieldFuel crisisThe government is recognising the rising cost of gas through its offer of grants for new boilers.In many areas, there is no gas available but those reliant on oil for heating are suffering similarly large increases in the cost of fuel.Will there be grants for these people as well?J LongstaffEast SussexIncipient totalitarianismSurely we haven't sunk to the level of incipient totalitarianism wherea single individual's \"opinion\"and what he or she happens to deem \"appropriate\" is what determines the lives of people seeking asylum in our country?The arbitrary powers that the home secretary,Priti Patel, is seeking to acquire for her office, in order to penalise the individual citizens of countries that refuse to take back failed asylum seekers by hiking the costs of their visas, are profoundly undemocratic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009285538690164685,
+                    "sentence": "They also have the potential to do incalculable damage to our already increasingly shaky global standing.Leaving aside the fact that this is a home secretary who has apparently given serious thought to \"processing\" asylum applicants on St Helena and in Rwanda, this proposal should be rejected out of hand on the grounds that no self-respecting democracy would vest such arbitrary powers in the hands of a single individual.D Maughan BrownYorkRead MoreLetters: We need action to protect MPs from abuse - online or offlineLetters: Sajid Javid should spend a week working in a GP practiceLetters: Since Boris Johnson came to power, it's embarrassing to be BritishLetters: Keir Starmer is right about Boris Johnson - he is a trivial manLetters: The only 'irresponsible crusties' are Boris Johnson and the ToriesLetters: How many politicians are benefitting from offshore arrangements?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 9,
+                    "completely_generated_prob": 4.1887248735431006e-08
+                }
+            ],
+            "completely_generated_prob": 0.00982192507144982,
+            "class_probabilities": {
+                "human": 0.9901780749285501,
+                "ai": 0.00982192507144982,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9901780749285501,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.00982192507144982,
+                    "human": 0.9901780749285501,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukIt's splendid to see so many pages dedicated to the 35th anniversary ofThe Independentnewspaper. I bought the first issue and thanks to my father's prompting I still have it, along with other firsts & lasts, in my special place in the loft.Mentioning the old paper edition reminded me that at its demise, I was truly concerned for the future, but it seems to me that we have gone from strength to strength.Keep up the good work and here's to another 35 years.Robert BostonKentCOP26 is the make or break momentI'm no expert onclimate changeand, like most people, mostly rely on the media for my information. What I'm reading suggests that action is needed now to avoid total catastrophe in the coming years, decades and centuries.It seems to me that if politicians and corporations (deliberate weasel wording alert) genuinely care about our collective future,COP26is of utmost importance for world governance on the matter.So, it is both disappointing and alarming that the president of China won't be attending and, sadly, that the proponent of clownism is to host it. One can only hope that Xi Jinping changes his mind and that Boris changes his entire personality. And that everyone understands the gravity and urgency of the situation.If not, we must begin writing our apology letters to our descendants who all stand in a colonial relationship with us, as they have no say on the decisions we make today but are the ones ultimately affected by them. This is the make or break moment for our children and children's children and those we will never meet.Ian HendersonNorfolkA bit richRecently, senior members of theroyal familyhave feigned interest in the environment. With their innumerable residences and private jets, it's a bit rich.What's a more egregious example than some crown having its own car to go to the state opening of parliament? Outside of industry, the extended royal family must have one if the largest carbon footprints in the country.Dr Anthony IngletonSheffieldFuel crisisThe government is recognising the rising cost of gas through its offer of grants for new boilers.In many areas, there is no gas available but those reliant on oil for heating are suffering similarly large increases in the cost of fuel.Will there be grants for these people as well?J LongstaffEast SussexIncipient totalitarianismSurely we haven't sunk to the level of incipient totalitarianism wherea single individual's \"opinion\"and what he or she happens to deem \"appropriate\" is what determines the lives of people seeking asylum in our country?The arbitrary powers that the home secretary,Priti Patel, is seeking to acquire for her office, in order to penalise the individual citizens of countries that refuse to take back failed asylum seekers by hiking the costs of their visas, are profoundly undemocratic. They also have the potential to do incalculable damage to our already increasingly shaky global standing.Leaving aside the fact that this is a home secretary who has apparently given serious thought to \"processing\" asylum applicants on St Helena and in Rwanda, this proposal should be rejected out of hand on the grounds that no self-respecting democracy would vest such arbitrary powers in the hands of a single individual.D Maughan BrownYorkRead MoreLetters: We need action to protect MPs from abuse - online or offlineLetters: Sajid Javid should spend a week working in a GP practiceLetters: Since Boris Johnson came to power, it's embarrassing to be BritishLetters: Keir Starmer is right about Boris Johnson - he is a trivial manLetters: The only 'irresponsible crusties' are Boris Johnson and the ToriesLetters: How many politicians are benefitting from offshore arrangements?"
+        }
+    ]
+}

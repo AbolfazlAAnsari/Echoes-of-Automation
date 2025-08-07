@@ -1,0 +1,94 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0016643520211800933,
+                    "sentence": "Abeo, a baby gorilla, has arrived at the Louisville Zoo to be socialized with his foster mom after his birth mother failed to become interested in her son.Abeo will live among a new gorilla family in Louisville, where he will be socialized with them after zoo workers in Seattle made the choice to move him from the west coast down to Kentucky.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008623198373243213,
+                    "sentence": "\"Every precautionary measure was taken for the baby gorilla's travel to reduce his health exposure and ensure his safe arrival,” Woodland Park said in a statement on Tuesday.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006290250457823277,
+                    "sentence": "“A Woodland Park Zoo gorilla caretaker and veterinarian accompanied him during transit straight through to Louisville and will stay as long as necessary to help ease his transition to his new home.”The multiple gorillas at the Louisville Zoo will help socialize Abeo more than just surviving on human care, according to Woodland Park Zoo.Abeo, who is now one-and-a-half, will be put with a female 40-year-old gorilla named Kweli, who has prior experience with fostering baby gorillas in the past.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008519474067725241,
+                    "sentence": "There will also be other gorillas in the family at the Louisville Zoo, including female 35-year-old Paki, 11-year-old Patty, 8-year-old Kindi and adult male gorilla, 42-year-old silverback Casey.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00028070167172700167,
+                    "sentence": "***.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                }
+            ],
+            "completely_generated_prob": 0.00982192507144982,
+            "class_probabilities": {
+                "human": 0.9901780749285501,
+                "ai": 0.00982192507144982,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9901780749285501,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.00982192507144982,
+                    "human": 0.9901780749285501,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Abeo, a baby gorilla, has arrived at the Louisville Zoo to be socialized with his foster mom after his birth mother failed to become interested in her son.Abeo will live among a new gorilla family in Louisville, where he will be socialized with them after zoo workers in Seattle made the choice to move him from the west coast down to Kentucky.\"Every precautionary measure was taken for the baby gorilla’s travel to reduce his health exposure and ensure his safe arrival,” Woodland Park said in a statement on Tuesday. “A Woodland Park Zoo gorilla caretaker and veterinarian accompanied him during transit straight through to Louisville and will stay as long as necessary to help ease his transition to his new home.”The multiple gorillas at the Louisville Zoo will help socialize Abeo more than just surviving on human care, according to Woodland Park Zoo.Abeo, who is now one-and-a-half, will be put with a female 40-year-old gorilla named Kweli, who has prior experience with fostering baby gorillas in the past. There will also be other gorillas in the family at the Louisville Zoo, including female 35-year-old Paki, 11-year-old Patty, 8-year-old Kindi and adult male gorilla, 42-year-old silverback Casey.*** ."
+        }
+    ]
+}

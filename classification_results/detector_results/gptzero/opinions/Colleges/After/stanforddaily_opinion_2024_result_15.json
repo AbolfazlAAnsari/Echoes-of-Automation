@@ -1,0 +1,177 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.001553442794829607,
+                    "sentence": "Dear readers,",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019759610295295715,
+                    "sentence": "The Daily's Opinions section is hosting a debate at 7 p.m. on April 24 between Undergraduate Senate candidates Ivy Chen '26, Arvind Asokan '27, David Sengthay '26, Gordon Allen '26, Lizbeth Hernandez Rios '25, Mandla Msipa '26 and Ethan Alfonso '27.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012707308633252978,
+                    "sentence": "If you're unsure who you plan to vote for or just want to get to know the candidates better, we invite you to attend.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017568101175129414,
+                    "sentence": "The debate will be hosted at the Lorry Lokey Stanford Daily Building (456 Panama Mall).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016413056291639805,
+                    "sentence": "All Stanford students, staff and faculty are welcome, and doors will open at 7 pm.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014143363805487752,
+                    "sentence": "The debate will cover topics including mental health, campus activism, academic freedom and club funding.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010712493676692247,
+                    "sentence": "If you have a question you'd like to hear one or more candidates answer, you can submit it to the followingform.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013873035786673427,
+                    "sentence": "If you are unable to attend in person, watch the live streamhere.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014843906974419951,
+                    "sentence": "Seamus Allen",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005003870464861393,
+                    "sentence": "Vol.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020530549809336662,
+                    "sentence": "265 Opinions Managing Editor",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015962212346494198,
+                    "sentence": "Seamus Allen '25 is the Opinions Managing Editor for The Daily; he is also a member of the Editorial Board.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015755585627630353,
+                    "sentence": "In his free time, he plays and designs board games.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 1,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 3,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 5,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 7,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 8,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 9,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 11,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Dear readers,\nThe Daily’s Opinions section is hosting a debate at 7 p.m. on April 24 between Undergraduate Senate candidates Ivy Chen ’26, Arvind Asokan ’27, David Sengthay ’26, Gordon Allen ’26, Lizbeth Hernandez Rios ’25, Mandla Msipa ’26 and Ethan Alfonso ’27. If you’re unsure who you plan to vote for or just want to get to know the candidates better, we invite you to attend.\nThe debate will be hosted at the Lorry Lokey Stanford Daily Building (456 Panama Mall). All Stanford students, staff and faculty are welcome, and doors will open at 7 pm.\nThe debate will cover topics including mental health, campus activism, academic freedom and club funding. If you have a question you’d like to hear one or more candidates answer, you can submit it to the followingform.\nIf you are unable to attend in person, watch the live streamhere.\nSeamus Allen\nVol. 265 Opinions Managing Editor\nSeamus Allen '25 is the Opinions Managing Editor for The Daily; he is also a member of the Editorial Board. In his free time, he plays and designs board games.\n"
+        }
+    ]
+}

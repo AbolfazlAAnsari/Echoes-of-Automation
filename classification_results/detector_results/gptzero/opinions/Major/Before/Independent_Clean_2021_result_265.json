@@ -1,0 +1,94 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0005643567419610918,
+                    "sentence": "Please send your letters toletters@independent.co.ukIf President Joe Biden is to be faithful to his ideals then perhaps we will see him desist from the Americans continual attempts to interfere in Cuba and cease their one sided attempt to solve the Israeli-Palestinian dilemma.Robert BrowningAddress suppliedGood government from outsideWe are hearing increasingly how the presence of the Americans and others had an advantageous effect onAfghanistanin the 20 years up to last weekend.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008002545218914747,
+                    "sentence": "Women benefited, doors to education were opened, music was enjoyed and more freedom was established than had ever been known.Can received wisdom still be that colonialism is unequivocally to be condemned?I used to agree wholeheartedly with Gandhi's assertion: \"It's better to have bad government from inside than good government from outside\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005798045312985778,
+                    "sentence": "But is it?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008494815556332469,
+                    "sentence": "Always?Edward ThomasEastbourneBalanced viewsOfcomhas accepted as OK the broadcast by ITV containing outspoken comments fromPiers Morgan, solely because they were balanced by speakers who didn't agree with them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013045653467997909,
+                    "sentence": "This means that a commercial undertaking has to put forward a balanced view to be acceptable.How odd that our right-wing press, who are so vociferous about (alleged) BBC bias and are so belligerent towards people they don't like, are not constrained in a similar way.When it has a spare moment, perhaps the government could rectify this distressing state of affairs.Tony BakerNorth YorkshireBeer shortagesSo Wetherspoons pubs are experiencing a dearth of Coors and Carling beers are they?Personally I would say: Lucky drinkers.Michael O'HareMiddlesexFungi factoriesI enjoyedJack Dutton's fascinating articleabout how fungi may be a useful tool in feeding and saving our planet.I wonder if there could be a marriage between the increasing number of solar farms we regularly see in our countryside with the shady area beneath not being sterilised by light starvation but instead creating productive fungi factories.Alastair DuncanWinchester",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                }
+            ],
+            "completely_generated_prob": 0.020660391318316405,
+            "class_probabilities": {
+                "human": 0.9793396086816837,
+                "ai": 0.020660391318316405,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9793396086816837,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.020660391318316405,
+                    "human": 0.9793396086816837,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukIf President Joe Biden is to be faithful to his ideals then perhaps we will see him desist from the Americans continual attempts to interfere in Cuba and cease their one sided attempt to solve the Israeli-Palestinian dilemma.Robert BrowningAddress suppliedGood government from outsideWe are hearing increasingly how the presence of the Americans and others had an advantageous effect onAfghanistanin the 20 years up to last weekend. Women benefited, doors to education were opened, music was enjoyed and more freedom was established than had ever been known.Can received wisdom still be that colonialism is unequivocally to be condemned?I used to agree wholeheartedly with Gandhi's assertion: \"It's better to have bad government from inside than good government from outside\". But is it? Always?Edward ThomasEastbourneBalanced viewsOfcomhas accepted as OK the broadcast by ITV containing outspoken comments fromPiers Morgan, solely because they were balanced by speakers who didn't agree with them. This means that a commercial undertaking has to put forward a balanced view to be acceptable.How odd that our right-wing press, who are so vociferous about (alleged) BBC bias and are so belligerent towards people they don't like, are not constrained in a similar way.When it has a spare moment, perhaps the government could rectify this distressing state of affairs.Tony BakerNorth YorkshireBeer shortagesSo Wetherspoons pubs are experiencing a dearth of Coors and Carling beers are they?Personally I would say: Lucky drinkers.Michael O'HareMiddlesexFungi factoriesI enjoyedJack Dutton's fascinating articleabout how fungi may be a useful tool in feeding and saving our planet.I wonder if there could be a marriage between the increasing number of solar farms we regularly see in our countryside with the shady area beneath not being sterilised by light starvation but instead creating productive fungi factories.Alastair DuncanWinchester"
+        }
+    ]
+}

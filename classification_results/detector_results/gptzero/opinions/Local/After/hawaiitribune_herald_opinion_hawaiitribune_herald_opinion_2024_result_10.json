@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00022501123021356761,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°There's little debate that school choice programs have been booming in popularity in recent years.Since 2021, state lawmakers have created a dozen educational choice programs available to all students and established a host of other, more targeted programs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00016701695858500898,
+                    "sentence": "And since the start of the COVID-19 pandemic, nationwide participation in private school choice programs has roughly doubled, surpassing 1 million students enrolled this school year.With such a boom in school choice programs, which are nothing new at all, rightfully comes questions of the impact they will have.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001456351747037843,
+                    "sentence": "Fortunately for those wishing to do their due diligence, a substantial amount of research has examined the impact of private school choice programs on eight important outcomes for students, families and communities.Most of this body of research (84%) indicates that choice programs are beneficial, on average, to students who participate in them, while about 10% of studies didn't detect any effect at all.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013200670946389437,
+                    "sentence": "Just 6% of the studies estimate negative effects on students.Contrary to a common concern around these programs, that they could negatively impact public school students, are the findings of nearly 30 empirical studies that examine the competitive effects of choice.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00011613775131991133,
+                    "sentence": "Nearly all find that these programs benefit students who remain in public schools, who experience modest gains in math and reading outcomes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018635627930052578,
+                    "sentence": "One recent paper published in the American Economic Journal: Economic Policy shows that expanding eligibility of the Florida Tax Credit Program not only improved public school student test scores, it also reduced absenteeism and suspension rates as competitive pressure intensified.Parents are also highly satisfied with these programs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002545277588069439,
+                    "sentence": "They see value in these programs, perhaps because choice realigns incentives not only for parents to get more involved in their own child's education, but also for school administrators and teachers to respond more favorably to the needs of the children they serve.For many parents, school safety is at the top of the list of factors that they care about.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004119320772588253,
+                    "sentence": "Research indicates that students in choice programs experience safer learning environments.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007568950764834881,
+                    "sentence": "Parents are empowered to find learning environments where students experience less bullying, physical conflicts, drug-related problems and discipline issues.Per-pupil funding for choice programs, on average, is just about one-third the total per-pupil funding for public school systems.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.019313454627990723,
+                    "sentence": "Thus, it's not surprising that these programs accrue net fiscal benefits for state and local taxpayers over time.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.5723946690559387,
+                    "sentence": "This indicates that even if a choice program doesn't move the needle on a particular outcome, it still provides families with educational opportunities comparable to those offered by public schools, but at a much lower cost to taxpayers.After decades of research on education choice, it's evident that these programs offer significant benefits that extend beyond academic achievement.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9752501845359802,
+                    "sentence": "As we move forward in a new era of universal choice, states that embrace choice policies will play a pivotal role in expanding educational opportunities.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9846397638320923,
+                    "sentence": "These policies will foster an educational landscape where parents have increased chances of finding learning environments that best suit their children's unique needs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.1206187286534568e-08
+                }
+            ],
+            "completely_generated_prob": 0.07577515911587805,
+            "class_probabilities": {
+                "human": 0.9054076340322469,
+                "ai": 0.07577515911587805,
+                "mixed": 0.01881720685187501
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9054076340322469,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.07577515911587805,
+                    "human": 0.9054076340322469,
+                    "mixed": 0.01881720685187501
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°There’s little debate that school choice programs have been booming in popularity in recent years.Since 2021, state lawmakers have created a dozen educational choice programs available to all students and established a host of other, more targeted programs. And since the start of the COVID-19 pandemic, nationwide participation in private school choice programs has roughly doubled, surpassing 1 million students enrolled this school year.With such a boom in school choice programs, which are nothing new at all, rightfully comes questions of the impact they will have. Fortunately for those wishing to do their due diligence, a substantial amount of research has examined the impact of private school choice programs on eight important outcomes for students, families and communities.Most of this body of research (84%) indicates that choice programs are beneficial, on average, to students who participate in them, while about 10% of studies didn’t detect any effect at all. Just 6% of the studies estimate negative effects on students.Contrary to a common concern around these programs, that they could negatively impact public school students, are the findings of nearly 30 empirical studies that examine the competitive effects of choice. Nearly all find that these programs benefit students who remain in public schools, who experience modest gains in math and reading outcomes. One recent paper published in the American Economic Journal: Economic Policy shows that expanding eligibility of the Florida Tax Credit Program not only improved public school student test scores, it also reduced absenteeism and suspension rates as competitive pressure intensified.Parents are also highly satisfied with these programs. They see value in these programs, perhaps because choice realigns incentives not only for parents to get more involved in their own child’s education, but also for school administrators and teachers to respond more favorably to the needs of the children they serve.For many parents, school safety is at the top of the list of factors that they care about. Research indicates that students in choice programs experience safer learning environments. Parents are empowered to find learning environments where students experience less bullying, physical conflicts, drug-related problems and discipline issues.Per-pupil funding for choice programs, on average, is just about one-third the total per-pupil funding for public school systems. Thus, it’s not surprising that these programs accrue net fiscal benefits for state and local taxpayers over time. This indicates that even if a choice program doesn’t move the needle on a particular outcome, it still provides families with educational opportunities comparable to those offered by public schools, but at a much lower cost to taxpayers.After decades of research on education choice, it’s evident that these programs offer significant benefits that extend beyond academic achievement. As we move forward in a new era of universal choice, states that embrace choice policies will play a pivotal role in expanding educational opportunities. These policies will foster an educational landscape where parents have increased chances of finding learning environments that best suit their children’s unique needs."
+        }
+    ]
+}

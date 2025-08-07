@@ -1,0 +1,100 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.9109097123146057,
+                    "sentence": "Published 4:57 pm Tuesday, December 5, 2023BySuffolk News-Herald Editorial BoardAs the annual Suffolk Christmas Parade approaches this Saturday, it is a moment of community celebration and joy that should not be missed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9899939298629761,
+                    "sentence": "These parades have become cherished traditions, bringing together thousands of spectators to kick off the holiday season with festive lights, music, and Christmas characters.Christmas parades offer a spectacle of holiday spirit and an opportunity for local businesses and communities to come together.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9908778667449951,
+                    "sentence": "The Suffolk Holiday Parade, in particular, themed 'Winter Wonderland,' showcases the creativity and vibrancy of the region.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.10069413483142853,
+                    "sentence": "Participating and supporting this event is a way of fostering community bonds and promoting a sense of togetherness during the festive season.The parade will kick off on Saturday, Dec. 9, at 7 p.m. Make plans now and come out to watch the floats, equestrian units, marching bands, and festive vehicles as they stroll down West Washington Street and turn up North Main Street toward Finney Avenue, as the City of Suffolk ushers in the holidays in style.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04122937470674515,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013472059741616249,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 6,
+                    "completely_generated_prob": 0.06788505859236459
+                }
+            ],
+            "completely_generated_prob": 0.35466863499762746,
+            "class_probabilities": {
+                "human": 0,
+                "ai": 0.35466863499762746,
+                "mixed": 0.6453313650023725
+            },
+            "average_generated_prob": 0.5,
+            "predicted_class": "mixed",
+            "confidence_score": 0.6453313650023725,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.35466863499762746,
+                    "human": 0,
+                    "mixed": 0.6453313650023725
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "MIXED",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 4:57 pm Tuesday, December 5, 2023BySuffolk News-Herald Editorial BoardAs the annual Suffolk Christmas Parade approaches this Saturday, it is a moment of community celebration and joy that should not be missed. These parades have become cherished traditions, bringing together thousands of spectators to kick off the holiday season with festive lights, music, and Christmas characters.Christmas parades offer a spectacle of holiday spirit and an opportunity for local businesses and communities to come together. The Suffolk Holiday Parade, in particular, themed ‘Winter Wonderland,’ showcases the creativity and vibrancy of the region. Participating and supporting this event is a way of fostering community bonds and promoting a sense of togetherness during the festive season.The parade will kick off on Saturday, Dec. 9, at 7 p.m. Make plans now and come out to watch the floats, equestrian units, marching bands, and festive vehicles as they stroll down West Washington Street and turn up North Main Street toward Finney Avenue, as the City of Suffolk ushers in the holidays in style.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

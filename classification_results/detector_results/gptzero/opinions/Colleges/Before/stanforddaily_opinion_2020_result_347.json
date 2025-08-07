@@ -1,0 +1,167 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 2.1615200239466503e-05,
+                    "sentence": "The recent opinion “The future of the major means equality of the major” illustrates that many issues raised in C.P.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.7203383069718257e-05,
+                    "sentence": "Snow's 1959 lecture “The Two Cultures” remain with us.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.4379385902429931e-05,
+                    "sentence": "But the article contains some misconceptions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.8801158148562536e-05,
+                    "sentence": "The math department is said to be “known for under unit-ing.” Known by whom?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.847880776040256e-05,
+                    "sentence": "The time commitment for courses (in many fields) varies considerably among students, but the Stanford definition of a unit refers to an “average student” (admittedly an informal concept).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.3858030544943176e-05,
+                    "sentence": "Based on that definition, the percentages for weekly times in Carta show no under unit-ing in math courses that most non-majors take (e.g., Math 19-53, 104, 108).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.8203030524309725e-05,
+                    "sentence": "The math department has sometimes asked its majors about the unit values of the advanced courses; most don't want a change, and the number of majors in mathematics is rising sharply.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.0137120372965e-05,
+                    "sentence": "The article notes that FEMGEN requires 63 units (its Core requires one course from each of 7 areas), and praises the resulting “great flexibility” for its majors to take “only what is meaningful to their interests and career plans.”  Math requires 64 units, has even greater flexibility (e.g., no Core), and its structure fulfills the author's wish that interests be validated “by [student] desires and hunger to explore and discover.”",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.809868263080716e-05,
+                    "sentence": "The end of the article says “all majors should be equal, provided that students are satisfying their imaginations.” That proviso is one that all majors aim to achieve, but the goal of all majors being “equal” is a misnomer: The modes of inquiry, intellectual structure, and purposes of coursework vary tremendously.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.1263547751004808e-05,
+                    "sentence": "Also, such a nebulous goal is not the purpose of the unit-cap proposal.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 1.8886719772126526e-05,
+                    "sentence": "The purpose is equality of access.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.7063444576924667e-05,
+                    "sentence": "ᅳ Prof. Brian Conrad, Director of Undergraduate Studies, Math",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.191662083030678e-05,
+                    "sentence": "Contact Brian Conrad at conrad 'at' math.stanford.edu.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 3,
+                    "num_sentences": 4,
+                    "completely_generated_prob": 0.0006564766595293492
+                },
+                {
+                    "start_sentence_index": 7,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 8,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 11,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 12,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                }
+            ],
+            "completely_generated_prob": 0.003132712630293538,
+            "class_probabilities": {
+                "human": 0.9968672873697065,
+                "ai": 0.003132712630293538,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9968672873697065,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.003132712630293538,
+                    "human": 0.9968672873697065,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "The recent opinion “The future of the major means equality of the major” illustrates that many issues raised in C.P. Snow’s 1959 lecture “The Two Cultures” remain with us. But the article contains some misconceptions.\nThe math department is said to be “known for under unit-ing.” Known by whom? The time commitment for courses (in many fields) varies considerably among students, but the Stanford definition of a unit refers to an “average student” (admittedly an informal concept). Based on that definition, the percentages for weekly times in Carta show no under unit-ing in math courses that most non-majors take (e.g., Math 19-53, 104, 108).  The math department has sometimes asked its majors about the unit values of the advanced courses; most don’t want a change, and the number of majors in mathematics is rising sharply.\nThe article notes that FEMGEN requires 63 units (its Core requires one course from each of 7 areas), and praises the resulting “great flexibility” for its majors to take “only what is meaningful to their interests and career plans.”  Math requires 64 units, has even greater flexibility (e.g., no Core), and its structure fulfills the author’s wish that interests be validated “by [student] desires and hunger to explore and discover.”\nThe end of the article says “all majors should be equal, provided that students are satisfying their imaginations.” That proviso is one that all majors aim to achieve, but the goal of all majors being “equal” is a misnomer: The modes of inquiry, intellectual structure, and purposes of coursework vary tremendously. Also, such a nebulous goal is not the purpose of the unit-cap proposal. The purpose is equality of access.\n— Prof. Brian Conrad, Director of Undergraduate Studies, Math\nContact Brian Conrad at conrad ‘at’ math.stanford.edu.\n\n"
+        }
+    ]
+}

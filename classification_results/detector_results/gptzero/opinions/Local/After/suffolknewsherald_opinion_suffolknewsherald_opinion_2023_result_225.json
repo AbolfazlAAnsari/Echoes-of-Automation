@@ -1,0 +1,100 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.03531073033809662,
+                    "sentence": "Published 12:35 am Friday, August 11, 2023ByJeff MooreIt's Farmers Market Week in Virginia, and we'd be remiss not to recognize one of this state's best.The Suffolk Farmers' Market, now in its 18th season, runs every Saturday, 9 a.m. to 1 p.m., from May to mid-November at the Suffolk Visitor Center Pavilion, 524 N. Main St.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03333348035812378,
+                    "sentence": "Most people think of a farmers' market as the place to buy locally grown fruits and vegetables directly from the farmers who grow them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.021372085437178612,
+                    "sentence": "Suffolk's market is that, but you'll find more than just fruits and vegetables.Baked goods, meat and eggs, jellies and jams, honey and pickles are also among the locally grown, made and crafted foods available at the Suffolk Farmers' Market.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012362650595605373,
+                    "sentence": "The market also includes lots of vendors selling artisan crafts of many shapes and sizes.Just to give you an idea of the variety included at the market, here's a list of regular and occasional vendors:Amelia's Heirlooms | hand-crafted jewelryBradley Family Farms | pasture-raised meats and eggsBreezy Hill Meadworks | local meaderyCoffee of Valhalla | coffee and coffee subscriptionsEdible Enchantments | produce, jams and apothecary itemsFanclare Farms Beef | pasture-raised beef, jams, honey & more.G&S Apiary | local honey & honey productsJC3 Family Farm | produce & baked goodsLamp Light Farm | pasture-raised meats, eggs, produce & craft itemsLylak Baubles Boutique | handcrafted itemsMickey and Ann's Farmette | organic produce and pasture-raised meatsSerenity Homestead | baked goods, plants & craft itemsTeacher's Pet | hand-made pet accessoriesTW's Pulled Pork BBQ and More | NC-style pulled pork BBQ and saucesVillage Cheeseworks | fresh artisan cheesesA Little Taste of Heaven | baked goodsAddison Raes | hand-made pet itemsANNA Soaps | plant-based handmade soapsAllie Marie | local authorBenn's Blueberries | seasonal produce from a Suffolk farmerBarewood stones | handmade macrame itemsBobcat's Woods & Designs | hand-crafted wood itemsBradlee's Crafts | hand-crafted towels and sewn itemsCiara's Soap Supply | handmade soapsCreatively Crafty with Jessa | handmade crochet itemsCBD Livity | CBD productsCurly Gurl Cupcakes | baked goodsDebbie's Unique Creations | handcrafted itemsDragonfly Hill Farm | produce and apple-based products from a VA farmerGypsy Blooms | local flowersH&H Farm/Pampered Piggies Soap | lard soap made by a Suffolk farmerHR Woodkrafts | hand-crafted wood items and furnitureIdeal Essentials | self-care itemsIronwood Crafters | hand-crafted wood itemsIsabella Graces | hand-crafted baby itemsJeff Plumblee's Traditional Sorghum Syrup | sorghum syrupK&B Crafts | hand-sewn clothing and craft itemsLadybug Boutique | handcrafted itemsOccasional Specialty Vendors and ExhibitorsLizzy Lathers Soap Studio | handmade soapsMyke Ryte Customs | local art and accessoriesOberweis Dairy | milk home delivery subscriptionsPoppin' Fresh Kettle Corn | kettle corn made on site at the market!Ruby Dragon Crafts | handcrafted jewelry and epoxy itemsSara Pearsall Pottery | handcrafted pottery itemsSlice of Heaven | baked goodsSunflower Farm | flowers, plants and hot sauces from a VA farmerThe Candle Forge | hand-poured candles and craftsThree Cherry's Soap and Essentials | soap and self-care itemsUnique Wood Designs | hand-crafted wood itemsVintage Virginia Candle Company | hand-poured candlesWard Family Farms | produce and flowers from a NC farmerWild Lillys | apothecary, baked goods, jams, syrups/vinegarsAdmission to the market and all of its activities is always free, so we're sure you can find a Saturday to your liking to visit this year.The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.08803199976682663,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.11619850248098373,
+                    "sentence": "Among those contests is the Los Angeles…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 6,
+                    "completely_generated_prob": 1.474742012248794e-05
+                }
+            ],
+            "completely_generated_prob": 0.1276676162807097,
+            "class_probabilities": {
+                "human": 0.8722807660846754,
+                "ai": 0.1276676162807097,
+                "mixed": 5.161763461484218e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8722807660846754,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.1276676162807097,
+                    "human": 0.8722807660846754,
+                    "mixed": 5.161763461484218e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 12:35 am Friday, August 11, 2023ByJeff MooreIt’s Farmers Market Week in Virginia, and we’d be remiss not to recognize one of this state’s best.The Suffolk Farmers’ Market, now in its 18th season, runs every Saturday, 9 a.m. to 1 p.m., from May to mid-November at the Suffolk Visitor Center Pavilion, 524 N. Main St. Most people think of a farmers’ market as the place to buy locally grown fruits and vegetables directly from the farmers who grow them. Suffolk’s market is that, but you’ll find more than just fruits and vegetables.Baked goods, meat and eggs, jellies and jams, honey and pickles are also among the locally grown, made and crafted foods available at the Suffolk Farmers’ Market. The market also includes lots of vendors selling artisan crafts of many shapes and sizes.Just to give you an idea of the variety included at the market, here’s a list of regular and occasional vendors:Amelia’s Heirlooms | hand-crafted jewelryBradley Family Farms | pasture-raised meats and eggsBreezy Hill Meadworks | local meaderyCoffee of Valhalla | coffee and coffee subscriptionsEdible Enchantments | produce, jams and apothecary itemsFanclare Farms Beef | pasture-raised beef, jams, honey & more.G&S Apiary | local honey & honey productsJC3 Family Farm | produce & baked goodsLamp Light Farm | pasture-raised meats, eggs, produce & craft itemsLylak Baubles Boutique | handcrafted itemsMickey and Ann’s Farmette | organic produce and pasture-raised meatsSerenity Homestead | baked goods, plants & craft itemsTeacher’s Pet | hand-made pet accessories​TW’s Pulled Pork BBQ and More | NC-style pulled pork BBQ and saucesVillage Cheeseworks | fresh artisan cheesesA Little Taste of Heaven | baked goodsAddison Raes | hand-made pet itemsANNA Soaps | plant-based handmade soapsAllie Marie | local authorBenn’s Blueberries | seasonal produce from a Suffolk farmerBarewood stones | handmade macrame itemsBobcat’s Woods & Designs | hand-crafted wood itemsBradlee’s Crafts | hand-crafted towels and sewn itemsCiara’s Soap Supply | handmade soapsCreatively Crafty with Jessa | handmade crochet itemsCBD Livity | CBD productsCurly Gurl Cupcakes | baked goodsDebbie’s Unique Creations | handcrafted itemsDragonfly Hill Farm | produce and apple-based products from a VA farmerGypsy Blooms | local flowers​H&H Farm/Pampered Piggies Soap | lard soap made by a Suffolk farmerHR Woodkrafts | hand-crafted wood items and furnitureIdeal Essentials | self-care itemsIronwood Crafters | hand-crafted wood itemsIsabella Graces | hand-crafted baby itemsJeff Plumblee’s Traditional Sorghum Syrup | sorghum syrup​K&B Crafts | hand-sewn clothing and craft itemsLadybug Boutique | handcrafted itemsOccasional Specialty Vendors and ExhibitorsLizzy Lathers Soap Studio | handmade soapsMyke Ryte Customs | local art and accessoriesOberweis Dairy | milk home delivery subscriptionsPoppin’ Fresh Kettle Corn | kettle corn made on site at the market!Ruby Dragon Crafts | handcrafted jewelry and epoxy itemsSara Pearsall Pottery | handcrafted pottery itemsSlice of Heaven | baked goodsSunflower Farm | flowers, plants and hot sauces from a VA farmerThe Candle Forge | hand-poured candles and craftsThree Cherry’s Soap and Essentials | soap and self-care items​Unique Wood Designs | hand-crafted wood itemsVintage Virginia Candle Company | hand-poured candles​Ward Family Farms | produce and flowers from a NC farmerWild Lillys | apothecary, baked goods, jams, syrups/vinegarsAdmission to the market and all of its activities is always free, so we’re sure you can find a Saturday to your liking to visit this year.The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…"
+        }
+    ]
+}

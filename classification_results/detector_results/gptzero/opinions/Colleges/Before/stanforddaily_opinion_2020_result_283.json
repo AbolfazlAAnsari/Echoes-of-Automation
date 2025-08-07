@@ -1,0 +1,177 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.000640205922536552,
+                    "sentence": "On Monday, Vice Provost for Student Affairs Susie Brubaker-Colesent an emailasking undergraduates to submit their input on the best way for the administration to communicate with students, the best ways to celebrate commencement and the best method for packing and shipping student belongings that are still on campus.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010026047239080071,
+                    "sentence": "These suggestions, however, will be going into the black box of a Qualtrics survey.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007249265909194946,
+                    "sentence": "To ensure that your ideas are heard, The Daily wants to know what suggestions you are submitting (or not submitting).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007916222093626857,
+                    "sentence": "Echoing the first question posed by Brubaker-Cole,how can Stanford best communicate with students in the months ahead, and how can students best keep in touch with one another?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001296146889217198,
+                    "sentence": "The announcement that the traditional commencement ceremony will not happen has been difficult to bear for many seniors and their families, who have worked and waited years for this moment.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017166142351925373,
+                    "sentence": "Given Brubaker-Cole's announcement, many hope that the administration will replace commencement with a celebration that, at least in some way, appropriately celebrates the class of 2020.What are your suggestions and ideas for commencement amid coronavirus?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013973265886306763,
+                    "sentence": "Students are also concerned about their belongings remaining at Stanford, as many thought they would be allowed back on campus to collect them before the start of the next school year.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0014238790608942509,
+                    "sentence": "We've heard concerns about moving belongings on many fronts ᅳ from the thought of having strangers handle potentially fragile or sentimental belongings to confusion about whether bulkier items like bicycles will also be packed up to concern that students will face consequences for having illicit substances in dorm rooms.What do you hope the administration will consider when designing a system to pack up and ship our belongings?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015858190599828959,
+                    "sentence": "The administration asked us to submit our ideas only on communications, commencement and belongings, important but narrow matters affected by COVID-19.What are other matters on which the administration should be soliciting student input before making important decisions?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020207122433930635,
+                    "sentence": "Please submit your answer to one or more of these questions tothis form:",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016457417514175177,
+                    "sentence": "If you have any questions, please email opinions 'at' stanforddaily.com.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011572357034310699,
+                    "sentence": "We look forward to hearing from you.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001341296941973269,
+                    "sentence": "ᅳ The Opinions Team, Volume 257",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 3,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 4,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 6,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 8,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 9,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 10,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 12,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                }
+            ],
+            "completely_generated_prob": 0.01565789170260218,
+            "class_probabilities": {
+                "human": 0.9843421082973979,
+                "ai": 0.01565789170260218,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9843421082973979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01565789170260218,
+                    "human": 0.9843421082973979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "On Monday, Vice Provost for Student Affairs Susie Brubaker-Colesent an emailasking undergraduates to submit their input on the best way for the administration to communicate with students, the best ways to celebrate commencement and the best method for packing and shipping student belongings that are still on campus. These suggestions, however, will be going into the black box of a Qualtrics survey. To ensure that your ideas are heard, The Daily wants to know what suggestions you are submitting (or not submitting).\nEchoing the first question posed by Brubaker-Cole,how can Stanford best communicate with students in the months ahead, and how can students best keep in touch with one another?\nThe announcement that the traditional commencement ceremony will not happen has been difficult to bear for many seniors and their families, who have worked and waited years for this moment. Given Brubaker-Cole’s announcement, many hope that the administration will replace commencement with a celebration that, at least in some way, appropriately celebrates the class of 2020.What are your suggestions and ideas for commencement amid coronavirus?\nStudents are also concerned about their belongings remaining at Stanford, as many thought they would be allowed back on campus to collect them before the start of the next school year. We’ve heard concerns about moving belongings on many fronts — from the thought of having strangers handle potentially fragile or sentimental belongings to confusion about whether bulkier items like bicycles will also be packed up to concern that students will face consequences for having illicit substances in dorm rooms.What do you hope the administration will consider when designing a system to pack up and ship our belongings?\nThe administration asked us to submit our ideas only on communications, commencement and belongings, important but narrow matters affected by COVID-19.What are other matters on which the administration should be soliciting student input before making important decisions?\nPlease submit your answer to one or more of these questions tothis form:\nIf you have any questions, please email opinions ‘at’ stanforddaily.com. We look forward to hearing from you.\n— The Opinions Team, Volume 257\n\n"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00023689816589467227,
+                    "sentence": "Published 5:56 pm Friday, April 7, 2023ByStaff ReportsWe know Easter is coming when we see the faces and happy bunny pictures everywhere.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00025665515568107367,
+                    "sentence": "The children are invited to celebrate and search for eggs, but just like the story of bunnies who lay eggs, there is often little truth about why Christians celebrate this special time of the year.Those big celebrations often appear to coincide with the times of unconnected events in our Christian faith.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002681897021830082,
+                    "sentence": "Some “celebrations” are fun, especially for little children, even though they have no relationship with our Christian faith.So how did all this about Easter become connected with our Christian faith?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002930372138507664,
+                    "sentence": "It may be shrouded in the history of Rome.We know the word Easter comes from the Roman goddess Eostre.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002566816983744502,
+                    "sentence": "The day for Easter is determined by the vernal equinox; so this year, 2023,  it falls on the second Sunday of the fourth month.Christians will not be remembering that false goddess, but rather the death and resurrection of the most important person of all history ᅳ an event which took place 2,000 years ago with the ignominious death of Jesus the Christ who had done no evil but was despised by religious and other rulers.To know more about this One sent from God to save us and make it possible for us to have a new life, we must go to the only true and accurate record, the Bible.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021105576888658106,
+                    "sentence": "The Old Testament sets the stage with prophecies.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00020876526832580566,
+                    "sentence": "The New Testament confirms them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002478551468811929,
+                    "sentence": "Matthew is first with the fullest account.This Sunday, we will again remember the terrible death of the One man who had done no evil, Jesus Christ.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00035355487489141524,
+                    "sentence": "He came in human form, sent from the Creator, God, in His love for a creation lost in sin.Jesus would die on that cross, but He would rise again and be able to give us hope and the promise of a new life when we confess our sins and choose to worship Him.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00037310406332835555,
+                    "sentence": "Christians will be remembering these details on “Good Friday,” but rejoice in them as God's plan for our salvation.I am filled with joy when I remember the political powers that tried God's plan and found they were no match for the Eternal God.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003696663770824671,
+                    "sentence": "Because of this, I have no fear of death.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00039614777779206634,
+                    "sentence": "Because He lives, He has promised life eternal to all who believe and receive by faith in His message of salvation.Myrtle V. Thompson, 95, is a retired missionary and author of three book.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09228783845901489,
+                    "sentence": "She can be reached by email at mvtgrt@gmail.com.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07824105769395828,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 1.9423489116273474e-12
+                }
+            ],
+            "completely_generated_prob": 0.07288466908684726,
+            "class_probabilities": {
+                "human": 0.9271153309131527,
+                "ai": 0.07288466908684726,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9271153309131527,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.07288466908684726,
+                    "human": 0.9271153309131527,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:56 pm Friday, April 7, 2023ByStaff ReportsWe know Easter is coming when we see the faces and happy bunny pictures everywhere. The children are invited to celebrate and search for eggs, but just like the story of bunnies who lay eggs, there is often little truth about why Christians celebrate this special time of the year.Those big celebrations often appear to coincide with the times of unconnected events in our Christian faith. Some “celebrations” are fun, especially for little children, even though they have no relationship with our Christian faith.So how did all this about Easter become connected with our Christian faith? It may be shrouded in the history of Rome.We know the word Easter comes from the Roman goddess Eostre. The day for Easter is determined by the vernal equinox; so this year, 2023,  it falls on the second Sunday of the fourth month.Christians will not be remembering that false goddess, but rather the death and resurrection of the most important person of all history — an event which took place 2,000 years ago with the ignominious death of Jesus the Christ who had done no evil but was despised by religious and other rulers.To know more about this One sent from God to save us and make it possible for us to have a new life, we must go to the only true and accurate record, the Bible. The Old Testament sets the stage with prophecies. The New Testament confirms them. Matthew is first with the fullest account.This Sunday, we will again remember the terrible death of the One man who had done no evil, Jesus Christ. He came in human form, sent from the Creator, God, in His love for a creation lost in sin.Jesus would die on that cross, but He would rise again and be able to give us hope and the promise of a new life when we confess our sins and choose to worship Him. Christians will be remembering these details on “Good Friday,” but rejoice in them as God’s plan for our salvation.I am filled with joy when I remember the political powers that tried God’s plan and found they were no match for the Eternal God. Because of this, I have no fear of death. Because He lives, He has promised life eternal to all who believe and receive by faith in His message of salvation.Myrtle V. Thompson, 95, is a retired missionary and author of three book. She can be reached by email at mvtgrt@gmail.com.Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…"
+        }
+    ]
+}

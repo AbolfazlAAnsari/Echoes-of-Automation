@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00011379225907148793,
+                    "sentence": "Published 6:45 pm Tuesday, March 12, 2024ByStaff ReportsBy Thomas MastaglioThis month, we are featuring two veteran's benefits programs that, while they have been inthe news, it is important that all veterans are fully aware of and how to apply for them.Veterans Affairs (VA) healthcare eligibility has been expanded to include all veteransexposed to toxins and other hazards during military service at home or abroad, effectiveMarch 5.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010412385745439678,
+                    "sentence": "This specifically includes anyone in the following categories:This expansion also covers veterans who never deployed but were exposed to toxins orhazards while serving.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001218088436871767,
+                    "sentence": "Specifically, under this expansion of care, any veteran whoparticipated in a toxic exposure risk activity (TERA) - at home or abroad - is eligible forVA health care.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001335748820565641,
+                    "sentence": "Included are training events and operational duties involving exposure toair pollutants, occupational hazards, radiation, and warfare agents (chemical andbiological).Some veterans believe they must receive VA disability compensation benefits to be eligiblefor VA health care; this is not true.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001523922837805003,
+                    "sentence": "With this expansion and other authorities, millions ofveterans can enroll directly in VA care - without any need to first apply for VA benefits.Originally, the Pact Act had a phased-in approach for the above groups, but at the directionof the president, the VA has opened access to their healthcare facilities effective March 5,2024.Readers who are eligible and not already receiving care under the VA healthcare systemare encouraged to enroll.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015655798779334873,
+                    "sentence": "Or, if you know a veteran who might be eligible, encourage themto enroll at https://www.va.gov/health-care/apply/application/introduction, byphone at 877-222-8387, or by visiting a local VA medical facility.You can review the VA's official statement here: In one of the largest-ever expansions ofVeteran health care (va.gov).Keep in mind that some VA healthcare benefits will depend on your financial status andmay require the use of other healthcare insurance you already have.The second benefits program has had a lot of publicity, not all of it correct - service atCamp Lejeune, resulting in exposure to contaminated water.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00021692109294235706,
+                    "sentence": "The deadline for filing a claimfor illness pertaining to contaminated water at Camp Lejeune is Aug.1 of this year.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.45069023966789246,
+                    "sentence": "Ifyou served there between Aug. 1, 1953, and Dec. 31, 1987, for at least 30 days, you can file a claim.You must provide documentation:You do not need legal representation to submit a claim.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.6268458962440491,
+                    "sentence": "Please contact the local serviceofficer of either the VFW or American Legion for assistance.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.4063195288181305,
+                    "sentence": "If you have any questions, call1-800-827-1000.Thomas Mastaglio is a U.S. Army veteran who serves as media officer at American Legion Post 49.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.21439985930919647,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.2083572894334793,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.06040878407802044,
+            "class_probabilities": {
+                "human": 0.9393019591459637,
+                "ai": 0.06040878407802044,
+                "mixed": 0.0002892567760158828
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9393019591459637,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.06040878407802044,
+                    "human": 0.9393019591459637,
+                    "mixed": 0.0002892567760158828
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 6:45 pm Tuesday, March 12, 2024ByStaff ReportsBy Thomas MastaglioThis month, we are featuring two veteran’s benefits programs that, while they have been inthe news, it is important that all veterans are fully aware of and how to apply for them.Veterans Affairs (VA) healthcare eligibility has been expanded to include all veteransexposed to toxins and other hazards during military service at home or abroad, effectiveMarch 5. This specifically includes anyone in the following categories:This expansion also covers veterans who never deployed but were exposed to toxins orhazards while serving. Specifically, under this expansion of care, any veteran whoparticipated in a toxic exposure risk activity (TERA) – at home or abroad – is eligible forVA health care. Included are training events and operational duties involving exposure toair pollutants, occupational hazards, radiation, and warfare agents (chemical andbiological).Some veterans believe they must receive VA disability compensation benefits to be eligiblefor VA health care; this is not true. With this expansion and other authorities, millions ofveterans can enroll directly in VA care – without any need to first apply for VA benefits.Originally, the Pact Act had a phased-in approach for the above groups, but at the directionof the president, the VA has opened access to their healthcare facilities effective March 5,2024.Readers who are eligible and not already receiving care under the VA healthcare systemare encouraged to enroll. Or, if you know a veteran who might be eligible, encourage themto enroll at https://www.va.gov/health-care/apply/application/introduction, byphone at 877-222-8387, or by visiting a local VA medical facility.You can review the VA’s official statement here: In one of the largest-ever expansions ofVeteran health care (va.gov).Keep in mind that some VA healthcare benefits will depend on your financial status andmay require the use of other healthcare insurance you already have.The second benefits program has had a lot of publicity, not all of it correct – service atCamp Lejeune, resulting in exposure to contaminated water. The deadline for filing a claimfor illness pertaining to contaminated water at Camp Lejeune is Aug.1 of this year. Ifyou served there between Aug. 1, 1953, and Dec. 31, 1987, for at least 30 days, you can file a claim.You must provide documentation:You do not need legal representation to submit a claim. Please contact the local serviceofficer of either the VFW or American Legion for assistance. If you have any questions, call1-800-827-1000.Thomas Mastaglio is a U.S. Army veteran who serves as media officer at American Legion Post 49.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

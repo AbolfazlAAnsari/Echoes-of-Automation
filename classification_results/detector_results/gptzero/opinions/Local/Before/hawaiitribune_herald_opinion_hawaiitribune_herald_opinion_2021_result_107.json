@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00039294990710914135,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°As of last week, more than 200 million Americans had been fully vaccinated against the coronavirus, constituting around 60% of the population.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00041193849756382406,
+                    "sentence": "It's an important milestone, but so is the milestone of the nation's 800,000th coronavirus death this week.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004726087208837271,
+                    "sentence": "With a new variant on the rise and a sizable minority of the country still holding out against the vaccines, infection rates continue to rise.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005175077822059393,
+                    "sentence": "What the U.S. is seeing now is what doctors are calling “an epidemic of the unvaccinated.” And it's creating what psychologists call “pandemic fatigue” throughout society.As the crisis drags on, it's important to remember that it is almost entirely those holdouts who are driving infection and death rates today.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006531393155455589,
+                    "sentence": "It's been said repeatedly, but it can't be said enough: They are risking their lives and prolonging the pandemic.According to The Washington Post, an average of more than 1.9 million vaccine doses per day were administered last week, an increase over the previous week by about 35%.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000475354929221794,
+                    "sentence": "That's good news, but it doesn't change the fact that coronavirus deaths are up as well.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006090402021072805,
+                    "sentence": "That doesn't mean the vaccines aren't working ᅳ they absolutely do work; there's no ambiguity about that in the data.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00033624155912548304,
+                    "sentence": "What it means is that, without the vaccines, the death rates would be soaring far higher.The data is also clear about who is dying: The dead consist almost entirely of those who refused vaccination.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005639957380481064,
+                    "sentence": "No vaccine is perfect, and vaccinated people can still catch the virus, but their cases tend to be less severe and far less likely to land them in the hospital or the morgue.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01617787778377533,
+                    "sentence": "A recent study in Texas found that unvaccinated people of all ages in that state are 40 times more likely than vaccinated people to die from the disease.How such a sizable number of Americans can look at these facts and still refuse vaccination is a mystery that psychologists and historians will ponder in years to come.The weird intersection of public health and politics throughout the pandemic has prolonged the crisis to the point that society is starting to suffer pandemic fatigue.With year three of the pandemic approaching, and the omicron variant now spreading through much of the country, the danger is real that even more exasperated Americans are going to give up on precautions like vaccination and masks.To those who feel that impulse, we would point out that this crisis could be all but over by now if not for the vaccination holdouts.They are the ones giving the virus new opportunities to spread, making it necessary for the rest of society to continue the precautions.They are the reason this isn't over yet.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008345339447259903,
+                    "sentence": "Frustration over this seemingly never-ending pandemic is understandable ᅳ but that's where it should be focused.ᅳ St. Louis Post-DispatchThe Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006994324736297131,
+                    "sentence": "The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005511414259672165,
+                    "sentence": "Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneNestled between lush community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round.A new website launched recently helps Hawaii residents and visitors easily find recreational services available across the state.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.024461651786716186,
+            "class_probabilities": {
+                "human": 0.9754981327244504,
+                "ai": 0.024461651786716186,
+                "mixed": 4.0215488833363626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9754981327244504,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024461651786716186,
+                    "human": 0.9754981327244504,
+                    "mixed": 4.0215488833363626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°As of last week, more than 200 million Americans had been fully vaccinated against the coronavirus, constituting around 60% of the population. It’s an important milestone, but so is the milestone of the nation’s 800,000th coronavirus death this week. With a new variant on the rise and a sizable minority of the country still holding out against the vaccines, infection rates continue to rise. What the U.S. is seeing now is what doctors are calling “an epidemic of the unvaccinated.” And it’s creating what psychologists call “pandemic fatigue” throughout society.As the crisis drags on, it’s important to remember that it is almost entirely those holdouts who are driving infection and death rates today. It’s been said repeatedly, but it can’t be said enough: They are risking their lives and prolonging the pandemic.According to The Washington Post, an average of more than 1.9 million vaccine doses per day were administered last week, an increase over the previous week by about 35%. That’s good news, but it doesn’t change the fact that coronavirus deaths are up as well. That doesn’t mean the vaccines aren’t working — they absolutely do work; there’s no ambiguity about that in the data. What it means is that, without the vaccines, the death rates would be soaring far higher.The data is also clear about who is dying: The dead consist almost entirely of those who refused vaccination. No vaccine is perfect, and vaccinated people can still catch the virus, but their cases tend to be less severe and far less likely to land them in the hospital or the morgue. A recent study in Texas found that unvaccinated people of all ages in that state are 40 times more likely than vaccinated people to die from the disease.How such a sizable number of Americans can look at these facts and still refuse vaccination is a mystery that psychologists and historians will ponder in years to come.The weird intersection of public health and politics throughout the pandemic has prolonged the crisis to the point that society is starting to suffer pandemic fatigue.With year three of the pandemic approaching, and the omicron variant now spreading through much of the country, the danger is real that even more exasperated Americans are going to give up on precautions like vaccination and masks.To those who feel that impulse, we would point out that this crisis could be all but over by now if not for the vaccination holdouts.They are the ones giving the virus new opportunities to spread, making it necessary for the rest of society to continue the precautions.They are the reason this isn’t over yet. Frustration over this seemingly never-ending pandemic is understandable — but that’s where it should be focused.— St. Louis Post-DispatchThe Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today. The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph. Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneNestled between lush  community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round.A new website launched recently helps Hawaii residents and visitors easily find recreational services available across the state."
+        }
+    ]
+}

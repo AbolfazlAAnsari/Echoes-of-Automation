@@ -1,0 +1,646 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0014854945475235581,
+                    "sentence": "The Fountain Hopper (FoHo) sent anemail blastlast week alerting students that there had been an “UNPRECEDENTED VOLUME OF PHISHING ATTACKS.” Additionally, FoHo claimed to identify “TWO MAJOR VULNERABILITIES THAT LIKELY ENABLED THE ATTACKS” and alleged that “STANFORD KNEW ABOUT EMAIL VULNERABILITY AND NEGLECTED TO FIX IT.”",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011082777054980397,
+                    "sentence": "The FoHo email is deeply misleading.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020157909020781517,
+                    "sentence": "I will describe what happened, how the FoHo misreported it and the general implications of the FoHo's misrepresentations.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002261339221149683,
+                    "sentence": "What happened",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018625735538080335,
+                    "sentence": "The FoHo story was written in response to a Dec. 16reportby University IT (UIT) about an “unprecedented volume in phishing attacks” that led to “hundreds of compromised user accounts.” In a phishing attack, an attacker impersonates a trustworthy entity in order to steal sensitive information.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001977805746719241,
+                    "sentence": "For example, an attacker might send you a phishing email that links to a Stanford-like login page; once you enter your password, the attacker gets access to your account.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0022111600264906883,
+                    "sentence": "Two-factor authentication (2FA) is a common mechanism for preventing against phishing attacks, because it requires someone to sign in with Duo or a code texted to your phone in order to access your account.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019245300209149718,
+                    "sentence": "However, 2FA is not always required for access to Stanford email, thus enabling the phishing attacks that just happened.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020359663758426905,
+                    "sentence": "In the report, UIT acknowledged that the University is facing a phishing issue and announced efforts to improve detection of phishing and community awareness of phishing emails.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002480849390849471,
+                    "sentence": "It also announced its plans to close the email 2FA loophole and require 2FA for email access by October 2020.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0024178263265639544,
+                    "sentence": "What the FoHo said",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0024672881700098515,
+                    "sentence": "The FoHo claimed to have found “two key email vulnerabilities” in Stanford's systems that enabled the attacks, and that the University failed to address them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002294373232871294,
+                    "sentence": "However, both the assumptions made and conclusions drawn about the vulnerabilities by the FoHo are problematic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0033788953442126513,
+                    "sentence": "With respect to the first vulnerability, the FoHorefersto public access to the LDAP database with students' emails in it in its correspondence with the University.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006400506943464279,
+                    "sentence": "The email addresses could be accessed using LDAP, or the Lightweight Directory Access Protocol, which is a standardized protocol for storing and accessing directory and profile information.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002798904664814472,
+                    "sentence": "However, it is worth noting that many Stanford emails are accessible publicly on theStanford Directorywebsite and could already be scraped.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0034717912785708904,
+                    "sentence": "Additionally, hundreds of email addresses are publicly available through sites such as theStanford CS directoryorStanford Athletics staff directory.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002387785818427801,
+                    "sentence": "The University, in fact,has no privacy obligationunder FERPA to keep Stanford emails secret.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0038653002120554447,
+                    "sentence": "Perhaps for this reason, Stanford emails are classified as “Low Risk” byStanford's own data classification standards.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002425494836643338,
+                    "sentence": "Thus, the Universityconcludedin its response to the FoHo that “we have no specific reason to believe that the Canvas phishing campaign was related to our LDAP configuration.” Given that there are several publicly-available alternatives to get emails, compared to the relative obscurity of the LDAP database, I don't see how the FoHo concluded that this vulnerability “likely enabled” the attack.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0022154059261083603,
+                    "sentence": "It's not clear if the next vulnerability ᅳ that “Stanford IT did not block 'spoofed' emails” ᅳ is even a preventable vulnerability at all.Email spoofinginvolves forging the sender address of an email, kind of like someone writing in another person's address on a snail mail envelope.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002507651224732399,
+                    "sentence": "Because of the technical details of how email works, though, there is no foolproof solution to stop email spoofing in the first place.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0030323185492306948,
+                    "sentence": "(There are encrypted email solutions such as Keybase that help to cryptographically verify the sender of an email ᅳ but such verification requires both the sender and recipient to switch to encrypted email, making it impractical for large organizations).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003346005454659462,
+                    "sentence": "You simply can't stop thedeliveryof a spoofed email; you can only catch and label email as spamafterit has been delivered.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0031280156690627337,
+                    "sentence": "Email providers like Stanford thus rely on spam filters and otherstandard Office 365 security techniquesfor anti-spoofing.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003463048255071044,
+                    "sentence": "In effect, the FoHo makes it sound like fixing email spoofing is as easy as “patch[ing] a vulnerabilit[y],” when it is ultimately an impossible task that requires continual efforts for improvement.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002546336967498064,
+                    "sentence": "Why it matters",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003483167849481106,
+                    "sentence": "The FoHo correctly identified two problems with Stanford email systems: There is a public list of emails on the LDAP database, and email spoofing is a problem.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0053820181638002396,
+                    "sentence": "However, the FoHo misrepresented both issues in a way that makes it sound like Stanford UIT has been grossly negligent in doing its job, or that UIT simply doesn't care about students' email security.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005154885351657867,
+                    "sentence": "The FoHo doesn't consider that the stated vulnerabilities may not actually be feasible to fix, and that Stanford may not even be responsible for the attacks.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02145153284072876,
+                    "sentence": "The FoHo doesn't consider the steps UIT is already taking, such as improving phishing detection and enabling 2FA on email accounts, which may be a bigger priority than securing access to SUNet IDs, which are low-risk data and publicly accessible anyway.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013768691569566727,
+                    "sentence": "In other words, the FoHo wants us to start “calling B.S.” on the University's claims, purely because the FoHo says so.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007839119993150234,
+                    "sentence": "This follows a pattern of misinformation by the Fountain Hopper.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009180022403597832,
+                    "sentence": "In an issue last fall, when the FoHocorrectly identifiedproblems with Queer Chart's user data being exposed, it also listed as vulnerabilities the fact that the website had “easily readable, non-production source code” and that it wasn't GDPR-compliant.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006536031141877174,
+                    "sentence": "However, readability of source codehas nothing to dowith a system's security, and GDPR-compliance is not a cybersecurity vulnerability (and only applies to businesses with 250+ employees doing business in the EU, anyway).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007464271038770676,
+                    "sentence": "Although one could make an argument for fixing these issues, it is simply wrong to call them “sweeping vulnerabilities.”",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005588022992014885,
+                    "sentence": "For the FoHo, it makes sense to magnify everything to major vulnerability status ᅳ it fuels more outrage and more readership.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006500804331153631,
+                    "sentence": "But ifeverythingis a major cybersecurity vulnerability, students will not have an understanding of what constitutes and what doesn't constitute a severe data breach, and will therefore be less prepared to handle a severe data breach when it actually occurs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005570096429437399,
+                    "sentence": "An additional risk of sensational treatment of breaches in the media will encourage people to report breaches to the press first instead of the actual developers of the system.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009938688948750496,
+                    "sentence": "Although the press may have handledsuchcasesresponsibly, such a course of action does facedisciplinary,legaland privacy risks.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04913976043462753,
+                    "sentence": "For example, the student who discovered the2017 GSB data leakreleased a report that rightly called the University out for lying to students about only offering need-based financial aid.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06972969323396683,
+                    "sentence": "But was such an analysis worth compromising the privacy of the 2,000+ students whose applications were accessed to compile this report and inviting legal repercussions for a potential violation of the Computer Fraud and Abuse Act?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.10039155930280685,
+                    "sentence": "What risk was the student exposing himself to if hehadn'tfound any evidence of wrongdoing by the university?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.19157950580120087,
+                    "sentence": "Such situations involve complex ethical questions, and to answer them requires a nuanced understanding both of the severity of the vulnerability and the tradeoffs regarding the method of disclosure.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018810585606843233,
+                    "sentence": "TheStanford Bug Bounty Program, in fact, is a much safer way to report a vulnerability both so that it can be fixed as soon as possible and so that the vulnerability reporter is protected from legal action due to the safe harbor provisions of the program.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0030064783059060574,
+                    "sentence": "I've had the pleasure to work with Mike Takahashi and Ian Redzic, who work on Bug Bounty from UIT.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0029798857867717743,
+                    "sentence": "They are responsive and care about the security of Stanford's systems.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002963278442621231,
+                    "sentence": "Creating the impression that the University doesn't care about IT security will only decrease the chance that vulnerabilities will be properly reported through Bug Bounty.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017331541748717427,
+                    "sentence": "What should we be doing?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002598161343485117,
+                    "sentence": "News outlets should be more circumspect when reporting on vulnerabilities.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0024944893084466457,
+                    "sentence": "They should have evidence before declaring that a certain vulnerability is what enabled a cyberattack.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0035285113845020533,
+                    "sentence": "They should weigh the severity of vulnerabilities before making conclusions about them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002628182992339134,
+                    "sentence": "And if someone really finds a severe vulnerability, it may be wisest to first go to the Bug Bounty Program instead of a news outlet.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019046051893383265,
+                    "sentence": "At the same time, the University should understand the danger of a misinformed press and should be as clear with the press as possible.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001236822921782732,
+                    "sentence": "Perhaps FoHo's sensational reporting was enabled in part by the fact that the Universitydid not directly answerany of the FoHo's questions other than the one about the LDAP vulnerability.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011385661782696843,
+                    "sentence": "Nonetheless, the FoHo hardly gave the University any time to reply, sending out 17 questions at 2 a.m. and requiring a response by 11 a.m. (This echoes the40-minute deadlinethe FoHo gave Queer Chart when contacting them shortly before publication.)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009729809826239944,
+                    "sentence": "There are many more steps the University should take to improve email security and vulnerability reports.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00144615164026618,
+                    "sentence": "The Bug Bounty Program is a good first step, but the University should be more proactive about publicizing this program and be more timely in responding to good-faith vulnerability reports.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0008462255354970694,
+                    "sentence": "The notification of phishing attacks was only done on Canvas and UIT's website; it would have been far more effective to use email to reach all students.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001137483399361372,
+                    "sentence": "If UIT doesn't keep students adequately informed, that's when the Fountain Hopper will fill in the gap.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013342993333935738,
+                    "sentence": "There are also more long-term solutions that the University should look into.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001780387363396585,
+                    "sentence": "The training video about email safety and phishing that every new Stanford student is required to watch should be supplemented with a similar training related to vulnerability disclosure.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018543910700827837,
+                    "sentence": "Stanford has begun sending biweekly simulated phishing messages to all employees, but it could extend that to students as well.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008989023044705391,
+                    "sentence": "Computer science majors should take a required course in cybersecurity, which should include at minimum a unit on vulnerability disclosure and the legal dimensions of these topics.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012485494837164879,
+                    "sentence": "The university should be proactive rather than reactive in taking crucial security steps such as enabling 2FA; they only implemented 2FA on accounts after amajor 2013 security breachthat exposed all SUNet IDs and hashed passwords, and lack of 2FA was also responsible for exacerbating a2016 tax data breachon a vendor's system.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011659791693091393,
+                    "sentence": "Additionally, as students manage more computer systems that handle students' data (such as the Stanford Marriage Pact, Queer Chart, the2021 Frosh Matcherand TreeHacks), Stanford should work with students to develop a vulnerability disclosure policy that allows for a responsible process for reporting and fixing vulnerabilities in students' systems.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009991943836212158,
+                    "sentence": "Only then will students' data be truly safe.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.008684024214744568,
+                    "sentence": "If you care about these issues as well, pleasefill out this formto share your thoughts with UIT.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.018814705312252045,
+                    "sentence": "(This form was also hidden somewhere in some corner of UIT's website ᅳ UIT, take note!)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013146772049367428,
+                    "sentence": "As cybersecurity becomes more and more important, everyone in the Stanford community needs to work together to keep everyone informed and stay ahead of the game.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010264248587191105,
+                    "sentence": "The University should emphasize clearer communication with the student body on these issues.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01483907736837864,
+                    "sentence": "And while the press has an important role to play in making the technical topics involved more accessible to the student body, it also has an overriding responsibility to focus on informing instead of just sensationalizing.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04535858333110809,
+                    "sentence": "This op-ed has been corrected to reflect that the FoHo gave Queer Chart a 40-minute deadline when contacting them shortly before publication, not when first contacting them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03450285270810127,
+                    "sentence": "Disclosure: I work for Treehacks, but the opinions expressed in this piece are my own.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05486093834042549,
+                    "sentence": "Contact Ashwin Ramaswami at ashwin99 'at' stanford.edu.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0912645161151886,
+                    "sentence": "Ashwin Ramaswami '21 was the Chief Technical Officer of the Daily from 2018-19 during Vol 254 and 255 and in 2020 during Vol 257.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.10241721570491791,
+                    "sentence": "Contact him at ashwin 'at' stanforddaily.com",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 1,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 3,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 4,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 6,
+                    "num_sentences": 4,
+                    "completely_generated_prob": 0.0006564766595293492
+                },
+                {
+                    "start_sentence_index": 10,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 11,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 13,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                },
+                {
+                    "start_sentence_index": 20,
+                    "num_sentences": 6,
+                    "completely_generated_prob": 1.474742012248794e-05
+                },
+                {
+                    "start_sentence_index": 26,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 27,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                },
+                {
+                    "start_sentence_index": 32,
+                    "num_sentences": 4,
+                    "completely_generated_prob": 0.0006564766595293492
+                },
+                {
+                    "start_sentence_index": 36,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                },
+                {
+                    "start_sentence_index": 44,
+                    "num_sentences": 4,
+                    "completely_generated_prob": 0.0006564766595293492
+                },
+                {
+                    "start_sentence_index": 48,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 49,
+                    "num_sentences": 4,
+                    "completely_generated_prob": 0.0006564766595293492
+                },
+                {
+                    "start_sentence_index": 53,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 56,
+                    "num_sentences": 4,
+                    "completely_generated_prob": 0.0006564766595293492
+                },
+                {
+                    "start_sentence_index": 60,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                },
+                {
+                    "start_sentence_index": 67,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 69,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 72,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 73,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 74,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 75,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                }
+            ],
+            "completely_generated_prob": 0.026084826710515686,
+            "class_probabilities": {
+                "human": 0.972481672477468,
+                "ai": 0.026084826710515686,
+                "mixed": 0.0014335008120164073
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.972481672477468,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.026084826710515686,
+                    "human": 0.972481672477468,
+                    "mixed": 0.0014335008120164073
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "The Fountain Hopper (FoHo) sent anemail blastlast week alerting students that there had been an “UNPRECEDENTED VOLUME OF PHISHING ATTACKS.” Additionally, FoHo claimed to identify “TWO MAJOR VULNERABILITIES THAT LIKELY ENABLED THE ATTACKS” and alleged that “STANFORD KNEW ABOUT EMAIL VULNERABILITY AND NEGLECTED TO FIX IT.”\nThe FoHo email is deeply misleading. I will describe what happened, how the FoHo misreported it and the general implications of the FoHo’s misrepresentations.\nWhat happened\nThe FoHo story was written in response to a Dec. 16reportby University IT (UIT) about an “unprecedented volume in phishing attacks” that led to “hundreds of compromised user accounts.” In a phishing attack, an attacker impersonates a trustworthy entity in order to steal sensitive information. For example, an attacker might send you a phishing email that links to a Stanford-like login page; once you enter your password, the attacker gets access to your account.\nTwo-factor authentication (2FA) is a common mechanism for preventing against phishing attacks, because it requires someone to sign in with Duo or a code texted to your phone in order to access your account. However, 2FA is not always required for access to Stanford email, thus enabling the phishing attacks that just happened. In the report, UIT acknowledged that the University is facing a phishing issue and announced efforts to improve detection of phishing and community awareness of phishing emails. It also announced its plans to close the email 2FA loophole and require 2FA for email access by October 2020.\nWhat the FoHo said\nThe FoHo claimed to have found “two key email vulnerabilities” in Stanford’s systems that enabled the attacks, and that the University failed to address them. However, both the assumptions made and conclusions drawn about the vulnerabilities by the FoHo are problematic.\nWith respect to the first vulnerability, the FoHorefersto public access to the LDAP database with students’ emails in it in its correspondence with the University. The email addresses could be accessed using LDAP, or the Lightweight Directory Access Protocol, which is a standardized protocol for storing and accessing directory and profile information. However, it is worth noting that many Stanford emails are accessible publicly on theStanford Directorywebsite and could already be scraped. Additionally, hundreds of email addresses are publicly available through sites such as theStanford CS directoryorStanford Athletics staff directory. The University, in fact,has no privacy obligationunder FERPA to keep Stanford emails secret. Perhaps for this reason, Stanford emails are classified as “Low Risk” byStanford’s own data classification standards. Thus, the Universityconcludedin its response to the FoHo that “we have no specific reason to believe that the Canvas phishing campaign was related to our LDAP configuration.” Given that there are several publicly-available alternatives to get emails, compared to the relative obscurity of the LDAP database, I don’t see how the FoHo concluded that this vulnerability “likely enabled” the attack.\nIt’s not clear if the next vulnerability — that “Stanford IT did not block ‘spoofed’ emails” — is even a preventable vulnerability at all.Email spoofinginvolves forging the sender address of an email, kind of like someone writing in another person’s address on a snail mail envelope. Because of the technical details of how email works, though, there is no foolproof solution to stop email spoofing in the first place. (There are encrypted email solutions such as Keybase that help to cryptographically verify the sender of an email — but such verification requires both the sender and recipient to switch to encrypted email, making it impractical for large organizations). You simply can’t stop thedeliveryof a spoofed email; you can only catch and label email as spamafterit has been delivered. Email providers like Stanford thus rely on spam filters and otherstandard Office 365 security techniquesfor anti-spoofing. In effect, the FoHo makes it sound like fixing email spoofing is as easy as “patch[ing] a vulnerabilit[y],” when it is ultimately an impossible task that requires continual efforts for improvement.\nWhy it matters\nThe FoHo correctly identified two problems with Stanford email systems: There is a public list of emails on the LDAP database, and email spoofing is a problem. However, the FoHo misrepresented both issues in a way that makes it sound like Stanford UIT has been grossly negligent in doing its job, or that UIT simply doesn’t care about students’ email security. The FoHo doesn’t consider that the stated vulnerabilities may not actually be feasible to fix, and that Stanford may not even be responsible for the attacks. The FoHo doesn’t consider the steps UIT is already taking, such as improving phishing detection and enabling 2FA on email accounts, which may be a bigger priority than securing access to SUNet IDs, which are low-risk data and publicly accessible anyway. In other words, the FoHo wants us to start “calling B.S.” on the University’s claims, purely because the FoHo says so.\nThis follows a pattern of misinformation by the Fountain Hopper. In an issue last fall, when the FoHocorrectly identifiedproblems with Queer Chart’s user data being exposed, it also listed as vulnerabilities the fact that the website had “easily readable, non-production source code” and that it wasn’t GDPR-compliant. However, readability of source codehas nothing to dowith a system’s security, and GDPR-compliance is not a cybersecurity vulnerability (and only applies to businesses with 250+ employees doing business in the EU, anyway). Although one could make an argument for fixing these issues, it is simply wrong to call them “sweeping vulnerabilities.”\nFor the FoHo, it makes sense to magnify everything to major vulnerability status — it fuels more outrage and more readership. But ifeverythingis a major cybersecurity vulnerability, students will not have an understanding of what constitutes and what doesn’t constitute a severe data breach, and will therefore be less prepared to handle a severe data breach when it actually occurs. An additional risk of sensational treatment of breaches in the media will encourage people to report breaches to the press first instead of the actual developers of the system. Although the press may have handledsuchcasesresponsibly, such a course of action does facedisciplinary,legaland privacy risks. For example, the student who discovered the2017 GSB data leakreleased a report that rightly called the University out for lying to students about only offering need-based financial aid. But was such an analysis worth compromising the privacy of the 2,000+ students whose applications were accessed to compile this report and inviting legal repercussions for a potential violation of the Computer Fraud and Abuse Act? What risk was the student exposing himself to if hehadn’tfound any evidence of wrongdoing by the university? Such situations involve complex ethical questions, and to answer them requires a nuanced understanding both of the severity of the vulnerability and the tradeoffs regarding the method of disclosure.\nTheStanford Bug Bounty Program, in fact, is a much safer way to report a vulnerability both so that it can be fixed as soon as possible and so that the vulnerability reporter is protected from legal action due to the safe harbor provisions of the program. I’ve had the pleasure to work with Mike Takahashi and Ian Redzic, who work on Bug Bounty from UIT. They are responsive and care about the security of Stanford’s systems. Creating the impression that the University doesn’t care about IT security will only decrease the chance that vulnerabilities will be properly reported through Bug Bounty.\nWhat should we be doing?\nNews outlets should be more circumspect when reporting on vulnerabilities. They should have evidence before declaring that a certain vulnerability is what enabled a cyberattack. They should weigh the severity of vulnerabilities before making conclusions about them. And if someone really finds a severe vulnerability, it may be wisest to first go to the Bug Bounty Program instead of a news outlet.\nAt the same time, the University should understand the danger of a misinformed press and should be as clear with the press as possible. Perhaps FoHo’s sensational reporting was enabled in part by the fact that the Universitydid not directly answerany of the FoHo’s questions other than the one about the LDAP vulnerability. Nonetheless, the FoHo hardly gave the University any time to reply, sending out 17 questions at 2 a.m. and requiring a response by 11 a.m. (This echoes the40-minute deadlinethe FoHo gave Queer Chart when contacting them shortly before publication.)\nThere are many more steps the University should take to improve email security and vulnerability reports. The Bug Bounty Program is a good first step, but the University should be more proactive about publicizing this program and be more timely in responding to good-faith vulnerability reports. The notification of phishing attacks was only done on Canvas and UIT’s website; it would have been far more effective to use email to reach all students. If UIT doesn’t keep students adequately informed, that’s when the Fountain Hopper will fill in the gap.\nThere are also more long-term solutions that the University should look into. The training video about email safety and phishing that every new Stanford student is required to watch should be supplemented with a similar training related to vulnerability disclosure. Stanford has begun sending biweekly simulated phishing messages to all employees, but it could extend that to students as well. Computer science majors should take a required course in cybersecurity, which should include at minimum a unit on vulnerability disclosure and the legal dimensions of these topics. The university should be proactive rather than reactive in taking crucial security steps such as enabling 2FA; they only implemented 2FA on accounts after amajor 2013 security breachthat exposed all SUNet IDs and hashed passwords, and lack of 2FA was also responsible for exacerbating a2016 tax data breachon a vendor’s system. Additionally, as students manage more computer systems that handle students’ data (such as the Stanford Marriage Pact, Queer Chart, the2021 Frosh Matcherand TreeHacks), Stanford should work with students to develop a vulnerability disclosure policy that allows for a responsible process for reporting and fixing vulnerabilities in students’ systems. Only then will students’ data be truly safe.\nIf you care about these issues as well, pleasefill out this formto share your thoughts with UIT. (This form was also hidden somewhere in some corner of UIT’s website — UIT, take note!)\nAs cybersecurity becomes more and more important, everyone in the Stanford community needs to work together to keep everyone informed and stay ahead of the game. The University should emphasize clearer communication with the student body on these issues. And while the press has an important role to play in making the technical topics involved more accessible to the student body, it also has an overriding responsibility to focus on informing instead of just sensationalizing.\nThis op-ed has been corrected to reflect that the FoHo gave Queer Chart a 40-minute deadline when contacting them shortly before publication, not when first contacting them.\nDisclosure: I work for Treehacks, but the opinions expressed in this piece are my own.\nContact Ashwin Ramaswami at ashwin99 ‘at’ stanford.edu.\nAshwin Ramaswami '21 was the Chief Technical Officer of the Daily from 2018-19 during Vol 254 and 255 and in 2020 during Vol 257. Contact him at ashwin ‘at’ stanforddaily.com\n"
+        }
+    ]
+}

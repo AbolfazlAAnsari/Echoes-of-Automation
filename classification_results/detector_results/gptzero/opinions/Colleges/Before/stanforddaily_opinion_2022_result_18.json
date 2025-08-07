@@ -1,0 +1,524 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0017447230638936162,
+                    "sentence": "It seems to be theperfect founding story: 19-year-old Stanford dropouts who get their big break throughsomeone they met at a frat party.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0026066855061799288,
+                    "sentence": "The Social Network 2.0 playing out before our very eyes.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016139070503413677,
+                    "sentence": "But these are entrepreneurs who have access to an inordinate amount of highly sensitive informationabout their peers and young people all over the country through their app Fizz, which promises anonymity to its meme-making, confession-posting users.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001460337545722723,
+                    "sentence": "In light of Fizz's recent$4.5 million funding round, students at Stanford ᅳ and at every single one of the more than 1,000 campuses that Fizz intends to launch at ᅳ should know that Fizz was hacked last year by three Stanford students.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0016564594116061926,
+                    "sentence": "Aditya Saligrama '24, Miles McCain '24 and Cooper de Nicola '22 M.S.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013965705875307322,
+                    "sentence": "'23 told mein an emailthat they investigated Fizz's security on the evening of Nov. 5, 2021, after they were “initially concerned by Fizz'sstrong public claims of total anonymity.”I had reached out to one of the students in early fall quarter after a mutual friend told me that Fizz had apparently been hacked last year.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013944653328508139,
+                    "sentence": "Saligrama, McCain and de Nicola all have professional experience in cybersecurity and have previously performed dozens of security vulnerability disclosures.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001571036409586668,
+                    "sentence": "They had no prior relationship with Fizz or its founders, Teddy Solomon and Ashton Cofer.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010114863980561495,
+                    "sentence": "Seeing the number of highly sensitive and personal posts made by fellow students on the app, they realized that “if a security vulnerability could result in the deanonymization of posts, that information could be extremely harmful to Stanford students.”",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011085785226896405,
+                    "sentence": "Hoping to ensure Fizz users' safety and “intending to inform their founders about any potential vulnerabilities,” the team began to dig.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001147171133197844,
+                    "sentence": "Here is what they told me they found, as they wrote in their October 2022 email(emphasis added):",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015315540367737412,
+                    "sentence": "“At the time, Fizz used Google's Firestore database product to store data including user information and posts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002383067738264799,
+                    "sentence": "Firestore can be configured to use a set of security rules in order to prevent users from accessing data they should not have access to.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.17027057707309723,
+                    "sentence": "However,Fizz did not have the necessary security rules set up, making it possible for anyone to query the database directly and access a significant amount of sensitive user data.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1490069180727005,
+                    "sentence": "We found thatphone numbers and/or email addresses for all users were fully accessible, and that posts and upvotes were directly linkable to this identifiable information.It was possible to identify the author of any post on the platform.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09790534526109695,
+                    "sentence": "Moreover, the database was entirely editable ᅳit was possible for anyone to edit posts, karma values, moderator status, and so on.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05096280202269554,
+                    "sentence": "Having moderator status granted access to a dashboard that provided the ability to delete arbitrary posts.”",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.03905469924211502,
+                    "sentence": "The team said they “notified Fizz about the security vulnerabilities on November 8, 2021,” followingindustry best practices.They said that Fizz initially thanked them for sharing their findings and told them on Nov. 22, 2021 that they “considered the issues fixed.”",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.037304624915122986,
+                    "sentence": "On the very same day, Nov. 22, Saligrama, McCain and de Nicola received a legal threat from Fizz's lawyers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04000569507479668,
+                    "sentence": "“Fizz's lawyer threatened us with criminal, civil, and disciplinary charges unless we agreed to keep quiet about the vulnerabilities.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.029850022867321968,
+                    "sentence": "If we agreed to their demands within five days, they said they would not pursue 'charges,'” the team told me.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.017803868278861046,
+                    "sentence": "The Daily obtained a copy ofthe letter sent by Fizz's lawyers, which included the following threats (Fizz was called Buzz at the time of this letter):",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.020929623395204544,
+                    "sentence": "“[the security researchers] may be liable for fines, damages and each individual of the [security research] Group may be imprisoned… Criminal penalties under the CFAA can be up to 20 years depending on circumstances.”",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.030484411865472794,
+                    "sentence": "“the Group's actions are also a violation of Buzz's Terms of Use and constitute a breach of contract, entitling Buzz to compensatory damages and damages for lost revenue.”",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.026107942685484886,
+                    "sentence": "“the Group's agreement to infiltrate Buzz's network is also a separate offense of conspiracy, exposing the Group to even more significant criminal liability.”",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002313407836481929,
+                    "sentence": "Far from their apparent welcoming of constructive concerns in the nascent stage of their app, Fizz's founders chose instead to prioritize the preservation of their image ᅳ even if that meant violating industry norms and threatening their classmates with decades of jail time.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0025627578143030405,
+                    "sentence": "Their actions may discourage future white-hat hackers from disclosing crucial security information about the app.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001231872709468007,
+                    "sentence": "For reference, Google has aVulnerability Reward Programthat awards security researchers several millions of dollars per year “to honor all the cutting-edge external contributions that help us keep our users safe.”",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017219996079802513,
+                    "sentence": "The trio did not back down.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012954405974596739,
+                    "sentence": "“The Electronic Frontier Foundation (EFF) generously agreed torepresent uspro bono, and we did not agree to Fizz's demands.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015768365701660514,
+                    "sentence": "Threatening your classmates with felony charges in an attempt to cover up your mistakes isn't a good look,” Saligrama, McCain and de Nicola told The Daily.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0012147759553045034,
+                    "sentence": "Solomon and Cofer did not respond to multiple requests for comment on this incident and Fizz's security.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010604561539366841,
+                    "sentence": "Fizz today, with far more money, experience and employees, stores user data more securely than they did a year ago.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0015938280848786235,
+                    "sentence": "I have the same praise and concerns about the app itself as I hadlast yearwhen I wrote my first article on the startup.There will surely always be a place for anonymous apps on college campuses, as we've seentimeandtimeagain.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002098959404975176,
+                    "sentence": "However, anyone might have less faith that the company's reactions to scrutiny - driven by the same individuals - can change so easily.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0019859755411744118,
+                    "sentence": "Who do you trust to securely handle your data and most personal confessions?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018152616685256362,
+                    "sentence": "Who do you trust to shape your perception of the “true” nature of our campuses and communities?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004377568140625954,
+                    "sentence": "This vulnerability disclosure is just one incident in Fizz's history, but it provides a deep window into the company's operations.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005992541089653969,
+                    "sentence": "To name just four major areas of concern:",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0051186783239245415,
+                    "sentence": "Until all of these issues have been satisfactorily resolved, our trust in Fizz may not be fully restored.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00020282615150790662,
+                    "sentence": "Although Fizz released a statement entitled“Security Improvements Regarding Fizz”on Dec. 7, 2021, the page is no longer navigable from Fizz'swebsiteor Google searches as of the time of this article's publication.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002376171905780211,
+                    "sentence": "In talking to other Fizz users on campus, I found that very few had heard about last year's incident.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00019888256792910397,
+                    "sentence": "Fizz should have kept the statement up and made an official post on the app about the vulnerability when it happened.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017153873341158032,
+                    "sentence": "Surely all users want to be clearly informed when our trust in an app is violated.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014367194671649486,
+                    "sentence": "We want to know that the content and upvotes we see cannot be manipulated in any way by moderators and developers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001747521891957149,
+                    "sentence": "Moreover, we still don't know whether our data is internally anonymized.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002865309943445027,
+                    "sentence": "The founderstold The Dailylast year that users are identifiable to developers.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001629837352083996,
+                    "sentence": "Fizz'sprivacy policyimplies that this is still the case, for example stating that they may share “certain information” if “we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of Fizz or others.”",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015906245971564204,
+                    "sentence": "Although the privacy policy does not specify what this user information may be, it also states that Fizz has “collected Personal Information in the following categories”, which may include: “identifiers such as real name, alias, … Internet Protocol address, email address, account name”; “financial or health information”; “browsing history, search history, and information regarding a consumer's interaction with an Internet Web site [or] application.” Clearly it would be disastrous if someone with malicious intentions were to access this information.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013795524137094617,
+                    "sentence": "I sincerely hope that Fizz's founders will not react so aggressively in response to future good-faith vulnerability disclosures and scrutiny more broadly.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017599145940039307,
+                    "sentence": "Fizz can only sustainably improve if its leaders listen and remain accountable to these many college communities.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017459194350522012,
+                    "sentence": "Anything less could pose massive risk to Fizz users and the future of the app.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00039235028089024127,
+                    "sentence": "Joyce Chen '25 is the chair of the Editorial Board for Vol.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002727157552726567,
+                    "sentence": "263. Previously, she was the managing editor for the Opinions section for Vol.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003312114276923239,
+                    "sentence": "262. Contact her at opinions 'at' stanforddaily.com.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 3,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 4,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 6,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 9,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 11,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 14,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 15,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 17,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 18,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 19,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 21,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 22,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 23,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 24,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 25,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 28,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 31,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 32,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 34,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 37,
+                    "num_sentences": 2,
+                    "completely_generated_prob": 0.02318840472169716
+                },
+                {
+                    "start_sentence_index": 39,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 40,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                },
+                {
+                    "start_sentence_index": 45,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 48,
+                    "num_sentences": 1,
+                    "completely_generated_prob": 0.11111110864197542
+                },
+                {
+                    "start_sentence_index": 49,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                },
+                {
+                    "start_sentence_index": 52,
+                    "num_sentences": 3,
+                    "completely_generated_prob": 0.00408719312638748
+                }
+            ],
+            "completely_generated_prob": 0.022115309848016095,
+            "class_probabilities": {
+                "human": 0.9775963346799376,
+                "ai": 0.022115309848016095,
+                "mixed": 0.0002883554720463312
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9775963346799376,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.022115309848016095,
+                    "human": 0.9775963346799376,
+                    "mixed": 0.0002883554720463312
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "It seems to be theperfect founding story: 19-year-old Stanford dropouts who get their big break throughsomeone they met at a frat party. The Social Network 2.0 playing out before our very eyes. But these are entrepreneurs who have access to an inordinate amount of highly sensitive informationabout their peers and young people all over the country through their app Fizz, which promises anonymity to its meme-making, confession-posting users.\nIn light of Fizz’s recent$4.5 million funding round, students at Stanford — and at every single one of the more than 1,000 campuses that Fizz intends to launch at — should know that Fizz was hacked last year by three Stanford students.\nAditya Saligrama ’24, Miles McCain ’24 and Cooper de Nicola ’22 M.S. ’23 told mein an emailthat they investigated Fizz’s security on the evening of Nov. 5, 2021, after they were “initially concerned by Fizz’sstrong public claims of total anonymity.”I had reached out to one of the students in early fall quarter after a mutual friend told me that Fizz had apparently been hacked last year.\nSaligrama, McCain and de Nicola all have professional experience in cybersecurity and have previously performed dozens of security vulnerability disclosures. They had no prior relationship with Fizz or its founders, Teddy Solomon and Ashton Cofer. Seeing the number of highly sensitive and personal posts made by fellow students on the app, they realized that “if a security vulnerability could result in the deanonymization of posts, that information could be extremely harmful to Stanford students.”\nHoping to ensure Fizz users’ safety and “intending to inform their founders about any potential vulnerabilities,” the team began to dig. Here is what they told me they found, as they wrote in their October 2022 email(emphasis added):\n“At the time, Fizz used Google’s Firestore database product to store data including user information and posts. Firestore can be configured to use a set of security rules in order to prevent users from accessing data they should not have access to. However,Fizz did not have the necessary security rules set up, making it possible for anyone to query the database directly and access a significant amount of sensitive user data.\nWe found thatphone numbers and/or email addresses for all users were fully accessible, and that posts and upvotes were directly linkable to this identifiable information.It was possible to identify the author of any post on the platform.\nMoreover, the database was entirely editable —it was possible for anyone to edit posts, karma values, moderator status, and so on. Having moderator status granted access to a dashboard that provided the ability to delete arbitrary posts.”\nThe team said they “notified Fizz about the security vulnerabilities on November 8, 2021,” followingindustry best practices.They said that Fizz initially thanked them for sharing their findings and told them on Nov. 22, 2021 that they “considered the issues fixed.”\nOn the very same day, Nov. 22, Saligrama, McCain and de Nicola received a legal threat from Fizz’s lawyers.\n“Fizz’s lawyer threatened us with criminal, civil, and disciplinary charges unless we agreed to keep quiet about the vulnerabilities. If we agreed to their demands within five days, they said they would not pursue ‘charges,’” the team told me.\nThe Daily obtained a copy ofthe letter sent by Fizz’s lawyers, which included the following threats (Fizz was called Buzz at the time of this letter):\n“[the security researchers] may be liable for fines, damages and each individual of the [security research] Group may be imprisoned… Criminal penalties under the CFAA can be up to 20 years depending on circumstances.”\n“the Group’s actions are also a violation of Buzz’s Terms of Use and constitute a breach of contract, entitling Buzz to compensatory damages and damages for lost revenue.”\n“the Group’s agreement to infiltrate Buzz’s network is also a separate offense of conspiracy, exposing the Group to even more significant criminal liability.”\nFar from their apparent welcoming of constructive concerns in the nascent stage of their app, Fizz’s founders chose instead to prioritize the preservation of their image — even if that meant violating industry norms and threatening their classmates with decades of jail time. Their actions may discourage future white-hat hackers from disclosing crucial security information about the app. For reference, Google has aVulnerability Reward Programthat awards security researchers several millions of dollars per year “to honor all the cutting-edge external contributions that help us keep our users safe.”\nThe trio did not back down. “The Electronic Frontier Foundation (EFF) generously agreed torepresent uspro bono, and we did not agree to Fizz’s demands. Threatening your classmates with felony charges in an attempt to cover up your mistakes isn’t a good look,” Saligrama, McCain and de Nicola told The Daily.\nSolomon and Cofer did not respond to multiple requests for comment on this incident and Fizz’s security.\nFizz today, with far more money, experience and employees, stores user data more securely than they did a year ago. I have the same praise and concerns about the app itself as I hadlast yearwhen I wrote my first article on the startup.There will surely always be a place for anonymous apps on college campuses, as we’ve seentimeandtimeagain.\nHowever, anyone might have less faith that the company’s reactions to scrutiny – driven by the same individuals – can change so easily. Who do you trust to securely handle your data and most personal confessions? Who do you trust to shape your perception of the “true” nature of our campuses and communities?\nThis vulnerability disclosure is just one incident in Fizz’s history, but it provides a deep window into the company’s operations. To name just four major areas of concern:\n\nUntil all of these issues have been satisfactorily resolved, our trust in Fizz may not be fully restored.\nAlthough Fizz released a statement entitled“Security Improvements Regarding Fizz”on Dec. 7, 2021, the page is no longer navigable from Fizz’swebsiteor Google searches as of the time of this article’s publication. In talking to other Fizz users on campus, I found that very few had heard about last year’s incident. Fizz should have kept the statement up and made an official post on the app about the vulnerability when it happened. Surely all users want to be clearly informed when our trust in an app is violated. We want to know that the content and upvotes we see cannot be manipulated in any way by moderators and developers.\nMoreover, we still don’t know whether our data is internally anonymized. The founderstold The Dailylast year that users are identifiable to developers. Fizz’sprivacy policyimplies that this is still the case, for example stating that they may share “certain information” if “we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of Fizz or others.”\nAlthough the privacy policy does not specify what this user information may be, it also states that Fizz has “collected Personal Information in the following categories”, which may include: “identifiers such as real name, alias, … Internet Protocol address, email address, account name”; “financial or health information”; “browsing history, search history, and information regarding a consumer’s interaction with an Internet Web site [or] application.” Clearly it would be disastrous if someone with malicious intentions were to access this information.\nI sincerely hope that Fizz’s founders will not react so aggressively in response to future good-faith vulnerability disclosures and scrutiny more broadly. Fizz can only sustainably improve if its leaders listen and remain accountable to these many college communities. Anything less could pose massive risk to Fizz users and the future of the app.\nJoyce Chen ‘25 is the chair of the Editorial Board for Vol. 263. Previously, she was the managing editor for the Opinions section for Vol. 262. Contact her at opinions ‘at’ stanforddaily.com.\n"
+        }
+    ]
+}

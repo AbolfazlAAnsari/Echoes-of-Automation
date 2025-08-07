@@ -1,0 +1,153 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.9868022203445435,
+                    "sentence": "Published 1:38 pm Wednesday, August 14, 2024BySuffolk News-Herald Editorial BoardAs the remnants of Debby spawned rotations that prompted an afternoon of Tornado Warnings for much of Suffolk and South Hampton Roads, it was a stark reminder of the importance of staying weather-aware.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9948232769966125,
+                    "sentence": "Whether it's a sudden storm, a heatwave, or a cold snap, being informed about the weather can make a significant difference in how we prepare and respond.Weather awareness isn't just about avoiding inconvenience; it's about safety.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.994387686252594,
+                    "sentence": "For instance, knowing about an impending severe storm can give you the time needed to secure your property, plan an alternate route, or even evacuate if necessary.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9662613272666931,
+                    "sentence": "As we found for much of July, during heatwaves, being aware of the temperature and humidity levels can help prevent heat-related illnesses by encouraging hydration and limiting exposure to the sun.Moreover, staying weather-aware fosters a sense of community.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9690000414848328,
+                    "sentence": "When we're informed, we can share that information with others, particularly those who might be more vulnerable, such as the elderly or those without access to reliable news sources.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9942731261253357,
+                    "sentence": "This collective vigilance can help reduce harm and build resilience within communities.In our digital age, there's no excuse not to be informed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.9967575073242188,
+                    "sentence": "Weather apps, alerts, and news broadcasts are readily accessible and provide real-time updates.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.7941495180130005,
+                    "sentence": "By taking a few moments each day to check the weather forecast, we can make smarter decisions, protect our loved ones, and contribute to our overall well-being.Staying weather-aware is not just a good habit; it's an essential part of being prepared for whatever nature might throw our way.On Saturday, September 7, 2024 at Kornblau Field at S.B.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.10690155625343323,
+                    "sentence": "Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                },
+                {
+                    "generated_prob": 0.04678354412317276,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": true
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 0.3167013767626146
+                }
+            ],
+            "completely_generated_prob": 0.6380873748127674,
+            "class_probabilities": {
+                "human": 0.34547457344722565,
+                "ai": 0.6380873748127674,
+                "mixed": 0.016438051740006957
+            },
+            "average_generated_prob": 1,
+            "predicted_class": "ai",
+            "confidence_score": 0.6380873748127674,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.6380873748127674,
+                    "human": 0.34547457344722565,
+                    "mixed": 0.016438051740006957
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {
+                    "predicted_class": "pure_ai",
+                    "result_message": "",
+                    "confidence_score": 0.9999999998,
+                    "confidence_category": "high",
+                    "class_probabilities": {
+                        "pure_ai": 0.9999999999,
+                        "ai_paraphrased": 9.999999997e-11
+                    },
+                    "confidence_scores_raw": {
+                        "identity": {
+                            "pure_ai": 0.9999999998,
+                            "ai_paraphrased": 9.999999997e-11
+                        }
+                    },
+                    "confidence_thresholds_raw": {
+                        "identity": {
+                            "pure_ai": {
+                                "reject": 0.65,
+                                "low": 0.75,
+                                "medium": 0.92
+                            },
+                            "ai_paraphrased": {
+                                "reject": 0.85,
+                                "low": 0.9,
+                                "medium": 0.95
+                            }
+                        }
+                    }
+                },
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "AI_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 1:38 pm Wednesday, August 14, 2024BySuffolk News-Herald Editorial BoardAs the remnants of Debby spawned rotations that prompted an afternoon of Tornado Warnings for much of Suffolk and South Hampton Roads, it was a stark reminder of the importance of staying weather-aware. Whether it’s a sudden storm, a heatwave, or a cold snap, being informed about the weather can make a significant difference in how we prepare and respond.Weather awareness isn’t just about avoiding inconvenience; it’s about safety. For instance, knowing about an impending severe storm can give you the time needed to secure your property, plan an alternate route, or even evacuate if necessary. As we found for much of July, during heatwaves, being aware of the temperature and humidity levels can help prevent heat-related illnesses by encouraging hydration and limiting exposure to the sun.Moreover, staying weather-aware fosters a sense of community. When we’re informed, we can share that information with others, particularly those who might be more vulnerable, such as the elderly or those without access to reliable news sources. This collective vigilance can help reduce harm and build resilience within communities.In our digital age, there’s no excuse not to be informed. Weather apps, alerts, and news broadcasts are readily accessible and provide real-time updates. By taking a few moments each day to check the weather forecast, we can make smarter decisions, protect our loved ones, and contribute to our overall well-being.Staying weather-aware is not just a good habit; it’s an essential part of being prepared for whatever nature might throw our way.On Saturday, September 7, 2024 at Kornblau Field at S.B. Ballard Stadium, the Old Dominion Monarchs will host…The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…"
+        }
+    ]
+}

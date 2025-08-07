@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00015234085731208324,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00015078189608175308,
+                    "sentence": "Please send your letters toletters@independent.co.ukIt has been very sad and disappointing to see the response of a lot of those on the progressive left to the 7 October attack on Israel.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001200758051709272,
+                    "sentence": "TheHamasterrorist attack was absolutely appalling, with people - including children - murdered in the most horrific ways.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000131473017972894,
+                    "sentence": "There was also sexual violence and hundreds of hostages taken, many of whom are still suffering in captivity.This atrocity was far beyond any context, justification or “resistance”.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014307886885944754,
+                    "sentence": "Everyone with humanity should be able to condemn Hamas unconditionally.That does not mean you cannot at the same time opposeBenjamin Netanyahu, his far-right government and their actions (the Israeli offensive has killed more than 35,000 Palestinians, at least half of them women and children, according to the latest estimates by Gaza health officials).Mark DawesLondonHalf the storyJeremy Hunt constantly tells us that Covid and the Russian invasion of Ukraine are responsible for tax rises and the cost of living crisis.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018380736582912505,
+                    "sentence": "That's only half the story.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00023925761342979968,
+                    "sentence": "He convenientlyforgets to mention Brexit.Brexit is similar to Covid-19 in that it infected the Tories to such an extent it became epidemic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002222382463514805,
+                    "sentence": "Also, like the virus, the Tories failed to prepare, underestimated its impact, and took decisions (often delayed) that made matters worse.There is a remedy at hand to remove this political contagion but, as with Covid, the government's been too frightened to act - this time, to go ahead and hold a general election.Removing the government should at least give us five years of immunity but, unfortunately, the inoculation on offer is unlikely to provide a cure for Brexit.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00150736840441823,
+                    "sentence": "The debilitating symptoms will persist in dragging us down into what could be termed a “long-Brexit”, for want of a better name!Roger HindsSurreyIt's obvious what needs to be doneTo my mind, it doesn't really matter ifLabour's plans for the economy are minimally different from the Conservatives.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0011470078025013208,
+                    "sentence": "We actually do need a dynamic economy, probably capitalistic in nature, generating wealth, which can then be shared fairly.It's fairness that is so badly lacking at the moment.So many of our problems stem from poverty, education inequality and a lack of social mobility.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013488107360899448,
+                    "sentence": "It's obvious what needs to be done, share the wealth more fairly!What we don't need is more populist right-wing politics.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0018888753838837147,
+                    "sentence": "Let's start with the Tory party, that lot has to go.Simon WatsonWorcestershire",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.017917192071486437,
+            "class_probabilities": {
+                "human": 0.9820828079285135,
+                "ai": 0.017917192071486437,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9820828079285135,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.017917192071486437,
+                    "human": 0.9820828079285135,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukIt has been very sad and disappointing to see the response of a lot of those on the progressive left to the 7 October attack on Israel. TheHamasterrorist attack was absolutely appalling, with people – including children – murdered in the most horrific ways. There was also sexual violence and hundreds of hostages taken, many of whom are still suffering in captivity.This atrocity was far beyond any context, justification or “resistance”. Everyone with humanity should be able to condemn Hamas unconditionally.That does not mean you cannot at the same time opposeBenjamin Netanyahu, his far-right government and their actions (the Israeli offensive has killed more than 35,000 Palestinians, at least half of them women and children, according to the latest estimates by Gaza health officials).Mark DawesLondonHalf the storyJeremy Hunt constantly tells us that Covid and the Russian invasion of Ukraine are responsible for tax rises and the cost of living crisis. That’s only half the story. He convenientlyforgets to mention Brexit.Brexit is similar to Covid-19 in that it infected the Tories to such an extent it became epidemic. Also, like the virus, the Tories failed to prepare, underestimated its impact, and took decisions (often delayed) that made matters worse.There is a remedy at hand to remove this political contagion but, as with Covid, the government’s been too frightened to act – this time, to go ahead and hold a general election.Removing the government should at least give us five years of immunity but, unfortunately, the inoculation on offer is unlikely to provide a cure for Brexit. The debilitating symptoms will persist in dragging us down into what could be termed a “long-Brexit”, for want of a better name!Roger HindsSurreyIt’s obvious what needs to be doneTo my mind, it doesn’t really matter ifLabour’s plans for the economy are minimally different from the Conservatives. We actually do need a dynamic economy, probably capitalistic in nature, generating wealth, which can then be shared fairly.It’s fairness that is so badly lacking at the moment.So many of our problems stem from poverty, education inequality and a lack of social mobility. It’s obvious what needs to be done, share the wealth more fairly!What we don’t need is more populist right-wing politics. Let’s start with the Tory party, that lot has to go.Simon WatsonWorcestershire"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00061813771026209,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001068347366526723,
+                    "sentence": "Please send your letters toletters@independent.co.ukIn 2010, the Labour government was defeated having left a trillion pounds worth of debt and a housing crisis because it failed to build any housing to accommodate the free movement policy.Almost 13 years on, and this Tory government will deservedly be obliterated, having left a trillion-pound debt, a housing crisis and acost of living crisisbehind.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0009140579495579004,
+                    "sentence": "It will be replaced by theLabour Partyas it is deemed not quite as useless.So the cycle of electing the least worst option continues.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000627754139713943,
+                    "sentence": "What a ludicrous way to run a country in the 21st century.Richard WhitesideHalifaxStir Up SundayA lovely article by Hannah Twiggs on the history of Christmas pudding - currently available on The Independent's app - but she could have said more about Stir Up Sunday.Not only is it about mixing the pudding, but follows the opening words of the Church of England collect for the Sunday next before Advent, “Stir up, we beseech thee, O Lord, the wills of thy faithful people; that they, plenteously bringing forth the fruit of good works, may of thee be plenteously rewarded.”This had a special meaning when, decades ago, I was a trainee solicitor at a law firm which wasn't quite as efficient as it should have been in its records of the documents it stored for its clients.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004916556063108146,
+                    "sentence": "Hours of trying to find misplaced deeds and the like meant that the last thing we wanted the Lord to do was to stir up the wills.Anthony NixonHampshireWhat is David Cameron doing now?Splendid editorial on Saturday,and just think about it: the Tories - and the country - are where they are thanks toDavid Cameroncalling a referendum on our membership of the EU.He thought he could neutralise reactionary parties to the right of his and also silence his Europhobic backbenchers, thus uniting the party.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007826321525499225,
+                    "sentence": "He has achieved absolutely nothing apart from the destruction of his own career, the opening of a door tothree even worse prime ministers, and the isolation and fiscal decline of the UK with no end in sight.We cannot judge Rishi Sunak this early, but it is clear that the Conservatives are divided and far-right parties appear to be more empowered than ever.I wonder what David Cameron is doing now.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02139568142592907,
+                    "sentence": "Further, I wonder what he thinks of the interminable mess he bequeathed to his country.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05232633277773857,
+                    "sentence": "Shameful.Robert BostonKingshill, KentA post-punk reminiscenceI am temporarily working through an agency forRoyal Mailand across the road, I can see a pub that I used to go to in the 1980s in my post-punk new wave clothes that probably got me into more fights than they were worth.I used to get pretty drunk back then and if I had got so drunk that I decided to break into the main post office, I would've seen it almost exactly as it is now.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05802791193127632,
+                    "sentence": "That's a scenario purely invented to connect back then and the time capsule where - as an oldie - I now work.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereMore interestingly, going back perhaps not as far as that, some of my colleagues were turning up for work while I was getting a lift home on a milk float.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06608961522579193,
+                    "sentence": "My father once told me that one of his bosses said the worst thing you can do is stay in a job too long.Many of these people have never known unemployment, they wouldn't even know what the minimum wage is and market forces are irrelevant to them.While other parcel courier company bosses cartwheel from their parking space to the office door, they strike and demand that the management step aside because they know better and demand more money because they want more.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.061422400176525116,
+                    "sentence": "All nice people, but their Luddite mentality is making me consider digging out my punk gear and pogoing around the building.Ray LottScunthorpe",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.024462635563563526,
+            "class_probabilities": {
+                "human": 0.9755373644364365,
+                "ai": 0.024462635563563526,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9755373644364365,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024462635563563526,
+                    "human": 0.9755373644364365,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukIn 2010, the Labour government was defeated having left a trillion pounds worth of debt and a housing crisis because it failed to build any housing to accommodate the free movement policy.Almost 13 years on, and this Tory government will deservedly be obliterated, having left a trillion-pound debt, a housing crisis and acost of living crisisbehind. It will be replaced by theLabour Partyas it is deemed not quite as useless.So the cycle of electing the least worst option continues. What a ludicrous way to run a country in the 21st century.Richard WhitesideHalifaxStir Up SundayA lovely article by Hannah Twiggs on the history of Christmas pudding – currently available on The Independent’s app – but she could have said more about Stir Up Sunday.Not only is it about mixing the pudding, but follows the opening words of the Church of England collect for the Sunday next before Advent, “Stir up, we beseech thee, O Lord, the wills of thy faithful people; that they, plenteously bringing forth the fruit of good works, may of thee be plenteously rewarded.”This had a special meaning when, decades ago, I was a trainee solicitor at a law firm which wasn’t quite as efficient as it should have been in its records of the documents it stored for its clients. Hours of trying to find misplaced deeds and the like meant that the last thing we wanted the Lord to do was to stir up the wills.Anthony NixonHampshireWhat is David Cameron doing now?Splendid editorial on Saturday,and just think about it: the Tories – and the country – are where they are thanks toDavid Cameroncalling a referendum on our membership of the EU.He thought he could neutralise reactionary parties to the right of his and also silence his Europhobic backbenchers, thus uniting the party. He has achieved absolutely nothing apart from the destruction of his own career, the opening of a door tothree even worse prime ministers, and the isolation and fiscal decline of the UK with no end in sight.We cannot judge Rishi Sunak this early, but it is clear that the Conservatives are divided and far-right parties appear to be more empowered than ever.I wonder what David Cameron is doing now. Further, I wonder what he thinks of the interminable mess he bequeathed to his country. Shameful.Robert BostonKingshill, KentA post-punk reminiscenceI am temporarily working through an agency forRoyal Mailand across the road, I can see a pub that I used to go to in the 1980s in my post-punk new wave clothes that probably got me into more fights than they were worth.I used to get pretty drunk back then and if I had got so drunk that I decided to break into the main post office, I would’ve seen it almost exactly as it is now. That’s a scenario purely invented to connect back then and the time capsule where – as an oldie – I now work.To keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereMore interestingly, going back perhaps not as far as that, some of my colleagues were turning up for work while I was getting a lift home on a milk float. My father once told me that one of his bosses said the worst thing you can do is stay in a job too long.Many of these people have never known unemployment, they wouldn’t even know what the minimum wage is and market forces are irrelevant to them.While other parcel courier company bosses cartwheel from their parking space to the office door, they strike and demand that the management step aside because they know better and demand more money because they want more. All nice people, but their Luddite mentality is making me consider digging out my punk gear and pogoing around the building.Ray LottScunthorpe"
+        }
+    ]
+}

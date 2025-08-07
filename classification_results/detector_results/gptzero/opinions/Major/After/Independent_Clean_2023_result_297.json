@@ -1,0 +1,94 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 3.919711889466271e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.675618063425645e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukTheproblem with Keir Starmeris that he keeps chopping and changing his mind which is both rather worrying as well as confusing.A while ago he dismissed levying awealth taxon the richest in society which, considering the appalling state of the country's finances, is a somewhat foolhardy decision (to put it mildly).After all, the multi-millionaires and billionaires would hardly notice if afew million got syphonedoff now and again for an extremely good cause but, of course, a fairly large percentage of them would probably fiercely object as the welfare of others is of no concern to them.Rishi Sunakis clearly one of these.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.225564771331847e-05,
+                    "sentence": "Chancellor Jeremy Hunt also.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.322188007994555e-05,
+                    "sentence": "Bothextremely rich menwhich is why, under Tory management, the concept of a wealth tax is a complete anathema.The gap between the rich and the poor has never been wider than it is at the moment, with over one million children living in abject poverty.This is an appalling indictment on the policies of the Tory government we've been lumbered with for the past 13 years and who it appears we're stuck with for probably another 12 months.Linda EvansAddress suppliedLarger stores must do more to deter shopliftingI was taught to take responsibility for my possessions and not be a source of temptation to would-be thieves.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.022926870733499527,
+                    "sentence": "Given how often I find that, in larger stores, it is often nigh on impossible to find a member of staff to consult about a purchase, and even where to pay for said purchase, I do think that store managers are in part responsible for the rise in shoplifting and should recognise this.Joanna PallisterDurham CityThe Tories are a disaster for the economySo, such is the widespread chaos in the ruling Conservative Party, we now hear that certain elements of the party are gunning for Jeremy Hunt because of his lack of tax cuts.Where on earth do they think money comes from?Aren't these the same people who, under Liz Truss, crashed the economy in the first place and remain in denial to this day?The financial crisis of 2008 caused by the bankers is nothing compared to the Tory mismanagement of the 2020s - who, just for good measure, are now in the process of scrapping taxes on these same bankers' bonuses!You couldn't make up how the Tories continue to protect the richest one per cent at the expense of the rest.Geoffrey BrookingHampshire",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                }
+            ],
+            "completely_generated_prob": 0.05310995914524342,
+            "class_probabilities": {
+                "human": 0.9468900408547566,
+                "ai": 0.05310995914524342,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9468900408547566,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.05310995914524342,
+                    "human": 0.9468900408547566,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukTheproblem with Keir Starmeris that he keeps chopping and changing his mind which is both rather worrying as well as confusing.A while ago he dismissed levying awealth taxon the richest in society which, considering the appalling state of the country’s finances, is a somewhat foolhardy decision (to put it mildly).After all, the multi-millionaires and billionaires would hardly notice if afew million got syphonedoff now and again for an extremely good cause but, of course, a fairly large percentage of them would probably fiercely object as the welfare of others is of no concern to them.Rishi Sunakis clearly one of these. Chancellor Jeremy Hunt also. Bothextremely rich menwhich is why, under Tory management, the concept of a wealth tax is a complete anathema.The gap between the rich and the poor has never been wider than it is at the moment, with over one million children living in abject poverty.This is an appalling indictment on the policies of the Tory government we’ve been lumbered with for the past 13 years and who it appears we’re stuck with for probably another 12 months.Linda EvansAddress suppliedLarger stores must do more to deter shopliftingI was taught to take responsibility for my possessions and not be a source of temptation to would-be thieves. Given how often I find that, in larger stores, it is often nigh on impossible to find a member of staff to consult about a purchase, and even where to pay for said purchase, I do think that store managers are in part responsible for the rise in shoplifting and should recognise this.Joanna PallisterDurham CityThe Tories are a disaster for the economySo, such is the widespread chaos in the ruling Conservative Party, we now hear that certain elements of the party are gunning for Jeremy Hunt because of his lack of tax cuts.Where on earth do they think money comes from?Aren’t these the same people who, under Liz Truss, crashed the economy in the first place and remain in denial to this day?The financial crisis of 2008 caused by the bankers is nothing compared to the Tory mismanagement of the 2020s – who, just for good measure, are now in the process of scrapping taxes on these same bankers’ bonuses!You couldn’t make up how the Tories continue to protect the richest one per cent at the expense of the rest.Geoffrey BrookingHampshire"
+        }
+    ]
+}

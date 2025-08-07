@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0002516433596611023,
+                    "sentence": "Please send your letters toletters@independent.co.ukLockdown at last!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00023880094522610307,
+                    "sentence": "What opposition politicians and sensible citizens have been calling for since September.Apparently Sir Iain Duncan Smith disapproves and thinks that the prime minister is \"giving in to scientists\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00023210467770695686,
+                    "sentence": "Whose advice should we follow?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001951080485014245,
+                    "sentence": "That of a group of scientists who have carefully studied the actual facts, or that of the man who pushed for as little discussion of the EU withdrawal deal in parliament as possible before voting for it and afterwards complaining that he didn't like the small print details?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013040068733971566,
+                    "sentence": "Hmm...Geraldine CogginsOxfordMissed opportunityWhat seemed to be glaringly absent from the prime minister's lockdown announcement was a failure to appeal to his audience not to wait five days until the enactment of legislation, but to ask those who agreed with the government's proposals to act, if at all possible, voluntarily in advance of it and to the general benefit of all.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018815491057466716,
+                    "sentence": "Yet another opportunity missed.Michael du PréMarlowOut of his depthWhat is the \"height of absurdity\", to quote the prime minister, is that not a single senior Tory has been willing to put his or her head above the parapet and point out the blindingly obvious: that Boris Johnson is completely out of his depth, at a cost of thousands of lives and billions of pounds of public money.He should stand down immediately and as an emergency measure an interim leader be appointed by Conservative members of parliamentIan WingfieldBamford, DerbyshireChristmas CovidDoes anyone know the science behind saving Christmas so that younger generations can celebrate passing on invisible deadly presents to older ones?Dr Gordon BrooksGosport, HampshireVotes not gunsIn the numerous articles about the US election there was one recent item that seems disturbing - gun stores are running out of ammunition.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014754261064808816,
+                    "sentence": "This could be good news as those unhappy with whatever the outcome is won't be able to buy any ammunition.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002255842264275998,
+                    "sentence": "Although it also could be disturbing in that they have already bought this ammunition in case of a result they don't support.For a country that is the \"land of the free\" there should be no use of weaponry in the decision or acceptance of an election result.Vote and then accept the result without using lawyers or guns to try and get the result you wanted.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04041917622089386,
+                    "sentence": "Please, there have been enough deaths already in America recently.Dennis FitzgeraldMelbourne, AustraliaA lost nationAs I sit here watching the big Boris announcement this evening, after it was pushed back and back and back again, I could weep for our nation.I grew up in the certainty that whatever went wrong for Britain we could cope.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.021659374237060547,
+                    "sentence": "But now when our prime minister can't even keep this appointment with the public I feel that we are lost.Our government is there to protect its citizens.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.018428945913910866,
+                    "sentence": "This one obviously hasn't understood this.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02940020151436329,
+                    "sentence": "Thus what on earth is its purpose?The only light on the horizon is the brilliant response of our community to looking after hungry kids this half-term.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02064049430191517,
+                    "sentence": "When the community takes the lead like this, it's pretty obvious our present leaders are completely useless.John SinclairPocklingtonRead moreThis lockdown is better late than never, but it is inexcusably late",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.039839419682113825,
+            "class_probabilities": {
+                "human": 0.9601605803178862,
+                "ai": 0.039839419682113825,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601605803178862,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039839419682113825,
+                    "human": 0.9601605803178862,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Please send your letters toletters@independent.co.ukLockdown at last! What opposition politicians and sensible citizens have been calling for since September.Apparently Sir Iain Duncan Smith disapproves and thinks that the prime minister is \"giving in to scientists\". Whose advice should we follow? That of a group of scientists who have carefully studied the actual facts, or that of the man who pushed for as little discussion of the EU withdrawal deal in parliament as possible before voting for it and afterwards complaining that he didn't like the small print details? Hmm ...Geraldine CogginsOxfordMissed opportunityWhat seemed to be glaringly absent from the prime minister's lockdown announcement was a failure to appeal to his audience not to wait five days until the enactment of legislation, but to ask those who agreed with the government's proposals to act, if at all possible, voluntarily in advance of it and to the general benefit of all. Yet another opportunity missed.Michael du PréMarlowOut of his depthWhat is the \"height of absurdity\", to quote the prime minister, is that not a single senior Tory has been willing to put his or her head above the parapet and point out the blindingly obvious: that Boris Johnson is completely out of his depth, at a cost of thousands of lives and billions of pounds of public money.He should stand down immediately and as an emergency measure an interim leader be appointed by Conservative members of parliamentIan WingfieldBamford, DerbyshireChristmas CovidDoes anyone know the science behind saving Christmas so that younger generations can celebrate passing on invisible deadly presents to older ones?Dr Gordon BrooksGosport, HampshireVotes not gunsIn the numerous articles about the US election there was one recent item that seems disturbing - gun stores are running out of ammunition. This could be good news as those unhappy with whatever the outcome is won't be able to buy any ammunition. Although it also could be disturbing in that they have already bought this ammunition in case of a result they don't support.For a country that is the \"land of the free\" there should be no use of weaponry in the decision or acceptance of an election result.Vote and then accept the result without using lawyers or guns to try and get the result you wanted. Please, there have been enough deaths already in America recently.Dennis FitzgeraldMelbourne, AustraliaA lost nationAs I sit here watching the big Boris announcement this evening, after it was pushed back and back and back again, I could weep for our nation.I grew up in the certainty that whatever went wrong for Britain we could cope. But now when our prime minister can't even keep this appointment with the public I feel that we are lost.Our government is there to protect its citizens. This one obviously hasn't understood this. Thus what on earth is its purpose?The only light on the horizon is the brilliant response of our community to looking after hungry kids this half-term. When the community takes the lead like this, it's pretty obvious our present leaders are completely useless.John SinclairPocklingtonRead moreThis lockdown is better late than never, but it is inexcusably late"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0002541249559726566,
+                    "sentence": "We are all beginning to get frustrated with the constant leaks from the government concerning the gradual easing of thecoronaviruslockdown.Rumours are rife.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017005254630930722,
+                    "sentence": "Will garden centres be allowed to reopen?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014900257519911975,
+                    "sentence": "Are golfers going to be allowed to return to their golf courses?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0001647859753575176,
+                    "sentence": "Will we be allowed to drive a short distance to go for a walk?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002132371737388894,
+                    "sentence": "Can we take picnics with us?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00014967290917411447,
+                    "sentence": "Will we be permitted to see our grandchildren?Instead of giving us all grounds for optimism which is no doubt unfounded, the government and its advisers should refrain from making vague suggestions until they are absolutely sure what the policy is.Bernadette Erskine AbergavennyThe mixed messages being heard from the government and some MPs, anxious to placate an increasingly restless business community over the lockdown, have already been interpreted by some as a green light to sunbathe, visit friends, restart work on construction sites or drive again.Why should we trust a government that may now tell us that it is safe to leave our homes?The messaging does not reflect the continuing variation in the epidemic seen across the UK and the possible need to come out of the lockdown at different stages, as Nicola Sturgeon has suggested for Scotland.Paul Dolan Northwich, CheshireA royal collegeAs chair of a large independent learning disability charity I am unfortunately all too aware of the shortfall between the rhetoric of government ministers and the reality on the ground.To suggest that social care has not been forgotten by government is utter nonsense.My chief executive has succinctly put his figure on the problem, in that social care does not have its own royal college to represent the sector.The social care sector needs a royal college, not a badge, only then will social care be able to sit at the high table and properly contribute to the future wellbeing of the sector and society at large.Dr D W Ford Chair, The Edmund TrustCare for allOne group of carers sadly missed from the applause is those who are unpaid and looking after family or those needing support at home.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0046958583407104015,
+                    "sentence": "If they were frazzled before, they certainly are now.Carer's allowance (CA) should be reformed urgently, and should involve carers and groups representing them, so that reform goes smoothly.I dread to think of the levels of suffering out there in the real world, come on Government, you know it makes sense!Gary Martin LondonUnity neededIn the current coronavirus pandemic, a plethora of intertwined factors at different levels have mingled together to create the perfect storm.It is only through global unity and togetherness, and social and financial solidarity, that this can be dealt with.Dr Munjed Farid Al Qutob LondonA protestTom Peck's wordsrelating to the absence of Tory support for the prime minister in the Commons on Wednesday, due to distancing rules, were as follows: \"There was no traditional Tory backbench baboon chorus to be relied upon to rise to the empty chest beating of their chimpanzee leader.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006249337922781706,
+                    "sentence": "\"On behalf of baboons and chimpanzees I feel must protest against this comparison.Penny Little Oxfordshire",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.02160285388448164,
+            "class_probabilities": {
+                "human": 0.9783971461155183,
+                "ai": 0.02160285388448164,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9783971461155183,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.02160285388448164,
+                    "human": 0.9783971461155183,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "We are all beginning to get frustrated with the constant leaks from the government concerning the gradual easing of thecoronaviruslockdown.Rumours are rife. Will garden centres be allowed to reopen? Are golfers going to be allowed to return to their golf courses? Will we be allowed to drive a short distance to go for a walk? Can we take picnics with us? Will we be permitted to see our grandchildren?Instead of giving us all grounds for optimism which is no doubt unfounded, the government and its advisers should refrain from making vague suggestions until they are absolutely sure what the policy is.Bernadette Erskine                                           AbergavennyThe mixed messages being heard from the government and some MPs, anxious to placate an increasingly restless business community over the lockdown, have already been interpreted by some as a green light to sunbathe, visit friends, restart work on construction sites or drive again.Why should we trust a government that may now tell us that it is safe to leave our homes?The messaging does not reflect the continuing variation in the epidemic seen across the UK and the possible need to come out of the lockdown at different stages, as Nicola Sturgeon has suggested for Scotland.Paul Dolan                                          Northwich, CheshireA royal collegeAs chair of a large independent learning disability charity I am unfortunately all too aware of the shortfall between the rhetoric of government ministers and the reality on the ground.To suggest that social care has not been forgotten by government is utter nonsense.My chief executive has succinctly put his figure on the problem, in that social care does not have its own royal college to represent the sector.The social care sector needs a royal college, not a badge, only then will social care be able to sit at the high table and properly contribute to the future wellbeing of the sector and society at large​.Dr D W Ford                                          Chair, The Edmund TrustCare for allOne group of carers sadly missed from the applause is those who are unpaid and looking after family or those needing support at home. If they were frazzled before, they certainly are now.Carer's allowance (CA) should be reformed urgently, and should involve carers and groups representing them, so that reform goes smoothly.I dread to think of the levels of suffering out there in the real world, come on Government, you know it makes sense!Gary Martin                                          LondonUnity neededIn the current coronavirus pandemic, a plethora of intertwined factors at different levels have mingled together to create the perfect storm.It is only through global unity and togetherness, and social and financial solidarity, that this can be dealt with​.Dr Munjed Farid Al Qutob                                          LondonA protestTom Peck's wordsrelating to the absence of Tory support for the prime minister in the Commons on Wednesday, due to distancing rules, were as follows: \"There was no traditional Tory backbench baboon chorus to be relied upon to rise to the empty chest beating of their chimpanzee leader.\"On behalf of baboons and chimpanzees I feel must protest against this comparison.Penny Little                                          Oxfordshire"
+        }
+    ]
+}

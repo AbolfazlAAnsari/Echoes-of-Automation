@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0005803684471175075,
+                    "sentence": "Send your letters toletters@independent.co.ukThe UK's death toll of over 40,000 from Covid-19 reflects badly on the government for its failure to tackle the disease fast enough.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00058352155610919,
+                    "sentence": "Will Boris Johnson learn from this lesson and wake up to the harm that a no trade deal with the EU will inflict on the country by extending the transition period before it is too late?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003510645474307239,
+                    "sentence": "Or is he intent on repeating the same mistake?Roger Hinds SurreyPolice brutalityThe unprecedented and historic uprising for demanding liberty, equality and justice fired by the death of George Floyd, who happened to be black, at the hands of a white police officer in Minneapolis, has gone way beyond the teeming shores of America.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003665380063466728,
+                    "sentence": "This has become a thunderous and universal wake-up call reverberating from America to England, the European Union, Japan, South Korea and Australia, and all over the world.I hope the police brutality in cracking down on civil protesters across America, as seen in hundreds of appalling videos on social media, is not repeated in London during the protests.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006260836962610483,
+                    "sentence": "I also profoundly hope leaders and their police forces across the globe respect the fundamental tenet of democracy exemplified in the right to protest peacefully and address the voices of millions rightly demanding equality and equity - notwithstanding your race, ethnicity, colour, caste or creed.Atul M Karnik New York, USAThis isn't the Second World WarTwo weeks on from the Dominic Cummings saga, I can't help thinking that our government is treating the general public much as they did during the Second World War under Churchill.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002560661523602903,
+                    "sentence": "Back then, with the only means of finding out information being the newspapers and the wireless, the government could carefully craft its message, put it out there and know that, as it couldn't really be challenged, we, the public, would just believe it.The public was told that all was well on the front in France, while our troops were surrounded and we were about to mount the biggest rescue operation in history.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003180862113367766,
+                    "sentence": "No one had cause or means to question this, but this was, in many senses, necessary and appropriate for the time.My concern is that we don't live in those times anymore, yet our government acts like we do.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00045201712055131793,
+                    "sentence": "In actuality, we have the facilities to fact check for ourselves, to join the dots or think about questions - to challenge the \"message\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005830263835377991,
+                    "sentence": "According to them, the media is to blame for embellishing, spinning, lying, being \"fake\" - yet these are exactly the tools employed by our politicians on a daily basis to convince us of the message.My message to our elected officials, and those within the general public too often blinded by the message, is that we celebrated the 75th anniversary of VE Day this year, yet their attitude and approach towards the people who put them there is still stuck in 1945.Wake up and realise that credibility is built upon truth and respect.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.001106036826968193,
+                    "sentence": "If you don't want us constantly doubting, questioning or challenging you, treat us with respect and tell us the truth.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013302480801939964,
+                    "sentence": "This may be naive, but it surely beats the mess you currently find yourselves in, trying to convince the voters that you're right all the time.Simon Bass Solihull",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.017486769031531738,
+            "class_probabilities": {
+                "human": 0.9825132309684682,
+                "ai": 0.017486769031531738,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9825132309684682,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.017486769031531738,
+                    "human": 0.9825132309684682,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Send your letters toletters@independent.co.ukThe UK's death toll of over 40,000 from Covid-19 reflects badly on the government for its failure to tackle the disease fast enough. Will Boris Johnson learn from this lesson and wake up to the harm that a no trade deal with the EU will inflict on the country by extending the transition period before it is too late? Or is he intent on repeating the same mistake?Roger Hinds                                          SurreyPolice brutalityThe unprecedented and historic uprising for demanding liberty, equality and justice fired by the death of George Floyd, who happened to be black, at the hands of a white police officer in Minneapolis, has gone way beyond the teeming shores of America. This has become a thunderous and universal wake-up call reverberating from America to England, the European Union, Japan, South Korea and Australia, and all over the world.I hope the police brutality in cracking down on civil protesters across America, as seen in hundreds of appalling videos on social media, is not repeated in London during the protests. I also profoundly hope leaders and their police forces across the globe respect the fundamental tenet of democracy exemplified in the right to protest peacefully and address the voices of millions rightly demanding equality and equity - notwithstanding your race, ethnicity, colour, caste or creed.Atul M Karnik                                          New York, USAThis isn't the Second World WarTwo weeks on from the Dominic Cummings saga, I can't help thinking that our government is treating the general public much as they did during the Second World War under Churchill. Back then, with the only means of finding out information being the newspapers and the wireless, the government could carefully craft its message, put it out there and know that, as it couldn't really be challenged, we, the public, would just believe it.The public was told that all was well on the front in France, while our troops were surrounded and we were about to mount the biggest rescue operation in history. No one had cause or means to question this, but this was, in many senses, necessary and appropriate for the time.My concern is that we don't live in those times anymore, yet our government acts like we do. In actuality, we have the facilities to fact check for ourselves, to join the dots or think about questions - to challenge the \"message\". According to them, the media is to blame for embellishing, spinning, lying, being \"fake\" - yet these are exactly the tools employed by our politicians on a daily basis to convince us of the message.My message to our elected officials, and those within the general public too often blinded by the message, is that we celebrated the 75th anniversary of VE Day this year, yet their attitude and approach towards the people who put them there is still stuck in 1945.Wake up and realise that credibility is built upon truth and respect. If you don't want us constantly doubting, questioning or challenging you, treat us with respect and tell us the truth. This may be naive, but it surely beats the mess you currently find yourselves in, trying to convince the voters that you're right all the time.Simon Bass                                          Solihull"
+        }
+    ]
+}

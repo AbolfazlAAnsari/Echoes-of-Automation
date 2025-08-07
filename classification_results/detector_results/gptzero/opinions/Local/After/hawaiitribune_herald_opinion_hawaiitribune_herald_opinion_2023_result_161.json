@@ -1,0 +1,112 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 7.267529144883156e-05,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°As President Joe Biden founders in the polls, he's decided to revive a hackneyed progressive standby: The rampant inflation Americans have experienced under his administration is actually the fault of evil corporations.“Let me be clear,” Biden said Monday.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.180892811855301e-05,
+                    "sentence": "“To any corporation that has not brought their prices back down ᅳ even as inflation has come down, even as supply chains have been rebuilt ᅳ it's time to stop the price gouging.”Perhaps the president is merely test driving a new campaign slogan ᅳ “The Biden White House: Where deflecting blame is elevated above accountability” ᅳ but the idea that Biden and congressional Democrats had no hand in triggering the highest inflation in the past 40 years is sidesplitting.Despite signs that the economy was recovering nicely from the pandemic, the president and the Democratic Congress insisted on an unprecedented multitrillion-dollar spending blowout during 2021 to reward their favored special interests.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.553518611937761e-05,
+                    "sentence": "The result, as many economists predicted, was the return of high inflation ᅳ with a vengeance.Yet even as prices soared, Biden and his economic team remained in denial.“There's nobody suggesting there's unchecked inflation on the way ᅳ no serious economist,” the president famously remarked in July 2021.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.617232379037887e-05,
+                    "sentence": "A year later, inflation exceeded 9 percent and the White House dropped the term “transitory” from its talking points.Biden's comments on Monday indicate he remains confused.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010083295637741685,
+                    "sentence": "While the yearly inflation rate has fallen ᅳ it hit 3.2 percent in October ᅳ prices have not gone “back down.”They aren't rising as quickly as they were last year, but they remain elevated, as any shopper or driver ᅳ or voter ᅳ will tell you.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00023300328757613897,
+                    "sentence": "An actual month-to-month reduction in prices is called “deflation,” which, in the long term, can trigger a drop in production and consumer spending.In addition, the higher interest rates the Fed inflicted on consumers in an effort to quell inflation have led to elevated mortgage rates and credit card interest payments, further burdening the middle and lower class.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.1239232561783865e-05,
+                    "sentence": "Higher interest payments on the debt are also eating up a massive portion of government outlays.It's understandable from a political standpoint that Biden would prefer to lay all this on the lap of Big Business and those dastardly capitalists.But it's revealing that the president never explains why these nefarious actors decided ᅳ after 40 years of hiding in the weeds, biding their time ᅳ to unleash their devilish “price gouging” scheme only when he won the Oval Office.Biden is hoping his “the-buck-stops-over-there” posturing pays electoral dividends.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.364590757992119e-05,
+                    "sentence": "Polls show that voters ᅳ paying $5 for a gallon of gasoline and $6 for a loaf of bread ᅳ may have other ideas.ᅳLas Vegas Review-Journal/TNS",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 8,
+                    "completely_generated_prob": 3.002405151306975e-07
+                }
+            ],
+            "completely_generated_prob": 0.0051780533755591265,
+            "class_probabilities": {
+                "human": 0.9948219466244408,
+                "ai": 0.0051780533755591265,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9948219466244408,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0051780533755591265,
+                    "human": 0.9948219466244408,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°As President Joe Biden founders in the polls, he’s decided to revive a hackneyed progressive standby: The rampant inflation Americans have experienced under his administration is actually the fault of evil corporations.“Let me be clear,” Biden said Monday. “To any corporation that has not brought their prices back down — even as inflation has come down, even as supply chains have been rebuilt — it’s time to stop the price gouging.”Perhaps the president is merely test driving a new campaign slogan — “The Biden White House: Where deflecting blame is elevated above accountability” — but the idea that Biden and congressional Democrats had no hand in triggering the highest inflation in the past 40 years is sidesplitting.Despite signs that the economy was recovering nicely from the pandemic, the president and the Democratic Congress insisted on an unprecedented multitrillion-dollar spending blowout during 2021 to reward their favored special interests. The result, as many economists predicted, was the return of high inflation — with a vengeance.Yet even as prices soared, Biden and his economic team remained in denial.“There’s nobody suggesting there’s unchecked inflation on the way — no serious economist,” the president famously remarked in July 2021. A year later, inflation exceeded 9 percent and the White House dropped the term “transitory” from its talking points.Biden’s comments on Monday indicate he remains confused. While the yearly inflation rate has fallen — it hit 3.2 percent in October — prices have not gone “back down.”They aren’t rising as quickly as they were last year, but they remain elevated, as any shopper or driver — or voter — will tell you. An actual month-to-month reduction in prices is called “deflation,” which, in the long term, can trigger a drop in production and consumer spending.In addition, the higher interest rates the Fed inflicted on consumers in an effort to quell inflation have led to elevated mortgage rates and credit card interest payments, further burdening the middle and lower class. Higher interest payments on the debt are also eating up a massive portion of government outlays.It’s understandable from a political standpoint that Biden would prefer to lay all this on the lap of Big Business and those dastardly capitalists.But it’s revealing that the president never explains why these nefarious actors decided — after 40 years of hiding in the weeds, biding their time — to unleash their devilish “price gouging” scheme only when he won the Oval Office.Biden is hoping his “the-buck-stops-over-there” posturing pays electoral dividends. Polls show that voters — paying $5 for a gallon of gasoline and $6 for a loaf of bread — may have other ideas.—Las Vegas Review-Journal/TNS"
+        }
+    ]
+}

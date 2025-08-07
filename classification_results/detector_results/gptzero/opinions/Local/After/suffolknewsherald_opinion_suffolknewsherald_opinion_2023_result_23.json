@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0032966993749141693,
+                    "sentence": "Published 4:29 pm Tuesday, June 13, 2023BySuffolk News-HeraldHampton Roads residential real estate values continue to sizzle.The median sales price of homes sold in the region reached a record high of $335,000 in May, topping the prior record of $329,000 in May 2022, according to the Real Estate Information Network, the leading provider of real estate data in Hampton Roads.The MSP, as it's called in real estate jargon, increased nearly 5% from April to May, reaching a record high of $335,000 for the region.Tight inventory heading into the summer months means values aren't likely to cool anytime soon.Many consumers who might otherwise choose to sell their homes appear unwilling to do so, as both home prices and mortgage rates are higher than they have been in recent years, according to Jon McAchran, president of REIN's Board of Directors.“Even with mortgage rates up and the price of homes higher, people are buying,” he said.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003455705940723419,
+                    "sentence": "“If there was more inventory, consumers might be more likely to find the home they need, regardless of the  price.”Month's Supply of Inventory (MSI) is a calculation of how long there would be homes on the  market if no new inventory was added.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002910137176513672,
+                    "sentence": "For May, the number was 1.37.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0027896291576325893,
+                    "sentence": "Typically, a market is considered “healthy” if the MSI is between 5.0-7.0 months of supply.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.974576473236084,
+                    "sentence": "Since January 2021, the  highest the MSI has been in Hampton Roads was 1.47 in July 2021.“Needless to say, it has been a seller's market in Hampton Roads for a number of years, and  prices are likely to remain high until inventory increases again,” said McAchran.Some other data of interest from REIN:Normally, we'd say this is a good time to sell your home and cash out on record values.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9667769074440002,
+                    "sentence": "But with such limited inventory, where would you go?Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.9651901125907898,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 0.01437310773797646
+                }
+            ],
+            "completely_generated_prob": 0.3086534012031467,
+            "class_probabilities": {
+                "human": 0.6913465987968532,
+                "ai": 0.3086534012031467,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.6913465987968532,
+            "confidence_category": "low",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.3086534012031467,
+                    "human": 0.6913465987968532,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 4:29 pm Tuesday, June 13, 2023BySuffolk News-HeraldHampton Roads residential real estate values continue to sizzle.The median sales price of homes sold in the region reached a record high of $335,000 in May, topping the prior record of $329,000 in May 2022, according to the Real Estate Information Network, the leading provider of real estate data in Hampton Roads.The MSP, as it’s called in real estate jargon, increased nearly 5% from April to May, reaching a record high of $335,000 for the region.Tight inventory heading into the summer months means values aren’t likely to cool anytime soon.Many consumers who might otherwise choose to sell their homes appear unwilling to do so, as both home prices and mortgage rates are higher than they have been in recent years, according to Jon McAchran, president of REIN’s Board of Directors.“Even with mortgage rates up and the price of homes higher, people are buying,” he said. “If there was more inventory, consumers might be more likely to find the home they need, regardless of the  price.”Month’s Supply of Inventory (MSI) is a calculation of how long there would be homes on the  market if no new inventory was added. For May, the number was 1.37. Typically, a market is considered “healthy” if the MSI is between 5.0-7.0 months of supply. Since January 2021, the  highest the MSI has been in Hampton Roads was 1.47 in July 2021.“Needless to say, it has been a seller’s market in Hampton Roads for a number of years, and  prices are likely to remain high until inventory increases again,” said McAchran.Some other data of interest from REIN:Normally, we’d say this is a good time to sell your home and cash out on record values. But with such limited inventory, where would you go?Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…"
+        }
+    ]
+}

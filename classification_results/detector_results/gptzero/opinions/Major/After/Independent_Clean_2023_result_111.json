@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00018855687812902033,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018307066056877375,
+                    "sentence": "Please send your letters toletters@independent.co.ukDiane Abbott's latesttrivialising of the persecutionfaced byJewswill surprise nobody.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018060067668557167,
+                    "sentence": "However, when added to Peter Kyle calling Humza Yousaf by the wrong name orAngela Raynerconfusing Sadiq Khan and Sajid Javid, is this a sign of a deeper problem within the party?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017890092567540705,
+                    "sentence": "Or simply an example of the ineptitude of current Westminster MPs?For a party who for unknown reasons often attempts to claim the moral high ground, they are certainly making a hash of it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018831383204087615,
+                    "sentence": "We see individuals “cancelled” for all sorts of reasons, but organisations like the Labour Party or the Met police are allowed to carry on unpunished.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00029951438773423433,
+                    "sentence": "Different rules for organisations and individuals.Richard WhitesideHalifaxA late encounter with HumphriesI was so sorry to hear that theirrepressible Barry Humphrieshas died.I have a treasured memory of him - many years ago in London I went with a friend to see Dame Edna's show.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00017415011825505644,
+                    "sentence": "We were running rather late and hurrying, giggling somewhat, to reach the auditorium before the show started.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00013375110574997962,
+                    "sentence": "As we approached the door to the seats, we heard an unmistakable voice behind us, teasing us for being only just ahead of her - Dame Edna in all her magnificence had seen us, and in true generous style spoke to us and gave us that 1000 megawatt smile before disappearing through a door that must have lead to the stage.I have never forgotten that, nor the absolutely hilarious show that followed.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00022028430248610675,
+                    "sentence": "Barry Humphries was a true genius and a very kind man.Penny LittleOxfordshireWhy Raab couldn't play niceDominic Raab's experience is limited to the English legal system (adversarial) and UK politics (first past the post).",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0007958388887345791,
+                    "sentence": "Perhaps if he had experience in a field requiring cooperation and consensus, he would have learned to behave differently.Mark OgilvieHorncastleThere is no 'bar' for bullyingWhat is breathtakingly arrogant is that Dominic Raab said: “If the bar threshold for bullying is lowered that low, it's almost impossible for ministers to deliver to the British people.”What he fails to grasp is thatno bullying is acceptable, so there is no need for discussion about where any bar should be.Celia RyanDerbyshireBad management is bad for businessHowever one describes thenow-resigned Dominic Raab's managerial style, be it overbearing or bullying, it is certainly inefficient.It is well understood in management studies that managers and team leaders at every level of an organisation need to ensure that their staff are both able and keen to approach them to speedily advise of mistakes that are beyond the individual's powers to rectify, or of issues where they do not feel competent to act.If the “boss” is unapproachable because a tongue wagging is expected, simple and resolvable problems remain increasingly disarranged and problematic - as one management guru once said, unpleasant bosses turn molehill problems into mountains.Colin BurkeCumbriaWrong sentencesYesterday we read about a millionaire farmer who has caused “ecological vandalism on an industrial scale” impacting the environment on the River Lugg for decades.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005347369005903602,
+                    "sentence": "He has been jailed for one year.Meanwhile, theJust Stop Oil protestersare jailed for three years for the “chaos” they caused (a roughly 40-hour disruption to a very important road) and “to deter others from copying them”.It's clear where the priorities of our justice system lie.N PriestleyAddress supplied",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.009998674697021016,
+            "class_probabilities": {
+                "human": 0.990001325302979,
+                "ai": 0.009998674697021016,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.990001325302979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.009998674697021016,
+                    "human": 0.990001325302979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukDiane Abbott’s latesttrivialising of the persecutionfaced byJewswill surprise nobody. However, when added to Peter Kyle calling Humza Yousaf by the wrong name orAngela Raynerconfusing Sadiq Khan and Sajid Javid, is this a sign of a deeper problem within the party? Or simply an example of the ineptitude of current Westminster MPs?For a party who for unknown reasons often attempts to claim the moral high ground, they are certainly making a hash of it. We see individuals “cancelled” for all sorts of reasons, but organisations like the Labour Party or the Met police are allowed to carry on unpunished. Different rules for organisations and individuals.Richard WhitesideHalifaxA late encounter with HumphriesI was so sorry to hear that theirrepressible Barry Humphrieshas died.I have a treasured memory of him – many years ago in London I went with a friend to see Dame Edna’s show. We were running rather late and hurrying, giggling somewhat, to reach the auditorium before the show started. As we approached the door to the seats, we heard an unmistakable voice behind us, teasing us for being only just ahead of her – Dame Edna in all her magnificence had seen us, and in true generous style spoke to us and gave us that 1000 megawatt smile before disappearing through a door that must have lead to the stage.I have never forgotten that, nor the absolutely hilarious show that followed. Barry Humphries was a true genius and a very kind man.Penny LittleOxfordshireWhy Raab couldn’t play niceDominic Raab’s experience is limited to the English legal system (adversarial) and UK politics (first past the post). Perhaps if he had experience in a field requiring cooperation and consensus, he would have learned to behave differently.Mark OgilvieHorncastleThere is no ‘bar’ for bullyingWhat is breathtakingly arrogant is that Dominic Raab said: “If the bar threshold for bullying is lowered that low, it’s almost impossible for ministers to deliver to the British people.”What he fails to grasp is thatno bullying is acceptable, so there is no need for discussion about where any bar should be.Celia RyanDerbyshireBad management is bad for businessHowever one describes thenow-resigned Dominic Raab’s managerial style, be it overbearing or bullying, it is certainly inefficient.It is well understood in management studies that managers and team leaders at every level of an organisation need to ensure that their staff are both able and keen to approach them to speedily advise of mistakes that are beyond the individual’s powers to rectify, or of issues where they do not feel competent to act.If the “boss” is unapproachable because a tongue wagging is expected, simple and resolvable problems remain increasingly disarranged and problematic – as one management guru once said, unpleasant bosses turn molehill problems into mountains.Colin BurkeCumbriaWrong sentencesYesterday we read about a millionaire farmer who has caused “ecological vandalism on an industrial scale” impacting the environment on the River Lugg for decades. He has been jailed for one year.Meanwhile, theJust Stop Oil protestersare jailed for three years for the “chaos” they caused (a roughly 40-hour disruption to a very important road) and “to deter others from copying them”.It’s clear where the priorities of our justice system lie.N PriestleyAddress supplied"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 3.666039265226573e-05,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.22590785799548e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukThe overhaul of theUK honours systemis long overdue; not least in the anachronistic and insensitive titles of awards that hark back to our distant imperial past.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.1637679057894275e-05,
+                    "sentence": "It is to be hoped that this process will be hastened following the ill-judged and unworthy accolades doled out by our ex-prime minister, Liz Truss.John Rentoul isright in suggestingthat a person of sober judgement would have merely suggested “an OBE or two and left it at that”, but we should have known that a person who trashed the economy in such a devastating way, would be devoid of such judgement.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 2.8864331397926435e-05,
+                    "sentence": "He who succeeded her in office would have demonstrated greater judgement and leadership had he denied her this outdated privilege.Graham PowellCirencesterTruss is an embarrassmentOver the past 14 years the Tories have managed to debase the standing of the PM, MPs and the government, and yet have still permittedLiz Truss's “honours list” to be enacted to compound that disgrace.Liz Truss succeeded in further downgrading the British economy, leaving a legacy of financial instability and government failure, all in the 49 days of her tenure.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.314669811516069e-05,
+                    "sentence": "Some achievement!This tarnished honours list caps a spectacular array of failed economic and legislative adventures for an out of touch and ever increasingly right-leaning party.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.455809175851755e-05,
+                    "sentence": "How on earth can Mr Sunak allow such an abhorrent manifestation of “failure reward” to be passed?Mr Sunak's ramshackle party must be jettisoned at the upcoming election or Britain will continue to its downward trajectory.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.290396413533017e-05,
+                    "sentence": "Our standard of living has taken a nosedive in the 14 years of Tory misrule.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.739637708757073e-05,
+                    "sentence": "We are currently in the hands of a PM who we didn't elect and who is trying to implement legislation for which we did not vote.We need a government with backbone, grit and determination to right the wrongs of past mismanagement by the Tories and give the people of Britain a real long-term future.It would be an honourable action, for those who have been offered these tarnished gongs, to refuse them.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0034815643448382616,
+                    "sentence": "That would show the British people that there are a few committed and honest MPs still to be found in the party.Keith PooleBasingstokeAn insult to votersLooks like we have another example of a Tory MP doing their best to ensure a Conservative Party loss at the next general election.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.002503693802282214,
+                    "sentence": "James Daly representing Bury North robustly stated that struggling children are products of “crap” parents.In all my countless years I cannot remember anyone benefiting at the polls by insulting one's voters!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.003643917851150036,
+                    "sentence": "How many more are going to advertise their total unsuitability for any role in politics, I ask myself?Robert BostonKentWe don't want Mickey Mouse knockoffsThe copyright on the 1928 short film Steamboat Willie is expiring, and people will be able to make their own version of Mickey Mouse stories - however, they will only be able to use the original version of the character, not the modern Mickey, so it seems Disney may not have too much to worry about.The real concern is that a number of characters will become available, and there may be cheap - even dubious or inappropriate - versions that appear.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006337090395390987,
+                    "sentence": "We don't want our childhood memories trashed, nor the current generation of children seeing rubbish.Let the artists create new characters, and a new world of imagination for everyone.Dennis FitzgeraldMelbourne, Australia",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 12,
+                    "completely_generated_prob": 1.0731758790825431e-10
+                }
+            ],
+            "completely_generated_prob": 0.01313536578364879,
+            "class_probabilities": {
+                "human": 0.9868255020442053,
+                "ai": 0.01313536578364879,
+                "mixed": 3.913217214592489e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9868255020442053,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.01313536578364879,
+                    "human": 0.9868255020442053,
+                    "mixed": 3.913217214592489e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukThe overhaul of theUK honours systemis long overdue; not least in the anachronistic and insensitive titles of awards that hark back to our distant imperial past. It is to be hoped that this process will be hastened following the ill-judged and unworthy accolades doled out by our ex-prime minister, Liz Truss.John Rentoul isright in suggestingthat a person of sober judgement would have merely suggested “an OBE or two and left it at that”, but we should have known that a person who trashed the economy in such a devastating way, would be devoid of such judgement. He who succeeded her in office would have demonstrated greater judgement and leadership had he denied her this outdated privilege.Graham PowellCirencesterTruss is an embarrassmentOver the past 14 years the Tories have managed to debase the standing of the PM, MPs and the government, and yet have still permittedLiz Truss’s “honours list” to be enacted to compound that disgrace.Liz Truss succeeded in further downgrading the British economy, leaving a legacy of financial instability and government failure, all in the 49 days of her tenure. Some achievement!This tarnished honours list caps a spectacular array of failed economic and legislative adventures for an out of touch and ever increasingly right-leaning party. How on earth can Mr Sunak allow such an abhorrent manifestation of “failure reward” to be passed?Mr Sunak’s ramshackle party must be jettisoned at the upcoming election or Britain will continue to its downward trajectory. Our standard of living has taken a nosedive in the 14 years of Tory misrule. We are currently in the hands of a PM who we didn’t elect and who is trying to implement legislation for which we did not vote.We need a government with backbone, grit and determination to right the wrongs of past mismanagement by the Tories and give the people of Britain a real long-term future.It would be an honourable action, for those who have been offered these tarnished gongs, to refuse them. That would show the British people that there are a few committed and honest MPs still to be found in the party.Keith PooleBasingstokeAn insult to votersLooks like we have another example of a Tory MP doing their best to ensure a Conservative Party loss at the next general election. James Daly representing Bury North robustly stated that struggling children are products of “crap” parents.In all my countless years I cannot remember anyone benefiting at the polls by insulting one’s voters! How many more are going to advertise their total unsuitability for any role in politics, I ask myself?Robert BostonKentWe don’t want Mickey Mouse knockoffsThe copyright on the 1928 short film Steamboat Willie is expiring, and people will be able to make their own version of Mickey Mouse stories – however, they will only be able to use the original version of the character, not the modern Mickey, so it seems Disney may not have too much to worry about.The real concern is that a number of characters will become available, and there may be cheap – even dubious or inappropriate – versions that appear. We don’t want our childhood memories trashed, nor the current generation of children seeing rubbish.Let the artists create new characters, and a new world of imagination for everyone.Dennis FitzgeraldMelbourne, Australia"
+        }
+    ]
+}

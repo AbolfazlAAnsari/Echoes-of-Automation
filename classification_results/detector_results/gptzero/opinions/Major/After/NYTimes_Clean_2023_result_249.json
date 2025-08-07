@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 3.7459572922671214e-05,
+                    "sentence": "Survivors of the Oct. 7 Hamas attacks grapple with what can be recovered and what is lost forever.After Hamas attacked their country this month, many Israelis fled to hotels, where they sought some version of safety.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.883758083451539e-05,
+                    "sentence": "There, they've been processing their trauma as they move from that harrowing morning into a new world.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.843618419021368e-05,
+                    "sentence": "In the Opinion video above, filmed in the days after the attack, survivors reflect on what they lost, whom they blame and what's next ᅳ for them and for Israel.Despite being at war,pollingfrom the Israel Democracy Institute suggests that Israelis are more optimistic about the future of their country now than they've been at any other point this year.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.423251033993438e-05,
+                    "sentence": "Still, for the residents of Kibbutz Kfar Aza, where more than 100 Israelis were killed, any optimism they had before the attack has been replaced by an uncertain future.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.016907041659579e-05,
+                    "sentence": "Here, Israelis grapple with what can be recovered and what is lost forever.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.423822585726157e-05,
+                    "sentence": "That includes a fundamental loss of faith in a defense system that didn't work.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.919015529798344e-05,
+                    "sentence": "As one asked of her government, “Why didn't you protect me?”Iris Zaki is a Tel Aviv-based filmmaker.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.8189449444180354e-05,
+                    "sentence": "Tamir Elterman is a filmmaker and editor.The Times is committed to publishinga diversity of lettersto the editor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 5.3799274610355496e-05,
+                    "sentence": "We'd like to hear what you think about this or any of our articles.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 6.639322236878797e-05,
+                    "sentence": "Here are sometips.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.486900434130803e-05,
+                    "sentence": "And here's our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.PHOTO: (PHOTOGRAPH BY FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.005030853279880518,
+            "class_probabilities": {
+                "human": 0.9949691467201195,
+                "ai": 0.005030853279880518,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9949691467201195,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.005030853279880518,
+                    "human": 0.9949691467201195,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Survivors of the Oct. 7 Hamas attacks grapple with what can be recovered and what is lost forever.After Hamas attacked their country this month, many Israelis fled to hotels, where they sought some version of safety. There, they’ve been processing their trauma as they move from that harrowing morning into a new world. In the Opinion video above, filmed in the days after the attack, survivors reflect on what they lost, whom they blame and what’s next — for them and for Israel.Despite being at war,pollingfrom the Israel Democracy Institute suggests that Israelis are more optimistic about the future of their country now than they’ve been at any other point this year. Still, for the residents of Kibbutz Kfar Aza, where more than 100 Israelis were killed, any optimism they had before the attack has been replaced by an uncertain future. Here, Israelis grapple with what can be recovered and what is lost forever. That includes a fundamental loss of faith in a defense system that didn’t work. As one asked of her government, “Why didn’t you protect me?”Iris Zaki is a Tel Aviv-based filmmaker. Tamir Elterman is a filmmaker and editor.The Times is committed to publishinga diversity of lettersto the editor. We’d like to hear what you think about this or any of our articles. Here are sometips. And here’s our email:letters@nytimes.com.Follow The New York Times Opinion section onFacebook,Twitter (@NYTopinion)andInstagram.PHOTO:  (PHOTOGRAPH BY  FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

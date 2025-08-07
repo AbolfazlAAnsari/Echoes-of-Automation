@@ -1,0 +1,100 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 9.912136010825634e-05,
+                    "sentence": "A reader says it&#39;s time for society to compensate women for years of unpaid work.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.89798830030486e-05,
+                    "sentence": "Also: A test of our humanity.To the Editor:“Disrespecting Women's Labor,” by Reshma Saujani (Opinion guest essay, May 10), skillfully frames the case that “women's labor isn't valued.” I strongly agree that it's time for our society to compensate for those many hours ᅳ or years ᅳ of unpaid work.Zeros, zeros, zeros.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 7.215506047941744e-05,
+                    "sentence": "That's what I saw to my horror when for the first time I viewed my “taxed Social Security earnings” on my Social Security statement as I prepared to retire.Although I went on to earn a graduate degree and had a gratifying career, in the 1960s and '70s as a wife I raised three children.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.743810758460313e-05,
+                    "sentence": "It became quite clear to me reading all those zeros plus a pittance of dollars listed for the years when I was able to take part-time jobs to help make ends meet for the family that my time spent mostly at home had little or no real value to my country.It is not surprising that the women who are primarily responsible for child-rearing and/or caring for elderly parents often never catch up economically.C.J.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.006912296172231e-05,
+                    "sentence": "RyanOssining, N.Y.A Guiding Principle of Human RightsTo the Editor:Re “Immigration Lies, Past and Present” (Opinion guest essay, April 27):Embedded in Daniela Gerson's poignant account of her family's escape from war-torn Europe is the potent concept underlying relevant U.S. and international law, the principle of non-refoulement.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00010733052477007732,
+                    "sentence": "Simply put, this means that we are prohibited, as a matter of conscience and law, from forcibly returning a refugee, asylum seeker, stateless person or torture victim to a situation where his or her life or freedom may be in danger.Our willingness to abide by the principle of non-refoulement is not only a matter of adherence to refugee and human rights law; it is also a test of our common humanity.John SlocumOak Park, Ill.The writer is interim executive director of Refugee Council USA.PHOTO:   (PHOTOGRAPH BY Eric Ogden/Trunk Archive FOR THE NEW YORK TIMES)",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 6,
+                    "completely_generated_prob": 1.474742012248794e-05
+                }
+            ],
+            "completely_generated_prob": 0.0051780533755591265,
+            "class_probabilities": {
+                "human": 0.9948219466244408,
+                "ai": 0.0051780533755591265,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9948219466244408,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0051780533755591265,
+                    "human": 0.9948219466244408,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "A reader says it&#39;s time for society to compensate women for years of unpaid work. Also: A test of our humanity.To the Editor:“Disrespecting Women’s Labor,” by Reshma Saujani (Opinion guest essay, May 10), skillfully frames the case that “women’s labor isn’t valued.” I strongly agree that it’s time for our society to compensate for those many hours — or years — of unpaid work.Zeros, zeros, zeros. That’s what I saw to my horror when for the first time I viewed my “taxed Social Security earnings” on my Social Security statement as I prepared to retire.Although I went on to earn a graduate degree and had a gratifying career, in the 1960s and ’70s as a wife I raised three children. It became quite clear to me reading all those zeros plus a pittance of dollars listed for the years when I was able to take part-time jobs to help make ends meet for the family that my time spent mostly at home had little or no real value to my country.It is not surprising that the women who are primarily responsible for child-rearing and/or caring for elderly parents often never catch up economically.C.J. RyanOssining, N.Y.A Guiding Principle of Human RightsTo the Editor:Re “Immigration Lies, Past and Present” (Opinion guest essay, April 27):Embedded in Daniela Gerson’s poignant account of her family’s escape from war-torn Europe is the potent concept underlying relevant U.S. and international law, the principle of non-refoulement. Simply put, this means that we are prohibited, as a matter of conscience and law, from forcibly returning a refugee, asylum seeker, stateless person or torture victim to a situation where his or her life or freedom may be in danger.Our willingness to abide by the principle of non-refoulement is not only a matter of adherence to refugee and human rights law; it is also a test of our common humanity.John SlocumOak Park, Ill.The writer is interim executive director of Refugee Council USA.PHOTO:   (PHOTOGRAPH BY Eric Ogden/Trunk Archive FOR THE NEW YORK TIMES)"
+        }
+    ]
+}

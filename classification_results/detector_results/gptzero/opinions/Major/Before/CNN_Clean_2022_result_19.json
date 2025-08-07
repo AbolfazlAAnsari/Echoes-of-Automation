@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 3.49077999999281e-05,
+                    "sentence": "The pictures emerging of atrocities in Bucha, Ukraine, are shocking, but are they really surprising?Consider the Russian way of war during the past decades, from Afghanistan to Chechnya to Syria.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.22407649946399e-05,
+                    "sentence": "All these wars were characterized by mass casualty attacks against civilians by the Russians, as well as credible allegations of the summary executions of civilians by Russian forces.In the 1980s, the Soviet Union waged a nine-year war in Afghanistan during which timeHuman Rights Watch reported, \"Over one million Afghan civilians are believed to have been killed... most in aerial bombardments.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.119244138360955e-05,
+                    "sentence": "Tens of thousands have disappeared -- many of them the victims of summary executions....\"The atrocities continued in the following decade, this time closer to home.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.933061088901013e-05,
+                    "sentence": "During Russia's first war in Chechnya in 1994, according to Russian human rights experts, around25,000 civilians diedduring just two months of fighting in the capital, Grozny.During the second Russian war in Chechnya, Russian soldiers summarily executed at least 38 civilians in Grozny between late December 1999 and mid-January 2000, according toHuman Rights Watch.And on February 5, 2000, Russian soldiers summarily executed \"at least sixty civilians,\"the group added.The International Federation for Human Rightsfoundthe Russians in Chechnya in 2000 had engaged in \"summary executions and murders, physical abuse and torture; intentionally causing grave harm to people not directly involved in hostilities; deliberate attacks on the civilian population....\"During their two wars in Chechnya, the Russians flattened Grozny, once a city of more than 400,000 people.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 8.960541890701279e-05,
+                    "sentence": "Indeed, theUnited Nations once declared Groznythe \"most destroyed city on Earth.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0002430410240776837,
+                    "sentence": "\"More recently during the Syrian civil war -- a war that Syrian dictator Bashar al-Assad was in danger of losing before Russia intervened in 2015 -- 8,683 civilians were killed by Russian bombardments, according to theSyrian Observatory for Human Rights.Atrocities are not only committed by Russia's conventional forces.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.567153756506741e-05,
+                    "sentence": "Last year the European Union imposed sanctions on the Russian mercenary organization theWagner Group, which operates as a proxy for the Russian government and military.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 9.780463733477518e-05,
+                    "sentence": "The sanctions related to \"serious human rights abuses, including torture and extrajudicial, summary or arbitrary executions,\"the EU said, citing the Wagner Group's actions in Libya, Syria and the Central African Republic.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00018998139421455562,
+                    "sentence": "The Wagner Grouphas reportedly deployed 1,000of its men to Ukraine.What we are seeing in Bucha now is the Russian way of war at work, which seems designed to bludgeon civilian populations into submission, so as to expunge any possible resistance.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004930789582431316,
+                    "sentence": "Unfortunately, we can expect to see more Buchas in coming weeks.Opinion by Peter Bergen, CNN National Security AnalystTM & © 2022 Cable News Network, Inc., a Time Warner Company.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003866845217999071,
+                    "sentence": "All rights reserved.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.006602786460384316,
+            "class_probabilities": {
+                "human": 0.9933972135396156,
+                "ai": 0.006602786460384316,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9933972135396156,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.006602786460384316,
+                    "human": 0.9933972135396156,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "The pictures emerging of atrocities in Bucha, Ukraine, are shocking, but are they really surprising?Consider the Russian way of war during the past decades, from Afghanistan to Chechnya to Syria. All these wars were characterized by mass casualty attacks against civilians by the Russians, as well as credible allegations of the summary executions of civilians by Russian forces.In the 1980s, the Soviet Union waged a nine-year war in Afghanistan during which timeHuman Rights Watch reported, \"Over one million Afghan civilians are believed to have been killed ... most in aerial bombardments. Tens of thousands have disappeared -- many of them the victims of summary executions. ...\"The atrocities continued in the following decade, this time closer to home. During Russia's first war in Chechnya in 1994, according to Russian human rights experts, around25,000 civilians diedduring just two months of fighting in the capital, Grozny.During the second Russian war in Chechnya, Russian soldiers summarily executed at least 38 civilians in Grozny between late December 1999 and mid-January 2000, according toHuman Rights Watch.And on February 5, 2000, Russian soldiers summarily executed \"at least sixty civilians,\"the group added.The International Federation for Human Rightsfoundthe Russians in Chechnya in 2000 had engaged in \"summary executions and murders, physical abuse and torture; intentionally causing grave harm to people not directly involved in hostilities; deliberate attacks on the civilian population. ...\"During their two wars in Chechnya, the Russians flattened Grozny, once a city of more than 400,000 people. Indeed, theUnited Nations once declared Groznythe \"most destroyed city on Earth.\"More recently during the Syrian civil war -- a war that Syrian dictator Bashar al-Assad was in danger of losing before Russia intervened in 2015 -- 8,683 civilians were killed by Russian bombardments, according to theSyrian Observatory for Human Rights.Atrocities are not only committed by Russia's conventional forces. Last year the European Union imposed sanctions on the Russian mercenary organization theWagner Group, which operates as a proxy for the Russian government and military. The sanctions related to \"serious human rights abuses, including torture and extrajudicial, summary or arbitrary executions,\"the EU said, citing the Wagner Group's actions in Libya, Syria and the Central African Republic. The Wagner Grouphas reportedly deployed 1,000of its men to Ukraine.What we are seeing in Bucha now is the Russian way of war at work, which seems designed to bludgeon civilian populations into submission, so as to expunge any possible resistance. Unfortunately, we can expect to see more Buchas in coming weeks.Opinion by Peter Bergen, CNN National Security AnalystTM & © 2022 Cable News Network, Inc., a Time Warner Company. All rights reserved."
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0007880904013291001,
+                    "sentence": "YOUR VIEW: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000738929898943752,
+                    "sentence": "Please send your letters toletters@independent.co.ukHaving listened carefully to the claims and promises of bothSir Edward Daveyand Sir Keir Starmer, it seems that thebasic economic set-upof Britain will remain unaltered.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.000683767138980329,
+                    "sentence": "The only difference between the parties is their promise that they can carry out the same policies better and for less money than their opposition can.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0029373508878052235,
+                    "sentence": "Thus it seems to me Britain is a one-party state split into three, conning the electorate into believing they have a choice.The only choice we the people will have at the next general election is which party we think will carry out conservative,right-wing policies mostefficiently.As a result, I am not going to bother to vote in the next election.David LeeAddress ProvidedWill it ever end?How sad it is to see Israelis and Palestiniansonce again at war.Religious beliefs, reinforced byyears of mistrust and hatredover historic territorial claims look set to destroy more lives.Respective leaders ramp up the rhetoric and powerfulworld powers pledge supportfor their favoured side.Innocent citizenson both sides of the conflict die and others are further radicalised making it even less likely to achieve permanent peace.All my life I have watched theevolution of this conflict,will it ever end?For goodness' sake, sit down together and talk.Steve EdmondsonCambridgeNorth and SouthLiving in the affluent South East of the county it is hard to understand theshortage of land suitable for housing, that won't destroy our beautiful landscapes.CentralScotland, like many areas in the North of England, is awash with derelict post-industrial sites and acres of land of marginal agricultural use.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0038804493378847837,
+                    "sentence": "What we don't have, along with the weather, are the jobs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.011721935123205185,
+                    "sentence": "Jobs that will only come with investment, that will only follow infrastructure like fast efficient road and rail links, likeHS2.As long as the South East is the magnet drawing people from all over the UK with the lure of well-paid jobs there will always bea housing/land shortage.Geoff ForwardStirlingWishful thinkingListening, as I do, to the main parties' bid to be the next government I am amazed that the Labour Party has few facts to offer as proof of their promises.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012578936293721199,
+                    "sentence": "And when the Conservative Party already has along history of U-turning, half-truths and deceit, how can we ensure that the government honours its promises?Both Labour and Conservative conferencespeakers gave rousing speeches, much about what's wrong with one another, but were limited in ideas of how they intend to change the UK for the better.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.015285168774425983,
+                    "sentence": "Lots of objectives but little or no strategy, or tactics.Objectives without strategy and tactics are simply wishes and both parties are awash with wishful thinking.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02572973072528839,
+                    "sentence": "A simple explanation of how we will achieve the nation's goals is missing as yet.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.023177383467555046,
+                    "sentence": "I wait with eager anticipation.Keith PooleBasingstokeThe power of ScotlandMuch has been written about the importance ofScotland in delivering a Labour victoryin the forthcoming general election, whenever that may be.It should however be noted that there have been very, very few occasions post-1945 when Scottish seats have had an impact on Labour winning a general election.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.031543608754873276,
+                    "sentence": "This is understandable in that there are only currently 59 constituencies in Scotland out of a total of 650 in the UK as a whole.Out of the 21 general elections since 1945, there have only ever been two elections - Harold Wilson's victories in 1964 and 1974 - when the return of Labour MPs in Scotland had an impact when it came todelivering a Labour government.When it comes to the general election, the impact of Scottish voters on the outcome should not be overestimated.Alex OrrEdinburgh",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.039837804045504216,
+            "class_probabilities": {
+                "human": 0.9601216422360306,
+                "ai": 0.039837804045504216,
+                "mixed": 4.055371846526579e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601216422360306,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039837804045504216,
+                    "human": 0.9601216422360306,
+                    "mixed": 4.055371846526579e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "YOUR VIEW: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukHaving listened carefully to the claims and promises of bothSir Edward Daveyand Sir Keir Starmer, it seems that thebasic economic set-upof Britain will remain unaltered. The only difference between the parties is their promise that they can carry out the same policies better and for less money than their opposition can. Thus it seems to me Britain is a one-party state split into three, conning the electorate into believing they have a choice.The only choice we the people will have at the next general election is which party we think will carry out conservative,right-wing policies mostefficiently.As a result, I am not going to bother to vote in the next election.David LeeAddress ProvidedWill it ever end?How sad it is to see Israelis and Palestiniansonce again at war.Religious beliefs, reinforced byyears of mistrust and hatredover historic territorial claims look set to destroy more lives.Respective leaders ramp up the rhetoric and powerfulworld powers pledge supportfor their favoured side.Innocent citizenson both sides of the conflict die and others are further radicalised making it even less likely to achieve permanent peace.All my life I have watched theevolution of this conflict,will it ever end?For goodness’ sake, sit down together and talk.Steve EdmondsonCambridgeNorth and SouthLiving in the affluent South East of the county it is hard to understand theshortage of land suitable for housing, that won’t destroy our beautiful landscapes.CentralScotland, like many areas in the North of England, is awash with derelict post-industrial sites and acres of land of marginal agricultural use. What we don’t have, along with the weather, are the jobs. Jobs that will only come with investment, that will only follow infrastructure like fast efficient road and rail links, likeHS2.As long as the South East is the magnet drawing people from all over the UK with the lure of well-paid jobs there will always bea housing/land shortage.Geoff ForwardStirlingWishful thinkingListening, as I do, to the main parties’ bid to be the next government I am amazed that the Labour Party has few facts to offer as proof of their promises. And when the Conservative Party already has along history of U-turning, half-truths and deceit, how can we ensure that the government honours its promises?Both Labour and Conservative conferencespeakers gave rousing speeches, much about what’s wrong with one another, but were limited in ideas of how they intend to change the UK for the better. Lots of objectives but little or no strategy, or tactics.Objectives without strategy and tactics are simply wishes and both parties are awash with wishful thinking. A simple explanation of how we will achieve the nation’s goals is missing as yet. I wait with eager anticipation.Keith PooleBasingstokeThe power of ScotlandMuch has been written about the importance ofScotland in delivering a Labour victoryin the forthcoming general election, whenever that may be.It should however be noted that there have been very, very few occasions post-1945 when Scottish seats have had an impact on Labour winning a general election. This is understandable in that there are only currently 59 constituencies in Scotland out of a total of 650 in the UK as a whole.Out of the 21 general elections since 1945, there have only ever been two elections – Harold Wilson’s victories in 1964 and 1974 – when the return of Labour MPs in Scotland had an impact when it came todelivering a Labour government.When it comes to the general election, the impact of Scottish voters on the outcome should not be overestimated.Alex OrrEdinburgh"
+        }
+    ]
+}

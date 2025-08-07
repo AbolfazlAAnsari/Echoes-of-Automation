@@ -1,0 +1,94 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.0010327964555472136,
+                    "sentence": "What a messWhat a messHow long are we going to have to wait for recycling to resume at our transfer stations?When will a dumpsite be provided in East Hawaii so our rubbish doesn't need to go to Kailua-Kona?When is raw sewage going to be prevented from going into the ocean?We here in Hawaii have the most expensive government per capita in the U.S. What exactly are they doing for us?Pothole-ridden roads, crumbling bridges and public buildings, rubbish everywhere, affordable housing a pipe dream, homeless people everywhere, not enough hospital rooms for our growing population, even in non-COVID times.Our county is a mess.On average, every man woman and child in Hawaii County pays $200 a month in taxes to cover all of this terrible service, but in reality that burden ultimately falls to the people who report their income and pay their taxes, and we all know that represents far fewer taxpayers making up the difference.The aina continues to be degraded, and we continue to be seriously underserved.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0013818403240293264,
+                    "sentence": "This isn't the Third World.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0017289791721850634,
+                    "sentence": "We deserve to get what we are paying for!Laura BuckHawaii Volcanoes National ParkWaste of moneyThe U.S. Senate was created to give all states a vote in Congress, no matter what their population.Now that Sen. Mitch McConnell from Kentucky refuses to bring things up for a vote, I say it is time to abolish the Senate.Why pay 50 people a lot of money so that they can sit on their hands to do nothing at the dictates of one particular individual, except perhaps for some of them to get paid by corporate lobbyists to vote against the American public?Dave KisorPahoaHorses deserve betterRecently I witnessed what I feel is animal maltreatment by the county personnel responsible for the design and maintaining of the Panaewa Equestrian Center here in Hilo.The stalls for each horse were a mere 10 feet by 20 feet ᅳtinylooking pens that did include covered shelter.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.009801751933991909,
+                    "sentence": "I looked at each horse, and they were looking quite forlorn and confined standing completely still, for they had no place to go.I looked around me and sawbeautifulandvastgrassy hills and space to roam, but none was given for these horses to at least go out and walk afewsteps.Imagine how you might feel to be trapped in a small rectangle while you stare at the grass and space before you.I demand better for the beautiful, majestic equine beings of our home, Hawaii nei!Dana K. DayMountain ViewA 45-year-old Hilo man was sentenced Aug. 22 to 10 years for a domestic assault last Christmas Eve on his estranged girlfriend.A 64-year-old Ocean View man accused of killing one of his dogs has been freed from custody on supervised release, a form of cashless bail.Record-setting University of Hawaii quarterback and 2007 Heisman Trophy finalist Colt Brennan has died, his father Terry Brennan told the Honolulu Star-Advertiser.Hilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.010662596672773361,
+                    "sentence": "Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 5,
+                    "completely_generated_prob": 0.00010005932717626924
+                }
+            ],
+            "completely_generated_prob": 0.025041194076269924,
+            "class_probabilities": {
+                "human": 0.974671313226954,
+                "ai": 0.025041194076269924,
+                "mixed": 0.00028749269677611
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.974671313226954,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.025041194076269924,
+                    "human": 0.974671313226954,
+                    "mixed": 0.00028749269677611
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "What a messWhat a messHow long are we going to have to wait for recycling to resume at our transfer stations?When will a dumpsite be provided in East Hawaii so our rubbish doesn’t need to go to Kailua-Kona?When is raw sewage going to be prevented from going into the ocean?We here in Hawaii have the most expensive government per capita in the U.S. What exactly are they doing for us?Pothole-ridden roads, crumbling bridges and public buildings, rubbish everywhere, affordable housing a pipe dream, homeless people everywhere, not enough hospital rooms for our growing population, even in non-COVID times.Our county is a mess.On average, every man woman and child in Hawaii County pays $200 a month in taxes to cover all of this terrible service, but in reality that burden ultimately falls to the people who report their income and pay their taxes, and we all know that represents far fewer taxpayers making up the difference.The aina continues to be degraded, and we continue to be seriously underserved. This isn’t the Third World. We deserve to get what we are paying for!Laura BuckHawaii Volcanoes National ParkWaste of moneyThe U.S. Senate was created to give all states a vote in Congress, no matter what their population.Now that Sen. Mitch McConnell from Kentucky refuses to bring things up for a vote, I say it is time to abolish the Senate.Why pay 50 people a lot of money so that they can sit on their hands to do nothing at the dictates of one particular individual, except perhaps for some of them to get paid by corporate lobbyists to vote against the American public?Dave KisorPahoaHorses deserve betterRecently I witnessed what I feel is animal maltreatment by the county personnel responsible for the design and maintaining of the Panaewa Equestrian Center here in Hilo.The stalls for each horse were a mere 10 feet by 20 feet —tinylooking pens that did include covered shelter. I looked at each horse, and they were looking quite forlorn and confined standing completely still, for they had no place to go.I looked around me and sawbeautifulandvastgrassy hills and space to roam, but none was given for these horses to at least go out and walk afewsteps.Imagine how you might feel to be trapped in a small rectangle while you stare at the grass and space before you.I demand better for the beautiful, majestic equine beings of our home, Hawaii nei!Dana K. DayMountain ViewA 45-year-old Hilo man was sentenced Aug. 22 to 10 years for a domestic assault last Christmas Eve on his estranged girlfriend.A 64-year-old Ocean View man accused of killing one of his dogs has been freed from custody on supervised release, a form of cashless bail.Record-setting University of Hawaii quarterback and 2007 Heisman Trophy finalist Colt Brennan has died, his father Terry Brennan told the Honolulu Star-Advertiser.Hilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track. Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017."
+        }
+    ]
+}

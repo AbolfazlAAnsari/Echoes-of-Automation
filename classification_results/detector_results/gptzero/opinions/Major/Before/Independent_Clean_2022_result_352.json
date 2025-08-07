@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.006407935172319412,
+                    "sentence": "Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004857382271438837,
+                    "sentence": "Please send your letters toletters@independent.co.ukRishi Sunak'splanto draft in troops to fill roles of strikingworkersover Christmas is not only unfair to troops having to work over the festive period instead of enjoying time with their families, but it also completely undermines thestrikes.Although strikes cause havoc, they are not days off for staff: they are intended to show the hard work they endure.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0041322121396660805,
+                    "sentence": "The government's plan of simply replacing them with their safety net of the army not only shuns the striking workers, but the troops as well.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0026160161942243576,
+                    "sentence": "Sunak should reconsider his approach and be more open to considering the needs of workers.Darcy FlanaganNewcastle, StudentI welcome the Archbishop of Canterbury'sinterventionin the toxic debate concerning migration, and he is right to place his head above the parapet of the divisive and hostile rhetoric emanating from the government on this contentious issue.He is correct: the Rwanda policy is unworkable, uncompassionate and hugely expensive and at the present time is not having the desired effect.Judith A. DanielsNorfolkWhen it comes to pointing fingers at one group holding another to ransom, it could be argued that not only is the private sector more successful than the public sector, but its initial response considerably exacerbated the pressures caused by Brexit, Covid and the Ukraine War.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006207975093275309,
+                    "sentence": "Public sector workers are merely reacting to the situation created in part by those managing the private sector.A number of recent price rises look barely justified.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006645351182669401,
+                    "sentence": "Conservative ministers would say this was acceptable business practice and the free market at work.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006202712655067444,
+                    "sentence": "Yet public sector workers, using industrial action as a last resort to defend their basic living standards, are deemed to be holding the nation hostage.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.37512263655662537,
+                    "sentence": "From the government that introduced VIP lanes for Covid PPE contracts and was happy to supportOwen Paterson's egregious breach of lobbying rules, why don't I find this surprising?Malcolm HarrisGrimsbyTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereI hope thoseboycotting the World Cupwill be boycotting the next tournament held in the United States - given their bloated prison population, denial of women's reproductive rights, treatment of migrants at the southern border, endless wars in the middle east, green lighting the endless theft of Palestinian land, the war on drugs that has shattered countless lives in Central and South America, as well as that of their own population.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.32869598269462585,
+                    "sentence": "And the list goes on and on.Lou'ay SulaimanThe government is causing the strikes, not the unions.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.35552963614463806,
+                    "sentence": "These Tories are good at only one thing - breaking this country - and excel at another: lying about it.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.28031647205352783,
+                    "sentence": "The Winter of Discontent is here.Katharine PowellNeston",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.0592640951707379,
+            "class_probabilities": {
+                "human": 0.9407359048292621,
+                "ai": 0.0592640951707379,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9407359048292621,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0592640951707379,
+                    "human": 0.9407359048292621,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukRishi Sunak’splanto draft in troops to fill roles of strikingworkersover Christmas is not only unfair to troops having to work over the festive period instead of enjoying time with their families, but it also completely undermines thestrikes.Although strikes cause havoc, they are not days off for staff: they are intended to show the hard work they endure. The government’s plan of simply replacing them with their safety net of the army not only shuns the striking workers, but the troops as well. Sunak should reconsider his approach and be more open to considering the needs of workers.Darcy FlanaganNewcastle, StudentI welcome the Archbishop of Canterbury’sinterventionin the toxic debate concerning migration, and he is right to place his head above the parapet of the divisive and hostile rhetoric emanating from the government on this contentious issue.He is correct: the Rwanda policy is unworkable, uncompassionate and hugely expensive and at the present time is not having the desired effect.Judith A. DanielsNorfolkWhen it comes to pointing fingers at one group holding another to ransom, it could be argued that not only is the private sector more successful than the public sector, but its initial response considerably exacerbated the pressures caused by Brexit, Covid and the Ukraine War. Public sector workers are merely reacting to the situation created in part by those managing the private sector.A number of recent price rises look barely justified. Conservative ministers would say this was acceptable business practice and the free market at work. Yet public sector workers, using industrial action as a last resort to defend their basic living standards, are deemed to be holding the nation hostage. From the government that introduced VIP lanes for Covid PPE contracts and was happy to supportOwen Paterson’s egregious breach of lobbying rules, why don’t I find this surprising?Malcolm HarrisGrimsbyTo keep up to speed with all the latest opinions and comment, sign up to our free weekly Voices Dispatches newsletter byclicking hereI hope thoseboycotting the World Cupwill be boycotting the next tournament held in the United States – given their bloated prison population, denial of women’s reproductive rights, treatment of migrants at the southern border, endless wars in the middle east, green lighting the endless theft of Palestinian land, the war on drugs that has shattered countless lives in Central and South America, as well as that of their own population. And the list goes on and on.Lou’ay SulaimanThe government is causing the strikes, not the unions. These Tories are good at only one thing – breaking this country – and excel at another: lying about it. The Winter of Discontent is here.Katharine PowellNeston"
+        }
+    ]
+}

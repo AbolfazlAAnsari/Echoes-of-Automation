@@ -1,0 +1,154 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.009311048313975334,
+                    "sentence": "A government so wedded to remaining in the past has no right to govern this nation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007124943658709526,
+                    "sentence": "Forcing MPs to be on the parliamentary estate in order to vote is archaic and can only be a device to allow party leaders to put pressure on MPs.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005869454704225063,
+                    "sentence": "That may be inevitable given the party pre-eminence in our so called \"democracy\" but it doesn't make it right.It also raises the question of why over £5bn is being spent on refurbishing parliament instead of building something fit for the 21st century.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0037552928552031517,
+                    "sentence": "That is a damning indictment of the dangerous instinct for nostalgia and some imagined past nirvana which drives those in positions of authority.Any child knows that if you walk around looking over your shoulder you will come to grief!Arthur Streatfield BathHierarchy of communityAcross the world, much of the religious response to Covid-19 has been a litany of silliness.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.004112761002033949,
+                    "sentence": "New York rabbi Yosef Mizrachi explained that a cure was to blow a hairdryer into your throat.A popular Pakistani cleric Maulana Tariq Jameel has blamed the pandemic on the \"immodesty\" of women.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0032478319481015205,
+                    "sentence": "The Pope has asked God to \"stop the coronavirus with his hand\": you don't have to be a philosophy undergraduate to wonder why God started it in the first place.Now in the UK, 25 prominent church leaders wishing urgently to restart Sunday worship are threatening a judicial review arguing that they are \"at the centre of the communities\".",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.05213448405265808,
+                    "sentence": "They are certainly at the centre of their own communities but there is no reason why religious groups should be privileged in this way and not wait for scientific health advice like everyone else.Neil Barber EdinburghNot so terribleI would like to challenge Anthony Cuthbertson on his article aboutSweden's coronavirus situation.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06316007673740387,
+                    "sentence": "For the brief time of seven days, Sweden recorded the highest death rate but many other countries have held that unfortunate title briefly as well.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09768536686897278,
+                    "sentence": "The more relevant fact is that the overall deaths per million is far less than the UK, France, Italy, Spain and Belgium, and not much higher than Holland either.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.058880291879177094,
+                    "sentence": "The strategy in Sweden is to recognise that lockdowns themselves have huge social health costs, and are unsustainable for any long length of time.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07239968329668045,
+                    "sentence": "The Swedish policy can hardly be called a disaster, and nothing has really happened that was totally unexpected.That there would be a higher case load than the other Nordic countries was always an obvious factor.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07780564576387405,
+                    "sentence": "Sweden is taking its medicine now rather than later.Mike Williams Address suppliedLockdown consequencesWhat contribution has a ten-week lockdown made to the explosion of anger in the United States?John Doherty Stratford-upon-AvonSpeaking outThe civilian death toll from Second World War was around 70,000.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.16054297983646393,
+                    "sentence": "The total excess deaths in the UK during the Covid-19 experience is around 60,000.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.16712011396884918,
+                    "sentence": "Where are the outraged voices?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1335897296667099,
+                    "sentence": "Who is speaking out for the deceased and the bereaved, and for all the gallant folk who have been at high risk ministering to the sick and vulnerable?John McLorinan Weston-super-Mare",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 15,
+                    "completely_generated_prob": 2.5938383721896624e-13
+                }
+            ],
+            "completely_generated_prob": 0.05846869506377007,
+            "class_probabilities": {
+                "human": 0.9414903775918344,
+                "ai": 0.05846869506377007,
+                "mixed": 4.092734439546067e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9414903775918344,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.05846869506377007,
+                    "human": 0.9414903775918344,
+                    "mixed": 4.092734439546067e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "A government so wedded to remaining in the past has no right to govern this nation. Forcing MPs to be on the parliamentary estate in order to vote is archaic and can only be a device to allow party leaders to put pressure on MPs. That may be inevitable given the party pre-eminence in our so called \"democracy\" but it doesn't make it right.It also raises the question of why over £5bn is being spent on refurbishing parliament instead of building something fit for the 21st century. That is a damning indictment of the dangerous instinct for nostalgia and some imagined past nirvana which drives those in positions of authority.Any child knows that if you walk around looking over your shoulder you will come to grief!Arthur Streatfield​                                          BathHierarchy of communityAcross the world, much of the religious response to Covid-19 has been a litany of silliness. New York rabbi Yosef Mizrachi explained that a cure was to blow a hairdryer into your throat.A popular Pakistani cleric Maulana Tariq Jameel has blamed the pandemic on the \"immodesty\" of women. The Pope has asked God to \"stop the coronavirus with his hand\": you don't have to be a philosophy undergraduate to wonder why God started it in the first place.Now in the UK, 25 prominent church leaders wishing urgently to restart Sunday worship are threatening a judicial review arguing that they are \"at the centre of the communities\". They are certainly at the centre of their own communities but there is no reason why religious groups should be privileged in this way and not wait for scientific health advice like everyone else.Neil Barber                                          EdinburghNot so terribleI would like to challenge Anthony Cuthbertson on his article aboutSweden's coronavirus situation. For the brief time of seven days, Sweden recorded the highest death rate but many other countries have held that unfortunate title briefly as well. The more relevant fact is that the overall deaths per million is far less than the UK, France, Italy, Spain and Belgium, and not much higher than Holland either. The strategy in Sweden is to recognise that lockdowns themselves have huge social health costs, and are unsustainable for any long length of time. The Swedish policy can hardly be called a disaster, and nothing has really happened that was totally unexpected.That there would be a higher case load than the other Nordic countries was always an obvious factor. Sweden is taking its medicine now rather than later.Mike Williams                                          Address suppliedLockdown consequencesWhat contribution has a ten-week lockdown made to the explosion of anger in the United States?John Doherty                                          Stratford-upon-AvonSpeaking outThe civilian death toll from Second World War was around 70,000. The total excess deaths in the UK during the Covid-19 experience is around 60,000. Where are the outraged voices? Who is speaking out for the deceased and the bereaved, and for all the gallant folk who have been at high risk ministering to the sick and vulnerable?John McLorinan                                          Weston-super-Mare"
+        }
+    ]
+}

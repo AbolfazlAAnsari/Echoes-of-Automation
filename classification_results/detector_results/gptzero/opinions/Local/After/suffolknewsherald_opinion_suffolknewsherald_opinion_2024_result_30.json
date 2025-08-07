@@ -1,0 +1,148 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.010581006295979023,
+                    "sentence": "Published 5:55 pm Tuesday, June 11, 2024Bylindsayrichardson“Look deep into nature and you'll understand everything better” - Albert Einstein.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00860748440027237,
+                    "sentence": "Suffolk residents should consider themselves among the lucky ones to live in an area that is still rich with the treasures that Mother Nature has to offer.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01782853528857231,
+                    "sentence": "Suffolk has about as much as one could hope to find to be more in touch with nature, from miles of open fields of the latest crops, an assortment of different waterways, beautiful parks, and even a national wildlife refuge.It's one of the things I love best about living in Suffolk.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.01359485276043415,
+                    "sentence": "Especially since I have a love for photography.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013308309018611908,
+                    "sentence": "Whether I'm behind the camera or admiring someone else's photos, some of my favorite photographs are of wildlife or landscape.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.007113484665751457,
+                    "sentence": "Specifically, I like macro photography, which showcases subjects that are larger than life.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013070465996861458,
+                    "sentence": "Something about being able to see the individual specks of pollen on a bee's legs as it hovers over a flower is so magnificent to me.That's why I'm so excited that this year, joined by presenting sponsor Visit Suffolk, theSuffolk News-Heraldis hosting the first annual Wild Suffolk Photo Contest.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.021397551521658897,
+                    "sentence": "Submissions for the contest are open now and will continue through Sunday, June 16 at 11:59 p.m. Then voting will start on Wednesday, June 19, at 12:01 a.m. You can vote on your favorite nature or wildlife photograph until June 30 at 11:59 p.m.The photographer who shot the photo with the most votes will win a $100 gift card and special mentions in theSuffolk News-Herald.Herons and periwinkles among the reeds, on the banks of the Nansemond.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00038739643059670925,
+                    "sentence": "Barred Owls in the trees at the Great Dismal Swamp, little pollinators working hard in one of the many community gardens around the city, or lush flowers in full bloom for the summer.There are so many beautiful sceneries to see right here in our own backyards.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00048561819130554795,
+                    "sentence": "I encourage each of you to grab your cameras or camera phones and get out into the beautiful nature that Suffolk provides.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005043408018536866,
+                    "sentence": "I bet you will end your day with a better understanding of how fortunate each of us is to call Suffolk home.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0005442607798613608,
+                    "sentence": "You can submit photos and vote in the contest by visitinghttps://www.suffolknewsherald.com/contests/wild-suffolk/I can't wait to see your photos.Lindsay Richardson, Publisher.The MLB schedule today is not one to miss.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0010189427994191647,
+                    "sentence": "The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0020045489072799683,
+                    "sentence": "Among those contests is the Los Angeles…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 14,
+                    "completely_generated_prob": 1.9423489116273474e-12
+                }
+            ],
+            "completely_generated_prob": 0.024461651786716186,
+            "class_probabilities": {
+                "human": 0.9754981327244504,
+                "ai": 0.024461651786716186,
+                "mixed": 4.0215488833363626e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9754981327244504,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.024461651786716186,
+                    "human": 0.9754981327244504,
+                    "mixed": 4.0215488833363626e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 5:55 pm Tuesday, June 11, 2024Bylindsayrichardson“Look deep into nature and you’ll understand everything better” – Albert Einstein. Suffolk residents should consider themselves among the lucky ones to live in an area that is still rich with the treasures that Mother Nature has to offer. Suffolk has about as much as one could hope to find to be more in touch with nature, from miles of open fields of the latest crops, an assortment of different waterways, beautiful parks, and even a national wildlife refuge.It’s one of the things I love best about living in Suffolk. Especially since I have a love for photography. Whether I’m behind the camera or admiring someone else’s photos, some of my favorite photographs are of wildlife or landscape. Specifically, I like macro photography, which showcases subjects that are larger than life. Something about being able to see the individual specks of pollen on a bee’s legs as it hovers over a flower is so magnificent to me.That’s why I’m so excited that this year, joined by presenting sponsor Visit Suffolk, theSuffolk News-Heraldis hosting the first annual Wild Suffolk Photo Contest. Submissions for the contest are open now and will continue through Sunday, June 16 at 11:59 p.m. Then voting will start on Wednesday, June 19, at 12:01 a.m. You can vote on your favorite nature or wildlife photograph until June 30 at 11:59 p.m.The photographer who shot the photo with the most votes will win a $100 gift card and special mentions in theSuffolk News-Herald.Herons and periwinkles among the reeds, on the banks of the Nansemond. Barred Owls in the trees at the Great Dismal Swamp, little pollinators working hard in one of the many community gardens around the city, or lush flowers in full bloom for the summer.There are so many beautiful sceneries to see right here in our own backyards. I encourage each of you to grab your cameras or camera phones and get out into the beautiful nature that Suffolk provides. I bet you will end your day with a better understanding of how fortunate each of us is to call Suffolk home.  You can submit photos and vote in the contest by visitinghttps://www.suffolknewsherald.com/contests/wild-suffolk/I can’t wait to see your photos.Lindsay Richardson, Publisher.The MLB schedule today is not one to miss. The outings include the Los Angeles Dodgers squaring off…Corbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…"
+        }
+    ]
+}

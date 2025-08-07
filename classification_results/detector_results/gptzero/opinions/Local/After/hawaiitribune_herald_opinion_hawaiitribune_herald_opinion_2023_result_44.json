@@ -1,0 +1,142 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.14034415781497955,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°For centuries, the quest for new elements was a driving force in many scientific disciplines.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.1375838816165924,
+                    "sentence": "Understanding an atom's structure and the development of nuclear science allowed scientists to accomplish the old goal of alchemists - turning one element into another.Many scientists believe that gold and other heavy metals were deposited on Earth's surface after asteroids collided with the planet.The same thing could have happened with these superheavy elements, but super mass dense heavy elements sink into ground and are eliminated from near the Earth's surface by the subduction of tectonic plates.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.06335775554180145,
+                    "sentence": "However, while researchers might not find superheavy elements on Earth's surface, they could still be in asteroids like the ones that might have brought them to this planet.Scientists have estimated that some asteroids have mass densities greater than that of osmium, the densest element found on Earth.The largest of these objects is asteroid 33, which is nicknamed Polyhymnia.Polyhymnia isn't the only dense asteroid out there.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.08026451617479324,
+                    "sentence": "In fact, there's a whole class of superheavy objects, including asteroids, which could contain these superheavy elements.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.10561510920524597,
+                    "sentence": "Some time ago, I introduced the name Compact Ultradense Objects, or CUDOs, for this class.In a study published in October 2023 in the European Physical Journal Plus, my team suggested some of the CUDOs orbiting in the solar system might still contain some of these dense, heavy elements in their cores.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.10428806394338608,
+                    "sentence": "Their surfaces would have accumulated normal matter over time and would appear normal to a distant observer.So how are these heavy elements produced?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09084738045930862,
+                    "sentence": "Some extreme astronomical events, like double star mergers could be hot and dense enough to produce stable superheavy elements.Some of the superheavy material could then remain on board asteroids created in these events.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.07672599703073502,
+                    "sentence": "They could stay packed in these asteroids, which orbit the solar system for billions of years.The Eurpoean Space Agency's Gaia mission aims to create the largest, most precise three-dimensional map of everything in the sky.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04783482849597931,
+                    "sentence": "Researchers could use these extremely precise results to study the motion of asteroids and figure out which ones might have an unusually large density.Space missions are being conducted to collect material from the surfaces of asteroids and analyze them back on Earth.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.09430144727230072,
+                    "sentence": "Just this month, NASA's OSIRIS-REx mission brought back a sample.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.17081086337566376,
+                    "sentence": "Though the sample analysis is just getting started, there is a very small chance it could harbor dust containing superheavy elements accumulated over billions of years.NASA's Psyche mission, which launched in October 2023, will fly to and sample a metal-rich asteroid with a greater chance of harboring superheavy elements.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.13473282754421234,
+                    "sentence": "More asteroid missions like this will help scientists better understand the properties of asteroids orbiting in the solar system.Learning more about asteroids and exploring potential sources of superheavy elements will help scientists continue the century-spanning quest to characterize the matter that makes up the universe and better understand how objects in the solar system formed.In presidential fundraising these days, the donors who matter most are the very small and the very, very big.Hilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.08306318521499634,
+                    "sentence": "Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 13,
+                    "completely_generated_prob": 1.4476848035102901e-11
+                }
+            ],
+            "completely_generated_prob": 0.1276676162807097,
+            "class_probabilities": {
+                "human": 0.8722807660846754,
+                "ai": 0.1276676162807097,
+                "mixed": 5.161763461484218e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.8722807660846754,
+            "confidence_category": "medium",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.1276676162807097,
+                    "human": 0.8722807660846754,
+                    "mixed": 5.161763461484218e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|77.855°For centuries, the quest for new elements was a driving force in many scientific disciplines. Understanding an atom’s structure and the development of nuclear science allowed scientists to accomplish the old goal of alchemists – turning one element into another.Many scientists believe that gold and other heavy metals were deposited on Earth’s surface after asteroids collided with the planet.The same thing could have happened with these superheavy elements, but super mass dense heavy elements sink into ground and are eliminated from near the Earth’s surface by the subduction of tectonic plates. However, while researchers might not find superheavy elements on Earth’s surface, they could still be in asteroids like the ones that might have brought them to this planet.Scientists have estimated that some asteroids have mass densities greater than that of osmium, the densest element found on Earth.The largest of these objects is asteroid 33, which is nicknamed Polyhymnia.Polyhymnia isn’t the only dense asteroid out there. In fact, there’s a whole class of superheavy objects, including asteroids, which could contain these superheavy elements. Some time ago, I introduced the name Compact Ultradense Objects, or CUDOs, for this class.In a study published in October 2023 in the European Physical Journal Plus, my team suggested some of the CUDOs orbiting in the solar system might still contain some of these dense, heavy elements in their cores. Their surfaces would have accumulated normal matter over time and would appear normal to a distant observer.So how are these heavy elements produced? Some extreme astronomical events, like double star mergers could be hot and dense enough to produce stable superheavy elements.Some of the superheavy material could then remain on board asteroids created in these events. They could stay packed in these asteroids, which orbit the solar system for billions of years.The Eurpoean Space Agency’s Gaia mission aims to create the largest, most precise three-dimensional map of everything in the sky. Researchers could use these extremely precise results to study the motion of asteroids and figure out which ones might have an unusually large density.Space missions are being conducted to collect material from the surfaces of asteroids and analyze them back on Earth. Just this month, NASA’s OSIRIS-REx mission brought back a sample. Though the sample analysis is just getting started, there is a very small chance it could harbor dust containing superheavy elements accumulated over billions of years.NASA’s Psyche mission, which launched in October 2023, will fly to and sample a metal-rich asteroid with a greater chance of harboring superheavy elements. More asteroid missions like this will help scientists better understand the properties of asteroids orbiting in the solar system.Learning more about asteroids and exploring potential sources of superheavy elements will help scientists continue the century-spanning quest to characterize the matter that makes up the universe and better understand how objects in the solar system formed.In presidential fundraising these days, the donors who matter most are the very small and the very, very big.Hilo High School has installed a new artificial turf football field as part of an $11-million upgrade project, which will also include a cutting-edge rubberized track. Contractor Nan Inc. began construction on the project in Dec. 2023, following a design and planning process that started in 2017."
+        }
+    ]
+}

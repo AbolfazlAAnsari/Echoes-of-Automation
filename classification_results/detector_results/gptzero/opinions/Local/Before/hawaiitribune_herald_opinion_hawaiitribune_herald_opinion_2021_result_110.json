@@ -1,0 +1,124 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00784299150109291,
+                    "sentence": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Complete the plantComplete the plantThe past few cloudy, rainy months resulted in electricity bills high enough to make my rooftop photovoltaic solar system not only ineffective, but also a financial liability.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005105182062834501,
+                    "sentence": "Besides paying the electric company, I also made monthly payments for an unproductive PV system.I still support solar but wonder what will happen when the solar industry faces a stretch of bad weather, their battery storage is depleted and not recharged?Like anybody else, with less product to sell making for less income to pay fixed expenses, they will have to raise prices to survive.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005868454463779926,
+                    "sentence": "Then what happens to us when the electric company stops using oil that would make up for shortages from intermittent solar?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.006732799578458071,
+                    "sentence": "We get less but pay more?Also curious, what are the mitigation and recovery plans for when a hurricane scatters acres of solar panels or a lava flow buries them?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.005231280345469713,
+                    "sentence": "Not if, but when, right?Will we return to rolling blackouts or shut down tourism again not because of a virus but because of no power?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.012381198816001415,
+                    "sentence": "If we put more eggs in the solar basket, what are the assurances our frozen foods can always stay frozen?Hawaii's isolation, past disasters, COVID and supply chain crisis necessitates developing diverse sources of energy for (1) security and (2) to reliably meet our increasing 24/7 needs.It is just plain common sense to complete Honua Ola Bioenergy and get its locally produced renewable energy online ASAP!Honua Ola Bioenergy is a strong teammate to solar, wind, geothermal, hydropower, hydrogen fuel cells, biodiesel and other biofuels to achieve Hawaii's renewable energy goals and independence from fossil fuels.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.026319416239857674,
+                    "sentence": "We need them all!Definitely in the public interest, a diverse source of reliable producers creates competition that should keep energy prices reasonable and ensure our energy security.Complete Honua Ola Bioenergy!Glen KagamidaHiloCommunity supportThe Paradise Studio Tour Artist Collective would like to thank the Big Island community for their generous support in purchasing artworks from the 18 members who showcased their work during the 15th Annual Paradise Studio Tour in the Keaau Hawaiian Paradise Park subdivision the first weekend in December.This year we were happy to sponsor a booth for the Abled Hawaii Artists group with their own member art products.Due to your purchases, this year the collective will be able to donate $2,623 to the three local Puna District high school art departments for much-needed supplies (Keaau High, Pahoa High, Hawaii Academy of Arts School).In 15 years, this brings our total donations to over $22,623!",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.040281426161527634,
+                    "sentence": "Each participating artist donates 10% of earnings over their first $100, so for this year alone that means over $28,000 was spent on local artist's work in Hawaiian Paradise Park.We are all so honored that our mission to support and encourage art and fellowship among artistsandencourage art education in local high schools for art supplies is successful because ofyou!President Kimberley Langston HagenVolunteer Patti Pease JohnsonThe Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.02595696412026882,
+                    "sentence": "The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.029418155550956726,
+                    "sentence": "Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneNestled between lush community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round.A new website launched recently helps Hawaii residents and visitors easily find recreational services available across the state.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 10,
+                    "completely_generated_prob": 5.7802509961791254e-09
+                }
+            ],
+            "completely_generated_prob": 0.0375246461941804,
+            "class_probabilities": {
+                "human": 0.9624347023880775,
+                "ai": 0.0375246461941804,
+                "mixed": 4.065141774218333e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9624347023880775,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.0375246461941804,
+                    "human": 0.9624347023880775,
+                    "mixed": 4.065141774218333e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Tuesday, Sept. 03, 2024|Today's Paper|79.142°Complete the plantComplete the plantThe past few cloudy, rainy months resulted in electricity bills high enough to make my rooftop photovoltaic solar system not only ineffective, but also a financial liability. Besides paying the electric company, I also made monthly payments for an unproductive PV system.I still support solar but wonder what will happen when the solar industry faces a stretch of bad weather, their battery storage is depleted and not recharged?Like anybody else, with less product to sell making for less income to pay fixed expenses, they will have to raise prices to survive. Then what happens to us when the electric company stops using oil that would make up for shortages from intermittent solar? We get less but pay more?Also curious, what are the mitigation and recovery plans for when a hurricane scatters acres of solar panels or a lava flow buries them? Not if, but when, right?Will we return to rolling blackouts or shut down tourism again not because of a virus but because of no power? If we put more eggs in the solar basket, what are the assurances our frozen foods can always stay frozen?Hawaii’s isolation, past disasters, COVID and supply chain crisis necessitates developing diverse sources of energy for (1) security and (2) to reliably meet our increasing 24/7 needs.It is just plain common sense to complete Honua Ola Bioenergy and get its locally produced renewable energy online ASAP!Honua Ola Bioenergy is a strong teammate to solar, wind, geothermal, hydropower, hydrogen fuel cells, biodiesel and other biofuels to achieve Hawaii’s renewable energy goals and independence from fossil fuels. We need them all!Definitely in the public interest, a diverse source of reliable producers creates competition that should keep energy prices reasonable and ensure our energy security.Complete Honua Ola Bioenergy!Glen KagamidaHiloCommunity supportThe Paradise Studio Tour Artist Collective would like to thank the Big Island community for their generous support in purchasing artworks from the 18 members who showcased their work during the 15th Annual Paradise Studio Tour in the Keaau Hawaiian Paradise Park subdivision the first weekend in December.This year we were happy to sponsor a booth for the Abled Hawaii Artists group with their own member art products.Due to your purchases, this year the collective will be able to donate $2,623 to the three local Puna District high school art departments for much-needed supplies (Keaau High, Pahoa High, Hawaii Academy of Arts School).In 15 years, this brings our total donations to over $22,623! Each participating artist donates 10% of earnings over their first $100, so for this year alone that means over $28,000 was spent on local artist’s work in Hawaiian Paradise Park.We are all so honored that our mission to support and encourage art and fellowship among artistsandencourage art education in local high schools for art supplies is successful because ofyou!President Kimberley Langston HagenVolunteer Patti Pease JohnsonThe Central Pacific Hurricane Center tropical storm warning remains in effect for Hawaii Island as of 1 p.m. today. The center is forecasting wet and windy weather conditions to persist throughout the day but will decrease in intensity later this afternoon and into the night.7 p.m. update:The Central Pacific Hurricane Center reports as of 5 p.m., Tropical Storm Hone is 125 miles southeast of Hilo with sustained winds of 65 mph moving west at 14 mph. Modest strengthening is expected over the next 24 to 36 hours, with Hone peaking just below hurricaneNestled between lush  community gardens and the sandy coastline of the Old Airport Beach Park, the Makaeo Walk Path offers a scenic trail for community members to enjoy year-round.A new website launched recently helps Hawaii residents and visitors easily find recreational services available across the state."
+        }
+    ]
+}

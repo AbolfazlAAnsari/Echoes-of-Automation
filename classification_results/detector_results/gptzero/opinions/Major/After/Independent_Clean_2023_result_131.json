@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 4.336127676651813e-05,
+                    "sentence": "LETTERS: Letters to the editor: our readers share their views.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.416429146658629e-05,
+                    "sentence": "Please send your letters toletters@independent.co.ukTheworkand pensions secretaryMel Stride appears to be completely delusionalin thinking that 650,000 are willing to rush back into work to facilitate a 2p tax cut.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.1925159419188276e-05,
+                    "sentence": "Has he never heard anyone who has “retired” say that they are so busy now that they don't know how they found time to go to work in the first place?Let me tell him one of the biggest reasons for that is because we stepped into unpaid childminding jobs for our grandchildren, with nursery fees being extortionately high for most parents.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.8475354813272133e-05,
+                    "sentence": "We facilitate young people to work much longer days than most nursery schools cater for.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.621178984758444e-05,
+                    "sentence": "My daughter in law has to be at her desk by 7:30am, meaning she's on the train by 6:30.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.773675027536228e-05,
+                    "sentence": "My son is often abroad on business.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 3.784178625210188e-05,
+                    "sentence": "A nursery doesn't help in this situation, but no doubt some of those “over 55s”grandparentsdo.Concentrate on proper training for young people to get them decent jobs which helps the economy.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 4.3488900701049715e-05,
+                    "sentence": "Allow the disgustingly labelled “illegal immigrants” some form of the US yellow card system to enable them to work until their cases are properly heard by the Home Office.This Conservative government needs to wake up and start some proper governing, or theydeserve to be oustedASAP.Cynthia YounisBucksThe church's place in modern BritainThank you Mary Dejevsky forsuccinctly outlining exactly why the Church of England should be cut loose.The UK is a multicultural society, and the fact that one faith has a unique representation in the House of Lords is an anachronism.Perhaps if the leaders of all faiths were ennobled when they take on their roles, we would have more appropriate speeches, like the Archbishop or Canterbury's recent speech on the immigration bill, to provide balance against the views of the elected parties.Richard SmithRugbyEurovision should stay apoliticalThe organisers of Eurovision were quite rightnot to have Zelensky address the (apolitical) eventthis weekend.Then both Rishi Sunak and Keir Starmer wade in, apparently unable to keep their beaks out of anything.Sunak might concentrate his efforts on better running the country which is currently going to hell in a handcart.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.028954235836863518,
+                    "sentence": "Meanwhile, Starmer can give us few ideas of how he might govern; we've not much inkling of what he thinks about anything.Dr Anthony IngletonSheffieldWhy are we paying for millionaire Boris?Could someone please explain whymyself and other tax payers are funding Boris Johnson's legal billsas he is investigated for Partygate offences?This is the man who has earned millions in speaking fees on the back of being a useless prime minister.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.024090347811579704,
+                    "sentence": "Meanwhile, I am a pensioner struggling to cope with the cost of living crisis and waiting endlessly for treatment from an underfunded National Health Service.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.028778688982129097,
+                    "sentence": "Something seems badly wrong to me!L RobertsonOrkneyEurovision is inherently politicalBy not allowing President Zelensky to address the Eurovision Song Contest, the EBU [European Broadcasting Union] have demonstrated that it is anorganisation that is not prepared to be flexibleand has abrogated its responsibility as an international body to condemn an evil war.Although I would normally watch the contest, I will be giving it a miss this year.Brian MacfarlandEtchingham",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.025047363853838715,
+            "class_probabilities": {
+                "human": 0.9749114577339202,
+                "ai": 0.025047363853838715,
+                "mixed": 4.1178412241002176e-05
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9749114577339202,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.025047363853838715,
+                    "human": 0.9749114577339202,
+                    "mixed": 4.1178412241002176e-05
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "LETTERS: Letters to the editor: our readers share their views. Please send your letters toletters@independent.co.ukTheworkand pensions secretaryMel Stride appears to be completely delusionalin thinking that 650,000 are willing to rush back into work to facilitate a 2p tax cut. Has he never heard anyone who has “retired” say that they are so busy now that they don’t know how they found time to go to work in the first place?Let me tell him one of the biggest reasons for that is because we stepped into unpaid childminding jobs for our grandchildren, with nursery fees being extortionately high for most parents. We facilitate young people to work much longer days than most nursery schools cater for. My daughter in law has to be at her desk by 7:30am, meaning she’s on the train by 6:30. My son is often abroad on business. A nursery doesn’t help in this situation, but no doubt some of those “over 55s”grandparentsdo.Concentrate on proper training for young people to get them decent jobs which helps the economy. Allow the disgustingly labelled “illegal immigrants” some form of the US yellow card system to enable them to work until their cases are properly heard by the Home Office.This Conservative government needs to wake up and start some proper governing, or theydeserve to be oustedASAP.Cynthia YounisBucksThe church’s place in modern BritainThank you Mary Dejevsky forsuccinctly outlining exactly why the Church of England should be cut loose.The UK is a multicultural society, and the fact that one faith has a unique representation in the House of Lords is an anachronism.Perhaps if the leaders of all faiths were ennobled when they take on their roles, we would have more appropriate speeches, like the Archbishop or Canterbury’s recent speech on the immigration bill, to provide balance against the views of the elected parties.Richard SmithRugbyEurovision should stay apoliticalThe organisers of Eurovision were quite rightnot to have Zelensky address the (apolitical) eventthis weekend.Then both Rishi Sunak and Keir Starmer wade in, apparently unable to keep their beaks out of anything.Sunak might concentrate his efforts on better running the country which is currently going to hell in a handcart. Meanwhile, Starmer can give us few ideas of how he might govern; we’ve not much inkling of what he thinks about anything.Dr Anthony IngletonSheffieldWhy are we paying for millionaire Boris?Could someone please explain whymyself and other tax payers are funding Boris Johnson’s legal billsas he is investigated for Partygate offences?This is the man who has earned millions in speaking fees on the back of being a useless prime minister. Meanwhile, I am a pensioner struggling to cope with the cost of living crisis and waiting endlessly for treatment from an underfunded National Health Service. Something seems badly wrong to me!L RobertsonOrkneyEurovision is inherently politicalBy not allowing President Zelensky to address the Eurovision Song Contest, the EBU [European Broadcasting Union] have demonstrated that it is anorganisation that is not prepared to be flexibleand has abrogated its responsibility as an international body to condemn an evil war.Although I would normally watch the contest, I will be giving it a miss this year.Brian MacfarlandEtchingham"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.00037085567601025105,
+                    "sentence": "Published 6:20 pm Tuesday, March 5, 2024ByJen JaquaIt's unbelievable or kind of miraculous, or lack thereof, that, in the Catholic Church, there isn't a Black Catholic American saint yet declared by the Catholic Church.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003018290735781193,
+                    "sentence": "I observed and wondered why.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003570341505110264,
+                    "sentence": "There seems to be a disparity in the canonization process for Black Catholic candidates for sainthood compared to their counterparts.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00029133804491721094,
+                    "sentence": "There were no “Blessed” Black American Catholics either, except we now have four declared “Venerable” to date.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00023940368555486202,
+                    "sentence": "We know there are Black American Catholics whose causes for beatification and canonization are underway in the Vatican.The Saintly Six are six Catholic African American candidates for sainthood: Mother Mary Lange, Father Augustus Tolton, Mother Henriette DeLille, Pierre Toussaint, Julia Greeley, and Sister Thea Bowman.An advocate for “Saintly Six,” Ralph E. Moore, Jr., who has recently gone to Rome with his group from St. Ann Social Justice Committee in Baltimore, Maryland, wrote in the Black Catholic Messenger on Feb. 1, expressing his sentiments and lamented for lack of Black American saints yet in the Catholic Church.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00028538197511807084,
+                    "sentence": "He urged the Vatican, “No more silence: Give us our six saints now.”If civil rights leader and Nobel Peace Laureate (1964), Dr. Martin Luther King, Jr., were a Catholic convert, would he have been declared by the Catholic Church the first Black American saint because of his love of and practice of faith and peace, “his nonviolent struggle for civil rights for the Afro-American population” and other people of color, and his overall impact and contribution to humanity?",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003108714008703828,
+                    "sentence": "What do you think?February is Black History Month, an annual observance in the United States that recognizes and honors Black Americans or Americans of African descent for their significant contributions and impact on America and the world.Since it's Lenten season for Catholics and other Christians worldwide, I'd like to remember and pay tribute to our Black American Catholic brothers and sisters of Christ, who have become models of Christian virtues and inspiration to many.Because of their heroic virtue, love of God, living, preaching, and spreading the Good News, saving souls, and doing corporal and spiritual works of mercy with charitable spirit, the “Saintly Six” faithful servants of God have lived their lives of faith and holiness on earth.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.04373469576239586,
+                    "sentence": "Models of the faithful love of service to the Lord and others are on their way to sainthood, worthy to be revered and venerated in the Catholic Church.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.034654419869184494,
+                    "sentence": "In due time, they'll be called Saints.Chris A. Quilpa, a retired U.S. Navy veteran, lives in Suffolk.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.030413692817091942,
+                    "sentence": "Email him at chris.a.quilpa@gmail.comCorbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today's MLB schedule should have plenty of excitement on the field.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.013709557242691517,
+                    "sentence": "Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 11,
+                    "completely_generated_prob": 7.905466206762634e-10
+                }
+            ],
+            "completely_generated_prob": 0.039839419682113825,
+            "class_probabilities": {
+                "human": 0.9601605803178862,
+                "ai": 0.039839419682113825,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9601605803178862,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.039839419682113825,
+                    "human": 0.9601605803178862,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "Published 6:20 pm Tuesday, March 5, 2024ByJen JaquaIt’s unbelievable or kind of miraculous, or lack thereof, that, in the Catholic Church, there isn’t a Black Catholic American saint yet declared by the Catholic Church. I observed and wondered why. There seems to be a disparity in the canonization process for Black Catholic candidates for sainthood compared to their counterparts. There were no “Blessed” Black American Catholics either, except we now have four declared “Venerable” to date. We know there are Black American Catholics whose causes for beatification and canonization are underway in the Vatican.The Saintly Six are six Catholic African American candidates for sainthood: Mother Mary Lange, Father Augustus Tolton, Mother Henriette DeLille, Pierre Toussaint, Julia Greeley, and Sister Thea Bowman.An advocate for “Saintly Six,” Ralph E. Moore, Jr., who has recently gone to Rome with his group from St. Ann Social Justice Committee in Baltimore, Maryland, wrote in the Black Catholic Messenger on Feb. 1, expressing his sentiments and lamented for lack of Black American saints yet in the Catholic Church. He urged the Vatican, “No more silence: Give us our six saints now.”If civil rights leader and Nobel Peace Laureate (1964), Dr. Martin Luther King, Jr., were a Catholic convert, would he have been declared by the Catholic Church the first Black American saint because of his love of and practice of faith and peace, “his nonviolent struggle for civil rights for the Afro-American population” and other people of color, and his overall impact and contribution to humanity? What do you think?February is Black History Month, an annual observance in the United States that recognizes and honors Black Americans or Americans of African descent for their significant contributions and impact on America and the world.Since it’s Lenten season for Catholics and other Christians worldwide, I’d like to remember and pay tribute to our Black American Catholic brothers and sisters of Christ, who have become models of Christian virtues and inspiration to many.Because of their heroic virtue, love of God, living, preaching, and spreading the Good News, saving souls, and doing corporal and spiritual works of mercy with charitable spirit, the “Saintly Six” faithful servants of God have lived their lives of faith and holiness on earth. Models of the faithful love of service to the Lord and others are on their way to sainthood, worthy to be revered and venerated in the Catholic Church. In due time, they’ll be called Saints.Chris A. Quilpa, a retired U.S. Navy veteran, lives in Suffolk. Email him at chris.a.quilpa@gmail.comCorbin Burnes will toe the rubber for the Baltimore Orioles (79-59) on Monday, September 2 against the Chicago…Gunnar Henderson and the Baltimore Orioles will attempt to defeat Luis Robert and the Chicago White Sox when…Ezequiel Tovar and the Colorado Rockies take the field on Sunday at Coors Field against Cole Irvin, who…Today’s MLB schedule should have plenty of excitement on the field. Among those contests is the Los Angeles…Gunnar Henderson and the Baltimore Orioles (78-59) will visit Brenton Doyle and the Colorado Rockies (51-86) at Coors…"
+        }
+    ]
+}

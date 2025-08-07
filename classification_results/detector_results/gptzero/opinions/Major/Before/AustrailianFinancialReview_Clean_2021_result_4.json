@@ -1,0 +1,106 @@
+{
+    "version": "2025-01-09-base",
+    "documents": [
+        {
+            "sentences": [
+                {
+                    "generated_prob": 0.000301811785902828,
+                    "sentence": "The Australian Financial Review is starting a weekly email Opinion newsletter to help subscribers stay across the key debates.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0003033602552022785,
+                    "sentence": "The first edition hits inboxes this Sunday.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00036769904545508325,
+                    "sentence": "As our business model shifts more to digital subscriptions, email newsletters combine the accessibility of digital with the traditional curation of print.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.00041067018173635006,
+                    "sentence": "The \"oped\" pages of the Financial Review provide an expert forum for leading thinkers to discuss major domestic and international issues, and to promote policy ideas that encourage business and market-led prosperity.The Opinion newsletter will provide a selection of the best commentary from our regular columnists, external contributors, The AFR View editorials, and our companies, markets, economics and political staff writers led by Chanticleer, Australia's premier daily business columnist.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004087673150934279,
+                    "sentence": "It will also bring together global commentary from our foreign correspondents with the best syndicated columnists.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0004601295222528279,
+                    "sentence": "And it will feature the award-winning work of Australia's best cartoonist, David Rowe.All it takes to be a \"commentator\" these days is a Twitter account.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                },
+                {
+                    "generated_prob": 0.0006342698470689356,
+                    "sentence": "The Opinion newsletter is the alternative digital public square for those who want to be informed and challenged by some of the brightest minds in Australia and around the world.",
+                    "perplexity": 0,
+                    "highlight_sentence_for_ai": false
+                }
+            ],
+            "paragraphs": [
+                {
+                    "start_sentence_index": 0,
+                    "num_sentences": 7,
+                    "completely_generated_prob": 2.1228438805416278e-06
+                }
+            ],
+            "completely_generated_prob": 0.015657891702602178,
+            "class_probabilities": {
+                "human": 0.9843421082973979,
+                "ai": 0.015657891702602178,
+                "mixed": 0
+            },
+            "average_generated_prob": 0,
+            "predicted_class": "human",
+            "confidence_score": 0.9843421082973979,
+            "confidence_category": "high",
+            "confidence_scores_raw": {
+                "identity": {
+                    "ai": 0.015657891702602178,
+                    "human": 0.9843421082973979,
+                    "mixed": 0
+                }
+            },
+            "confidence_thresholds_raw": {
+                "identity": {
+                    "ai": {
+                        "reject": 0.65,
+                        "low": 0.75,
+                        "medium": 0.92
+                    },
+                    "human": {
+                        "reject": 0.7,
+                        "low": 0.82,
+                        "medium": 0.92
+                    },
+                    "mixed": {
+                        "reject": 0.7,
+                        "low": 0.8,
+                        "medium": 0.88
+                    }
+                }
+            },
+            "overall_burstiness": 0,
+            "writing_stats": {},
+            "subclass": {
+                "ai": {},
+                "human": {},
+                "mixed": {}
+            },
+            "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+            "document_classification": "HUMAN_ONLY",
+            "version": "2025-01-09-base",
+            "language": "en",
+            "inputText": "The Australian Financial Review is starting a weekly email Opinion newsletter to help subscribers stay across the key debates. The first edition hits inboxes this Sunday. As our business model shifts more to digital subscriptions, email newsletters combine the accessibility of digital with the traditional curation of print. The \"oped\" pages of the Financial Review provide an expert forum for leading thinkers to discuss major domestic and international issues, and to promote policy ideas that encourage business and market-led prosperity.The Opinion newsletter will provide a selection of the best commentary from our regular columnists, external contributors, The AFR View editorials, and our companies, markets, economics and political staff writers led by Chanticleer, Australia's premier daily business columnist. It will also bring together global commentary from our foreign correspondents with the best syndicated columnists. And it will feature the award-winning work of Australia's best cartoonist, David Rowe.All it takes to be a \"commentator\" these days is a Twitter account. The Opinion newsletter is the alternative digital public square for those who want to be informed and challenged by some of the brightest minds in Australia and around the world."
+        }
+    ]
+}
